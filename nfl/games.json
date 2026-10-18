@@ -5,7 +5,7 @@
  "season": 2026,
  "week": 6,
  "week_end": "2026-10-19",
- "generated_at_utc": "2026-10-18T11:28:56Z",
+ "generated_at_utc": "2026-10-18T11:40:01Z",
  "note": "Lines are in market_lines (not spread/total_line) so the app shows no prediction until a Cover Writer pick exists. Handicapper entries absent = Pick coming soon.",
  "games": [
   {
@@ -397,12 +397,73 @@
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
-   "spread": "",
+   "spread": "Jacksonville Jaguars −2.5",
    "story_text": "",
    "why_this_score": "",
    "betting_text": "",
-   "total_pick": "",
-   "total_reason_public": ""
+   "total_pick": "Over",
+   "total_reason_public": "",
+   "handicappers": [
+    {
+     "id": "H1",
+     "public_case": "H1: Net ratings Jacksonville Jaguars −0.8, Houston Texans −3.0 (nflverse play-by-play, Oct 18, 2026). Neutral site, no home field. Projected margin Jacksonville Jaguars by 2.3. Line Jacksonville Jaguars −2.5. Edge 0.2. Threshold 2.5 not met. No edge.",
+     "market": "spread",
+     "best_bet": false
+    },
+    {
+     "id": "H2",
+     "stop": "no_edge",
+     "excluded": [
+      "Tank Dell",
+      "David Montgomery",
+      "Jalen Pitre",
+      "Montaric Brown",
+      "Ross Matiscik"
+     ]
+    },
+    {
+     "id": "H3",
+     "qualifies": false
+    },
+    {
+     "id": "H4",
+     "public_case": "H4: Spread opened Jacksonville Jaguars −2.5 (Oct 13, 2026 18:12 UTC), now −2.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 42.5 (Oct 13, 2026 10:20 UTC), now 42.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Spread split 50/50% bets, 51/49% money (Houston Texans/Jacksonville Jaguars, Action Network public betting, Oct 18, 2026 11:32 UTC): same side, no divergence. 53% of bets on Under, 80% of money on Over (Action Network public betting, Oct 18, 2026 11:32 UTC). Divergence 27 meets 15-point threshold. Over.",
+     "market": "total",
+     "best_bet": true,
+     "both_markets_best_bet": false
+    },
+    {
+     "id": "H5",
+     "stop": "metrics_conflict"
+    }
+   ],
+   "sourced_reasons": [
+    "H1: Net ratings Jacksonville Jaguars −0.8, Houston Texans −3.0 (nflverse play-by-play, Oct 18, 2026). Neutral site, no home field. Projected margin Jacksonville Jaguars by 2.3. Line Jacksonville Jaguars −2.5. Edge 0.2. Threshold 2.5 not met. No edge.",
+    "H1 data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
+    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "H3: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+    "H4: Spread opened Jacksonville Jaguars −2.5 (Oct 13, 2026 18:12 UTC), now −2.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 42.5 (Oct 13, 2026 10:20 UTC), now 42.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Spread split 50/50% bets, 51/49% money (Houston Texans/Jacksonville Jaguars, Action Network public betting, Oct 18, 2026 11:32 UTC): same side, no divergence. 53% of bets on Under, 80% of money on Over (Action Network public betting, Oct 18, 2026 11:32 UTC). Divergence 27 meets 15-point threshold. Over.",
+    "H5: no edge – metrics conflict",
+    "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): no starting QB or starting lineman ruled out"
+   ],
+   "total_line": 42.5,
+   "prediction": {
+    "away_score": 24,
+    "home_score": 23,
+    "winner": "Houston Texans",
+    "covers": "Houston Texans +2.5"
+   },
+   "page_note": "No qualifying edge",
+   "line_used": {
+    "home_line": -2.5,
+    "total": 42.5,
+    "source": "Action Network consensus (book_id 15)",
+    "fetched_at_utc": "2026-10-18T11:32:29Z"
+   },
+   "best_bets": {
+    "spread": "",
+    "total": "Best Bet – H4"
+   }
   },
   {
    "game_id": "401872999",
@@ -588,12 +649,73 @@
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
-   "spread": "",
+   "spread": "Chicago Bears −1.5",
    "story_text": "",
    "why_this_score": "",
    "betting_text": "",
-   "total_pick": "",
-   "total_reason_public": ""
+   "total_pick": "Over",
+   "total_reason_public": "",
+   "handicappers": [
+    {
+     "id": "H1",
+     "public_case": "H1: Net ratings Atlanta Falcons 2.6, Chicago Bears −5.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Atlanta Falcons. Projected margin Atlanta Falcons by 10.3. Line Chicago Bears −1.5. Edge 11.8. Threshold 2.5 met. Cover Atlanta Falcons.",
+     "market": "spread",
+     "best_bet": false
+    },
+    {
+     "id": "H2",
+     "stop": "no_edge",
+     "excluded": [
+      "T.J. Edwards",
+      "Keyshaun Elliott",
+      "Kyle Monangai",
+      "Dayo Odeyingbo",
+      "C.J. Henderson"
+     ]
+    },
+    {
+     "id": "H3",
+     "qualifies": false
+    },
+    {
+     "id": "H4",
+     "public_case": "H4: Spread opened Atlanta Falcons +3.5 (Oct 13, 2026 11:08 UTC), now +1.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 2 meets 1-point threshold. Cover Atlanta Falcons. Total opened 49.5 (Oct 13, 2026 06:30 UTC), now 52.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 3 meets 1-point threshold. Over. Spread split 42/58% bets, 41/59% money (Chicago Bears/Atlanta Falcons, Action Network public betting, Oct 18, 2026 11:32 UTC): same side, no divergence. Total split 66/34% bets, 70/30% money (Over/Under, Action Network public betting, Oct 18, 2026 11:32 UTC): same side, no divergence.",
+     "market": "total",
+     "best_bet": true,
+     "both_markets_best_bet": true
+    },
+    {
+     "id": "H5",
+     "stop": "data_not_found"
+    }
+   ],
+   "sourced_reasons": [
+    "H1: Net ratings Atlanta Falcons 2.6, Chicago Bears −5.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Atlanta Falcons. Projected margin Atlanta Falcons by 10.3. Line Chicago Bears −1.5. Edge 11.8. Threshold 2.5 met. Cover Atlanta Falcons.",
+    "H1 data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
+    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "H3: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+    "H4: Spread opened Atlanta Falcons +3.5 (Oct 13, 2026 11:08 UTC), now +1.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 2 meets 1-point threshold. Cover Atlanta Falcons. Total opened 49.5 (Oct 13, 2026 06:30 UTC), now 52.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 3 meets 1-point threshold. Over. Spread split 42/58% bets, 41/59% money (Chicago Bears/Atlanta Falcons, Action Network public betting, Oct 18, 2026 11:32 UTC): same side, no divergence. Total split 66/34% bets, 70/30% money (Over/Under, Action Network public betting, Oct 18, 2026 11:32 UTC): same side, no divergence.",
+    "H5: key trench piece ruled out, season metrics include him (38): Dayo Odeyingbo",
+    "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Dayo Odeyingbo (DE, CHI) Out"
+   ],
+   "total_line": 52.5,
+   "prediction": {
+    "away_score": 27,
+    "home_score": 28,
+    "winner": "Atlanta Falcons",
+    "covers": "Atlanta Falcons +1.5"
+   },
+   "page_note": "",
+   "line_used": {
+    "home_line": 1.5,
+    "total": 52.5,
+    "source": "Action Network consensus (book_id 15)",
+    "fetched_at_utc": "2026-10-18T11:32:29Z"
+   },
+   "best_bets": {
+    "spread": "Best Bet – H4",
+    "total": "Best Bet – H4"
+   }
   },
   {
    "game_id": "401872997",
@@ -919,12 +1041,77 @@
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
-   "spread": "",
+   "spread": "Baltimore Ravens −3",
    "story_text": "",
    "why_this_score": "",
    "betting_text": "",
-   "total_pick": "",
-   "total_reason_public": ""
+   "total_pick": "Under",
+   "total_reason_public": "",
+   "handicappers": [
+    {
+     "id": "H1",
+     "public_case": "H1: Net ratings Baltimore Ravens 1.8, Cleveland Browns −9.6 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Cleveland Browns. Projected margin Baltimore Ravens by 9.6. Line Baltimore Ravens −3. Edge 6.6. Threshold 2.5 met. Cover Baltimore Ravens.",
+     "market": "spread",
+     "best_bet": false
+    },
+    {
+     "id": "H2",
+     "stop": "no_edge",
+     "excluded": [
+      "Matthew Hibner",
+      "Cam Jurgens",
+      "Broderick Washington",
+      "Kalia Davis",
+      "Mike Hall Jr.",
+      "Teven Jenkins",
+      "Dylan Sampson"
+     ]
+    },
+    {
+     "id": "H3",
+     "qualifies": false
+    },
+    {
+     "id": "H4",
+     "public_case": "H4: Spread opened Cleveland Browns +4.5 (Oct 13, 2026 06:30 UTC), now +3 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets 1-point threshold. Cover Cleveland Browns. Total opened 41.5 (Oct 13, 2026 07:33 UTC), now 39.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 2 meets 1-point threshold. Under.",
+     "market": "total",
+     "best_bet": true,
+     "both_markets_best_bet": false
+    },
+    {
+     "id": "H5",
+     "stop": "data_not_found"
+    }
+   ],
+   "sourced_reasons": [
+    "H1: Net ratings Baltimore Ravens 1.8, Cleveland Browns −9.6 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Cleveland Browns. Projected margin Baltimore Ravens by 9.6. Line Baltimore Ravens −3. Edge 6.6. Threshold 2.5 met. Cover Baltimore Ravens.",
+    "H1 data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
+    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "H3: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+    "H4: Spread opened Cleveland Browns +4.5 (Oct 13, 2026 06:30 UTC), now +3 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets 1-point threshold. Cover Cleveland Browns. Total opened 41.5 (Oct 13, 2026 07:33 UTC), now 39.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 2 meets 1-point threshold. Under.",
+    "H4 spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H4 total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H5: key trench piece ruled out, season metrics include him (38): Cam Jurgens, Broderick Washington, Kalia Davis, Mike Hall Jr., Teven Jenkins",
+    "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Cam Jurgens (C, BAL) Out; Broderick Washington (DE, BAL) Out; Kalia Davis (DT, CLE) Out; Mike Hall Jr. (DT, CLE) Out; Teven Jenkins (G, CLE) Out"
+   ],
+   "total_line": 39.5,
+   "prediction": {
+    "away_score": 20,
+    "home_score": 13,
+    "winner": "Baltimore Ravens",
+    "covers": "Baltimore Ravens −3"
+   },
+   "page_note": "",
+   "line_used": {
+    "home_line": 3,
+    "total": 39.5,
+    "source": "Action Network consensus (book_id 15)",
+    "fetched_at_utc": "2026-10-18T11:32:29Z"
+   },
+   "best_bets": {
+    "spread": "",
+    "total": "Best Bet – H4"
+   }
   },
   {
    "game_id": "401873003",
@@ -1159,12 +1346,76 @@
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
-   "spread": "",
+   "spread": "Indianapolis Colts −6.5",
    "story_text": "",
    "why_this_score": "",
    "betting_text": "",
-   "total_pick": "",
-   "total_reason_public": ""
+   "total_pick": "Under",
+   "total_reason_public": "",
+   "handicappers": [
+    {
+     "id": "H1",
+     "public_case": "H1: Net ratings Indianapolis Colts −6.2, Tennessee Titans −8.6 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Indianapolis Colts. Projected margin Indianapolis Colts by 4.1. Line Indianapolis Colts −6.5. Edge 2.4. Threshold 2.5 not met. No edge.",
+     "market": "spread",
+     "best_bet": false
+    },
+    {
+     "id": "H2",
+     "stop": "no_edge",
+     "excluded": [
+      "Jordan Elliott",
+      "Kevin Winston Jr.",
+      "Jaylon Carlies",
+      "Ashton Dulin"
+     ]
+    },
+    {
+     "id": "H3",
+     "qualifies": false
+    },
+    {
+     "id": "H4",
+     "public_case": "H4: Spread opened Indianapolis Colts −7 (Oct 13, 2026 07:13 UTC), now −6.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. Total opened 44 (Oct 13, 2026 17:44 UTC), now 44.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. No edge.",
+     "market": null,
+     "best_bet": false,
+     "both_markets_best_bet": false
+    },
+    {
+     "id": "H5",
+     "public_case": "H5: Tennessee Titans 3.8 ypc vs Indianapolis Colts allows 5.3; Indianapolis Colts 3.8 ypc vs Tennessee Titans allows 3.8. Sack rate Tennessee Titans generates 6.4% vs Indianapolis Colts allows 4.4%; Indianapolis Colts generates 5.9% vs Tennessee Titans allows 5.4% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
+     "market": "spread",
+     "best_bet": false
+    }
+   ],
+   "sourced_reasons": [
+    "H1: Net ratings Indianapolis Colts −6.2, Tennessee Titans −8.6 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Indianapolis Colts. Projected margin Indianapolis Colts by 4.1. Line Indianapolis Colts −6.5. Edge 2.4. Threshold 2.5 not met. No edge.",
+    "H1 data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
+    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "H3: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+    "H4: Spread opened Indianapolis Colts −7 (Oct 13, 2026 07:13 UTC), now −6.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. Total opened 44 (Oct 13, 2026 17:44 UTC), now 44.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. No edge.",
+    "H4 spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H4 total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H5: Tennessee Titans 3.8 ypc vs Indianapolis Colts allows 5.3; Indianapolis Colts 3.8 ypc vs Tennessee Titans allows 3.8. Sack rate Tennessee Titans generates 6.4% vs Indianapolis Colts allows 4.4%; Indianapolis Colts generates 5.9% vs Tennessee Titans allows 5.4% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
+    "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Jordan Elliott (DT, TEN) Out"
+   ],
+   "total_line": 44.5,
+   "prediction": {
+    "away_score": 17,
+    "home_score": 20,
+    "winner": "Indianapolis Colts",
+    "covers": "Tennessee Titans +6.5"
+   },
+   "page_note": "No qualifying edge",
+   "line_used": {
+    "home_line": -6.5,
+    "total": 44.5,
+    "source": "Action Network consensus (book_id 15)",
+    "fetched_at_utc": "2026-10-18T11:32:29Z"
+   },
+   "best_bets": {
+    "spread": "",
+    "total": ""
+   }
   },
   {
    "game_id": "401873001",
@@ -1399,12 +1650,76 @@
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
-   "spread": "",
+   "spread": "New England Patriots −7.5",
    "story_text": "",
    "why_this_score": "",
    "betting_text": "",
-   "total_pick": "",
-   "total_reason_public": ""
+   "total_pick": "Under",
+   "total_reason_public": "",
+   "handicappers": [
+    {
+     "id": "H1",
+     "public_case": "H1: Net ratings New England Patriots 2.9, New York Jets −4.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to New England Patriots. Projected margin New England Patriots by 8.7. Line New England Patriots −7.5. Edge 1.2. Threshold 2.5 not met. No edge.",
+     "market": "spread",
+     "best_bet": false
+    },
+    {
+     "id": "H2",
+     "stop": "no_edge",
+     "excluded": [
+      "Breece Hall",
+      "Adonai Mitchell",
+      "Joseph Ossai",
+      "Dylan Parham",
+      "Carlton Davis III",
+      "Karon Prunty"
+     ]
+    },
+    {
+     "id": "H3",
+     "qualifies": false
+    },
+    {
+     "id": "H4",
+     "public_case": "H4: Spread opened New England Patriots −7.5 (Oct 13, 2026 10:37 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 43.5 (Oct 13, 2026 08:56 UTC), now 43.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. No edge.",
+     "market": null,
+     "best_bet": false,
+     "both_markets_best_bet": false
+    },
+    {
+     "id": "H5",
+     "stop": "data_not_found"
+    }
+   ],
+   "sourced_reasons": [
+    "H1: Net ratings New England Patriots 2.9, New York Jets −4.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to New England Patriots. Projected margin New England Patriots by 8.7. Line New England Patriots −7.5. Edge 1.2. Threshold 2.5 not met. No edge.",
+    "H1 data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
+    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "H3: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+    "H4: Spread opened New England Patriots −7.5 (Oct 13, 2026 10:37 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 43.5 (Oct 13, 2026 08:56 UTC), now 43.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. No edge.",
+    "H4 spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H4 total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H5: key trench piece ruled out, season metrics include him (38): Joseph Ossai, Dylan Parham",
+    "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Joseph Ossai (DE, NYJ) Out; Dylan Parham (G, NYJ) Out"
+   ],
+   "total_line": 43.5,
+   "prediction": {
+    "away_score": 16,
+    "home_score": 20,
+    "winner": "New England Patriots",
+    "covers": "New York Jets +7.5"
+   },
+   "page_note": "No qualifying edge",
+   "line_used": {
+    "home_line": -7.5,
+    "total": 43.5,
+    "source": "Action Network consensus (book_id 15)",
+    "fetched_at_utc": "2026-10-18T11:32:29Z"
+   },
+   "best_bets": {
+    "spread": "",
+    "total": ""
+   }
   },
   {
    "game_id": "401873000",
@@ -1653,12 +1968,77 @@
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
-   "spread": "",
+   "spread": "New Orleans Saints −1.5",
    "story_text": "",
    "why_this_score": "",
    "betting_text": "",
-   "total_pick": "",
-   "total_reason_public": ""
+   "total_pick": "Under",
+   "total_reason_public": "",
+   "handicappers": [
+    {
+     "id": "H1",
+     "public_case": "H1: Net ratings New Orleans Saints −10.3, New York Giants −11.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to New York Giants. Projected margin New York Giants by 0.1. Line New Orleans Saints −1.5. Edge 1.6. Threshold 2.5 not met. No edge.",
+     "market": "spread",
+     "best_bet": false
+    },
+    {
+     "id": "H2",
+     "stop": "no_edge",
+     "excluded": [
+      "Kaden Elliss",
+      "Anfernee Jennings",
+      "Colton Hood",
+      "Theo Johnson",
+      "Tyler Nubin"
+     ]
+    },
+    {
+     "id": "H3",
+     "qualifies": false
+    },
+    {
+     "id": "H4",
+     "public_case": "H4: Spread opened New York Giants +1.5 (Oct 13, 2026 08:56 UTC), now +1.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 45.5 (Oct 13, 2026 10:59 UTC), now 46 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. No edge.",
+     "market": null,
+     "best_bet": false,
+     "both_markets_best_bet": false
+    },
+    {
+     "id": "H5",
+     "public_case": "H5: New Orleans Saints 3.5 ypc vs New York Giants allows 5.4; New York Giants 3.9 ypc vs New Orleans Saints allows 5.1. Sack rate New Orleans Saints generates 6.2% vs New York Giants allows 7.3%; New York Giants generates 4.8% vs New Orleans Saints allows 6.2% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
+     "market": "spread",
+     "best_bet": false
+    }
+   ],
+   "sourced_reasons": [
+    "H1: Net ratings New Orleans Saints −10.3, New York Giants −11.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to New York Giants. Projected margin New York Giants by 0.1. Line New Orleans Saints −1.5. Edge 1.6. Threshold 2.5 not met. No edge.",
+    "H1 data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
+    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "H3: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+    "H4: Spread opened New York Giants +1.5 (Oct 13, 2026 08:56 UTC), now +1.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 45.5 (Oct 13, 2026 10:59 UTC), now 46 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. No edge.",
+    "H4 spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H4 total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H5: New Orleans Saints 3.5 ypc vs New York Giants allows 5.4; New York Giants 3.9 ypc vs New Orleans Saints allows 5.1. Sack rate New Orleans Saints generates 6.2% vs New York Giants allows 7.3%; New York Giants generates 4.8% vs New Orleans Saints allows 6.2% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
+    "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): no starting QB or starting lineman ruled out"
+   ],
+   "total_line": 46,
+   "prediction": {
+    "away_score": 17,
+    "home_score": 20,
+    "winner": "New York Giants",
+    "covers": "New York Giants +1.5"
+   },
+   "page_note": "No qualifying edge",
+   "line_used": {
+    "home_line": 1.5,
+    "total": 46,
+    "source": "Action Network consensus (book_id 15)",
+    "fetched_at_utc": "2026-10-18T11:32:29Z"
+   },
+   "best_bets": {
+    "spread": "",
+    "total": ""
+   }
   },
   {
    "game_id": "401872998",
@@ -1977,12 +2357,66 @@
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
-   "spread": "",
+   "spread": "Carolina Panthers −3",
    "story_text": "",
    "why_this_score": "",
    "betting_text": "",
-   "total_pick": "",
-   "total_reason_public": ""
+   "total_pick": "Under",
+   "total_reason_public": "",
+   "handicappers": [
+    {
+     "id": "H1",
+     "public_case": "H1: Net ratings Carolina Panthers −1.2, Philadelphia Eagles −8.3 (nflverse play-by-play, Oct 18, 2026). Philadelphia Eagles rating includes −1.5 for starting QB ruled out (NFL.com injury report, Oct 18, 2026 11:32 UTC; rule 157/156 item 1). Home field +1.75 to Philadelphia Eagles. Projected margin Carolina Panthers by 5.4. Line Carolina Panthers −3. Edge 2.4. Threshold 2.5 not met. No edge.",
+     "market": "spread",
+     "best_bet": false
+    },
+    {
+     "id": "H2",
+     "stop": "data_not_found",
+     "excluded": []
+    },
+    {
+     "id": "H3",
+     "qualifies": false
+    },
+    {
+     "id": "H4",
+     "stop": "data_not_found"
+    },
+    {
+     "id": "H5",
+     "stop": "data_not_found"
+    }
+   ],
+   "sourced_reasons": [
+    "H1: Net ratings Carolina Panthers −1.2, Philadelphia Eagles −8.3 (nflverse play-by-play, Oct 18, 2026). Philadelphia Eagles rating includes −1.5 for starting QB ruled out (NFL.com injury report, Oct 18, 2026 11:32 UTC; rule 157/156 item 1). Home field +1.75 to Philadelphia Eagles. Projected margin Carolina Panthers by 5.4. Line Carolina Panthers −3. Edge 2.4. Threshold 2.5 not met. No edge.",
+    "H1 data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
+    "H2: starting QB ruled out; drop value 1.5 (QB minimum, rule 09/157 item 23); line movement since news not sourced -> no edge – data not found",
+    "H3: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+    "H4 move test: starting QB ruled out; post-news baseline (28) not sourced -> no edge – data not found",
+    "H4 spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H4 total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H5: key trench piece ruled out, season metrics include him (38): Landon Dickerson",
+    "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Landon Dickerson (G, PHI) Out; QB J.Hurts (PHI) Out"
+   ],
+   "total_line": 39,
+   "prediction": {
+    "away_score": 16,
+    "home_score": 17,
+    "winner": "Philadelphia Eagles",
+    "covers": "Philadelphia Eagles +3"
+   },
+   "page_note": "No qualifying edge",
+   "line_used": {
+    "home_line": 3,
+    "total": 39,
+    "source": "Action Network consensus (book_id 15)",
+    "fetched_at_utc": "2026-10-18T11:32:29Z"
+   },
+   "best_bets": {
+    "spread": "",
+    "total": ""
+   }
   },
   {
    "game_id": "401873002",
@@ -2196,12 +2630,75 @@
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
-   "spread": "",
+   "spread": "Pittsburgh Steelers −2.5",
    "story_text": "",
    "why_this_score": "",
    "betting_text": "",
-   "total_pick": "",
-   "total_reason_public": ""
+   "total_pick": "Under",
+   "total_reason_public": "",
+   "handicappers": [
+    {
+     "id": "H1",
+     "public_case": "H1: Net ratings Pittsburgh Steelers −6.6, Tampa Bay Buccaneers −6.8 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Tampa Bay Buccaneers. Projected margin Tampa Bay Buccaneers by 1.6. Line Pittsburgh Steelers −2.5. Edge 4.1. Threshold 2.5 met. Cover Tampa Bay Buccaneers.",
+     "market": "spread",
+     "best_bet": false
+    },
+    {
+     "id": "H2",
+     "stop": "no_edge",
+     "excluded": [
+      "DeShon Elliott",
+      "Ben Skowronek",
+      "Roman Wilson",
+      "David Sills",
+      "Antoine Winfield Jr."
+     ]
+    },
+    {
+     "id": "H3",
+     "qualifies": false
+    },
+    {
+     "id": "H4",
+     "public_case": "H4: Spread opened Tampa Bay Buccaneers +3 (Oct 13, 2026 07:45 UTC), now +2.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. Total opened 40.5 (Oct 13, 2026 07:45 UTC), now 38.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 2 meets 1-point threshold. Under.",
+     "market": "total",
+     "best_bet": true,
+     "both_markets_best_bet": false
+    },
+    {
+     "id": "H5",
+     "stop": "metrics_conflict"
+    }
+   ],
+   "sourced_reasons": [
+    "H1: Net ratings Pittsburgh Steelers −6.6, Tampa Bay Buccaneers −6.8 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Tampa Bay Buccaneers. Projected margin Tampa Bay Buccaneers by 1.6. Line Pittsburgh Steelers −2.5. Edge 4.1. Threshold 2.5 met. Cover Tampa Bay Buccaneers.",
+    "H1 data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
+    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "H3: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+    "H4: Spread opened Tampa Bay Buccaneers +3 (Oct 13, 2026 07:45 UTC), now +2.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. Total opened 40.5 (Oct 13, 2026 07:45 UTC), now 38.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 2 meets 1-point threshold. Under.",
+    "H4 spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H4 total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H5: no edge – metrics conflict",
+    "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): no starting QB or starting lineman ruled out"
+   ],
+   "total_line": 38.5,
+   "prediction": {
+    "away_score": 16,
+    "home_score": 17,
+    "winner": "Tampa Bay Buccaneers",
+    "covers": "Tampa Bay Buccaneers +2.5"
+   },
+   "page_note": "",
+   "line_used": {
+    "home_line": 2.5,
+    "total": 38.5,
+    "source": "Action Network consensus (book_id 15)",
+    "fetched_at_utc": "2026-10-18T11:32:29Z"
+   },
+   "best_bets": {
+    "spread": "",
+    "total": "Best Bet – H4"
+   }
   },
   {
    "game_id": "401873004",
@@ -2420,7 +2917,65 @@
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "",
-   "total_reason_public": ""
+   "total_reason_public": "",
+   "handicappers": [
+    {
+     "id": "H1",
+     "public_case": "H1: Net ratings Los Angeles Rams 6.1, Arizona Cardinals −8.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Los Angeles Rams. Projected margin Los Angeles Rams by 16.8. Line Los Angeles Rams −12.5. Edge 4.3. Threshold 2.5 met. Cover Los Angeles Rams.",
+     "market": "spread",
+     "best_bet": false
+    },
+    {
+     "id": "H2",
+     "stop": "no_edge",
+     "excluded": [
+      "Jeremiyah Love",
+      "Wydett Williams Jr.",
+      "Andrew Wingard"
+     ]
+    },
+    {
+     "id": "H3",
+     "qualifies": false
+    },
+    {
+     "id": "H4",
+     "public_case": "H4: Spread opened Los Angeles Rams −13 (Oct 13, 2026 05:35 UTC), now −12.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. Total opened 52.5 (Oct 13, 2026 05:38 UTC), now 51.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Under.",
+     "market": "total",
+     "best_bet": true,
+     "both_markets_best_bet": false
+    },
+    {
+     "id": "H5",
+     "public_case": "H5: Arizona Cardinals 3.6 ypc vs Los Angeles Rams allows 4.6; Los Angeles Rams 4.8 ypc vs Arizona Cardinals allows 4.6. Sack rate Arizona Cardinals generates 7.3% vs Los Angeles Rams allows 3.2%; Los Angeles Rams generates 5.2% vs Arizona Cardinals allows 6.1% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
+     "market": "spread",
+     "best_bet": false
+    }
+   ],
+   "sourced_reasons": [
+    "H1: Net ratings Los Angeles Rams 6.1, Arizona Cardinals −8.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Los Angeles Rams. Projected margin Los Angeles Rams by 16.8. Line Los Angeles Rams −12.5. Edge 4.3. Threshold 2.5 met. Cover Los Angeles Rams.",
+    "H1 data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
+    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "H3: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+    "H4: Spread opened Los Angeles Rams −13 (Oct 13, 2026 05:35 UTC), now −12.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. Total opened 52.5 (Oct 13, 2026 05:38 UTC), now 51.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Under.",
+    "H4 spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H4 total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H5: Arizona Cardinals 3.6 ypc vs Los Angeles Rams allows 4.6; Los Angeles Rams 4.8 ypc vs Arizona Cardinals allows 4.6. Sack rate Arizona Cardinals generates 7.3% vs Los Angeles Rams allows 3.2%; Los Angeles Rams generates 5.2% vs Arizona Cardinals allows 6.1% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
+    "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): no starting QB or starting lineman ruled out"
+   ],
+   "pending_pick": {
+    "covering_side": "Los Angeles Rams −12.5",
+    "ou_pick": "Under 51.5",
+    "notes": {
+     "spread": "",
+     "total": ""
+    },
+    "best_bets": {
+     "spread": "",
+     "total": "Best Bet – H4"
+    },
+    "reason": "awaiting Cover Writer close"
+   }
   },
   {
    "game_id": "401873006",
@@ -2681,7 +3236,67 @@
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "",
-   "total_reason_public": ""
+   "total_reason_public": "",
+   "handicappers": [
+    {
+     "id": "H1",
+     "public_case": "H1: Net ratings Kansas City Chiefs 0.8, Los Angeles Chargers −5.5 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Kansas City Chiefs. Projected margin Kansas City Chiefs by 8.0. Line Kansas City Chiefs −7.5. Edge 0.5. Threshold 2.5 not met. No edge.",
+     "market": "spread",
+     "best_bet": false
+    },
+    {
+     "id": "H2",
+     "stop": "no_edge",
+     "excluded": [
+      "Joe Alt",
+      "Kayode Awosika",
+      "Tre Harris",
+      "Donte Jackson",
+      "Derwin James",
+      "Rashee Rice",
+      "Josh Simmons"
+     ]
+    },
+    {
+     "id": "H3",
+     "qualifies": false
+    },
+    {
+     "id": "H4",
+     "public_case": "H4: Spread opened Kansas City Chiefs −8.5 (Oct 13, 2026 10:31 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Cover Los Angeles Chargers. Total opened 42.5 (Oct 13, 2026 12:04 UTC), now 41.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Under.",
+     "market": "total",
+     "best_bet": true,
+     "both_markets_best_bet": true
+    },
+    {
+     "id": "H5",
+     "stop": "data_not_found"
+    }
+   ],
+   "sourced_reasons": [
+    "H1: Net ratings Kansas City Chiefs 0.8, Los Angeles Chargers −5.5 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Kansas City Chiefs. Projected margin Kansas City Chiefs by 8.0. Line Kansas City Chiefs −7.5. Edge 0.5. Threshold 2.5 not met. No edge.",
+    "H1 data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
+    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "H3: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+    "H4: Spread opened Kansas City Chiefs −8.5 (Oct 13, 2026 10:31 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Cover Los Angeles Chargers. Total opened 42.5 (Oct 13, 2026 12:04 UTC), now 41.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Under.",
+    "H4 spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H4 total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H5: key trench piece ruled out, season metrics include him (38): Joe Alt, Kayode Awosika, Josh Simmons",
+    "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Joe Alt (T, LAC) Out; Kayode Awosika (G, LAC) Out; Josh Simmons (T, KC) Out"
+   ],
+   "pending_pick": {
+    "covering_side": "Los Angeles Chargers +7.5",
+    "ou_pick": "Under 41.5",
+    "notes": {
+     "spread": "",
+     "total": ""
+    },
+    "best_bets": {
+     "spread": "Best Bet – H4",
+     "total": "Best Bet – H4"
+    },
+    "reason": "awaiting Cover Writer close"
+   }
   },
   {
    "game_id": "401873005",
@@ -2942,7 +3557,63 @@
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "",
-   "total_reason_public": ""
+   "total_reason_public": "",
+   "handicappers": [
+    {
+     "id": "H1",
+     "public_case": "H1: Net ratings Buffalo Bills 5.4, Las Vegas Raiders −9.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Las Vegas Raiders. Projected margin Buffalo Bills by 13.5. Line Buffalo Bills −5. Edge 8.5. Threshold 2.5 met. Cover Buffalo Bills.",
+     "market": "spread",
+     "best_bet": false
+    },
+    {
+     "id": "H2",
+     "stop": "no_edge",
+     "excluded": [
+      "Tonka Hemingway",
+      "Carter Runyon",
+      "Dont'e Thornton Jr."
+     ]
+    },
+    {
+     "id": "H3",
+     "qualifies": false
+    },
+    {
+     "id": "H4",
+     "public_case": "H4: Spread opened Las Vegas Raiders +6 (Oct 13, 2026 04:54 UTC), now +5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Cover Las Vegas Raiders. Total opened 53 (Oct 13, 2026 05:36 UTC), now 53.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold.",
+     "market": "spread",
+     "best_bet": false,
+     "both_markets_best_bet": false
+    },
+    {
+     "id": "H5",
+     "stop": "data_not_found"
+    }
+   ],
+   "sourced_reasons": [
+    "H1: Net ratings Buffalo Bills 5.4, Las Vegas Raiders −9.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Las Vegas Raiders. Projected margin Buffalo Bills by 13.5. Line Buffalo Bills −5. Edge 8.5. Threshold 2.5 met. Cover Buffalo Bills.",
+    "H1 data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
+    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "H3: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+    "H4: Spread opened Las Vegas Raiders +6 (Oct 13, 2026 04:54 UTC), now +5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Cover Las Vegas Raiders. Total opened 53 (Oct 13, 2026 05:36 UTC), now 53.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold.",
+    "H4 spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H4 total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H5: key trench piece ruled out, season metrics include him (38): Tonka Hemingway",
+    "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Tonka Hemingway (DT, LV) Out"
+   ],
+   "pending_pick": {
+    "covering_side": "Buffalo Bills −5",
+    "ou_pick": "Under 53.5",
+    "notes": {
+     "spread": "",
+     "total": "No qualifying edge"
+    },
+    "best_bets": {
+     "spread": "",
+     "total": ""
+    },
+    "reason": "awaiting Cover Writer close"
+   }
   },
   {
    "game_id": "401873007",
@@ -3196,7 +3867,68 @@
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "",
-   "total_reason_public": ""
+   "total_reason_public": "",
+   "handicappers": [
+    {
+     "id": "H1",
+     "public_case": "H1: Net ratings Green Bay Packers −0.6, Dallas Cowboys −6.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Green Bay Packers. Projected margin Green Bay Packers by 8.0. Line Green Bay Packers −1.5. Edge 6.5. Threshold 2.5 met. Cover Green Bay Packers.",
+     "market": "spread",
+     "best_bet": false
+    },
+    {
+     "id": "H2",
+     "stop": "no_edge",
+     "excluded": [
+      "Cobie Durant",
+      "Drew Shelton",
+      "Jonathan Ford",
+      "Javon Hargrave",
+      "Skyy Moore",
+      "Benjamin St-Juste"
+     ]
+    },
+    {
+     "id": "H3",
+     "qualifies": false
+    },
+    {
+     "id": "H4",
+     "public_case": "H4: Spread opened Green Bay Packers −1.5 (Oct 13, 2026 16:31 UTC), now −1.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 52.5 (Oct 13, 2026 04:28 UTC), now 53.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Over.",
+     "market": "total",
+     "best_bet": true,
+     "both_markets_best_bet": false
+    },
+    {
+     "id": "H5",
+     "public_case": "H5: Dallas Cowboys 3.8 ypc vs Green Bay Packers allows 4.2; Green Bay Packers 3.4 ypc vs Dallas Cowboys allows 5.3. Sack rate Dallas Cowboys generates 3.5% vs Green Bay Packers allows 5.2%; Green Bay Packers generates 7.5% vs Dallas Cowboys allows 3.0% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
+     "market": "spread",
+     "best_bet": false
+    }
+   ],
+   "sourced_reasons": [
+    "H1: Net ratings Green Bay Packers −0.6, Dallas Cowboys −6.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Green Bay Packers. Projected margin Green Bay Packers by 8.0. Line Green Bay Packers −1.5. Edge 6.5. Threshold 2.5 met. Cover Green Bay Packers.",
+    "H1 data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
+    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "H3: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+    "H4: Spread opened Green Bay Packers −1.5 (Oct 13, 2026 16:31 UTC), now −1.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 52.5 (Oct 13, 2026 04:28 UTC), now 53.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Over.",
+    "H4 spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H4 total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H5: Dallas Cowboys 3.8 ypc vs Green Bay Packers allows 4.2; Green Bay Packers 3.4 ypc vs Dallas Cowboys allows 5.3. Sack rate Dallas Cowboys generates 3.5% vs Green Bay Packers allows 5.2%; Green Bay Packers generates 7.5% vs Dallas Cowboys allows 3.0% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
+    "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Drew Shelton (T, DAL) Out; Jonathan Ford (DT, GB) Out; Javon Hargrave (DT, GB) Out"
+   ],
+   "pending_pick": {
+    "covering_side": "Green Bay Packers −1.5",
+    "ou_pick": "Over 53.5",
+    "notes": {
+     "spread": "",
+     "total": ""
+    },
+    "best_bets": {
+     "spread": "",
+     "total": "Best Bet – H4"
+    },
+    "reason": "awaiting Cover Writer close"
+   }
   },
   {
    "game_id": "401873008",
@@ -3549,7 +4281,68 @@
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "",
-   "total_reason_public": ""
+   "total_reason_public": "",
+   "handicappers": [
+    {
+     "id": "H1",
+     "public_case": "H1: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to San Francisco 49ers. Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Edge 13.1. Threshold 2.5 met. Cover San Francisco 49ers.",
+     "market": "spread",
+     "best_bet": false
+    },
+    {
+     "id": "H2",
+     "stop": "no_edge",
+     "excluded": [
+      "Jacory Croskey-Merritt",
+      "Javontae Jean-Baptiste",
+      "Charles Omenihu",
+      "Nick Bosa",
+      "Deebo Samuel Sr.",
+      "Marques Sigle",
+      "Garret Wallow"
+     ]
+    },
+    {
+     "id": "H3",
+     "qualifies": false
+    },
+    {
+     "id": "H4",
+     "public_case": "H4: Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 50.5 (Oct 13, 2026 05:04 UTC), now 52 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets 1-point threshold. Over.",
+     "market": "total",
+     "best_bet": true,
+     "both_markets_best_bet": false
+    },
+    {
+     "id": "H5",
+     "stop": "data_not_found"
+    }
+   ],
+   "sourced_reasons": [
+    "H1: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to San Francisco 49ers. Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Edge 13.1. Threshold 2.5 met. Cover San Francisco 49ers.",
+    "H1 data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
+    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "H3: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+    "H4: Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 50.5 (Oct 13, 2026 05:04 UTC), now 52 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets 1-point threshold. Over.",
+    "H4 spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H4 total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
+    "H5: key trench piece ruled out, season metrics include him (38): Charles Omenihu, Nick Bosa",
+    "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Charles Omenihu (DE, WAS) Out; Nick Bosa (DE, SF) Out"
+   ],
+   "pending_pick": {
+    "covering_side": "San Francisco 49ers −7.5",
+    "ou_pick": "Over 52",
+    "notes": {
+     "spread": "",
+     "total": ""
+    },
+    "best_bets": {
+     "spread": "",
+     "total": "Best Bet – H4"
+    },
+    "reason": "awaiting Cover Writer close"
+   }
   }
- ]
+ ],
+ "variant": "A"
 }
