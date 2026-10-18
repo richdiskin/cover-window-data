@@ -3746,12 +3746,12 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "Kansas City Chiefs −7.5",
-   "story_text": "",
+   "story_text": "Chiefs cover the 7.5. Over 41.5. The season scoring averages project 45.67 points against a 41.5 total, with Kansas City's figure built from four games.",
    "why_this_score": "",
    "betting_text": "",
-   "total_pick": "Under",
+   "total_pick": "Over",
    "total_reason_public": "",
-   "fanatic_final_sentence": "Chiefs 25, Chargers 16.",
+   "fanatic_final_sentence": "",
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/lac and https://www.espn.com/nfl/team/_/name/kc (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/lac, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/kc), retrieved 2026-10-18T11:44:50Z",
     "401873006_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
@@ -3763,14 +3763,7 @@
      "id": "H1",
      "public_case": "H1: Net ratings Kansas City Chiefs 0.8, Los Angeles Chargers −5.5 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Kansas City Chiefs. Projected margin Kansas City Chiefs by 8.0. Line Kansas City Chiefs −7.5. Edge 0.5. Threshold 2.5 not met. No edge.",
      "market": "spread",
-     "best_bet": false,
-     "projected": {
-      "home": 25,
-      "away": 17,
-      "total": 42,
-      "detail": "Net ratings Kansas City Chiefs 0.8, Los Angeles Chargers -5.5 (nflverse pbp, Oct 18, 2026); home field +1.75 to Kansas City Chiefs; margin +8.0 Kansas City Chiefs. Total 41.5 = current consensus total (H1 has no totals model)."
-     },
-     "projected_text": "Projected: Kansas City Chiefs 25, Los Angeles Chargers 17 (Total 42)"
+     "best_bet": false
     },
     {
      "id": "H2",
@@ -3783,26 +3776,12 @@
       "Derwin James",
       "Rashee Rice",
       "Josh Simmons"
-     ],
-     "projected": {
-      "home": 25,
-      "away": 17,
-      "total": 42,
-      "detail": "H1 base margin +8.0; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin +8.0, total 41.5 (H1 total)."
-     },
-     "projected_text": "Projected: Kansas City Chiefs 25, Los Angeles Chargers 17 (Total 42)"
+     ]
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
-     "projected": {
-      "home": 25,
-      "away": 17,
-      "total": 42,
-      "detail": "No scheduling system triggers; equals H1 base margin +8.0, total 41.5 (H1 total)."
-     },
-     "projected_text": "Projected: Kansas City Chiefs 25, Los Angeles Chargers 17 (Total 42)"
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
     },
     {
      "id": "H4",
@@ -3810,24 +3789,11 @@
      "market": "total",
      "best_bet": true,
      "both_markets_best_bet": true,
-     "projected": {
-      "home": 25,
-      "away": 17,
-      "total": 42,
-      "detail": "Market number: current consensus line Kansas City Chiefs −7.5 (home margin +7.5), total 41.5 (Action Network consensus, 2026-10-18T11:32:29Z)."
-     },
-     "projected_text": "Projected: Kansas City Chiefs 25, Los Angeles Chargers 17 (Total 42)"
+     "total_trigger": "Under"
     },
     {
      "id": "H5",
-     "stop": "data_not_found",
-     "projected": {
-      "home": 25,
-      "away": 17,
-      "total": 42,
-      "detail": "key trench piece out (rule 38), gaps not measured, no adjustment; equals H1 base margin +8.0, total 41.5 (H1 total)."
-     },
-     "projected_text": "Projected: Kansas City Chiefs 25, Los Angeles Chargers 17 (Total 42)"
+     "stop": "data_not_found"
     }
    ],
    "sourced_reasons": [
@@ -3843,9 +3809,9 @@
    ],
    "total_line": 41.5,
    "prediction": {
-    "away_score": 16,
-    "home_score": 25,
-    "winner": "Kansas City Chiefs",
+    "away_score": null,
+    "home_score": null,
+    "winner": null,
     "covers": "Kansas City Chiefs −7.5"
    },
    "page_note": "",
@@ -3859,8 +3825,8 @@
     "spread": "",
     "total": ""
    },
-   "gambler_story": "The Los Angeles Chargers (0-5) visit the Kansas City Chiefs (4-0) at Arrowhead Stadium, kicking off at 4:25 PM ET Sunday, Oct 18, on CBS. The game opened with Kansas City at −8.5 on Oct 13 at 10:31 UTC. As of Oct 18 at 11:32 UTC the consensus is Chiefs −7.5, a full point toward the Chargers. The number now sits a half-point above 7, the second key number, so a Chiefs win by exactly 7 lands on the Chargers' side.\n\nThe total moved down a point as well, from 42.5 (Oct 13, 12:04 UTC) to 41.5. No bets-versus-money split was published free.\n\nThe ratings agree with the current number almost exactly. Play-by-play efficiency has Kansas City at +0.8 and the Chargers at −5.5. Add 1.75 points of home field and the projection is Chiefs by 8.0, only half a point past the 7.5. The market has moved toward the Chargers despite their 0-5 record.\n\nThe trenches are where this game gets complicated. The Chargers are without tackle Joe Alt and guard Kayode Awosika, two starters up front whose play is still inside their season numbers. Kansas City is also missing tackle Josh Simmons. No point figure was found for those absences, so none were applied to the number.\n\nThe Chargers' defensive list is long. Safety Derwin James and cornerback Donte Jackson are out, cornerback Rodney Shelley is doubtful, receiver Tre Harris is out, and defensive tackles Dalvin Tomlinson and Jamaree Caldwell are questionable. Kansas City plays without receiver Rashee Rice, with cornerback L'Jarius Sneed questionable. No starting quarterback is out on either side.\n\nKansas City, 2-0 at home, has scored 118 points and allowed only 77 in four games. The Chargers, 0-2 on the road, have scored only 84 and allowed 129 in five. Two offenses with real absences and one stingy defense support the drop in the total. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate Kansas City at 0.8 and the Chargers at −5.5. I add 1.75 points of home field for Kansas City. That projects Kansas City by 8.0. The market has Kansas City at −7.5, so the gap is 0.5 points, inside my 2.5-point cutoff. No edge.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so nobody gets priced. No edge.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No edge.\n\nH4 - Follow The Money: Kansas City went from −8.5 on Oct 13 to −7.5, a 1-point move. The total went from 42.5 to 41.5. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. Edge: the Chargers on the side and the Under on the total.\n\nH5 - In The Trenches: Joe Alt, Kayode Awosika and Josh Simmons are ruled out, and my season numbers still include them, so I don't grade this matchup. No edge.\n\nChiefs 25, Chargers 16, Chiefs cover the 7.5, Under 41.5. No qualifying edge.",
-   "fanatic_story": "The Los Angeles Chargers (0-5) visit the Kansas City Chiefs (4-0) at Arrowhead Stadium in Kansas City, kickoff 4:25 PM ET Sunday, Oct 18, on CBS.\n\nThis AFC West meeting pairs an unbeaten team with a winless one. Kansas City is unbeaten, 2-0 at home and 2-0 away, and has allowed just 77 points in four games while scoring 118. The Chargers are winless, 0-2 on the road, with 84 points scored and 129 allowed.\n\nThe Chargers' injury report is long. Tackle Joe Alt and guard Kayode Awosika are out, two starters up front whose play is still built into the season numbers. Safety Derwin James, cornerback Donte Jackson and receiver Tre Harris are out, and cornerback Rodney Shelley is doubtful. Defensive tackles Dalvin Tomlinson and Jamaree Caldwell, defensive end Bud Dupree, linebacker Daiyan Henley and receivers KeAndre Lambert-Smith and Brenen Thompson are questionable.\n\nKansas City has fewer absences but notable ones. Receiver Rashee Rice and tackle Josh Simmons are out, and cornerback L'Jarius Sneed is questionable.\n\nThe season ratings have Kansas City at +0.8 and the Chargers at −5.5. With 1.75 points of home field, they project the Chiefs by 8.0.\n\nThere is no scheduling angle; both teams arrive on a normal week.\n\nThe matchup to watch is the Chargers' rebuilt blocking without Alt and Awosika, and a secondary without James and Jackson, against a Kansas City team that has not lost. On the other side, the Chiefs play without Rice and without Simmons at tackle. Here is how our five handicappers see it.\n\nH1 - The Formula: My ratings project Kansas City by 8.0. Not a big enough gap to call.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so no one else counts. Nothing qualified.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. Nothing qualified.\n\nH4 - Follow The Money: Follow The Money sits out the Fanatic edition.\n\nH5 - In The Trenches: Joe Alt, Kayode Awosika and Josh Simmons are ruled out, and my season numbers still include them, so I don't grade this matchup. Nothing qualified.\n\nChiefs 25, Chargers 16.",
+   "gambler_story": "The Los Angeles Chargers (0-5) visit the Kansas City Chiefs (4-0) at Arrowhead Stadium, kicking off at 4:25 PM ET Sunday, Oct 18, on CBS. The game opened with Kansas City at −8.5 on Oct 13 at 10:31 UTC. As of Oct 18 at 11:32 UTC the consensus is Chiefs −7.5, a full point toward the Chargers. The number now sits a half-point above 7, the second key number, so a Chiefs win by exactly 7 lands on the Chargers' side.\n\nThe total moved down a point as well, from 42.5 (Oct 13, 12:04 UTC) to 41.5. No bets-versus-money split was published free.\n\nThe ratings agree with the current number almost exactly. Play-by-play efficiency has Kansas City at +0.8 and the Chargers at −5.5. Add 1.75 points of home field and the projection is Chiefs by 8.0, only half a point past the 7.5. The market has moved toward the Chargers despite their 0-5 record.\n\nThe trenches are where this game gets complicated. The Chargers are without tackle Joe Alt and guard Kayode Awosika, two starters up front whose play is still inside their season numbers. Kansas City is also missing tackle Josh Simmons. No point figure was found for those absences, so none were applied to the number.\n\nThe Chargers' defensive list is long. Safety Derwin James and cornerback Donte Jackson are out, cornerback Rodney Shelley is doubtful, receiver Tre Harris is out, and defensive tackles Dalvin Tomlinson and Jamaree Caldwell are questionable. Kansas City plays without receiver Rashee Rice, with cornerback L'Jarius Sneed questionable. No starting quarterback is out on either side.\n\nKansas City, 2-0 at home, has scored 118 points and allowed only 77 in four games. The Chargers, 0-2 on the road, have scored only 84 and allowed 129 in five. Two offenses with real absences and one stingy defense support the drop in the total. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate Kansas City at 0.8 and the Chargers at −5.5. I add 1.75 points of home field for Kansas City. That projects Kansas City by 8.0. The market has Kansas City at −7.5, so the gap is 0.5 points, inside my 2.5-point cutoff. No edge.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so nobody gets priced. No edge.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No edge.\n\nH4 - Follow The Money: Kansas City went from −8.5 on Oct 13 to −7.5, a 1-point move. The total went from 42.5 to 41.5. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. Edge: the Chargers on the side and the Under on the total.\n\nH5 - In The Trenches: Joe Alt, Kayode Awosika and Josh Simmons are ruled out, and my season numbers still include them, so I don't grade this matchup. No edge.\n\nChiefs cover the 7.5. Over 41.5.",
+   "fanatic_story": "The Los Angeles Chargers (0-5) visit the Kansas City Chiefs (4-0) at Arrowhead Stadium in Kansas City, kickoff 4:25 PM ET Sunday, Oct 18, on CBS.\n\nThis AFC West meeting pairs an unbeaten team with a winless one. Kansas City is unbeaten, 2-0 at home and 2-0 away, and has allowed just 77 points in four games while scoring 118. The Chargers are winless, 0-2 on the road, with 84 points scored and 129 allowed.\n\nThe Chargers' injury report is long. Tackle Joe Alt and guard Kayode Awosika are out, two starters up front whose play is still built into the season numbers. Safety Derwin James, cornerback Donte Jackson and receiver Tre Harris are out, and cornerback Rodney Shelley is doubtful. Defensive tackles Dalvin Tomlinson and Jamaree Caldwell, defensive end Bud Dupree, linebacker Daiyan Henley and receivers KeAndre Lambert-Smith and Brenen Thompson are questionable.\n\nKansas City has fewer absences but notable ones. Receiver Rashee Rice and tackle Josh Simmons are out, and cornerback L'Jarius Sneed is questionable.\n\nThe season ratings have Kansas City at +0.8 and the Chargers at −5.5. With 1.75 points of home field, they project the Chiefs by 8.0.\n\nThere is no scheduling angle; both teams arrive on a normal week.\n\nThe matchup to watch is the Chargers' rebuilt blocking without Alt and Awosika, and a secondary without James and Jackson, against a Kansas City team that has not lost. On the other side, the Chiefs play without Rice and without Simmons at tackle. Here is how our five handicappers see it.\n\nH1 - The Formula: My ratings project Kansas City by 8.0. Not a big enough gap to call.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so no one else counts. Nothing qualified.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. Nothing qualified.\n\nH4 - Follow The Money: Follow The Money sits out the Fanatic edition.\n\nH5 - In The Trenches: Joe Alt, Kayode Awosika and Josh Simmons are ruled out, and my season numbers still include them, so I don't grade this matchup. Nothing qualified.\n\nFinal score: not projected.",
    "preview_sources": [
     "401873006_facts.md: records, venue, kickoff, TV, NFL.com injury report (https://www.nfl.com/injuries/league/2026/reg6, fetched 2026-10-18T11:28:22Z), consensus line 2026-10-18T11:28:15Z",
     "espn_team_records.json: home/road splits, points for/against (ESPN team API, retrieved 2026-10-18T11:44Z)",
@@ -3872,7 +3838,32 @@
     "Net ratings, projection, trench figures: picks_wave2.json (nflverse play-by-play, Oct 18, 2026)",
     "Records/points: espn_team_records.json (ESPN team API, retrieved 2026-10-18T11:44Z)",
     "Published pick and score: closes_wave2.json"
-   ]
+   ],
+   "writer_total": {
+    "label": "Projected total (H1)",
+    "source": "H1",
+    "projected_total": 45.67,
+    "market_total": 41.5,
+    "edge": 4.17,
+    "bar": 2.5,
+    "pick": "Over",
+    "text": "Over 41.5 · Edge 4.17",
+    "sample_games": {
+     "LAC": 5,
+     "KC": 4
+    },
+    "sample_text": "KC: 4 games",
+    "inputs": [
+     {
+      "id": "H1",
+      "total": 45.67,
+      "away_pts": null,
+      "home_pts": null,
+      "note": "Rule 165: each team's projected points = mean(own points scored per game, opponent points allowed per game); 2026 REG weeks 1-5, nflverse games (https://github.com/nflverse/nfldata/raw/master/data/games.csv, retrieved 2026-10-18T17:39Z); no home field, no multiplier; qualifies at 2.5"
+     }
+    ]
+   },
+   "rule_version": "166"
   },
   {
    "game_id": "401873005",
