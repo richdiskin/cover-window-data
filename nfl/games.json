@@ -3489,7 +3489,59 @@
      }
     ]
    },
-   "rule_version": "166"
+   "rule_version": "166",
+   "display": {
+    "writer": {
+     "score_line": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)",
+     "side": "Los Angeles Rams −12.5",
+     "ou": "Under 51.5",
+     "label": "Average of H1–H5"
+    },
+    "handicappers": [
+     {
+      "name": "H1 - The Formula",
+      "side_line": "Side: Los Angeles Rams −12.5 · Edge 4.3 – qualifies",
+      "ou_line": "O/U: Under 51.5 · No edge (0.60, under the 2.5 bar)",
+      "score_line": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)",
+      "basis_line": "Net ratings Los Angeles Rams 6.1, Arizona Cardinals −8.9 + home field 1.75 = Rams by 16.8; total 50.9 (rule-165 method, sample ARI 5 games, LAR 5 games)."
+     },
+     {
+      "name": "H2 - Next Man Up",
+      "side_line": "Side: Los Angeles Rams −12.5 · No edge",
+      "ou_line": "O/U: Under 51.5 · No edge",
+      "score_line": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)",
+      "basis_line": "Equals H1 base – no priced drops."
+     },
+     {
+      "name": "H3 - Letdown Watch",
+      "side_line": "Side: Los Angeles Rams −12.5 · No edge",
+      "ou_line": "O/U: Under 51.5 · No edge",
+      "score_line": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)",
+      "basis_line": "Equals H1 base – no system triggered."
+     },
+     {
+      "name": "H4 - Follow The Money",
+      "side_line": "Side: No edge (line move under 1 point)",
+      "ou_line": "O/U: Under 51.5 · Total move 1+ – qualifies",
+      "score_line": "Projected: Los Angeles Rams 32, Arizona Cardinals 19 (Total 51)",
+      "basis_line": "Market: Los Angeles Rams −12.5, total 51.5 (Action Network consensus 2026-10-18T18:44:36Z)."
+     },
+     {
+      "name": "H5 - In The Trenches",
+      "side_line": "Side: Los Angeles Rams −12.5 · No edge",
+      "ou_line": "O/U: Under 51.5 · No edge",
+      "score_line": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)",
+      "basis_line": "Equals H1 base – trench gaps not priced."
+     }
+    ],
+    "best_bets": [
+     "Best Bet – H1 (spread)",
+     "Best Bet – H4 (total)"
+    ],
+    "story_text": "Rams 34, Cardinals 17. Rams cover the 12.5. Under 51.5. The rating gap projects Los Angeles by 16.8 against a 12.5-point line.",
+    "fanatic_score_line": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)"
+   },
+   "locked": false
   },
   {
    "game_id": "401873006",
@@ -3863,7 +3915,58 @@
      }
     ]
    },
-   "rule_version": "166"
+   "rule_version": "166",
+   "display": {
+    "writer": {
+     "score_line": "Projected: Kansas City Chiefs 26, Los Angeles Chargers 19 (Total 45)",
+     "side": "Los Angeles Chargers +7.5",
+     "ou": "Over 41.5",
+     "label": "Average of H1–H5"
+    },
+    "handicappers": [
+     {
+      "name": "H1 - The Formula",
+      "side_line": "Side: Kansas City Chiefs −7.5 · No edge (0.5, under the 2.5 bar)",
+      "ou_line": "O/U: Over 41.5 · Edge 4.17 – qualifies",
+      "score_line": "Projected: Kansas City Chiefs 27, Los Angeles Chargers 19 (Total 46)",
+      "basis_line": "Net ratings Kansas City Chiefs 0.8, Los Angeles Chargers −5.5 + home field 1.75 = Chiefs by 8.0; total 45.67 (rule-165 method, sample LAC 5 games, KC 4 games)."
+     },
+     {
+      "name": "H2 - Next Man Up",
+      "side_line": "Side: Kansas City Chiefs −7.5 · No edge",
+      "ou_line": "O/U: Over 41.5 · No edge",
+      "score_line": "Projected: Kansas City Chiefs 27, Los Angeles Chargers 19 (Total 46)",
+      "basis_line": "Equals H1 base – no priced drops."
+     },
+     {
+      "name": "H3 - Letdown Watch",
+      "side_line": "Side: Kansas City Chiefs −7.5 · No edge",
+      "ou_line": "O/U: Over 41.5 · No edge",
+      "score_line": "Projected: Kansas City Chiefs 27, Los Angeles Chargers 19 (Total 46)",
+      "basis_line": "Equals H1 base – no system triggered."
+     },
+     {
+      "name": "H4 - Follow The Money",
+      "side_line": "Side: Los Angeles Chargers +7.5 · Line move 1+ – qualifies",
+      "ou_line": "O/U: Under 41.5 · Total move 1+ – qualifies",
+      "score_line": "Projected: Kansas City Chiefs 24, Los Angeles Chargers 17 (Total 41)",
+      "basis_line": "Market: Kansas City Chiefs −7.5, total 41.5 (Action Network consensus 2026-10-18T18:44:36Z)."
+     },
+     {
+      "name": "H5 - In The Trenches",
+      "side_line": "Side: Kansas City Chiefs −7.5 · No edge",
+      "ou_line": "O/U: Over 41.5 · No edge",
+      "score_line": "Projected: Kansas City Chiefs 27, Los Angeles Chargers 19 (Total 46)",
+      "basis_line": "Equals H1 base – trench gaps not priced."
+     }
+    ],
+    "best_bets": [
+     "Best Bet – H4 (spread)"
+    ],
+    "story_text": "Chiefs 26, Chargers 19. Chargers cover the 7.5. Over 41.5. The line moved from Kansas City −8.5 to −7.5 since it opened.",
+    "fanatic_score_line": "Projected: Kansas City Chiefs 26, Los Angeles Chargers 19 (Total 45)"
+   },
+   "locked": false
   },
   {
    "game_id": "401873005",
@@ -4241,7 +4344,59 @@
      }
     ]
    },
-   "rule_version": "166"
+   "rule_version": "166",
+   "display": {
+    "writer": {
+     "score_line": "Projected: Las Vegas Raiders 22, Buffalo Bills 34 (Total 56)",
+     "side": "Buffalo Bills −5.5",
+     "ou": "Over 53.5",
+     "label": "Average of H1–H5"
+    },
+    "handicappers": [
+     {
+      "name": "H1 - The Formula",
+      "side_line": "Side: Buffalo Bills −5.5 · Edge 8.0 – qualifies",
+      "ou_line": "O/U: Over 53.5 · Edge 3.10 – qualifies",
+      "score_line": "Projected: Las Vegas Raiders 22, Buffalo Bills 35 (Total 57)",
+      "basis_line": "Net ratings Buffalo Bills 5.4, Las Vegas Raiders −9.9, home field 1.75 to Raiders = Bills by 13.5; total 56.6 (rule-165 method, sample BUF 5 games, LV 5 games)."
+     },
+     {
+      "name": "H2 - Next Man Up",
+      "side_line": "Side: Buffalo Bills −5.5 · No edge",
+      "ou_line": "O/U: Over 53.5 · No edge",
+      "score_line": "Projected: Las Vegas Raiders 22, Buffalo Bills 35 (Total 57)",
+      "basis_line": "Equals H1 base – no priced drops."
+     },
+     {
+      "name": "H3 - Letdown Watch",
+      "side_line": "Side: Buffalo Bills −5.5 · No edge",
+      "ou_line": "O/U: Over 53.5 · No edge",
+      "score_line": "Projected: Las Vegas Raiders 22, Buffalo Bills 35 (Total 57)",
+      "basis_line": "Equals H1 base – no system triggered."
+     },
+     {
+      "name": "H4 - Follow The Money",
+      "side_line": "Side: No edge (line move under 1 point)",
+      "ou_line": "O/U: No edge (total move under 1 point)",
+      "score_line": "Projected: Las Vegas Raiders 24, Buffalo Bills 30 (Total 54)",
+      "basis_line": "Market: Buffalo Bills −5.5, total 53.5 (Action Network consensus 2026-10-18T18:44:36Z)."
+     },
+     {
+      "name": "H5 - In The Trenches",
+      "side_line": "Side: Buffalo Bills −5.5 · No edge",
+      "ou_line": "O/U: Over 53.5 · No edge",
+      "score_line": "Projected: Las Vegas Raiders 22, Buffalo Bills 35 (Total 57)",
+      "basis_line": "Equals H1 base – trench gaps not priced."
+     }
+    ],
+    "best_bets": [
+     "Best Bet – H1 (spread)",
+     "Best Bet – H1 (total)"
+    ],
+    "story_text": "Bills 34, Raiders 22. Bills cover the 5.5. Over 53.5. The rating gap projects Buffalo by 13.5 against a 5.5-point line.",
+    "fanatic_score_line": "Projected: Las Vegas Raiders 22, Buffalo Bills 34 (Total 56)"
+   },
+   "locked": false
   },
   {
    "game_id": "401873007",
@@ -4615,7 +4770,58 @@
      }
     ]
    },
-   "rule_version": "166"
+   "rule_version": "166",
+   "display": {
+    "writer": {
+     "score_line": "Projected: Green Bay Packers 29, Dallas Cowboys 21 (Total 50)",
+     "side": "Green Bay Packers −1.5",
+     "ou": "Under 53.5",
+     "label": "Average of H1–H5"
+    },
+    "handicappers": [
+     {
+      "name": "H1 - The Formula",
+      "side_line": "Side: Green Bay Packers −1.5 · Edge 6.5 – qualifies",
+      "ou_line": "O/U: Under 53.5 · Edge 4.50 – qualifies",
+      "score_line": "Projected: Green Bay Packers 29, Dallas Cowboys 20 (Total 49)",
+      "basis_line": "Net ratings Green Bay Packers −0.6, Dallas Cowboys −6.9 + home field 1.75 = Packers by 8.0; total 49.0 (rule-165 method, sample DAL 5 games, GB 5 games)."
+     },
+     {
+      "name": "H2 - Next Man Up",
+      "side_line": "Side: Green Bay Packers −1.5 · No edge",
+      "ou_line": "O/U: Under 53.5 · No edge",
+      "score_line": "Projected: Green Bay Packers 29, Dallas Cowboys 20 (Total 49)",
+      "basis_line": "Equals H1 base – no priced drops."
+     },
+     {
+      "name": "H3 - Letdown Watch",
+      "side_line": "Side: Green Bay Packers −1.5 · No edge",
+      "ou_line": "O/U: Under 53.5 · No edge",
+      "score_line": "Projected: Green Bay Packers 29, Dallas Cowboys 20 (Total 49)",
+      "basis_line": "Equals H1 base – no system triggered."
+     },
+     {
+      "name": "H4 - Follow The Money",
+      "side_line": "Side: No edge (line move under 1 point)",
+      "ou_line": "O/U: Over 53.5 · Total move 1+ – qualifies",
+      "score_line": "Projected: Green Bay Packers 28, Dallas Cowboys 26 (Total 54)",
+      "basis_line": "Market: Green Bay Packers −1.5, total 53.5 (Action Network consensus 2026-10-18T18:44:36Z)."
+     },
+     {
+      "name": "H5 - In The Trenches",
+      "side_line": "Side: Green Bay Packers −1.5 · No edge",
+      "ou_line": "O/U: Under 53.5 · No edge",
+      "score_line": "Projected: Green Bay Packers 29, Dallas Cowboys 20 (Total 49)",
+      "basis_line": "Equals H1 base – trench gaps not priced."
+     }
+    ],
+    "best_bets": [
+     "Best Bet – H1 (spread)"
+    ],
+    "story_text": "Packers 29, Cowboys 21. Packers cover the 1.5. Under 53.5. The rating gap projects Green Bay by 8 against a 1.5-point line.",
+    "fanatic_score_line": "Projected: Green Bay Packers 29, Dallas Cowboys 21 (Total 50)"
+   },
+   "locked": false
   },
   {
    "game_id": "401873008",
@@ -5085,7 +5291,59 @@
      }
     ]
    },
-   "rule_version": "166"
+   "rule_version": "166",
+   "display": {
+    "writer": {
+     "score_line": "Projected: San Francisco 49ers 35, Washington Commanders 16 (Total 51)",
+     "side": "San Francisco 49ers −7.5",
+     "ou": "Under 52",
+     "label": "Average of H1–H5"
+    },
+    "handicappers": [
+     {
+      "name": "H1 - The Formula",
+      "side_line": "Side: San Francisco 49ers −7.5 · Edge 13.1 – qualifies",
+      "ou_line": "O/U: Under 52 · No edge (0.90, under the 2.5 bar)",
+      "score_line": "Projected: San Francisco 49ers 36, Washington Commanders 15 (Total 51)",
+      "basis_line": "Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 + home field 1.75 = 49ers by 20.6; total 51.1 (rule-165 method, sample WAS 5 games, SF 5 games)."
+     },
+     {
+      "name": "H2 - Next Man Up",
+      "side_line": "Side: San Francisco 49ers −7.5 · No edge",
+      "ou_line": "O/U: Under 52 · No edge",
+      "score_line": "Projected: San Francisco 49ers 36, Washington Commanders 15 (Total 51)",
+      "basis_line": "Equals H1 base – no priced drops."
+     },
+     {
+      "name": "H3 - Letdown Watch",
+      "side_line": "Side: San Francisco 49ers −7.5 · No edge",
+      "ou_line": "O/U: Under 52 · No edge",
+      "score_line": "Projected: San Francisco 49ers 36, Washington Commanders 15 (Total 51)",
+      "basis_line": "Equals H1 base – no system triggered."
+     },
+     {
+      "name": "H4 - Follow The Money",
+      "side_line": "Side: No edge (line move under 1 point)",
+      "ou_line": "O/U: Over 52 · Total move 1+ – qualifies",
+      "score_line": "Projected: San Francisco 49ers 30, Washington Commanders 22 (Total 52)",
+      "basis_line": "Market: San Francisco 49ers −7.5, total 52 (Action Network consensus 2026-10-18T18:44:36Z)."
+     },
+     {
+      "name": "H5 - In The Trenches",
+      "side_line": "Side: San Francisco 49ers −7.5 · No edge",
+      "ou_line": "O/U: Under 52 · No edge",
+      "score_line": "Projected: San Francisco 49ers 36, Washington Commanders 15 (Total 51)",
+      "basis_line": "Equals H1 base – trench gaps not priced."
+     }
+    ],
+    "best_bets": [
+     "Best Bet – H1 (spread)",
+     "Best Bet – H4 (total)"
+    ],
+    "story_text": "49ers 35, Commanders 16. 49ers cover the 7.5. Under 52. The rating gap projects San Francisco by 20.6 against a 7.5-point line.",
+    "fanatic_score_line": "Projected: San Francisco 49ers 35, Washington Commanders 16 (Total 51)"
+   },
+   "locked": false
   }
  ],
  "variant": "A"
