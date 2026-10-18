@@ -5,7 +5,7 @@
  "season": 2026,
  "week": 6,
  "week_end": "2026-10-19",
- "generated_at_utc": "2026-10-18T11:43:01Z",
+ "generated_at_utc": "2026-10-18T11:44:14Z",
  "note": "Lines are in market_lines (not spread/total_line) so the app shows no prediction until a Cover Writer pick exists. Handicapper entries absent = Pick coming soon.",
  "games": [
   {
@@ -400,7 +400,7 @@
    "spread": "Jacksonville Jaguars −2.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "Texans 24, Jaguars 23. Texans cover the 2.5. Over 42.5. No qualifying edge.",
+   "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
    "handicappers": [
@@ -453,8 +453,6 @@
     "winner": "Houston Texans",
     "covers": "Houston Texans +2.5"
    },
-   "fanatic_close": "Texans 24, Jaguars 23.",
-   "gambler_close": "Texans 24, Jaguars 23. Texans cover the 2.5. Over 42.5. No qualifying edge.",
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": -2.5,
@@ -654,7 +652,7 @@
    "spread": "Chicago Bears −1.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "Falcons 34, Bears 24. Falcons cover the 1.5. Over 52.5. The rating gap projects Atlanta by 10.3 with Chicago favored by 1.5.",
+   "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
    "handicappers": [
@@ -707,8 +705,6 @@
     "winner": "Atlanta Falcons",
     "covers": "Atlanta Falcons +1.5"
    },
-   "fanatic_close": "Falcons 34, Bears 24.",
-   "gambler_close": "Falcons 34, Bears 24. Falcons cover the 1.5. Over 52.5. The rating gap projects Atlanta by 10.3 with Chicago favored by 1.5.",
    "page_note": "",
    "line_used": {
     "home_line": 1.5,
@@ -1048,7 +1044,7 @@
    "spread": "Baltimore Ravens −3",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "Ravens 23, Browns 13. Ravens cover the 3. Under 39.5. The rating gap projects Baltimore by 9.6 against a 3-point line.",
+   "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
@@ -1105,8 +1101,6 @@
     "winner": "Baltimore Ravens",
     "covers": "Baltimore Ravens −3"
    },
-   "fanatic_close": "Ravens 23, Browns 13.",
-   "gambler_close": "Ravens 23, Browns 13. Ravens cover the 3. Under 39.5. The rating gap projects Baltimore by 9.6 against a 3-point line.",
    "page_note": "",
    "line_used": {
     "home_line": 3,
@@ -1355,7 +1349,7 @@
    "spread": "Indianapolis Colts −6.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "Colts 20, Titans 17. Titans cover the 6.5. Under 44.5. No qualifying edge.",
+   "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
@@ -1411,8 +1405,6 @@
     "winner": "Indianapolis Colts",
     "covers": "Tennessee Titans +6.5"
    },
-   "fanatic_close": "Colts 20, Titans 17.",
-   "gambler_close": "Colts 20, Titans 17. Titans cover the 6.5. Under 44.5. No qualifying edge.",
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": -6.5,
@@ -1661,7 +1653,7 @@
    "spread": "New England Patriots −7.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "Patriots 20, Jets 16. Jets cover the 7.5. Under 43.5. No qualifying edge.",
+   "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
@@ -1717,8 +1709,6 @@
     "winner": "New England Patriots",
     "covers": "New York Jets +7.5"
    },
-   "fanatic_close": "Patriots 20, Jets 16.",
-   "gambler_close": "Patriots 20, Jets 16. Jets cover the 7.5. Under 43.5. No qualifying edge.",
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": -7.5,
@@ -1981,7 +1971,7 @@
    "spread": "New Orleans Saints −1.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "Giants 20, Saints 17. Giants cover the 1.5. Under 46. No qualifying edge.",
+   "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
@@ -2038,8 +2028,6 @@
     "winner": "New York Giants",
     "covers": "New York Giants +1.5"
    },
-   "fanatic_close": "Giants 20, Saints 17.",
-   "gambler_close": "Giants 20, Saints 17. Giants cover the 1.5. Under 46. No qualifying edge.",
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": 1.5,
@@ -2372,7 +2360,7 @@
    "spread": "Carolina Panthers −3",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "Eagles 17, Panthers 16. Eagles cover the 3. Under 39. No qualifying edge.",
+   "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
@@ -2418,8 +2406,6 @@
     "winner": "Philadelphia Eagles",
     "covers": "Philadelphia Eagles +3"
    },
-   "fanatic_close": "Eagles 17, Panthers 16.",
-   "gambler_close": "Eagles 17, Panthers 16. Eagles cover the 3. Under 39. No qualifying edge.",
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": 3,
@@ -2647,7 +2633,7 @@
    "spread": "Pittsburgh Steelers −2.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "Buccaneers 19, Steelers 17. Buccaneers cover the 2.5. Under 38.5. The rating gap projects Tampa Bay by 1.6 with Pittsburgh favored by 2.5.",
+   "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
@@ -2702,8 +2688,6 @@
     "winner": "Tampa Bay Buccaneers",
     "covers": "Tampa Bay Buccaneers +2.5"
    },
-   "fanatic_close": "Buccaneers 19, Steelers 17.",
-   "gambler_close": "Buccaneers 19, Steelers 17. Buccaneers cover the 2.5. Under 38.5. The rating gap projects Tampa Bay by 1.6 with Pittsburgh favored by 2.5.",
    "page_note": "",
    "line_used": {
     "home_line": 2.5,
@@ -2931,7 +2915,7 @@
    "spread": "Los Angeles Rams −12.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "Rams 31, Cardinals 14. Rams cover the 12.5. Under 51.5. The rating gap projects Los Angeles by 16.8 against a 12.5-point line.",
+   "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
@@ -2986,8 +2970,6 @@
     "winner": "Los Angeles Rams",
     "covers": "Los Angeles Rams −12.5"
    },
-   "fanatic_close": "Rams 31, Cardinals 14.",
-   "gambler_close": "Rams 31, Cardinals 14. Rams cover the 12.5. Under 51.5. The rating gap projects Los Angeles by 16.8 against a 12.5-point line.",
    "page_note": "",
    "line_used": {
     "home_line": -12.5,
@@ -3257,7 +3239,7 @@
    "spread": "Kansas City Chiefs −7.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "Chiefs 20, Chargers 16. Chargers cover the 7.5. Under 41.5. The line moved from Kansas City −8.5 on Oct 13 to −7.5 on Oct 18.",
+   "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
@@ -3314,8 +3296,6 @@
     "winner": "Kansas City Chiefs",
     "covers": "Los Angeles Chargers +7.5"
    },
-   "fanatic_close": "Chiefs 20, Chargers 16.",
-   "gambler_close": "Chiefs 20, Chargers 16. Chargers cover the 7.5. Under 41.5. The line moved from Kansas City −8.5 on Oct 13 to −7.5 on Oct 18.",
    "page_note": "",
    "line_used": {
     "home_line": -7.5,
@@ -3585,7 +3565,7 @@
    "spread": "Buffalo Bills −5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "Bills 30, Raiders 17. Bills cover the 5. Under 53.5. The rating gap projects Buffalo by 13.5 against a 5-point line.",
+   "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
@@ -3638,8 +3618,6 @@
     "winner": "Buffalo Bills",
     "covers": "Buffalo Bills −5"
    },
-   "fanatic_close": "Bills 30, Raiders 17.",
-   "gambler_close": "Bills 30, Raiders 17. Bills cover the 5. Under 53.5. The rating gap projects Buffalo by 13.5 against a 5-point line.",
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": 5,
@@ -3902,7 +3880,7 @@
    "spread": "Green Bay Packers −1.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "Packers 32, Cowboys 24. Packers cover the 1.5. Over 53.5. The rating gap projects Green Bay by 8 against a 1.5-point line.",
+   "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
    "handicappers": [
@@ -3960,8 +3938,6 @@
     "winner": "Green Bay Packers",
     "covers": "Green Bay Packers −1.5"
    },
-   "fanatic_close": "Packers 32, Cowboys 24.",
-   "gambler_close": "Packers 32, Cowboys 24. Packers cover the 1.5. Over 53.5. The rating gap projects Green Bay by 8 against a 1.5-point line.",
    "page_note": "",
    "line_used": {
     "home_line": -1.5,
@@ -4323,7 +4299,7 @@
    "spread": "San Francisco 49ers −7.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "49ers 38, Commanders 17. 49ers cover the 7.5. Over 52. The rating gap projects San Francisco by 20.6 against a 7.5-point line.",
+   "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
    "handicappers": [
@@ -4380,8 +4356,6 @@
     "winner": "San Francisco 49ers",
     "covers": "San Francisco 49ers −7.5"
    },
-   "fanatic_close": "49ers 38, Commanders 17.",
-   "gambler_close": "49ers 38, Commanders 17. 49ers cover the 7.5. Over 52. The rating gap projects San Francisco by 20.6 against a 7.5-point line.",
    "page_note": "",
    "line_used": {
     "home_line": -7.5,
