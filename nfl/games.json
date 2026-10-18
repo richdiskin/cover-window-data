@@ -5,7 +5,7 @@
  "season": 2026,
  "week": 6,
  "week_end": "2026-10-19",
- "generated_at_utc": "2026-10-18T11:46:03Z",
+ "generated_at_utc": "2026-10-18T11:47:34Z",
  "note": "Lines are in market_lines (not spread/total_line) so the app shows no prediction until a Cover Writer pick exists. Handicapper entries absent = Pick coming soon.",
  "games": [
   {
@@ -398,11 +398,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "Jacksonville Jaguars −2.5",
-   "story_text": "The Texans (1-4) face the Jaguars (4-1), kicking off at 9:30 AM ET Sun Oct 18 on NFL Net at Wembley Stadium, London, England (neutral site).\n\nHouston lists wide receiver Tank Dell, running back David Montgomery and safety Jalen Pitre as out. Houston lists cornerback Ja'Marcus Ingram and linebacker Henry To'oTo'o as questionable. Jacksonville lists cornerback Montaric Brown and long snapper Ross Matiscik as out. Jacksonville lists cornerback Jaylon Jones as questionable.\n\nJacksonville is 4-1 overall and 3-0 at home, with 123 points scored and 70 allowed in 5 games.\n\nHouston is 1-4 overall and 1-1 on the road, with 110 points scored and 112 allowed in 5 games.\n\nThe Formula rated Jacksonville at −0.8 and Houston at −3.0, with no home field at a neutral site. It projected Jacksonville by 2.3 with Jacksonville at −2.5, only a 0.2-point edge, short of the 2.5-point threshold. Next Man Up found no starting quarterback ruled out, so its 1.5-point quarterback figure was not triggered, and no point figure was found for the other absences. Letdown Watch found no short-week, long-rest, travel or back-to-back spot that meets its threshold. Follow The Money saw Jacksonville hold at −2.5, under its 1-point threshold, and the total hold at 42.5, also under the threshold. Bets and money on the spread split 50/50 and 51/49, no divergence. On the total, 53% of bets were on the Under and 80% of money on the Over, a 27-point divergence that points to the Over. In The Trenches found no edge because its metrics conflict.\n\nTexans 24, Jaguars 23, Texans cover the 2.5, Over 42.5. No qualifying edge.",
+   "story_text": "",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
+   "fanatic_final_sentence": "Texans 24, Jaguars 23.",
+   "story_sources": [
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/hou and https://www.espn.com/nfl/team/_/name/jax (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/hou, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/jax), retrieved 2026-10-18T11:44:47Z",
+    "401872996_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
+    "picks_wave0.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
+    "closes_wave0.json"
+   ],
    "handicappers": [
     {
      "id": "H1",
@@ -453,13 +460,6 @@
     "winner": "Houston Texans",
     "covers": "Houston Texans +2.5"
    },
-   "fanatic_final_sentence": "Texans 24, Jaguars 23.",
-   "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/hou and https://www.espn.com/nfl/team/_/name/jax (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/hou, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/jax), retrieved 2026-10-18T11:44:47Z",
-    "401872996_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
-    "picks_wave0.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
-    "closes_wave0.json"
-   ],
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": -2.5,
@@ -657,11 +657,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "Chicago Bears −1.5",
-   "story_text": "The Bears (3-2) face the Falcons (2-3), kicking off at 1:00 PM ET Sun Oct 18 on Fox at Mercedes-Benz Stadium, Atlanta, GA.\n\nChicago lists linebacker T.J. Edwards, linebacker Keyshaun Elliott, running back Kyle Monangai and defensive end Dayo Odeyingbo as out. Chicago lists cornerback Kyler Gordon, cornerback Tyrique Stevenson and quarterback Caleb Williams as questionable. Atlanta lists cornerback C.J. Henderson as out. Atlanta lists defensive end Za'Darius Smith as questionable.\n\nAtlanta is 2-3 overall and 0-2 at home, with 119 points scored and 122 allowed in 5 games.\n\nChicago is 3-2 overall and 1-1 on the road, with 119 points scored and 96 allowed in 5 games.\n\nThe Formula rated Atlanta at 2.6 and Chicago at −5.9, with 1.75 points of home field to Atlanta. It projected Atlanta by 10.3 with Chicago at −1.5, an 11.8-point edge, past the 2.5-point threshold. Next Man Up found no starting quarterback ruled out, so its 1.5-point quarterback figure was not triggered, and no point figure was found for the other absences. Letdown Watch found no short-week, long-rest, travel or back-to-back spot that meets its threshold. Follow The Money saw Atlanta move from +3.5 to +1.5, enough to side with Atlanta, and the total move from 49.5 to 52.5, enough for the Over. Bets and money on the spread split 42/58 and 41/59, no divergence. Bets and money on the total split 66/34 and 70/30, no divergence. In The Trenches flagged Dayo Odeyingbo as a ruled-out trench starter whose play is still built into the season numbers.\n\nFalcons 34, Bears 24, Falcons cover the 1.5, Over 52.5.",
+   "story_text": "",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
+   "fanatic_final_sentence": "Falcons 34, Bears 24.",
+   "story_sources": [
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/chi and https://www.espn.com/nfl/team/_/name/atl (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/chi, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/atl), retrieved 2026-10-18T11:44:48Z",
+    "401872999_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
+    "picks_wave1.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
+    "closes_wave1.json"
+   ],
    "handicappers": [
     {
      "id": "H1",
@@ -712,13 +719,6 @@
     "winner": "Atlanta Falcons",
     "covers": "Atlanta Falcons +1.5"
    },
-   "fanatic_final_sentence": "Falcons 34, Bears 24.",
-   "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/chi and https://www.espn.com/nfl/team/_/name/atl (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/chi, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/atl), retrieved 2026-10-18T11:44:48Z",
-    "401872999_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
-    "picks_wave1.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
-    "closes_wave1.json"
-   ],
    "page_note": "",
    "line_used": {
     "home_line": 1.5,
@@ -1056,11 +1056,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "Baltimore Ravens −3",
-   "story_text": "The Ravens (4-1) face the Browns (3-2), kicking off at 1:00 PM ET Sun Oct 18 on Fox at Huntington Bank Field, Cleveland, OH.\n\nBaltimore lists tight end Matthew Hibner, quarterback Lamar Jackson, center Cam Jurgens and defensive end Broderick Washington as out. Baltimore lists guard Emery Jones Jr., wide receiver Ja'Kobi Lane and guard Andrew Vorhees as questionable. Cleveland lists defensive tackle Kalia Davis, quarterback Dillon Gabriel, defensive tackle Mike Hall Jr., guard Teven Jenkins and running back Dylan Sampson as out. Cleveland lists defensive end Derek Barnett, defensive tackle Mason Graham, running back Quinshon Judkins and linebacker Carson Schwesinger as questionable.\n\nCleveland is 3-2 overall and 2-0 at home, with 93 points scored and 112 allowed in 5 games.\n\nBaltimore is 4-1 overall and 3-0 on the road, with 146 points scored and 119 allowed in 5 games.\n\nThe Formula rated Baltimore at 1.8 and Cleveland at −9.6, with 1.75 points of home field to Cleveland. It projected Baltimore by 9.6 with Baltimore at −3, a 6.6-point edge, past the 2.5-point threshold. Next Man Up found no starting quarterback ruled out, so its 1.5-point quarterback figure was not triggered, and no point figure was found for the other absences. Letdown Watch found no short-week, long-rest, travel or back-to-back spot that meets its threshold. Follow The Money saw Cleveland move from +4.5 to +3, enough to side with Cleveland, and the total move from 41.5 to 39.5, enough for the Under. No bets-versus-money split was published. In The Trenches flagged Kalia Davis, Mike Hall Jr. and Teven Jenkins as ruled-out trench starters whose play is still built into the season numbers.\n\nRavens 23, Browns 13, Ravens cover the 3, Under 39.5.",
+   "story_text": "",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
+   "fanatic_final_sentence": "Ravens 23, Browns 13.",
+   "story_sources": [
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/bal and https://www.espn.com/nfl/team/_/name/cle (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/bal, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/cle), retrieved 2026-10-18T11:44:48Z",
+    "401872997_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
+    "picks_wave1.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
+    "closes_wave1.json"
+   ],
    "handicappers": [
     {
      "id": "H1",
@@ -1115,13 +1122,6 @@
     "winner": "Baltimore Ravens",
     "covers": "Baltimore Ravens −3"
    },
-   "fanatic_final_sentence": "Ravens 23, Browns 13.",
-   "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/bal and https://www.espn.com/nfl/team/_/name/cle (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/bal, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/cle), retrieved 2026-10-18T11:44:48Z",
-    "401872997_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
-    "picks_wave1.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
-    "closes_wave1.json"
-   ],
    "page_note": "",
    "line_used": {
     "home_line": 3,
@@ -1368,11 +1368,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "Indianapolis Colts −6.5",
-   "story_text": "The Titans (0-5) face the Colts (2-3), kicking off at 1:00 PM ET Sun Oct 18 on Fox at Lucas Oil Stadium, Indianapolis, IN.\n\nTennessee lists defensive tackle Jordan Elliott and safety Kevin Winston Jr. as out. Tennessee lists running back Tyjae Spears and cornerback Joshua Williams as questionable. Indianapolis lists linebacker Jaylon Carlies and wide receiver Ashton Dulin as out. Indianapolis lists tight end Tyler Warren as questionable.\n\nIndianapolis is 2-3 overall and 1-1 at home, with 124 points scored and 138 allowed in 5 games.\n\nTennessee is 0-5 overall and 0-2 on the road, with 58 points scored and 109 allowed in 5 games.\n\nThe Formula rated Indianapolis at −6.2 and Tennessee at −8.6, with 1.75 points of home field to Indianapolis. It projected Indianapolis by 4.1 with Indianapolis at −6.5, only a 2.4-point edge, short of the 2.5-point threshold. Next Man Up found no starting quarterback ruled out, so its 1.5-point quarterback figure was not triggered, and no point figure was found for the other absences. Letdown Watch found no short-week, long-rest, travel or back-to-back spot that meets its threshold. Follow The Money saw Indianapolis move from −7 to −6.5, under its 1-point threshold, and the total move from 44 to 44.5, also under the threshold. No bets-versus-money split was published. In The Trenches compared Tennessee's 3.8 yards per carry with the 5.3 Indianapolis allows, Indianapolis's 3.8 with the 3.8 Tennessee allows, and sack rates of 6.4% against 4.4% and 5.9% against 5.4%; neither gap met the 0.5-yard or 5-point cutoff.\n\nColts 20, Titans 17, Titans cover the 6.5, Under 44.5. No qualifying edge.",
+   "story_text": "",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
+   "fanatic_final_sentence": "Colts 20, Titans 17.",
+   "story_sources": [
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/ten and https://www.espn.com/nfl/team/_/name/ind (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/ten, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/ind), retrieved 2026-10-18T11:44:49Z",
+    "401873003_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
+    "picks_wave1.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
+    "closes_wave1.json"
+   ],
    "handicappers": [
     {
      "id": "H1",
@@ -1426,13 +1433,6 @@
     "winner": "Indianapolis Colts",
     "covers": "Tennessee Titans +6.5"
    },
-   "fanatic_final_sentence": "Colts 20, Titans 17.",
-   "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/ten and https://www.espn.com/nfl/team/_/name/ind (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/ten, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/ind), retrieved 2026-10-18T11:44:49Z",
-    "401873003_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
-    "picks_wave1.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
-    "closes_wave1.json"
-   ],
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": -6.5,
@@ -1679,11 +1679,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "New England Patriots −7.5",
-   "story_text": "The Jets (2-3) face the Patriots (3-2), kicking off at 1:00 PM ET Sun Oct 18 on CBS at Gillette Stadium, Foxborough, MA.\n\nThe Jets list running back Breece Hall, wide receiver Adonai Mitchell, defensive end Joseph Ossai and guard Dylan Parham as out. The Jets list safety Dane Belton, wide receiver Omar Cooper Jr. and tight end Kenyon Sadiq as questionable. New England lists cornerback Carlton Davis III and cornerback Karon Prunty as out. New England lists wide receiver A.J. Brown, tackle Marcus Bryant, tackle Will Campbell, cornerback Channing Canada, linebacker Christian Elliss, running back TreVeyon Henderson and safety Craig Woodson as questionable.\n\nNew England is 3-2 overall and 2-0 at home, with 110 points scored and 94 allowed in 5 games.\n\nThe Jets are 2-3 overall and 1-2 on the road, with 93 points scored and 96 allowed in 5 games.\n\nThe Formula rated New England at 2.9 and the Jets at −4.1, with 1.75 points of home field to New England. It projected New England by 8.7 with New England at −7.5, only a 1.2-point edge, short of the 2.5-point threshold. Next Man Up found no starting quarterback ruled out, so its 1.5-point quarterback figure was not triggered, and no point figure was found for the other absences. Letdown Watch found no short-week, long-rest, travel or back-to-back spot that meets its threshold. Follow The Money saw New England hold at −7.5, under its 1-point threshold, and the total hold at 43.5, also under the threshold. No bets-versus-money split was published. In The Trenches flagged Joseph Ossai and Dylan Parham as ruled-out trench starters whose play is still built into the season numbers.\n\nPatriots 20, Jets 16, Jets cover the 7.5, Under 43.5. No qualifying edge.",
+   "story_text": "",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
+   "fanatic_final_sentence": "Patriots 20, Jets 16.",
+   "story_sources": [
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/nyj and https://www.espn.com/nfl/team/_/name/ne (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/nyj, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/ne), retrieved 2026-10-18T11:44:49Z",
+    "401873001_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
+    "picks_wave1.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
+    "closes_wave1.json"
+   ],
    "handicappers": [
     {
      "id": "H1",
@@ -1737,13 +1744,6 @@
     "winner": "New England Patriots",
     "covers": "New York Jets +7.5"
    },
-   "fanatic_final_sentence": "Patriots 20, Jets 16.",
-   "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/nyj and https://www.espn.com/nfl/team/_/name/ne (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/nyj, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/ne), retrieved 2026-10-18T11:44:49Z",
-    "401873001_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
-    "picks_wave1.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
-    "closes_wave1.json"
-   ],
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": -7.5,
@@ -2004,11 +2004,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "New Orleans Saints −1.5",
-   "story_text": "The Saints (1-4) face the Giants (3-1-1), kicking off at 1:00 PM ET Sun Oct 18 on Fox at MetLife Stadium, East Rutherford, NJ.\n\nNew Orleans lists linebacker Kaden Elliss and linebacker Anfernee Jennings as out. New Orleans lists running back Alvin Kamara, wide receiver Chris Olave, defensive tackle Nathan Shepherd, cornerback Lorenzo Styles Jr. and long snapper Zach Wood as questionable. The Giants list cornerback Colton Hood, tight end Theo Johnson and safety Tyler Nubin as out. The Giants list linebacker Abdul Carter, tackle Jermaine Eluemunor and tackle Andrew Thomas as questionable.\n\nThe Giants are 3-1-1 overall and 3-0 at home, with 109 points scored and 106 allowed in 5 games.\n\nNew Orleans is 1-4 overall and 1-1 on the road, with 118 points scored and 151 allowed in 5 games.\n\nThe Formula rated New Orleans at −10.3 and the Giants at −11.9, with 1.75 points of home field to the Giants. It projected the Giants by 0.1 with New Orleans at −1.5, only a 1.6-point edge, short of the 2.5-point threshold. Next Man Up found no starting quarterback ruled out, so its 1.5-point quarterback figure was not triggered, and no point figure was found for the other absences. Letdown Watch found no short-week, long-rest, travel or back-to-back spot that meets its threshold. Follow The Money saw the Giants hold at +1.5, under its 1-point threshold, and the total move from 45.5 to 46, also under the threshold. No bets-versus-money split was published. In The Trenches compared New Orleans's 3.5 yards per carry with the 5.4 the Giants allows, the Giants's 3.9 with the 5.1 New Orleans allows, and sack rates of 6.2% against 7.3% and 4.8% against 6.2%; neither gap met the 0.5-yard or 5-point cutoff.\n\nGiants 20, Saints 17, Giants cover the 1.5, Under 46. No qualifying edge.",
+   "story_text": "",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
+   "fanatic_final_sentence": "Giants 20, Saints 17.",
+   "story_sources": [
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/no and https://www.espn.com/nfl/team/_/name/nyg (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/no, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/nyg), retrieved 2026-10-18T11:44:49Z",
+    "401873000_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
+    "picks_wave1.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
+    "closes_wave1.json"
+   ],
    "handicappers": [
     {
      "id": "H1",
@@ -2063,13 +2070,6 @@
     "winner": "New York Giants",
     "covers": "New York Giants +1.5"
    },
-   "fanatic_final_sentence": "Giants 20, Saints 17.",
-   "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/no and https://www.espn.com/nfl/team/_/name/nyg (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/no, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/nyg), retrieved 2026-10-18T11:44:49Z",
-    "401873000_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
-    "picks_wave1.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
-    "closes_wave1.json"
-   ],
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": 1.5,
@@ -2400,11 +2400,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "Carolina Panthers −3",
-   "story_text": "The Panthers (2-2) face the Eagles (2-3), kicking off at 1:00 PM ET Sun Oct 18 on CBS at Lincoln Financial Field, Philadelphia, PA.\n\nCarolina lists running back AJ Dillon as out. Carolina lists tackle Monroe Freeling as doubtful. Carolina lists running back Trevor Etienne, guard Damien Lewis, tackle Taylor Moton, linebacker Jaelan Phillips and defensive tackle Tershawn Wharton as questionable. Philadelphia lists running back Saquon Barkley, cornerback Jakorian Bennett, tight end Grant Calcaterra, safety Michael Carter II, guard Landon Dickerson, linebacker Jalyx Hunt, quarterback Jalen Hurts, running back Will Shipley and tight end Eli Stowers as out. Philadelphia lists linebacker A.J. Epenesa as doubtful. Philadelphia lists center Drew Kendall as questionable. The starting quarterback drop is priced at 1.5 points.\n\nPhiladelphia is 2-3 overall and 1-1 at home, with 92 points scored and 112 allowed in 5 games.\n\nCarolina is 2-2 overall and 1-1 on the road, with 121 points scored and 109 allowed in 4 games.\n\nThe Formula rated Carolina at −1.2 and Philadelphia at −8.3, with 1.75 points of home field to Philadelphia. It projected Carolina by 5.4 with Carolina at −3, only a 2.4-point edge, short of the 2.5-point threshold. Next Man Up priced the starting quarterback drop at 1.5, but line movement since the news was not sourced: no edge – data not found. Letdown Watch found no short-week, long-rest, travel or back-to-back spot that meets its threshold. Follow The Money: no edge – data not found, because no post-news line baseline was sourced after the starting quarterback was ruled out. In The Trenches flagged Landon Dickerson as a ruled-out trench starter whose play is still built into the season numbers.\n\nEagles 17, Panthers 16, Eagles cover the 3, Under 39. No qualifying edge.",
+   "story_text": "",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
+   "fanatic_final_sentence": "Eagles 17, Panthers 16.",
+   "story_sources": [
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/car and https://www.espn.com/nfl/team/_/name/phi (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/car, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/phi), retrieved 2026-10-18T11:44:49Z",
+    "401872998_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
+    "picks_wave1.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
+    "closes_wave1.json"
+   ],
    "handicappers": [
     {
      "id": "H1",
@@ -2448,13 +2455,6 @@
     "winner": "Philadelphia Eagles",
     "covers": "Philadelphia Eagles +3"
    },
-   "fanatic_final_sentence": "Eagles 17, Panthers 16.",
-   "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/car and https://www.espn.com/nfl/team/_/name/phi (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/car, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/phi), retrieved 2026-10-18T11:44:49Z",
-    "401872998_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
-    "picks_wave1.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
-    "closes_wave1.json"
-   ],
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": 3,
@@ -2680,11 +2680,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "Pittsburgh Steelers −2.5",
-   "story_text": "The Steelers (3-2) face the Buccaneers (1-4), kicking off at 1:00 PM ET Sun Oct 18 on CBS at Raymond James Stadium, Tampa, FL.\n\nPittsburgh lists safety DeShon Elliott, wide receiver Ben Skowronek and wide receiver Roman Wilson as out. Pittsburgh lists defensive tackle Keeanu Benton, cornerback Jamel Dean, running back Rico Dowdle, tight end Pat Freiermuth and cornerback Jalen Ramsey as questionable. Tampa Bay lists quarterback Baker Mayfield, wide receiver David Sills and safety Antoine Winfield Jr. as out. Tampa Bay lists cornerback Benjamin Morrison as doubtful. Tampa Bay lists linebacker SirVocea Dennis, cornerback Ayden Garnes, linebacker Josiah Trotter and running back Sean Tucker as questionable.\n\nTampa Bay is 1-4 overall and 0-3 at home, with 100 points scored and 112 allowed in 5 games.\n\nPittsburgh is 3-2 overall and 0-2 on the road, with 111 points scored and 109 allowed in 5 games.\n\nThe Formula rated Pittsburgh at −6.6 and Tampa Bay at −6.8, with 1.75 points of home field to Tampa Bay. It projected Tampa Bay by 1.6 with Pittsburgh at −2.5, a 4.1-point edge, past the 2.5-point threshold. Next Man Up found no starting quarterback ruled out, so its 1.5-point quarterback figure was not triggered, and no point figure was found for the other absences. Letdown Watch found no short-week, long-rest, travel or back-to-back spot that meets its threshold. Follow The Money saw Tampa Bay move from +3 to +2.5, under its 1-point threshold, and the total move from 40.5 to 38.5, enough for the Under. No bets-versus-money split was published. In The Trenches found no edge because its metrics conflict.\n\nBuccaneers 19, Steelers 17, Buccaneers cover the 2.5, Under 38.5.",
+   "story_text": "",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
+   "fanatic_final_sentence": "Buccaneers 19, Steelers 17.",
+   "story_sources": [
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/pit and https://www.espn.com/nfl/team/_/name/tb (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/pit, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/tb), retrieved 2026-10-18T11:44:50Z",
+    "401873002_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
+    "picks_wave1.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
+    "closes_wave1.json"
+   ],
    "handicappers": [
     {
      "id": "H1",
@@ -2737,13 +2744,6 @@
     "winner": "Tampa Bay Buccaneers",
     "covers": "Tampa Bay Buccaneers +2.5"
    },
-   "fanatic_final_sentence": "Buccaneers 19, Steelers 17.",
-   "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/pit and https://www.espn.com/nfl/team/_/name/tb (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/pit, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/tb), retrieved 2026-10-18T11:44:50Z",
-    "401873002_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
-    "picks_wave1.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
-    "closes_wave1.json"
-   ],
    "page_note": "",
    "line_used": {
     "home_line": 2.5,
@@ -2969,11 +2969,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "Los Angeles Rams −12.5",
-   "story_text": "The Cardinals (1-4) face the Rams (2-3), kicking off at 4:05 PM ET Sun Oct 18 on Fox at SoFi Stadium, Inglewood, CA.\n\nArizona lists running back Jeremiyah Love, safety Wydett Williams Jr. and safety Andrew Wingard as out. Arizona lists safety Budda Baker, linebacker Zaven Collins, safety Kitan Crawford and punter Blake Gillikin as questionable. The Rams list safety Kam Curl and cornerback Trent McDuffie as questionable.\n\nThe Rams are 2-3 overall and 1-2 at home, with 119 points scored and 120 allowed in 5 games.\n\nArizona is 1-4 overall and 1-2 on the road, with 108 points scored and 162 allowed in 5 games.\n\nThe Formula rated the Rams at 6.1 and Arizona at −8.9, with 1.75 points of home field to the Rams. It projected the Rams by 16.8 with the Rams at −12.5, a 4.3-point edge, past the 2.5-point threshold. Next Man Up found no starting quarterback ruled out, so its 1.5-point quarterback figure was not triggered, and no point figure was found for the other absences. Letdown Watch found no short-week, long-rest, travel or back-to-back spot that meets its threshold. Follow The Money saw the Rams move from −13 to −12.5, under its 1-point threshold, and the total move from 52.5 to 51.5, enough for the Under. No bets-versus-money split was published. In The Trenches compared Arizona's 3.6 yards per carry with the 4.6 the Rams allows, the Rams's 4.8 with the 4.6 Arizona allows, and sack rates of 7.3% against 3.2% and 5.2% against 6.1%; neither gap met the 0.5-yard or 5-point cutoff.\n\nRams 31, Cardinals 14, Rams cover the 12.5, Under 51.5.",
+   "story_text": "",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
+   "fanatic_final_sentence": "Rams 31, Cardinals 14.",
+   "story_sources": [
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/ari and https://www.espn.com/nfl/team/_/name/lar (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/ari, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/lar), retrieved 2026-10-18T11:44:50Z",
+    "401873004_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
+    "picks_wave2.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
+    "closes_wave2.json"
+   ],
    "handicappers": [
     {
      "id": "H1",
@@ -3026,13 +3033,6 @@
     "winner": "Los Angeles Rams",
     "covers": "Los Angeles Rams −12.5"
    },
-   "fanatic_final_sentence": "Rams 31, Cardinals 14.",
-   "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/ari and https://www.espn.com/nfl/team/_/name/lar (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/ari, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/lar), retrieved 2026-10-18T11:44:50Z",
-    "401873004_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
-    "picks_wave2.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
-    "closes_wave2.json"
-   ],
    "page_note": "",
    "line_used": {
     "home_line": -12.5,
@@ -3300,11 +3300,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "Kansas City Chiefs −7.5",
-   "story_text": "The Chargers (0-5) face the Chiefs (4-0), kicking off at 4:25 PM ET Sun Oct 18 on CBS at Arrowhead Stadium, Kansas City, MO.\n\nThe Chargers list tackle Joe Alt, guard Kayode Awosika, wide receiver Tre Harris, cornerback Donte Jackson and safety Derwin James as out. The Chargers list cornerback Rodney Shelley as doubtful. The Chargers list defensive tackle Jamaree Caldwell, defensive end Bud Dupree, linebacker Daiyan Henley, wide receiver KeAndre Lambert-Smith, wide receiver Brenen Thompson and defensive tackle Dalvin Tomlinson as questionable. Kansas City lists wide receiver Rashee Rice and tackle Josh Simmons as out. Kansas City lists cornerback L'Jarius Sneed as questionable.\n\nKansas City is 4-0 overall and 2-0 at home, with 118 points scored and 77 allowed in 4 games.\n\nThe Chargers are 0-5 overall and 0-2 on the road, with 84 points scored and 129 allowed in 5 games.\n\nThe Formula rated Kansas City at 0.8 and the Chargers at −5.5, with 1.75 points of home field to Kansas City. It projected Kansas City by 8.0 with Kansas City at −7.5, only a 0.5-point edge, short of the 2.5-point threshold. Next Man Up found no starting quarterback ruled out, so its 1.5-point quarterback figure was not triggered, and no point figure was found for the other absences. Letdown Watch found no short-week, long-rest, travel or back-to-back spot that meets its threshold. Follow The Money saw Kansas City move from −8.5 to −7.5, enough to side with the Chargers, and the total move from 42.5 to 41.5, enough for the Under. No bets-versus-money split was published. In The Trenches flagged Joe Alt, Kayode Awosika and Josh Simmons as ruled-out trench starters whose play is still built into the season numbers.\n\nChiefs 20, Chargers 16, Chargers cover the 7.5, Under 41.5.",
+   "story_text": "",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
+   "fanatic_final_sentence": "Chiefs 20, Chargers 16.",
+   "story_sources": [
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/lac and https://www.espn.com/nfl/team/_/name/kc (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/lac, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/kc), retrieved 2026-10-18T11:44:50Z",
+    "401873006_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
+    "picks_wave2.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
+    "closes_wave2.json"
+   ],
    "handicappers": [
     {
      "id": "H1",
@@ -3359,13 +3366,6 @@
     "winner": "Kansas City Chiefs",
     "covers": "Los Angeles Chargers +7.5"
    },
-   "fanatic_final_sentence": "Chiefs 20, Chargers 16.",
-   "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/lac and https://www.espn.com/nfl/team/_/name/kc (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/lac, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/kc), retrieved 2026-10-18T11:44:50Z",
-    "401873006_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
-    "picks_wave2.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
-    "closes_wave2.json"
-   ],
    "page_note": "",
    "line_used": {
     "home_line": -7.5,
@@ -3633,11 +3633,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "Buffalo Bills −5",
-   "story_text": "The Bills (4-1) face the Raiders (3-2), kicking off at 4:25 PM ET Sun Oct 18 on CBS at Allegiant Stadium, Las Vegas, NV.\n\nBuffalo lists cornerback Dee Alford, wide receiver DJ Moore, defensive end Ed Oliver, wide receiver Josh Palmer and defensive end T.J. Sanders as questionable. Las Vegas lists defensive tackle Tonka Hemingway, tight end Carter Runyon and wide receiver Dont'e Thornton Jr. as out. Las Vegas lists center Trey Zuhn III as questionable.\n\nLas Vegas is 3-2 overall and 1-1 at home, with 132 points scored and 129 allowed in 5 games.\n\nBuffalo is 4-1 overall and 2-0 on the road, with 164 points scored and 141 allowed in 5 games.\n\nThe Formula rated Buffalo at 5.4 and Las Vegas at −9.9, with 1.75 points of home field to Las Vegas. It projected Buffalo by 13.5 with Buffalo at −5, an 8.5-point edge, past the 2.5-point threshold. Next Man Up found no starting quarterback ruled out, so its 1.5-point quarterback figure was not triggered, and no point figure was found for the other absences. Letdown Watch found no short-week, long-rest, travel or back-to-back spot that meets its threshold. Follow The Money saw Las Vegas move from +6 to +5, enough to side with Las Vegas, and the total move from 53 to 53.5, under the threshold. No bets-versus-money split was published. In The Trenches flagged Tonka Hemingway as a ruled-out trench starter whose play is still built into the season numbers.\n\nBills 30, Raiders 17, Bills cover the 5, Under 53.5.",
+   "story_text": "",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
+   "fanatic_final_sentence": "Bills 30, Raiders 17.",
+   "story_sources": [
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/buf and https://www.espn.com/nfl/team/_/name/lv (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/buf, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/lv), retrieved 2026-10-18T11:44:50Z",
+    "401873005_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
+    "picks_wave2.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
+    "closes_wave2.json"
+   ],
    "handicappers": [
     {
      "id": "H1",
@@ -3688,13 +3695,6 @@
     "winner": "Buffalo Bills",
     "covers": "Buffalo Bills −5"
    },
-   "fanatic_final_sentence": "Bills 30, Raiders 17.",
-   "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/buf and https://www.espn.com/nfl/team/_/name/lv (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/buf, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/lv), retrieved 2026-10-18T11:44:50Z",
-    "401873005_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
-    "picks_wave2.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
-    "closes_wave2.json"
-   ],
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": 5,
@@ -3955,11 +3955,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "Green Bay Packers −1.5",
-   "story_text": "The Cowboys (2-3) face the Packers (3-2), kicking off at 8:20 PM ET Sun Oct 18 on NBC at Lambeau Field, Green Bay, WI.\n\nDallas lists cornerback Cobie Durant and tackle Drew Shelton as out. Dallas lists linebacker DeMarvion Overshown, defensive tackle LT Overton, cornerback Joey Porter Jr. and cornerback Ameer Speed as questionable. Green Bay lists defensive tackle Jonathan Ford, defensive tackle Javon Hargrave, wide receiver Skyy Moore and cornerback Benjamin St-Juste as out. Green Bay lists defensive end Jordon Riley as doubtful. Green Bay lists guard Aaron Banks, defensive tackle Anthony Campbell, cornerback Brandon Cisse, center Jacob Monk and wide receiver Savion Williams as questionable.\n\nGreen Bay is 3-2 overall and 1-1 at home, with 104 points scored and 112 allowed in 5 games.\n\nDallas is 2-3 overall and 1-1 on the road, with 138 points scored and 136 allowed in 5 games.\n\nThe Formula rated Green Bay at −0.6 and Dallas at −6.9, with 1.75 points of home field to Green Bay. It projected Green Bay by 8.0 with Green Bay at −1.5, a 6.5-point edge, past the 2.5-point threshold. Next Man Up found no starting quarterback ruled out, so its 1.5-point quarterback figure was not triggered, and no point figure was found for the other absences. Letdown Watch found no short-week, long-rest, travel or back-to-back spot that meets its threshold. Follow The Money saw Green Bay hold at −1.5, under its 1-point threshold, and the total move from 52.5 to 53.5, enough for the Over. No bets-versus-money split was published. In The Trenches compared Dallas's 3.8 yards per carry with the 4.2 Green Bay allows, Green Bay's 3.4 with the 5.3 Dallas allows, and sack rates of 3.5% against 5.2% and 7.5% against 3.0%; neither gap met the 0.5-yard or 5-point cutoff.\n\nPackers 32, Cowboys 24, Packers cover the 1.5, Over 53.5.",
+   "story_text": "",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
+   "fanatic_final_sentence": "Packers 32, Cowboys 24.",
+   "story_sources": [
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/dal and https://www.espn.com/nfl/team/_/name/gb (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/dal, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/gb), retrieved 2026-10-18T11:44:51Z",
+    "401873007_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
+    "picks_wave3.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
+    "closes_wave3.json"
+   ],
    "handicappers": [
     {
      "id": "H1",
@@ -4015,13 +4022,6 @@
     "winner": "Green Bay Packers",
     "covers": "Green Bay Packers −1.5"
    },
-   "fanatic_final_sentence": "Packers 32, Cowboys 24.",
-   "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/dal and https://www.espn.com/nfl/team/_/name/gb (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/dal, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/gb), retrieved 2026-10-18T11:44:51Z",
-    "401873007_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
-    "picks_wave3.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
-    "closes_wave3.json"
-   ],
    "page_note": "",
    "line_used": {
     "home_line": -1.5,
@@ -4381,11 +4381,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261019",
    "spread": "San Francisco 49ers −7.5",
-   "story_text": "The Commanders (1-3-1) face the 49ers (5-0), kicking off at 8:15 PM ET Mon Oct 19 on ESPN, ABC at Levi's Stadium, Santa Clara, CA.\n\nWashington lists running back Jacory Croskey-Merritt, linebacker Javontae Jean-Baptiste, quarterback Marcus Mariota and defensive end Charles Omenihu as out. Washington lists cornerback Trey Amos, safety Percy Butler, safety Nick Cross, wide receiver Stefon Diggs, defensive tackle Javon Kinlaw, linebacker Jordan Magee, running back Jeremy McNichols, safety Tyler Owens and guard Lucas Patrick as questionable. San Francisco lists defensive end Nick Bosa, wide receiver Deebo Samuel Sr., safety Marques Sigle and linebacker Garret Wallow as out. San Francisco lists wide receiver Mike Evans, defensive tackle Gracen Halton, wide receiver Christian Kirk, safety Siran Neal, cornerback Upton Stout and defensive end Mykel Williams as questionable.\n\nSan Francisco is 5-0 overall and 3-0 at home, with 154 points scored and 93 allowed in 5 games.\n\nWashington is 1-3-1 overall and 0-2 on the road, with 115 points scored and 149 allowed in 5 games.\n\nThe Formula rated San Francisco at 9.8 and Washington at −9.1, with 1.75 points of home field to San Francisco. It projected San Francisco by 20.6 with San Francisco at −7.5, a 13.1-point edge, past the 2.5-point threshold. Next Man Up found no starting quarterback ruled out, so its 1.5-point quarterback figure was not triggered, and no point figure was found for the other absences. Letdown Watch found no short-week, long-rest, travel or back-to-back spot that meets its threshold. Follow The Money saw San Francisco hold at −7.5, under its 1-point threshold, and the total move from 50.5 to 52, enough for the Over. No bets-versus-money split was published. In The Trenches flagged Charles Omenihu and Nick Bosa as ruled-out trench starters whose play is still built into the season numbers.\n\n49ers 38, Commanders 17, 49ers cover the 7.5, Over 52.",
+   "story_text": "",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
+   "fanatic_final_sentence": "49ers 38, Commanders 17.",
+   "story_sources": [
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/wsh and https://www.espn.com/nfl/team/_/name/sf (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/wsh, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/sf), retrieved 2026-10-18T11:44:51Z",
+    "401873008_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
+    "picks_wave3.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
+    "closes_wave3.json"
+   ],
    "handicappers": [
     {
      "id": "H1",
@@ -4440,13 +4447,6 @@
     "winner": "San Francisco 49ers",
     "covers": "San Francisco 49ers −7.5"
    },
-   "fanatic_final_sentence": "49ers 38, Commanders 17.",
-   "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/wsh and https://www.espn.com/nfl/team/_/name/sf (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/wsh, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/sf), retrieved 2026-10-18T11:44:51Z",
-    "401873008_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
-    "picks_wave3.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
-    "closes_wave3.json"
-   ],
    "page_note": "",
    "line_used": {
     "home_line": -7.5,
