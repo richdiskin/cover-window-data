@@ -415,7 +415,14 @@
      "id": "H1",
      "public_case": "H1: Net ratings Jacksonville Jaguars −0.8, Houston Texans −3.0 (nflverse play-by-play, Oct 18, 2026). Neutral site, no home field. Projected margin Jacksonville Jaguars by 2.3. Line Jacksonville Jaguars −2.5. Edge 0.2. Threshold 2.5 not met. No edge.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 22,
+      "away": 20,
+      "total": 42,
+      "detail": "Net ratings Jacksonville Jaguars -0.8, Houston Texans -3.0 (nflverse pbp, Oct 18, 2026); neutral site, no home field; margin +2.3 Jacksonville Jaguars. Total 42.5 = current consensus total (H1 has no totals model)."
+     },
+     "projected_text": "Projected: Jacksonville Jaguars 22, Houston Texans 20 (Total 42)"
     },
     {
      "id": "H2",
@@ -426,23 +433,51 @@
       "Jalen Pitre",
       "Montaric Brown",
       "Ross Matiscik"
-     ]
+     ],
+     "projected": {
+      "home": 22,
+      "away": 20,
+      "total": 42,
+      "detail": "H1 base margin +2.3; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin +2.3, total 42.5 (H1 total)."
+     },
+     "projected_text": "Projected: Jacksonville Jaguars 22, Houston Texans 20 (Total 42)"
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+     "projected": {
+      "home": 22,
+      "away": 20,
+      "total": 42,
+      "detail": "No scheduling system triggers; equals H1 base margin +2.3, total 42.5 (H1 total)."
+     },
+     "projected_text": "Projected: Jacksonville Jaguars 22, Houston Texans 20 (Total 42)"
     },
     {
      "id": "H4",
      "public_case": "H4: Spread opened Jacksonville Jaguars −2.5 (Oct 13, 2026 18:12 UTC), now −2.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 42.5 (Oct 13, 2026 10:20 UTC), now 42.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Spread split 50/50% bets, 51/49% money (Houston Texans/Jacksonville Jaguars, Action Network public betting, Oct 18, 2026 11:32 UTC): same side, no divergence. 53% of bets on Under, 80% of money on Over (Action Network public betting, Oct 18, 2026 11:32 UTC). Divergence 27 meets 15-point threshold. Over.",
      "market": "total",
      "best_bet": true,
-     "both_markets_best_bet": false
+     "both_markets_best_bet": false,
+     "projected": {
+      "home": 23,
+      "away": 20,
+      "total": 43,
+      "detail": "Market number: current consensus line Jacksonville Jaguars −2.5 (home margin +2.5), total 42.5 (Action Network consensus, 2026-10-18T11:32:29Z)."
+     },
+     "projected_text": "Projected: Jacksonville Jaguars 23, Houston Texans 20 (Total 43)"
     },
     {
      "id": "H5",
-     "stop": "metrics_conflict"
+     "stop": "metrics_conflict",
+     "projected": {
+      "home": 22,
+      "away": 20,
+      "total": 42,
+      "detail": "gaps point to opposite teams (rule 40), no adjustment; equals H1 base margin +2.3, total 42.5 (H1 total)."
+     },
+     "projected_text": "Projected: Jacksonville Jaguars 22, Houston Texans 20 (Total 42)"
     }
    ],
    "sourced_reasons": [
@@ -689,7 +724,14 @@
      "id": "H1",
      "public_case": "H1: Net ratings Atlanta Falcons 2.6, Chicago Bears −5.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Atlanta Falcons. Projected margin Atlanta Falcons by 10.3. Line Chicago Bears −1.5. Edge 11.8. Threshold 2.5 met. Cover Atlanta Falcons.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 31,
+      "away": 21,
+      "total": 52,
+      "detail": "Net ratings Atlanta Falcons 2.6, Chicago Bears -5.9 (nflverse pbp, Oct 18, 2026); home field +1.75 to Atlanta Falcons; margin +10.3 Atlanta Falcons. Total 52.5 = current consensus total (H1 has no totals model)."
+     },
+     "projected_text": "Projected: Atlanta Falcons 31, Chicago Bears 21 (Total 52)"
     },
     {
      "id": "H2",
@@ -700,23 +742,51 @@
       "Kyle Monangai",
       "Dayo Odeyingbo",
       "C.J. Henderson"
-     ]
+     ],
+     "projected": {
+      "home": 31,
+      "away": 21,
+      "total": 52,
+      "detail": "H1 base margin +10.3; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin +10.3, total 52.5 (H1 total)."
+     },
+     "projected_text": "Projected: Atlanta Falcons 31, Chicago Bears 21 (Total 52)"
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+     "projected": {
+      "home": 31,
+      "away": 21,
+      "total": 52,
+      "detail": "No scheduling system triggers; equals H1 base margin +10.3, total 52.5 (H1 total)."
+     },
+     "projected_text": "Projected: Atlanta Falcons 31, Chicago Bears 21 (Total 52)"
     },
     {
      "id": "H4",
      "public_case": "H4: Spread opened Atlanta Falcons +3.5 (Oct 13, 2026 11:08 UTC), now +1.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 2 meets 1-point threshold. Cover Atlanta Falcons. Total opened 49.5 (Oct 13, 2026 06:30 UTC), now 52.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 3 meets 1-point threshold. Over. Spread split 42/58% bets, 41/59% money (Chicago Bears/Atlanta Falcons, Action Network public betting, Oct 18, 2026 11:32 UTC): same side, no divergence. Total split 66/34% bets, 70/30% money (Over/Under, Action Network public betting, Oct 18, 2026 11:32 UTC): same side, no divergence.",
      "market": "total",
      "best_bet": true,
-     "both_markets_best_bet": true
+     "both_markets_best_bet": true,
+     "projected": {
+      "home": 26,
+      "away": 27,
+      "total": 53,
+      "detail": "Market number: current consensus line Chicago Bears −1.5 (home margin -1.5), total 52.5 (Action Network consensus, 2026-10-18T11:32:29Z)."
+     },
+     "projected_text": "Projected: Atlanta Falcons 26, Chicago Bears 27 (Total 53)"
     },
     {
      "id": "H5",
-     "stop": "data_not_found"
+     "stop": "data_not_found",
+     "projected": {
+      "home": 31,
+      "away": 21,
+      "total": 52,
+      "detail": "key trench piece out (rule 38), gaps not measured, no adjustment; equals H1 base margin +10.3, total 52.5 (H1 total)."
+     },
+     "projected_text": "Projected: Atlanta Falcons 31, Chicago Bears 21 (Total 52)"
     }
    ],
    "sourced_reasons": [
@@ -1103,7 +1173,14 @@
      "id": "H1",
      "public_case": "H1: Net ratings Baltimore Ravens 1.8, Cleveland Browns −9.6 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Cleveland Browns. Projected margin Baltimore Ravens by 9.6. Line Baltimore Ravens −3. Edge 6.6. Threshold 2.5 met. Cover Baltimore Ravens.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 15,
+      "away": 25,
+      "total": 40,
+      "detail": "Net ratings Baltimore Ravens 1.8, Cleveland Browns -9.6 (nflverse pbp, Oct 18, 2026); home field +1.75 to Cleveland Browns; margin -9.6 Cleveland Browns. Total 39.5 = current consensus total (H1 has no totals model)."
+     },
+     "projected_text": "Projected: Cleveland Browns 15, Baltimore Ravens 25 (Total 40)"
     },
     {
      "id": "H2",
@@ -1116,23 +1193,51 @@
       "Mike Hall Jr.",
       "Teven Jenkins",
       "Dylan Sampson"
-     ]
+     ],
+     "projected": {
+      "home": 15,
+      "away": 25,
+      "total": 40,
+      "detail": "H1 base margin -9.6; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin -9.6, total 39.5 (H1 total)."
+     },
+     "projected_text": "Projected: Cleveland Browns 15, Baltimore Ravens 25 (Total 40)"
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+     "projected": {
+      "home": 15,
+      "away": 25,
+      "total": 40,
+      "detail": "No scheduling system triggers; equals H1 base margin -9.6, total 39.5 (H1 total)."
+     },
+     "projected_text": "Projected: Cleveland Browns 15, Baltimore Ravens 25 (Total 40)"
     },
     {
      "id": "H4",
      "public_case": "H4: Spread opened Cleveland Browns +4.5 (Oct 13, 2026 06:30 UTC), now +3 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets 1-point threshold. Cover Cleveland Browns. Total opened 41.5 (Oct 13, 2026 07:33 UTC), now 39.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 2 meets 1-point threshold. Under.",
      "market": "total",
      "best_bet": true,
-     "both_markets_best_bet": false
+     "both_markets_best_bet": false,
+     "projected": {
+      "home": 18,
+      "away": 21,
+      "total": 39,
+      "detail": "Market number: current consensus line Baltimore Ravens −3 (home margin -3), total 39.5 (Action Network consensus, 2026-10-18T11:32:29Z)."
+     },
+     "projected_text": "Projected: Cleveland Browns 18, Baltimore Ravens 21 (Total 39)"
     },
     {
      "id": "H5",
-     "stop": "data_not_found"
+     "stop": "data_not_found",
+     "projected": {
+      "home": 15,
+      "away": 25,
+      "total": 40,
+      "detail": "key trench piece out (rule 38), gaps not measured, no adjustment; equals H1 base margin -9.6, total 39.5 (H1 total)."
+     },
+     "projected_text": "Projected: Cleveland Browns 15, Baltimore Ravens 25 (Total 40)"
     }
    ],
    "sourced_reasons": [
@@ -1432,7 +1537,14 @@
      "id": "H1",
      "public_case": "H1: Net ratings Indianapolis Colts −6.2, Tennessee Titans −8.6 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Indianapolis Colts. Projected margin Indianapolis Colts by 4.1. Line Indianapolis Colts −6.5. Edge 2.4. Threshold 2.5 not met. No edge.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 24,
+      "away": 20,
+      "total": 44,
+      "detail": "Net ratings Indianapolis Colts -6.2, Tennessee Titans -8.6 (nflverse pbp, Oct 18, 2026); home field +1.75 to Indianapolis Colts; margin +4.1 Indianapolis Colts. Total 44.5 = current consensus total (H1 has no totals model)."
+     },
+     "projected_text": "Projected: Indianapolis Colts 24, Tennessee Titans 20 (Total 44)"
     },
     {
      "id": "H2",
@@ -1442,25 +1554,53 @@
       "Kevin Winston Jr.",
       "Jaylon Carlies",
       "Ashton Dulin"
-     ]
+     ],
+     "projected": {
+      "home": 24,
+      "away": 20,
+      "total": 44,
+      "detail": "H1 base margin +4.1; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin +4.1, total 44.5 (H1 total)."
+     },
+     "projected_text": "Projected: Indianapolis Colts 24, Tennessee Titans 20 (Total 44)"
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+     "projected": {
+      "home": 24,
+      "away": 20,
+      "total": 44,
+      "detail": "No scheduling system triggers; equals H1 base margin +4.1, total 44.5 (H1 total)."
+     },
+     "projected_text": "Projected: Indianapolis Colts 24, Tennessee Titans 20 (Total 44)"
     },
     {
      "id": "H4",
      "public_case": "H4: Spread opened Indianapolis Colts −7 (Oct 13, 2026 07:13 UTC), now −6.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. Total opened 44 (Oct 13, 2026 17:44 UTC), now 44.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. No edge.",
      "market": null,
      "best_bet": false,
-     "both_markets_best_bet": false
+     "both_markets_best_bet": false,
+     "projected": {
+      "home": 26,
+      "away": 19,
+      "total": 45,
+      "detail": "Market number: current consensus line Indianapolis Colts −6.5 (home margin +6.5), total 44.5 (Action Network consensus, 2026-10-18T11:32:29Z)."
+     },
+     "projected_text": "Projected: Indianapolis Colts 26, Tennessee Titans 19 (Total 45)"
     },
     {
      "id": "H5",
      "public_case": "H5: Tennessee Titans 3.8 ypc vs Indianapolis Colts allows 5.3; Indianapolis Colts 3.8 ypc vs Tennessee Titans allows 3.8. Sack rate Tennessee Titans generates 6.4% vs Indianapolis Colts allows 4.4%; Indianapolis Colts generates 5.9% vs Tennessee Titans allows 5.4% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 24,
+      "away": 20,
+      "total": 44,
+      "detail": "neither ypc (0.5) nor sack-rate (5 pts) gap clears threshold; equals H1 base margin +4.1, total 44.5 (H1 total)."
+     },
+     "projected_text": "Projected: Indianapolis Colts 24, Tennessee Titans 20 (Total 44)"
     }
    ],
    "sourced_reasons": [
@@ -1758,7 +1898,14 @@
      "id": "H1",
      "public_case": "H1: Net ratings New England Patriots 2.9, New York Jets −4.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to New England Patriots. Projected margin New England Patriots by 8.7. Line New England Patriots −7.5. Edge 1.2. Threshold 2.5 not met. No edge.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 26,
+      "away": 17,
+      "total": 43,
+      "detail": "Net ratings New England Patriots 2.9, New York Jets -4.1 (nflverse pbp, Oct 18, 2026); home field +1.75 to New England Patriots; margin +8.7 New England Patriots. Total 43.5 = current consensus total (H1 has no totals model)."
+     },
+     "projected_text": "Projected: New England Patriots 26, New York Jets 17 (Total 43)"
     },
     {
      "id": "H2",
@@ -1770,23 +1917,51 @@
       "Dylan Parham",
       "Carlton Davis III",
       "Karon Prunty"
-     ]
+     ],
+     "projected": {
+      "home": 26,
+      "away": 17,
+      "total": 43,
+      "detail": "H1 base margin +8.7; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin +8.7, total 43.5 (H1 total)."
+     },
+     "projected_text": "Projected: New England Patriots 26, New York Jets 17 (Total 43)"
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+     "projected": {
+      "home": 26,
+      "away": 17,
+      "total": 43,
+      "detail": "No scheduling system triggers; equals H1 base margin +8.7, total 43.5 (H1 total)."
+     },
+     "projected_text": "Projected: New England Patriots 26, New York Jets 17 (Total 43)"
     },
     {
      "id": "H4",
      "public_case": "H4: Spread opened New England Patriots −7.5 (Oct 13, 2026 10:37 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 43.5 (Oct 13, 2026 08:56 UTC), now 43.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. No edge.",
      "market": null,
      "best_bet": false,
-     "both_markets_best_bet": false
+     "both_markets_best_bet": false,
+     "projected": {
+      "home": 26,
+      "away": 18,
+      "total": 44,
+      "detail": "Market number: current consensus line New England Patriots −7.5 (home margin +7.5), total 43.5 (Action Network consensus, 2026-10-18T11:32:29Z)."
+     },
+     "projected_text": "Projected: New England Patriots 26, New York Jets 18 (Total 44)"
     },
     {
      "id": "H5",
-     "stop": "data_not_found"
+     "stop": "data_not_found",
+     "projected": {
+      "home": 26,
+      "away": 17,
+      "total": 43,
+      "detail": "key trench piece out (rule 38), gaps not measured, no adjustment; equals H1 base margin +8.7, total 43.5 (H1 total)."
+     },
+     "projected_text": "Projected: New England Patriots 26, New York Jets 17 (Total 43)"
     }
    ],
    "sourced_reasons": [
@@ -2098,7 +2273,14 @@
      "id": "H1",
      "public_case": "H1: Net ratings New Orleans Saints −10.3, New York Giants −11.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to New York Giants. Projected margin New York Giants by 0.1. Line New Orleans Saints −1.5. Edge 1.6. Threshold 2.5 not met. No edge.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 23,
+      "away": 23,
+      "total": 46,
+      "detail": "Net ratings New Orleans Saints -10.3, New York Giants -11.9 (nflverse pbp, Oct 18, 2026); home field +1.75 to New York Giants; margin +0.1 New York Giants. Total 46 = current consensus total (H1 has no totals model)."
+     },
+     "projected_text": "Projected: New York Giants 23, New Orleans Saints 23 (Total 46)"
     },
     {
      "id": "H2",
@@ -2109,25 +2291,53 @@
       "Colton Hood",
       "Theo Johnson",
       "Tyler Nubin"
-     ]
+     ],
+     "projected": {
+      "home": 23,
+      "away": 23,
+      "total": 46,
+      "detail": "H1 base margin +0.1; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin +0.1, total 46 (H1 total)."
+     },
+     "projected_text": "Projected: New York Giants 23, New Orleans Saints 23 (Total 46)"
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+     "projected": {
+      "home": 23,
+      "away": 23,
+      "total": 46,
+      "detail": "No scheduling system triggers; equals H1 base margin +0.1, total 46 (H1 total)."
+     },
+     "projected_text": "Projected: New York Giants 23, New Orleans Saints 23 (Total 46)"
     },
     {
      "id": "H4",
      "public_case": "H4: Spread opened New York Giants +1.5 (Oct 13, 2026 08:56 UTC), now +1.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 45.5 (Oct 13, 2026 10:59 UTC), now 46 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. No edge.",
      "market": null,
      "best_bet": false,
-     "both_markets_best_bet": false
+     "both_markets_best_bet": false,
+     "projected": {
+      "home": 22,
+      "away": 24,
+      "total": 46,
+      "detail": "Market number: current consensus line New Orleans Saints −1.5 (home margin -1.5), total 46 (Action Network consensus, 2026-10-18T11:32:29Z)."
+     },
+     "projected_text": "Projected: New York Giants 22, New Orleans Saints 24 (Total 46)"
     },
     {
      "id": "H5",
      "public_case": "H5: New Orleans Saints 3.5 ypc vs New York Giants allows 5.4; New York Giants 3.9 ypc vs New Orleans Saints allows 5.1. Sack rate New Orleans Saints generates 6.2% vs New York Giants allows 7.3%; New York Giants generates 4.8% vs New Orleans Saints allows 6.2% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 23,
+      "away": 23,
+      "total": 46,
+      "detail": "neither ypc (0.5) nor sack-rate (5 pts) gap clears threshold; equals H1 base margin +0.1, total 46 (H1 total)."
+     },
+     "projected_text": "Projected: New York Giants 23, New Orleans Saints 23 (Total 46)"
     }
    ],
    "sourced_reasons": [
@@ -2509,25 +2719,60 @@
      "id": "H1",
      "public_case": "H1: Net ratings Carolina Panthers −1.2, Philadelphia Eagles −8.3 (nflverse play-by-play, Oct 18, 2026). Philadelphia Eagles rating includes −1.5 for starting QB ruled out (NFL.com injury report, Oct 18, 2026 11:32 UTC; rule 157/156 item 1). Home field +1.75 to Philadelphia Eagles. Projected margin Carolina Panthers by 5.4. Line Carolina Panthers −3. Edge 2.4. Threshold 2.5 not met. No edge.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 17,
+      "away": 22,
+      "total": 39,
+      "detail": "Net ratings Carolina Panthers -1.2, Philadelphia Eagles -8.3 (nflverse pbp, Oct 18, 2026); home field +1.75 to Philadelphia Eagles; margin -5.4 Philadelphia Eagles. Total 39 = current consensus total (H1 has no totals model)."
+     },
+     "projected_text": "Projected: Philadelphia Eagles 17, Carolina Panthers 22 (Total 39)"
     },
     {
      "id": "H2",
      "stop": "data_not_found",
-     "excluded": []
+     "excluded": [],
+     "projected": {
+      "home": 17,
+      "away": 22,
+      "total": 39,
+      "detail": "H1 base margin -5.4; priced drops: PHI starting QB out −1.5 (already inside H1 base rating; not subtracted twice); unpriced absences = 0 (rules 09/23). Margin -5.4, total 39 (H1 total)."
+     },
+     "projected_text": "Projected: Philadelphia Eagles 17, Carolina Panthers 22 (Total 39)"
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+     "projected": {
+      "home": 17,
+      "away": 22,
+      "total": 39,
+      "detail": "No scheduling system triggers; equals H1 base margin -5.4, total 39 (H1 total)."
+     },
+     "projected_text": "Projected: Philadelphia Eagles 17, Carolina Panthers 22 (Total 39)"
     },
     {
      "id": "H4",
-     "stop": "data_not_found"
+     "stop": "data_not_found",
+     "projected": {
+      "home": 18,
+      "away": 21,
+      "total": 39,
+      "detail": "Market number: current consensus line Carolina Panthers −3 (home margin -3), total 39 (Action Network consensus, 2026-10-18T11:32:29Z)."
+     },
+     "projected_text": "Projected: Philadelphia Eagles 18, Carolina Panthers 21 (Total 39)"
     },
     {
      "id": "H5",
-     "stop": "data_not_found"
+     "stop": "data_not_found",
+     "projected": {
+      "home": 17,
+      "away": 22,
+      "total": 39,
+      "detail": "key trench piece out (rule 38), gaps not measured, no adjustment; equals H1 base margin -5.4, total 39 (H1 total)."
+     },
+     "projected_text": "Projected: Philadelphia Eagles 17, Carolina Panthers 22 (Total 39)"
     }
    ],
    "sourced_reasons": [
@@ -2804,7 +3049,14 @@
      "id": "H1",
      "public_case": "H1: Net ratings Pittsburgh Steelers −6.6, Tampa Bay Buccaneers −6.8 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Tampa Bay Buccaneers. Projected margin Tampa Bay Buccaneers by 1.6. Line Pittsburgh Steelers −2.5. Edge 4.1. Threshold 2.5 met. Cover Tampa Bay Buccaneers.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 20,
+      "away": 18,
+      "total": 38,
+      "detail": "Net ratings Pittsburgh Steelers -6.6, Tampa Bay Buccaneers -6.8 (nflverse pbp, Oct 18, 2026); home field +1.75 to Tampa Bay Buccaneers; margin +1.6 Tampa Bay Buccaneers. Total 38.5 = current consensus total (H1 has no totals model)."
+     },
+     "projected_text": "Projected: Tampa Bay Buccaneers 20, Pittsburgh Steelers 18 (Total 38)"
     },
     {
      "id": "H2",
@@ -2815,23 +3067,51 @@
       "Roman Wilson",
       "David Sills",
       "Antoine Winfield Jr."
-     ]
+     ],
+     "projected": {
+      "home": 20,
+      "away": 18,
+      "total": 38,
+      "detail": "H1 base margin +1.6; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin +1.6, total 38.5 (H1 total)."
+     },
+     "projected_text": "Projected: Tampa Bay Buccaneers 20, Pittsburgh Steelers 18 (Total 38)"
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+     "projected": {
+      "home": 20,
+      "away": 18,
+      "total": 38,
+      "detail": "No scheduling system triggers; equals H1 base margin +1.6, total 38.5 (H1 total)."
+     },
+     "projected_text": "Projected: Tampa Bay Buccaneers 20, Pittsburgh Steelers 18 (Total 38)"
     },
     {
      "id": "H4",
      "public_case": "H4: Spread opened Tampa Bay Buccaneers +3 (Oct 13, 2026 07:45 UTC), now +2.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. Total opened 40.5 (Oct 13, 2026 07:45 UTC), now 38.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 2 meets 1-point threshold. Under.",
      "market": "total",
      "best_bet": true,
-     "both_markets_best_bet": false
+     "both_markets_best_bet": false,
+     "projected": {
+      "home": 18,
+      "away": 21,
+      "total": 39,
+      "detail": "Market number: current consensus line Pittsburgh Steelers −2.5 (home margin -2.5), total 38.5 (Action Network consensus, 2026-10-18T11:32:29Z)."
+     },
+     "projected_text": "Projected: Tampa Bay Buccaneers 18, Pittsburgh Steelers 21 (Total 39)"
     },
     {
      "id": "H5",
-     "stop": "metrics_conflict"
+     "stop": "metrics_conflict",
+     "projected": {
+      "home": 20,
+      "away": 18,
+      "total": 38,
+      "detail": "gaps point to opposite teams (rule 40), no adjustment; equals H1 base margin +1.6, total 38.5 (H1 total)."
+     },
+     "projected_text": "Projected: Tampa Bay Buccaneers 20, Pittsburgh Steelers 18 (Total 38)"
     }
    ],
    "sourced_reasons": [
@@ -3110,7 +3390,14 @@
      "id": "H1",
      "public_case": "H1: Net ratings Los Angeles Rams 6.1, Arizona Cardinals −8.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Los Angeles Rams. Projected margin Los Angeles Rams by 16.8. Line Los Angeles Rams −12.5. Edge 4.3. Threshold 2.5 met. Cover Los Angeles Rams.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 34,
+      "away": 17,
+      "total": 51,
+      "detail": "Net ratings Los Angeles Rams 6.1, Arizona Cardinals -8.9 (nflverse pbp, Oct 18, 2026); home field +1.75 to Los Angeles Rams; margin +16.8 Los Angeles Rams. Total 51.5 = current consensus total (H1 has no totals model)."
+     },
+     "projected_text": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)"
     },
     {
      "id": "H2",
@@ -3119,25 +3406,53 @@
       "Jeremiyah Love",
       "Wydett Williams Jr.",
       "Andrew Wingard"
-     ]
+     ],
+     "projected": {
+      "home": 34,
+      "away": 17,
+      "total": 51,
+      "detail": "H1 base margin +16.8; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin +16.8, total 51.5 (H1 total)."
+     },
+     "projected_text": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)"
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+     "projected": {
+      "home": 34,
+      "away": 17,
+      "total": 51,
+      "detail": "No scheduling system triggers; equals H1 base margin +16.8, total 51.5 (H1 total)."
+     },
+     "projected_text": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)"
     },
     {
      "id": "H4",
      "public_case": "H4: Spread opened Los Angeles Rams −13 (Oct 13, 2026 05:35 UTC), now −12.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. Total opened 52.5 (Oct 13, 2026 05:38 UTC), now 51.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Under.",
      "market": "total",
      "best_bet": true,
-     "both_markets_best_bet": false
+     "both_markets_best_bet": false,
+     "projected": {
+      "home": 32,
+      "away": 20,
+      "total": 52,
+      "detail": "Market number: current consensus line Los Angeles Rams −12.5 (home margin +12.5), total 51.5 (Action Network consensus, 2026-10-18T11:32:29Z)."
+     },
+     "projected_text": "Projected: Los Angeles Rams 32, Arizona Cardinals 20 (Total 52)"
     },
     {
      "id": "H5",
      "public_case": "H5: Arizona Cardinals 3.6 ypc vs Los Angeles Rams allows 4.6; Los Angeles Rams 4.8 ypc vs Arizona Cardinals allows 4.6. Sack rate Arizona Cardinals generates 7.3% vs Los Angeles Rams allows 3.2%; Los Angeles Rams generates 5.2% vs Arizona Cardinals allows 6.1% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 34,
+      "away": 17,
+      "total": 51,
+      "detail": "neither ypc (0.5) nor sack-rate (5 pts) gap clears threshold; equals H1 base margin +16.8, total 51.5 (H1 total)."
+     },
+     "projected_text": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)"
     }
    ],
    "sourced_reasons": [
@@ -3457,7 +3772,14 @@
      "id": "H1",
      "public_case": "H1: Net ratings Kansas City Chiefs 0.8, Los Angeles Chargers −5.5 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Kansas City Chiefs. Projected margin Kansas City Chiefs by 8.0. Line Kansas City Chiefs −7.5. Edge 0.5. Threshold 2.5 not met. No edge.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 25,
+      "away": 17,
+      "total": 42,
+      "detail": "Net ratings Kansas City Chiefs 0.8, Los Angeles Chargers -5.5 (nflverse pbp, Oct 18, 2026); home field +1.75 to Kansas City Chiefs; margin +8.0 Kansas City Chiefs. Total 41.5 = current consensus total (H1 has no totals model)."
+     },
+     "projected_text": "Projected: Kansas City Chiefs 25, Los Angeles Chargers 17 (Total 42)"
     },
     {
      "id": "H2",
@@ -3470,23 +3792,51 @@
       "Derwin James",
       "Rashee Rice",
       "Josh Simmons"
-     ]
+     ],
+     "projected": {
+      "home": 25,
+      "away": 17,
+      "total": 42,
+      "detail": "H1 base margin +8.0; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin +8.0, total 41.5 (H1 total)."
+     },
+     "projected_text": "Projected: Kansas City Chiefs 25, Los Angeles Chargers 17 (Total 42)"
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+     "projected": {
+      "home": 25,
+      "away": 17,
+      "total": 42,
+      "detail": "No scheduling system triggers; equals H1 base margin +8.0, total 41.5 (H1 total)."
+     },
+     "projected_text": "Projected: Kansas City Chiefs 25, Los Angeles Chargers 17 (Total 42)"
     },
     {
      "id": "H4",
      "public_case": "H4: Spread opened Kansas City Chiefs −8.5 (Oct 13, 2026 10:31 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Cover Los Angeles Chargers. Total opened 42.5 (Oct 13, 2026 12:04 UTC), now 41.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Under.",
      "market": "total",
      "best_bet": true,
-     "both_markets_best_bet": true
+     "both_markets_best_bet": true,
+     "projected": {
+      "home": 25,
+      "away": 17,
+      "total": 42,
+      "detail": "Market number: current consensus line Kansas City Chiefs −7.5 (home margin +7.5), total 41.5 (Action Network consensus, 2026-10-18T11:32:29Z)."
+     },
+     "projected_text": "Projected: Kansas City Chiefs 25, Los Angeles Chargers 17 (Total 42)"
     },
     {
      "id": "H5",
-     "stop": "data_not_found"
+     "stop": "data_not_found",
+     "projected": {
+      "home": 25,
+      "away": 17,
+      "total": 42,
+      "detail": "key trench piece out (rule 38), gaps not measured, no adjustment; equals H1 base margin +8.0, total 41.5 (H1 total)."
+     },
+     "projected_text": "Projected: Kansas City Chiefs 25, Los Angeles Chargers 17 (Total 42)"
     }
    ],
    "sourced_reasons": [
@@ -3805,7 +4155,14 @@
      "id": "H1",
      "public_case": "H1: Net ratings Buffalo Bills 5.4, Las Vegas Raiders −9.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Las Vegas Raiders. Projected margin Buffalo Bills by 13.5. Line Buffalo Bills −5. Edge 8.5. Threshold 2.5 met. Cover Buffalo Bills.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 20,
+      "away": 34,
+      "total": 54,
+      "detail": "Net ratings Buffalo Bills 5.4, Las Vegas Raiders -9.9 (nflverse pbp, Oct 18, 2026); home field +1.75 to Las Vegas Raiders; margin -13.5 Las Vegas Raiders. Total 53.5 = current consensus total (H1 has no totals model)."
+     },
+     "projected_text": "Projected: Las Vegas Raiders 20, Buffalo Bills 34 (Total 54)"
     },
     {
      "id": "H2",
@@ -3814,23 +4171,51 @@
       "Tonka Hemingway",
       "Carter Runyon",
       "Dont'e Thornton Jr."
-     ]
+     ],
+     "projected": {
+      "home": 20,
+      "away": 34,
+      "total": 54,
+      "detail": "H1 base margin -13.5; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin -13.5, total 53.5 (H1 total)."
+     },
+     "projected_text": "Projected: Las Vegas Raiders 20, Buffalo Bills 34 (Total 54)"
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+     "projected": {
+      "home": 20,
+      "away": 34,
+      "total": 54,
+      "detail": "No scheduling system triggers; equals H1 base margin -13.5, total 53.5 (H1 total)."
+     },
+     "projected_text": "Projected: Las Vegas Raiders 20, Buffalo Bills 34 (Total 54)"
     },
     {
      "id": "H4",
      "public_case": "H4: Spread opened Las Vegas Raiders +6 (Oct 13, 2026 04:54 UTC), now +5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Cover Las Vegas Raiders. Total opened 53 (Oct 13, 2026 05:36 UTC), now 53.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold.",
      "market": "spread",
      "best_bet": false,
-     "both_markets_best_bet": false
+     "both_markets_best_bet": false,
+     "projected": {
+      "home": 24,
+      "away": 29,
+      "total": 53,
+      "detail": "Market number: current consensus line Buffalo Bills −5 (home margin -5), total 53.5 (Action Network consensus, 2026-10-18T11:32:29Z)."
+     },
+     "projected_text": "Projected: Las Vegas Raiders 24, Buffalo Bills 29 (Total 53)"
     },
     {
      "id": "H5",
-     "stop": "data_not_found"
+     "stop": "data_not_found",
+     "projected": {
+      "home": 20,
+      "away": 34,
+      "total": 54,
+      "detail": "key trench piece out (rule 38), gaps not measured, no adjustment; equals H1 base margin -13.5, total 53.5 (H1 total)."
+     },
+     "projected_text": "Projected: Las Vegas Raiders 20, Buffalo Bills 34 (Total 54)"
     }
    ],
    "sourced_reasons": [
@@ -4144,7 +4529,14 @@
      "id": "H1",
      "public_case": "H1: Net ratings Green Bay Packers −0.6, Dallas Cowboys −6.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Green Bay Packers. Projected margin Green Bay Packers by 8.0. Line Green Bay Packers −1.5. Edge 6.5. Threshold 2.5 met. Cover Green Bay Packers.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 31,
+      "away": 23,
+      "total": 54,
+      "detail": "Net ratings Green Bay Packers -0.6, Dallas Cowboys -6.9 (nflverse pbp, Oct 18, 2026); home field +1.75 to Green Bay Packers; margin +8.0 Green Bay Packers. Total 53.5 = current consensus total (H1 has no totals model)."
+     },
+     "projected_text": "Projected: Green Bay Packers 31, Dallas Cowboys 23 (Total 54)"
     },
     {
      "id": "H2",
@@ -4156,25 +4548,53 @@
       "Javon Hargrave",
       "Skyy Moore",
       "Benjamin St-Juste"
-     ]
+     ],
+     "projected": {
+      "home": 31,
+      "away": 23,
+      "total": 54,
+      "detail": "H1 base margin +8.0; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin +8.0, total 53.5 (H1 total)."
+     },
+     "projected_text": "Projected: Green Bay Packers 31, Dallas Cowboys 23 (Total 54)"
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+     "projected": {
+      "home": 31,
+      "away": 23,
+      "total": 54,
+      "detail": "No scheduling system triggers; equals H1 base margin +8.0, total 53.5 (H1 total)."
+     },
+     "projected_text": "Projected: Green Bay Packers 31, Dallas Cowboys 23 (Total 54)"
     },
     {
      "id": "H4",
      "public_case": "H4: Spread opened Green Bay Packers −1.5 (Oct 13, 2026 16:31 UTC), now −1.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 52.5 (Oct 13, 2026 04:28 UTC), now 53.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Over.",
      "market": "total",
      "best_bet": true,
-     "both_markets_best_bet": false
+     "both_markets_best_bet": false,
+     "projected": {
+      "home": 28,
+      "away": 26,
+      "total": 54,
+      "detail": "Market number: current consensus line Green Bay Packers −1.5 (home margin +1.5), total 53.5 (Action Network consensus, 2026-10-18T11:32:29Z)."
+     },
+     "projected_text": "Projected: Green Bay Packers 28, Dallas Cowboys 26 (Total 54)"
     },
     {
      "id": "H5",
      "public_case": "H5: Dallas Cowboys 3.8 ypc vs Green Bay Packers allows 4.2; Green Bay Packers 3.4 ypc vs Dallas Cowboys allows 5.3. Sack rate Dallas Cowboys generates 3.5% vs Green Bay Packers allows 5.2%; Green Bay Packers generates 7.5% vs Dallas Cowboys allows 3.0% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 31,
+      "away": 23,
+      "total": 54,
+      "detail": "neither ypc (0.5) nor sack-rate (5 pts) gap clears threshold; equals H1 base margin +8.0, total 53.5 (H1 total)."
+     },
+     "projected_text": "Projected: Green Bay Packers 31, Dallas Cowboys 23 (Total 54)"
     }
    ],
    "sourced_reasons": [
@@ -4585,7 +5005,14 @@
      "id": "H1",
      "public_case": "H1: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to San Francisco 49ers. Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Edge 13.1. Threshold 2.5 met. Cover San Francisco 49ers.",
      "market": "spread",
-     "best_bet": false
+     "best_bet": false,
+     "projected": {
+      "home": 36,
+      "away": 16,
+      "total": 52,
+      "detail": "Net ratings San Francisco 49ers 9.8, Washington Commanders -9.1 (nflverse pbp, Oct 18, 2026); home field +1.75 to San Francisco 49ers; margin +20.6 San Francisco 49ers. Total 52 = current consensus total (H1 has no totals model)."
+     },
+     "projected_text": "Projected: San Francisco 49ers 36, Washington Commanders 16 (Total 52)"
     },
     {
      "id": "H2",
@@ -4598,23 +5025,51 @@
       "Deebo Samuel Sr.",
       "Marques Sigle",
       "Garret Wallow"
-     ]
+     ],
+     "projected": {
+      "home": 36,
+      "away": 16,
+      "total": 52,
+      "detail": "H1 base margin +20.6; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin +20.6, total 52 (H1 total)."
+     },
+     "projected_text": "Projected: San Francisco 49ers 36, Washington Commanders 16 (Total 52)"
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+     "projected": {
+      "home": 36,
+      "away": 16,
+      "total": 52,
+      "detail": "No scheduling system triggers; equals H1 base margin +20.6, total 52 (H1 total)."
+     },
+     "projected_text": "Projected: San Francisco 49ers 36, Washington Commanders 16 (Total 52)"
     },
     {
      "id": "H4",
      "public_case": "H4: Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 50.5 (Oct 13, 2026 05:04 UTC), now 52 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets 1-point threshold. Over.",
      "market": "total",
      "best_bet": true,
-     "both_markets_best_bet": false
+     "both_markets_best_bet": false,
+     "projected": {
+      "home": 30,
+      "away": 22,
+      "total": 52,
+      "detail": "Market number: current consensus line San Francisco 49ers −7.5 (home margin +7.5), total 52 (Action Network consensus, 2026-10-18T11:32:29Z)."
+     },
+     "projected_text": "Projected: San Francisco 49ers 30, Washington Commanders 22 (Total 52)"
     },
     {
      "id": "H5",
-     "stop": "data_not_found"
+     "stop": "data_not_found",
+     "projected": {
+      "home": 36,
+      "away": 16,
+      "total": 52,
+      "detail": "key trench piece out (rule 38), gaps not measured, no adjustment; equals H1 base margin +20.6, total 52 (H1 total)."
+     },
+     "projected_text": "Projected: San Francisco 49ers 36, Washington Commanders 16 (Total 52)"
     }
    ],
    "sourced_reasons": [
