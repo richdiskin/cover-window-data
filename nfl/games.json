@@ -176,7 +176,19 @@
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "",
-   "total_reason_public": ""
+   "total_reason_public": "",
+   "display": {
+    "writer": {
+     "score_line": "",
+     "side": "",
+     "ou": "",
+     "label": ""
+    },
+    "handicappers": [],
+    "best_bets": [],
+    "story_text": "",
+    "fanatic_score_line": ""
+   }
   },
   {
    "game_id": "401872996",
