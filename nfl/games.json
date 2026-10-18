@@ -5,7 +5,7 @@
  "season": 2026,
  "week": 6,
  "week_end": "2026-10-19",
- "generated_at_utc": "2026-10-18T11:40:01Z",
+ "generated_at_utc": "2026-10-18T11:43:01Z",
  "note": "Lines are in market_lines (not spread/total_line) so the app shows no prediction until a Cover Writer pick exists. Handicapper entries absent = Pick coming soon.",
  "games": [
   {
@@ -400,7 +400,7 @@
    "spread": "Jacksonville Jaguars −2.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "",
+   "betting_text": "Texans 24, Jaguars 23. Texans cover the 2.5. Over 42.5. No qualifying edge.",
    "total_pick": "Over",
    "total_reason_public": "",
    "handicappers": [
@@ -453,6 +453,8 @@
     "winner": "Houston Texans",
     "covers": "Houston Texans +2.5"
    },
+   "fanatic_close": "Texans 24, Jaguars 23.",
+   "gambler_close": "Texans 24, Jaguars 23. Texans cover the 2.5. Over 42.5. No qualifying edge.",
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": -2.5,
@@ -652,7 +654,7 @@
    "spread": "Chicago Bears −1.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "",
+   "betting_text": "Falcons 34, Bears 24. Falcons cover the 1.5. Over 52.5. The rating gap projects Atlanta by 10.3 with Chicago favored by 1.5.",
    "total_pick": "Over",
    "total_reason_public": "",
    "handicappers": [
@@ -700,11 +702,13 @@
    ],
    "total_line": 52.5,
    "prediction": {
-    "away_score": 27,
-    "home_score": 28,
+    "away_score": 24,
+    "home_score": 34,
     "winner": "Atlanta Falcons",
     "covers": "Atlanta Falcons +1.5"
    },
+   "fanatic_close": "Falcons 34, Bears 24.",
+   "gambler_close": "Falcons 34, Bears 24. Falcons cover the 1.5. Over 52.5. The rating gap projects Atlanta by 10.3 with Chicago favored by 1.5.",
    "page_note": "",
    "line_used": {
     "home_line": 1.5,
@@ -1044,7 +1048,7 @@
    "spread": "Baltimore Ravens −3",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "",
+   "betting_text": "Ravens 23, Browns 13. Ravens cover the 3. Under 39.5. The rating gap projects Baltimore by 9.6 against a 3-point line.",
    "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
@@ -1091,16 +1095,18 @@
     "H4: Spread opened Cleveland Browns +4.5 (Oct 13, 2026 06:30 UTC), now +3 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets 1-point threshold. Cover Cleveland Browns. Total opened 41.5 (Oct 13, 2026 07:33 UTC), now 39.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 2 meets 1-point threshold. Under.",
     "H4 spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
     "H4 total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
-    "H5: key trench piece ruled out, season metrics include him (38): Cam Jurgens, Broderick Washington, Kalia Davis, Mike Hall Jr., Teven Jenkins",
+    "H5: key trench piece ruled out, season metrics include him (38): Kalia Davis, Mike Hall Jr., Teven Jenkins",
     "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Cam Jurgens (C, BAL) Out; Broderick Washington (DE, BAL) Out; Kalia Davis (DT, CLE) Out; Mike Hall Jr. (DT, CLE) Out; Teven Jenkins (G, CLE) Out"
    ],
    "total_line": 39.5,
    "prediction": {
-    "away_score": 20,
+    "away_score": 23,
     "home_score": 13,
     "winner": "Baltimore Ravens",
     "covers": "Baltimore Ravens −3"
    },
+   "fanatic_close": "Ravens 23, Browns 13.",
+   "gambler_close": "Ravens 23, Browns 13. Ravens cover the 3. Under 39.5. The rating gap projects Baltimore by 9.6 against a 3-point line.",
    "page_note": "",
    "line_used": {
     "home_line": 3,
@@ -1349,7 +1355,7 @@
    "spread": "Indianapolis Colts −6.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "",
+   "betting_text": "Colts 20, Titans 17. Titans cover the 6.5. Under 44.5. No qualifying edge.",
    "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
@@ -1405,6 +1411,8 @@
     "winner": "Indianapolis Colts",
     "covers": "Tennessee Titans +6.5"
    },
+   "fanatic_close": "Colts 20, Titans 17.",
+   "gambler_close": "Colts 20, Titans 17. Titans cover the 6.5. Under 44.5. No qualifying edge.",
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": -6.5,
@@ -1653,7 +1661,7 @@
    "spread": "New England Patriots −7.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "",
+   "betting_text": "Patriots 20, Jets 16. Jets cover the 7.5. Under 43.5. No qualifying edge.",
    "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
@@ -1709,6 +1717,8 @@
     "winner": "New England Patriots",
     "covers": "New York Jets +7.5"
    },
+   "fanatic_close": "Patriots 20, Jets 16.",
+   "gambler_close": "Patriots 20, Jets 16. Jets cover the 7.5. Under 43.5. No qualifying edge.",
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": -7.5,
@@ -1971,7 +1981,7 @@
    "spread": "New Orleans Saints −1.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "",
+   "betting_text": "Giants 20, Saints 17. Giants cover the 1.5. Under 46. No qualifying edge.",
    "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
@@ -2028,6 +2038,8 @@
     "winner": "New York Giants",
     "covers": "New York Giants +1.5"
    },
+   "fanatic_close": "Giants 20, Saints 17.",
+   "gambler_close": "Giants 20, Saints 17. Giants cover the 1.5. Under 46. No qualifying edge.",
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": 1.5,
@@ -2360,7 +2372,7 @@
    "spread": "Carolina Panthers −3",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "",
+   "betting_text": "Eagles 17, Panthers 16. Eagles cover the 3. Under 39. No qualifying edge.",
    "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
@@ -2397,7 +2409,7 @@
     "H4 spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
     "H4 total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
     "H5: key trench piece ruled out, season metrics include him (38): Landon Dickerson",
-    "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Landon Dickerson (G, PHI) Out; QB J.Hurts (PHI) Out"
+    "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Landon Dickerson (G, PHI) Out; QB Jalen Hurts (PHI) Out"
    ],
    "total_line": 39,
    "prediction": {
@@ -2406,6 +2418,8 @@
     "winner": "Philadelphia Eagles",
     "covers": "Philadelphia Eagles +3"
    },
+   "fanatic_close": "Eagles 17, Panthers 16.",
+   "gambler_close": "Eagles 17, Panthers 16. Eagles cover the 3. Under 39. No qualifying edge.",
    "page_note": "No qualifying edge",
    "line_used": {
     "home_line": 3,
@@ -2633,7 +2647,7 @@
    "spread": "Pittsburgh Steelers −2.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "",
+   "betting_text": "Buccaneers 19, Steelers 17. Buccaneers cover the 2.5. Under 38.5. The rating gap projects Tampa Bay by 1.6 with Pittsburgh favored by 2.5.",
    "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
@@ -2683,11 +2697,13 @@
    ],
    "total_line": 38.5,
    "prediction": {
-    "away_score": 16,
-    "home_score": 17,
+    "away_score": 17,
+    "home_score": 19,
     "winner": "Tampa Bay Buccaneers",
     "covers": "Tampa Bay Buccaneers +2.5"
    },
+   "fanatic_close": "Buccaneers 19, Steelers 17.",
+   "gambler_close": "Buccaneers 19, Steelers 17. Buccaneers cover the 2.5. Under 38.5. The rating gap projects Tampa Bay by 1.6 with Pittsburgh favored by 2.5.",
    "page_note": "",
    "line_used": {
     "home_line": 2.5,
@@ -2912,11 +2928,11 @@
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
-   "spread": "",
+   "spread": "Los Angeles Rams −12.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "",
-   "total_pick": "",
+   "betting_text": "Rams 31, Cardinals 14. Rams cover the 12.5. Under 51.5. The rating gap projects Los Angeles by 16.8 against a 12.5-point line.",
+   "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
     {
@@ -2963,18 +2979,25 @@
     "H5: Arizona Cardinals 3.6 ypc vs Los Angeles Rams allows 4.6; Los Angeles Rams 4.8 ypc vs Arizona Cardinals allows 4.6. Sack rate Arizona Cardinals generates 7.3% vs Los Angeles Rams allows 3.2%; Los Angeles Rams generates 5.2% vs Arizona Cardinals allows 6.1% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
     "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): no starting QB or starting lineman ruled out"
    ],
-   "pending_pick": {
-    "covering_side": "Los Angeles Rams −12.5",
-    "ou_pick": "Under 51.5",
-    "notes": {
-     "spread": "",
-     "total": ""
-    },
-    "best_bets": {
-     "spread": "",
-     "total": "Best Bet – H4"
-    },
-    "reason": "awaiting Cover Writer close"
+   "total_line": 51.5,
+   "prediction": {
+    "away_score": 14,
+    "home_score": 31,
+    "winner": "Los Angeles Rams",
+    "covers": "Los Angeles Rams −12.5"
+   },
+   "fanatic_close": "Rams 31, Cardinals 14.",
+   "gambler_close": "Rams 31, Cardinals 14. Rams cover the 12.5. Under 51.5. The rating gap projects Los Angeles by 16.8 against a 12.5-point line.",
+   "page_note": "",
+   "line_used": {
+    "home_line": -12.5,
+    "total": 51.5,
+    "source": "Action Network consensus (book_id 15)",
+    "fetched_at_utc": "2026-10-18T11:32:29Z"
+   },
+   "best_bets": {
+    "spread": "",
+    "total": "Best Bet – H4"
    }
   },
   {
@@ -3231,11 +3254,11 @@
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
-   "spread": "",
+   "spread": "Kansas City Chiefs −7.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "",
-   "total_pick": "",
+   "betting_text": "Chiefs 20, Chargers 16. Chargers cover the 7.5. Under 41.5. The line moved from Kansas City −8.5 on Oct 13 to −7.5 on Oct 18.",
+   "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
     {
@@ -3284,18 +3307,25 @@
     "H5: key trench piece ruled out, season metrics include him (38): Joe Alt, Kayode Awosika, Josh Simmons",
     "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Joe Alt (T, LAC) Out; Kayode Awosika (G, LAC) Out; Josh Simmons (T, KC) Out"
    ],
-   "pending_pick": {
-    "covering_side": "Los Angeles Chargers +7.5",
-    "ou_pick": "Under 41.5",
-    "notes": {
-     "spread": "",
-     "total": ""
-    },
-    "best_bets": {
-     "spread": "Best Bet – H4",
-     "total": "Best Bet – H4"
-    },
-    "reason": "awaiting Cover Writer close"
+   "total_line": 41.5,
+   "prediction": {
+    "away_score": 16,
+    "home_score": 20,
+    "winner": "Kansas City Chiefs",
+    "covers": "Los Angeles Chargers +7.5"
+   },
+   "fanatic_close": "Chiefs 20, Chargers 16.",
+   "gambler_close": "Chiefs 20, Chargers 16. Chargers cover the 7.5. Under 41.5. The line moved from Kansas City −8.5 on Oct 13 to −7.5 on Oct 18.",
+   "page_note": "",
+   "line_used": {
+    "home_line": -7.5,
+    "total": 41.5,
+    "source": "Action Network consensus (book_id 15)",
+    "fetched_at_utc": "2026-10-18T11:32:29Z"
+   },
+   "best_bets": {
+    "spread": "Best Bet – H4",
+    "total": "Best Bet – H4"
    }
   },
   {
@@ -3552,11 +3582,11 @@
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
-   "spread": "",
+   "spread": "Buffalo Bills −5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "",
-   "total_pick": "",
+   "betting_text": "Bills 30, Raiders 17. Bills cover the 5. Under 53.5. The rating gap projects Buffalo by 13.5 against a 5-point line.",
+   "total_pick": "Under",
    "total_reason_public": "",
    "handicappers": [
     {
@@ -3601,18 +3631,25 @@
     "H5: key trench piece ruled out, season metrics include him (38): Tonka Hemingway",
     "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Tonka Hemingway (DT, LV) Out"
    ],
-   "pending_pick": {
-    "covering_side": "Buffalo Bills −5",
-    "ou_pick": "Under 53.5",
-    "notes": {
-     "spread": "",
-     "total": "No qualifying edge"
-    },
-    "best_bets": {
-     "spread": "",
-     "total": ""
-    },
-    "reason": "awaiting Cover Writer close"
+   "total_line": 53.5,
+   "prediction": {
+    "away_score": 30,
+    "home_score": 17,
+    "winner": "Buffalo Bills",
+    "covers": "Buffalo Bills −5"
+   },
+   "fanatic_close": "Bills 30, Raiders 17.",
+   "gambler_close": "Bills 30, Raiders 17. Bills cover the 5. Under 53.5. The rating gap projects Buffalo by 13.5 against a 5-point line.",
+   "page_note": "No qualifying edge",
+   "line_used": {
+    "home_line": 5,
+    "total": 53.5,
+    "source": "Action Network consensus (book_id 15)",
+    "fetched_at_utc": "2026-10-18T11:32:29Z"
+   },
+   "best_bets": {
+    "spread": "",
+    "total": ""
    }
   },
   {
@@ -3862,11 +3899,11 @@
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
-   "spread": "",
+   "spread": "Green Bay Packers −1.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "",
-   "total_pick": "",
+   "betting_text": "Packers 32, Cowboys 24. Packers cover the 1.5. Over 53.5. The rating gap projects Green Bay by 8 against a 1.5-point line.",
+   "total_pick": "Over",
    "total_reason_public": "",
    "handicappers": [
     {
@@ -3916,18 +3953,25 @@
     "H5: Dallas Cowboys 3.8 ypc vs Green Bay Packers allows 4.2; Green Bay Packers 3.4 ypc vs Dallas Cowboys allows 5.3. Sack rate Dallas Cowboys generates 3.5% vs Green Bay Packers allows 5.2%; Green Bay Packers generates 7.5% vs Dallas Cowboys allows 3.0% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
     "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Drew Shelton (T, DAL) Out; Jonathan Ford (DT, GB) Out; Javon Hargrave (DT, GB) Out"
    ],
-   "pending_pick": {
-    "covering_side": "Green Bay Packers −1.5",
-    "ou_pick": "Over 53.5",
-    "notes": {
-     "spread": "",
-     "total": ""
-    },
-    "best_bets": {
-     "spread": "",
-     "total": "Best Bet – H4"
-    },
-    "reason": "awaiting Cover Writer close"
+   "total_line": 53.5,
+   "prediction": {
+    "away_score": 24,
+    "home_score": 32,
+    "winner": "Green Bay Packers",
+    "covers": "Green Bay Packers −1.5"
+   },
+   "fanatic_close": "Packers 32, Cowboys 24.",
+   "gambler_close": "Packers 32, Cowboys 24. Packers cover the 1.5. Over 53.5. The rating gap projects Green Bay by 8 against a 1.5-point line.",
+   "page_note": "",
+   "line_used": {
+    "home_line": -1.5,
+    "total": 53.5,
+    "source": "Action Network consensus (book_id 15)",
+    "fetched_at_utc": "2026-10-18T11:32:29Z"
+   },
+   "best_bets": {
+    "spread": "",
+    "total": "Best Bet – H4"
    }
   },
   {
@@ -4276,11 +4320,11 @@
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261019",
-   "spread": "",
+   "spread": "San Francisco 49ers −7.5",
    "story_text": "",
    "why_this_score": "",
-   "betting_text": "",
-   "total_pick": "",
+   "betting_text": "49ers 38, Commanders 17. 49ers cover the 7.5. Over 52. The rating gap projects San Francisco by 20.6 against a 7.5-point line.",
+   "total_pick": "Over",
    "total_reason_public": "",
    "handicappers": [
     {
@@ -4329,18 +4373,25 @@
     "H5: key trench piece ruled out, season metrics include him (38): Charles Omenihu, Nick Bosa",
     "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Charles Omenihu (DE, WAS) Out; Nick Bosa (DE, SF) Out"
    ],
-   "pending_pick": {
-    "covering_side": "San Francisco 49ers −7.5",
-    "ou_pick": "Over 52",
-    "notes": {
-     "spread": "",
-     "total": ""
-    },
-    "best_bets": {
-     "spread": "",
-     "total": "Best Bet – H4"
-    },
-    "reason": "awaiting Cover Writer close"
+   "total_line": 52,
+   "prediction": {
+    "away_score": 17,
+    "home_score": 38,
+    "winner": "San Francisco 49ers",
+    "covers": "San Francisco 49ers −7.5"
+   },
+   "fanatic_close": "49ers 38, Commanders 17.",
+   "gambler_close": "49ers 38, Commanders 17. 49ers cover the 7.5. Over 52. The rating gap projects San Francisco by 20.6 against a 7.5-point line.",
+   "page_note": "",
+   "line_used": {
+    "home_line": -7.5,
+    "total": 52,
+    "source": "Action Network consensus (book_id 15)",
+    "fetched_at_utc": "2026-10-18T11:32:29Z"
+   },
+   "best_bets": {
+    "spread": "",
+    "total": "Best Bet – H4"
    }
   }
  ],
