@@ -3373,12 +3373,12 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "Los Angeles Rams −12.5",
-   "story_text": "",
+   "story_text": "Rams cover the 12.5. No total edge. The rating gap projects Los Angeles by 16.8 against a 12.5-point line.",
    "why_this_score": "",
    "betting_text": "",
-   "total_pick": "Under",
+   "total_pick": null,
    "total_reason_public": "",
-   "fanatic_final_sentence": "Rams 34, Cardinals 17.",
+   "fanatic_final_sentence": "",
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/ari and https://www.espn.com/nfl/team/_/name/lar (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/ari, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/lar), retrieved 2026-10-18T11:44:50Z",
     "401873004_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
@@ -3390,14 +3390,7 @@
      "id": "H1",
      "public_case": "H1: Net ratings Los Angeles Rams 6.1, Arizona Cardinals −8.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Los Angeles Rams. Projected margin Los Angeles Rams by 16.8. Line Los Angeles Rams −12.5. Edge 4.3. Threshold 2.5 met. Cover Los Angeles Rams.",
      "market": "spread",
-     "best_bet": false,
-     "projected": {
-      "home": 34,
-      "away": 17,
-      "total": 51,
-      "detail": "Net ratings Los Angeles Rams 6.1, Arizona Cardinals -8.9 (nflverse pbp, Oct 18, 2026); home field +1.75 to Los Angeles Rams; margin +16.8 Los Angeles Rams. Total 51.5 = current consensus total (H1 has no totals model)."
-     },
-     "projected_text": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)"
+     "best_bet": false
     },
     {
      "id": "H2",
@@ -3406,26 +3399,12 @@
       "Jeremiyah Love",
       "Wydett Williams Jr.",
       "Andrew Wingard"
-     ],
-     "projected": {
-      "home": 34,
-      "away": 17,
-      "total": 51,
-      "detail": "H1 base margin +16.8; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin +16.8, total 51.5 (H1 total)."
-     },
-     "projected_text": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)"
+     ]
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
-     "projected": {
-      "home": 34,
-      "away": 17,
-      "total": 51,
-      "detail": "No scheduling system triggers; equals H1 base margin +16.8, total 51.5 (H1 total)."
-     },
-     "projected_text": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)"
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
     },
     {
      "id": "H4",
@@ -3433,26 +3412,13 @@
      "market": "total",
      "best_bet": true,
      "both_markets_best_bet": false,
-     "projected": {
-      "home": 32,
-      "away": 20,
-      "total": 52,
-      "detail": "Market number: current consensus line Los Angeles Rams −12.5 (home margin +12.5), total 51.5 (Action Network consensus, 2026-10-18T11:32:29Z)."
-     },
-     "projected_text": "Projected: Los Angeles Rams 32, Arizona Cardinals 20 (Total 52)"
+     "total_trigger": "Under"
     },
     {
      "id": "H5",
      "public_case": "H5: Arizona Cardinals 3.6 ypc vs Los Angeles Rams allows 4.6; Los Angeles Rams 4.8 ypc vs Arizona Cardinals allows 4.6. Sack rate Arizona Cardinals generates 7.3% vs Los Angeles Rams allows 3.2%; Los Angeles Rams generates 5.2% vs Arizona Cardinals allows 6.1% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
      "market": "spread",
-     "best_bet": false,
-     "projected": {
-      "home": 34,
-      "away": 17,
-      "total": 51,
-      "detail": "neither ypc (0.5) nor sack-rate (5 pts) gap clears threshold; equals H1 base margin +16.8, total 51.5 (H1 total)."
-     },
-     "projected_text": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)"
+     "best_bet": false
     }
    ],
    "sourced_reasons": [
@@ -3468,9 +3434,9 @@
    ],
    "total_line": 51.5,
    "prediction": {
-    "away_score": 17,
-    "home_score": 34,
-    "winner": "Los Angeles Rams",
+    "away_score": null,
+    "home_score": null,
+    "winner": null,
     "covers": "Los Angeles Rams −12.5"
    },
    "page_note": "",
@@ -3484,8 +3450,8 @@
     "spread": "",
     "total": "Best Bet – H4"
    },
-   "gambler_story": "The Arizona Cardinals (1-4) visit the Los Angeles Rams (2-3) at SoFi Stadium in Inglewood, kicking off at 4:05 PM ET Sunday, Oct 18, on Fox. The game opened with Los Angeles at −13 on Oct 13 at 05:35 UTC. As of Oct 18 at 11:32 UTC the consensus is Rams −12.5, a half-point move toward Arizona. The number is well past 7. A 13-point Rams win, which pushed at the opener, now clears it.\n\nThe total opened at 52.5 (Oct 13, 05:38 UTC) and has dropped a full point to 51.5. No bets-versus-money split was published free for this game.\n\nThe ratings back a big number and then some. Play-by-play efficiency has the Rams at +6.1 and Arizona at −8.9, a 15-point gap before home field. Add 1.75 points of home field and the projection is Rams by 16.8, which is 4.3 points beyond the 12.5.\n\nThe trench numbers are closer than the ratings. Arizona runs for 3.6 yards a carry against a Rams defense allowing 4.6, and the Rams run for 4.8 against an Arizona defense allowing 4.6. Arizona's pass rush gets home on 7.3% of dropbacks, but the Rams' front allows only 3.2%. The Rams sack 5.2% against an Arizona front that allows 6.1%. None of those gaps reaches the cutoff for a clear advantage.\n\nInjuries tilt toward Los Angeles. No starting quarterback is out. Arizona is without safeties Wydett Williams Jr. and Andrew Wingard and running back Jeremiyah Love, with safeties Budda Baker and Kitan Crawford questionable. The Rams list only safety Kam Curl and cornerback Trent McDuffie as questionable. No point figure was found for any of those absences.\n\nArizona, 1-2 on the road, has allowed 162 points in five games and scored 108. The Rams, 1-2 at home, have scored 119 and allowed 120. A falling total and a projection built on the Rams' defense point toward a lopsided but not wide-open game. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate the Rams at 6.1 and Arizona at −8.9. I add 1.75 points of home field for the Rams. That projects the Rams by 16.8. The market has the Rams at −12.5, so the gap is 4.3 points, clear of my 2.5-point cutoff. A 4.3-point edge for the Rams.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so nobody gets priced. No edge.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No edge.\n\nH4 - Follow The Money: The Rams went from −13 on Oct 13 to −12.5, a 0.5-point move. The total went from 52.5 to 51.5. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. Edge: the Under on the total. No edge on the side.\n\nH5 - In The Trenches: Arizona runs for 3.6 yards a carry against a Rams defense that allows 4.6. The Rams run for 4.8 against 4.6 allowed. On sack rate, Arizona generates 7.3% against 3.2% allowed, and the Rams generate 5.2% against 6.1% allowed. Neither gap reaches my 0.5-yard or 5-point cutoff. No edge.\n\nRams 34, Cardinals 17, Rams cover the 12.5, Under 51.5.",
-   "fanatic_story": "The Arizona Cardinals (1-4) visit the Los Angeles Rams (2-3) at SoFi Stadium in Inglewood, Calif., kickoff 4:05 PM ET Sunday, Oct 18, on Fox.\n\nNeither team has found its footing. The Rams are 1-2 at home and have scored 119 points while allowing 120. Arizona has scored 108 but allowed 162 in five games, the most of any team on this slate, and is 1-2 on the road.\n\nArizona's injury list sits mostly in the secondary. Safeties Wydett Williams Jr. and Andrew Wingard are out, and safeties Budda Baker and Kitan Crawford are questionable, along with linebacker Zaven Collins and punter Blake Gillikin. Running back Jeremiyah Love is out with an ankle injury.\n\nThe Rams are close to full strength. Safety Kam Curl and cornerback Trent McDuffie are questionable.\n\nThe season ratings see a much wider gap than the records. They have the Rams at +6.1 and Arizona at −8.9. With 1.75 points of home field, they project the Rams by 16.8.\n\nUp front, the numbers are closer. Arizona runs for 3.6 yards a carry against a Rams defense that allows 4.6, and the Rams run for 4.8 against an Arizona defense that allows 4.6. Arizona's pass rush brings down the quarterback on 7.3% of dropbacks, but the Rams' front allows just 3.2%. The Rams sack 5.2% against an Arizona front that allows 6.1%. None of those gaps is large enough to call a clear advantage.\n\nThe schedule adds nothing for either side.\n\nThe test for Arizona is simple to state and hard to pass: a secondary missing two safeties, with two more questionable, against a Rams offense at home. The Rams' job is to play to their ratings rather than their record. Here is how our five handicappers see it.\n\nH1 - The Formula: My ratings project the Rams by 16.8. That's a clear gap.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so no one else counts. Nothing qualified.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. Nothing qualified.\n\nH4 - Follow The Money: Follow The Money sits out the Fanatic edition.\n\nH5 - In The Trenches: Arizona runs for 3.6 yards a carry against a Rams defense that allows 4.6. The Rams run for 4.8 against 4.6 allowed. On sack rate, Arizona generates 7.3% against 3.2% allowed, and the Rams generate 5.2% against 6.1% allowed. Neither gap reaches my 0.5-yard or 5-point cutoff. Nothing qualified.\n\nRams 34, Cardinals 17.",
+   "gambler_story": "The Arizona Cardinals (1-4) visit the Los Angeles Rams (2-3) at SoFi Stadium in Inglewood, kicking off at 4:05 PM ET Sunday, Oct 18, on Fox. The game opened with Los Angeles at −13 on Oct 13 at 05:35 UTC. As of Oct 18 at 11:32 UTC the consensus is Rams −12.5, a half-point move toward Arizona. The number is well past 7. A 13-point Rams win, which pushed at the opener, now clears it.\n\nThe total opened at 52.5 (Oct 13, 05:38 UTC) and has dropped a full point to 51.5. No bets-versus-money split was published free for this game.\n\nThe ratings back a big number and then some. Play-by-play efficiency has the Rams at +6.1 and Arizona at −8.9, a 15-point gap before home field. Add 1.75 points of home field and the projection is Rams by 16.8, which is 4.3 points beyond the 12.5.\n\nThe trench numbers are closer than the ratings. Arizona runs for 3.6 yards a carry against a Rams defense allowing 4.6, and the Rams run for 4.8 against an Arizona defense allowing 4.6. Arizona's pass rush gets home on 7.3% of dropbacks, but the Rams' front allows only 3.2%. The Rams sack 5.2% against an Arizona front that allows 6.1%. None of those gaps reaches the cutoff for a clear advantage.\n\nInjuries tilt toward Los Angeles. No starting quarterback is out. Arizona is without safeties Wydett Williams Jr. and Andrew Wingard and running back Jeremiyah Love, with safeties Budda Baker and Kitan Crawford questionable. The Rams list only safety Kam Curl and cornerback Trent McDuffie as questionable. No point figure was found for any of those absences.\n\nArizona, 1-2 on the road, has allowed 162 points in five games and scored 108. The Rams, 1-2 at home, have scored 119 and allowed 120. A falling total and a projection built on the Rams' defense point toward a lopsided but not wide-open game. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate the Rams at 6.1 and Arizona at −8.9. I add 1.75 points of home field for the Rams. That projects the Rams by 16.8. The market has the Rams at −12.5, so the gap is 4.3 points, clear of my 2.5-point cutoff. A 4.3-point edge for the Rams.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so nobody gets priced. No edge.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No edge.\n\nH4 - Follow The Money: The Rams went from −13 on Oct 13 to −12.5, a 0.5-point move. The total went from 52.5 to 51.5. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. Edge: the Under on the total. No edge on the side.\n\nH5 - In The Trenches: Arizona runs for 3.6 yards a carry against a Rams defense that allows 4.6. The Rams run for 4.8 against 4.6 allowed. On sack rate, Arizona generates 7.3% against 3.2% allowed, and the Rams generate 5.2% against 6.1% allowed. Neither gap reaches my 0.5-yard or 5-point cutoff. No edge.\n\nRams cover the 12.5. No total edge.",
+   "fanatic_story": "The Arizona Cardinals (1-4) visit the Los Angeles Rams (2-3) at SoFi Stadium in Inglewood, Calif., kickoff 4:05 PM ET Sunday, Oct 18, on Fox.\n\nNeither team has found its footing. The Rams are 1-2 at home and have scored 119 points while allowing 120. Arizona has scored 108 but allowed 162 in five games, the most of any team on this slate, and is 1-2 on the road.\n\nArizona's injury list sits mostly in the secondary. Safeties Wydett Williams Jr. and Andrew Wingard are out, and safeties Budda Baker and Kitan Crawford are questionable, along with linebacker Zaven Collins and punter Blake Gillikin. Running back Jeremiyah Love is out with an ankle injury.\n\nThe Rams are close to full strength. Safety Kam Curl and cornerback Trent McDuffie are questionable.\n\nThe season ratings see a much wider gap than the records. They have the Rams at +6.1 and Arizona at −8.9. With 1.75 points of home field, they project the Rams by 16.8.\n\nUp front, the numbers are closer. Arizona runs for 3.6 yards a carry against a Rams defense that allows 4.6, and the Rams run for 4.8 against an Arizona defense that allows 4.6. Arizona's pass rush brings down the quarterback on 7.3% of dropbacks, but the Rams' front allows just 3.2%. The Rams sack 5.2% against an Arizona front that allows 6.1%. None of those gaps is large enough to call a clear advantage.\n\nThe schedule adds nothing for either side.\n\nThe test for Arizona is simple to state and hard to pass: a secondary missing two safeties, with two more questionable, against a Rams offense at home. The Rams' job is to play to their ratings rather than their record. Here is how our five handicappers see it.\n\nH1 - The Formula: My ratings project the Rams by 16.8. That's a clear gap.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so no one else counts. Nothing qualified.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. Nothing qualified.\n\nH4 - Follow The Money: Follow The Money sits out the Fanatic edition.\n\nH5 - In The Trenches: Arizona runs for 3.6 yards a carry against a Rams defense that allows 4.6. The Rams run for 4.8 against 4.6 allowed. On sack rate, Arizona generates 7.3% against 3.2% allowed, and the Rams generate 5.2% against 6.1% allowed. Neither gap reaches my 0.5-yard or 5-point cutoff. Nothing qualified.\n\nFinal score: not projected.",
    "preview_sources": [
     "401873004_facts.md: records, venue, kickoff, TV, NFL.com injury report (https://www.nfl.com/injuries/league/2026/reg6, fetched 2026-10-18T11:28:22Z), consensus line 2026-10-18T11:28:15Z",
     "espn_team_records.json: home/road splits, points for/against (ESPN team API, retrieved 2026-10-18T11:44Z)",
@@ -3498,7 +3464,32 @@
     "Net ratings, projection, trench figures: picks_wave2.json (nflverse play-by-play, Oct 18, 2026)",
     "Records/points: espn_team_records.json (ESPN team API, retrieved 2026-10-18T11:44Z)",
     "Published pick and score: closes_wave2.json"
-   ]
+   ],
+   "writer_total": {
+    "label": "Projected total (H1)",
+    "source": "H1",
+    "projected_total": 50.9,
+    "market_total": 51.5,
+    "edge": -0.6,
+    "bar": 2.5,
+    "pick": null,
+    "text": "No total edge",
+    "sample_games": {
+     "ARI": 5,
+     "LAR": 5
+    },
+    "sample_text": null,
+    "inputs": [
+     {
+      "id": "H1",
+      "total": 50.9,
+      "away_pts": null,
+      "home_pts": null,
+      "note": "Rule 165: each team's projected points = mean(own points scored per game, opponent points allowed per game); 2026 REG weeks 1-5, nflverse games (https://github.com/nflverse/nfldata/raw/master/data/games.csv, retrieved 2026-10-18T17:39Z); no home field, no multiplier; qualifies at 2.5"
+     }
+    ]
+   },
+   "rule_version": "166"
   },
   {
    "game_id": "401873006",
@@ -3866,7 +3857,7 @@
    },
    "best_bets": {
     "spread": "",
-    "total": "Best Bet – H4"
+    "total": ""
    },
    "gambler_story": "The Los Angeles Chargers (0-5) visit the Kansas City Chiefs (4-0) at Arrowhead Stadium, kicking off at 4:25 PM ET Sunday, Oct 18, on CBS. The game opened with Kansas City at −8.5 on Oct 13 at 10:31 UTC. As of Oct 18 at 11:32 UTC the consensus is Chiefs −7.5, a full point toward the Chargers. The number now sits a half-point above 7, the second key number, so a Chiefs win by exactly 7 lands on the Chargers' side.\n\nThe total moved down a point as well, from 42.5 (Oct 13, 12:04 UTC) to 41.5. No bets-versus-money split was published free.\n\nThe ratings agree with the current number almost exactly. Play-by-play efficiency has Kansas City at +0.8 and the Chargers at −5.5. Add 1.75 points of home field and the projection is Chiefs by 8.0, only half a point past the 7.5. The market has moved toward the Chargers despite their 0-5 record.\n\nThe trenches are where this game gets complicated. The Chargers are without tackle Joe Alt and guard Kayode Awosika, two starters up front whose play is still inside their season numbers. Kansas City is also missing tackle Josh Simmons. No point figure was found for those absences, so none were applied to the number.\n\nThe Chargers' defensive list is long. Safety Derwin James and cornerback Donte Jackson are out, cornerback Rodney Shelley is doubtful, receiver Tre Harris is out, and defensive tackles Dalvin Tomlinson and Jamaree Caldwell are questionable. Kansas City plays without receiver Rashee Rice, with cornerback L'Jarius Sneed questionable. No starting quarterback is out on either side.\n\nKansas City, 2-0 at home, has scored 118 points and allowed only 77 in four games. The Chargers, 0-2 on the road, have scored only 84 and allowed 129 in five. Two offenses with real absences and one stingy defense support the drop in the total. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate Kansas City at 0.8 and the Chargers at −5.5. I add 1.75 points of home field for Kansas City. That projects Kansas City by 8.0. The market has Kansas City at −7.5, so the gap is 0.5 points, inside my 2.5-point cutoff. No edge.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so nobody gets priced. No edge.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No edge.\n\nH4 - Follow The Money: Kansas City went from −8.5 on Oct 13 to −7.5, a 1-point move. The total went from 42.5 to 41.5. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. Edge: the Chargers on the side and the Under on the total.\n\nH5 - In The Trenches: Joe Alt, Kayode Awosika and Josh Simmons are ruled out, and my season numbers still include them, so I don't grade this matchup. No edge.\n\nChiefs 25, Chargers 16, Chiefs cover the 7.5, Under 41.5. No qualifying edge.",
    "fanatic_story": "The Los Angeles Chargers (0-5) visit the Kansas City Chiefs (4-0) at Arrowhead Stadium in Kansas City, kickoff 4:25 PM ET Sunday, Oct 18, on CBS.\n\nThis AFC West meeting pairs an unbeaten team with a winless one. Kansas City is unbeaten, 2-0 at home and 2-0 away, and has allowed just 77 points in four games while scoring 118. The Chargers are winless, 0-2 on the road, with 84 points scored and 129 allowed.\n\nThe Chargers' injury report is long. Tackle Joe Alt and guard Kayode Awosika are out, two starters up front whose play is still built into the season numbers. Safety Derwin James, cornerback Donte Jackson and receiver Tre Harris are out, and cornerback Rodney Shelley is doubtful. Defensive tackles Dalvin Tomlinson and Jamaree Caldwell, defensive end Bud Dupree, linebacker Daiyan Henley and receivers KeAndre Lambert-Smith and Brenen Thompson are questionable.\n\nKansas City has fewer absences but notable ones. Receiver Rashee Rice and tackle Josh Simmons are out, and cornerback L'Jarius Sneed is questionable.\n\nThe season ratings have Kansas City at +0.8 and the Chargers at −5.5. With 1.75 points of home field, they project the Chiefs by 8.0.\n\nThere is no scheduling angle; both teams arrive on a normal week.\n\nThe matchup to watch is the Chargers' rebuilt blocking without Alt and Awosika, and a secondary without James and Jackson, against a Kansas City team that has not lost. On the other side, the Chiefs play without Rice and without Simmons at tackle. Here is how our five handicappers see it.\n\nH1 - The Formula: My ratings project Kansas City by 8.0. Not a big enough gap to call.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so no one else counts. Nothing qualified.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. Nothing qualified.\n\nH4 - Follow The Money: Follow The Money sits out the Fanatic edition.\n\nH5 - In The Trenches: Joe Alt, Kayode Awosika and Josh Simmons are ruled out, and my season numbers still include them, so I don't grade this matchup. Nothing qualified.\n\nChiefs 25, Chargers 16.",
@@ -4138,12 +4129,12 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "Buffalo Bills −5",
-   "story_text": "",
+   "story_text": "Bills 35, Raiders 22. Bills cover the 5. Over 53.5. The rating gap projects Buffalo by 13.5 against a 5-point line.",
    "why_this_score": "",
    "betting_text": "",
-   "total_pick": "Under",
+   "total_pick": "Over",
    "total_reason_public": "",
-   "fanatic_final_sentence": "Bills 33, Raiders 20.",
+   "fanatic_final_sentence": "Bills 35, Raiders 22.",
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/buf and https://www.espn.com/nfl/team/_/name/lv (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/buf, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/lv), retrieved 2026-10-18T11:44:50Z",
     "401873005_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
@@ -4157,12 +4148,11 @@
      "market": "spread",
      "best_bet": false,
      "projected": {
-      "home": 20,
-      "away": 34,
-      "total": 54,
-      "detail": "Net ratings Buffalo Bills 5.4, Las Vegas Raiders -9.9 (nflverse pbp, Oct 18, 2026); home field +1.75 to Las Vegas Raiders; margin -13.5 Las Vegas Raiders. Total 53.5 = current consensus total (H1 has no totals model)."
-     },
-     "projected_text": "Projected: Las Vegas Raiders 20, Buffalo Bills 34 (Total 54)"
+      "home": 22,
+      "away": 35,
+      "total": 56.6,
+      "detail": "Rule 165: each team's projected points = mean(own points scored per game, opponent points allowed per game); 2026 REG weeks 1-5, nflverse games (https://github.com/nflverse/nfldata/raw/master/data/games.csv, retrieved 2026-10-18T17:39Z); no home field, no multiplier; qualifies at 2.5"
+     }
     },
     {
      "id": "H2",
@@ -4171,26 +4161,12 @@
       "Tonka Hemingway",
       "Carter Runyon",
       "Dont'e Thornton Jr."
-     ],
-     "projected": {
-      "home": 20,
-      "away": 34,
-      "total": 54,
-      "detail": "H1 base margin -13.5; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin -13.5, total 53.5 (H1 total)."
-     },
-     "projected_text": "Projected: Las Vegas Raiders 20, Buffalo Bills 34 (Total 54)"
+     ]
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
-     "projected": {
-      "home": 20,
-      "away": 34,
-      "total": 54,
-      "detail": "No scheduling system triggers; equals H1 base margin -13.5, total 53.5 (H1 total)."
-     },
-     "projected_text": "Projected: Las Vegas Raiders 20, Buffalo Bills 34 (Total 54)"
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
     },
     {
      "id": "H4",
@@ -4198,24 +4174,11 @@
      "market": "spread",
      "best_bet": false,
      "both_markets_best_bet": false,
-     "projected": {
-      "home": 24,
-      "away": 29,
-      "total": 53,
-      "detail": "Market number: current consensus line Buffalo Bills −5 (home margin -5), total 53.5 (Action Network consensus, 2026-10-18T11:32:29Z)."
-     },
-     "projected_text": "Projected: Las Vegas Raiders 24, Buffalo Bills 29 (Total 53)"
+     "total_trigger": null
     },
     {
      "id": "H5",
-     "stop": "data_not_found",
-     "projected": {
-      "home": 20,
-      "away": 34,
-      "total": 54,
-      "detail": "key trench piece out (rule 38), gaps not measured, no adjustment; equals H1 base margin -13.5, total 53.5 (H1 total)."
-     },
-     "projected_text": "Projected: Las Vegas Raiders 20, Buffalo Bills 34 (Total 54)"
+     "stop": "data_not_found"
     }
    ],
    "sourced_reasons": [
@@ -4231,8 +4194,8 @@
    ],
    "total_line": 53.5,
    "prediction": {
-    "away_score": 33,
-    "home_score": 20,
+    "away_score": 35,
+    "home_score": 22,
     "winner": "Buffalo Bills",
     "covers": "Buffalo Bills −5"
    },
@@ -4247,8 +4210,8 @@
     "spread": "",
     "total": ""
    },
-   "gambler_story": "The Buffalo Bills (4-1) visit the Las Vegas Raiders (3-2) at Allegiant Stadium, kicking off at 4:25 PM ET Sunday, Oct 18, on CBS. The game opened with Las Vegas getting 6 on Oct 13 at 04:54 UTC. As of Oct 18 at 11:32 UTC the consensus is Raiders +5, a full point toward the home team. The number sits between the key numbers 3 and 7.\n\nThe total barely moved, from 53 (Oct 13, 05:36 UTC) to 53.5, the highest total in the late-afternoon window. No bets-versus-money split was published free.\n\nThe ratings see a much bigger gap than the market. Play-by-play efficiency has Buffalo at +5.4 and Las Vegas at −9.9. Even after 1.75 points of home field for the Raiders, the projection is Buffalo by 13.5, which is 8.5 points beyond the 5. The market move has gone the other way.\n\nThe injury picture is mostly uncertain on Buffalo's side. Receivers DJ Moore and Josh Palmer, defensive ends Ed Oliver and T.J. Sanders, and cornerback Dee Alford are all questionable. Las Vegas is without defensive tackle Tonka Hemingway, a trench starter whose play is still inside the season numbers, plus tight end Carter Runyon and receiver Dont'e Thornton Jr., with center Trey Zuhn III questionable. No starting quarterback is out, and no point figure was found for the other absences.\n\nBuffalo, 2-0 on the road, has scored 164 points in five games, the most of any team in our data, and allowed 141. Las Vegas, 1-1 at home, has scored 132 and allowed 129. Both offenses can score, which is why the total is high. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate Buffalo at 5.4 and Las Vegas at −9.9. I add 1.75 points of home field for Las Vegas. That projects Buffalo by 13.5. The market has Buffalo at −5, so the gap is 8.5 points, clear of my 2.5-point cutoff. An 8.5-point edge for Buffalo.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so nobody gets priced. No edge.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No edge.\n\nH4 - Follow The Money: Las Vegas went from +6 on Oct 13 to +5, a 1-point move. The total went from 53 to 53.5. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. Edge: Las Vegas on the side.\n\nH5 - In The Trenches: Tonka Hemingway is ruled out, and my season numbers still include him, so I don't grade this matchup. No edge.\n\nBills 33, Raiders 20, Bills cover the 5, Under 53.5.",
-   "fanatic_story": "The Buffalo Bills (4-1) visit the Las Vegas Raiders (3-2) at Allegiant Stadium in Las Vegas, kickoff 4:25 PM ET Sunday, Oct 18, on CBS, in the late-afternoon window.\n\nBuffalo has scored more than anyone on this slate, 164 points in five games, and is 2-0 on the road and 2-1 at home. The Bills have also allowed 141, so their games have not been quiet. Las Vegas is 1-1 at home and 2-1 on the road, with 132 points scored and 129 allowed.\n\nBuffalo's injury list is all questionable: receivers DJ Moore and Josh Palmer, defensive ends Ed Oliver and T.J. Sanders, and cornerback Dee Alford. If Moore and Oliver both play, the Bills are close to full strength.\n\nLas Vegas is missing defensive tackle Tonka Hemingway, out with a concussion, whose play is still part of the Raiders' season numbers, plus tight end Carter Runyon (foot) and receiver Dont'e Thornton Jr. (hamstring). Center Trey Zuhn III is questionable.\n\nThe season ratings see Buffalo as the clearly stronger team, at +5.4 against Las Vegas at −9.9. Even after 1.75 points of home field for the Raiders, they project Buffalo by 13.5.\n\nThere is no scheduling angle for either team.\n\nThe game sets a high-scoring Buffalo offense against a Raiders defense that has allowed 129 points and will be without Hemingway in the middle. For Las Vegas, the path runs through its own offense, which has scored 132, and through keeping pace with the highest-scoring offense on this slate. Here is how our five handicappers see it.\n\nH1 - The Formula: My ratings project Buffalo by 13.5. That's a clear gap.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so no one else counts. Nothing qualified.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. Nothing qualified.\n\nH4 - Follow The Money: Follow The Money sits out the Fanatic edition.\n\nH5 - In The Trenches: Tonka Hemingway is ruled out, and my season numbers still include him, so I don't grade this matchup. Nothing qualified.\n\nBills 33, Raiders 20.",
+   "gambler_story": "The Buffalo Bills (4-1) visit the Las Vegas Raiders (3-2) at Allegiant Stadium, kicking off at 4:25 PM ET Sunday, Oct 18, on CBS. The game opened with Las Vegas getting 6 on Oct 13 at 04:54 UTC. As of Oct 18 at 11:32 UTC the consensus is Raiders +5, a full point toward the home team. The number sits between the key numbers 3 and 7.\n\nThe total barely moved, from 53 (Oct 13, 05:36 UTC) to 53.5, the highest total in the late-afternoon window. No bets-versus-money split was published free.\n\nThe ratings see a much bigger gap than the market. Play-by-play efficiency has Buffalo at +5.4 and Las Vegas at −9.9. Even after 1.75 points of home field for the Raiders, the projection is Buffalo by 13.5, which is 8.5 points beyond the 5. The market move has gone the other way.\n\nThe injury picture is mostly uncertain on Buffalo's side. Receivers DJ Moore and Josh Palmer, defensive ends Ed Oliver and T.J. Sanders, and cornerback Dee Alford are all questionable. Las Vegas is without defensive tackle Tonka Hemingway, a trench starter whose play is still inside the season numbers, plus tight end Carter Runyon and receiver Dont'e Thornton Jr., with center Trey Zuhn III questionable. No starting quarterback is out, and no point figure was found for the other absences.\n\nBuffalo, 2-0 on the road, has scored 164 points in five games, the most of any team in our data, and allowed 141. Las Vegas, 1-1 at home, has scored 132 and allowed 129. Both offenses can score, which is why the total is high. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate Buffalo at 5.4 and Las Vegas at −9.9. I add 1.75 points of home field for Las Vegas. That projects Buffalo by 13.5. The market has Buffalo at −5, so the gap is 8.5 points, clear of my 2.5-point cutoff. An 8.5-point edge for Buffalo.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so nobody gets priced. No edge.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No edge.\n\nH4 - Follow The Money: Las Vegas went from +6 on Oct 13 to +5, a 1-point move. The total went from 53 to 53.5. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. Edge: Las Vegas on the side.\n\nH5 - In The Trenches: Tonka Hemingway is ruled out, and my season numbers still include him, so I don't grade this matchup. No edge.\n\nBills 35, Raiders 22, Bills cover the 5, Over 53.5.",
+   "fanatic_story": "The Buffalo Bills (4-1) visit the Las Vegas Raiders (3-2) at Allegiant Stadium in Las Vegas, kickoff 4:25 PM ET Sunday, Oct 18, on CBS, in the late-afternoon window.\n\nBuffalo has scored more than anyone on this slate, 164 points in five games, and is 2-0 on the road and 2-1 at home. The Bills have also allowed 141, so their games have not been quiet. Las Vegas is 1-1 at home and 2-1 on the road, with 132 points scored and 129 allowed.\n\nBuffalo's injury list is all questionable: receivers DJ Moore and Josh Palmer, defensive ends Ed Oliver and T.J. Sanders, and cornerback Dee Alford. If Moore and Oliver both play, the Bills are close to full strength.\n\nLas Vegas is missing defensive tackle Tonka Hemingway, out with a concussion, whose play is still part of the Raiders' season numbers, plus tight end Carter Runyon (foot) and receiver Dont'e Thornton Jr. (hamstring). Center Trey Zuhn III is questionable.\n\nThe season ratings see Buffalo as the clearly stronger team, at +5.4 against Las Vegas at −9.9. Even after 1.75 points of home field for the Raiders, they project Buffalo by 13.5.\n\nThere is no scheduling angle for either team.\n\nThe game sets a high-scoring Buffalo offense against a Raiders defense that has allowed 129 points and will be without Hemingway in the middle. For Las Vegas, the path runs through its own offense, which has scored 132, and through keeping pace with the highest-scoring offense on this slate. Here is how our five handicappers see it.\n\nH1 - The Formula: My ratings project Buffalo by 13.5. That's a clear gap.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so no one else counts. Nothing qualified.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. Nothing qualified.\n\nH4 - Follow The Money: Follow The Money sits out the Fanatic edition.\n\nH5 - In The Trenches: Tonka Hemingway is ruled out, and my season numbers still include him, so I don't grade this matchup. Nothing qualified.\n\nBills 35, Raiders 22.",
    "preview_sources": [
     "401873005_facts.md: records, venue, kickoff, TV, NFL.com injury report (https://www.nfl.com/injuries/league/2026/reg6, fetched 2026-10-18T11:28:22Z), consensus line 2026-10-18T11:28:15Z",
     "espn_team_records.json: home/road splits, points for/against (ESPN team API, retrieved 2026-10-18T11:44Z)",
@@ -4262,7 +4225,32 @@
     "Records/points: espn_team_records.json (ESPN team API, retrieved 2026-10-18T11:44Z)",
     "Published pick and score: closes_wave2.json",
     "'most of any team in our data' compares the 26 teams in espn_team_records.json; 'highest total on the 4 p.m. slate' compares the three 4 PM fact sheets"
-   ]
+   ],
+   "writer_total": {
+    "label": "Projected total (H1)",
+    "source": "H1",
+    "projected_total": 56.6,
+    "market_total": 53.5,
+    "edge": 3.1,
+    "bar": 2.5,
+    "pick": "Over",
+    "text": "Over 53.5 · Edge 3.10",
+    "sample_games": {
+     "BUF": 5,
+     "LV": 5
+    },
+    "sample_text": null,
+    "inputs": [
+     {
+      "id": "H1",
+      "total": 56.6,
+      "away_pts": null,
+      "home_pts": null,
+      "note": "Rule 165: each team's projected points = mean(own points scored per game, opponent points allowed per game); 2026 REG weeks 1-5, nflverse games (https://github.com/nflverse/nfldata/raw/master/data/games.csv, retrieved 2026-10-18T17:39Z); no home field, no multiplier; qualifies at 2.5"
+     }
+    ]
+   },
+   "rule_version": "166"
   },
   {
    "game_id": "401873007",
@@ -4512,12 +4500,12 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018",
    "spread": "Green Bay Packers −1.5",
-   "story_text": "",
+   "story_text": "Packers 29, Cowboys 20. Packers cover the 1.5. Under 53.5. The rating gap projects Green Bay by 8 against a 1.5-point line.",
    "why_this_score": "",
    "betting_text": "",
-   "total_pick": "Over",
+   "total_pick": "Under",
    "total_reason_public": "",
-   "fanatic_final_sentence": "Packers 30, Cowboys 24.",
+   "fanatic_final_sentence": "Packers 29, Cowboys 20.",
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/dal and https://www.espn.com/nfl/team/_/name/gb (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/dal, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/gb), retrieved 2026-10-18T11:44:51Z",
     "401873007_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
@@ -4531,12 +4519,11 @@
      "market": "spread",
      "best_bet": false,
      "projected": {
-      "home": 31,
-      "away": 23,
-      "total": 54,
-      "detail": "Net ratings Green Bay Packers -0.6, Dallas Cowboys -6.9 (nflverse pbp, Oct 18, 2026); home field +1.75 to Green Bay Packers; margin +8.0 Green Bay Packers. Total 53.5 = current consensus total (H1 has no totals model)."
-     },
-     "projected_text": "Projected: Green Bay Packers 31, Dallas Cowboys 23 (Total 54)"
+      "home": 29,
+      "away": 20,
+      "total": 49.0,
+      "detail": "Rule 165: each team's projected points = mean(own points scored per game, opponent points allowed per game); 2026 REG weeks 1-5, nflverse games (https://github.com/nflverse/nfldata/raw/master/data/games.csv, retrieved 2026-10-18T17:39Z); no home field, no multiplier; qualifies at 2.5"
+     }
     },
     {
      "id": "H2",
@@ -4548,26 +4535,12 @@
       "Javon Hargrave",
       "Skyy Moore",
       "Benjamin St-Juste"
-     ],
-     "projected": {
-      "home": 31,
-      "away": 23,
-      "total": 54,
-      "detail": "H1 base margin +8.0; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin +8.0, total 53.5 (H1 total)."
-     },
-     "projected_text": "Projected: Green Bay Packers 31, Dallas Cowboys 23 (Total 54)"
+     ]
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
-     "projected": {
-      "home": 31,
-      "away": 23,
-      "total": 54,
-      "detail": "No scheduling system triggers; equals H1 base margin +8.0, total 53.5 (H1 total)."
-     },
-     "projected_text": "Projected: Green Bay Packers 31, Dallas Cowboys 23 (Total 54)"
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
     },
     {
      "id": "H4",
@@ -4575,26 +4548,13 @@
      "market": "total",
      "best_bet": true,
      "both_markets_best_bet": false,
-     "projected": {
-      "home": 28,
-      "away": 26,
-      "total": 54,
-      "detail": "Market number: current consensus line Green Bay Packers −1.5 (home margin +1.5), total 53.5 (Action Network consensus, 2026-10-18T11:32:29Z)."
-     },
-     "projected_text": "Projected: Green Bay Packers 28, Dallas Cowboys 26 (Total 54)"
+     "total_trigger": "Over"
     },
     {
      "id": "H5",
      "public_case": "H5: Dallas Cowboys 3.8 ypc vs Green Bay Packers allows 4.2; Green Bay Packers 3.4 ypc vs Dallas Cowboys allows 5.3. Sack rate Dallas Cowboys generates 3.5% vs Green Bay Packers allows 5.2%; Green Bay Packers generates 7.5% vs Dallas Cowboys allows 3.0% (nflverse play-by-play, Oct 18, 2026). Neither gap meets 0.5 ypc or 5 points. No edge.",
      "market": "spread",
-     "best_bet": false,
-     "projected": {
-      "home": 31,
-      "away": 23,
-      "total": 54,
-      "detail": "neither ypc (0.5) nor sack-rate (5 pts) gap clears threshold; equals H1 base margin +8.0, total 53.5 (H1 total)."
-     },
-     "projected_text": "Projected: Green Bay Packers 31, Dallas Cowboys 23 (Total 54)"
+     "best_bet": false
     }
    ],
    "sourced_reasons": [
@@ -4610,8 +4570,8 @@
    ],
    "total_line": 53.5,
    "prediction": {
-    "away_score": 24,
-    "home_score": 30,
+    "away_score": 20,
+    "home_score": 29,
     "winner": "Green Bay Packers",
     "covers": "Green Bay Packers −1.5"
    },
@@ -4626,8 +4586,8 @@
     "spread": "",
     "total": "Best Bet – H4"
    },
-   "gambler_story": "The Dallas Cowboys (2-3) visit the Green Bay Packers (3-2) at Lambeau Field, kicking off at 8:20 PM ET Sunday, Oct 18, on NBC, and the side has held steady. Green Bay opened at −1.5 on Oct 13 at 16:31 UTC and is still −1.5 as of Oct 18 at 11:32 UTC. At 1.5, the number is below every key number; in practice, a one-point Packers win is the only win that falls short.\n\nThe total has climbed a point, from 52.5 (Oct 13, 04:28 UTC) to 53.5. No bets-versus-money split was published free.\n\nThe ratings see much more than 1.5. Play-by-play efficiency has Green Bay at −0.6 and Dallas at −6.9. With 1.75 points of home field at Lambeau, the projection is Packers by 8.0, which is 6.5 points beyond the current number.\n\nThe trench numbers show where that gap could come from. Green Bay's pass rush gets home on 7.5% of dropbacks, and Dallas allows only 3.0%. Dallas sacks 3.5% against a Green Bay front allowing 5.2%. On the ground, Dallas runs for 3.8 yards a carry against a Packers defense allowing 4.2, while Green Bay runs for only 3.4 against a Dallas defense allowing 5.3. None of those gaps reaches the cutoff for a clear advantage, but the Packers' run game has a softer matchup than its average suggests.\n\nThe injuries cut into Green Bay's defensive interior. Defensive tackles Javon Hargrave and Jonathan Ford are out and end Jordon Riley is doubtful; cornerback Benjamin St-Juste and receiver Skyy Moore are also out. Dallas is without tackle Drew Shelton and cornerback Cobie Durant, with cornerbacks Joey Porter Jr. and Ameer Speed and linebacker DeMarvion Overshown questionable. No starting quarterback is out, and no point figure was found for any absence.\n\nDallas, 1-1 on the road, has scored 138 points and allowed 136 in five games, the profile of a team that plays in high-scoring games. Green Bay, 1-1 at home, has scored 104 and allowed 112. The rising total fits the Dallas profile. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate Green Bay at −0.6 and Dallas at −6.9. I add 1.75 points of home field for Green Bay. That projects Green Bay by 8.0. The market has Green Bay at −1.5, so the gap is 6.5 points, clear of my 2.5-point cutoff. A 6.5-point edge for Green Bay.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so nobody gets priced. No edge.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No edge.\n\nH4 - Follow The Money: Green Bay opened at −1.5 on Oct 13 and still sits at −1.5. The total went from 52.5 to 53.5. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. Edge: the Over on the total. No edge on the side.\n\nH5 - In The Trenches: Dallas runs for 3.8 yards a carry against a Green Bay defense that allows 4.2. Green Bay runs for 3.4 against 5.3 allowed. On sack rate, Dallas generates 3.5% against 5.2% allowed, and Green Bay generates 7.5% against 3.0% allowed. Neither gap reaches my 0.5-yard or 5-point cutoff. No edge.\n\nPackers 30, Cowboys 24, Packers cover the 1.5, Over 53.5.",
-   "fanatic_story": "The Dallas Cowboys (2-3) visit the Green Bay Packers (3-2) at Lambeau Field in Green Bay on Sunday night, Oct 18, kickoff 8:20 PM ET on NBC.\n\nDallas scores and allows points in bunches: 138 scored and 136 allowed in five games, with a 1-1 road record. Green Bay has been the lower-scoring team, 104 scored and 112 allowed, and is 1-1 at home and 2-1 on the road.\n\nGreen Bay's injuries are concentrated on the defensive interior. Defensive tackles Javon Hargrave and Jonathan Ford are out, and end Jordon Riley is doubtful, with defensive tackle Anthony Campbell questionable. Cornerback Benjamin St-Juste and receiver Skyy Moore are out. On offense, guard Aaron Banks and center Jacob Monk are questionable, along with receiver Savion Williams and cornerback Brandon Cisse.\n\nDallas is without tackle Drew Shelton and cornerback Cobie Durant. Cornerbacks Joey Porter Jr. and Ameer Speed, linebacker DeMarvion Overshown and defensive tackle LT Overton are questionable.\n\nThe season ratings favor Green Bay, at −0.6 against Dallas at −6.9. With 1.75 points of home field, they project the Packers by 8.0.\n\nThe trench numbers explain part of that. Green Bay's pass rush gets home on 7.5% of dropbacks, and Dallas allows just 3.0%. Dallas sacks 3.5% against a Green Bay front that allows 5.2%. On the ground, Dallas runs for 3.8 yards a carry against a Packers defense that allows 4.2, while Green Bay runs for just 3.4 against a Dallas defense that allows 5.3. None of those gaps is large enough to call a clear advantage.\n\nThe schedule adds nothing for either team.\n\nThe question for Green Bay is whether its run game can finally find room against a Dallas defense that has been generous on the ground, with two interior defenders missing on its own side. Here is how our five handicappers see it.\n\nH1 - The Formula: My ratings project Green Bay by 8.0. That's a clear gap.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so no one else counts. Nothing qualified.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. Nothing qualified.\n\nH4 - Follow The Money: Follow The Money sits out the Fanatic edition.\n\nH5 - In The Trenches: Dallas runs for 3.8 yards a carry against a Green Bay defense that allows 4.2. Green Bay runs for 3.4 against 5.3 allowed. On sack rate, Dallas generates 3.5% against 5.2% allowed, and Green Bay generates 7.5% against 3.0% allowed. Neither gap reaches my 0.5-yard or 5-point cutoff. Nothing qualified.\n\nPackers 30, Cowboys 24.",
+   "gambler_story": "The Dallas Cowboys (2-3) visit the Green Bay Packers (3-2) at Lambeau Field, kicking off at 8:20 PM ET Sunday, Oct 18, on NBC, and the side has held steady. Green Bay opened at −1.5 on Oct 13 at 16:31 UTC and is still −1.5 as of Oct 18 at 11:32 UTC. At 1.5, the number is below every key number; in practice, a one-point Packers win is the only win that falls short.\n\nThe total has climbed a point, from 52.5 (Oct 13, 04:28 UTC) to 53.5. No bets-versus-money split was published free.\n\nThe ratings see much more than 1.5. Play-by-play efficiency has Green Bay at −0.6 and Dallas at −6.9. With 1.75 points of home field at Lambeau, the projection is Packers by 8.0, which is 6.5 points beyond the current number.\n\nThe trench numbers show where that gap could come from. Green Bay's pass rush gets home on 7.5% of dropbacks, and Dallas allows only 3.0%. Dallas sacks 3.5% against a Green Bay front allowing 5.2%. On the ground, Dallas runs for 3.8 yards a carry against a Packers defense allowing 4.2, while Green Bay runs for only 3.4 against a Dallas defense allowing 5.3. None of those gaps reaches the cutoff for a clear advantage, but the Packers' run game has a softer matchup than its average suggests.\n\nThe injuries cut into Green Bay's defensive interior. Defensive tackles Javon Hargrave and Jonathan Ford are out and end Jordon Riley is doubtful; cornerback Benjamin St-Juste and receiver Skyy Moore are also out. Dallas is without tackle Drew Shelton and cornerback Cobie Durant, with cornerbacks Joey Porter Jr. and Ameer Speed and linebacker DeMarvion Overshown questionable. No starting quarterback is out, and no point figure was found for any absence.\n\nDallas, 1-1 on the road, has scored 138 points and allowed 136 in five games, the profile of a team that plays in high-scoring games. Green Bay, 1-1 at home, has scored 104 and allowed 112. The rising total fits the Dallas profile. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate Green Bay at −0.6 and Dallas at −6.9. I add 1.75 points of home field for Green Bay. That projects Green Bay by 8.0. The market has Green Bay at −1.5, so the gap is 6.5 points, clear of my 2.5-point cutoff. A 6.5-point edge for Green Bay.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so nobody gets priced. No edge.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No edge.\n\nH4 - Follow The Money: Green Bay opened at −1.5 on Oct 13 and still sits at −1.5. The total went from 52.5 to 53.5. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. Edge: the Over on the total. No edge on the side.\n\nH5 - In The Trenches: Dallas runs for 3.8 yards a carry against a Green Bay defense that allows 4.2. Green Bay runs for 3.4 against 5.3 allowed. On sack rate, Dallas generates 3.5% against 5.2% allowed, and Green Bay generates 7.5% against 3.0% allowed. Neither gap reaches my 0.5-yard or 5-point cutoff. No edge.\n\nPackers 29, Cowboys 20, Packers cover the 1.5, Under 53.5.",
+   "fanatic_story": "The Dallas Cowboys (2-3) visit the Green Bay Packers (3-2) at Lambeau Field in Green Bay on Sunday night, Oct 18, kickoff 8:20 PM ET on NBC.\n\nDallas scores and allows points in bunches: 138 scored and 136 allowed in five games, with a 1-1 road record. Green Bay has been the lower-scoring team, 104 scored and 112 allowed, and is 1-1 at home and 2-1 on the road.\n\nGreen Bay's injuries are concentrated on the defensive interior. Defensive tackles Javon Hargrave and Jonathan Ford are out, and end Jordon Riley is doubtful, with defensive tackle Anthony Campbell questionable. Cornerback Benjamin St-Juste and receiver Skyy Moore are out. On offense, guard Aaron Banks and center Jacob Monk are questionable, along with receiver Savion Williams and cornerback Brandon Cisse.\n\nDallas is without tackle Drew Shelton and cornerback Cobie Durant. Cornerbacks Joey Porter Jr. and Ameer Speed, linebacker DeMarvion Overshown and defensive tackle LT Overton are questionable.\n\nThe season ratings favor Green Bay, at −0.6 against Dallas at −6.9. With 1.75 points of home field, they project the Packers by 8.0.\n\nThe trench numbers explain part of that. Green Bay's pass rush gets home on 7.5% of dropbacks, and Dallas allows just 3.0%. Dallas sacks 3.5% against a Green Bay front that allows 5.2%. On the ground, Dallas runs for 3.8 yards a carry against a Packers defense that allows 4.2, while Green Bay runs for just 3.4 against a Dallas defense that allows 5.3. None of those gaps is large enough to call a clear advantage.\n\nThe schedule adds nothing for either team.\n\nThe question for Green Bay is whether its run game can finally find room against a Dallas defense that has been generous on the ground, with two interior defenders missing on its own side. Here is how our five handicappers see it.\n\nH1 - The Formula: My ratings project Green Bay by 8.0. That's a clear gap.\n\nH2 - Next Man Up: I read every name on the report. No expected starting quarterback is out, so my 1.5-point quarterback figure is not triggered. I found no point figure for anyone else, so no one else counts. Nothing qualified.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. Nothing qualified.\n\nH4 - Follow The Money: Follow The Money sits out the Fanatic edition.\n\nH5 - In The Trenches: Dallas runs for 3.8 yards a carry against a Green Bay defense that allows 4.2. Green Bay runs for 3.4 against 5.3 allowed. On sack rate, Dallas generates 3.5% against 5.2% allowed, and Green Bay generates 7.5% against 3.0% allowed. Neither gap reaches my 0.5-yard or 5-point cutoff. Nothing qualified.\n\nPackers 29, Cowboys 20.",
    "preview_sources": [
     "401873007_facts.md: records, venue, kickoff, TV, NFL.com injury report (https://www.nfl.com/injuries/league/2026/reg6, fetched 2026-10-18T11:28:22Z), consensus line 2026-10-18T11:28:15Z",
     "espn_team_records.json: home/road splits, points for/against (ESPN team API, retrieved 2026-10-18T11:44Z)",
@@ -4639,7 +4599,32 @@
     "Net ratings, projection, trench figures: picks_wave3.json (nflverse play-by-play, Oct 18, 2026)",
     "Records/points: espn_team_records.json (ESPN team API, retrieved 2026-10-18T11:44Z)",
     "Published pick and score: closes_wave3.json"
-   ]
+   ],
+   "writer_total": {
+    "label": "Projected total (H1)",
+    "source": "H1",
+    "projected_total": 49.0,
+    "market_total": 53.5,
+    "edge": -4.5,
+    "bar": 2.5,
+    "pick": "Under",
+    "text": "Under 53.5 · Edge 4.50",
+    "sample_games": {
+     "DAL": 5,
+     "GB": 5
+    },
+    "sample_text": null,
+    "inputs": [
+     {
+      "id": "H1",
+      "total": 49.0,
+      "away_pts": null,
+      "home_pts": null,
+      "note": "Rule 165: each team's projected points = mean(own points scored per game, opponent points allowed per game); 2026 REG weeks 1-5, nflverse games (https://github.com/nflverse/nfldata/raw/master/data/games.csv, retrieved 2026-10-18T17:39Z); no home field, no multiplier; qualifies at 2.5"
+     }
+    ]
+   },
+   "rule_version": "166"
   },
   {
    "game_id": "401873008",
@@ -4988,12 +4973,12 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261019",
    "spread": "San Francisco 49ers −7.5",
-   "story_text": "",
+   "story_text": "49ers cover the 7.5. No total edge. The rating gap projects San Francisco by 20.6 against a 7.5-point line.",
    "why_this_score": "",
    "betting_text": "",
-   "total_pick": "Over",
+   "total_pick": null,
    "total_reason_public": "",
-   "fanatic_final_sentence": "49ers 36, Commanders 17.",
+   "fanatic_final_sentence": "",
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/wsh and https://www.espn.com/nfl/team/_/name/sf (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/wsh, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/sf), retrieved 2026-10-18T11:44:51Z",
     "401873008_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
@@ -5005,14 +4990,7 @@
      "id": "H1",
      "public_case": "H1: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to San Francisco 49ers. Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Edge 13.1. Threshold 2.5 met. Cover San Francisco 49ers.",
      "market": "spread",
-     "best_bet": false,
-     "projected": {
-      "home": 36,
-      "away": 16,
-      "total": 52,
-      "detail": "Net ratings San Francisco 49ers 9.8, Washington Commanders -9.1 (nflverse pbp, Oct 18, 2026); home field +1.75 to San Francisco 49ers; margin +20.6 San Francisco 49ers. Total 52 = current consensus total (H1 has no totals model)."
-     },
-     "projected_text": "Projected: San Francisco 49ers 36, Washington Commanders 16 (Total 52)"
+     "best_bet": false
     },
     {
      "id": "H2",
@@ -5025,26 +5003,12 @@
       "Deebo Samuel Sr.",
       "Marques Sigle",
       "Garret Wallow"
-     ],
-     "projected": {
-      "home": 36,
-      "away": 16,
-      "total": 52,
-      "detail": "H1 base margin +20.6; priced drops: no priced player drops; unpriced absences = 0 (rules 09/23). Margin +20.6, total 52 (H1 total)."
-     },
-     "projected_text": "Projected: San Francisco 49ers 36, Washington Commanders 16 (Total 52)"
+     ]
     },
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
-     "projected": {
-      "home": 36,
-      "away": 16,
-      "total": 52,
-      "detail": "No scheduling system triggers; equals H1 base margin +20.6, total 52 (H1 total)."
-     },
-     "projected_text": "Projected: San Francisco 49ers 36, Washington Commanders 16 (Total 52)"
+     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
     },
     {
      "id": "H4",
@@ -5052,24 +5016,11 @@
      "market": "total",
      "best_bet": true,
      "both_markets_best_bet": false,
-     "projected": {
-      "home": 30,
-      "away": 22,
-      "total": 52,
-      "detail": "Market number: current consensus line San Francisco 49ers −7.5 (home margin +7.5), total 52 (Action Network consensus, 2026-10-18T11:32:29Z)."
-     },
-     "projected_text": "Projected: San Francisco 49ers 30, Washington Commanders 22 (Total 52)"
+     "total_trigger": "Over"
     },
     {
      "id": "H5",
-     "stop": "data_not_found",
-     "projected": {
-      "home": 36,
-      "away": 16,
-      "total": 52,
-      "detail": "key trench piece out (rule 38), gaps not measured, no adjustment; equals H1 base margin +20.6, total 52 (H1 total)."
-     },
-     "projected_text": "Projected: San Francisco 49ers 36, Washington Commanders 16 (Total 52)"
+     "stop": "data_not_found"
     }
    ],
    "sourced_reasons": [
@@ -5085,9 +5036,9 @@
    ],
    "total_line": 52,
    "prediction": {
-    "away_score": 17,
-    "home_score": 36,
-    "winner": "San Francisco 49ers",
+    "away_score": null,
+    "home_score": null,
+    "winner": null,
     "covers": "San Francisco 49ers −7.5"
    },
    "page_note": "",
@@ -5101,8 +5052,8 @@
     "spread": "",
     "total": "Best Bet – H4"
    },
-   "gambler_story": "The Washington Commanders (1-3-1) visit the San Francisco 49ers (5-0) at Levi's Stadium in Santa Clara on Monday, Oct 19, kicking off at 8:15 PM ET on ESPN and ABC, and the side has not moved. San Francisco opened at −7.5 on Oct 13 at 10:59 UTC and is still −7.5 as of Oct 18 at 11:32 UTC. The number sits a half-point past 7, the second key number, so a 49ers win by exactly 7 lands on Washington's side.\n\nThe total has risen 1.5 points, from 50.5 (Oct 13, 05:04 UTC) to 52. No bets-versus-money split was published free.\n\nThe ratings show the widest gap of any game this week. Play-by-play efficiency has San Francisco at +9.8 and Washington at −9.1. With 1.75 points of home field, the projection is 49ers by 20.6, which is 13.1 points beyond the 7.5.\n\nThe quarterback news is not a factor. Marcus Mariota is listed out for Washington, but he is the backup; Jayden Daniels practiced fully and starts. No quarterback adjustment applies on either side.\n\nThe trench absences cut both ways. San Francisco is without defensive end Nick Bosa, and Washington is without defensive end Charles Omenihu; both are starters whose play is still inside their teams' season numbers. No point figure was found for either, or for the other absences: receiver Deebo Samuel Sr., safety Marques Sigle and linebacker Garret Wallow for San Francisco, and running back Jacory Croskey-Merritt and linebacker Javontae Jean-Baptiste for Washington. Receivers Mike Evans, Christian Kirk and Stefon Diggs are all questionable.\n\nSan Francisco, 3-0 at home, has scored 154 points and allowed 93 in five games. Washington, 0-2 on the road, has scored 115 and allowed 149. A 49ers offense that has scored at that pace, against a defense that has given up that much, is the case for the rising total. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate San Francisco at 9.8 and Washington at −9.1. I add 1.75 points of home field for San Francisco. That projects San Francisco by 20.6. The market has San Francisco at −7.5, so the gap is 13.1 points, clear of my 2.5-point cutoff. A 13.1-point edge for San Francisco.\n\nH2 - Next Man Up: Marcus Mariota is listed out, but he's the backup. Jayden Daniels practiced fully and starts. I found no point figure for anyone else, so nobody gets priced. No edge.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No edge.\n\nH4 - Follow The Money: San Francisco opened at −7.5 on Oct 13 and still sits at −7.5. The total went from 50.5 to 52. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. Edge: the Over on the total. No edge on the side.\n\nH5 - In The Trenches: Charles Omenihu and Nick Bosa are ruled out, and my season numbers still include them, so I don't grade this matchup. No edge.\n\n49ers 36, Commanders 17, 49ers cover the 7.5, Over 52.",
-   "fanatic_story": "The Washington Commanders (1-3-1) visit the San Francisco 49ers (5-0) at Levi's Stadium in Santa Clara, Calif., on Monday night, Oct 19, kickoff 8:15 PM ET on ESPN and ABC.\n\nSan Francisco is unbeaten, 3-0 at home and 2-0 away, with 154 points scored and 93 allowed. Washington is 0-2 on the road and has allowed 149 points while scoring 115.\n\nAt quarterback, Marcus Mariota is listed out for Washington, but he is the backup. Jayden Daniels practiced fully and starts. The Commanders are also missing running back Jacory Croskey-Merritt, defensive end Charles Omenihu, whose play is still part of their season numbers, and linebacker Javontae Jean-Baptiste. Receiver Stefon Diggs is questionable, as are defensive tackle Javon Kinlaw, guard Lucas Patrick and several defensive backs.\n\nSan Francisco has absences of its own. Defensive end Nick Bosa is out with knee and calf injuries, and receiver Deebo Samuel Sr., safety Marques Sigle and linebacker Garret Wallow are out. Receivers Mike Evans and Christian Kirk and defensive end Mykel Williams are questionable.\n\nThe season ratings show the widest gap of the week. They have San Francisco at +9.8 and Washington at −9.1. With 1.75 points of home field, they project the 49ers by 20.6.\n\nThere is no scheduling angle for either side.\n\nThe 49ers will be without Bosa, and their receiving corps is thin with Samuel out and Evans and Kirk uncertain. Washington, with Daniels at quarterback and Diggs uncertain, needs its offense to match a 49ers team that has not lost. Here is how our five handicappers see it.\n\nH1 - The Formula: My ratings project San Francisco by 20.6. That's a clear gap.\n\nH2 - Next Man Up: Marcus Mariota is listed out, but he's the backup. Jayden Daniels practiced fully and starts. I found no point figure for anyone else, so no one else counts. Nothing qualified.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. Nothing qualified.\n\nH4 - Follow The Money: Follow The Money sits out the Fanatic edition.\n\nH5 - In The Trenches: Charles Omenihu and Nick Bosa are ruled out, and my season numbers still include them, so I don't grade this matchup. Nothing qualified.\n\n49ers 36, Commanders 17.",
+   "gambler_story": "The Washington Commanders (1-3-1) visit the San Francisco 49ers (5-0) at Levi's Stadium in Santa Clara on Monday, Oct 19, kicking off at 8:15 PM ET on ESPN and ABC, and the side has not moved. San Francisco opened at −7.5 on Oct 13 at 10:59 UTC and is still −7.5 as of Oct 18 at 11:32 UTC. The number sits a half-point past 7, the second key number, so a 49ers win by exactly 7 lands on Washington's side.\n\nThe total has risen 1.5 points, from 50.5 (Oct 13, 05:04 UTC) to 52. No bets-versus-money split was published free.\n\nThe ratings show the widest gap of any game this week. Play-by-play efficiency has San Francisco at +9.8 and Washington at −9.1. With 1.75 points of home field, the projection is 49ers by 20.6, which is 13.1 points beyond the 7.5.\n\nThe quarterback news is not a factor. Marcus Mariota is listed out for Washington, but he is the backup; Jayden Daniels practiced fully and starts. No quarterback adjustment applies on either side.\n\nThe trench absences cut both ways. San Francisco is without defensive end Nick Bosa, and Washington is without defensive end Charles Omenihu; both are starters whose play is still inside their teams' season numbers. No point figure was found for either, or for the other absences: receiver Deebo Samuel Sr., safety Marques Sigle and linebacker Garret Wallow for San Francisco, and running back Jacory Croskey-Merritt and linebacker Javontae Jean-Baptiste for Washington. Receivers Mike Evans, Christian Kirk and Stefon Diggs are all questionable.\n\nSan Francisco, 3-0 at home, has scored 154 points and allowed 93 in five games. Washington, 0-2 on the road, has scored 115 and allowed 149. A 49ers offense that has scored at that pace, against a defense that has given up that much, is the case for the rising total. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate San Francisco at 9.8 and Washington at −9.1. I add 1.75 points of home field for San Francisco. That projects San Francisco by 20.6. The market has San Francisco at −7.5, so the gap is 13.1 points, clear of my 2.5-point cutoff. A 13.1-point edge for San Francisco.\n\nH2 - Next Man Up: Marcus Mariota is listed out, but he's the backup. Jayden Daniels practiced fully and starts. I found no point figure for anyone else, so nobody gets priced. No edge.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No edge.\n\nH4 - Follow The Money: San Francisco opened at −7.5 on Oct 13 and still sits at −7.5. The total went from 50.5 to 52. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. Edge: the Over on the total. No edge on the side.\n\nH5 - In The Trenches: Charles Omenihu and Nick Bosa are ruled out, and my season numbers still include them, so I don't grade this matchup. No edge.\n\n49ers cover the 7.5. No total edge.",
+   "fanatic_story": "The Washington Commanders (1-3-1) visit the San Francisco 49ers (5-0) at Levi's Stadium in Santa Clara, Calif., on Monday night, Oct 19, kickoff 8:15 PM ET on ESPN and ABC.\n\nSan Francisco is unbeaten, 3-0 at home and 2-0 away, with 154 points scored and 93 allowed. Washington is 0-2 on the road and has allowed 149 points while scoring 115.\n\nAt quarterback, Marcus Mariota is listed out for Washington, but he is the backup. Jayden Daniels practiced fully and starts. The Commanders are also missing running back Jacory Croskey-Merritt, defensive end Charles Omenihu, whose play is still part of their season numbers, and linebacker Javontae Jean-Baptiste. Receiver Stefon Diggs is questionable, as are defensive tackle Javon Kinlaw, guard Lucas Patrick and several defensive backs.\n\nSan Francisco has absences of its own. Defensive end Nick Bosa is out with knee and calf injuries, and receiver Deebo Samuel Sr., safety Marques Sigle and linebacker Garret Wallow are out. Receivers Mike Evans and Christian Kirk and defensive end Mykel Williams are questionable.\n\nThe season ratings show the widest gap of the week. They have San Francisco at +9.8 and Washington at −9.1. With 1.75 points of home field, they project the 49ers by 20.6.\n\nThere is no scheduling angle for either side.\n\nThe 49ers will be without Bosa, and their receiving corps is thin with Samuel out and Evans and Kirk uncertain. Washington, with Daniels at quarterback and Diggs uncertain, needs its offense to match a 49ers team that has not lost. Here is how our five handicappers see it.\n\nH1 - The Formula: My ratings project San Francisco by 20.6. That's a clear gap.\n\nH2 - Next Man Up: Marcus Mariota is listed out, but he's the backup. Jayden Daniels practiced fully and starts. I found no point figure for anyone else, so no one else counts. Nothing qualified.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. Nothing qualified.\n\nH4 - Follow The Money: Follow The Money sits out the Fanatic edition.\n\nH5 - In The Trenches: Charles Omenihu and Nick Bosa are ruled out, and my season numbers still include them, so I don't grade this matchup. Nothing qualified.\n\nFinal score: not projected.",
    "preview_sources": [
     "401873008_facts.md: records, venue, kickoff, TV, NFL.com injury report (https://www.nfl.com/injuries/league/2026/reg6, fetched 2026-10-18T11:28:22Z), consensus line 2026-10-18T11:28:15Z",
     "espn_team_records.json: home/road splits, points for/against (ESPN team API, retrieved 2026-10-18T11:44Z)",
@@ -5118,7 +5069,32 @@
     "Records/points: espn_team_records.json (ESPN team API, retrieved 2026-10-18T11:44Z)",
     "Published pick and score: closes_wave3.json",
     "'widest gap of any game this week' compares H1 projections across the 13 games in picks_wave0-3.json"
-   ]
+   ],
+   "writer_total": {
+    "label": "Projected total (H1)",
+    "source": "H1",
+    "projected_total": 51.1,
+    "market_total": 52,
+    "edge": -0.9,
+    "bar": 2.5,
+    "pick": null,
+    "text": "No total edge",
+    "sample_games": {
+     "WAS": 5,
+     "SF": 5
+    },
+    "sample_text": null,
+    "inputs": [
+     {
+      "id": "H1",
+      "total": 51.1,
+      "away_pts": null,
+      "home_pts": null,
+      "note": "Rule 165: each team's projected points = mean(own points scored per game, opponent points allowed per game); 2026 REG weeks 1-5, nflverse games (https://github.com/nflverse/nfldata/raw/master/data/games.csv, retrieved 2026-10-18T17:39Z); no home field, no multiplier; qualifies at 2.5"
+     }
+    ]
+   },
+   "rule_version": "166"
   }
  ],
  "variant": "A"
