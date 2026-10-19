@@ -1,0 +1,175 @@
+{
+ "league": "nfl",
+ "date": "2026-10-18",
+ "label": "NFL, Week 6, Sunday Oct 18, 2026",
+ "source": "ESPN scoreboard finals",
+ "graded_at_utc": "2026-10-19T11:13:34Z",
+ "status": "pending",
+ "pending_games": [
+  "401873008"
+ ],
+ "cover_writer_ats": "4-8-0",
+ "games": [
+  {
+   "game_id": "401872995",
+   "matchup": "Seattle Seahawks at Denver Broncos",
+   "status": "final",
+   "espn_status": "Final/OT",
+   "away": "Seattle Seahawks",
+   "away_score": 14,
+   "home": "Denver Broncos",
+   "home_score": 17,
+   "cover_writer_ats": "no pick"
+  },
+  {
+   "game_id": "401872996",
+   "matchup": "Houston Texans at Jacksonville Jaguars",
+   "status": "final",
+   "espn_status": "Final",
+   "away": "Houston Texans",
+   "away_score": 34,
+   "home": "Jacksonville Jaguars",
+   "home_score": 31,
+   "cover_writer_side": "Houston Texans +2.5",
+   "cover_writer_ats": "W"
+  },
+  {
+   "game_id": "401872999",
+   "matchup": "Chicago Bears at Atlanta Falcons",
+   "status": "final",
+   "espn_status": "Final",
+   "away": "Chicago Bears",
+   "away_score": 31,
+   "home": "Atlanta Falcons",
+   "home_score": 23,
+   "cover_writer_side": "Atlanta Falcons +1.5",
+   "cover_writer_ats": "L"
+  },
+  {
+   "game_id": "401872997",
+   "matchup": "Baltimore Ravens at Cleveland Browns",
+   "status": "final",
+   "espn_status": "Final",
+   "away": "Baltimore Ravens",
+   "away_score": 10,
+   "home": "Cleveland Browns",
+   "home_score": 13,
+   "cover_writer_side": "Baltimore Ravens −3",
+   "cover_writer_ats": "L"
+  },
+  {
+   "game_id": "401873003",
+   "matchup": "Tennessee Titans at Indianapolis Colts",
+   "status": "final",
+   "espn_status": "Final",
+   "away": "Tennessee Titans",
+   "away_score": 26,
+   "home": "Indianapolis Colts",
+   "home_score": 20,
+   "cover_writer_side": "Tennessee Titans +6.5",
+   "cover_writer_ats": "W"
+  },
+  {
+   "game_id": "401873001",
+   "matchup": "New York Jets at New England Patriots",
+   "status": "final",
+   "espn_status": "Final",
+   "away": "New York Jets",
+   "away_score": 19,
+   "home": "New England Patriots",
+   "home_score": 26,
+   "cover_writer_side": "New England Patriots −7.5",
+   "cover_writer_ats": "L"
+  },
+  {
+   "game_id": "401873000",
+   "matchup": "New Orleans Saints at New York Giants",
+   "status": "final",
+   "espn_status": "Final",
+   "away": "New Orleans Saints",
+   "away_score": 34,
+   "home": "New York Giants",
+   "home_score": 27,
+   "cover_writer_side": "New York Giants +1.5",
+   "cover_writer_ats": "L"
+  },
+  {
+   "game_id": "401872998",
+   "matchup": "Carolina Panthers at Philadelphia Eagles",
+   "status": "final",
+   "espn_status": "Final",
+   "away": "Carolina Panthers",
+   "away_score": 25,
+   "home": "Philadelphia Eagles",
+   "home_score": 14,
+   "cover_writer_side": "Carolina Panthers −3",
+   "cover_writer_ats": "W"
+  },
+  {
+   "game_id": "401873002",
+   "matchup": "Pittsburgh Steelers at Tampa Bay Buccaneers",
+   "status": "final",
+   "espn_status": "Final/OT",
+   "away": "Pittsburgh Steelers",
+   "away_score": 26,
+   "home": "Tampa Bay Buccaneers",
+   "home_score": 19,
+   "cover_writer_side": "Tampa Bay Buccaneers +2.5",
+   "cover_writer_ats": "L"
+  },
+  {
+   "game_id": "401873004",
+   "matchup": "Arizona Cardinals at Los Angeles Rams",
+   "status": "final",
+   "espn_status": "Final",
+   "away": "Arizona Cardinals",
+   "away_score": 18,
+   "home": "Los Angeles Rams",
+   "home_score": 16,
+   "cover_writer_side": "Los Angeles Rams −12.5",
+   "cover_writer_ats": "L"
+  },
+  {
+   "game_id": "401873006",
+   "matchup": "Los Angeles Chargers at Kansas City Chiefs",
+   "status": "final",
+   "espn_status": "Final",
+   "away": "Los Angeles Chargers",
+   "away_score": 6,
+   "home": "Kansas City Chiefs",
+   "home_score": 22,
+   "cover_writer_side": "Los Angeles Chargers +7.5",
+   "cover_writer_ats": "L"
+  },
+  {
+   "game_id": "401873005",
+   "matchup": "Buffalo Bills at Las Vegas Raiders",
+   "status": "final",
+   "espn_status": "Final",
+   "away": "Buffalo Bills",
+   "away_score": 33,
+   "home": "Las Vegas Raiders",
+   "home_score": 30,
+   "cover_writer_side": "Buffalo Bills −5.5",
+   "cover_writer_ats": "L"
+  },
+  {
+   "game_id": "401873007",
+   "matchup": "Dallas Cowboys at Green Bay Packers",
+   "status": "final",
+   "espn_status": "Final",
+   "away": "Dallas Cowboys",
+   "away_score": 13,
+   "home": "Green Bay Packers",
+   "home_score": 23,
+   "cover_writer_side": "Green Bay Packers −1.5",
+   "cover_writer_ats": "W"
+  },
+  {
+   "game_id": "401873008",
+   "matchup": "Washington Commanders at San Francisco 49ers",
+   "status": "pending",
+   "espn_status": "Mon, October 19th at 8:15 PM EDT"
+  }
+ ]
+}

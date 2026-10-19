@@ -1,6 +1,15 @@
 {
- "updated_utc": "2026-10-19T11:13:16Z",
+ "updated_utc": "2026-10-19T11:13:34Z",
  "weeks": [
+  {
+   "league": "nfl",
+   "date": "2026-10-18",
+   "label": "NFL, Week 6, Sunday Oct 18, 2026",
+   "path": "archive/nfl/2026-10-18/",
+   "games": "archive/nfl/2026-10-18/games.json",
+   "results": "archive/nfl/2026-10-18/results.json",
+   "status": "provisional"
+  },
   {
    "league": "college",
    "date": "2026-10-17",

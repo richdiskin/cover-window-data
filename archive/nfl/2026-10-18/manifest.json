@@ -1,0 +1,31 @@
+{
+ "league": "nfl",
+ "date": "2026-10-18",
+ "label": "NFL, Week 6, Sunday Oct 18, 2026",
+ "status": "provisional",
+ "archived_utc": "2026-10-19T11:13:34Z",
+ "finalized_utc": null,
+ "pending_games": [
+  "401873008"
+ ],
+ "files": {
+  "games.json": {
+   "bytes": 282804,
+   "source": "main@80910ae:nfl/games.json"
+  },
+  "monday.json": {
+   "bytes": 115809,
+   "source": "main@80910ae:nfl/monday.json"
+  },
+  "results.json": {
+   "bytes": 4604,
+   "source": "ESPN scoreboard 20261015,20261018,20261019"
+  },
+  "standings.json": {
+   "bytes": 120,
+   "source": "main@80910ae:nfl/standings.json"
+  }
+ },
+ "read_only": true,
+ "note": "Archived exactly as it was live. Open with the same game pages, read-only."
+}
