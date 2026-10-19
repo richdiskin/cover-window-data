@@ -362,15 +362,13 @@
    "total_reason_public": "",
    "fanatic_final_sentence": "49ers 35, Commanders 16.",
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/wsh and https://www.espn.com/nfl/team/_/name/sf (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/wsh, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/sf), retrieved 2026-10-18T11:44:51Z",
-    "401873008_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
-    "picks_wave3.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
-    "closes_wave3.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/wsh and https://www.espn.com/nfl/team/_/name/sf, retrieved Oct 18, 7:44 AM ET",
+    "Game fact sheet: consensus line as of Oct 18, 7:28 AM ET; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 7:28 AM ET"
    ],
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "H1: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to San Francisco 49ers. Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Edge 13.1. Threshold 2.5 met. Cover San Francisco 49ers.",
+     "public_case": "H1: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to San Francisco 49ers. Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Gap 13.1, clear of the 2.5-point cutoff. Cover San Francisco 49ers.",
      "market": "spread",
      "best_bet": false
     },
@@ -390,11 +388,11 @@
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
+     "public_case": "No scheduling spot this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
     },
     {
      "id": "H4",
-     "public_case": "H4: Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 50.5 (Oct 13, 2026 05:04 UTC), now 52 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets 1-point threshold. Over.",
+     "public_case": "H4: Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0, under the 1-point cutoff. Total opened 50.5 (Oct 13, 2026 05:04 UTC), now 52 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets the 1-point cutoff. Over.",
      "market": "total",
      "best_bet": true,
      "both_markets_best_bet": false,
@@ -406,14 +404,13 @@
     }
    ],
    "sourced_reasons": [
-    "H1: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to San Francisco 49ers. Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Edge 13.1. Threshold 2.5 met. Cover San Francisco 49ers.",
-    "H1 data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
-    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
-    "H3: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
-    "H4: Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 50.5 (Oct 13, 2026 05:04 UTC), now 52 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets 1-point threshold. Over.",
-    "H4 spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
-    "H4 total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
-    "H5: key trench piece ruled out, season metrics include him (38): Charles Omenihu, Nick Bosa",
+    "H1: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to San Francisco 49ers. Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Gap 13.1, clear of the 2.5-point cutoff. Cover San Francisco 49ers.",
+    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded. No strong lean.",
+    "H3: No scheduling spot this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+    "H4: Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0, under the 1-point cutoff. Total opened 50.5 (Oct 13, 2026 05:04 UTC), now 52 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets the 1-point cutoff. Over.",
+    "H4 spread split: the money share is not shown free on actionnetwork.com/nfl/public-betting, so it is not published.",
+    "H4 total split: the money share is not shown free on actionnetwork.com/nfl/public-betting, so it is not published.",
+    "H5: key trench piece ruled out, season metrics include him: Charles Omenihu, Nick Bosa",
     "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Charles Omenihu (DE, WAS) Out; Nick Bosa (DE, SF) Out"
    ],
    "total_line": 52,
@@ -427,34 +424,32 @@
    "line_used": {
     "home_line": -7.5,
     "total": 52,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-18T18:44:36Z"
+    "source": "Consensus line as of Oct 18, 2:44 PM ET",
+    "as_of_utc": "2026-10-18T18:44:36Z"
    },
    "best_bets": {
     "spread": "",
     "total": ""
    },
-   "gambler_story": "The Washington Commanders (1-3-1) visit the San Francisco 49ers (5-0) at Levi's Stadium in Santa Clara on Monday, Oct 19, kicking off at 8:15 PM ET on ESPN and ABC, and the side has not moved. San Francisco opened at −7.5 on Oct 13 at 10:59 UTC and is still −7.5 as of Oct 18 at 11:32 UTC. The number sits a half-point past 7, the second key number, so a 49ers win by exactly 7 lands on Washington's side.\n\nThe total has risen 1.5 points, from 50.5 (Oct 13, 05:04 UTC) to 52. No bets-versus-money split was published free.\n\nThe ratings show the widest gap of any game this week. Play-by-play efficiency has San Francisco at +9.8 and Washington at −9.1. With 1.75 points of home field, the projection is 49ers by 20.6, which is 13.1 points beyond the 7.5.\n\nThe quarterback news is not a factor. Marcus Mariota is listed out for Washington, but he is the backup; Jayden Daniels practiced fully and starts. No quarterback adjustment applies on either side.\n\nThe trench absences cut both ways. San Francisco is without defensive end Nick Bosa, and Washington is without defensive end Charles Omenihu; both are starters whose play is still inside their teams' season numbers. No point figure was found for either, or for the other absences: receiver Deebo Samuel Sr., safety Marques Sigle and linebacker Garret Wallow for San Francisco, and running back Jacory Croskey-Merritt and linebacker Javontae Jean-Baptiste for Washington. Receivers Mike Evans, Christian Kirk and Stefon Diggs are all questionable.\n\nSan Francisco, 3-0 at home, has scored 154 points and allowed 93 in five games. Washington, 0-2 on the road, has scored 115 and allowed 149. A 49ers offense that has scored at that pace, against a defense that has given up that much, is the case for the rising total. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate San Francisco at 9.8 and Washington at −9.1. I add 1.75 points of home field for San Francisco. That projects San Francisco by 20.6. The market has San Francisco at −7.5, so the gap is 13.1 points, clear of my 2.5-point cutoff. A 13.1-point edge for San Francisco.\n\nH2 - Next Man Up: Marcus Mariota is listed out, but he's the backup. Jayden Daniels practiced fully and starts. I found no point figure for anyone else, so nobody gets priced. No edge.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No edge.\n\nH4 - Follow The Money: San Francisco opened at −7.5 on Oct 13 and still sits at −7.5. The total went from 50.5 to 52. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. Edge: the Over on the total. No edge on the side.\n\nH5 - In The Trenches: Charles Omenihu and Nick Bosa are ruled out, and my season numbers still include them, so I don't grade this matchup. No edge.\n\n49ers 35, Commanders 16. 49ers cover the 7.5. Under 52.",
+   "gambler_story": "The Washington Commanders (1-3-1) visit the San Francisco 49ers (5-0) at Levi's Stadium in Santa Clara on Monday, Oct 19, kicking off at 8:15 PM ET on ESPN and ABC, and the side has not moved. San Francisco opened at −7.5 on Oct 13 at 10:59 UTC and is still −7.5 as of Oct 18 at 11:32 UTC. The number sits a half-point past 7, the second key number, so a 49ers win by exactly 7 lands on Washington's side.\n\nThe total has risen 1.5 points, from 50.5 (Oct 13, 05:04 UTC) to 52. No bets-versus-money split was published free.\n\nThe ratings show the widest gap of any game this week. Play-by-play efficiency has San Francisco at +9.8 and Washington at −9.1. With 1.75 points of home field, the projection is 49ers by 20.6, which is 13.1 points beyond the 7.5.\n\nThe quarterback news is not a factor. Marcus Mariota is listed out for Washington, but he is the backup; Jayden Daniels practiced fully and starts. No quarterback adjustment applies on either side.\n\nThe trench absences cut both ways. San Francisco is without defensive end Nick Bosa, and Washington is without defensive end Charles Omenihu; both are starters whose play is still inside their teams' season numbers. No point figure was found for either, or for the other absences: receiver Deebo Samuel Sr., safety Marques Sigle and linebacker Garret Wallow for San Francisco, and running back Jacory Croskey-Merritt and linebacker Javontae Jean-Baptiste for Washington. Receivers Mike Evans, Christian Kirk and Stefon Diggs are all questionable.\n\nSan Francisco, 3-0 at home, has scored 154 points and allowed 93 in five games. Washington, 0-2 on the road, has scored 115 and allowed 149. A 49ers offense that has scored at that pace, against a defense that has given up that much, is the case for the rising total. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate San Francisco at 9.8 and Washington at −9.1. I add 1.75 points of home field for San Francisco. That projects San Francisco by 20.6. The market has San Francisco at −7.5, so the gap is 13.1 points, clear of my 2.5-point cutoff. A 13.1-point gap: I like San Francisco on the side.\n\nH2 - Next Man Up: Marcus Mariota is listed out, but he's the backup. Jayden Daniels practiced fully and starts. I found no point figure for anyone else, so nobody gets priced. No strong lean.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: San Francisco opened at −7.5 on Oct 13 and still sits at −7.5. The total went from 50.5 to 52. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. I like the Over on the total. No strong lean on the side.\n\nH5 - In The Trenches: Charles Omenihu and Nick Bosa are ruled out, and my season numbers still include them, so I don't grade this matchup. No strong lean.\n\n49ers 35, Commanders 16. 49ers cover the 7.5. Under 52.",
    "fanatic_story": "The Commanders (1-3-1) face the 49ers (5-0), kicking off at 8:15 PM ET Mon Oct 19 on ESPN, ABC at Levi's Stadium, Santa Clara, CA.\n\nWashington lists running back Jacory Croskey-Merritt, linebacker Javontae Jean-Baptiste, quarterback Marcus Mariota and defensive end Charles Omenihu as out. San Francisco lists defensive end Nick Bosa, wide receiver Deebo Samuel Sr., safety Marques Sigle and linebacker Garret Wallow as out. Mariota is the backup; Jayden Daniels practiced fully and starts.\n\nSan Francisco is 5-0 overall and 3-0 at home, with 154 points scored and 93 allowed in 5 games.\n\nWashington is 1-3-1 overall and 0-2 on the road, with 115 points scored and 149 allowed in 5 games.\n\nMy call: 49ers 35, Commanders 16.",
    "preview_sources": [
-    "401873008_facts.md: records, venue, kickoff, TV, NFL.com injury report (https://www.nfl.com/injuries/league/2026/reg6, fetched 2026-10-18T11:28:22Z), consensus line 2026-10-18T11:28:15Z",
-    "espn_team_records.json: home/road splits, points for/against (ESPN team API, retrieved 2026-10-18T11:44Z)",
-    "picks_wave3.json: net ratings, home field, projection, trench figures/notes (nflverse play-by-play, Oct 18, 2026), opening line/total (Action Network consensus)",
-    "closes_wave3.json: predicted score",
-    "Mariota backup; Jayden Daniels practiced fully and starts: Developer QB audit 2026-10-18; Jayden Daniels on WAS roster verified at https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/wsh/roster retrieved 2026-10-18T11:48:36Z",
-    "'widest gap of the week' compares H1 projections across all 13 games in picks_wave0-3.json",
+    "Game fact sheet: records, venue, kickoff, TV, NFL.com injury report (https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 7:28 AM ET), consensus line as of Oct 18, 7:28 AM ET",
+    "Home/road splits, points for/against: ESPN team pages, retrieved Oct 18, 7:44 AM ET",
+    "Net ratings, home field, projection, trench figures/notes: nflverse play-by-play, Oct 18, 2026; opening line/total: Action Network consensus",
+    "Mariota backup; Jayden Daniels practiced fully and starts: NFL.com injury report and the ESPN Washington roster, checked Oct 18, 7:48 AM ET",
+    "'widest gap of the week' compares H1 projections across all 13 graded Week 6 games",
     "'only unbeaten team in this window' compares the night games; KC (4-0) plays at 4 PM",
-    "Opening and current lines and totals: picks_wave3.json sourced_reasons (consensus market data; opens Oct 13, 2026, current Oct 18, 2026 11:32 UTC), retrieved 2026-10-18",
-    "Fact sheet consensus line fetched 2026-10-18T11:28:15Z (https://www.actionnetwork.com/nfl/odds)",
-    "Injuries: NFL.com official injury report https://www.nfl.com/injuries/league/2026/reg6, fetched 2026-10-18T11:28:22Z / 11:32 UTC",
-    "Net ratings, projection, trench figures: picks_wave3.json (nflverse play-by-play, Oct 18, 2026)",
-    "Records/points: espn_team_records.json (ESPN team API, retrieved 2026-10-18T11:44Z)",
-    "Published pick and score: closes_wave3.json",
-    "'widest gap of any game this week' compares H1 projections across the 13 games in picks_wave0-3.json"
+    "Opening and current lines and totals: Action Network consensus (opens Oct 13, 2026; current Oct 18, 2026 11:32 UTC)",
+    "Consensus line as of Oct 18, 7:28 AM ET (https://www.actionnetwork.com/nfl/odds)",
+    "Injuries: NFL.com official injury report https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 7:28 AM ET / 11:32 UTC",
+    "Net ratings, projection, trench figures: nflverse play-by-play, Oct 18, 2026",
+    "Records/points: ESPN team pages, retrieved Oct 18, 7:44 AM ET",
+    "'widest gap of any game this week' compares H1 projections across the 13 graded Week 6 games"
    ],
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 51,
     "market_total": 52,
     "pick": "Under",
@@ -473,42 +468,42 @@
     "handicappers": [
      {
       "name": "H1 - The Formula",
-      "side_line": "Side: San Francisco 49ers −7.5 · Edge 13.1 – qualifies",
-      "ou_line": "O/U: Under 52 · No edge (0.90, under the 2.5 bar)",
+      "side_line": "Side: San Francisco 49ers −7.5 · Likes this side",
+      "ou_line": "O/U: Under 52 · No strong lean (gap 0.90, under the 2.5-point cutoff)",
       "score_line": "Projected: San Francisco 49ers 36, Washington Commanders 15 (Total 51)",
-      "basis_line": "Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 + home field 1.75 = 49ers by 20.6; total 51.1 (rule-165 method, sample WAS 5 games, SF 5 games). Projected points per team = average of its points scored per game and the opponent's points allowed per game, 2026 Weeks 1–5 (nflverse games)."
+      "basis_line": "Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 + home field 1.75 = 49ers by 20.6; total 51.1 (sample WAS 5 games, SF 5 games). Projected points per team = average of its points scored per game and the opponent's points allowed per game, 2026 Weeks 1–5 (nflverse games)."
      },
      {
       "name": "H2 - Next Man Up",
-      "side_line": "Side: San Francisco 49ers −7.5 · No edge",
-      "ou_line": "O/U: Under 52 · No edge",
+      "side_line": "Side: San Francisco 49ers −7.5 · No strong lean",
+      "ou_line": "O/U: Under 52 · No strong lean",
       "score_line": "Projected: San Francisco 49ers 36, Washington Commanders 15 (Total 51)",
-      "basis_line": "Equals H1 base – no expected starting quarterback is ruled out, so the 1.5-point quarterback value is not triggered. Marcus Mariota (WAS) is listed out but is the backup; Jayden Daniels practiced fully and starts. Every other absence is excluded because no point value was found (NFL.com official injury report, fetched Oct 18, 2026 11:32 UTC: Charles Omenihu (DE, WAS) Out; Nick Bosa (DE, SF) Out). No edge."
+      "basis_line": "Same as The Formula – no expected starting quarterback is ruled out, so the 1.5-point quarterback value is not triggered. Marcus Mariota (WAS) is listed out but is the backup; Jayden Daniels practiced fully and starts. Every other absence is excluded because no point value was found (NFL.com official injury report, fetched Oct 18, 2026 11:32 UTC: Charles Omenihu (DE, WAS) Out; Nick Bosa (DE, SF) Out). No strong lean."
      },
      {
       "name": "H3 - Letdown Watch",
-      "side_line": "Side: San Francisco 49ers −7.5 · No edge",
-      "ou_line": "O/U: Under 52 · No edge",
+      "side_line": "Side: San Francisco 49ers −7.5 · No strong lean",
+      "ou_line": "O/U: Under 52 · No strong lean",
       "score_line": "Projected: San Francisco 49ers 36, Washington Commanders 15 (Total 51)",
-      "basis_line": "Equals H1 base – I checked short week, long rest, significant travel and back-to-back road trips for both teams. No spot meets the multi-year sample threshold (70+ games across at least three seasons and eight teams). No edge."
+      "basis_line": "Same as The Formula – I checked short week, long rest, significant travel and back-to-back road trips for both teams. No spot meets the multi-year sample threshold (70+ games across at least three seasons and eight teams). No strong lean."
      },
      {
       "name": "H4 - Follow The Money",
-      "side_line": "Side: No edge (line move under 1 point)",
-      "ou_line": "O/U: Over 52 · Total move 1+ – qualifies",
+      "side_line": "Side: No strong lean (line move under 1 point)",
+      "ou_line": "O/U: Over 52 · Likes this total",
       "score_line": "Projected: San Francisco 49ers 30, Washington Commanders 22 (Total 52)",
-      "basis_line": "Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC) and is still −7.5 (Oct 18, 2026 11:32 UTC; 18:44 UTC Action Network consensus), no move: no side edge. Total opened 50.5 (Oct 13, 2026 05:04 UTC) and is 52 now, a 1.5-point move that meets the threshold: Over. The bets-versus-money split is not published free, so it is not included."
+      "basis_line": "Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC) and is still −7.5 (Oct 18, 2026 11:32 UTC; 18:44 UTC Action Network consensus), no move, so no lean on the side. Total opened 50.5 (Oct 13, 2026 05:04 UTC) and is 52 now, a 1.5-point move that meets the 1-point cutoff: Over. The bets-versus-money split is not published free, so it is not included."
      },
      {
       "name": "H5 - In The Trenches",
-      "side_line": "Side: San Francisco 49ers −7.5 · No edge",
-      "ou_line": "O/U: Under 52 · No edge",
+      "side_line": "Side: San Francisco 49ers −7.5 · No strong lean",
+      "ou_line": "O/U: Under 52 · No strong lean",
       "score_line": "Projected: San Francisco 49ers 36, Washington Commanders 15 (Total 51)",
-      "basis_line": "Equals H1 base – not graded. Key trench starters are ruled out (Charles Omenihu, DE, WAS; Nick Bosa, DE, SF) and the season ypc and sack-rate numbers still include them (rule 38), so the gaps are not measured. No edge."
+      "basis_line": "Same as The Formula – not graded. Key trench starters are ruled out (Charles Omenihu, DE, WAS; Nick Bosa, DE, SF) and the season ypc and sack-rate numbers still include them, so the gaps are not measured. No strong lean."
      }
     ],
     "best_bets": [],
-    "story_text": "The Washington Commanders (1-3-1) visit the San Francisco 49ers (5-0) at Levi's Stadium in Santa Clara on Monday, Oct 19, kicking off at 8:15 PM ET on ESPN and ABC, and the side has not moved. San Francisco opened at −7.5 on Oct 13 at 10:59 UTC and is still −7.5 as of Oct 18 at 11:32 UTC. The number sits a half-point past 7, the second key number, so a 49ers win by exactly 7 lands on Washington's side.\n\nThe total has risen 1.5 points, from 50.5 (Oct 13, 05:04 UTC) to 52. No bets-versus-money split was published free.\n\nThe ratings show the widest gap of any game this week. Play-by-play efficiency has San Francisco at +9.8 and Washington at −9.1. With 1.75 points of home field, the projection is 49ers by 20.6, which is 13.1 points beyond the 7.5.\n\nThe quarterback news is not a factor. Marcus Mariota is listed out for Washington, but he is the backup; Jayden Daniels practiced fully and starts. No quarterback adjustment applies on either side.\n\nThe trench absences cut both ways. San Francisco is without defensive end Nick Bosa, and Washington is without defensive end Charles Omenihu; both are starters whose play is still inside their teams' season numbers. No point figure was found for either, or for the other absences: receiver Deebo Samuel Sr., safety Marques Sigle and linebacker Garret Wallow for San Francisco, and running back Jacory Croskey-Merritt and linebacker Javontae Jean-Baptiste for Washington. Receivers Mike Evans, Christian Kirk and Stefon Diggs are all questionable.\n\nSan Francisco, 3-0 at home, has scored 154 points and allowed 93 in five games. Washington, 0-2 on the road, has scored 115 and allowed 149. A 49ers offense that has scored at that pace, against a defense that has given up that much, is the case for the rising total. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate San Francisco at 9.8 and Washington at −9.1. I add 1.75 points of home field for San Francisco. That projects San Francisco by 20.6. The market has San Francisco at −7.5, so the gap is 13.1 points, clear of my 2.5-point cutoff. A 13.1-point edge for San Francisco.\n\nH2 - Next Man Up: Marcus Mariota is listed out, but he's the backup. Jayden Daniels practiced fully and starts. I found no point figure for anyone else, so nobody gets priced. No edge.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No edge.\n\nH4 - Follow The Money: San Francisco opened at −7.5 on Oct 13 and still sits at −7.5. The total went from 50.5 to 52. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. Edge: the Over on the total. No edge on the side.\n\nH5 - In The Trenches: Charles Omenihu and Nick Bosa are ruled out, and my season numbers still include them, so I don't grade this matchup. No edge.\n\n49ers 35, Commanders 16. 49ers cover the 7.5. Under 52.",
+    "story_text": "The Washington Commanders (1-3-1) visit the San Francisco 49ers (5-0) at Levi's Stadium in Santa Clara on Monday, Oct 19, kicking off at 8:15 PM ET on ESPN and ABC, and the side has not moved. San Francisco opened at −7.5 on Oct 13 at 10:59 UTC and is still −7.5 as of Oct 18 at 11:32 UTC. The number sits a half-point past 7, the second key number, so a 49ers win by exactly 7 lands on Washington's side.\n\nThe total has risen 1.5 points, from 50.5 (Oct 13, 05:04 UTC) to 52. No bets-versus-money split was published free.\n\nThe ratings show the widest gap of any game this week. Play-by-play efficiency has San Francisco at +9.8 and Washington at −9.1. With 1.75 points of home field, the projection is 49ers by 20.6, which is 13.1 points beyond the 7.5.\n\nThe quarterback news is not a factor. Marcus Mariota is listed out for Washington, but he is the backup; Jayden Daniels practiced fully and starts. No quarterback adjustment applies on either side.\n\nThe trench absences cut both ways. San Francisco is without defensive end Nick Bosa, and Washington is without defensive end Charles Omenihu; both are starters whose play is still inside their teams' season numbers. No point figure was found for either, or for the other absences: receiver Deebo Samuel Sr., safety Marques Sigle and linebacker Garret Wallow for San Francisco, and running back Jacory Croskey-Merritt and linebacker Javontae Jean-Baptiste for Washington. Receivers Mike Evans, Christian Kirk and Stefon Diggs are all questionable.\n\nSan Francisco, 3-0 at home, has scored 154 points and allowed 93 in five games. Washington, 0-2 on the road, has scored 115 and allowed 149. A 49ers offense that has scored at that pace, against a defense that has given up that much, is the case for the rising total. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate San Francisco at 9.8 and Washington at −9.1. I add 1.75 points of home field for San Francisco. That projects San Francisco by 20.6. The market has San Francisco at −7.5, so the gap is 13.1 points, clear of my 2.5-point cutoff. A 13.1-point gap: I like San Francisco on the side.\n\nH2 - Next Man Up: Marcus Mariota is listed out, but he's the backup. Jayden Daniels practiced fully and starts. I found no point figure for anyone else, so nobody gets priced. No strong lean.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: San Francisco opened at −7.5 on Oct 13 and still sits at −7.5. The total went from 50.5 to 52. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. I like the Over on the total. No strong lean on the side.\n\nH5 - In The Trenches: Charles Omenihu and Nick Bosa are ruled out, and my season numbers still include them, so I don't grade this matchup. No strong lean.\n\n49ers 35, Commanders 16. 49ers cover the 7.5. Under 52.",
     "fanatic_score_line": "Projected: San Francisco 49ers 35, Washington Commanders 16 (Total 51)"
    },
    "locked": false
@@ -578,8 +573,8 @@
    "line_used": {
     "home_line": -3,
     "total": 49.5,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-19T11:03:41Z"
+    "source": "Consensus line as of Oct 19, 7:03 AM ET",
+    "as_of_utc": "2026-10-19T11:03:41Z"
    },
    "total_line": 49.5,
    "prediction": {
@@ -625,19 +620,19 @@
     "total": ""
    },
    "sourced_reasons": [
-    "Schedule, venue, TV: ESPN scoreboard (2026-10-19T11:03:19Z); kickoff also matches Action Network start_time.",
-    "Lines: Action Network consensus book 15, 2026-10-19T11:03:41Z (api.actionnetwork.com scoreboard, week 7).",
-    "H1 ratings: nflverse play-by-play 2026-10-19T11:05:21Z, Weeks 1–6 finals; home field 1.75.",
-    "H1 total: nflverse games.csv, 2026 Weeks 1–6 finals.",
-    "Injuries: NFL.com Week 7 report not published yet (checked 2026-10-19T11:04:24Z); ESPN injuries API 2026-10-19T11:04:48Z used only for quarterback notes.",
-    "H4: no move measured yet; opening reference is the first consensus line after 2026-10-20T04:15:00Z.",
-    "Records and points: ESPN team API (2026-10-19T11:19:05Z)."
+    "Schedule, venue, TV: ESPN scoreboard, as of Oct 19, 7:03 AM ET; kickoff also matches Action Network's listed start time.",
+    "Lines: Action Network consensus line as of Oct 19, 7:03 AM ET.",
+    "H1 ratings: nflverse play-by-play as of Oct 19, 7:05 AM ET, Weeks 1–6 finals; home field 1.75.",
+    "H1 total: nflverse game results, 2026 Weeks 1–6 finals.",
+    "Injuries: NFL.com Week 7 report not published yet (checked Oct 19, 7:04 AM ET); ESPN injury data as of Oct 19, 7:04 AM ET used only for quarterback notes.",
+    "H4: no move measured yet; opening reference is the first consensus line after Oct 20, 12:15 AM ET.",
+    "Records and points: ESPN team pages, as of Oct 19, 7:19 AM ET."
    ],
    "page_note": "",
    "rule_version": "170",
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 44,
     "market_total": 49.5,
     "pick": "Under",
@@ -696,17 +691,9 @@
    "gambler_story": "The New England Patriots (4-2) visit the Chicago Bears (4-2) at Soldier Field in Chicago on Thursday, Oct 22, kicking off at 8:15 PM ET on Prime Video.\n\nChicago is favored by 3, and the total is 49.5 (consensus, Oct 19 at 11:03 UTC).\n\nThe official Week 7 injury report is not out yet. Drake Maye (New England) and Caleb Williams (Chicago) started their teams' last games.\n\nChicago is 4-2 (2-1 at home), with 150 points scored and 119 allowed in 6 games. New England is 4-2 (1-2 on the road), with 136 points scored and 113 allowed in 6 games.\n\nH1 - The Formula: I rate Chicago at −4.5 and New England at 1.6. I add 1.75 points of home field for Chicago. That projects New England by 4.4. The market has Chicago at −3, so the gap is 7.4 points, clear of my 2.5-point cutoff. My total is 43.2, 6.3 points below the 49.5, clear of the same cutoff. I like New England on the side and the Under on the total.\n\nH2 - Next Man Up: With no official Week 7 injury report yet, no starting quarterback is ruled out. No strong lean.\n\nH3 - Letdown Watch: I checked short week, long rest, travel and back-to-back road trips for both teams; no spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: My opening number posts after Monday night's game, so no move is measured yet, and the bets-versus-money split is not included. No strong lean.\n\nH5 - In The Trenches: New England runs for 4.5 yards a carry against a Chicago defense that allows 4.4. Chicago runs for 4.4 against 4.1 allowed. Sack rates: New England 6.8% generated, 6.1% allowed by Chicago; Chicago 9.7% generated, 6.0% allowed by New England. No gap reaches my 0.5-yard or 5-point cutoff. No strong lean.\n\nPatriots 24, Bears 20. Patriots cover the 3. Under 49.5.",
    "fanatic_story": "The Patriots (4-2) face the Bears (4-2), kicking off at 8:15 PM ET Thu Oct 22 on Prime Video at Soldier Field, Chicago, IL.\n\nThe first official injury report of the week is not out yet. Drake Maye started New England's last game. Caleb Williams started Chicago's last game.\n\nChicago is 4-2 overall and 2-1 at home, with 150 points scored and 119 allowed in 6 games.\n\nNew England is 4-2 overall and 1-2 on the road, with 136 points scored and 113 allowed in 6 games.\n\nMy call: Patriots 24, Bears 20.",
    "fanatic_final_sentence": "Patriots 24, Bears 20.",
-   "preview_sources": [
-    "401873010_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json",
-    "espn_team_records.json"
-   ],
+   "preview_sources": [],
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/ne and https://www.espn.com/nfl/team/_/name/chi (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/ne, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/chi), retrieved 2026-10-19T11:19:07Z",
-    "401873010_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/ne and https://www.espn.com/nfl/team/_/name/chi, retrieved Oct 19, 7:19 AM ET"
    ],
    "locked": false
   },
@@ -775,8 +762,8 @@
    "line_used": {
     "home_line": 2.5,
     "total": 44,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-19T11:03:41Z"
+    "source": "Consensus line as of Oct 19, 7:03 AM ET",
+    "as_of_utc": "2026-10-19T11:03:41Z"
    },
    "total_line": 44,
    "prediction": {
@@ -822,19 +809,19 @@
     "total": ""
    },
    "sourced_reasons": [
-    "Schedule, venue, TV: ESPN scoreboard (2026-10-19T11:03:19Z); kickoff also matches Action Network start_time.",
-    "Lines: Action Network consensus book 15, 2026-10-19T11:03:41Z (api.actionnetwork.com scoreboard, week 7).",
-    "H1 ratings: nflverse play-by-play 2026-10-19T11:05:21Z, Weeks 1–6 finals; home field 1.75.",
-    "H1 total: nflverse games.csv, 2026 Weeks 1–6 finals.",
-    "Injuries: NFL.com Week 7 report not published yet (checked 2026-10-19T11:04:24Z); ESPN injuries API 2026-10-19T11:04:48Z used only for quarterback notes.",
-    "H4: no move measured yet; opening reference is the first consensus line after 2026-10-20T04:15:00Z.",
-    "Records and points: ESPN team API (2026-10-19T11:19:07Z)."
+    "Schedule, venue, TV: ESPN scoreboard, as of Oct 19, 7:03 AM ET; kickoff also matches Action Network's listed start time.",
+    "Lines: Action Network consensus line as of Oct 19, 7:03 AM ET.",
+    "H1 ratings: nflverse play-by-play as of Oct 19, 7:05 AM ET, Weeks 1–6 finals; home field 1.75.",
+    "H1 total: nflverse game results, 2026 Weeks 1–6 finals.",
+    "Injuries: NFL.com Week 7 report not published yet (checked Oct 19, 7:04 AM ET); ESPN injury data as of Oct 19, 7:04 AM ET used only for quarterback notes.",
+    "H4: no move measured yet; opening reference is the first consensus line after Oct 20, 12:15 AM ET.",
+    "Records and points: ESPN team pages, as of Oct 19, 7:19 AM ET."
    ],
    "page_note": "",
    "rule_version": "170",
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 49,
     "market_total": 44,
     "pick": "Over",
@@ -893,17 +880,9 @@
    "gambler_story": "The Pittsburgh Steelers (4-2) and the New Orleans Saints (2-4) meet at Stade de France in Saint-Denis, France, on Sunday, Oct 25, kicking off at 9:30 AM ET on NFL Net. New Orleans is the designated home team, and there is no home field.\n\nPittsburgh is favored by 2.5, and the total is 44 (consensus, Oct 19 at 11:03 UTC).\n\nThe official Week 7 injury report is not out yet. Aaron Rodgers (Pittsburgh) and Tyler Shough (New Orleans) started their teams' last games.\n\nNew Orleans is 2-4 (0-3 at home), with 152 points scored and 178 allowed in 6 games. Pittsburgh is 4-2 (1-2 on the road), with 137 points scored and 128 allowed in 6 games.\n\nH1 - The Formula: I rate New Orleans at −12.2 and Pittsburgh at −5.8. Neutral site, so I add no home field. That projects Pittsburgh by 6.5. The market has Pittsburgh at −2.5, so the gap is 4 points, clear of my 2.5-point cutoff. My total is 49.6, 5.6 points above the 44, clear of the same cutoff. I like Pittsburgh on the side and the Over on the total.\n\nH2 - Next Man Up: With no official Week 7 injury report yet, no starting quarterback is ruled out. No strong lean.\n\nH3 - Letdown Watch: I checked short week, long rest, travel and back-to-back road trips for both teams; no spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: My opening number posts after Monday night's game, so no move is measured yet, and the bets-versus-money split is not included. No strong lean.\n\nH5 - In The Trenches: Pittsburgh runs for 5.0 yards a carry against a New Orleans defense that allows 5.1. New Orleans runs for 3.8 against 4.3 allowed. Sack rates: Pittsburgh 7.4% generated, 5.5% allowed by New Orleans; New Orleans 7.2% generated, 7.6% allowed by Pittsburgh. No gap reaches my 0.5-yard or 5-point cutoff. No strong lean.\n\nSteelers 27, Saints 22. Steelers cover the 2.5. Over 44.",
    "fanatic_story": "The Steelers (4-2) face the Saints (2-4), kicking off at 9:30 AM ET Sun Oct 25 on NFL Net at Stade de France, Saint-Denis, France.\n\nThe first official injury report of the week is not out yet. Aaron Rodgers started Pittsburgh's last game. Tyler Shough started New Orleans's last game.\n\nNew Orleans is 2-4 overall and 0-3 at home, with 152 points scored and 178 allowed in 6 games.\n\nPittsburgh is 4-2 overall and 1-2 on the road, with 137 points scored and 128 allowed in 6 games.\n\nMy call: Steelers 27, Saints 22.",
    "fanatic_final_sentence": "Steelers 27, Saints 22.",
-   "preview_sources": [
-    "401873011_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json",
-    "espn_team_records.json"
-   ],
+   "preview_sources": [],
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/pit and https://www.espn.com/nfl/team/_/name/no (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/pit, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/no), retrieved 2026-10-19T11:19:07Z",
-    "401873011_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/pit and https://www.espn.com/nfl/team/_/name/no, retrieved Oct 19, 7:19 AM ET"
    ],
    "locked": false
   },
@@ -972,8 +951,8 @@
    "line_used": {
     "home_line": 4.5,
     "total": 50.5,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-19T11:03:41Z"
+    "source": "Consensus line as of Oct 19, 7:03 AM ET",
+    "as_of_utc": "2026-10-19T11:03:41Z"
    },
    "total_line": 50.5,
    "prediction": {
@@ -1019,19 +998,19 @@
     "total": ""
    },
    "sourced_reasons": [
-    "Schedule, venue, TV: ESPN scoreboard (2026-10-19T11:03:19Z); kickoff also matches Action Network start_time.",
-    "Lines: Action Network consensus book 15, 2026-10-19T11:03:41Z (api.actionnetwork.com scoreboard, week 7).",
-    "H1 ratings: nflverse play-by-play 2026-10-19T11:05:21Z, Weeks 1–6 finals; home field 1.75.",
-    "H1 total: nflverse games.csv, 2026 Weeks 1–6 finals.",
-    "Injuries: NFL.com Week 7 report not published yet (checked 2026-10-19T11:04:24Z); ESPN injuries API 2026-10-19T11:04:48Z used only for quarterback notes.",
-    "H4: no move measured yet; opening reference is the first consensus line after 2026-10-20T04:15:00Z.",
-    "Records and points: ESPN team API (2026-10-19T11:19:04Z)."
+    "Schedule, venue, TV: ESPN scoreboard, as of Oct 19, 7:03 AM ET; kickoff also matches Action Network's listed start time.",
+    "Lines: Action Network consensus line as of Oct 19, 7:03 AM ET.",
+    "H1 ratings: nflverse play-by-play as of Oct 19, 7:05 AM ET, Weeks 1–6 finals; home field 1.75.",
+    "H1 total: nflverse game results, 2026 Weeks 1–6 finals.",
+    "Injuries: NFL.com Week 7 report not published yet (checked Oct 19, 7:04 AM ET); ESPN injury data as of Oct 19, 7:04 AM ET used only for quarterback notes.",
+    "H4: no move measured yet; opening reference is the first consensus line after Oct 20, 12:15 AM ET.",
+    "Records and points: ESPN team pages, as of Oct 19, 7:19 AM ET."
    ],
    "page_note": "",
    "rule_version": "170",
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 49,
     "market_total": 50.5,
     "pick": "Under",
@@ -1090,17 +1069,9 @@
    "gambler_story": "The San Francisco 49ers (5-0) visit the Atlanta Falcons (2-4) at Mercedes-Benz Stadium in Atlanta on Sunday, Oct 25, kicking off at 1:00 PM ET on Fox.\n\nSan Francisco is favored by 4.5, and the total is 50.5 (consensus, Oct 19 at 11:03 UTC).\n\nThe official Week 7 injury report is not out yet. Brock Purdy (San Francisco) and Michael Penix Jr. (Atlanta) started their teams' last games.\n\nAtlanta is 2-4 (0-3 at home), with 142 points scored and 153 allowed in 6 games. San Francisco is 5-0 (2-0 on the road), with 154 points scored and 93 allowed in 5 games.\n\nH1 - The Formula: I rate Atlanta at 0.4 and San Francisco at 9.8. I add 1.75 points of home field for Atlanta. That projects San Francisco by 7.6. The market has San Francisco at −4.5, so the gap is 3.1 points, clear of my 2.5-point cutoff. My total is 49.3, 1.2 points below the 50.5, inside the same cutoff. I like San Francisco on the side. No strong lean on the total.\n\nH2 - Next Man Up: With no official Week 7 injury report yet, no starting quarterback is ruled out. No strong lean.\n\nH3 - Letdown Watch: I checked short week, long rest, travel and back-to-back road trips for both teams; no spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: My opening number posts after Monday night's game, so no move is measured yet, and the bets-versus-money split is not included. No strong lean.\n\nH5 - In The Trenches: San Francisco runs for 5.0 yards a carry against an Atlanta defense that allows 3.8. Atlanta runs for 5.2 against 3.7 allowed. Sack rates: San Francisco 5.7% generated, 8.8% allowed by Atlanta; Atlanta 6.3% generated, 2.2% allowed by San Francisco. San Francisco's run game is 1.1 yards a carry above what Atlanta allows and Atlanta's run game is 1.5 yards a carry above what San Francisco allows, which meet my cutoff. The gaps point to different teams. No strong lean.\n\n49ers 28, Falcons 21. 49ers cover the 4.5. Under 50.5.",
    "fanatic_story": "The 49ers (5-0) face the Falcons (2-4), kicking off at 1:00 PM ET Sun Oct 25 on Fox at Mercedes-Benz Stadium, Atlanta, GA.\n\nThe first official injury report of the week is not out yet. Brock Purdy started San Francisco's last game. Michael Penix Jr. started Atlanta's last game.\n\nAtlanta is 2-4 overall and 0-3 at home, with 142 points scored and 153 allowed in 6 games.\n\nSan Francisco is 5-0 overall and 2-0 on the road, with 154 points scored and 93 allowed in 5 games.\n\nMy call: 49ers 28, Falcons 21.",
    "fanatic_final_sentence": "49ers 28, Falcons 21.",
-   "preview_sources": [
-    "401873017_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json",
-    "espn_team_records.json"
-   ],
+   "preview_sources": [],
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/sf and https://www.espn.com/nfl/team/_/name/atl (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/sf, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/atl), retrieved 2026-10-19T11:19:08Z",
-    "401873017_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/sf and https://www.espn.com/nfl/team/_/name/atl, retrieved Oct 19, 7:19 AM ET"
    ],
    "locked": false
   },
@@ -1169,8 +1140,8 @@
    "line_used": {
     "home_line": 1.5,
     "total": 36.5,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-19T11:03:41Z"
+    "source": "Consensus line as of Oct 19, 7:03 AM ET",
+    "as_of_utc": "2026-10-19T11:03:41Z"
    },
    "total_line": 36.5,
    "prediction": {
@@ -1216,19 +1187,19 @@
     "total": ""
    },
    "sourced_reasons": [
-    "Schedule, venue, TV: ESPN scoreboard (2026-10-19T11:03:19Z); kickoff also matches Action Network start_time.",
-    "Lines: Action Network consensus book 15, 2026-10-19T11:03:41Z (api.actionnetwork.com scoreboard, week 7).",
-    "H1 ratings: nflverse play-by-play 2026-10-19T11:05:21Z, Weeks 1–6 finals; home field 1.75.",
-    "H1 total: nflverse games.csv, 2026 Weeks 1–6 finals.",
-    "Injuries: NFL.com Week 7 report not published yet (checked 2026-10-19T11:04:24Z); ESPN injuries API 2026-10-19T11:04:48Z used only for quarterback notes.",
-    "H4: no move measured yet; opening reference is the first consensus line after 2026-10-20T04:15:00Z.",
-    "Records and points: ESPN team API (2026-10-19T11:19:08Z)."
+    "Schedule, venue, TV: ESPN scoreboard, as of Oct 19, 7:03 AM ET; kickoff also matches Action Network's listed start time.",
+    "Lines: Action Network consensus line as of Oct 19, 7:03 AM ET.",
+    "H1 ratings: nflverse play-by-play as of Oct 19, 7:05 AM ET, Weeks 1–6 finals; home field 1.75.",
+    "H1 total: nflverse game results, 2026 Weeks 1–6 finals.",
+    "Injuries: NFL.com Week 7 report not published yet (checked Oct 19, 7:04 AM ET); ESPN injury data as of Oct 19, 7:04 AM ET used only for quarterback notes.",
+    "H4: no move measured yet; opening reference is the first consensus line after Oct 20, 12:15 AM ET.",
+    "Records and points: ESPN team pages, as of Oct 19, 7:19 AM ET."
    ],
    "page_note": "",
    "rule_version": "170",
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 37,
     "market_total": 36.5,
     "pick": "Over",
@@ -1287,17 +1258,9 @@
    "gambler_story": "The Cleveland Browns (4-2) visit the Tennessee Titans (1-5) at Nissan Stadium in Nashville on Sunday, Oct 25, kicking off at 1:00 PM ET on CBS.\n\nCleveland is favored by 1.5, and the total is 36.5 (consensus, Oct 19 at 11:03 UTC).\n\nThe official Week 7 injury report is not out yet. Deshaun Watson (Cleveland) and Cam Ward (Tennessee) started their teams' last games.\n\nTennessee is 1-5 (0-3 at home), with 84 points scored and 129 allowed in 6 games. Cleveland is 4-2 (1-2 on the road), with 106 points scored and 122 allowed in 6 games.\n\nH1 - The Formula: I rate Tennessee at −9.4 and Cleveland at −7.2. I add 1.75 points of home field for Tennessee. That projects Cleveland by 0.5. The market has Cleveland at −1.5, so the gap is 1 points, inside my 2.5-point cutoff. My total is 36.8, 0.3 points above the 36.5, inside the same cutoff. No strong lean.\n\nH2 - Next Man Up: With no official Week 7 injury report yet, no starting quarterback is ruled out. No strong lean.\n\nH3 - Letdown Watch: I checked short week, long rest, travel and back-to-back road trips for both teams; no spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: My opening number posts after Monday night's game, so no move is measured yet, and the bets-versus-money split is not included. No strong lean.\n\nH5 - In The Trenches: Cleveland runs for 3.8 yards a carry against a Tennessee defense that allows 4.0. Tennessee runs for 3.8 against 4.6 allowed. Sack rates: Cleveland 8.5% generated, 4.7% allowed by Tennessee; Tennessee 7.9% generated, 11.5% allowed by Cleveland. Tennessee's run game is 0.8 yards a carry below what Cleveland allows, which meets my cutoff. I like Cleveland on the side; my score stays with The Formula.\n\nBrowns 19, Titans 18. Titans cover the 1.5. Over 36.5.",
    "fanatic_story": "The Browns (4-2) face the Titans (1-5), kicking off at 1:00 PM ET Sun Oct 25 on CBS at Nissan Stadium, Nashville, TN.\n\nThe first official injury report of the week is not out yet. Deshaun Watson started Cleveland's last game. Cam Ward started Tennessee's last game.\n\nTennessee is 1-5 overall and 0-3 at home, with 84 points scored and 129 allowed in 6 games.\n\nCleveland is 4-2 overall and 1-2 on the road, with 106 points scored and 122 allowed in 6 games.\n\nMy call: Browns 19, Titans 18.",
    "fanatic_final_sentence": "Browns 19, Titans 18.",
-   "preview_sources": [
-    "401873013_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json",
-    "espn_team_records.json"
-   ],
+   "preview_sources": [],
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/cle and https://www.espn.com/nfl/team/_/name/ten (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/cle, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/ten), retrieved 2026-10-19T11:19:05Z",
-    "401873013_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/cle and https://www.espn.com/nfl/team/_/name/ten, retrieved Oct 19, 7:19 AM ET"
    ],
    "locked": false
   },
@@ -1366,8 +1329,8 @@
    "line_used": {
     "home_line": -5.5,
     "total": 41.5,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-19T11:03:41Z"
+    "source": "Consensus line as of Oct 19, 7:03 AM ET",
+    "as_of_utc": "2026-10-19T11:03:41Z"
    },
    "total_line": 41.5,
    "prediction": {
@@ -1413,19 +1376,19 @@
     "total": ""
    },
    "sourced_reasons": [
-    "Schedule, venue, TV: ESPN scoreboard (2026-10-19T11:03:19Z); kickoff also matches Action Network start_time.",
-    "Lines: Action Network consensus book 15, 2026-10-19T11:03:41Z (api.actionnetwork.com scoreboard, week 7).",
-    "H1 ratings: nflverse play-by-play 2026-10-19T11:05:21Z, Weeks 1–6 finals; home field 1.75.",
-    "H1 total: nflverse games.csv, 2026 Weeks 1–6 finals.",
-    "Injuries: NFL.com Week 7 report not published yet (checked 2026-10-19T11:04:24Z); ESPN injuries API 2026-10-19T11:04:48Z used only for quarterback notes.",
-    "H4: no move measured yet; opening reference is the first consensus line after 2026-10-20T04:15:00Z.",
-    "Records and points: ESPN team API (2026-10-19T11:19:06Z)."
+    "Schedule, venue, TV: ESPN scoreboard, as of Oct 19, 7:03 AM ET; kickoff also matches Action Network's listed start time.",
+    "Lines: Action Network consensus line as of Oct 19, 7:03 AM ET.",
+    "H1 ratings: nflverse play-by-play as of Oct 19, 7:05 AM ET, Weeks 1–6 finals; home field 1.75.",
+    "H1 total: nflverse game results, 2026 Weeks 1–6 finals.",
+    "Injuries: NFL.com Week 7 report not published yet (checked Oct 19, 7:04 AM ET); ESPN injury data as of Oct 19, 7:04 AM ET used only for quarterback notes.",
+    "H4: no move measured yet; opening reference is the first consensus line after Oct 20, 12:15 AM ET.",
+    "Records and points: ESPN team pages, as of Oct 19, 7:19 AM ET."
    ],
    "page_note": "",
    "rule_version": "170",
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 42,
     "market_total": 41.5,
     "pick": "Over",
@@ -1484,17 +1447,9 @@
    "gambler_story": "The Indianapolis Colts (2-4) visit the Minnesota Vikings (5-0) at U.S. Bank Stadium in Minneapolis on Sunday, Oct 25, kicking off at 1:00 PM ET on CBS.\n\nMinnesota is favored by 5.5, and the total is 41.5 (consensus, Oct 19 at 11:03 UTC).\n\nThe official Week 7 injury report is not out yet. Daniel Jones (Indianapolis) and Kyler Murray (Minnesota) started their teams' last games.\n\nMinnesota is 5-0 (2-0 at home), with 109 points scored and 64 allowed in 5 games. Indianapolis is 2-4 (1-2 on the road), with 144 points scored and 164 allowed in 6 games.\n\nH1 - The Formula: I rate Minnesota at −6.2 and Indianapolis at −5.3. I add 1.75 points of home field for Minnesota. That projects Minnesota by 0.8. The market has Minnesota at −5.5, so the gap is 4.7 points, clear of my 2.5-point cutoff. My total is 43, 1.5 points above the 41.5, inside the same cutoff. I like Indianapolis on the side. No strong lean on the total.\n\nH2 - Next Man Up: With no official Week 7 injury report yet, no starting quarterback is ruled out. No strong lean.\n\nH3 - Letdown Watch: I checked short week, long rest, travel and back-to-back road trips for both teams; no spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: My opening number posts after Monday night's game, so no move is measured yet, and the bets-versus-money split is not included. No strong lean.\n\nH5 - In The Trenches: Indianapolis runs for 4.1 yards a carry against a Minnesota defense that allows 4.0. Minnesota runs for 4.1 against 5.0 allowed. Sack rates: Indianapolis 5.2% generated, 9.7% allowed by Minnesota; Minnesota 9.9% generated, 6.1% allowed by Indianapolis. Minnesota's run game is 0.9 yards a carry below what Indianapolis allows, which meets my cutoff. I like Indianapolis on the side; my score stays with The Formula.\n\nVikings 22, Colts 20. Colts cover the 5.5. Over 41.5.",
    "fanatic_story": "The Colts (2-4) face the Vikings (5-0), kicking off at 1:00 PM ET Sun Oct 25 on CBS at U.S. Bank Stadium, Minneapolis, MN.\n\nThe first official injury report of the week is not out yet. Daniel Jones started Indianapolis's last game. Kyler Murray started Minnesota's last game.\n\nMinnesota is 5-0 overall and 2-0 at home, with 109 points scored and 64 allowed in 5 games.\n\nIndianapolis is 2-4 overall and 1-2 on the road, with 144 points scored and 164 allowed in 6 games.\n\nMy call: Vikings 22, Colts 20.",
    "fanatic_final_sentence": "Vikings 22, Colts 20.",
-   "preview_sources": [
-    "401873014_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json",
-    "espn_team_records.json"
-   ],
+   "preview_sources": [],
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/ind and https://www.espn.com/nfl/team/_/name/min (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/ind, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/min), retrieved 2026-10-19T11:19:06Z",
-    "401873014_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/ind and https://www.espn.com/nfl/team/_/name/min, retrieved Oct 19, 7:19 AM ET"
    ],
    "locked": false
   },
@@ -1563,8 +1518,8 @@
    "line_used": {
     "home_line": -5.5,
     "total": 39.5,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-19T11:03:41Z"
+    "source": "Consensus line as of Oct 19, 7:03 AM ET",
+    "as_of_utc": "2026-10-19T11:03:41Z"
    },
    "total_line": 39.5,
    "prediction": {
@@ -1610,19 +1565,19 @@
     "total": ""
    },
    "sourced_reasons": [
-    "Schedule, venue, TV: ESPN scoreboard (2026-10-19T11:03:19Z); kickoff also matches Action Network start_time.",
-    "Lines: Action Network consensus book 15, 2026-10-19T11:03:41Z (api.actionnetwork.com scoreboard, week 7).",
-    "H1 ratings: nflverse play-by-play 2026-10-19T11:05:21Z, Weeks 1–6 finals; home field 1.75.",
-    "H1 total: nflverse games.csv, 2026 Weeks 1–6 finals.",
-    "Injuries: NFL.com Week 7 report not published yet (checked 2026-10-19T11:04:24Z); ESPN injuries API 2026-10-19T11:04:48Z used only for quarterback notes.",
-    "H4: no move measured yet; opening reference is the first consensus line after 2026-10-20T04:15:00Z.",
-    "Records and points: ESPN team API (2026-10-19T11:19:07Z)."
+    "Schedule, venue, TV: ESPN scoreboard, as of Oct 19, 7:03 AM ET; kickoff also matches Action Network's listed start time.",
+    "Lines: Action Network consensus line as of Oct 19, 7:03 AM ET.",
+    "H1 ratings: nflverse play-by-play as of Oct 19, 7:05 AM ET, Weeks 1–6 finals; home field 1.75.",
+    "H1 total: nflverse game results, 2026 Weeks 1–6 finals.",
+    "Injuries: NFL.com Week 7 report not published yet (checked Oct 19, 7:04 AM ET); ESPN injury data as of Oct 19, 7:04 AM ET used only for quarterback notes.",
+    "H4: no move measured yet; opening reference is the first consensus line after Oct 20, 12:15 AM ET.",
+    "Records and points: ESPN team pages, as of Oct 19, 7:19 AM ET."
    ],
    "page_note": "",
    "rule_version": "170",
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 39,
     "market_total": 39.5,
     "pick": "Under",
@@ -1681,17 +1636,9 @@
    "gambler_story": "The Miami Dolphins (0-5) visit the New York Jets (2-4) at MetLife Stadium in East Rutherford on Sunday, Oct 25, kicking off at 1:00 PM ET on CBS.\n\nThe Jets are favored by 5.5, and the total is 39.5 (consensus, Oct 19 at 11:03 UTC).\n\nThe official Week 7 injury report is not out yet. Malik Willis (Miami) and Geno Smith (the Jets) started their teams' last games.\n\nThe Jets are 2-4 (1-1 at home), with 112 points scored and 122 allowed in 6 games. Miami is 0-5 (0-3 on the road), with 70 points scored and 132 allowed in 5 games.\n\nH1 - The Formula: I rate the Jets at −2.8 and Miami at −8.2. I add 1.75 points of home field for the Jets. That projects the Jets by 7.1. The market has the Jets at −5.5, so the gap is 1.6 points, inside my 2.5-point cutoff. My total is 39.7, 0.2 points above the 39.5, inside the same cutoff. No strong lean.\n\nH2 - Next Man Up: With no official Week 7 injury report yet, no starting quarterback is ruled out. No strong lean.\n\nH3 - Letdown Watch: I checked short week, long rest, travel and back-to-back road trips for both teams; no spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: My opening number posts after Monday night's game, so no move is measured yet, and the bets-versus-money split is not included. No strong lean.\n\nH5 - In The Trenches: Miami runs for 5.0 yards a carry against a the Jets defense that allows 4.3. The Jets run for 3.7 against 4.0 allowed. Sack rates: Miami 2.8% generated, 9.7% allowed by the Jets; the Jets 8.4% generated, 9.4% allowed by Miami. Miami's run game is 0.6 yards a carry above what the Jets allow and Miami's pass rush is 7.0 points below what the Jets allow, which meet my cutoff. The gaps point to different teams. No strong lean.\n\nJets 23, Dolphins 16. Jets cover the 5.5. Under 39.5.",
    "fanatic_story": "The Dolphins (0-5) face the Jets (2-4), kicking off at 1:00 PM ET Sun Oct 25 on CBS at MetLife Stadium, East Rutherford, NJ.\n\nThe first official injury report of the week is not out yet. Malik Willis started Miami's last game. Geno Smith started the Jets' last game.\n\nThe Jets are 2-4 overall and 1-1 at home, with 112 points scored and 122 allowed in 6 games.\n\nMiami is 0-5 overall and 0-3 on the road, with 70 points scored and 132 allowed in 5 games.\n\nMy call: Jets 23, Dolphins 16.",
    "fanatic_final_sentence": "Jets 23, Dolphins 16.",
-   "preview_sources": [
-    "401873015_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json",
-    "espn_team_records.json"
-   ],
+   "preview_sources": [],
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/mia and https://www.espn.com/nfl/team/_/name/nyj (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/mia, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/nyj), retrieved 2026-10-19T11:19:06Z",
-    "401873015_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/mia and https://www.espn.com/nfl/team/_/name/nyj, retrieved Oct 19, 7:19 AM ET"
    ],
    "locked": false
   },
@@ -1760,8 +1707,8 @@
    "line_used": {
     "home_line": -3.5,
     "total": 44.5,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-19T11:03:41Z"
+    "source": "Consensus line as of Oct 19, 7:03 AM ET",
+    "as_of_utc": "2026-10-19T11:03:41Z"
    },
    "total_line": 44.5,
    "prediction": {
@@ -1807,19 +1754,19 @@
     "total": ""
    },
    "sourced_reasons": [
-    "Schedule, venue, TV: ESPN scoreboard (2026-10-19T11:03:19Z); kickoff also matches Action Network start_time.",
-    "Lines: Action Network consensus book 15, 2026-10-19T11:03:41Z (api.actionnetwork.com scoreboard, week 7).",
-    "H1 ratings: nflverse play-by-play 2026-10-19T11:05:21Z, Weeks 1–6 finals; home field 1.75.",
-    "H1 total: nflverse games.csv, 2026 Weeks 1–6 finals.",
-    "Injuries: NFL.com Week 7 report not published yet (checked 2026-10-19T11:04:24Z); ESPN injuries API 2026-10-19T11:04:48Z used only for quarterback notes.",
-    "H4: no move measured yet; opening reference is the first consensus line after 2026-10-20T04:15:00Z.",
-    "Records and points: ESPN team API (2026-10-19T11:19:05Z)."
+    "Schedule, venue, TV: ESPN scoreboard, as of Oct 19, 7:03 AM ET; kickoff also matches Action Network's listed start time.",
+    "Lines: Action Network consensus line as of Oct 19, 7:03 AM ET.",
+    "H1 ratings: nflverse play-by-play as of Oct 19, 7:05 AM ET, Weeks 1–6 finals; home field 1.75.",
+    "H1 total: nflverse game results, 2026 Weeks 1–6 finals.",
+    "Injuries: NFL.com Week 7 report not published yet (checked Oct 19, 7:04 AM ET); ESPN injury data as of Oct 19, 7:04 AM ET used only for quarterback notes.",
+    "H4: no move measured yet; opening reference is the first consensus line after Oct 20, 12:15 AM ET.",
+    "Records and points: ESPN team pages, as of Oct 19, 7:19 AM ET."
    ],
    "page_note": "",
    "rule_version": "170",
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 48,
     "market_total": 44.5,
     "pick": "Over",
@@ -1878,17 +1825,9 @@
    "gambler_story": "The Tampa Bay Buccaneers (1-5) visit the Carolina Panthers (3-2) at Bank of America Stadium in Charlotte on Sunday, Oct 25, kicking off at 1:00 PM ET on Fox.\n\nCarolina is favored by 3.5, and the total is 44.5 (consensus, Oct 19 at 11:03 UTC).\n\nThe official Week 7 injury report is not out yet. Jalon Daniels (Tampa Bay) and Bryce Young (Carolina) started their teams' last games. Baker Mayfield was inactive for Tampa Bay's last game.\n\nCarolina is 3-2 (1-1 at home), with 146 points scored and 123 allowed in 5 games. Tampa Bay is 1-5 (1-1 on the road), with 119 points scored and 138 allowed in 6 games.\n\nH1 - The Formula: I rate Carolina at −0.6 and Tampa Bay at −7.5. I add 1.75 points of home field for Carolina. That projects Carolina by 8.7. The market has Carolina at −3.5, so the gap is 5.2 points, clear of my 2.5-point cutoff. My total is 48.3, 3.8 points above the 44.5, clear of the same cutoff. I like Carolina on the side and the Over on the total.\n\nH2 - Next Man Up: With no official Week 7 injury report yet, no starting quarterback is ruled out. No strong lean.\n\nH3 - Letdown Watch: I checked short week, long rest, travel and back-to-back road trips for both teams; no spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: My opening number posts after Monday night's game, so no move is measured yet, and the bets-versus-money split is not included. No strong lean.\n\nH5 - In The Trenches: Tampa Bay runs for 4.9 yards a carry against a Carolina defense that allows 5.0. Carolina runs for 4.4 against 3.7 allowed. Sack rates: Tampa Bay 4.9% generated, 5.8% allowed by Carolina; Carolina 5.3% generated, 10.2% allowed by Tampa Bay. Carolina's run game is 0.7 yards a carry above what Tampa Bay allows, which meets my cutoff. I like Carolina on the side; my score stays with The Formula.\n\nPanthers 28, Buccaneers 20. Panthers cover the 3.5. Over 44.5.",
    "fanatic_story": "The Buccaneers (1-5) face the Panthers (3-2), kicking off at 1:00 PM ET Sun Oct 25 on Fox at Bank of America Stadium, Charlotte, NC.\n\nThe first official injury report of the week is not out yet. Jalon Daniels started Tampa Bay's last game. Bryce Young started Carolina's last game. Baker Mayfield was inactive for Tampa Bay's last game.\n\nCarolina is 3-2 overall and 1-1 at home, with 146 points scored and 123 allowed in 5 games.\n\nTampa Bay is 1-5 overall and 1-1 on the road, with 119 points scored and 138 allowed in 6 games.\n\nMy call: Panthers 28, Buccaneers 20.",
    "fanatic_final_sentence": "Panthers 28, Buccaneers 20.",
-   "preview_sources": [
-    "401873018_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json",
-    "espn_team_records.json"
-   ],
+   "preview_sources": [],
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/tb and https://www.espn.com/nfl/team/_/name/car (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/tb, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/car), retrieved 2026-10-19T11:19:08Z",
-    "401873018_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/tb and https://www.espn.com/nfl/team/_/name/car, retrieved Oct 19, 7:19 AM ET"
    ],
    "locked": false
   },
@@ -1957,8 +1896,8 @@
    "line_used": {
     "home_line": -3,
     "total": 50.5,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-19T11:03:41Z"
+    "source": "Consensus line as of Oct 19, 7:03 AM ET",
+    "as_of_utc": "2026-10-19T11:03:41Z"
    },
    "total_line": 50.5,
    "prediction": {
@@ -2004,19 +1943,19 @@
     "total": ""
    },
    "sourced_reasons": [
-    "Schedule, venue, TV: ESPN scoreboard (2026-10-19T11:03:19Z); kickoff also matches Action Network start_time.",
-    "Lines: Action Network consensus book 15, 2026-10-19T11:03:41Z (api.actionnetwork.com scoreboard, week 7).",
-    "H1 ratings: nflverse play-by-play 2026-10-19T11:05:21Z, Weeks 1–6 finals; home field 1.75.",
-    "H1 total: nflverse games.csv, 2026 Weeks 1–6 finals.",
-    "Injuries: NFL.com Week 7 report not published yet (checked 2026-10-19T11:04:24Z); ESPN injuries API 2026-10-19T11:04:48Z used only for quarterback notes.",
-    "H4: no move measured yet; opening reference is the first consensus line after 2026-10-20T04:15:00Z.",
-    "Records and points: ESPN team API (2026-10-19T11:19:05Z)."
+    "Schedule, venue, TV: ESPN scoreboard, as of Oct 19, 7:03 AM ET; kickoff also matches Action Network's listed start time.",
+    "Lines: Action Network consensus line as of Oct 19, 7:03 AM ET.",
+    "H1 ratings: nflverse play-by-play as of Oct 19, 7:05 AM ET, Weeks 1–6 finals; home field 1.75.",
+    "H1 total: nflverse game results, 2026 Weeks 1–6 finals.",
+    "Injuries: NFL.com Week 7 report not published yet (checked Oct 19, 7:04 AM ET); ESPN injury data as of Oct 19, 7:04 AM ET used only for quarterback notes.",
+    "H4: no move measured yet; opening reference is the first consensus line after Oct 20, 12:15 AM ET.",
+    "Records and points: ESPN team pages, as of Oct 19, 7:19 AM ET."
    ],
    "page_note": "",
    "rule_version": "170",
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 49,
     "market_total": 50.5,
     "pick": "Under",
@@ -2075,17 +2014,9 @@
    "gambler_story": "The Cincinnati Bengals (3-2) visit the Baltimore Ravens (4-2) at M&T Bank Stadium in Baltimore on Sunday, Oct 25, kicking off at 1:00 PM ET on CBS.\n\nBaltimore is favored by 3, and the total is 50.5 (consensus, Oct 19 at 11:03 UTC).\n\nThe official Week 7 injury report is not out yet. Joe Burrow (Cincinnati) and Tyler Huntley (Baltimore) started their teams' last games. Lamar Jackson was inactive for Baltimore's last game.\n\nBaltimore is 4-2 (1-1 at home), with 156 points scored and 132 allowed in 6 games. Cincinnati is 3-2 (2-1 on the road), with 128 points scored and 109 allowed in 5 games.\n\nH1 - The Formula: I rate Baltimore at −0.3 and Cincinnati at −6.2. I add 1.75 points of home field for Baltimore. That projects Baltimore by 7.6. The market has Baltimore at −3, so the gap is 4.6 points, clear of my 2.5-point cutoff. My total is 47.7, 2.8 points below the 50.5, clear of the same cutoff. I like Baltimore on the side and the Under on the total.\n\nH2 - Next Man Up: With no official Week 7 injury report yet, no starting quarterback is ruled out. No strong lean.\n\nH3 - Letdown Watch: I checked short week, long rest, travel and back-to-back road trips for both teams; no spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: My opening number posts after Monday night's game, so no move is measured yet, and the bets-versus-money split is not included. No strong lean.\n\nH5 - In The Trenches: Cincinnati runs for 3.8 yards a carry against a Baltimore defense that allows 3.8. Baltimore runs for 5.1 against 5.3 allowed. Sack rates: Cincinnati 9.4% generated, 7.8% allowed by Baltimore; Baltimore 6.7% generated, 4.5% allowed by Cincinnati. No gap reaches my 0.5-yard or 5-point cutoff. No strong lean.\n\nRavens 28, Bengals 21. Ravens cover the 3. Under 50.5.",
    "fanatic_story": "The Bengals (3-2) face the Ravens (4-2), kicking off at 1:00 PM ET Sun Oct 25 on CBS at M&T Bank Stadium, Baltimore, MD.\n\nThe first official injury report of the week is not out yet. Joe Burrow started Cincinnati's last game. Tyler Huntley started Baltimore's last game. Lamar Jackson was inactive for Baltimore's last game.\n\nBaltimore is 4-2 overall and 1-1 at home, with 156 points scored and 132 allowed in 6 games.\n\nCincinnati is 3-2 overall and 2-1 on the road, with 128 points scored and 109 allowed in 5 games.\n\nMy call: Ravens 28, Bengals 21.",
    "fanatic_final_sentence": "Ravens 28, Bengals 21.",
-   "preview_sources": [
-    "401873012_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json",
-    "espn_team_records.json"
-   ],
+   "preview_sources": [],
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/cin and https://www.espn.com/nfl/team/_/name/bal (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/cin, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/bal), retrieved 2026-10-19T11:19:05Z",
-    "401873012_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/cin and https://www.espn.com/nfl/team/_/name/bal, retrieved Oct 19, 7:19 AM ET"
    ],
    "locked": false
   },
@@ -2154,8 +2085,8 @@
    "line_used": {
     "home_line": -9,
     "total": 43.5,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-19T11:03:41Z"
+    "source": "Consensus line as of Oct 19, 7:03 AM ET",
+    "as_of_utc": "2026-10-19T11:03:41Z"
    },
    "total_line": 43.5,
    "prediction": {
@@ -2201,19 +2132,19 @@
     "total": ""
    },
    "sourced_reasons": [
-    "Schedule, venue, TV: ESPN scoreboard (2026-10-19T11:03:19Z); kickoff also matches Action Network start_time.",
-    "Lines: Action Network consensus book 15, 2026-10-19T11:03:41Z (api.actionnetwork.com scoreboard, week 7).",
-    "H1 ratings: nflverse play-by-play 2026-10-19T11:05:21Z, Weeks 1–6 finals; home field 1.75.",
-    "H1 total: nflverse games.csv, 2026 Weeks 1–6 finals.",
-    "Injuries: NFL.com Week 7 report not published yet (checked 2026-10-19T11:04:24Z); ESPN injuries API 2026-10-19T11:04:48Z used only for quarterback notes.",
-    "H4: no move measured yet; opening reference is the first consensus line after 2026-10-20T04:15:00Z.",
-    "Records and points: ESPN team API (2026-10-19T11:19:06Z)."
+    "Schedule, venue, TV: ESPN scoreboard, as of Oct 19, 7:03 AM ET; kickoff also matches Action Network's listed start time.",
+    "Lines: Action Network consensus line as of Oct 19, 7:03 AM ET.",
+    "H1 ratings: nflverse play-by-play as of Oct 19, 7:05 AM ET, Weeks 1–6 finals; home field 1.75.",
+    "H1 total: nflverse game results, 2026 Weeks 1–6 finals.",
+    "Injuries: NFL.com Week 7 report not published yet (checked Oct 19, 7:04 AM ET); ESPN injury data as of Oct 19, 7:04 AM ET used only for quarterback notes.",
+    "H4: no move measured yet; opening reference is the first consensus line after Oct 20, 12:15 AM ET.",
+    "Records and points: ESPN team pages, as of Oct 19, 7:19 AM ET."
    ],
    "page_note": "",
    "rule_version": "170",
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 46,
     "market_total": 43.5,
     "pick": "Over",
@@ -2272,17 +2203,9 @@
    "gambler_story": "The New York Giants (3-2-1) visit the Houston Texans (2-4) at Reliant Stadium in Houston on Sunday, Oct 25, kicking off at 1:00 PM ET on Fox.\n\nHouston is favored by 9, and the total is 43.5 (consensus, Oct 19 at 11:03 UTC).\n\nThe official Week 7 injury report is not out yet. Jameis Winston (the Giants) and C.J. Stroud (Houston) started their teams' last games. The Giants also used J.J. McCarthy at quarterback in that game.\n\nHouston is 2-4 (0-3 at home), with 144 points scored and 143 allowed in 6 games. The Giants are 3-2-1 (0-1-1 on the road), with 136 points scored and 140 allowed in 6 games.\n\nH1 - The Formula: I rate Houston at −1.8 and the Giants at −9.5. I add 1.75 points of home field for Houston. That projects Houston by 9.4. The market has Houston at −9, so the gap is 0.4 points, inside my 2.5-point cutoff. My total is 46.9, 3.4 points above the 43.5, clear of the same cutoff. I like the Over on the total. No strong lean on the side.\n\nH2 - Next Man Up: With no official Week 7 injury report yet, no starting quarterback is ruled out. No strong lean.\n\nH3 - Letdown Watch: I checked short week, long rest, travel and back-to-back road trips for both teams; no spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: My opening number posts after Monday night's game, so no move is measured yet, and the bets-versus-money split is not included. No strong lean.\n\nH5 - In The Trenches: The Giants run for 4.0 yards a carry against a Houston defense that allows 3.6. Houston runs for 3.6 against 5.3 allowed. Sack rates: the Giants 4.1% generated, 6.1% allowed by Houston; Houston 7.0% generated, 7.9% allowed by the Giants. Houston's run game is 1.6 yards a carry below what the Giants allow, which meets my cutoff. I like the Giants on the side; my score stays with The Formula.\n\nTexans 28, Giants 18. Texans cover the 9. Over 43.5.",
    "fanatic_story": "The Giants (3-2-1) face the Texans (2-4), kicking off at 1:00 PM ET Sun Oct 25 on Fox at Reliant Stadium, Houston, TX.\n\nThe first official injury report of the week is not out yet. Jameis Winston started the Giants' last game. C.J. Stroud started Houston's last game. The Giants also used J.J. McCarthy at quarterback in that game.\n\nHouston is 2-4 overall and 0-3 at home, with 144 points scored and 143 allowed in 6 games.\n\nThe Giants are 3-2-1 overall and 0-1-1 on the road, with 136 points scored and 140 allowed in 6 games.\n\nMy call: Texans 28, Giants 18.",
    "fanatic_final_sentence": "Texans 28, Giants 18.",
-   "preview_sources": [
-    "401873016_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json",
-    "espn_team_records.json"
-   ],
+   "preview_sources": [],
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/nyg and https://www.espn.com/nfl/team/_/name/hou (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/nyg, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/hou), retrieved 2026-10-19T11:19:07Z",
-    "401873016_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/nyg and https://www.espn.com/nfl/team/_/name/hou, retrieved Oct 19, 7:19 AM ET"
    ],
    "locked": false
   },
@@ -2351,8 +2274,8 @@
    "line_used": {
     "home_line": 4.5,
     "total": 43,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-19T11:03:41Z"
+    "source": "Consensus line as of Oct 19, 7:03 AM ET",
+    "as_of_utc": "2026-10-19T11:03:41Z"
    },
    "total_line": 43,
    "prediction": {
@@ -2398,19 +2321,19 @@
     "total": ""
    },
    "sourced_reasons": [
-    "Schedule, venue, TV: ESPN scoreboard (2026-10-19T11:03:19Z); kickoff also matches Action Network start_time.",
-    "Lines: Action Network consensus book 15, 2026-10-19T11:03:41Z (api.actionnetwork.com scoreboard, week 7).",
-    "H1 ratings: nflverse play-by-play 2026-10-19T11:05:21Z, Weeks 1–6 finals; home field 1.75.",
-    "H1 total: nflverse games.csv, 2026 Weeks 1–6 finals.",
-    "Injuries: NFL.com Week 7 report not published yet (checked 2026-10-19T11:04:24Z); ESPN injuries API 2026-10-19T11:04:48Z used only for quarterback notes.",
-    "H4: no move measured yet; opening reference is the first consensus line after 2026-10-20T04:15:00Z.",
-    "Records and points: ESPN team API (2026-10-19T11:19:04Z)."
+    "Schedule, venue, TV: ESPN scoreboard, as of Oct 19, 7:03 AM ET; kickoff also matches Action Network's listed start time.",
+    "Lines: Action Network consensus line as of Oct 19, 7:03 AM ET.",
+    "H1 ratings: nflverse play-by-play as of Oct 19, 7:05 AM ET, Weeks 1–6 finals; home field 1.75.",
+    "H1 total: nflverse game results, 2026 Weeks 1–6 finals.",
+    "Injuries: NFL.com Week 7 report not published yet (checked Oct 19, 7:04 AM ET); ESPN injury data as of Oct 19, 7:04 AM ET used only for quarterback notes.",
+    "H4: no move measured yet; opening reference is the first consensus line after Oct 20, 12:15 AM ET.",
+    "Records and points: ESPN team pages, as of Oct 19, 7:19 AM ET."
    ],
    "page_note": "",
    "rule_version": "170",
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 45,
     "market_total": 43,
     "pick": "Over",
@@ -2469,17 +2392,9 @@
    "gambler_story": "The Denver Broncos (4-2) visit the Arizona Cardinals (2-4) at State Farm Stadium in Glendale on Sunday, Oct 25, kicking off at 4:05 PM ET on CBS.\n\nDenver is favored by 4.5, and the total is 43 (consensus, Oct 19 at 11:03 UTC).\n\nThe official Week 7 injury report is not out yet. Bo Nix (Denver) and Jacoby Brissett (Arizona) started their teams' last games.\n\nArizona is 2-4 (0-2 at home), with 126 points scored and 178 allowed in 6 games. Denver is 4-2 (1-2 on the road), with 114 points scored and 125 allowed in 6 games.\n\nH1 - The Formula: I rate Arizona at −7.1 and Denver at −3. I add 1.75 points of home field for Arizona. That projects Denver by 2.3. The market has Denver at −4.5, so the gap is 2.2 points, inside my 2.5-point cutoff. My total is 45.3, 2.3 points above the 43, inside the same cutoff. No strong lean.\n\nH2 - Next Man Up: With no official Week 7 injury report yet, no starting quarterback is ruled out. No strong lean.\n\nH3 - Letdown Watch: I checked short week, long rest, travel and back-to-back road trips for both teams; no spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: My opening number posts after Monday night's game, so no move is measured yet, and the bets-versus-money split is not included. No strong lean.\n\nH5 - In The Trenches: Denver runs for 3.6 yards a carry against an Arizona defense that allows 4.6. Arizona runs for 3.5 against 4.9 allowed. Sack rates: Denver 7.9% generated, 5.2% allowed by Arizona; Arizona 7.5% generated, 4.1% allowed by Denver. Denver's run game is 1.0 yards a carry below what Arizona allows and Arizona's run game is 1.3 yards a carry below what Denver allows, which meet my cutoff. The gaps point to different teams. No strong lean.\n\nBroncos 24, Cardinals 21. Cardinals cover the 4.5. Over 43.",
    "fanatic_story": "The Broncos (4-2) face the Cardinals (2-4), kicking off at 4:05 PM ET Sun Oct 25 on CBS at State Farm Stadium, Glendale, AZ.\n\nThe first official injury report of the week is not out yet. Bo Nix started Denver's last game. Jacoby Brissett started Arizona's last game.\n\nArizona is 2-4 overall and 0-2 at home, with 126 points scored and 178 allowed in 6 games.\n\nDenver is 4-2 overall and 1-2 on the road, with 114 points scored and 125 allowed in 6 games.\n\nMy call: Broncos 24, Cardinals 21.",
    "fanatic_final_sentence": "Broncos 24, Cardinals 21.",
-   "preview_sources": [
-    "401873019_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json",
-    "espn_team_records.json"
-   ],
+   "preview_sources": [],
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/den and https://www.espn.com/nfl/team/_/name/ari (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/den, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/ari), retrieved 2026-10-19T11:19:05Z",
-    "401873019_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/den and https://www.espn.com/nfl/team/_/name/ari, retrieved Oct 19, 7:19 AM ET"
    ],
    "locked": false
   },
@@ -2548,8 +2463,8 @@
    "line_used": {
     "home_line": -3.5,
     "total": 52.5,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-19T11:03:41Z"
+    "source": "Consensus line as of Oct 19, 7:03 AM ET",
+    "as_of_utc": "2026-10-19T11:03:41Z"
    },
    "total_line": 52.5,
    "prediction": {
@@ -2595,19 +2510,19 @@
     "total": ""
    },
    "sourced_reasons": [
-    "Schedule, venue, TV: ESPN scoreboard (2026-10-19T11:03:19Z); kickoff also matches Action Network start_time.",
-    "Lines: Action Network consensus book 15, 2026-10-19T11:03:41Z (api.actionnetwork.com scoreboard, week 7).",
-    "H1 ratings: nflverse play-by-play 2026-10-19T11:05:21Z, Weeks 1–6 finals; home field 1.75.",
-    "H1 total: nflverse games.csv, 2026 Weeks 1–6 finals.",
-    "Injuries: NFL.com Week 7 report not published yet (checked 2026-10-19T11:04:24Z); ESPN injuries API 2026-10-19T11:04:48Z used only for quarterback notes.",
-    "H4: no move measured yet; opening reference is the first consensus line after 2026-10-20T04:15:00Z.",
-    "Records and points: ESPN team API (2026-10-19T11:19:05Z)."
+    "Schedule, venue, TV: ESPN scoreboard, as of Oct 19, 7:03 AM ET; kickoff also matches Action Network's listed start time.",
+    "Lines: Action Network consensus line as of Oct 19, 7:03 AM ET.",
+    "H1 ratings: nflverse play-by-play as of Oct 19, 7:05 AM ET, Weeks 1–6 finals; home field 1.75.",
+    "H1 total: nflverse game results, 2026 Weeks 1–6 finals.",
+    "Injuries: NFL.com Week 7 report not published yet (checked Oct 19, 7:04 AM ET); ESPN injury data as of Oct 19, 7:04 AM ET used only for quarterback notes.",
+    "H4: no move measured yet; opening reference is the first consensus line after Oct 20, 12:15 AM ET.",
+    "Records and points: ESPN team pages, as of Oct 19, 7:19 AM ET."
    ],
    "page_note": "",
    "rule_version": "170",
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 53,
     "market_total": 52.5,
     "pick": "Over",
@@ -2666,17 +2581,9 @@
    "gambler_story": "The Green Bay Packers (4-2) visit the Detroit Lions (3-2) at Ford Field in Detroit on Sunday, Oct 25, kicking off at 4:25 PM ET on Fox.\n\nDetroit is favored by 3.5, and the total is 52.5 (consensus, Oct 19 at 11:03 UTC).\n\nThe official Week 7 injury report is not out yet. Jordan Love (Green Bay) and Jared Goff (Detroit) started their teams' last games.\n\nDetroit is 3-2 (2-0 at home), with 164 points scored and 148 allowed in 5 games. Green Bay is 4-2 (2-1 on the road), with 127 points scored and 125 allowed in 6 games.\n\nH1 - The Formula: I rate Detroit at −5 and Green Bay at −2. I add 1.75 points of home field for Detroit. That projects Green Bay by 1.2. The market has Detroit at −3.5, so the gap is 4.7 points, clear of my 2.5-point cutoff. My total is 52.2, 0.3 points below the 52.5, inside the same cutoff. I like Green Bay on the side. No strong lean on the total.\n\nH2 - Next Man Up: With no official Week 7 injury report yet, no starting quarterback is ruled out. No strong lean.\n\nH3 - Letdown Watch: I checked short week, long rest, travel and back-to-back road trips for both teams; no spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: My opening number posts after Monday night's game, so no move is measured yet, and the bets-versus-money split is not included. No strong lean.\n\nH5 - In The Trenches: Green Bay runs for 3.2 yards a carry against a Detroit defense that allows 4.4. Detroit runs for 4.5 against 4.1 allowed. Sack rates: Green Bay 6.0% generated, 5.1% allowed by Detroit; Detroit 9.1% generated, 5.6% allowed by Green Bay. Green Bay's run game is 1.2 yards a carry below what Detroit allows, which meets my cutoff. I like Detroit on the side; my score stays with The Formula.\n\nPackers 27, Lions 26. Packers cover the 3.5. Over 52.5.",
    "fanatic_story": "The Packers (4-2) face the Lions (3-2), kicking off at 4:25 PM ET Sun Oct 25 on Fox at Ford Field, Detroit, MI.\n\nThe first official injury report of the week is not out yet. Jordan Love started Green Bay's last game. Jared Goff started Detroit's last game.\n\nDetroit is 3-2 overall and 2-0 at home, with 164 points scored and 148 allowed in 5 games.\n\nGreen Bay is 4-2 overall and 2-1 on the road, with 127 points scored and 125 allowed in 6 games.\n\nMy call: Packers 27, Lions 26.",
    "fanatic_final_sentence": "Packers 27, Lions 26.",
-   "preview_sources": [
-    "401873020_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json",
-    "espn_team_records.json"
-   ],
+   "preview_sources": [],
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/gb and https://www.espn.com/nfl/team/_/name/det (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/gb, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/det), retrieved 2026-10-19T11:19:06Z",
-    "401873020_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/gb and https://www.espn.com/nfl/team/_/name/det, retrieved Oct 19, 7:19 AM ET"
    ],
    "locked": false
   },
@@ -2745,8 +2652,8 @@
    "line_used": {
     "home_line": 5.5,
     "total": 47.5,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-19T11:03:41Z"
+    "source": "Consensus line as of Oct 19, 7:03 AM ET",
+    "as_of_utc": "2026-10-19T11:03:41Z"
    },
    "total_line": 47.5,
    "prediction": {
@@ -2792,19 +2699,19 @@
     "total": ""
    },
    "sourced_reasons": [
-    "Schedule, venue, TV: ESPN scoreboard (2026-10-19T11:03:19Z); kickoff also matches Action Network start_time.",
-    "Lines: Action Network consensus book 15, 2026-10-19T11:03:41Z (api.actionnetwork.com scoreboard, week 7).",
-    "H1 ratings: nflverse play-by-play 2026-10-19T11:05:21Z, Weeks 1–6 finals; home field 1.75.",
-    "H1 total: nflverse games.csv, 2026 Weeks 1–6 finals.",
-    "Injuries: NFL.com Week 7 report not published yet (checked 2026-10-19T11:04:24Z); ESPN injuries API 2026-10-19T11:04:48Z used only for quarterback notes.",
-    "H4: no move measured yet; opening reference is the first consensus line after 2026-10-20T04:15:00Z.",
-    "Records and points: ESPN team API (2026-10-19T11:19:06Z)."
+    "Schedule, venue, TV: ESPN scoreboard, as of Oct 19, 7:03 AM ET; kickoff also matches Action Network's listed start time.",
+    "Lines: Action Network consensus line as of Oct 19, 7:03 AM ET.",
+    "H1 ratings: nflverse play-by-play as of Oct 19, 7:05 AM ET, Weeks 1–6 finals; home field 1.75.",
+    "H1 total: nflverse game results, 2026 Weeks 1–6 finals.",
+    "Injuries: NFL.com Week 7 report not published yet (checked Oct 19, 7:04 AM ET); ESPN injury data as of Oct 19, 7:04 AM ET used only for quarterback notes.",
+    "H4: no move measured yet; opening reference is the first consensus line after Oct 20, 12:15 AM ET.",
+    "Records and points: ESPN team pages, as of Oct 19, 7:19 AM ET."
    ],
    "page_note": "",
    "rule_version": "170",
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 49,
     "market_total": 47.5,
     "pick": "Over",
@@ -2863,17 +2770,9 @@
    "gambler_story": "The Los Angeles Rams (2-4) visit the Las Vegas Raiders (3-3) at Allegiant Stadium in Las Vegas on Sunday, Oct 25, kicking off at 4:25 PM ET on Fox.\n\nThe Rams are favored by 5.5, and the total is 47.5 (consensus, Oct 19 at 11:03 UTC).\n\nThe official Week 7 injury report is not out yet. Matthew Stafford (the Rams) and Kirk Cousins (Las Vegas) started their teams' last games.\n\nLas Vegas is 3-3 (1-2 at home), with 162 points scored and 162 allowed in 6 games. The Rams are 2-4 (1-1 on the road), with 135 points scored and 138 allowed in 6 games.\n\nH1 - The Formula: I rate Las Vegas at −8.2 and the Rams at 4.3. I add 1.75 points of home field for Las Vegas. That projects the Rams by 10.7. The market has the Rams at −5.5, so the gap is 5.2 points, clear of my 2.5-point cutoff. My total is 49.8, 2.3 points above the 47.5, inside the same cutoff. I like the Rams on the side. No strong lean on the total.\n\nH2 - Next Man Up: With no official Week 7 injury report yet, no starting quarterback is ruled out. No strong lean.\n\nH3 - Letdown Watch: I checked short week, long rest, travel and back-to-back road trips for both teams; no spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: My opening number posts after Monday night's game, so no move is measured yet, and the bets-versus-money split is not included. No strong lean.\n\nH5 - In The Trenches: The Rams run for 4.8 yards a carry against a Las Vegas defense that allows 5.1. Las Vegas runs for 3.3 against 4.4 allowed. Sack rates: the Rams 4.3% generated, 3.3% allowed by Las Vegas; Las Vegas 7.4% generated, 3.9% allowed by the Rams. Las Vegas's run game is 1.1 yards a carry below what the Rams allow, which meets my cutoff. I like the Rams on the side; my score stays with The Formula.\n\nRams 29, Raiders 20. Rams cover the 5.5. Over 47.5.",
    "fanatic_story": "The Rams (2-4) face the Raiders (3-3), kicking off at 4:25 PM ET Sun Oct 25 on Fox at Allegiant Stadium, Las Vegas, NV.\n\nThe first official injury report of the week is not out yet. Matthew Stafford started the Rams' last game. Kirk Cousins started Las Vegas's last game.\n\nLas Vegas is 3-3 overall and 1-2 at home, with 162 points scored and 162 allowed in 6 games.\n\nThe Rams are 2-4 overall and 1-1 on the road, with 135 points scored and 138 allowed in 6 games.\n\nMy call: Rams 29, Raiders 20.",
    "fanatic_final_sentence": "Rams 29, Raiders 20.",
-   "preview_sources": [
-    "401873021_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json",
-    "espn_team_records.json"
-   ],
+   "preview_sources": [],
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/lar and https://www.espn.com/nfl/team/_/name/lv (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/lar, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/lv), retrieved 2026-10-19T11:19:06Z",
-    "401873021_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/lar and https://www.espn.com/nfl/team/_/name/lv, retrieved Oct 19, 7:19 AM ET"
    ],
    "locked": false
   },
@@ -2942,8 +2841,8 @@
    "line_used": {
     "home_line": -2.5,
     "total": 42.5,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-19T11:03:41Z"
+    "source": "Consensus line as of Oct 19, 7:03 AM ET",
+    "as_of_utc": "2026-10-19T11:03:41Z"
    },
    "total_line": 42.5,
    "prediction": {
@@ -2989,19 +2888,19 @@
     "total": ""
    },
    "sourced_reasons": [
-    "Schedule, venue, TV: ESPN scoreboard (2026-10-19T11:03:19Z); kickoff also matches Action Network start_time.",
-    "Lines: Action Network consensus book 15, 2026-10-19T11:03:41Z (api.actionnetwork.com scoreboard, week 7).",
-    "H1 ratings: nflverse play-by-play 2026-10-19T11:05:21Z, Weeks 1–6 finals; home field 1.75.",
-    "H1 total: nflverse games.csv, 2026 Weeks 1–6 finals.",
-    "Injuries: NFL.com Week 7 report not published yet (checked 2026-10-19T11:04:24Z); ESPN injuries API 2026-10-19T11:04:48Z used only for quarterback notes.",
-    "H4: no move measured yet; opening reference is the first consensus line after 2026-10-20T04:15:00Z.",
-    "Records and points: ESPN team API (2026-10-19T11:19:07Z)."
+    "Schedule, venue, TV: ESPN scoreboard, as of Oct 19, 7:03 AM ET; kickoff also matches Action Network's listed start time.",
+    "Lines: Action Network consensus line as of Oct 19, 7:03 AM ET.",
+    "H1 ratings: nflverse play-by-play as of Oct 19, 7:05 AM ET, Weeks 1–6 finals; home field 1.75.",
+    "H1 total: nflverse game results, 2026 Weeks 1–6 finals.",
+    "Injuries: NFL.com Week 7 report not published yet (checked Oct 19, 7:04 AM ET); ESPN injury data as of Oct 19, 7:04 AM ET used only for quarterback notes.",
+    "H4: no move measured yet; opening reference is the first consensus line after Oct 20, 12:15 AM ET.",
+    "Records and points: ESPN team pages, as of Oct 19, 7:19 AM ET."
    ],
    "page_note": "",
    "rule_version": "170",
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 45,
     "market_total": 42.5,
     "pick": "Over",
@@ -3060,17 +2959,9 @@
    "gambler_story": "The Kansas City Chiefs (5-0) visit the Seattle Seahawks (3-3) at Lumen Field in Seattle on Sunday, Oct 25, kicking off at 8:20 PM ET on NBC.\n\nSeattle is favored by 2.5, and the total is 42.5 (consensus, Oct 19 at 11:03 UTC).\n\nThe official Week 7 injury report is not out yet. Patrick Mahomes (Kansas City) and Sam Darnold (Seattle) started their teams' last games.\n\nSeattle is 3-3 (2-1 at home), with 148 points scored and 122 allowed in 6 games. Kansas City is 5-0 (2-0 on the road), with 140 points scored and 83 allowed in 5 games.\n\nH1 - The Formula: I rate Seattle at 3.3 and Kansas City at 4.1. I add 1.75 points of home field for Seattle. That projects Seattle by 0.9. The market has Seattle at −2.5, so the gap is 1.6 points, inside my 2.5-point cutoff. My total is 44.8, 2.3 points above the 42.5, inside the same cutoff. No strong lean.\n\nH2 - Next Man Up: With no official Week 7 injury report yet, no starting quarterback is ruled out. No strong lean.\n\nH3 - Letdown Watch: I checked short week, long rest, travel and back-to-back road trips for both teams; no spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: My opening number posts after Monday night's game, so no move is measured yet, and the bets-versus-money split is not included. No strong lean.\n\nH5 - In The Trenches: Kansas City runs for 5.9 yards a carry against a Seattle defense that allows 3.5. Seattle runs for 4.1 against 3.6 allowed. Sack rates: Kansas City 4.3% generated, 7.5% allowed by Seattle; Seattle 8.2% generated, 3.7% allowed by Kansas City. Kansas City's run game is 2.3 yards a carry above what Seattle allows and Seattle's run game is 0.5 yards a carry above what Kansas City allows, which meet my cutoff. The gaps point to different teams. No strong lean.\n\nSeahawks 23, Chiefs 22. Chiefs cover the 2.5. Over 42.5.",
    "fanatic_story": "The Chiefs (5-0) face the Seahawks (3-3), kicking off at 8:20 PM ET Sun Oct 25 on NBC at Lumen Field, Seattle, WA.\n\nThe first official injury report of the week is not out yet. Patrick Mahomes started Kansas City's last game. Sam Darnold started Seattle's last game.\n\nSeattle is 3-3 overall and 2-1 at home, with 148 points scored and 122 allowed in 6 games.\n\nKansas City is 5-0 overall and 2-0 on the road, with 140 points scored and 83 allowed in 5 games.\n\nMy call: Seahawks 23, Chiefs 22.",
    "fanatic_final_sentence": "Seahawks 23, Chiefs 22.",
-   "preview_sources": [
-    "401873022_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json",
-    "espn_team_records.json"
-   ],
+   "preview_sources": [],
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/kc and https://www.espn.com/nfl/team/_/name/sea (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/kc, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/sea), retrieved 2026-10-19T11:19:06Z",
-    "401873022_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/kc and https://www.espn.com/nfl/team/_/name/sea, retrieved Oct 19, 7:19 AM ET"
    ],
    "locked": false
   },
@@ -3141,8 +3032,8 @@
    "line_used": {
     "home_line": 4.5,
     "total": 44.5,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-19T11:03:41Z"
+    "source": "Consensus line as of Oct 19, 7:03 AM ET",
+    "as_of_utc": "2026-10-19T11:03:41Z"
    },
    "total_line": 44.5,
    "prediction": {
@@ -3188,19 +3079,19 @@
     "total": ""
    },
    "sourced_reasons": [
-    "Schedule, venue, TV: ESPN scoreboard (2026-10-19T11:03:19Z); kickoff also matches Action Network start_time.",
-    "Lines: Action Network consensus book 15, 2026-10-19T11:03:41Z (api.actionnetwork.com scoreboard, week 7).",
-    "H1 ratings: nflverse play-by-play 2026-10-19T11:05:21Z, Weeks 1–6 finals; home field 1.75.",
-    "H1 total: nflverse games.csv, 2026 Weeks 1–6 finals.",
-    "Injuries: NFL.com Week 7 report not published yet (checked 2026-10-19T11:04:24Z); ESPN injuries API 2026-10-19T11:04:48Z used only for quarterback notes.",
-    "H4: no move measured yet; opening reference is the first consensus line after 2026-10-20T04:15:00Z.",
-    "Records and points: ESPN team API (2026-10-19T11:19:07Z)."
+    "Schedule, venue, TV: ESPN scoreboard, as of Oct 19, 7:03 AM ET; kickoff also matches Action Network's listed start time.",
+    "Lines: Action Network consensus line as of Oct 19, 7:03 AM ET.",
+    "H1 ratings: nflverse play-by-play as of Oct 19, 7:05 AM ET, Weeks 1–6 finals; home field 1.75.",
+    "H1 total: nflverse game results, 2026 Weeks 1–6 finals.",
+    "Injuries: NFL.com Week 7 report not published yet (checked Oct 19, 7:04 AM ET); ESPN injury data as of Oct 19, 7:04 AM ET used only for quarterback notes.",
+    "H4: no move measured yet; opening reference is the first consensus line after Oct 20, 12:15 AM ET.",
+    "Records and points: ESPN team pages, as of Oct 19, 7:19 AM ET."
    ],
    "page_note": "",
    "rule_version": "170",
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 45,
     "market_total": 44.5,
     "pick": "Over",
@@ -3259,17 +3150,9 @@
    "gambler_story": "The Dallas Cowboys (2-4) visit the Philadelphia Eagles (2-4) at Lincoln Financial Field in Philadelphia on Monday, Oct 26, kicking off at 8:15 PM ET on ESPN, ABC and Disney+.\n\nDallas is favored by 4.5, and the total is 44.5 (consensus, Oct 19 at 11:03 UTC).\n\nThe official Week 7 injury report is not out yet. Dak Prescott (Dallas) and Tanner McKee (Philadelphia) started their teams' last games. Jalen Hurts is on injured reserve.\n\nPhiladelphia is 2-4 (1-2 at home), with 106 points scored and 137 allowed in 6 games. Dallas is 2-4 (1-2 on the road), with 151 points scored and 159 allowed in 6 games.\n\nH1 - The Formula: I rate Philadelphia at −7.3 and Dallas at −5.6. I add 1.75 points of home field for Philadelphia. That projects Philadelphia by 0.1. The market has Dallas at −4.5, so the gap is 4.6 points, clear of my 2.5-point cutoff. My total is 46.1, 1.6 points above the 44.5, inside the same cutoff. I like Philadelphia on the side. No strong lean on the total.\n\nH2 - Next Man Up: With no official Week 7 injury report yet, no starting quarterback is ruled out. No strong lean.\n\nH3 - Letdown Watch: I checked short week, long rest, travel and back-to-back road trips for both teams; no spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: My opening number posts after Monday night's game, so no move is measured yet, and the bets-versus-money split is not included. No strong lean.\n\nH5 - In The Trenches: Dallas runs for 3.7 yards a carry against a Philadelphia defense that allows 4.0. Philadelphia runs for 3.8 against 4.9 allowed. Sack rates: Dallas 4.3% generated, 7.4% allowed by Philadelphia; Philadelphia 3.6% generated, 2.8% allowed by Dallas. Philadelphia's run game is 1.2 yards a carry below what Dallas allows, which meets my cutoff. I like Dallas on the side; my score stays with The Formula.\n\nCowboys 23, Eagles 22. Eagles cover the 4.5. Over 44.5.",
    "fanatic_story": "The Cowboys (2-4) face the Eagles (2-4), kicking off at 8:15 PM ET Mon Oct 26 on ESPN, ABC, Disney+ at Lincoln Financial Field, Philadelphia, PA.\n\nThe first official injury report of the week is not out yet. Dak Prescott started Dallas's last game. Tanner McKee started Philadelphia's last game. Jalen Hurts is on injured reserve.\n\nPhiladelphia is 2-4 overall and 1-2 at home, with 106 points scored and 137 allowed in 6 games.\n\nDallas is 2-4 overall and 1-2 on the road, with 151 points scored and 159 allowed in 6 games.\n\nMy call: Cowboys 23, Eagles 22.",
    "fanatic_final_sentence": "Cowboys 23, Eagles 22.",
-   "preview_sources": [
-    "401873009_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json",
-    "espn_team_records.json"
-   ],
+   "preview_sources": [],
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/dal and https://www.espn.com/nfl/team/_/name/phi (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/dal, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/phi), retrieved 2026-10-19T11:19:05Z",
-    "401873009_facts.md",
-    "picks_wave1.json",
-    "closes_wave1.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/dal and https://www.espn.com/nfl/team/_/name/phi, retrieved Oct 19, 7:19 AM ET"
    ],
    "locked": false
   }
