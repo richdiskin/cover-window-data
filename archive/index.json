@@ -1,0 +1,19 @@
+{
+ "updated_utc": "2026-10-19T11:13:16Z",
+ "weeks": [
+  {
+   "league": "college",
+   "date": "2026-10-17",
+   "label": "FBS, Saturday Oct 17, 2026",
+   "path": "archive/college/2026-10-17/",
+   "games": "archive/college/2026-10-17/games.json",
+   "results": "archive/college/2026-10-17/results.json",
+   "status": "final"
+  }
+ ],
+ "daily_articles": {
+  "index": "articles/archive/index.json",
+  "current": "articles/current.json",
+  "note": "Daily articles roll every day via publish_daily_articles.py; their archive lives here."
+ }
+}

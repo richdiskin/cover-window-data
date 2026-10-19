@@ -1,0 +1,29 @@
+{
+ "league": "college",
+ "date": "2026-10-17",
+ "label": "FBS, Saturday Oct 17, 2026",
+ "status": "final",
+ "archived_utc": "2026-10-19T11:13:16Z",
+ "finalized_utc": "2026-10-19T11:13:16Z",
+ "pending_games": [],
+ "files": {
+  "games.json": {
+   "bytes": 571117,
+   "source": "git fe9750a:games.json"
+  },
+  "monday.json": {
+   "bytes": 164,
+   "source": "git fe9750a:college/monday.json"
+  },
+  "results.json": {
+   "bytes": 16230,
+   "source": "ESPN scoreboard 20261017"
+  },
+  "standings.json": {
+   "bytes": 120,
+   "source": "git fe9750a:college/standings.json"
+  }
+ },
+ "read_only": true,
+ "note": "Archived exactly as it was live. Open with the same game pages, read-only."
+}
