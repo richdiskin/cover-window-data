@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-19T11:13:34Z",
+ "updated_utc": "2026-10-20T04:40:23Z",
  "weeks": [
   {
    "league": "nfl",
@@ -8,7 +8,7 @@
    "path": "archive/nfl/2026-10-18/",
    "games": "archive/nfl/2026-10-18/games.json",
    "results": "archive/nfl/2026-10-18/results.json",
-   "status": "provisional"
+   "status": "final"
   },
   {
    "league": "college",

@@ -1,1 +1,20 @@
-{"status":"empty","title":"Standings","as_of_text":"","rows":[],"empty_text":"Standings appear once picks are graded."}
+{
+ "schema_version": 1,
+ "edition": "gambler",
+ "status": "published",
+ "title": "Standings",
+ "updated_at_utc": "2026-10-19T12:43:47Z",
+ "as_of_text": "Through NFL Week 6 (games through Oct 18, 2026). Not yet graded: Washington Commanders at San Francisco 49ers.",
+ "rows": [
+  {
+   "label": "2026 season",
+   "text": "Cover Writer ATS: 4-8-0"
+  },
+  {
+   "label": "All time",
+   "text": "Cover Writer ATS: 4-8-0"
+  }
+ ],
+ "empty_text": "Standings appear once picks are graded.",
+ "source": "archive/nfl/*/results.json (2026-10-18)"
+}

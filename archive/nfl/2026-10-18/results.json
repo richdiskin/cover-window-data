@@ -3,12 +3,10 @@
  "date": "2026-10-18",
  "label": "NFL, Week 6, Sunday Oct 18, 2026",
  "source": "ESPN scoreboard finals",
- "graded_at_utc": "2026-10-19T11:13:34Z",
- "status": "pending",
- "pending_games": [
-  "401873008"
- ],
- "cover_writer_ats": "4-8-0",
+ "graded_at_utc": "2026-10-20T04:40:23Z",
+ "status": "final",
+ "pending_games": [],
+ "cover_writer_ats": "4-9-0",
  "games": [
   {
    "game_id": "401872995",
@@ -168,8 +166,14 @@
   {
    "game_id": "401873008",
    "matchup": "Washington Commanders at San Francisco 49ers",
-   "status": "pending",
-   "espn_status": "Mon, October 19th at 8:15 PM EDT"
+   "status": "final",
+   "espn_status": "Final",
+   "away": "Washington Commanders",
+   "away_score": 17,
+   "home": "San Francisco 49ers",
+   "home_score": 23,
+   "cover_writer_side": "San Francisco 49ers −7.5",
+   "cover_writer_ats": "L"
   }
  ]
 }

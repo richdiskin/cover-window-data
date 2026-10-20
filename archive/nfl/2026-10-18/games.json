@@ -5123,15 +5123,13 @@
    "total_reason_public": "",
    "fanatic_final_sentence": "49ers 35, Commanders 16.",
    "story_sources": [
-    "ESPN team pages https://www.espn.com/nfl/team/_/name/wsh and https://www.espn.com/nfl/team/_/name/sf (API https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/wsh, https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/sf), retrieved 2026-10-18T11:44:51Z",
-    "401873008_facts.md (feed games.json, lines 2026-10-18T11:28:15Z; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6 fetched 2026-10-18T11:28:22Z)",
-    "picks_wave3.json handicappers + sourced_reasons (generated 2026-10-18T11:44:14Z)",
-    "closes_wave3.json"
+    "ESPN team pages https://www.espn.com/nfl/team/_/name/wsh and https://www.espn.com/nfl/team/_/name/sf, retrieved Oct 18, 7:44 AM ET",
+    "Game fact sheet: consensus line as of Oct 18, 7:28 AM ET; NFL.com injury report https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 7:28 AM ET"
    ],
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "H1: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to San Francisco 49ers. Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Edge 13.1. Threshold 2.5 met. Cover San Francisco 49ers.",
+     "public_case": "H1: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to San Francisco 49ers. Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Gap 13.1, clear of the 2.5-point cutoff. Cover San Francisco 49ers.",
      "market": "spread",
      "best_bet": false
     },
@@ -5151,11 +5149,11 @@
     {
      "id": "H3",
      "qualifies": false,
-     "public_case": "No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
+     "public_case": "No scheduling spot this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team."
     },
     {
      "id": "H4",
-     "public_case": "H4: Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 50.5 (Oct 13, 2026 05:04 UTC), now 52 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets 1-point threshold. Over.",
+     "public_case": "H4: Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0, under the 1-point cutoff. Total opened 50.5 (Oct 13, 2026 05:04 UTC), now 52 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets the 1-point cutoff. Over.",
      "market": "total",
      "best_bet": true,
      "both_markets_best_bet": false,
@@ -5167,14 +5165,13 @@
     }
    ],
    "sourced_reasons": [
-    "H1: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to San Francisco 49ers. Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Edge 13.1. Threshold 2.5 met. Cover San Francisco 49ers.",
-    "H1 data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
-    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
-    "H3: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
-    "H4: Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 50.5 (Oct 13, 2026 05:04 UTC), now 52 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets 1-point threshold. Over.",
-    "H4 spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
-    "H4 total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
-    "H5: key trench piece ruled out, season metrics include him (38): Charles Omenihu, Nick Bosa",
+    "H1: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to San Francisco 49ers. Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Gap 13.1, clear of the 2.5-point cutoff. Cover San Francisco 49ers.",
+    "H2: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded. No strong lean.",
+    "H3: No scheduling spot this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
+    "H4: Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0, under the 1-point cutoff. Total opened 50.5 (Oct 13, 2026 05:04 UTC), now 52 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets the 1-point cutoff. Over.",
+    "H4 spread split: the money share is not shown free on actionnetwork.com/nfl/public-betting, so it is not published.",
+    "H4 total split: the money share is not shown free on actionnetwork.com/nfl/public-betting, so it is not published.",
+    "H5: key trench piece ruled out, season metrics include him: Charles Omenihu, Nick Bosa",
     "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Charles Omenihu (DE, WAS) Out; Nick Bosa (DE, SF) Out"
    ],
    "total_line": 52,
@@ -5188,34 +5185,32 @@
    "line_used": {
     "home_line": -7.5,
     "total": 52,
-    "source": "Action Network consensus (book_id 15)",
-    "fetched_at_utc": "2026-10-18T18:44:36Z"
+    "source": "Consensus line as of Oct 18, 2:44 PM ET",
+    "as_of_utc": "2026-10-18T18:44:36Z"
    },
    "best_bets": {
     "spread": "",
     "total": ""
    },
-   "gambler_story": "The Washington Commanders (1-3-1) visit the San Francisco 49ers (5-0) at Levi's Stadium in Santa Clara on Monday, Oct 19, kicking off at 8:15 PM ET on ESPN and ABC, and the side has not moved. San Francisco opened at −7.5 on Oct 13 at 10:59 UTC and is still −7.5 as of Oct 18 at 11:32 UTC. The number sits a half-point past 7, the second key number, so a 49ers win by exactly 7 lands on Washington's side.\n\nThe total has risen 1.5 points, from 50.5 (Oct 13, 05:04 UTC) to 52. No bets-versus-money split was published free.\n\nThe ratings show the widest gap of any game this week. Play-by-play efficiency has San Francisco at +9.8 and Washington at −9.1. With 1.75 points of home field, the projection is 49ers by 20.6, which is 13.1 points beyond the 7.5.\n\nThe quarterback news is not a factor. Marcus Mariota is listed out for Washington, but he is the backup; Jayden Daniels practiced fully and starts. No quarterback adjustment applies on either side.\n\nThe trench absences cut both ways. San Francisco is without defensive end Nick Bosa, and Washington is without defensive end Charles Omenihu; both are starters whose play is still inside their teams' season numbers. No point figure was found for either, or for the other absences: receiver Deebo Samuel Sr., safety Marques Sigle and linebacker Garret Wallow for San Francisco, and running back Jacory Croskey-Merritt and linebacker Javontae Jean-Baptiste for Washington. Receivers Mike Evans, Christian Kirk and Stefon Diggs are all questionable.\n\nSan Francisco, 3-0 at home, has scored 154 points and allowed 93 in five games. Washington, 0-2 on the road, has scored 115 and allowed 149. A 49ers offense that has scored at that pace, against a defense that has given up that much, is the case for the rising total. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate San Francisco at 9.8 and Washington at −9.1. I add 1.75 points of home field for San Francisco. That projects San Francisco by 20.6. The market has San Francisco at −7.5, so the gap is 13.1 points, clear of my 2.5-point cutoff. A 13.1-point edge for San Francisco.\n\nH2 - Next Man Up: Marcus Mariota is listed out, but he's the backup. Jayden Daniels practiced fully and starts. I found no point figure for anyone else, so nobody gets priced. No edge.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No edge.\n\nH4 - Follow The Money: San Francisco opened at −7.5 on Oct 13 and still sits at −7.5. The total went from 50.5 to 52. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. Edge: the Over on the total. No edge on the side.\n\nH5 - In The Trenches: Charles Omenihu and Nick Bosa are ruled out, and my season numbers still include them, so I don't grade this matchup. No edge.\n\n49ers 35, Commanders 16. 49ers cover the 7.5. Under 52.",
+   "gambler_story": "The Washington Commanders (1-3-1) visit the San Francisco 49ers (5-0) at Levi's Stadium in Santa Clara on Monday, Oct 19, kicking off at 8:15 PM ET on ESPN and ABC, and the side has not moved. San Francisco opened at −7.5 on Oct 13 at 10:59 UTC and is still −7.5 as of Oct 18 at 11:32 UTC. The number sits a half-point past 7, the second key number, so a 49ers win by exactly 7 lands on Washington's side.\n\nThe total has risen 1.5 points, from 50.5 (Oct 13, 05:04 UTC) to 52. No bets-versus-money split was published free.\n\nThe ratings show the widest gap of any game this week. Play-by-play efficiency has San Francisco at +9.8 and Washington at −9.1. With 1.75 points of home field, the projection is 49ers by 20.6, which is 13.1 points beyond the 7.5.\n\nThe quarterback news is not a factor. Marcus Mariota is listed out for Washington, but he is the backup; Jayden Daniels practiced fully and starts. No quarterback adjustment applies on either side.\n\nThe trench absences cut both ways. San Francisco is without defensive end Nick Bosa, and Washington is without defensive end Charles Omenihu; both are starters whose play is still inside their teams' season numbers. No point figure was found for either, or for the other absences: receiver Deebo Samuel Sr., safety Marques Sigle and linebacker Garret Wallow for San Francisco, and running back Jacory Croskey-Merritt and linebacker Javontae Jean-Baptiste for Washington. Receivers Mike Evans, Christian Kirk and Stefon Diggs are all questionable.\n\nSan Francisco, 3-0 at home, has scored 154 points and allowed 93 in five games. Washington, 0-2 on the road, has scored 115 and allowed 149. A 49ers offense that has scored at that pace, against a defense that has given up that much, is the case for the rising total. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate San Francisco at 9.8 and Washington at −9.1. I add 1.75 points of home field for San Francisco. That projects San Francisco by 20.6. The market has San Francisco at −7.5, so the gap is 13.1 points, clear of my 2.5-point cutoff. A 13.1-point gap: I like San Francisco on the side.\n\nH2 - Next Man Up: Marcus Mariota is listed out, but he's the backup. Jayden Daniels practiced fully and starts. I found no point figure for anyone else, so nobody gets priced. No strong lean.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: San Francisco opened at −7.5 on Oct 13 and still sits at −7.5. The total went from 50.5 to 52. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. I like the Over on the total. No strong lean on the side.\n\nH5 - In The Trenches: Charles Omenihu and Nick Bosa are ruled out, and my season numbers still include them, so I don't grade this matchup. No strong lean.\n\n49ers 35, Commanders 16. 49ers cover the 7.5. Under 52.",
    "fanatic_story": "The Commanders (1-3-1) face the 49ers (5-0), kicking off at 8:15 PM ET Mon Oct 19 on ESPN, ABC at Levi's Stadium, Santa Clara, CA.\n\nWashington lists running back Jacory Croskey-Merritt, linebacker Javontae Jean-Baptiste, quarterback Marcus Mariota and defensive end Charles Omenihu as out. San Francisco lists defensive end Nick Bosa, wide receiver Deebo Samuel Sr., safety Marques Sigle and linebacker Garret Wallow as out. Mariota is the backup; Jayden Daniels practiced fully and starts.\n\nSan Francisco is 5-0 overall and 3-0 at home, with 154 points scored and 93 allowed in 5 games.\n\nWashington is 1-3-1 overall and 0-2 on the road, with 115 points scored and 149 allowed in 5 games.\n\nMy call: 49ers 35, Commanders 16.",
    "preview_sources": [
-    "401873008_facts.md: records, venue, kickoff, TV, NFL.com injury report (https://www.nfl.com/injuries/league/2026/reg6, fetched 2026-10-18T11:28:22Z), consensus line 2026-10-18T11:28:15Z",
-    "espn_team_records.json: home/road splits, points for/against (ESPN team API, retrieved 2026-10-18T11:44Z)",
-    "picks_wave3.json: net ratings, home field, projection, trench figures/notes (nflverse play-by-play, Oct 18, 2026), opening line/total (Action Network consensus)",
-    "closes_wave3.json: predicted score",
-    "Mariota backup; Jayden Daniels practiced fully and starts: Developer QB audit 2026-10-18; Jayden Daniels on WAS roster verified at https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/wsh/roster retrieved 2026-10-18T11:48:36Z",
-    "'widest gap of the week' compares H1 projections across all 13 games in picks_wave0-3.json",
+    "Game fact sheet: records, venue, kickoff, TV, NFL.com injury report (https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 7:28 AM ET), consensus line as of Oct 18, 7:28 AM ET",
+    "Home/road splits, points for/against: ESPN team pages, retrieved Oct 18, 7:44 AM ET",
+    "Net ratings, home field, projection, trench figures/notes: nflverse play-by-play, Oct 18, 2026; opening line/total: Action Network consensus",
+    "Mariota backup; Jayden Daniels practiced fully and starts: NFL.com injury report and the ESPN Washington roster, checked Oct 18, 7:48 AM ET",
+    "'widest gap of the week' compares H1 projections across all 13 graded Week 6 games",
     "'only unbeaten team in this window' compares the night games; KC (4-0) plays at 4 PM",
-    "Opening and current lines and totals: picks_wave3.json sourced_reasons (consensus market data; opens Oct 13, 2026, current Oct 18, 2026 11:32 UTC), retrieved 2026-10-18",
-    "Fact sheet consensus line fetched 2026-10-18T11:28:15Z (https://www.actionnetwork.com/nfl/odds)",
-    "Injuries: NFL.com official injury report https://www.nfl.com/injuries/league/2026/reg6, fetched 2026-10-18T11:28:22Z / 11:32 UTC",
-    "Net ratings, projection, trench figures: picks_wave3.json (nflverse play-by-play, Oct 18, 2026)",
-    "Records/points: espn_team_records.json (ESPN team API, retrieved 2026-10-18T11:44Z)",
-    "Published pick and score: closes_wave3.json",
-    "'widest gap of any game this week' compares H1 projections across the 13 games in picks_wave0-3.json"
+    "Opening and current lines and totals: Action Network consensus (opens Oct 13, 2026; current Oct 18, 2026 11:32 UTC)",
+    "Consensus line as of Oct 18, 7:28 AM ET (https://www.actionnetwork.com/nfl/odds)",
+    "Injuries: NFL.com official injury report https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 7:28 AM ET / 11:32 UTC",
+    "Net ratings, projection, trench figures: nflverse play-by-play, Oct 18, 2026",
+    "Records/points: ESPN team pages, retrieved Oct 18, 7:44 AM ET",
+    "'widest gap of any game this week' compares H1 projections across the 13 graded Week 6 games"
    ],
    "writer_total": {
     "label": "Average of H1–H5",
-    "source": "H1–H5 average (rule 170)",
+    "source": "H1–H5 average",
     "projected_total": 51,
     "market_total": 52,
     "pick": "Under",
@@ -5234,42 +5229,42 @@
     "handicappers": [
      {
       "name": "H1 - The Formula",
-      "side_line": "Side: San Francisco 49ers −7.5 · Edge 13.1 – qualifies",
-      "ou_line": "O/U: Under 52 · No edge (0.90, under the 2.5 bar)",
+      "side_line": "Side: San Francisco 49ers −7.5 · Likes this side",
+      "ou_line": "O/U: Under 52 · No strong lean (gap 0.90, under the 2.5-point cutoff)",
       "score_line": "Projected: San Francisco 49ers 36, Washington Commanders 15 (Total 51)",
-      "basis_line": "Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 + home field 1.75 = 49ers by 20.6; total 51.1 (rule-165 method, sample WAS 5 games, SF 5 games). Projected points per team = average of its points scored per game and the opponent's points allowed per game, 2026 Weeks 1–5 (nflverse games)."
+      "basis_line": "Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 + home field 1.75 = 49ers by 20.6; total 51.1 (sample WAS 5 games, SF 5 games). Projected points per team = average of its points scored per game and the opponent's points allowed per game, 2026 Weeks 1–5 (nflverse games)."
      },
      {
       "name": "H2 - Next Man Up",
-      "side_line": "Side: San Francisco 49ers −7.5 · No edge",
-      "ou_line": "O/U: Under 52 · No edge",
+      "side_line": "Side: San Francisco 49ers −7.5 · No strong lean",
+      "ou_line": "O/U: Under 52 · No strong lean",
       "score_line": "Projected: San Francisco 49ers 36, Washington Commanders 15 (Total 51)",
-      "basis_line": "Equals H1 base – no expected starting quarterback is ruled out, so the 1.5-point quarterback value is not triggered. Marcus Mariota (WAS) is listed out but is the backup; Jayden Daniels practiced fully and starts. Every other absence is excluded because no point value was found (NFL.com official injury report, fetched Oct 18, 2026 11:32 UTC: Charles Omenihu (DE, WAS) Out; Nick Bosa (DE, SF) Out). No edge."
+      "basis_line": "Same as The Formula – no expected starting quarterback is ruled out, so the 1.5-point quarterback value is not triggered. Marcus Mariota (WAS) is listed out but is the backup; Jayden Daniels practiced fully and starts. Every other absence is excluded because no point value was found (NFL.com official injury report, fetched Oct 18, 2026 11:32 UTC: Charles Omenihu (DE, WAS) Out; Nick Bosa (DE, SF) Out). No strong lean."
      },
      {
       "name": "H3 - Letdown Watch",
-      "side_line": "Side: San Francisco 49ers −7.5 · No edge",
-      "ou_line": "O/U: Under 52 · No edge",
+      "side_line": "Side: San Francisco 49ers −7.5 · No strong lean",
+      "ou_line": "O/U: Under 52 · No strong lean",
       "score_line": "Projected: San Francisco 49ers 36, Washington Commanders 15 (Total 51)",
-      "basis_line": "Equals H1 base – I checked short week, long rest, significant travel and back-to-back road trips for both teams. No spot meets the multi-year sample threshold (70+ games across at least three seasons and eight teams). No edge."
+      "basis_line": "Same as The Formula – I checked short week, long rest, significant travel and back-to-back road trips for both teams. No spot meets the multi-year sample threshold (70+ games across at least three seasons and eight teams). No strong lean."
      },
      {
       "name": "H4 - Follow The Money",
-      "side_line": "Side: No edge (line move under 1 point)",
-      "ou_line": "O/U: Over 52 · Total move 1+ – qualifies",
+      "side_line": "Side: No strong lean (line move under 1 point)",
+      "ou_line": "O/U: Over 52 · Likes this total",
       "score_line": "Projected: San Francisco 49ers 30, Washington Commanders 22 (Total 52)",
-      "basis_line": "Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC) and is still −7.5 (Oct 18, 2026 11:32 UTC; 18:44 UTC Action Network consensus), no move: no side edge. Total opened 50.5 (Oct 13, 2026 05:04 UTC) and is 52 now, a 1.5-point move that meets the threshold: Over. The bets-versus-money split is not published free, so it is not included."
+      "basis_line": "Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC) and is still −7.5 (Oct 18, 2026 11:32 UTC; 18:44 UTC Action Network consensus), no move, so no lean on the side. Total opened 50.5 (Oct 13, 2026 05:04 UTC) and is 52 now, a 1.5-point move that meets the 1-point cutoff: Over. The bets-versus-money split is not published free, so it is not included."
      },
      {
       "name": "H5 - In The Trenches",
-      "side_line": "Side: San Francisco 49ers −7.5 · No edge",
-      "ou_line": "O/U: Under 52 · No edge",
+      "side_line": "Side: San Francisco 49ers −7.5 · No strong lean",
+      "ou_line": "O/U: Under 52 · No strong lean",
       "score_line": "Projected: San Francisco 49ers 36, Washington Commanders 15 (Total 51)",
-      "basis_line": "Equals H1 base – not graded. Key trench starters are ruled out (Charles Omenihu, DE, WAS; Nick Bosa, DE, SF) and the season ypc and sack-rate numbers still include them (rule 38), so the gaps are not measured. No edge."
+      "basis_line": "Same as The Formula – not graded. Key trench starters are ruled out (Charles Omenihu, DE, WAS; Nick Bosa, DE, SF) and the season ypc and sack-rate numbers still include them, so the gaps are not measured. No strong lean."
      }
     ],
     "best_bets": [],
-    "story_text": "The Washington Commanders (1-3-1) visit the San Francisco 49ers (5-0) at Levi's Stadium in Santa Clara on Monday, Oct 19, kicking off at 8:15 PM ET on ESPN and ABC, and the side has not moved. San Francisco opened at −7.5 on Oct 13 at 10:59 UTC and is still −7.5 as of Oct 18 at 11:32 UTC. The number sits a half-point past 7, the second key number, so a 49ers win by exactly 7 lands on Washington's side.\n\nThe total has risen 1.5 points, from 50.5 (Oct 13, 05:04 UTC) to 52. No bets-versus-money split was published free.\n\nThe ratings show the widest gap of any game this week. Play-by-play efficiency has San Francisco at +9.8 and Washington at −9.1. With 1.75 points of home field, the projection is 49ers by 20.6, which is 13.1 points beyond the 7.5.\n\nThe quarterback news is not a factor. Marcus Mariota is listed out for Washington, but he is the backup; Jayden Daniels practiced fully and starts. No quarterback adjustment applies on either side.\n\nThe trench absences cut both ways. San Francisco is without defensive end Nick Bosa, and Washington is without defensive end Charles Omenihu; both are starters whose play is still inside their teams' season numbers. No point figure was found for either, or for the other absences: receiver Deebo Samuel Sr., safety Marques Sigle and linebacker Garret Wallow for San Francisco, and running back Jacory Croskey-Merritt and linebacker Javontae Jean-Baptiste for Washington. Receivers Mike Evans, Christian Kirk and Stefon Diggs are all questionable.\n\nSan Francisco, 3-0 at home, has scored 154 points and allowed 93 in five games. Washington, 0-2 on the road, has scored 115 and allowed 149. A 49ers offense that has scored at that pace, against a defense that has given up that much, is the case for the rising total. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate San Francisco at 9.8 and Washington at −9.1. I add 1.75 points of home field for San Francisco. That projects San Francisco by 20.6. The market has San Francisco at −7.5, so the gap is 13.1 points, clear of my 2.5-point cutoff. A 13.1-point edge for San Francisco.\n\nH2 - Next Man Up: Marcus Mariota is listed out, but he's the backup. Jayden Daniels practiced fully and starts. I found no point figure for anyone else, so nobody gets priced. No edge.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No edge.\n\nH4 - Follow The Money: San Francisco opened at −7.5 on Oct 13 and still sits at −7.5. The total went from 50.5 to 52. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. Edge: the Over on the total. No edge on the side.\n\nH5 - In The Trenches: Charles Omenihu and Nick Bosa are ruled out, and my season numbers still include them, so I don't grade this matchup. No edge.\n\n49ers 35, Commanders 16. 49ers cover the 7.5. Under 52.",
+    "story_text": "The Washington Commanders (1-3-1) visit the San Francisco 49ers (5-0) at Levi's Stadium in Santa Clara on Monday, Oct 19, kicking off at 8:15 PM ET on ESPN and ABC, and the side has not moved. San Francisco opened at −7.5 on Oct 13 at 10:59 UTC and is still −7.5 as of Oct 18 at 11:32 UTC. The number sits a half-point past 7, the second key number, so a 49ers win by exactly 7 lands on Washington's side.\n\nThe total has risen 1.5 points, from 50.5 (Oct 13, 05:04 UTC) to 52. No bets-versus-money split was published free.\n\nThe ratings show the widest gap of any game this week. Play-by-play efficiency has San Francisco at +9.8 and Washington at −9.1. With 1.75 points of home field, the projection is 49ers by 20.6, which is 13.1 points beyond the 7.5.\n\nThe quarterback news is not a factor. Marcus Mariota is listed out for Washington, but he is the backup; Jayden Daniels practiced fully and starts. No quarterback adjustment applies on either side.\n\nThe trench absences cut both ways. San Francisco is without defensive end Nick Bosa, and Washington is without defensive end Charles Omenihu; both are starters whose play is still inside their teams' season numbers. No point figure was found for either, or for the other absences: receiver Deebo Samuel Sr., safety Marques Sigle and linebacker Garret Wallow for San Francisco, and running back Jacory Croskey-Merritt and linebacker Javontae Jean-Baptiste for Washington. Receivers Mike Evans, Christian Kirk and Stefon Diggs are all questionable.\n\nSan Francisco, 3-0 at home, has scored 154 points and allowed 93 in five games. Washington, 0-2 on the road, has scored 115 and allowed 149. A 49ers offense that has scored at that pace, against a defense that has given up that much, is the case for the rising total. Here is how our five handicappers graded it.\n\nH1 - The Formula: I rate San Francisco at 9.8 and Washington at −9.1. I add 1.75 points of home field for San Francisco. That projects San Francisco by 20.6. The market has San Francisco at −7.5, so the gap is 13.1 points, clear of my 2.5-point cutoff. A 13.1-point gap: I like San Francisco on the side.\n\nH2 - Next Man Up: Marcus Mariota is listed out, but he's the backup. Jayden Daniels practiced fully and starts. I found no point figure for anyone else, so nobody gets priced. No strong lean.\n\nH3 - Letdown Watch: I checked the calendar for both teams: short week, long rest, long travel, back-to-back road trips. No spot meets my multi-year sample requirement. No strong lean.\n\nH4 - Follow The Money: San Francisco opened at −7.5 on Oct 13 and still sits at −7.5. The total went from 50.5 to 52. My cutoff is a 1-point move. The bets-versus-money split was not published free, so it is not included. I like the Over on the total. No strong lean on the side.\n\nH5 - In The Trenches: Charles Omenihu and Nick Bosa are ruled out, and my season numbers still include them, so I don't grade this matchup. No strong lean.\n\n49ers 35, Commanders 16. 49ers cover the 7.5. Under 52.",
     "fanatic_score_line": "Projected: San Francisco 49ers 35, Washington Commanders 16 (Total 51)"
    },
    "locked": false
