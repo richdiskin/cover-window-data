@@ -12,7 +12,7 @@
    "source": "main@80910ae:nfl/games.json; pending games from main@6961e0f"
   },
   "monday.json": {
-   "bytes": 115761,
+   "bytes": 115688,
    "source": "main@80910ae:nfl/monday.json"
   },
   "results.json": {
@@ -20,7 +20,7 @@
    "source": "ESPN scoreboard 20261015,20261018,20261019"
   },
   "standings.json": {
-   "bytes": 536,
+   "bytes": 266,
    "source": "main@6961e0f:nfl/standings.json"
   }
  },
