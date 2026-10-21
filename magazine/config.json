@@ -84,5 +84,14 @@
   ],
   "score_title": "How the predicted score is made",
   "score_text": "The predicted final score on every game is the even average of the five handicapper projections. Each handicapper produces its own whole-number score from the inputs it already uses. Those five scores are weighted equally. The home points are averaged and rounded to the nearest whole number; the away points are averaged and rounded the same way. The two rounded numbers are the official predicted score. The total is their sum. If a handicapper has no projection yet, it is left out and the rest are still weighted equally among themselves. The Cover Writer then reads the covering side and the over/under from this averaged score against the current line."
- }
+ },
+ "back_issue_extras": [
+  {
+   "league": "college",
+   "date": "2026-10-19",
+   "label": "Monday Morning Quarterback · College · Oct. 19, 2026",
+   "monday": "college/archive/2026-10-19_monday.json"
+  }
+ ],
+ "back_issue_extras_note": "Archived MMQB editions not listed in archive/index.json. Each path is relative to the feed root."
 }
