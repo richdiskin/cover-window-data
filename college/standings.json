@@ -1,12 +1,7 @@
 {
- "status": "published",
+ "status": "empty",
  "title": "Standings",
- "as_of_text": "Cover Writer ATS starts with the Oct. 24 slate.",
- "rows": [
-  {
-   "label": "2026 season",
-   "text": "Cover Writer ATS: no record yet"
-  }
- ],
- "empty_text": "Standings appear once picks are graded."
+ "as_of_text": "",
+ "rows": [],
+ "empty_text": "No standings are published."
 }
