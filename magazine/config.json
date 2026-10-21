@@ -1,0 +1,88 @@
+{
+ "schema": 1,
+ "updated_utc": "2026-10-21T02:55:00Z",
+ "title": "The Cover Window",
+ "site": "thecoverwindow.com",
+ "site_url": "https://thecoverwindow.com",
+ "shop": {
+  "label": "Cover Window Shop, coming soon",
+  "url": "https://thecoverwindow.com"
+ },
+ "sponsor_placeholder": {
+  "label": "Your brand here",
+  "text": "Sponsor The Cover Window",
+  "url": "https://www.thecoverwindow.com/contact-us"
+ },
+ "sponsors": [],
+ "sponsors_note": "Each sponsor: {slot: cover|break|footer, name, tagline, url, gambling: true|false}. An empty slot shows sponsor_placeholder. The Fanatic edition never shows a sponsor whose gambling is not false.",
+ "where_to_play": {
+  "title": "Where to play",
+  "notice": "21+ · Gambling problem? Call 1-800-GAMBLER",
+  "books": [
+   {
+    "name": "DraftKings Sportsbook",
+    "url": "https://sportsbook.draftkings.com/"
+   },
+   {
+    "name": "FanDuel Sportsbook",
+    "url": "https://sportsbook.fanduel.com/"
+   },
+   {
+    "name": "BetMGM",
+    "url": "https://sports.betmgm.com/"
+   },
+   {
+    "name": "Caesars Sportsbook",
+    "url": "https://www.caesars.com/sportsbook-and-casino"
+   },
+   {
+    "name": "Fanatics Sportsbook",
+    "url": "https://betfanatics.com/"
+   },
+   {
+    "name": "bet365",
+    "url": "https://www.bet365.com/"
+   },
+   {
+    "name": "theScore Bet",
+    "url": "https://www.thescore.bet/"
+   },
+   {
+    "name": "Hard Rock Bet",
+    "url": "https://www.hardrock.bet/"
+   },
+   {
+    "name": "BetRivers",
+    "url": "https://www.betrivers.com/"
+   }
+  ]
+ },
+ "handicappers_intro": {
+  "title": "The Handicappers",
+  "lead": "Five handicappers. One card each on every game. Here’s what each one is checking.",
+  "cards": [
+   {
+    "name": "The Formula",
+    "text": "I look at the two teams as complete units. I take the difference in their net ratings, add the home-field bump, and compare that projected margin to the line. If the gap is at least 2.5 points, I have a number. If the data isn’t there, I say so and move on. No stories, just the math."
+   },
+   {
+    "name": "Next Man Up",
+    "text": "I price the players who are out. A starting quarterback is 1.5 points. Everyone else has a value too. Once those drops are subtracted, I look at what’s left. If the remainder is still 1.5 points or more, the side is live. If the starter hasn’t even been named, I still price the expected backup and keep the game. The roster changes; the rule doesn’t."
+   },
+   {
+    "name": "Letdown Watch",
+    "text": "I only care about the schedule. I look for the spots that have shown up in 70 or more games across at least three seasons and eight teams. If the game fits one of those spots, I note it. If it doesn’t, I stay quiet. No opinions about effort or motivation—just the pattern the numbers have already shown."
+   },
+   {
+    "name": "Follow The Money",
+    "text": "I watch the line after the prior weekend’s games are finished. A move of a point or more gets my attention. A bets-versus-money split of 15 points or more from one source at one time does too. If neither happens, or the percentages aren’t published, I have nothing. I don’t guess where the money is; I only report what is already on the board."
+   },
+   {
+    "name": "In The Trenches",
+    "text": "I stay on the ground. I measure the yards-per-carry gap and the sack-rate gap. Half a yard per carry or a 5-point difference in sack rate is enough. Anything smaller is noise. I don’t care who the quarterback is or what the line has done. If the trenches don’t show a clear gap, I pass."
+   }
+  ],
+  "score_title": "How the predicted score is made",
+  "score_text": "The predicted final score on every game is the even average of the five handicapper projections. Each handicapper produces its own whole-number score from the inputs it already uses. Those five scores are weighted equally. The home points are averaged and rounded to the nearest whole number; the away points are averaged and rounded the same way. The two rounded numbers are the official predicted score. The total is their sum. If a handicapper has no projection yet, it is left out and the rest are still weighted equally among themselves. The Cover Writer then reads the covering side and the over/under from this averaged score against the current line."
+ }
+}

@@ -1,0 +1,257 @@
+{
+ "schema": 1,
+ "updated_utc": "2026-10-21T02:55:00Z",
+ "note": "Official team stores only, plain links. nfl is keyed by the full team name in nfl/games.json (away.team / home.team); college by the team id in games.json team_ids. A team with no entry shows no gear link.",
+ "nfl": {
+  "Arizona Cardinals": {
+   "label": "Official Arizona Cardinals store",
+   "url": "https://shop.azcardinals.com/"
+  },
+  "Atlanta Falcons": {
+   "label": "Official Atlanta Falcons store",
+   "url": "https://shop.atlantafalcons.com/"
+  },
+  "Baltimore Ravens": {
+   "label": "Official Baltimore Ravens store",
+   "url": "https://shop.baltimoreravens.com/"
+  },
+  "Buffalo Bills": {
+   "label": "Official Buffalo Bills store",
+   "url": "https://shop.buffalobills.com/"
+  },
+  "Carolina Panthers": {
+   "label": "Official Carolina Panthers store",
+   "url": "https://shop.panthers.com/"
+  },
+  "Chicago Bears": {
+   "label": "Official Chicago Bears store",
+   "url": "https://store.chicagobears.com/"
+  },
+  "Cincinnati Bengals": {
+   "label": "Official Cincinnati Bengals store",
+   "url": "https://shop.bengals.com/"
+  },
+  "Cleveland Browns": {
+   "label": "Official Cleveland Browns store",
+   "url": "https://shop.clevelandbrowns.com/"
+  },
+  "Dallas Cowboys": {
+   "label": "Official Dallas Cowboys store",
+   "url": "https://shop.dallascowboys.com/"
+  },
+  "Denver Broncos": {
+   "label": "Official Denver Broncos store",
+   "url": "https://shop.denverbroncos.com/"
+  },
+  "Detroit Lions": {
+   "label": "Official Detroit Lions store",
+   "url": "https://shop.detroitlions.com/"
+  },
+  "Green Bay Packers": {
+   "label": "Official Green Bay Packers store",
+   "url": "https://www.packersproshop.com/"
+  },
+  "Houston Texans": {
+   "label": "Official Houston Texans store",
+   "url": "https://shop.houstontexans.com/"
+  },
+  "Indianapolis Colts": {
+   "label": "Official Indianapolis Colts store",
+   "url": "https://shop.colts.com/"
+  },
+  "Jacksonville Jaguars": {
+   "label": "Official Jacksonville Jaguars store",
+   "url": "https://shop.jaguars.com/"
+  },
+  "Kansas City Chiefs": {
+   "label": "Official Kansas City Chiefs store",
+   "url": "https://shop.chiefs.com/"
+  },
+  "Las Vegas Raiders": {
+   "label": "Official Las Vegas Raiders store",
+   "url": "https://raiderimage.com/"
+  },
+  "Los Angeles Chargers": {
+   "label": "Official Los Angeles Chargers store",
+   "url": "https://shop.chargers.com/"
+  },
+  "Los Angeles Rams": {
+   "label": "Official Los Angeles Rams store",
+   "url": "https://www.ramsfanshop.com/"
+  },
+  "Miami Dolphins": {
+   "label": "Official Miami Dolphins store",
+   "url": "https://shop.miamidolphins.com/"
+  },
+  "Minnesota Vikings": {
+   "label": "Official Minnesota Vikings store",
+   "url": "https://shop.vikings.com/"
+  },
+  "New England Patriots": {
+   "label": "Official New England Patriots store",
+   "url": "https://proshop.patriots.com/"
+  },
+  "New Orleans Saints": {
+   "label": "Official New Orleans Saints store",
+   "url": "https://shop.neworleanssaints.com/"
+  },
+  "New York Giants": {
+   "label": "Official New York Giants store",
+   "url": "https://shop.giants.com/"
+  },
+  "New York Jets": {
+   "label": "Official New York Jets store",
+   "url": "https://www.jetsshop.com/"
+  },
+  "Philadelphia Eagles": {
+   "label": "Official Philadelphia Eagles store",
+   "url": "https://store.philadelphiaeagles.com/"
+  },
+  "Pittsburgh Steelers": {
+   "label": "Official Pittsburgh Steelers store",
+   "url": "https://shop.steelers.com/"
+  },
+  "San Francisco 49ers": {
+   "label": "Official San Francisco 49ers store",
+   "url": "https://www.shop49ers.com/"
+  },
+  "Seattle Seahawks": {
+   "label": "Official Seattle Seahawks store",
+   "url": "https://proshop.seahawks.com/"
+  },
+  "Tampa Bay Buccaneers": {
+   "label": "Official Tampa Bay Buccaneers store",
+   "url": "https://shop.buccaneers.com/"
+  },
+  "Tennessee Titans": {
+   "label": "Official Tennessee Titans store",
+   "url": "https://shop.tennesseetitans.com/"
+  },
+  "Washington Commanders": {
+   "label": "Official Washington Commanders store",
+   "url": "https://store.commanders.com/"
+  }
+ },
+ "college": {
+  "auburn": {
+   "label": "Official Auburn store",
+   "url": "https://shop.auburntigers.com/"
+  },
+  "ball-state": {
+   "label": "Official Ball State store",
+   "url": "https://shop.ballstatesports.com/"
+  },
+  "byu": {
+   "label": "Official BYU store",
+   "url": "https://www.byustore.com/"
+  },
+  "central-michigan": {
+   "label": "Official Central Michigan store",
+   "url": "https://www.cmubookstore.com/"
+  },
+  "cincinnati": {
+   "label": "Official Cincinnati store",
+   "url": "https://shop.gobearcats.com/"
+  },
+  "colorado-state": {
+   "label": "Official Colorado State store",
+   "url": "https://shop.csurams.com/"
+  },
+  "georgia-state": {
+   "label": "Official Georgia State store",
+   "url": "https://shopgsupanthers.com/"
+  },
+  "illinois": {
+   "label": "Official Illinois store",
+   "url": "https://store.fightingillini.com/"
+  },
+  "indiana": {
+   "label": "Official Indiana store",
+   "url": "https://shop.iuhoosiers.com/"
+  },
+  "iowa": {
+   "label": "Official Iowa store",
+   "url": "https://hawkeyefanshop.com/"
+  },
+  "iowa-state": {
+   "label": "Official Iowa State store",
+   "url": "https://www.cyslockerroom.com/"
+  },
+  "kansas-state": {
+   "label": "Official Kansas State store",
+   "url": "https://shop.kstatesports.com/"
+  },
+  "kent-state": {
+   "label": "Official Kent State store",
+   "url": "https://kentsportswear.com/"
+  },
+  "massachusetts": {
+   "label": "Official Massachusetts store",
+   "url": "https://www.umassstore.com/"
+  },
+  "miami-oh": {
+   "label": "Official Miami (OH) store",
+   "url": "https://shop.miamiredhawks.com/"
+  },
+  "michigan": {
+   "label": "Official Michigan store",
+   "url": "https://mdenshop.com/"
+  },
+  "nc-state": {
+   "label": "Official NC State store",
+   "url": "https://shop.ncsu.edu/"
+  },
+  "nevada": {
+   "label": "Official Nevada store",
+   "url": "https://nevadawolfpackshop.com/"
+  },
+  "north-dakota-state": {
+   "label": "Official North Dakota State store",
+   "url": "https://www.ndsubookstore.com/"
+  },
+  "northern-illinois": {
+   "label": "Official Northern Illinois store",
+   "url": "https://niufanshop.merchorders.com/"
+  },
+  "northwestern": {
+   "label": "Official Northwestern store",
+   "url": "https://shop.nusports.com/"
+  },
+  "ohio": {
+   "label": "Official Ohio store",
+   "url": "https://shop.ohiobobcats.com/"
+  },
+  "old-dominion": {
+   "label": "Official Old Dominion store",
+   "url": "https://shopodusports.merchorders.com/"
+  },
+  "rutgers": {
+   "label": "Official Rutgers store",
+   "url": "https://shop.scarletknights.com/"
+  },
+  "san-diego-state": {
+   "label": "Official San Diego State store",
+   "url": "https://www.shopaztecs.com/"
+  },
+  "tulsa": {
+   "label": "Official Tulsa store",
+   "url": "https://shopgoldenhurricane.com/"
+  },
+  "uconn": {
+   "label": "Official UConn store",
+   "url": "https://shop.uconnhuskies.com/"
+  },
+  "utah": {
+   "label": "Official Utah store",
+   "url": "https://www.uredzone.com/"
+  },
+  "utah-state": {
+   "label": "Official Utah State store",
+   "url": "https://shop.utahstateaggies.com/"
+  },
+  "utsa": {
+   "label": "Official UTSA store",
+   "url": "https://utsagear.merchorders.com/"
+  }
+ }
+}
