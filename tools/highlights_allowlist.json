@@ -1,0 +1,4057 @@
+{
+ "schema": 1,
+ "updated": "2026-10-21T16:13:46-04:00",
+ "about": "Official YouTube channels The Cover Window may embed. A channel is listed only with evidence: (A) linked from the team's or organization's official website (official site taken from Wikidata P856), (A2/A3) the official site links or embeds content owned by the channel, or (B) verified badge plus the channel's own About links to the official domain. Every team channel must also name-match the team (ESPN names) and have at least 1,000 subscribers. Look-alikes found along the way are recorded under rejected_lookalikes_and_others. Teams with no evidenced channel are left out (left_out) and are covered only by league, network and conference channels.",
+ "networks": [
+  {
+   "kind": "league",
+   "leagues": [
+    "nfl"
+   ],
+   "player_search": true,
+   "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+   "channel": "NFL",
+   "handle": "@NFL",
+   "subscribers": null,
+   "verified": true,
+   "evidence": {
+    "method": "A: linked from official site",
+    "source": "https://www.nfl.com/",
+    "link": "https://www.youtube.com/NFL"
+   }
+  },
+  {
+   "kind": "network",
+   "leagues": [
+    "nfl",
+    "college"
+   ],
+   "player_search": false,
+   "channel_id": "UCiWLfSweyRNmLpgEHekhoAg",
+   "channel": "ESPN",
+   "handle": "@espn",
+   "subscribers": 14600000,
+   "verified": true,
+   "evidence": {
+    "method": "B: verified + channel About links to official domain",
+    "about_links_to": [
+     "espn.com",
+     "plus.espn.com"
+    ]
+   }
+  },
+  {
+   "kind": "network",
+   "leagues": [
+    "college"
+   ],
+   "player_search": true,
+   "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+   "channel": "ESPN College Football",
+   "handle": "@espncfb",
+   "subscribers": 1420000,
+   "verified": true,
+   "evidence": {
+    "method": "B: verified + channel About links to official domain",
+    "about_links_to": [
+     "espn.com",
+     "plus.espn.com"
+    ]
+   }
+  },
+  {
+   "kind": "network",
+   "leagues": [
+    "nfl",
+    "college"
+   ],
+   "player_search": false,
+   "channel_id": "UCwNqHDsnBCKT-olwJwIFyfg",
+   "channel": "FOX Sports",
+   "handle": "@foxsports",
+   "subscribers": 2360000,
+   "verified": true,
+   "evidence": {
+    "method": "A: linked from official site",
+    "source": "https://www.foxsports.com/",
+    "link": "https://www.youtube.com/foxsports"
+   }
+  },
+  {
+   "kind": "network",
+   "leagues": [
+    "college"
+   ],
+   "player_search": false,
+   "channel_id": "UCpwix-O6ceqMgdxhqIynzFA",
+   "channel": "CFB ON FOX",
+   "handle": "@CFBonFOX",
+   "subscribers": 385000,
+   "verified": true,
+   "evidence": {
+    "method": "B: verified + channel About links to official domain",
+    "about_links_to": [
+     "fox.com",
+     "foxsports.com"
+    ]
+   }
+  },
+  {
+   "kind": "network",
+   "leagues": [
+    "nfl",
+    "college"
+   ],
+   "player_search": false,
+   "channel_id": "UCja8sZ2T4ylIqjggA1Zuukg",
+   "channel": "CBS Sports",
+   "handle": "@CBSSports",
+   "subscribers": 1250000,
+   "verified": true,
+   "evidence": {
+    "method": "A: linked from official site",
+    "source": "https://www.cbssports.com/",
+    "link": "https://www.youtube.com/CBSSports"
+   }
+  },
+  {
+   "kind": "network",
+   "leagues": [
+    "college"
+   ],
+   "player_search": false,
+   "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+   "channel": "CBS Sports College Football",
+   "handle": "@CBSSportsCFB",
+   "subscribers": 563000,
+   "verified": true,
+   "evidence": {
+    "method": "B: verified + channel About links to official domain",
+    "about_links_to": [
+     "cbssports.com",
+     "paramountplus.com"
+    ]
+   }
+  },
+  {
+   "kind": "network",
+   "leagues": [
+    "nfl",
+    "college"
+   ],
+   "player_search": false,
+   "channel_id": "UCqZQlzSHbVJrwrn5XvzrzcA",
+   "channel": "NBC Sports",
+   "handle": "@NBCSports",
+   "subscribers": 5420000,
+   "verified": true,
+   "evidence": {
+    "method": "A: linked from official site",
+    "source": "https://www.nbcsports.com/",
+    "link": "https://www.youtube.com/nbcsports"
+   }
+  },
+  {
+   "kind": "network",
+   "leagues": [
+    "college"
+   ],
+   "player_search": false,
+   "channel_id": "UC4LeRw7pIZ_kseS4Krn_DQA",
+   "channel": "Big Ten Network",
+   "handle": "@BTN",
+   "subscribers": 444000,
+   "verified": true,
+   "evidence": {
+    "method": "B: verified + channel About links to official domain",
+    "about_links_to": [
+     "btn.com"
+    ]
+   }
+  }
+ ],
+ "conferences": [
+  {
+   "conference": "SEC",
+   "channel_id": "UC60q_WUDde_NK-ze3frvtiA",
+   "channel": "SEC",
+   "handle": "@SEC",
+   "subscribers": 66300,
+   "verified": false,
+   "evidence": {
+    "method": "A: linked from official site",
+    "source": "https://www.secsports.com/",
+    "link": "https://www.youtube.com/@sec"
+   }
+  },
+  {
+   "conference": "ACC",
+   "channel_id": "UC0hy7TcR1gGD8nQBqrF2FaA",
+   "channel": "ACC Digital Network",
+   "handle": "@ACCDigitalNetwork",
+   "subscribers": 448000,
+   "verified": true,
+   "evidence": {
+    "method": "A: linked from official site",
+    "source": "https://theacc.com/",
+    "link": "https://www.youtube.com/user/ACCDigitalNetwork"
+   }
+  },
+  {
+   "conference": "Big 12",
+   "channel_id": "UCLnfOCTbfqMy_3ah8OmTHEQ",
+   "channel": "Big 12 Conference",
+   "handle": "@Big12Conference",
+   "subscribers": 116000,
+   "verified": true,
+   "evidence": {
+    "method": "B: verified + channel About links to official domain",
+    "about_links_to": [
+     "big12sports.com"
+    ]
+   }
+  },
+  {
+   "conference": "Mountain West",
+   "channel_id": "UC-En6dgdJQw9sQxOtuRstJQ",
+   "channel": "MountainWestConf",
+   "handle": "@mountainwest",
+   "subscribers": 19300,
+   "verified": false,
+   "evidence": {
+    "method": "A: linked from official site",
+    "source": "https://themw.com/",
+    "link": "https://www.youtube.com/mountainwestconf"
+   }
+  },
+  {
+   "conference": "Sun Belt",
+   "channel_id": "UCwRkms-Zb61HtMDIjmKofmw",
+   "channel": "Sun Belt Conference",
+   "handle": "@SunBeltSports",
+   "subscribers": 4990,
+   "verified": false,
+   "evidence": {
+    "method": "A: linked from official site",
+    "source": "https://sunbeltsports.org/",
+    "link": "https://www.youtube.com/user/SunBeltSports"
+   }
+  },
+  {
+   "conference": "Conference USA",
+   "channel_id": "UC0sLKQlVhFkLxCox3kR3m2w",
+   "channel": "Conference USA",
+   "handle": "@ConferenceUSA",
+   "subscribers": 8230,
+   "verified": false,
+   "evidence": {
+    "method": "A: linked from official site",
+    "source": "https://conferenceusa.com/",
+    "link": "https://www.youtube.com/conferenceusa"
+   }
+  },
+  {
+   "conference": "Pac-12",
+   "channel_id": "UCtxdtF8iCxZw593FSUIPrxg",
+   "channel": "Pac-12",
+   "handle": "@pac12",
+   "subscribers": 148000,
+   "verified": true,
+   "evidence": {
+    "method": "A: linked from official site",
+    "source": "https://pac-12.com/",
+    "link": "https://youtube.com/pac12"
+   }
+  },
+  {
+   "conference": "Big Ten",
+   "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+   "channel": "Big Ten Football",
+   "handle": "@B1GFootball",
+   "subscribers": 68000,
+   "verified": true,
+   "evidence": {
+    "method": "B2: verified badge + channel description identifies it as Big Ten Network (joint venture of the Big Ten Conference and Fox); bigten.org links the Big Ten Network channel",
+    "source": "https://bigten.org/ (rendered)"
+   }
+  },
+  {
+   "conference": "MAC",
+   "channel_id": "UCpiOTTxIB7VvB4N4LIYMhVw",
+   "channel": "Get Some MACtion",
+   "handle": "@GetSomeMACtion",
+   "subscribers": 2720,
+   "verified": false,
+   "evidence": {
+    "method": "A: linked from official site (rendered getsomemaction.com, headless Chrome)",
+    "source": "https://getsomemaction.com/",
+    "link": "https://www.youtube.com/@GetSomeMACtion"
+   }
+  },
+  {
+   "conference": "Big Ten",
+   "channel_id": "UC4LeRw7pIZ_kseS4Krn_DQA",
+   "channel": "Big Ten Network",
+   "handle": "@BTN",
+   "subscribers": 444000,
+   "verified": true,
+   "evidence": {
+    "method": "B: verified + channel About links to official domain",
+    "about_links_to": [
+     "btn.com"
+    ]
+   }
+  }
+ ],
+ "teams": [
+  {
+   "league": "nfl",
+   "team": "San Francisco 49ers",
+   "official_site": "http://www.49ers.com",
+   "channels": [
+    {
+     "channel_id": "UCeIOarQkwmGhimim9cDUTng",
+     "channel": "San Francisco 49ers",
+     "handle": "@49ers",
+     "subscribers": 476000,
+     "verified": true,
+     "evidence": {
+      "method": "A: wikidata_P2397",
+      "source": "Q337758",
+      "link": "https://www.youtube.com/channel/UCeIOarQkwmGhimim9cDUTng",
+      "name_match": [
+       "san francisco",
+       "san francisco 49ers",
+       "49ers"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Washington Commanders",
+   "official_site": "https://www.commanders.com/",
+   "channels": [
+    {
+     "channel_id": "UC2a0ENbCZqIO5C1fWXGXZXA",
+     "channel": "Washington Commanders",
+     "handle": "@commanders",
+     "subscribers": 330000,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.commanders.com/",
+      "link": "https://www.youtube.com/c/commandersnfl",
+      "name_match": [
+       "commanders",
+       "washington commanders",
+       "washington"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Chicago Bears",
+   "official_site": "https://www.chicagobears.com",
+   "channels": [
+    {
+     "channel_id": "UCP0Cdc6moLMyDJiO0s-yhbQ",
+     "channel": "Chicago Bears",
+     "handle": "@ChicagoBears",
+     "subscribers": 333000,
+     "verified": true,
+     "evidence": {
+      "method": "A: wikidata_P2397",
+      "source": "Q205033",
+      "link": "https://www.youtube.com/channel/UCP0Cdc6moLMyDJiO0s-yhbQ",
+      "name_match": [
+       "chicago bears",
+       "chicagobears",
+       "bears",
+       "chi",
+       "chicago"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "New England Patriots",
+   "official_site": "http://www.patriots.com",
+   "channels": [
+    {
+     "channel_id": "UCMm_V8YjmnZRhToXIqDYDuw",
+     "channel": "New England Patriots",
+     "handle": "@patriots",
+     "subscribers": 422000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.patriots.com",
+      "link": "https://www.youtube.com/patriots",
+      "name_match": [
+       "new england",
+       "patriots",
+       "new england patriots"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "New Orleans Saints",
+   "official_site": "http://www.neworleanssaints.com",
+   "channels": [
+    {
+     "channel_id": "UCwuddf1JrodMlc5fYpVlrQA",
+     "channel": "New Orleans Saints",
+     "handle": "@NewOrleansSaints",
+     "subscribers": 173000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.neworleanssaints.com",
+      "link": "https://www.youtube.com/neworleanssaints",
+      "name_match": [
+       "new orleans saints",
+       "new orleans",
+       "saints",
+       "neworleanssaints"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Pittsburgh Steelers",
+   "official_site": "http://www.steelers.com",
+   "channels": [
+    {
+     "channel_id": "UChaRXjMDs4ppKfnTPE6Z89w",
+     "channel": "Pittsburgh Steelers",
+     "handle": "@steelers",
+     "subscribers": 385000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.steelers.com",
+      "link": "https://www.youtube.com/steelers",
+      "name_match": [
+       "pittsburgh",
+       "pittsburgh steelers",
+       "steelers",
+       "pit"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Atlanta Falcons",
+   "official_site": "http://www.atlantafalcons.com",
+   "channels": [],
+   "rejected_lookalikes_and_others": [
+    {
+     "channel": "Atlanta Falcons",
+     "channel_id": "UCzjCfV3LHyarKbdb-2ScGZg",
+     "subscribers": 246000,
+     "verified": true,
+     "why": "verified and name matches but no link to the official site found (about links: ['facebook.com', 'instagram.com', 'open.spotify.com', 'podcasts.apple.com']; description says official: True)"
+    }
+   ],
+   "left_out": "no YouTube channel could be tied to the official site (site link, site-embedded content, Wikidata P2397, or verified channel whose About links to the site); league/network/conference channels still cover this team"
+  },
+  {
+   "league": "nfl",
+   "team": "Tennessee Titans",
+   "official_site": "http://www.tennesseetitans.com/",
+   "channels": [
+    {
+     "channel_id": "UCHBsqVkFraWvtNd1w0Qx4_g",
+     "channel": "Tennessee Titans",
+     "handle": "@Titans",
+     "subscribers": 95500,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.tennesseetitans.com/",
+      "link": "https://www.youtube.com/titans",
+      "name_match": [
+       "tennesseetitans",
+       "tennessee",
+       "ten",
+       "titans",
+       "tennessee titans"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Cleveland Browns",
+   "official_site": "http://www.clevelandbrowns.com",
+   "channels": [
+    {
+     "channel_id": "UCQQQO7Kdo0cu9iEb19qOoYA",
+     "channel": "Cleveland Browns",
+     "handle": "@browns",
+     "subscribers": 369000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.clevelandbrowns.com",
+      "link": "https://www.youtube.com/Browns",
+      "name_match": [
+       "cle",
+       "browns",
+       "cleveland",
+       "clevelandbrowns",
+       "cleveland browns"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Minnesota Vikings",
+   "official_site": "http://www.vikings.com",
+   "channels": [
+    {
+     "channel_id": "UCcsw_KrB_wg5lQ5nXWR_LFA",
+     "channel": "Minnesota Vikings",
+     "handle": "@vikings",
+     "subscribers": 433000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.vikings.com",
+      "link": "https://www.youtube.com/channel/UCcsw_KrB_wg5lQ5nXWR_LFA",
+      "name_match": [
+       "vikings",
+       "minnesota",
+       "minnesota vikings",
+       "min"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Indianapolis Colts",
+   "official_site": "http://www.colts.com/",
+   "channels": [
+    {
+     "channel_id": "UCyYn26HPC4HIedifGnNbjBw",
+     "channel": "Indianapolis Colts",
+     "handle": "@colts",
+     "subscribers": 108000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.colts.com/",
+      "link": "https://www.youtube.com/channel/UCyYn26HPC4HIedifGnNbjBw",
+      "name_match": [
+       "indianapolis",
+       "indianapolis colts",
+       "ind",
+       "colts"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "New York Jets",
+   "official_site": "http://www.newyorkjets.com",
+   "channels": [
+    {
+     "channel_id": "UCROj9vBjc4ZW3AL4cd_BjHg",
+     "channel": "New York Jets",
+     "handle": "@nyjets",
+     "subscribers": 183000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.newyorkjets.com",
+      "link": "https://www.youtube.com/channel/UCROj9vBjc4ZW3AL4cd_BjHg",
+      "name_match": [
+       "new york jets",
+       "nyj",
+       "new york",
+       "jets",
+       "newyorkjets"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Miami Dolphins",
+   "official_site": "http://www.miamidolphins.com",
+   "channels": [
+    {
+     "channel_id": "UCHUSfEzpSRkUUsRkk_aJwDw",
+     "channel": "Miami Dolphins",
+     "handle": "@MiamiDolphins",
+     "subscribers": 190000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.miamidolphins.com",
+      "link": "https://www.youtube.com/miamidolphins",
+      "name_match": [
+       "mia",
+       "miami",
+       "dolphins",
+       "miami dolphins",
+       "miamidolphins"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Carolina Panthers",
+   "official_site": "http://www.panthers.com",
+   "channels": [
+    {
+     "channel_id": "UC6vl4XAyO5mZLczhFC8MgpA",
+     "channel": "Carolina Panthers",
+     "handle": "@CarolinaPanthers",
+     "subscribers": 186000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.panthers.com",
+      "link": "https://www.youtube.com/carolinapanthers",
+      "name_match": [
+       "panthers",
+       "carolina panthers",
+       "car",
+       "carolina"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Tampa Bay Buccaneers",
+   "official_site": "http://www.buccaneers.com",
+   "channels": [
+    {
+     "channel_id": "UC0Wwu7r1ybaaR09ANhudTzA",
+     "channel": "Tampa Bay Buccaneers",
+     "handle": "@buccaneers",
+     "subscribers": 285000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.buccaneers.com",
+      "link": "https://www.youtube.com/c/tbbuccaneers",
+      "name_match": [
+       "tampa bay",
+       "buccaneers",
+       "tampa bay buccaneers"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Baltimore Ravens",
+   "official_site": "http://www.baltimoreravens.com",
+   "channels": [
+    {
+     "channel_id": "UCbpj2JAUMb8G_oQQFPeGrhg",
+     "channel": "Baltimore Ravens",
+     "handle": "@BaltimoreRavens",
+     "subscribers": 378000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.baltimoreravens.com/",
+      "link": "https://www.youtube.com/user/baltimoreravens",
+      "name_match": [
+       "baltimore ravens",
+       "bal",
+       "baltimore",
+       "ravens",
+       "baltimoreravens"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Cincinnati Bengals",
+   "official_site": "http://www.bengals.com",
+   "channels": [
+    {
+     "channel_id": "UCnQUpSnJ39KsjZKbT0CprHQ",
+     "channel": "Cincinnati Bengals",
+     "handle": "@Bengals",
+     "subscribers": 181000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.bengals.com/",
+      "link": "https://www.youtube.com/bengals",
+      "name_match": [
+       "cin",
+       "cincinnati bengals",
+       "cincinnati",
+       "bengals"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Houston Texans",
+   "official_site": "http://www.houstontexans.com/",
+   "channels": [
+    {
+     "channel_id": "UCa_FcpOBe8G6VAR18RYS-aA",
+     "channel": "Houston Texans",
+     "handle": "@HoustonTexans",
+     "subscribers": 179000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.houstontexans.com/",
+      "link": "https://www.youtube.com/@houstontexans",
+      "name_match": [
+       "houston",
+       "texans",
+       "houstontexans",
+       "houston texans",
+       "hou"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "New York Giants",
+   "official_site": "http://www.giants.com",
+   "channels": [
+    {
+     "channel_id": "UCk2FqoG8dN5EAz5WU3A0D7A",
+     "channel": "New York Giants",
+     "handle": "@nygiants",
+     "subscribers": 336000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.giants.com",
+      "link": "https://youtube.com/newyorkgiants",
+      "name_match": [
+       "new york",
+       "new york giants",
+       "nyg",
+       "giants"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Arizona Cardinals",
+   "official_site": "http://www.azcardinals.com",
+   "channels": [
+    {
+     "channel_id": "UCzNfiKcvNjLHljohEkO83Rg",
+     "channel": "Arizona Cardinals",
+     "handle": "@azcardinals",
+     "subscribers": 125000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.azcardinals.com",
+      "link": "https://www.youtube.com/@azcardinals",
+      "name_match": [
+       "cardinals",
+       "arizona",
+       "arizona cardinals",
+       "azcardinals",
+       "ari"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Denver Broncos",
+   "official_site": "http://www.denverbroncos.com",
+   "channels": [
+    {
+     "channel_id": "UCDGdBexlDZA8T7hnweWWyow",
+     "channel": "Denver Broncos",
+     "handle": "@broncos",
+     "subscribers": 267000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.denverbroncos.com",
+      "link": "https://www.youtube.com/broncos",
+      "name_match": [
+       "denverbroncos",
+       "denver broncos",
+       "den",
+       "broncos",
+       "denver"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Detroit Lions",
+   "official_site": "http://www.detroitlions.com",
+   "channels": [
+    {
+     "channel_id": "UCv5J06V-ESk5_1uriG65f3w",
+     "channel": "Detroit Lions",
+     "handle": "@detroitlionsnfl",
+     "subscribers": 359000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.detroitlions.com",
+      "link": "https://www.youtube.com/user/detroitlionsnfl",
+      "name_match": [
+       "detroit lions",
+       "det",
+       "detroitlions",
+       "lions",
+       "detroit"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Green Bay Packers",
+   "official_site": "https://www.packers.com/",
+   "channels": [
+    {
+     "channel_id": "UCJtI-l6La0zniodFtSHYrBg",
+     "channel": "Green Bay Packers",
+     "handle": "@packers",
+     "subscribers": 254000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.packers.com/",
+      "link": "https://www.youtube.com/c/packers",
+      "name_match": [
+       "green bay",
+       "green bay packers",
+       "packers"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Las Vegas Raiders",
+   "official_site": "https://www.raiders.com",
+   "channels": [
+    {
+     "channel_id": "UC1es5fp8FEK1L0EgHjCvmtQ",
+     "channel": "Raiders",
+     "handle": "@raiders",
+     "subscribers": 387000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.raiders.com",
+      "link": "https://www.youtube.com/raiders",
+      "name_match": [
+       "raiders"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Los Angeles Rams",
+   "official_site": "http://www.therams.com/",
+   "channels": [
+    {
+     "channel_id": "UCyJ6yZdVUkBvt2vl4R03jcA",
+     "channel": "Los Angeles Rams",
+     "handle": "@LARams",
+     "subscribers": 474000,
+     "verified": true,
+     "evidence": {
+      "method": "A: wikidata_P2397",
+      "source": "Q337377",
+      "link": "https://www.youtube.com/channel/UCyJ6yZdVUkBvt2vl4R03jcA",
+      "name_match": [
+       "los angeles rams",
+       "rams",
+       "los angeles",
+       "lar"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Seattle Seahawks",
+   "official_site": "http://www.seahawks.com",
+   "channels": [
+    {
+     "channel_id": "UCzkFCRiMcOBeef8xcaqipmw",
+     "channel": "Seattle Seahawks",
+     "handle": "@Seahawks",
+     "subscribers": 355000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.seahawks.com",
+      "link": "https://www.youtube.com/seahawks",
+      "name_match": [
+       "seattle seahawks",
+       "seahawks",
+       "seattle",
+       "sea"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Kansas City Chiefs",
+   "official_site": "https://www.chiefs.com/",
+   "channels": [
+    {
+     "channel_id": "UC-hXefb6XBFSubWz6Ezf_lA",
+     "channel": "Kansas City Chiefs",
+     "handle": "@KansasCityChiefs",
+     "subscribers": 1550000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.chiefs.com/",
+      "link": "https://www.youtube.com/@KansasCityChiefs",
+      "name_match": [
+       "chiefs",
+       "kansas city",
+       "kansas city chiefs"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Philadelphia Eagles",
+   "official_site": "http://www.philadelphiaeagles.com",
+   "channels": [
+    {
+     "channel_id": "UCaogx6OHpsGg0zuGRKsjbtQ",
+     "channel": "Philadelphia Eagles",
+     "handle": "@eagles",
+     "subscribers": 956000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.philadelphiaeagles.com",
+      "link": "https://www.youtube.com/channel/UCaogx6OHpsGg0zuGRKsjbtQ",
+      "name_match": [
+       "philadelphiaeagles",
+       "phi",
+       "eagles",
+       "philadelphia eagles",
+       "philadelphia"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "nfl",
+   "team": "Dallas Cowboys",
+   "official_site": "https://www.dallascowboys.com/",
+   "channels": [
+    {
+     "channel_id": "UCC0BPKJxAyxjQoRTYbpW0FQ",
+     "channel": "Dallas Cowboys",
+     "handle": "@DallasCowboys",
+     "subscribers": 547000,
+     "verified": true,
+     "evidence": {
+      "method": "A: wikidata_P2397",
+      "source": "Q204862",
+      "link": "https://www.youtube.com/channel/UCC0BPKJxAyxjQoRTYbpW0FQ",
+      "name_match": [
+       "cowboys",
+       "dallascowboys",
+       "dallas cowboys",
+       "dal",
+       "dallas"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Florida International Panthers",
+   "official_site": "https://fiusports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UChMJ4FwFGluPCiF4QwZmp1Q",
+     "channel": "FIU Panthers",
+     "handle": "@fiuathletics",
+     "subscribers": 3660,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://fiusports.com/sports/football",
+      "link": "https://www.youtube.com/user/FIUPanthers",
+      "name_match": [
+       "fiu"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Middle Tennessee Blue Raiders",
+   "official_site": "https://goblueraiders.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCtaeJ9tKUwsho9Ev6S3voMw",
+     "channel": "Middle Tennessee Athletics",
+     "handle": "@GoBlueRaidersTV",
+     "subscribers": 2880,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://goblueraiders.com/",
+      "link": "https://www.youtube.com/goblueraiderstv",
+      "name_match": [
+       "middle tennessee",
+       "blue raiders",
+       "goblueraiders"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Delaware Blue Hens",
+   "official_site": "https://bluehens.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCyYOf5pwbgwt0JIrgeBtYAQ",
+     "channel": "Delaware Blue Hens",
+     "handle": "@UDBlueHens",
+     "subscribers": 7130,
+     "verified": false,
+     "evidence": {
+      "method": "A2: official site links/embeds this channel's content",
+      "items": [
+       {
+        "how": "site links/embeds video",
+        "ref": "gAFsQ5IGlEk"
+       },
+       {
+        "how": "site links/embeds video",
+        "ref": "mAur7I13WCM"
+       },
+       {
+        "how": "site links/embeds video",
+        "ref": "q8FR1DmNU8s"
+       },
+       {
+        "how": "site links playlist",
+        "ref": "PLFOrQr21k2Lo"
+       }
+      ],
+      "source": "https://bluehens.com/sports/football",
+      "name_match": [
+       "delaware blue hens",
+       "bluehens",
+       "blue hens",
+       "delaware",
+       "del"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Missouri State Bears",
+   "official_site": "https://missouristatebears.com/sports/football/",
+   "channels": [
+    {
+     "channel_id": "UCrUTrotMy5dPrBnMfYRxdFQ",
+     "channel": "Missouri State Bears",
+     "handle": "@missouristatebears4138",
+     "subscribers": 1980,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://missouristatebears.com/sports/football/",
+      "link": "https://www.youtube.com/channel/UCrUTrotMy5dPrBnMfYRxdFQ",
+      "name_match": [
+       "missouri state bears",
+       "missouristatebears",
+       "missouri st",
+       "missouri state"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Marshall Thundering Herd",
+   "official_site": "https://herdzone.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCwnEdAc9dbqApW8BDnUhUAg",
+     "channel": "Marshall Thundering Herd",
+     "handle": "@MUHerdzone",
+     "subscribers": 4590,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://herdzone.com/sports/football",
+      "link": "https://www.youtube.com/@MUHerdzone",
+      "name_match": [
+       "marshall",
+       "marshall thundering herd",
+       "thundering herd",
+       "herdzone"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "South Alabama Jaguars",
+   "official_site": "https://usajaguars.com/sports/football?path=football",
+   "channels": [
+    {
+     "channel_id": "UCA0nROGPwyo4EIqqK_0i0HA",
+     "channel": "South Alabama Athletics - JagNationTV",
+     "handle": "@SouthAlabamaAthletics",
+     "subscribers": 1420,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://usajaguars.com/sports/football?path=football",
+      "link": "https://www.youtube.com/@SouthAlabamaAthletics",
+      "name_match": [
+       "south alabama jaguars",
+       "south alabama",
+       "jaguars"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": [
+    {
+     "url": "https://www.youtube.com/@USAJaguarSports",
+     "why": "unresolvable: ERROR: [youtube:tab] @USAJaguarSports/videos: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPErr"
+    }
+   ]
+  },
+  {
+   "league": "college",
+   "team": "Sam Houston Bearkats",
+   "official_site": "http://www.gobearkats.com/SportSelect.dbml?DB_OEM_ID=19900&SPID=11345&SPSID=92955&DB_OEM_ID=19900",
+   "channels": [],
+   "rejected_lookalikes_and_others": [],
+   "left_out": "no YouTube channel could be tied to the official site (site link, site-embedded content, Wikidata P2397, or verified channel whose About links to the site); league/network/conference channels still cover this team"
+  },
+  {
+   "league": "college",
+   "team": "New Mexico State Aggies",
+   "official_site": "https://nmstatesports.com/index.aspx?path=football",
+   "channels": [
+    {
+     "channel_id": "UCRLooGqW2RLUyWTqu8lakIg",
+     "channel": "NM State AggieVision",
+     "handle": "@AggieVision",
+     "subscribers": 4300,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://nmstatesports.com/index.aspx?path=football",
+      "link": "https://www.youtube.com/user/AggieVision",
+      "name_match": [
+       "new mexico state",
+       "new mexico st"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "App State Mountaineers",
+   "official_site": "https://www.appstatesports.com",
+   "channels": [
+    {
+     "channel_id": "UCOsgKld4QG2ChPvMGsZcC7w",
+     "channel": "App State Athletics",
+     "handle": "@appstatesports",
+     "subscribers": 4380,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.appstatesports.com",
+      "link": "https://www.youtube.com/@appstatesports",
+      "name_match": [
+       "app",
+       "appstatesports",
+       "app state"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "James Madison Dukes",
+   "official_site": "https://jmusports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCFd3RJwvBBH2ONzj2_JQRkQ",
+     "channel": "JMUSports",
+     "handle": "@JMUSports",
+     "subscribers": 5160,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://jmusports.com/sports/football",
+      "link": "https://www.youtube.com/c/JMUSports",
+      "name_match": [
+       "james madison",
+       "jmu",
+       "jmusports"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Kennesaw State Owls",
+   "official_site": "http://www.ksuowls.com/index.aspx?path=fb",
+   "channels": [
+    {
+     "channel_id": "UCJ9GsCYUYOG8xGw5fLtro8A",
+     "channel": "Kennesaw State Owls",
+     "handle": "@KSUOWLNETWORK",
+     "subscribers": 4010,
+     "verified": false,
+     "evidence": {
+      "method": "A2: official site links/embeds this channel's content",
+      "items": [
+       {
+        "how": "site links playlist",
+        "ref": "PL6RoJsz3z-gB7k83MLVzpNmGkYBOhXek5"
+       },
+       {
+        "how": "site links playlist",
+        "ref": "PL6RoJsz3z-gCGfwL8qeo66cHwOJp7Fni-"
+       },
+       {
+        "how": "site links playlist",
+        "ref": "PL6RoJsz3z-gCIeRzRY4lGEbeZqMoiR7Nr"
+       },
+       {
+        "how": "site links playlist",
+        "ref": "PL6RoJsz3z-gDasxio3-ck8CGYqQZVC98G"
+       }
+      ],
+      "source": "http://www.ksuowls.com/index.aspx?path=fb",
+      "name_match": [
+       "kenn",
+       "kennesaw state",
+       "kennesaw state owls",
+       "kennesaw st"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": [
+    {
+     "channel": "Kennesaw State University",
+     "channel_id": "UCSMbEgoy_R0jIOsxKJPzVxA",
+     "subscribers": 6090,
+     "verified": true,
+     "why": "verified and name matches but no link to the official site found (about links: ['facebook.com', 'instagram.com', 'kennesaw.edu', 'linkedin.com']; description says official: False)"
+    }
+   ]
+  },
+  {
+   "league": "college",
+   "team": "Liberty Flames",
+   "official_site": "https://libertyflames.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCNo965yZFfcR_BE1kPJlcsg",
+     "channel": "Liberty University Flames",
+     "handle": "@LibertyFlames1971",
+     "subscribers": 11400,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://libertyflames.com/sports/football",
+      "link": "https://www.youtube.com/@LibertyFlames1971",
+      "name_match": [
+       "flames",
+       "libertyflames",
+       "liberty flames",
+       "lib",
+       "liberty"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Memphis Tigers",
+   "official_site": "https://gotigersgo.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCzWw4a6Lp2uq891HbAT7ANw",
+     "channel": "Memphis Tigers Athletics",
+     "handle": "@SIDMemphis",
+     "subscribers": 13700,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://gotigersgo.com/sports/football",
+      "link": "https://www.youtube.com/user/SIDMemphis",
+      "name_match": [
+       "mem",
+       "memphis",
+       "memphis tigers"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "East Carolina Pirates",
+   "official_site": "https://ecupirates.com/index.aspx?path=football",
+   "channels": [
+    {
+     "channel_id": "UCBV9bFELPEbVZRdtWofBX2Q",
+     "channel": "ECUAthletics",
+     "handle": "@ECUAthletics",
+     "subscribers": 6440,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://ecupirates.com/index.aspx?path=football",
+      "link": "https://www.youtube.com/user/ECUAthletics",
+      "name_match": [
+       "ecu",
+       "east carolina"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Virginia Cavaliers",
+   "official_site": "https://virginiasports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCRz7SRXbiTbNvN2Us0JvbdA",
+     "channel": "Virginia Sports TV",
+     "handle": "@VirginiaSportsTV",
+     "subscribers": 20200,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://virginiasports.com/sports/football",
+      "link": "https://www.youtube.com/channel/UCRz7SRXbiTbNvN2Us0JvbdA",
+      "name_match": [
+       "cavaliers",
+       "virginiasports",
+       "virginia",
+       "virginia cavaliers"
+      ]
+     }
+    },
+    {
+     "channel_id": "UCk4wyLc6JEgI8NCamK8TGRg",
+     "channel": "Virginia Football",
+     "handle": "@Virginia_Football",
+     "subscribers": 2260,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://virginiasports.com/sports/football",
+      "link": "https://www.youtube.com/@Virginia_Football",
+      "name_match": [
+       "virginia"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Duke Blue Devils",
+   "official_site": "https://goduke.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCTaDTFFlD-RLrBeAqEQZfyA",
+     "channel": "Duke Athletics",
+     "handle": "@DukeAthletics",
+     "subscribers": 7010,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://goduke.com/sports/football",
+      "link": "https://www.youtube.com/user/DukeAthletics",
+      "name_match": [
+       "duke"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "UConn Huskies",
+   "official_site": "https://uconnhuskies.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCCpTipFQZJNTTpIFx-j-aSg",
+     "channel": "UConn Huskies",
+     "handle": "@uconnhuskies",
+     "subscribers": 55100,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://uconnhuskies.com/sports/football",
+      "link": "https://www.youtube.com/uconnhuskies",
+      "name_match": [
+       "uconn huskies",
+       "uconnhuskies",
+       "conn",
+       "uconn"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Massachusetts Minutemen",
+   "official_site": "https://umassathletics.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCTmJzvpNk8GeueSpBttmb2g",
+     "channel": "Massachusetts Athletics",
+     "handle": "@MassachusettsAthletics",
+     "subscribers": 5080,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://umassathletics.com/",
+      "link": "https://www.youtube.com/umassathletics",
+      "name_match": [
+       "umassathletics",
+       "mass",
+       "massachusetts",
+       "umass"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Tulsa Golden Hurricane",
+   "official_site": "https://tulsahurricane.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCCM89Zk2s49DxKXFQBv-tkg",
+     "channel": "Tulsa Hurricane Athletics",
+     "handle": "@TulsaHurricaneAthletics",
+     "subscribers": 2440,
+     "verified": false,
+     "evidence": {
+      "method": "A2: official site links/embeds this channel's content",
+      "items": [
+       {
+        "how": "site social handle (Sidearm sport config)",
+        "ref": "TulsaHurricaneVideo"
+       }
+      ],
+      "source": "https://tulsahurricane.com/sports/football",
+      "name_match": [
+       "tulsahurricane",
+       "tulsa"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Army Black Knights",
+   "official_site": "https://goarmywestpoint.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCZRHj95Vc8l8KSm5F0SKLQQ",
+     "channel": "Army West Point Athletics",
+     "handle": "@GoArmyWestPoint",
+     "subscribers": 24600,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://goarmywestpoint.com/sports/football",
+      "link": "https://www.youtube.com/ArmyAthletics",
+      "name_match": [
+       "army",
+       "goarmywestpoint"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Wyoming Cowboys",
+   "official_site": "https://gowyo.com/sports/football",
+   "channels": [],
+   "rejected_lookalikes_and_others": [],
+   "left_out": "no YouTube channel could be tied to the official site (site link, site-embedded content, Wikidata P2397, or verified channel whose About links to the site); league/network/conference channels still cover this team"
+  },
+  {
+   "league": "college",
+   "team": "Air Force Falcons",
+   "official_site": "https://goairforcefalcons.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCPvuJLd9RDVK630zY2b6Ykg",
+     "channel": "Air Force Falcons",
+     "handle": "@AF_Falcons",
+     "subscribers": 8790,
+     "verified": false,
+     "evidence": {
+      "method": "A2: official site links/embeds this channel's content",
+      "items": [
+       {
+        "how": "site social handle (Sidearm sport config)",
+        "ref": "GoAirForceFalcons"
+       }
+      ],
+      "source": "https://goairforcefalcons.com/sports/football",
+      "name_match": [
+       "goairforcefalcons",
+       "air force",
+       "air force falcons"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Stanford Cardinal",
+   "official_site": "https://gostanford.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UC3eNlJKuJzJfNQzLphGZW7w",
+     "channel": "Stanford Athletics",
+     "handle": "@gostanford",
+     "subscribers": 49600,
+     "verified": true,
+     "evidence": {
+      "method": "B: verified + channel About links to official site",
+      "about_links_to": [
+       "gostanford.com"
+      ],
+      "name_match": [
+       "gostanford",
+       "stan",
+       "stanford"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "NC State Wolfpack",
+   "official_site": "https://gopack.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCQWFfk0MydN-rtOI_t_iTHw",
+     "channel": "NC State Athletics",
+     "handle": "@ncstateathletics",
+     "subscribers": 10400,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://gopack.com/sports/football",
+      "link": "https://www.youtube.com/@ncstateathletics",
+      "name_match": [
+       "gopack",
+       "nc state wolfpack",
+       "nc state",
+       "wolfpack"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "SMU Mustangs",
+   "official_site": "https://smumustangs.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UC_vKL25z2ipN8Jhgu7pmqWw",
+     "channel": "SMU Mustangs",
+     "handle": "@SMUMustangs",
+     "subscribers": 2470,
+     "verified": true,
+     "evidence": {
+      "method": "B: verified + channel About links to official site",
+      "about_links_to": [
+       "smumustangs.com"
+      ],
+      "name_match": [
+       "mustangs",
+       "smu mustangs",
+       "smumustangs",
+       "smu"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "California Golden Bears",
+   "official_site": "https://calbears.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCI9uQ9_YlN7-orPz5qIpzNw",
+     "channel": "Cal Bears",
+     "handle": "@calbears",
+     "subscribers": 26900,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://calbears.com/sports/football",
+      "link": "https://www.youtube.com/user/calathletics",
+      "name_match": [
+       "calbears",
+       "california",
+       "california golden bears",
+       "cal",
+       "golden bears"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Auburn Tigers",
+   "official_site": "https://auburntigers.com/sports/football",
+   "channels": [],
+   "rejected_lookalikes_and_others": [
+    {
+     "channel": "Auburn Tigers on AL.com",
+     "channel_id": "UC2JSgw37hwXBA-4PVeVlwAg",
+     "subscribers": 63100,
+     "verified": true,
+     "why": "verified and name matches but no link to the official site found (about links: ['al.com']; description says official: False)"
+    }
+   ],
+   "left_out": "no YouTube channel could be tied to the official site (site link, site-embedded content, Wikidata P2397, or verified channel whose About links to the site); league/network/conference channels still cover this team"
+  },
+  {
+   "league": "college",
+   "team": "LSU Tigers",
+   "official_site": "https://lsusports.net/sports/football?path=fb",
+   "channels": [
+    {
+     "channel_id": "UC7JKiKZ5xphFgqrZAtsYlTQ",
+     "channel": "LSU Sports",
+     "handle": "@lsusports",
+     "subscribers": 64200,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://lsusports.net/sports/football?path=fb",
+      "link": "https://www.youtube.com/lsusports",
+      "name_match": [
+       "lsusports",
+       "lsu"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Michigan Wolverines",
+   "official_site": "https://mgoblue.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UC-je1DMrkGkWSw_ewnt0rkA",
+     "channel": "Michigan Athletics",
+     "handle": "@umichathletics",
+     "subscribers": 50400,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://mgoblue.com/sports/football",
+      "link": "https://www.youtube.com/c/umichathletics",
+      "name_match": [
+       "michigan",
+       "mich"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Indiana Hoosiers",
+   "official_site": "https://iuhoosiers.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCbiz0Eoh8JH4YbYsFqi4bEA",
+     "channel": "Indiana University Athletics",
+     "handle": "@IUAthletics",
+     "subscribers": 22200,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://iuhoosiers.com/",
+      "link": "https://www.youtube.com/@IUAthletics",
+      "name_match": [
+       "indiana hoosiers",
+       "indiana",
+       "hoosiers"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Cincinnati Bearcats",
+   "official_site": "https://gobearcats.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UC0y5liiwMlVZRPpHANy5ROA",
+     "channel": "Cincinnati Bearcats (GoBearcats)",
+     "handle": "@CincinnatiBearcats",
+     "subscribers": 16800,
+     "verified": false,
+     "evidence": {
+      "method": "A2: official site links/embeds this channel's content",
+      "items": [
+       {
+        "how": "site links playlist",
+        "ref": "PLb1kZJkTiqwWHM_iQhpWsGLO4S_Ln5K24"
+       }
+      ],
+      "source": "https://gobearcats.com/sports/football",
+      "name_match": [
+       "bearcats",
+       "cincinnati bearcats",
+       "cin",
+       "cincinnati",
+       "gobearcats"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": [
+    {
+     "channel": "Cincinnati Bengals",
+     "channel_id": "UCnQUpSnJ39KsjZKbT0CprHQ",
+     "subscribers": 181000,
+     "verified": true,
+     "why": "verified and name matches but no link to the official site found (about links: ['bengals.com', 'bit.ly', 'facebook.com', 'instagram.com']; description says official: True)"
+    }
+   ]
+  },
+  {
+   "league": "college",
+   "team": "Texas Tech Red Raiders",
+   "official_site": "https://texastech.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCeGcdO4Xell4mdc_RLIjEew",
+     "channel": "Texas Tech Red Raiders",
+     "handle": "@TexasTechRedRaiders",
+     "subscribers": 46300,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://texastech.com/sports/football",
+      "link": "https://www.youtube.com/texastechredraiders",
+      "name_match": [
+       "red raiders",
+       "texas tech",
+       "texas tech red raiders",
+       "texastech"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Miami Hurricanes",
+   "official_site": "https://hurricanesports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCt_bQWpCLU4080yFUVUriAA",
+     "channel": "Miami Hurricanes",
+     "handle": "@MiamiHurricanesAllAccess",
+     "subscribers": 64600,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://hurricanesports.com/sports/football",
+      "link": "https://www.youtube.com/user/CanesAllAccess",
+      "name_match": [
+       "miami hurricanes",
+       "mia",
+       "hurricanes",
+       "miami"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Pittsburgh Panthers",
+   "official_site": "https://pittsburghpanthers.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCC0lkq3Na-0cNXvBlnHXGWA",
+     "channel": "Pitt Panthers",
+     "handle": "@Pitt_Athletics",
+     "subscribers": 23000,
+     "verified": false,
+     "evidence": {
+      "method": "A2: official site links/embeds this channel's content",
+      "items": [
+       {
+        "how": "site links/embeds video",
+        "ref": "GttpxBTICyM"
+       },
+       {
+        "how": "site links/embeds video",
+        "ref": "M77R1qVyc1g"
+       }
+      ],
+      "source": "https://pittsburghpanthers.com/sports/football",
+      "name_match": [
+       "pitt"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": [
+    {
+     "channel": "Pittsburgh Steelers",
+     "channel_id": "UChaRXjMDs4ppKfnTPE6Z89w",
+     "subscribers": 385000,
+     "verified": true,
+     "why": "verified and name matches but no link to the official site found (about links: ['facebook.com', 'goo.gl', 'instagram.com', 'snapchat.com']; description says official: True)"
+    }
+   ]
+  },
+  {
+   "league": "college",
+   "team": "Florida Atlantic Owls",
+   "official_site": "https://fausports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UC7J785tF6we_y0vip0BRtfg",
+     "channel": "FAU Athletics",
+     "handle": "@FAUAthletics",
+     "subscribers": 1920,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://fausports.com/sports/football",
+      "link": "https://www.youtube.com/@FAUAthletics",
+      "name_match": [
+       "fau",
+       "florida atlantic"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Rice Owls",
+   "official_site": "https://riceowls.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCJaH9GHofzrX8iUgMIANEow",
+     "channel": "Rice Athletics",
+     "handle": "@RiceAthletics1912",
+     "subscribers": 17500,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://riceowls.com/sports/football",
+      "link": "https://www.youtube.com/channel/UCJaH9GHofzrX8iUgMIANEow",
+      "name_match": [
+       "rice owls",
+       "riceowls",
+       "rice"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Northwestern Wildcats",
+   "official_site": "https://nusports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UC7qmMAxnfYY1Z-bn7E07_8w",
+     "channel": "Northwestern Athletics",
+     "handle": "@nusports",
+     "subscribers": 10100,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://nusports.com/sports/football",
+      "link": "https://www.youtube.com/user/NUAthletics",
+      "name_match": [
+       "northwestern",
+       "nusports"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": [
+    {
+     "url": "https://www.youtube.com/channel/UC1sZaNDqhhRPZDaHBwCR8Yw",
+     "why": "unresolvable: ERROR: [youtube:tab] UC1sZaNDqhhRPZDaHBwCR8Yw: This channel does not have a videos tab"
+    }
+   ]
+  },
+  {
+   "league": "college",
+   "team": "Rutgers Scarlet Knights",
+   "official_site": "https://scarletknights.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCrfIsQY596rNHIff0KT5xdw",
+     "channel": "Rutgers Athletics",
+     "handle": "@RutgersAthletics1869",
+     "subscribers": 9920,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://scarletknights.com/sports/football",
+      "link": "https://www.youtube.com/c/RutgersAthletics1869",
+      "name_match": [
+       "rutg",
+       "rutgers"
+      ]
+     }
+    },
+    {
+     "channel_id": "UCa0ZdhLnjuNsfdNtUdjN6nQ",
+     "channel": "Rutgers Football",
+     "handle": "@RutgersFB",
+     "subscribers": 4660,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://scarletknights.com/sports/football",
+      "link": "https://www.youtube.com/channel/UCa0ZdhLnjuNsfdNtUdjN6nQ",
+      "name_match": [
+       "rutg",
+       "rutgers"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "TCU Horned Frogs",
+   "official_site": "https://gofrogs.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCoB_rknBP4o6COtkedQ0waQ",
+     "channel": "TCU Athletics",
+     "handle": "@TCU_Athletics",
+     "subscribers": 10100,
+     "verified": false,
+     "evidence": {
+      "method": "A: wikidata_P2397",
+      "source": "Q7669786",
+      "link": "https://www.youtube.com/channel/UCoB_rknBP4o6COtkedQ0waQ",
+      "name_match": [
+       "tcu"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "West Virginia Mountaineers",
+   "official_site": "https://wvusports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCQ7XuNSIW-Yw3_jEbBPPxgA",
+     "channel": "West Virginia University",
+     "handle": "@WestVirginiaU",
+     "subscribers": 27400,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://wvusports.com/sports/football",
+      "link": "https://www.youtube.com/user/WestVirginiaU",
+      "name_match": [
+       "west virginia",
+       "wvu"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Toledo Rockets",
+   "official_site": "https://utrockets.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCi-jnLQKem7R2AollamEZ7g",
+     "channel": "Toledo Rockets",
+     "handle": "@utrockets",
+     "subscribers": 2080,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://utrockets.com/sports/football",
+      "link": "https://www.youtube.com/channel/UCi-jnLQKem7R2AollamEZ7g",
+      "name_match": [
+       "utrockets",
+       "rockets",
+       "toledo rockets",
+       "tol",
+       "toledo"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Western Michigan Broncos",
+   "official_site": "https://wmubroncos.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCLiZeT3xp0PHOJc3F3h3u_g",
+     "channel": "Western Michigan Broncos ",
+     "handle": "@WesternMichiganBroncos",
+     "subscribers": 4650,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://wmubroncos.com/sports/football",
+      "link": "https://www.youtube.com/user/wmuathletics",
+      "name_match": [
+       "western michigan broncos",
+       "western michigan",
+       "wmubroncos",
+       "wmu"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Kent State Golden Flashes",
+   "official_site": "https://kentstatesports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UC5i_E8hrUZode3b-xyH3aSQ",
+     "channel": "GFTV",
+     "handle": "@GoldenFlashesTV",
+     "subscribers": 2440,
+     "verified": false,
+     "evidence": {
+      "method": "A2: official site links/embeds this channel's content",
+      "items": [
+       {
+        "how": "site links/embeds video",
+        "ref": "6O9D2oqsNZ4"
+       },
+       {
+        "how": "site links/embeds video",
+        "ref": "GyGHJvfXxSU"
+       }
+      ],
+      "source": "https://kentstatesports.com/sports/football",
+      "name_match": [
+       "kent",
+       "golden flashes",
+       "kent state"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Akron Zips",
+   "official_site": "https://gozips.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UC1gs5fPWwM-8oCi6OkTS2Dw",
+     "channel": "Akron Zips",
+     "handle": "@ZipsAthletics",
+     "subscribers": 2830,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://gozips.com/sports/football",
+      "link": "https://www.youtube.com/user/ZipsAthletics",
+      "name_match": [
+       "akron zips",
+       "gozips",
+       "zips",
+       "akron",
+       "akr"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Kansas Jayhawks",
+   "official_site": "http://www.kuathletics.com",
+   "channels": [
+    {
+     "channel_id": "UCuurB9cwATPco9D2IJTXSNg",
+     "channel": "Kansas Jayhawks",
+     "handle": "@KUAthletics",
+     "subscribers": 19500,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://kuathletics.com/",
+      "link": "https://www.youtube.com/@KUAthletics",
+      "name_match": [
+       "kansas jayhawks",
+       "kansas",
+       "kuathletics",
+       "jayhawks"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Baylor Bears",
+   "official_site": "https://baylorbears.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCt1Z0nJWuI6KDozeflRvRWw",
+     "channel": "BaylorAthletics",
+     "handle": "@BaylorAthletics",
+     "subscribers": 328000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://baylorbears.com/sports/football",
+      "link": "https://www.youtube.com/@BaylorAthletics",
+      "name_match": [
+       "bay",
+       "baylor"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Central Michigan Chippewas",
+   "official_site": "https://cmuchippewas.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCeolWbSWWwzTIC7w4uronXg",
+     "channel": "Central Michigan Athletics",
+     "handle": "@CentralMichiganAthletics",
+     "subscribers": 1460,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://cmuchippewas.com/sports/football",
+      "link": "https://www.youtube.com/cmichathletics",
+      "name_match": [
+       "central michigan",
+       "chippewas"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": [
+    {
+     "url": "https://www.youtube.com/@appstatesports",
+     "channel": "App State Athletics",
+     "channel_id": "UCOsgKld4QG2ChPvMGsZcC7w",
+     "why": "linked from site but name does not match team (partner/conference/other school)"
+    }
+   ]
+  },
+  {
+   "league": "college",
+   "team": "Miami (OH) RedHawks",
+   "official_site": "https://miamiredhawks.com/sports/football",
+   "channels": [],
+   "rejected_lookalikes_and_others": [],
+   "left_out": "no YouTube channel could be tied to the official site (site link, site-embedded content, Wikidata P2397, or verified channel whose About links to the site); league/network/conference channels still cover this team"
+  },
+  {
+   "league": "college",
+   "team": "Illinois Fighting Illini",
+   "official_site": "https://fightingillini.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UC6uoECOXIzf2jDAWfWZU3vw",
+     "channel": "Fighting Illini Athletics",
+     "handle": "@IlliniAthletics",
+     "subscribers": 37300,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://fightingillini.com/sports/football",
+      "link": "https://www.youtube.com/user/IlliniProductionsHD",
+      "name_match": [
+       "fighting illini",
+       "ill",
+       "illinois",
+       "fightingillini"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Oregon Ducks",
+   "official_site": "https://goducks.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UC6hQ7rJDFcr0to1nC4XVegQ",
+     "channel": "GoDucks",
+     "handle": "@GoDucksdotcom",
+     "subscribers": 105000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://goducks.com/sports/football",
+      "link": "https://www.youtube.com/user/GoDucksdotcom",
+      "name_match": [
+       "oregon",
+       "ore",
+       "ducks",
+       "oregon ducks",
+       "goducks"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Georgia Tech Yellow Jackets",
+   "official_site": "https://ramblinwreck.com/sports/m-footbl/",
+   "channels": [
+    {
+     "channel_id": "UC7WXB44DxIfiDGzfjIPbmmQ",
+     "channel": "Georgia Tech Yellow Jackets",
+     "handle": "@georgiatechathletics",
+     "subscribers": 27300,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://ramblinwreck.com/sports/m-footbl/",
+      "link": "https://www.youtube.com/georgiatechathletics",
+      "name_match": [
+       "georgia tech yellow jackets",
+       "georgia tech",
+       "yellow jackets"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Boston College Eagles",
+   "official_site": "https://bceagles.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCBXeTZz7p9zI5-E2nd89FrQ",
+     "channel": "Boston College Athletics",
+     "handle": "@bceagles",
+     "subscribers": 8440,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://bceagles.com/sports/football",
+      "link": "https://www.youtube.com/bceagles",
+      "name_match": [
+       "boston college",
+       "boston college eagles",
+       "bceagles"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Buffalo Bulls",
+   "official_site": "https://ubbulls.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UC2fMl4Xc5TBqOq2M7ijJjzQ",
+     "channel": "UB Bulls",
+     "handle": "@UBBulls",
+     "subscribers": 9350,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://ubbulls.com/sports/football",
+      "link": "https://www.youtube.com/@UBBulls",
+      "name_match": [
+       "buf",
+       "bulls",
+       "buffalo",
+       "ubbulls"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Bowling Green Falcons",
+   "official_site": "https://bgsufalcons.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCl6iceomuO8UxePvfz610tQ",
+     "channel": "FalconAthletics",
+     "handle": "@FalconAthletics",
+     "subscribers": 3850,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://bgsufalcons.com/sports/football",
+      "link": "https://www.youtube.com/user/FalconAthletics",
+      "name_match": [
+       "bgsu",
+       "bowling green"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Northern Illinois Huskies",
+   "official_site": "https://niuhuskies.com/index.aspx?path=football",
+   "channels": [
+    {
+     "channel_id": "UCqLQtLgLK_nJqU3JKY687oA",
+     "channel": "NIU Athletics",
+     "handle": "@NIUAthleticsOfficial",
+     "subscribers": 3860,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://niuhuskies.com/index.aspx?path=football",
+      "link": "https://www.youtube.com/@NIUAthleticsOfficial",
+      "name_match": [
+       "northern illinois",
+       "niu",
+       "n illinois"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Hawai'i Rainbow Warriors",
+   "official_site": "http://hawaiiathletics.com/index.aspx?path=football",
+   "channels": [
+    {
+     "channel_id": "UCIdMh3LfMj9yEjM6t3B6m6A",
+     "channel": "University of Hawaii Athletics Department - Manoa",
+     "handle": "@hawaiiathletics",
+     "subscribers": 14200,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://hawaiiathletics.com/index.aspx?path=football",
+      "link": "https://www.youtube.com/hawaiiathletics",
+      "name_match": [
+       "haw",
+       "hawaiiathletics",
+       "hawai'i"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "UCLA Bruins",
+   "official_site": "https://uclabruins.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCm3-NocWw8YDQ6lfOb78ehA",
+     "channel": "UCLA Athletics",
+     "handle": "@uclaathletics",
+     "subscribers": 422000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://uclabruins.com/sports/football",
+      "link": "https://www.youtube.com/channel/UCm3-NocWw8YDQ6lfOb78ehA",
+      "name_match": [
+       "uclabruins",
+       "ucla bruins",
+       "ucla",
+       "bruins"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Michigan State Spartans",
+   "official_site": "http://msuspartans.cstv.com/sports/m-footbl/msu-m-footbl-body.html",
+   "channels": [
+    {
+     "channel_id": "UCWBSBTSrUk_pym0Q42PA4Mw",
+     "channel": "Michigan State Spartans Athletics",
+     "handle": "@MSUSpartanAthletics",
+     "subscribers": 42600,
+     "verified": false,
+     "evidence": {
+      "method": "A3: rendered msuspartans.com (headless Chrome) links channel",
+      "ref": "http://www.youtube.com/user/MSUSpartanAthletics",
+      "source": "http://msuspartans.cstv.com/sports/m-footbl/msu-m-footbl-body.html",
+      "name_match": [
+       "michigan state spartans",
+       "michigan state",
+       "msu",
+       "michigan st"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "South Carolina Gamecocks",
+   "official_site": "https://gamecocksonline.com/index.aspx?path=football",
+   "channels": [
+    {
+     "channel_id": "UCIJ8yiBEYi7OSDtJmTZnUZQ",
+     "channel": "South Carolina Gamecocks",
+     "handle": "@GamecocksOnline",
+     "subscribers": 100000,
+     "verified": true,
+     "evidence": {
+      "method": "B: verified + channel About links to official site",
+      "about_links_to": [
+       "gamecocksonline.com"
+      ],
+      "name_match": [
+       "gamecocksonline",
+       "south carolina gamecocks",
+       "gamecocks",
+       "south carolina"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Tennessee Volunteers",
+   "official_site": "https://utsports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCD9UkxpIo5W16Ou3eo4eZbA",
+     "channel": "Tennessee Athletics",
+     "handle": "@TennesseeAthletics",
+     "subscribers": 77300,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://utsports.com/sports/football",
+      "link": "https://www.youtube.com/@TennesseeAthletics",
+      "name_match": [
+       "tenn",
+       "tennessee"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Minnesota Golden Gophers",
+   "official_site": "https://gophersports.com/index.aspx?path=football",
+   "channels": [
+    {
+     "channel_id": "UC8c0RvlxxfHbN74FEcTbTrg",
+     "channel": "Minnesota Gophers",
+     "handle": "@gophersports",
+     "subscribers": 73500,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://gophersports.com/index.aspx?path=football",
+      "link": "https://www.youtube.com/gopherathletics",
+      "name_match": [
+       "golden gophers",
+       "minn",
+       "minnesota",
+       "gophersports"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": [
+    {
+     "url": "https://www.youtube.com/channel/UClOXE_Zn60aPyhxL-pKZ3nw",
+     "channel": "University of Minnesota Golden Gopher Esports",
+     "why": "under 1,000 subscribers"
+    },
+    {
+     "channel": "The University of Minnesota Marching Band",
+     "channel_id": "UCNXz5Q0O7wVKR6anqwU6WMQ",
+     "why": "official university channel but not athletics (marching band)"
+    }
+   ]
+  },
+  {
+   "league": "college",
+   "team": "Iowa Hawkeyes",
+   "official_site": "https://hawkeyesports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCztgd10pOi3ZKu_0mJwHadA",
+     "channel": "Iowa Hawkeyes",
+     "handle": "@IowaHawkeyesOfficial",
+     "subscribers": 58500,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://hawkeyesports.com/sports/football",
+      "link": "https://www.youtube.com/c/IowaHawkeyesOfficial",
+      "name_match": [
+       "iowa",
+       "iowa hawkeyes",
+       "hawkeyes"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "UCF Knights",
+   "official_site": "https://ucfknights.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCgp8zWRHZLNlO5Fv3t_rJfQ",
+     "channel": "UCF Knights",
+     "handle": "@UCFKnights",
+     "subscribers": 21200,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://ucfknights.com/sports/football",
+      "link": "https://www.youtube.com/channel/UCgp8zWRHZLNlO5Fv3t_rJfQ",
+      "name_match": [
+       "ucf knights",
+       "ucfknights",
+       "ucf",
+       "knights"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "BYU Cougars",
+   "official_site": "https://byucougars.com/home/football",
+   "channels": [],
+   "rejected_lookalikes_and_others": [
+    {
+     "channel": "runnerspace",
+     "channel_id": "UCGZ8qJRxTgLpHSAieZrxSew",
+     "why": "rendered byucougars.com links a YouTube video owned by this channel, but name does not match or <1,000 subs"
+    }
+   ],
+   "left_out": "no YouTube channel could be tied to the official site (site link, site-embedded content, Wikidata P2397, or verified channel whose About links to the site); league/network/conference channels still cover this team"
+  },
+  {
+   "league": "college",
+   "team": "Navy Midshipmen",
+   "official_site": "https://navysports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCwVmrfUxcyIHyfsNZaXDf2A",
+     "channel": "NavyAthletics",
+     "handle": "@NavyAthletics",
+     "subscribers": 17900,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://navysports.com/sports/football",
+      "link": "https://www.youtube.com/user/NavyAthletics",
+      "name_match": [
+       "navy"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": [
+    {
+     "url": "https://www.youtube.com/@AF_Falcons",
+     "channel": "Air Force Falcons",
+     "channel_id": "UCPvuJLd9RDVK630zY2b6Ykg",
+     "why": "linked from site but name does not match team (partner/conference/other school)"
+    }
+   ]
+  },
+  {
+   "league": "college",
+   "team": "North Texas Mean Green",
+   "official_site": "https://meangreensports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCZEUQg8iS--gz8-TLAznB5g",
+     "channel": "Mean Green Sports",
+     "handle": "@MeanGreenSports",
+     "subscribers": 5570,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://meangreensports.com/sports/football",
+      "link": "https://www.youtube.com/c/MeanGreenSports",
+      "name_match": [
+       "meangreensports",
+       "unt",
+       "mean green"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Mississippi State Bulldogs",
+   "official_site": "https://hailstate.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCeDDInREzm0nJNnCNFSmVwA",
+     "channel": "Mississippi State Athletics",
+     "handle": "@hailstate",
+     "subscribers": 28100,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://hailstate.com/sports/football",
+      "link": "https://www.youtube.com/hailstate",
+      "name_match": [
+       "hailstate",
+       "mississippi state bulldogs",
+       "mississippi st",
+       "mississippi state"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Oklahoma Sooners",
+   "official_site": "http://www.soonersports.com/",
+   "channels": [
+    {
+     "channel_id": "UC-CQSza3tFofjQJpKoJuvOA",
+     "channel": "Oklahoma Sooners",
+     "handle": "@soonersportscom",
+     "subscribers": 53400,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://soonersports.com/",
+      "link": "https://www.youtube.com/@soonersportscom",
+      "name_match": [
+       "oklahoma sooners",
+       "sooners",
+       "soonersports",
+       "oklahoma"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Ball State Cardinals",
+   "official_site": "https://ballstatesports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCU9qXmIDsn7qY4dlksXlPxw",
+     "channel": "Ball State Sports Link",
+     "handle": "@BSUSportsLink",
+     "subscribers": 2170,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://ballstatesports.com/sports/football",
+      "link": "https://www.youtube.com/user/BSUSportsLink",
+      "name_match": [
+       "ball",
+       "ballstatesports",
+       "ball state"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Sacramento State Hornets",
+   "official_site": "http://www.hornetsports.com/sports/fball/index",
+   "channels": [
+    {
+     "channel_id": "UCnM1ygp70PS2Jt4mhepqxqA",
+     "channel": "Hornet Sports",
+     "handle": "@HornetAthletics",
+     "subscribers": 2230,
+     "verified": false,
+     "evidence": {
+      "method": "A3: rendered hornetsports.com (headless Chrome) links channel",
+      "ref": "https://www.youtube.com/user/SacStAthletics",
+      "source": "http://www.hornetsports.com/sports/fball/index",
+      "name_match": [
+       "hornetsports",
+       "hornets"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Alabama Crimson Tide",
+   "official_site": "https://rolltide.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCUQis-AjFEA1AgRbnTbuBqA",
+     "channel": "Alabama Crimson Tide",
+     "handle": "@UA_Athletics",
+     "subscribers": 62400,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://rolltide.com/sports/football",
+      "link": "https://www.youtube.com/UA_Athletics",
+      "name_match": [
+       "alabama crimson tide",
+       "crimson tide",
+       "alabama",
+       "ala"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Texas A&M Aggies",
+   "official_site": "https://12thman.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UC4dba3jPeaesN9tpy9Q6BmA",
+     "channel": "Texas A&M Athletics",
+     "handle": "@AggieAthletics",
+     "subscribers": 74200,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://12thman.com/sports/football",
+      "link": "https://www.youtube.com/channel/UC4dba3jPeaesN9tpy9Q6BmA",
+      "name_match": [
+       "texas a&m"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Arizona State Sun Devils",
+   "official_site": "https://thesundevils.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UC_G-_2azcOV9JBAmqFgERwA",
+     "channel": "Sun Devil Athletics",
+     "handle": "@thesundevils",
+     "subscribers": 14400,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://thesundevils.com/sports/football",
+      "link": "https://www.youtube.com/thesundevils",
+      "name_match": [
+       "sundevils",
+       "thesundevils",
+       "sun devils"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Kansas State Wildcats",
+   "official_site": "https://www.kstatesports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCh8fpqB3yg0xfniwSGSzbkA",
+     "channel": "K-State Sports",
+     "handle": "@kstatesports",
+     "subscribers": 17200,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://www.kstatesports.com/sports/football",
+      "link": "https://www.youtube.com/c/kstatesports",
+      "name_match": [
+       "kstatesports"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Ohio Bobcats",
+   "official_site": "https://ohiobobcats.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCo_Ttgwb3zBiwEN8HlJFshw",
+     "channel": "Ohio Bobcats",
+     "handle": "@OhioBobcatsStudios",
+     "subscribers": 8440,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://ohiobobcats.com/sports/football",
+      "link": "https://www.youtube.com/user/OhioBobcatTV",
+      "name_match": [
+       "ohio",
+       "ohio bobcats",
+       "ohiobobcats"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Eastern Michigan Eagles",
+   "official_site": "https://emueagles.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UC-dnlQgbOUztm4W2wVqWVvw",
+     "channel": "Eastern Michigan Athletics",
+     "handle": "@emuathletics",
+     "subscribers": 2710,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://emueagles.com/sports/football",
+      "link": "https://www.youtube.com/emuathletics",
+      "name_match": [
+       "emu",
+       "eastern michigan"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Troy Trojans",
+   "official_site": "https://troytrojans.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCFpAc8Esr6KU8NDSucUY2yg",
+     "channel": "Troy Trojans",
+     "handle": "@TroyAthletics",
+     "subscribers": 4730,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://troytrojans.com/sports/football",
+      "link": "https://www.youtube.com/troyathletics",
+      "name_match": [
+       "troy",
+       "troytrojans",
+       "troy trojans"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "UL Monroe Warhawks",
+   "official_site": "https://ulmwarhawks.com/sports/football",
+   "channels": [],
+   "rejected_lookalikes_and_others": [
+    {
+     "channel": "ULM Athletics",
+     "channel_id": "UCpQqOlPTr745oe9-mfZjNkg",
+     "subscribers": 361,
+     "why": "content linked from official site but channel name does not match team or <1,000 subs (['site links/embeds video', 'site links/embeds video', 'site links/embeds video', 'site links/embeds video'])"
+    }
+   ],
+   "left_out": "no YouTube channel could be tied to the official site (site link, site-embedded content, Wikidata P2397, or verified channel whose About links to the site); league/network/conference channels still cover this team"
+  },
+  {
+   "league": "college",
+   "team": "Southern Miss Golden Eagles",
+   "official_site": "https://southernmiss.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCKNJ9-vQzAgMv2Bl6C7ZdCQ",
+     "channel": "Southern Miss Athletics",
+     "handle": "@SouthernMissSports",
+     "subscribers": 4540,
+     "verified": false,
+     "evidence": {
+      "method": "A2: official site links/embeds this channel's content",
+      "items": [
+       {
+        "how": "site links/embeds video",
+        "ref": "TZwhXiFq3uE"
+       },
+       {
+        "how": "site links/embeds video",
+        "ref": "UQKLQYoSE0E"
+       },
+       {
+        "how": "site links/embeds video",
+        "ref": "f59fXz05IYM"
+       },
+       {
+        "how": "site links/embeds video",
+        "ref": "uKri0XimAxU"
+       }
+      ],
+      "source": "https://southernmiss.com/sports/football",
+      "name_match": [
+       "southernmiss",
+       "southern miss"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": [
+    {
+     "channel": "Southern Miss Ticket Office",
+     "channel_id": "UCvC_cv19zCtJpsUESNYPHpQ",
+     "subscribers": 16,
+     "why": "content linked from official site but channel name does not match team or <1,000 subs (['site links/embeds video'])"
+    }
+   ]
+  },
+  {
+   "league": "college",
+   "team": "Louisiana Ragin' Cajuns",
+   "official_site": "https://ragincajuns.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCjsYZED-HMkeglF6kJGpFxA",
+     "channel": "Louisiana Ragin' Cajuns",
+     "handle": "@RaginCajunsVideo",
+     "subscribers": 2890,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://ragincajuns.com/sports/football",
+      "link": "https://www.youtube.com/channel/UCjsYZED-HMkeglF6kJGpFxA",
+      "name_match": [
+       "ragin' cajuns",
+       "louisiana",
+       "louisiana ragin' cajuns",
+       "ragincajuns"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Louisiana Tech Bulldogs",
+   "official_site": "https://latechsports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCAPgl8JEQPxvRgkLFqPCKGA",
+     "channel": "Louisiana Tech Athletics",
+     "handle": "@LaTechAthletics",
+     "subscribers": 2490,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://latechsports.com/sports/football",
+      "link": "https://www.youtube.com/user/LaTechAthletics",
+      "name_match": [
+       "latechsports",
+       "louisiana tech"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Old Dominion Monarchs",
+   "official_site": "https://odusports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCXkoAqiiz980x74c2lWSMiQ",
+     "channel": "ODUSports",
+     "handle": "@ODUSports",
+     "subscribers": 1240,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://odusports.com/sports/football",
+      "link": "https://www.youtube.com/user/ODUSports",
+      "name_match": [
+       "old dominion",
+       "odu",
+       "odusports"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Nevada Wolf Pack",
+   "official_site": "https://nevadawolfpack.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCDe1dF-S-uF6HlpVGKhqiXQ",
+     "channel": "Wolf Pack Athletics",
+     "handle": "@WolfPackAthletics",
+     "subscribers": 3530,
+     "verified": false,
+     "evidence": {
+      "method": "A2: official site links/embeds this channel's content",
+      "items": [
+       {
+        "how": "site links/embeds video",
+        "ref": "5Abn0phCD5g"
+       },
+       {
+        "how": "site links/embeds video",
+        "ref": "DW0qJHcFeps"
+       },
+       {
+        "how": "site links/embeds video",
+        "ref": "Hiru7Hjjt-U"
+       },
+       {
+        "how": "site links/embeds video",
+        "ref": "MkMFd-s-A5Q"
+       }
+      ],
+      "source": "https://nevadawolfpack.com/sports/football",
+      "name_match": [
+       "nevada wolf pack",
+       "nevada",
+       "wolf pack",
+       "nev",
+       "nevadawolfpack"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "San José State Spartans",
+   "official_site": "https://sjsuspartans.com/index.aspx?path=football",
+   "channels": [
+    {
+     "channel_id": "UCGOJmDvHrGQhyUNANidJCUg",
+     "channel": "San Jose State Spartans",
+     "handle": "@sjsuspartans",
+     "subscribers": 3390,
+     "verified": true,
+     "evidence": {
+      "method": "B: verified + channel About links to official site",
+      "about_links_to": [
+       "sjsuspartans.com"
+      ],
+      "name_match": [
+       "sjsuspartans",
+       "san jose st",
+       "san jose state spartans",
+       "san jose state",
+       "sjsu"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Washington State Cougars",
+   "official_site": "https://wsucougars.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCwL51tUez4x2TSb_gfAyLfw",
+     "channel": "WSUCougarAthletics",
+     "handle": "@WSUCougarAthletics",
+     "subscribers": 18000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://wsucougars.com/sports/football",
+      "link": "https://www.youtube.com/user/WSUCougarAthletics",
+      "name_match": [
+       "washington st",
+       "wsu",
+       "washington state cougars",
+       "washington state"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Boise State Broncos",
+   "official_site": "https://broncosports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCw7-Uy9ACDofmfVbbZtu-1Q",
+     "channel": "Boise State Broncos",
+     "handle": "@broncosports",
+     "subscribers": 11800,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://broncosports.com/sports/football",
+      "link": "https://www.youtube.com/@broncosports",
+      "name_match": [
+       "boise state",
+       "bois",
+       "boise state broncos",
+       "boise st",
+       "broncosports"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Colorado State Rams",
+   "official_site": "https://csurams.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCjo6qGSNLTH50heHy4dZvrw",
+     "channel": "Colorado State Rams",
+     "handle": "@CSURams",
+     "subscribers": 6960,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://csurams.com/",
+      "link": "https://www.youtube.com/@CSURams",
+      "name_match": [
+       "colorado state rams",
+       "colorado state",
+       "csu",
+       "csurams",
+       "colorado st"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "San Diego State Aztecs",
+   "official_site": "https://goaztecs.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCZB5DwBy4rb4T6zyx19oFVw",
+     "channel": "SDSU Athletics",
+     "handle": "@goaztecscom",
+     "subscribers": 11700,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://goaztecs.com/sports/football",
+      "link": "https://www.youtube.com/user/goaztecscom",
+      "name_match": [
+       "goaztecs",
+       "aztecs",
+       "sdsu",
+       "san diego state",
+       "san diego st"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Oklahoma State Cowboys",
+   "official_site": "https://okstate.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCiPbE1TBmEfgUWcQJUztxrQ",
+     "channel": "Oklahoma State Athletics",
+     "handle": "@osuathletics",
+     "subscribers": 51800,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://okstate.com/sports/football",
+      "link": "https://www.youtube.com/osuathletics",
+      "name_match": [
+       "oklahoma st",
+       "oklahoma state"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Colorado Buffaloes",
+   "official_site": "https://cubuffs.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCFa7JCJYHGciKPnlExPuC1Q",
+     "channel": "Colorado Football",
+     "handle": "@CUBuffsFootball",
+     "subscribers": 42800,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://cubuffs.com/sports/football",
+      "link": "https://www.youtube.com/channel/UCFa7JCJYHGciKPnlExPuC1Q",
+      "name_match": [
+       "buffaloes",
+       "colo",
+       "colorado",
+       "colorado buffaloes",
+       "cubuffs"
+      ]
+     }
+    },
+    {
+     "channel_id": "UCeTemrMnh7mAtN99BD6jo4Q",
+     "channel": "BuffsTV",
+     "handle": "@BuffsTV",
+     "subscribers": 55400,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://cubuffs.com/",
+      "link": "https://www.youtube.com/channel/UCeTemrMnh7mAtN99BD6jo4Q",
+      "name_match": [
+       "buffaloes",
+       "colo",
+       "colorado",
+       "colorado buffaloes"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Arkansas State Red Wolves",
+   "official_site": "https://astateredwolves.com/sports/football",
+   "channels": [],
+   "rejected_lookalikes_and_others": [],
+   "left_out": "no YouTube channel could be tied to the official site (site link, site-embedded content, Wikidata P2397, or verified channel whose About links to the site); league/network/conference channels still cover this team"
+  },
+  {
+   "league": "college",
+   "team": "Georgia State Panthers",
+   "official_site": "https://georgiastatesports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCCsxmvh7p8d3zGEOzvVJRBQ",
+     "channel": "Georgia State Athletics",
+     "handle": "@GSUAthletics",
+     "subscribers": 4110,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://georgiastatesports.com/sports/football",
+      "link": "https://www.youtube.com/c/GSUAthletics",
+      "name_match": [
+       "georgia state",
+       "georgia st",
+       "georgiastatesports"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Clemson Tigers",
+   "official_site": "http://clemsontigers.com/sports/football/",
+   "channels": [
+    {
+     "channel_id": "UCiAcuTMKc_WBQGFjtPnjxJQ",
+     "channel": "Clemson Tigers",
+     "handle": "@clemsontigers",
+     "subscribers": 184000,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://clemsontigers.com/sports/football/",
+      "link": "https://www.youtube.com/channel/UCiAcuTMKc_WBQGFjtPnjxJQ",
+      "name_match": [
+       "clem",
+       "clemson",
+       "clemsontigers",
+       "clemson tigers"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Virginia Tech Hokies",
+   "official_site": "https://hokiesports.com/sports/football",
+   "channels": [],
+   "rejected_lookalikes_and_others": [
+    {
+     "channel": "Virginia Tech",
+     "channel_id": "UCVq6pcRSD2Mago-iR3N34rw",
+     "subscribers": 33100,
+     "verified": true,
+     "why": "verified and name matches but no link to the official site found (about links: ['facebook.com', 'instagram.com', 'pinterest.com', 'twitter.com']; description says official: False)"
+    }
+   ],
+   "left_out": "no YouTube channel could be tied to the official site (site link, site-embedded content, Wikidata P2397, or verified channel whose About links to the site); league/network/conference channels still cover this team"
+  },
+  {
+   "league": "college",
+   "team": "Arizona Wildcats",
+   "official_site": "https://arizonawildcats.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCqG1fYrO-2Mp8OHMU1Pdizg",
+     "channel": "Arizona Wildcats",
+     "handle": "@ArizonaWildcats",
+     "subscribers": 34000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://arizonawildcats.com/sports/football",
+      "link": "https://www.youtube.com/channel/UCqG1fYrO-2Mp8OHMU1Pdizg",
+      "name_match": [
+       "arizona wildcats",
+       "arizona",
+       "arizonawildcats",
+       "ariz"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Iowa State Cyclones",
+   "official_site": "https://cyclones.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCOzN9D4MUO5jYbCSEE2iYEA",
+     "channel": "Cyclones.tv",
+     "handle": "@isuvideo",
+     "subscribers": 11200,
+     "verified": false,
+     "evidence": {
+      "method": "A2: official site links/embeds this channel's content",
+      "items": [
+       {
+        "how": "site links/embeds video",
+        "ref": "AU5-xD7r0oo"
+       },
+       {
+        "how": "site links/embeds video",
+        "ref": "GgIzncSNSW4"
+       },
+       {
+        "how": "site links/embeds video",
+        "ref": "GhwWEUPUPOU"
+       },
+       {
+        "how": "site links/embeds video",
+        "ref": "IPK42yXZOEA"
+       }
+      ],
+      "source": "https://cyclones.com/sports/football",
+      "name_match": [
+       "iowa state",
+       "isu",
+       "cyclones"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": [
+    {
+     "channel": "Iowa State University Foundation",
+     "channel_id": "UCe5RPGmQgwUwBBaKwRhplqQ",
+     "why": "official university foundation, not athletics"
+    }
+   ]
+  },
+  {
+   "league": "college",
+   "team": "Wisconsin Badgers",
+   "official_site": "https://uwbadgers.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCwGvYcF_PDvOvvADzEbrT0A",
+     "channel": "Wisconsin Badgers",
+     "handle": "@WisconsinBadgers",
+     "subscribers": 221000,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://uwbadgers.com/sports/football",
+      "link": "https://www.youtube.com/channel/UCwGvYcF_PDvOvvADzEbrT0A",
+      "name_match": [
+       "wisconsin",
+       "wisconsin badgers",
+       "wis",
+       "badgers"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "USC Trojans",
+   "official_site": "https://usctrojans.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCFnDxyL6N0et_oM0wjACqzw",
+     "channel": "USCAthletics",
+     "handle": "@USCAthletics",
+     "subscribers": 80400,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://usctrojans.com/sports/football",
+      "link": "https://www.youtube.com/user/USCAthletics",
+      "name_match": [
+       "usc"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Texas Longhorns",
+   "official_site": "https://texaslonghorns.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCFINGaivm4gMWK-UFqNwZvA",
+     "channel": "Texas Longhorns",
+     "handle": "@TexasLonghorns",
+     "subscribers": 82200,
+     "verified": true,
+     "evidence": {
+      "method": "A2: official site links/embeds this channel's content",
+      "items": [
+       {
+        "how": "site links playlist",
+        "ref": "PL06B9590FD16F5475"
+       },
+       {
+        "how": "site links playlist",
+        "ref": "PL2AF90B2B01EBDB8B"
+       },
+       {
+        "how": "site links playlist",
+        "ref": "PL3526E595C7CE6998"
+       },
+       {
+        "how": "site links playlist",
+        "ref": "PL3m2VBxSTdIs8tgChXFNRGIK7uRgaJqvg"
+       }
+      ],
+      "source": "https://texaslonghorns.com/sports/football",
+      "name_match": [
+       "tex",
+       "texaslonghorns",
+       "texas",
+       "texas longhorns",
+       "longhorns"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": [
+    {
+     "channel": "Texas Longhorns",
+     "channel_id": "UCFINGaivm4gMWK-UFqNwZvA",
+     "subscribers": 82200,
+     "verified": true,
+     "why": "verified and name matches but no link to the official site found (about links: ['hookem.at', 'watch.longhornnetwork.com']; description says official: True)"
+    },
+    {
+     "channel": "On Texas Football",
+     "channel_id": "UCxBJ2uOG2ordSgq5mnkhWAA",
+     "subscribers": 314000,
+     "verified": true,
+     "why": "verified and name matches but no link to the official site found (about links: ['linktr.ee', 'ontexasfootball.com', 'podcasts.apple.com']; description says official: False)"
+    }
+   ]
+  },
+  {
+   "league": "college",
+   "team": "Ole Miss Rebels",
+   "official_site": "https://olemisssports.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCp47rvbbB-HzCH96MU6yplQ",
+     "channel": "Ole Miss Rebels",
+     "handle": "@OleMissSports",
+     "subscribers": 93800,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://olemisssports.com/sports/football",
+      "link": "https://www.youtube.com/olemisssports",
+      "name_match": [
+       "olemisssports",
+       "ole miss rebels",
+       "miss",
+       "ole miss",
+       "rebels"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "North Carolina Tar Heels",
+   "official_site": "https://goheels.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCIPVSW_egZBrT0cdrco2sJA",
+     "channel": "GoHeels",
+     "handle": "@GoHeels",
+     "subscribers": 57100,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://goheels.com/sports/football",
+      "link": "https://www.youtube.com/channel/UCIPVSW_egZBrT0cdrco2sJA",
+      "name_match": [
+       "north carolina",
+       "tar heels",
+       "goheels",
+       "north carolina tar heels"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Syracuse Orange",
+   "official_site": "https://cuse.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCOBlh9E4bgmCWrDhuQGEkQA",
+     "channel": "Syracuse Orange",
+     "handle": "@SyracuseOrange",
+     "subscribers": 45300,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://cuse.com/sports/football",
+      "link": "https://www.youtube.com/@SyracuseOrange",
+      "name_match": [
+       "cuse",
+       "syr",
+       "syracuse",
+       "orange",
+       "syracuse orange"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Texas State Bobcats",
+   "official_site": "https://txstatebobcats.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCOPkV4JIOGfVXHmkWT0-SOA",
+     "channel": "Texas State Bobcat Athletics",
+     "handle": "@TxStateBobcats",
+     "subscribers": 5090,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://txstatebobcats.com/sports/football",
+      "link": "https://www.youtube.com/user/TexasStateBobcats",
+      "name_match": [
+       "txstatebobcats",
+       "texas state",
+       "texas st",
+       "txst"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Utah State Aggies",
+   "official_site": "https://utahstateaggies.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCku3Gl14lUgxTVao-iFtRdw",
+     "channel": "UtahStateAthletics",
+     "handle": "@UtahStateAthletics",
+     "subscribers": 3840,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://utahstateaggies.com/sports/football",
+      "link": "https://www.youtube.com/user/UtahStateAthletics",
+      "name_match": [
+       "utah state",
+       "utahstateaggies",
+       "usu",
+       "utah state aggies"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Kentucky Wildcats",
+   "official_site": "https://ukathletics.com/sports/football/",
+   "channels": [
+    {
+     "channel_id": "UCA0m2HDyoTvx2vXoYSdsJsA",
+     "channel": "UK Sports Video",
+     "handle": "@UKSportsVideo",
+     "subscribers": 74300,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://ukathletics.com/sports/football/",
+      "link": "https://www.youtube.com/c/KentuckyWildcatsTV",
+      "name_match": [
+       "kentucky"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Vanderbilt Commodores",
+   "official_site": "https://vucommodores.com/sports/football/",
+   "channels": [
+    {
+     "channel_id": "UCsnfoaCkT6gvdSESzVdCGGQ",
+     "channel": "Vanderbilt Athletics",
+     "handle": "@vucommodores",
+     "subscribers": 20700,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://vucommodores.com/",
+      "link": "https://www.youtube.com/user/vucommodores",
+      "name_match": [
+       "commodores",
+       "vanderbilt",
+       "vucommodores",
+       "van"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Tulane Green Wave",
+   "official_site": "https://tulanegreenwave.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCNSyUGDZ0M4ATau4PkmNp9g",
+     "channel": "Tulane Green Wave",
+     "handle": "@TUGreenWave",
+     "subscribers": 4870,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://tulanegreenwave.com/sports/football",
+      "link": "https://www.youtube.com/tugreenwave",
+      "name_match": [
+       "green wave",
+       "tulanegreenwave",
+       "tulane green wave",
+       "tulane"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "UTSA Roadrunners",
+   "official_site": "https://goutsa.com/index.aspx?path=football",
+   "channels": [],
+   "rejected_lookalikes_and_others": [],
+   "left_out": "no YouTube channel could be tied to the official site (site link, site-embedded content, Wikidata P2397, or verified channel whose About links to the site); league/network/conference channels still cover this team"
+  },
+  {
+   "league": "college",
+   "team": "New Mexico Lobos",
+   "official_site": "https://golobos.com/index.aspx?path=football",
+   "channels": [
+    {
+     "channel_id": "UCN_Aw5F5pAkHsF5OCn4j-Bw",
+     "channel": "New Mexico Lobos",
+     "handle": "@NewMexicoLobos",
+     "subscribers": 10100,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://golobos.com/index.aspx?path=football",
+      "link": "https://www.youtube.com/user/LoboTVnewmexicolobos",
+      "name_match": [
+       "new mexico lobos",
+       "lobos",
+       "new mexico",
+       "golobos"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "North Dakota State Bison",
+   "official_site": "https://gobison.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCo9BmRwSGifLu8jCbOgOK1w",
+     "channel": "NDSU Athletics",
+     "handle": "@NDSUAthletics",
+     "subscribers": 12600,
+     "verified": false,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://gobison.com/sports/football",
+      "link": "https://www.youtube.com/ndsuathletics",
+      "name_match": [
+       "north dakota state",
+       "ndsu",
+       "north dakota state bison",
+       "bison"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Utah Utes",
+   "official_site": "https://utahutes.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCOZJeIxFaGm9-czFb9t59PQ",
+     "channel": "University of Utah Athletics",
+     "handle": "@uathletics",
+     "subscribers": 16100,
+     "verified": true,
+     "evidence": {
+      "method": "A: site_link",
+      "source": "https://utahutes.com/sports/football",
+      "link": "https://www.youtube.com/user/uathletics",
+      "name_match": [
+       "utah"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": []
+  },
+  {
+   "league": "college",
+   "team": "Houston Cougars",
+   "official_site": "https://uhcougars.com/sports/football",
+   "channels": [
+    {
+     "channel_id": "UCkIyBIO25pyfstd1NjFgaLw",
+     "channel": "Houston Athletics",
+     "handle": "@UHAthletics",
+     "subscribers": 16700,
+     "verified": false,
+     "evidence": {
+      "method": "A2: official site links/embeds this channel's content",
+      "items": [
+       {
+        "how": "site social handle (Sidearm sport config)",
+        "ref": "UHAthletics"
+       }
+      ],
+      "source": "https://uhcougars.com/sports/football",
+      "name_match": [
+       "hou",
+       "houston"
+      ]
+     }
+    }
+   ],
+   "rejected_lookalikes_and_others": [
+    {
+     "channel": "Houston Texans",
+     "channel_id": "UCa_FcpOBe8G6VAR18RYS-aA",
+     "subscribers": 179000,
+     "verified": true,
+     "why": "verified and name matches but no link to the official site found (about links: ['facebook.com', 'houstontexans.com', 'htow.nz', 'instagram.com']; description says official: False)"
+    }
+   ]
+  }
+ ],
+ "left_out": [
+  "Atlanta Falcons",
+  "Sam Houston Bearkats",
+  "Wyoming Cowboys",
+  "Auburn Tigers",
+  "Miami (OH) RedHawks",
+  "BYU Cougars",
+  "UL Monroe Warhawks",
+  "Arkansas State Red Wolves",
+  "Virginia Tech Hokies",
+  "UTSA Roadrunners"
+ ]
+}
