@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "updated_utc": "2026-10-21T02:55:00Z",
- "note": "Official team stores only, plain links. nfl is keyed by the full team name in nfl/games.json (away.team / home.team); college by the team id in games.json team_ids. A team with no entry shows no gear link.",
+ "updated_utc": "2026-10-21T10:53:47Z",
+ "note": "Official team stores only, plain links. nfl is keyed by the full team name in nfl/games.json (away.team / home.team); college by the team id in games.json team_ids. Each college store is the one the team's official athletics website links to as its shop, checked live (HTTP 200, or a bot-wall 403/429 with the store host's robots.txt returning 200). A team with no entry shows no gear link.",
  "nfl": {
   "Arizona Cardinals": {
    "label": "Official Arizona Cardinals store",
@@ -133,6 +133,34 @@
   }
  },
  "college": {
+  "air-force": {
+   "label": "Official Air Force store",
+   "url": "https://shop.goairforcefalcons.com/"
+  },
+  "alabama": {
+   "label": "Official Alabama store",
+   "url": "https://shop.rolltide.com/"
+  },
+  "app-state": {
+   "label": "Official App State store",
+   "url": "https://shopappstateathletics.ahcampusstores.com/"
+  },
+  "arizona": {
+   "label": "Official Arizona store",
+   "url": "https://www.beardownshop.com/"
+  },
+  "arizona-state": {
+   "label": "Official Arizona State store",
+   "url": "https://www.bkstr.com/arizonastatestore/thesundevils"
+  },
+  "arkansas": {
+   "label": "Official Arkansas store",
+   "url": "https://shop.arkansasrazorbacks.com/"
+  },
+  "army": {
+   "label": "Official Army store",
+   "url": "https://shop.goarmysports.com/"
+  },
   "auburn": {
    "label": "Official Auburn store",
    "url": "https://shop.auburntigers.com/"
@@ -141,25 +169,117 @@
    "label": "Official Ball State store",
    "url": "https://shop.ballstatesports.com/"
   },
+  "baylor": {
+   "label": "Official Baylor store",
+   "url": "https://www.bkstr.com/baylorstore/baylor-bears"
+  },
+  "boise-state": {
+   "label": "Official Boise State store",
+   "url": "https://shop.broncosports.com/"
+  },
+  "boston-college": {
+   "label": "Official Boston College store",
+   "url": "https://www.bkstr.com/bostoncollegestore/bc-eagles-shop"
+  },
+  "bowling-green": {
+   "label": "Official Bowling Green store",
+   "url": "https://falconoutfitter.com/"
+  },
+  "buffalo": {
+   "label": "Official Buffalo store",
+   "url": "https://shopubbulls.merchorders.com/"
+  },
   "byu": {
    "label": "Official BYU store",
    "url": "https://www.byustore.com/"
+  },
+  "california": {
+   "label": "Official California store",
+   "url": "https://shop.calbears.com/"
   },
   "central-michigan": {
    "label": "Official Central Michigan store",
    "url": "https://www.cmubookstore.com/"
   },
+  "charlotte": {
+   "label": "Official Charlotte store",
+   "url": "https://charlotte49ers.shoptruespirit.com/"
+  },
   "cincinnati": {
    "label": "Official Cincinnati store",
    "url": "https://shop.gobearcats.com/"
+  },
+  "clemson": {
+   "label": "Official Clemson store",
+   "url": "https://shop.clemsontigers.com/"
+  },
+  "coastal-carolina": {
+   "label": "Official Coastal Carolina store",
+   "url": "https://shoptealnation.com/"
+  },
+  "colorado": {
+   "label": "Official Colorado store",
+   "url": "https://shop.cubuffs.com/"
   },
   "colorado-state": {
    "label": "Official Colorado State store",
    "url": "https://shop.csurams.com/"
   },
+  "delaware": {
+   "label": "Official Delaware store",
+   "url": "https://udel.spirit.bncollege.com/"
+  },
+  "duke": {
+   "label": "Official Duke store",
+   "url": "https://shop.duke.edu/"
+  },
+  "east-carolina": {
+   "label": "Official East Carolina store",
+   "url": "https://shop.ecupirates.com/"
+  },
+  "florida": {
+   "label": "Official Florida store",
+   "url": "https://shop.floridagators.com/"
+  },
+  "florida-atlantic": {
+   "label": "Official Florida Atlantic store",
+   "url": "https://shopfausports.com/"
+  },
+  "florida-international": {
+   "label": "Official Florida International store",
+   "url": "https://fiu.shoptruespirit.com/"
+  },
+  "florida-state": {
+   "label": "Official Florida State store",
+   "url": "https://shop.seminoles.com/"
+  },
+  "fresno-state": {
+   "label": "Official Fresno State store",
+   "url": "https://shop.gobulldogs.com/"
+  },
+  "georgia": {
+   "label": "Official Georgia store",
+   "url": "https://shop.georgiadogs.com/"
+  },
+  "georgia-southern": {
+   "label": "Official Georgia Southern store",
+   "url": "https://southernexchangecompany.com/"
+  },
   "georgia-state": {
    "label": "Official Georgia State store",
-   "url": "https://shopgsupanthers.com/"
+   "url": "https://shopgeorgiastatesports.merchorders.com/"
+  },
+  "georgia-tech": {
+   "label": "Official Georgia Tech store",
+   "url": "https://ramblinwreckstore.com/"
+  },
+  "hawai-i": {
+   "label": "Official Hawai'i store",
+   "url": "https://shop.hawaiiathletics.com/"
+  },
+  "houston": {
+   "label": "Official Houston store",
+   "url": "https://www.bkstr.com/houstonstore/houston-cougars-athletics"
   },
   "illinois": {
    "label": "Official Illinois store",
@@ -177,17 +297,69 @@
    "label": "Official Iowa State store",
    "url": "https://www.cyslockerroom.com/"
   },
+  "jacksonville-state": {
+   "label": "Official Jacksonville State store",
+   "url": "https://jsu.shoptruespirit.com/"
+  },
+  "james-madison": {
+   "label": "Official James Madison store",
+   "url": "https://www.bkstr.com/jamesmadisonstore/shop/specialty-shops/sports-shops"
+  },
   "kansas-state": {
    "label": "Official Kansas State store",
    "url": "https://shop.kstatesports.com/"
   },
+  "kennesaw-state": {
+   "label": "Official Kennesaw State store",
+   "url": "https://bookstore.kennesaw.edu/"
+  },
   "kent-state": {
    "label": "Official Kent State store",
-   "url": "https://kentsportswear.com/"
+   "url": "https://www.kentsportswear.com/"
+  },
+  "kentucky": {
+   "label": "Official Kentucky store",
+   "url": "https://www.ukteamshop.com/"
+  },
+  "liberty": {
+   "label": "Official Liberty store",
+   "url": "https://liberty.spirit.bncollege.com/"
+  },
+  "louisiana": {
+   "label": "Official Louisiana store",
+   "url": "https://louisiana.spirit.bncollege.com/"
+  },
+  "louisiana-tech": {
+   "label": "Official Louisiana Tech store",
+   "url": "https://latech.spirit.bncollege.com/"
+  },
+  "louisville": {
+   "label": "Official Louisville store",
+   "url": "https://shop.gocards.com/"
+  },
+  "lsu": {
+   "label": "Official LSU store",
+   "url": "https://www.lsushop.net/"
+  },
+  "marshall": {
+   "label": "Official Marshall store",
+   "url": "https://www.bkstr.com/marshallstore/home"
+  },
+  "maryland": {
+   "label": "Official Maryland store",
+   "url": "https://shop.umterps.com/"
   },
   "massachusetts": {
    "label": "Official Massachusetts store",
    "url": "https://www.umassstore.com/"
+  },
+  "memphis": {
+   "label": "Official Memphis store",
+   "url": "https://memphis.spirit.bncollege.com/"
+  },
+  "miami": {
+   "label": "Official Miami store",
+   "url": "https://www.shopmiamihurricanes.com/"
   },
   "miami-oh": {
    "label": "Official Miami (OH) store",
@@ -197,13 +369,49 @@
    "label": "Official Michigan store",
    "url": "https://mdenshop.com/"
   },
+  "michigan-state": {
+   "label": "Official Michigan State store",
+   "url": "https://shop.msuspartans.com/"
+  },
+  "minnesota": {
+   "label": "Official Minnesota store",
+   "url": "https://shop.gophersports.com/"
+  },
+  "mississippi-state": {
+   "label": "Official Mississippi State store",
+   "url": "https://statestylestore.com/"
+  },
+  "missouri": {
+   "label": "Official Missouri store",
+   "url": "https://shop.mutigers.com/"
+  },
+  "missouri-state": {
+   "label": "Official Missouri State store",
+   "url": "https://shop.missouristatebookstore.com/"
+  },
+  "navy": {
+   "label": "Official Navy store",
+   "url": "https://shop.navysports.com/"
+  },
   "nc-state": {
    "label": "Official NC State store",
    "url": "https://shop.ncsu.edu/"
   },
+  "nebraska": {
+   "label": "Official Nebraska store",
+   "url": "https://shop.huskers.com/"
+  },
   "nevada": {
    "label": "Official Nevada store",
    "url": "https://nevadawolfpackshop.com/"
+  },
+  "new-mexico": {
+   "label": "Official New Mexico store",
+   "url": "https://loboden.bkstr.com/"
+  },
+  "north-carolina": {
+   "label": "Official North Carolina store",
+   "url": "https://shop.goheels.com/"
   },
   "north-dakota-state": {
    "label": "Official North Dakota State store",
@@ -217,13 +425,57 @@
    "label": "Official Northwestern store",
    "url": "https://shop.nusports.com/"
   },
+  "notre-dame": {
+   "label": "Official Notre Dame store",
+   "url": "https://shop.fightingirish.com/"
+  },
   "ohio": {
    "label": "Official Ohio store",
    "url": "https://shop.ohiobobcats.com/"
   },
+  "ohio-state": {
+   "label": "Official Ohio State store",
+   "url": "https://gobuckeyes.com/"
+  },
+  "oklahoma": {
+   "label": "Official Oklahoma store",
+   "url": "https://shop.soonersports.com/"
+  },
+  "oklahoma-state": {
+   "label": "Official Oklahoma State store",
+   "url": "https://shop.okstate.com/"
+  },
   "old-dominion": {
    "label": "Official Old Dominion store",
    "url": "https://shopodusports.merchorders.com/"
+  },
+  "ole-miss": {
+   "label": "Official Ole Miss store",
+   "url": "https://shop.olemisssports.com/"
+  },
+  "oregon": {
+   "label": "Official Oregon store",
+   "url": "https://shop.goducks.com/"
+  },
+  "oregon-state": {
+   "label": "Official Oregon State store",
+   "url": "https://shop.osubeavers.com/"
+  },
+  "penn-state": {
+   "label": "Official Penn State store",
+   "url": "https://shop.gopsusports.com/"
+  },
+  "pittsburgh": {
+   "label": "Official Pittsburgh store",
+   "url": "https://shoppittpanthers.com/"
+  },
+  "purdue": {
+   "label": "Official Purdue store",
+   "url": "https://purdueteamstore.com/"
+  },
+  "rice": {
+   "label": "Official Rice store",
+   "url": "https://www.bkstr.com/riceuniversitystore/riceowls"
   },
   "rutgers": {
    "label": "Official Rutgers store",
@@ -233,13 +485,93 @@
    "label": "Official San Diego State store",
    "url": "https://www.shopaztecs.com/"
   },
+  "san-jose-state": {
+   "label": "Official San José State store",
+   "url": "https://www.bkstr.com/sjsustore/home"
+  },
+  "smu": {
+   "label": "Official SMU store",
+   "url": "https://smuathletics.shoptruespirit.com/"
+  },
+  "south-alabama": {
+   "label": "Official South Alabama store",
+   "url": "https://southalabama.shoptruespirit.com/"
+  },
+  "south-carolina": {
+   "label": "Official South Carolina store",
+   "url": "https://shop.gamecocksonline.com/"
+  },
+  "south-florida": {
+   "label": "Official South Florida store",
+   "url": "https://shop.gousfbulls.com/"
+  },
+  "stanford": {
+   "label": "Official Stanford store",
+   "url": "https://shop.gostanford.com/"
+  },
+  "syracuse": {
+   "label": "Official Syracuse store",
+   "url": "https://shop.cuse.com/"
+  },
+  "tcu": {
+   "label": "Official TCU store",
+   "url": "https://www.bkstr.com/tcustore/horned-frogs"
+  },
+  "temple": {
+   "label": "Official Temple store",
+   "url": "https://www.bkstr.com/templestore/shop/clothing-accessories"
+  },
+  "tennessee": {
+   "label": "Official Tennessee store",
+   "url": "https://shop.utsports.com/"
+  },
+  "texas": {
+   "label": "Official Texas store",
+   "url": "https://shop.texaslonghorns.com/"
+  },
+  "texas-tech": {
+   "label": "Official Texas Tech store",
+   "url": "https://shop.texastech.com/"
+  },
+  "toledo": {
+   "label": "Official Toledo store",
+   "url": "https://utrockyslocker.shoptruespirit.com/"
+  },
+  "troy": {
+   "label": "Official Troy store",
+   "url": "https://troy.shoptruespirit.com/"
+  },
+  "tulane": {
+   "label": "Official Tulane store",
+   "url": "https://tulane.spirit.bncollege.com/"
+  },
   "tulsa": {
    "label": "Official Tulsa store",
    "url": "https://shopgoldenhurricane.com/"
   },
+  "uab": {
+   "label": "Official UAB store",
+   "url": "https://uab.shoptruespirit.com/"
+  },
+  "ucf": {
+   "label": "Official UCF store",
+   "url": "https://shop.ucfknights.com/"
+  },
+  "ucla": {
+   "label": "Official UCLA store",
+   "url": "https://shop.uclabruins.com/"
+  },
   "uconn": {
    "label": "Official UConn store",
    "url": "https://shop.uconnhuskies.com/"
+  },
+  "unlv": {
+   "label": "Official UNLV store",
+   "url": "https://unlv.spirit.bncollege.com/"
+  },
+  "usc": {
+   "label": "Official USC store",
+   "url": "https://shop.usctrojans.com/"
   },
   "utah": {
    "label": "Official Utah store",
@@ -252,6 +584,46 @@
   "utsa": {
    "label": "Official UTSA store",
    "url": "https://utsagear.merchorders.com/"
+  },
+  "vanderbilt": {
+   "label": "Official Vanderbilt store",
+   "url": "https://shop.vucommodores.com/"
+  },
+  "virginia": {
+   "label": "Official Virginia store",
+   "url": "https://shop.virginiasports.com/"
+  },
+  "virginia-tech": {
+   "label": "Official Virginia Tech store",
+   "url": "https://shop.hokiesports.com/"
+  },
+  "wake-forest": {
+   "label": "Official Wake Forest store",
+   "url": "https://wakeforestshop.com/"
+  },
+  "washington": {
+   "label": "Official Washington store",
+   "url": "https://shop.gohuskies.com/"
+  },
+  "washington-state": {
+   "label": "Official Washington State store",
+   "url": "https://shop.wsucougars.com/"
+  },
+  "west-virginia": {
+   "label": "Official West Virginia store",
+   "url": "https://www.shopwvu.com/"
+  },
+  "western-michigan": {
+   "label": "Official Western Michigan store",
+   "url": "https://shopwmubroncos.com/"
+  },
+  "wisconsin": {
+   "label": "Official Wisconsin store",
+   "url": "https://www.buckyslockerroom.com/"
+  },
+  "wyoming": {
+   "label": "Official Wyoming store",
+   "url": "https://shop.gowyo.com/"
   }
  }
 }
