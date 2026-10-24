@@ -4125,6 +4125,40 @@
   },
   {
    "game_id": "401858270",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "California",
+       "label": "Share as a California fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/california-at-smu__fanatic__california.png",
+       "caption": "Kelcher was a two-time first-team All-Pro, and Courtland Sutton is busy in Denver. Send this to the SMU fan who thinks Dallas is the center of college football: https://www.thecoverwindow.com/college/fanatic/california-at-smu"
+      },
+      {
+       "team": "SMU",
+       "label": "Share as an SMU fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/california-at-smu__fanatic__smu.png",
+       "caption": "Hardy Nickerson won the 1997 Whizzer White Award, and he is not walking out of Berkeley for this trip. Send this to the Cal fan who says \"Go Bears\" in a library voice: https://www.thecoverwindow.com/college/fanatic/california-at-smu"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "California",
+       "label": "Share as a California fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/california-at-smu__gambler__california.png",
+       "caption": "Our final says SMU 35, Cal 18, but Cole Beasley is not walking back onto the Hilltop. Bears fans, it is a long flight home either way: https://www.thecoverwindow.com/college/gambler/california-at-smu"
+      },
+      {
+       "team": "SMU",
+       "label": "Share as an SMU fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/california-at-smu__gambler__smu.png",
+       "caption": "Our final: SMU 35, Cal 18. Bartkowski was a 1974 consensus All-American, and he is not throwing for the Bears in Dallas: https://www.thecoverwindow.com/college/gambler/california-at-smu"
+      }
+     ]
+    }
+   },
    "matchup": "California at No. 23 SMU",
    "away": {
     "team": "California",
@@ -4394,6 +4428,40 @@
   },
   {
    "game_id": "401856728",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "LSU",
+       "label": "Share as an LSU fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/lsu-at-auburn__fanatic__lsu.png",
+       "caption": "Auburn's last national title was January 2011, and Bo is not walking through that door, even if Bo knows the way. Send this to the Auburn fan already yelling \"War Eagle\" at the TV: https://www.thecoverwindow.com/college/fanatic/lsu-at-auburn"
+      },
+      {
+       "team": "Auburn",
+       "label": "Share as an Auburn fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/lsu-at-auburn__fanatic__auburn.png",
+       "caption": "LSU's last national title was January 2020, and Jefferson and Edwards-Helaire are not walking into Jordan-Hare to defend it. Send this to the Tigers fan from the other Tigers: https://www.thecoverwindow.com/college/fanatic/lsu-at-auburn"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "LSU",
+       "label": "Share as an LSU fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/lsu-at-auburn__gambler__lsu.png",
+       "caption": "Our final: LSU 28, Auburn 22. The Kick Six was November 30, 2013, and Chris Davis is not fielding any missed field goals on the Plains: https://www.thecoverwindow.com/college/gambler/lsu-at-auburn"
+      },
+      {
+       "team": "Auburn",
+       "label": "Share as an Auburn fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/lsu-at-auburn__gambler__auburn.png",
+       "caption": "Our final says LSU 28, Auburn 22, but Stingley and Jamal Adams are not in that LSU secondary anymore. Six points is a lot less scary without them, Auburn: https://www.thecoverwindow.com/college/gambler/lsu-at-auburn"
+      }
+     ]
+    }
+   },
    "matchup": "No. 18 LSU at Auburn",
    "away": {
     "team": "LSU",
@@ -4638,6 +4706,40 @@
   },
   {
    "game_id": "401858496",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Indiana",
+       "label": "Share as an Indiana fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/indiana-at-michigan__fanatic__indiana.png",
+       "caption": "Desmond Howard won the Heisman in 1991, and the pose is not walking through that door either. Send this to the Michigan fan who still does it at weddings: https://www.thecoverwindow.com/college/fanatic/indiana-at-michigan"
+      },
+      {
+       "team": "Michigan",
+       "label": "Share as a Michigan fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/indiana-at-michigan__fanatic__michigan.png",
+       "caption": "Mendoza went No. 1 to the Raiders in April, and Randle El's highlight tape is not suiting up either. Send this to the Hoosier who got used to winning very fast: https://www.thecoverwindow.com/college/fanatic/indiana-at-michigan"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Indiana",
+       "label": "Share as an Indiana fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/indiana-at-michigan__gambler__indiana.png",
+       "caption": "Our final: Indiana 28, Michigan 16, and Hutchinson, the 2021 Heisman runner-up, is not rushing the passer in Ann Arbor. Hoosiers, it is fine to say that sentence out loud now: https://www.thecoverwindow.com/college/gambler/indiana-at-michigan"
+      },
+      {
+       "team": "Michigan",
+       "label": "Share as a Michigan fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/indiana-at-michigan__gambler__michigan.png",
+       "caption": "Coleman ran for 2,036 yards in 2014 and is not taking a carry in Ann Arbor. Our final still says Indiana 28, Michigan 16, so Michigan fans can forward this angrily: https://www.thecoverwindow.com/college/gambler/indiana-at-michigan"
+      }
+     ]
+    }
+   },
    "matchup": "No. 6 Indiana at Michigan",
    "away": {
     "team": "Indiana",
@@ -4925,6 +5027,40 @@
   },
   {
    "game_id": "401856840",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Texas Tech",
+       "label": "Share as a Texas Tech fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/texas-tech-at-cincinnati__fanatic__texas-tech.png",
+       "caption": "Trent Cole made two Pro Bowls, and Desmond Ridder is not walking back into Nippert. Send this to the Bearcats fan who puts Skyline on everything: https://www.thecoverwindow.com/college/fanatic/texas-tech-at-cincinnati"
+      },
+      {
+       "team": "Cincinnati",
+       "label": "Share as a Cincinnati fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/texas-tech-at-cincinnati__fanatic__cincinnati.png",
+       "caption": "Jace Amaro went in round 2 of the 2014 draft, and Jakeem Grant is not returning kicks in Cincinnati. Send this to the Red Raiders fan who throws tortillas at everything: https://www.thecoverwindow.com/college/fanatic/texas-tech-at-cincinnati"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Texas Tech",
+       "label": "Share as a Texas Tech fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/texas-tech-at-cincinnati__gambler__texas-tech.png",
+       "caption": "Our final says Texas Tech 34, Cincinnati 23, and Kevin Huber is not punting Cincinnati out of trouble. Bearcats fans, eleven points is a lot of punts: https://www.thecoverwindow.com/college/gambler/texas-tech-at-cincinnati"
+      },
+      {
+       "team": "Cincinnati",
+       "label": "Share as a Cincinnati fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/texas-tech-at-cincinnati__gambler__cincinnati.png",
+       "caption": "Our final: Texas Tech 34, Cincinnati 23. B.J. Symons won the 2003 Sammy Baugh Trophy, and he is not airing it out at Nippert: https://www.thecoverwindow.com/college/gambler/texas-tech-at-cincinnati"
+      }
+     ]
+    }
+   },
    "matchup": "No. 8 Texas Tech at Cincinnati",
    "away": {
     "team": "Texas Tech",
@@ -5212,6 +5348,40 @@
   },
   {
    "game_id": "401858274",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Pittsburgh",
+       "label": "Share as a Pittsburgh fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/pittsburgh-at-miami__fanatic__pittsburgh.png",
+       "caption": "David Njoku went 29th in 2017, and Lamar Miller is not taking a handoff for the Hurricanes. Send this to the Miami fan who still throws up the U with both hands: https://www.thecoverwindow.com/college/fanatic/pittsburgh-at-miami"
+      },
+      {
+       "team": "Miami",
+       "label": "Share as a Miami fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/pittsburgh-at-miami__fanatic__miami.png",
+       "caption": "Aaron Donald was Defensive Player of the Year three times, and he is not walking into Miami in a Pitt helmet. Send this to the Hurricanes fan who acts like Marino played for them: https://www.thecoverwindow.com/college/fanatic/pittsburgh-at-miami"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Pittsburgh",
+       "label": "Share as a Pittsburgh fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/pittsburgh-at-miami__gambler__pittsburgh.png",
+       "caption": "Our final says Miami 37, Pitt 19, but Phillip Dorsett and Duke Johnson are not walking back into Hard Rock. Panthers fans, at least the weather is nice: https://www.thecoverwindow.com/college/gambler/pittsburgh-at-miami"
+      },
+      {
+       "team": "Miami",
+       "label": "Share as a Miami fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/pittsburgh-at-miami__gambler__miami.png",
+       "caption": "Our final: Miami 37, Pitt 19. Pitt retired Jim Covert's No. 75, and Russ Grimm is not walking in to block for anybody: https://www.thecoverwindow.com/college/gambler/pittsburgh-at-miami"
+      }
+     ]
+    }
+   },
    "matchup": "Pittsburgh at No. 1 Miami",
    "away": {
     "team": "Pittsburgh",
@@ -5499,6 +5669,40 @@
   },
   {
    "game_id": "401862809",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Rice",
+       "label": "Share as a Rice fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/rice-at-florida-atlantic__fanatic__rice.png",
+       "caption": "Harrison Bryant won the 2019 Mackey Award, and Hendrickson is busy chasing NFL quarterbacks. Send this to the FAU fan who still has an Owls beach towel: https://www.thecoverwindow.com/college/fanatic/rice-at-florida-atlantic"
+      },
+      {
+       "team": "Florida Atlantic",
+       "label": "Share as a Florida Atlantic fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/rice-at-florida-atlantic__fanatic__florida-atlantic.png",
+       "caption": "Trevor Cobb was a 1991 consensus All-American, and Chris Boswell is kicking for Pittsburgh, not Rice. Send this to the Rice fan who will correct your grammar in the group chat: https://www.thecoverwindow.com/college/fanatic/rice-at-florida-atlantic"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Rice",
+       "label": "Share as a Rice fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/rice-at-florida-atlantic__gambler__rice.png",
+       "caption": "Our final says Florida Atlantic 33, Rice 24, and Singletary is not walking back into Boca. Rice fans, nine points is a lot of homework, and you would know: https://www.thecoverwindow.com/college/gambler/rice-at-florida-atlantic"
+      },
+      {
+       "team": "Florida Atlantic",
+       "label": "Share as a Florida Atlantic fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/rice-at-florida-atlantic__gambler__florida-atlantic.png",
+       "caption": "Our final: Florida Atlantic 33, Rice 24. Larry Izzo made three Pro Bowls, and he is not covering kicks for Rice in Boca: https://www.thecoverwindow.com/college/gambler/rice-at-florida-atlantic"
+      }
+     ]
+    }
+   },
    "matchup": "Rice at Florida Atlantic",
    "away": {
     "team": "Rice",
@@ -5674,6 +5878,40 @@
   },
   {
    "game_id": "401858498",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Rutgers",
+       "label": "Share as a Rutgers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/rutgers-at-northwestern__fanatic__rutgers.png",
+       "caption": "Steve Tasker was a five-time first-team All-Pro, and Trevor Siemian is not walking back into Evanston. Send this to the Northwestern fan who will mention the acceptance rate before kickoff: https://www.thecoverwindow.com/college/fanatic/rutgers-at-northwestern"
+      },
+      {
+       "team": "Northwestern",
+       "label": "Share as a Northwestern fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/rutgers-at-northwestern__fanatic__northwestern.png",
+       "caption": "Deron Cherry made six Pro Bowls, and Logan Ryan is not walking back to Piscataway. Send this to the Rutgers fan who calls it \"the birthplace of college football\" every chance he gets: https://www.thecoverwindow.com/college/fanatic/rutgers-at-northwestern"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Rutgers",
+       "label": "Share as a Rutgers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/rutgers-at-northwestern__gambler__rutgers.png",
+       "caption": "Our final says Northwestern 37, Rutgers 19, but Rashawn Slater is blocking for the Chargers, not the Wildcats. Rutgers fans, you have survived worse in the Big Ten: https://www.thecoverwindow.com/college/gambler/rutgers-at-northwestern"
+      },
+      {
+       "team": "Northwestern",
+       "label": "Share as a Northwestern fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/rutgers-at-northwestern__gambler__northwestern.png",
+       "caption": "Our final: Northwestern 37, Rutgers 19. Jason McCourty won Super Bowl LIII, and neither McCourty twin is covering anybody for Rutgers: https://www.thecoverwindow.com/college/gambler/rutgers-at-northwestern"
+      }
+     ]
+    }
+   },
    "matchup": "Rutgers at No. 24 Northwestern",
    "away": {
     "team": "Rutgers",
@@ -5928,6 +6166,40 @@
   },
   {
    "game_id": "401856841",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "West Virginia",
+       "label": "Share as a West Virginia fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/west-virginia-at-tcu__fanatic__west-virginia.png",
+       "caption": "Bob Lilly entered the Hall of Fame in 1980, and Tomlinson is not taking a handoff in Fort Worth. Send this to the TCU fan who still has to explain what a Horned Frog is: https://www.thecoverwindow.com/college/fanatic/west-virginia-at-tcu"
+      },
+      {
+       "team": "TCU",
+       "label": "Share as a TCU fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/west-virginia-at-tcu__fanatic__tcu.png",
+       "caption": "Tavon Austin won the 2012 Hornung Award, and he is not returning punts for West Virginia anymore. Send this to the Mountaineers fan who sings \"Country Roads\" at every chance: https://www.thecoverwindow.com/college/fanatic/west-virginia-at-tcu"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "West Virginia",
+       "label": "Share as a West Virginia fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/west-virginia-at-tcu__gambler__west-virginia.png",
+       "caption": "Our final says TCU 34, West Virginia 21, and Jason Verrett is not walking back into that secondary. Mountaineers fans, at least Schobel is not rushing the passer: https://www.thecoverwindow.com/college/gambler/west-virginia-at-tcu"
+      },
+      {
+       "team": "TCU",
+       "label": "Share as a TCU fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/west-virginia-at-tcu__gambler__tcu.png",
+       "caption": "Our final: TCU 34, West Virginia 21. Karl Joseph went 14th in 2016, and he is not walking back into the Mountaineers' secondary: https://www.thecoverwindow.com/college/gambler/west-virginia-at-tcu"
+      }
+     ]
+    }
+   },
    "matchup": "West Virginia at TCU",
    "away": {
     "team": "West Virginia",
@@ -6215,6 +6487,40 @@
   },
   {
    "game_id": "401866450",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Western Michigan",
+       "label": "Share as a Western Michigan fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/western-michigan-at-toledo__fanatic__western-michigan.png",
+       "caption": "Toledo retired Mel Long's No. 77, and nobody is pulling it out for Western Michigan week. Send this to the Rockets fan who says \"Glass City\" with pride: https://www.thecoverwindow.com/college/fanatic/western-michigan-at-toledo"
+      },
+      {
+       "team": "Toledo",
+       "label": "Share as a Toledo fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/western-michigan-at-toledo__fanatic__toledo.png",
+       "caption": "John Offerdahl was the 1986 Defensive Rookie of the Year, and Matt LaFleur is busy in Green Bay. Send this to the Western Michigan fan who still rows the boat: https://www.thecoverwindow.com/college/fanatic/western-michigan-at-toledo"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Western Michigan",
+       "label": "Share as a Western Michigan fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/western-michigan-at-toledo__gambler__western-michigan.png",
+       "caption": "Our final says Toledo 26, Western Michigan 22, but Chuck Ealey and Gradkowski are not walking through that door. Broncos fans, four points is just one more row of the boat: https://www.thecoverwindow.com/college/gambler/western-michigan-at-toledo"
+      },
+      {
+       "team": "Toledo",
+       "label": "Share as a Toledo fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/western-michigan-at-toledo__gambler__toledo.png",
+       "caption": "Our final: Toledo 26, Western Michigan 22. Robert Spillane played at Western Michigan from 2014 to 2017, and he is not walking back into the Glass Bowl: https://www.thecoverwindow.com/college/gambler/western-michigan-at-toledo"
+      }
+     ]
+    }
+   },
    "matchup": "Western Michigan at Toledo",
    "away": {
     "team": "Western Michigan",
@@ -6430,6 +6736,40 @@
   },
   {
    "game_id": "401866446",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Akron",
+       "label": "Share as an Akron fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/akron-at-kent-state__fanatic__akron.png",
+       "caption": "Josh Kline won Super Bowl XLIX, and Roosevelt Nix is not walking back into Kent. Send this to the Golden Flashes fan who treats the Wagon Wheel like a family heirloom: https://www.thecoverwindow.com/college/fanatic/akron-at-kent-state"
+      },
+      {
+       "team": "Kent State",
+       "label": "Share as a Kent State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/akron-at-kent-state__fanatic__kent-state.png",
+       "caption": "Jatavis Brown lasted until round 5 in 2016, and he is not walking back to Akron for this one. Send this to the Zips fan who swears Zippy is the best mascot in the country: https://www.thecoverwindow.com/college/fanatic/akron-at-kent-state"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Akron",
+       "label": "Share as an Akron fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/akron-at-kent-state__gambler__akron.png",
+       "caption": "Our final says Kent State 27, Akron 22, but Dri Archer is not returning kicks for Kent anymore. Zips fans, five points and the Wagon Wheel are right there: https://www.thecoverwindow.com/college/gambler/akron-at-kent-state"
+      },
+      {
+       "team": "Kent State",
+       "label": "Share as a Kent State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/akron-at-kent-state__gambler__kent-state.png",
+       "caption": "Our final: Kent State 27, Akron 22. Dwight Smith went in round 3 of the 2001 draft, and he is not walking back into the Zips' secondary: https://www.thecoverwindow.com/college/gambler/akron-at-kent-state"
+      }
+     ]
+    }
+   },
    "matchup": "Akron at Kent State",
    "away": {
     "team": "Akron",
@@ -6609,6 +6949,40 @@
   },
   {
    "game_id": "401856834",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Baylor",
+       "label": "Share as a Baylor fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/baylor-at-kansas__fanatic__baylor.png",
+       "caption": "McDougald played at Kansas from 2009 to 2012, and he is not walking back into Lawrence. Send this to the Jayhawks fan already counting the days to basketball season: https://www.thecoverwindow.com/college/fanatic/baylor-at-kansas"
+      },
+      {
+       "team": "Kansas",
+       "label": "Share as a Kansas fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/baylor-at-kansas__fanatic__kansas.png",
+       "caption": "Mike Singletary was Defensive Player of the Year in 1985 and 1988, and those eyes are not staring down Kansas. Send this to the Baylor fan who still says \"Sic 'em\" to the waiter: https://www.thecoverwindow.com/college/fanatic/baylor-at-kansas"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Baylor",
+       "label": "Share as a Baylor fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/baylor-at-kansas__gambler__baylor.png",
+       "caption": "Our final says Baylor 27, Kansas 26, and Devin Neal is carrying the ball on Sundays now. One point, Bears fans; somebody hide the remote: https://www.thecoverwindow.com/college/gambler/baylor-at-kansas"
+      },
+      {
+       "team": "Kansas",
+       "label": "Share as a Kansas fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/baylor-at-kansas__gambler__kansas.png",
+       "caption": "Our final: Baylor 27, Kansas 26. Thomas Everett won the 1986 Thorpe Award, and he is not walking into Lawrence to protect a one-point game: https://www.thecoverwindow.com/college/gambler/baylor-at-kansas"
+      }
+     ]
+    }
+   },
    "matchup": "Baylor at Kansas",
    "away": {
     "team": "Baylor",
@@ -6896,6 +7270,40 @@
   },
   {
    "game_id": "401866476",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Miami (OH)",
+       "label": "Share as a Miami (OH) fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/miami-oh-at-central-michigan__fanatic__miami-oh.png",
+       "caption": "Joe Staley made six Pro Bowls, and he is not walking back into Mount Pleasant. Send this to the Chippewas fan who swears Mount Pleasant is a big city: https://www.thecoverwindow.com/college/fanatic/miami-oh-at-central-michigan"
+      },
+      {
+       "team": "Central Michigan",
+       "label": "Share as a Central Michigan fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/miami-oh-at-central-michigan__fanatic__central-michigan.png",
+       "caption": "Sean McVay played at Miami (OH) from 2004 to 2008, and Harbaugh is not walking back to Oxford either. Send this to the RedHawks fan who says \"Cradle of Coaches\" every chance he gets: https://www.thecoverwindow.com/college/fanatic/miami-oh-at-central-michigan"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Miami (OH)",
+       "label": "Share as a Miami (OH) fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/miami-oh-at-central-michigan__gambler__miami-oh.png",
+       "caption": "Our final says Central Michigan 24, Miami (OH) 23, and Cooper Rush is not taking snaps for the Chippewas anymore. One point, RedHawks fans; bring snacks: https://www.thecoverwindow.com/college/gambler/miami-oh-at-central-michigan"
+      },
+      {
+       "team": "Central Michigan",
+       "label": "Share as a Central Michigan fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/miami-oh-at-central-michigan__gambler__central-michigan.png",
+       "caption": "Our final: Central Michigan 24, Miami (OH) 23. Brandon Brooks went in round 3 of the 2012 draft, and Ron Zook is not coaching anybody in Mount Pleasant: https://www.thecoverwindow.com/college/gambler/miami-oh-at-central-michigan"
+      }
+     ]
+    }
+   },
    "matchup": "Miami (OH) at Central Michigan",
    "away": {
     "team": "Miami (OH)",
@@ -7071,6 +7479,40 @@
   },
   {
    "game_id": "401858495",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Oregon",
+       "label": "Share as an Oregon fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/oregon-at-illinois__fanatic__oregon.png",
+       "caption": "Simeon Rice was the 1996 Defensive Rookie of the Year, and Jim Grabowski is not walking back into Champaign. Send this to the Illinois fan who has been to Memorial Stadium in November: https://www.thecoverwindow.com/college/fanatic/oregon-at-illinois"
+      },
+      {
+       "team": "Illinois",
+       "label": "Share as an Illinois fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/oregon-at-illinois__fanatic__illinois.png",
+       "caption": "Justin Herbert made two Pro Bowls, and DeForest Buckner is not walking into Champaign for the Ducks. Send this to the Oregon fan who owns more uniforms than the team does: https://www.thecoverwindow.com/college/fanatic/oregon-at-illinois"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Oregon",
+       "label": "Share as an Oregon fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/oregon-at-illinois__gambler__oregon.png",
+       "caption": "Our final says Oregon 34, Illinois 24, and Mercilus is not walking back into Champaign to chase anybody. Illini fans, ten points and two time zones: https://www.thecoverwindow.com/college/gambler/oregon-at-illinois"
+      },
+      {
+       "team": "Illinois",
+       "label": "Share as an Illinois fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/oregon-at-illinois__gambler__illinois.png",
+       "caption": "Our final: Oregon 34, Illinois 24. Norv Turner won two Super Bowl rings, and Arik Armstead is not walking into Champaign to fix the rest: https://www.thecoverwindow.com/college/gambler/oregon-at-illinois"
+      }
+     ]
+    }
+   },
    "matchup": "Oregon at Illinois",
    "away": {
     "team": "Oregon",
@@ -7358,6 +7800,40 @@
   },
   {
    "game_id": "401858273",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Boston College",
+       "label": "Share as a Boston College fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/boston-college-at-georgia-tech__fanatic__boston-college.png",
+       "caption": "Durant Brooks won the 2007 Ray Guy Award, and he is not punting anybody out of trouble in Atlanta. Send this to the Yellow Jackets fan who still calls it \"the Flats\": https://www.thecoverwindow.com/college/fanatic/boston-college-at-georgia-tech"
+      },
+      {
+       "team": "Georgia Tech",
+       "label": "Share as a Georgia Tech fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/boston-college-at-georgia-tech__fanatic__georgia-tech.png",
+       "caption": "Matt Ryan was the 2016 NFL MVP, and he is not walking out for Boston College this time. Send this to the BC fan who brings up Flutie every November: https://www.thecoverwindow.com/college/fanatic/boston-college-at-georgia-tech"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Boston College",
+       "label": "Share as a Boston College fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/boston-college-at-georgia-tech__gambler__boston-college.png",
+       "caption": "Our final says Georgia Tech 28, Boston College 21, and Attaochu is not walking back onto the Flats. Eagles fans, seven points is one Flutie-style miracle away: https://www.thecoverwindow.com/college/gambler/boston-college-at-georgia-tech"
+      },
+      {
+       "team": "Georgia Tech",
+       "label": "Share as a Georgia Tech fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/boston-college-at-georgia-tech__gambler__georgia-tech.png",
+       "caption": "Our final: Georgia Tech 28, Boston College 21. Andre Williams was a 2013 unanimous All-American, and he is not carrying the ball for BC in Atlanta: https://www.thecoverwindow.com/college/gambler/boston-college-at-georgia-tech"
+      }
+     ]
+    }
+   },
    "matchup": "Boston College at Georgia Tech",
    "away": {
     "team": "Boston College",
@@ -7620,6 +8096,40 @@
   },
   {
    "game_id": "401866448",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Bowling Green",
+       "label": "Share as a Bowling Green fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/bowling-green-at-buffalo__fanatic__bowling-green.png",
+       "caption": "Branden Oliver played at Buffalo from 2009 to 2013, and he is not walking back onto the Bulls' sideline. Send this to the Buffalo fan who thinks snow is a home-field advantage: https://www.thecoverwindow.com/college/fanatic/bowling-green-at-buffalo"
+      },
+      {
+       "team": "Buffalo",
+       "label": "Share as a Buffalo fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/bowling-green-at-buffalo__fanatic__buffalo.png",
+       "caption": "Harold Fannin Jr. was a 2024 consensus All-American, and he is catching passes in Cleveland now, not Bowling Green. Send this to the Falcons fan who knows exactly which shade of orange is correct: https://www.thecoverwindow.com/college/fanatic/bowling-green-at-buffalo"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Bowling Green",
+       "label": "Share as a Bowling Green fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/bowling-green-at-buffalo__gambler__bowling-green.png",
+       "caption": "Our final says Buffalo 27, Bowling Green 20, but Jaret Patterson is not carrying the ball for the Bulls anymore. Falcons fans, seven points with no Patterson feels manageable: https://www.thecoverwindow.com/college/gambler/bowling-green-at-buffalo"
+      },
+      {
+       "team": "Buffalo",
+       "label": "Share as a Buffalo fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/bowling-green-at-buffalo__gambler__buffalo.png",
+       "caption": "Our final: Buffalo 27, Bowling Green 20. Scotty Miller won Super Bowl LV, and Shaun Suisham is not kicking for the Falcons in Buffalo: https://www.thecoverwindow.com/college/gambler/bowling-green-at-buffalo"
+      }
+     ]
+    }
+   },
    "matchup": "Bowling Green at Buffalo",
    "away": {
     "team": "Bowling Green",
@@ -7835,6 +8345,40 @@
   },
   {
    "game_id": "401864526",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Hawai'i",
+       "label": "Share as a Hawai'i fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/hawaii-at-northern-illinois__fanatic__hawaii.png",
+       "caption": "Michael Turner made two Pro Bowls, and Jordan Lynch is not walking back into DeKalb. Send this to the Huskies fan who thinks Illinois in late October is beach weather: https://www.thecoverwindow.com/college/fanatic/hawaii-at-northern-illinois"
+      },
+      {
+       "team": "Northern Illinois",
+       "label": "Share as a Northern Illinois fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/hawaii-at-northern-illinois__fanatic__northern-illinois.png",
+       "caption": "Matsuzawa was a 2025 consensus All-American, and McBriar is not punting anybody out of trouble in DeKalb. Send this to the Rainbow Warriors fan who flew a very long way for this: https://www.thecoverwindow.com/college/fanatic/hawaii-at-northern-illinois"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Hawai'i",
+       "label": "Share as a Hawai'i fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/hawaii-at-northern-illinois__gambler__hawaii.png",
+       "caption": "Our final says Hawai'i 23, Northern Illinois 21, and Harnish is not walking back into DeKalb to change it. Huskies fans, two points, and we flew a very long way for them: https://www.thecoverwindow.com/college/gambler/hawaii-at-northern-illinois"
+      },
+      {
+       "team": "Northern Illinois",
+       "label": "Share as a Northern Illinois fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/hawaii-at-northern-illinois__gambler__northern-illinois.png",
+       "caption": "Our final: Hawai'i 23, Northern Illinois 21. Marcus Kemp won two Super Bowl rings, and John Ursua is not catching anything in DeKalb: https://www.thecoverwindow.com/college/gambler/hawaii-at-northern-illinois"
+      }
+     ]
+    }
+   },
    "matchup": "Hawai'i at Northern Illinois",
    "away": {
     "team": "Hawai'i",
@@ -8017,6 +8561,40 @@
   },
   {
    "game_id": "401858499",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Michigan State",
+       "label": "Share as a Michigan State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/michigan-state-at-ucla__fanatic__michigan-state.png",
+       "caption": "Fairbairn won the 2015 Lou Groza Award, and Josh Rosen is not walking back into the Rose Bowl. Send this to the Bruins fan who parks three miles away and complains about it: https://www.thecoverwindow.com/college/fanatic/michigan-state-at-ucla"
+      },
+      {
+       "team": "UCLA",
+       "label": "Share as a UCLA fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/michigan-state-at-ucla__fanatic__ucla.png",
+       "caption": "Jack Conklin was a two-time first-team All-Pro, and he is not walking into the Rose Bowl for Michigan State. Send this to the Spartans fan who flew west for the weather: https://www.thecoverwindow.com/college/fanatic/michigan-state-at-ucla"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Michigan State",
+       "label": "Share as a Michigan State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/michigan-state-at-ucla__gambler__michigan-state.png",
+       "caption": "Our final says UCLA 32, Michigan State 17, but Kenny Clark is not walking back into the Rose Bowl to plug the middle. Spartans fans, fifteen points and a sunburn: https://www.thecoverwindow.com/college/gambler/michigan-state-at-ucla"
+      },
+      {
+       "team": "UCLA",
+       "label": "Share as a UCLA fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/michigan-state-at-ucla__gambler__ucla.png",
+       "caption": "Our final: UCLA 32, Michigan State 17. Trae Waynes went 11th in 2015, and Connor Cook is not throwing anything in Pasadena: https://www.thecoverwindow.com/college/gambler/michigan-state-at-ucla"
+      }
+     ]
+    }
+   },
    "matchup": "Michigan State at No. 9 UCLA",
    "away": {
     "team": "Michigan State",
@@ -8304,6 +8882,40 @@
   },
   {
    "game_id": "401856731",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Tennessee",
+       "label": "Share as a Tennessee fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/tennessee-at-south-carolina__fanatic__tennessee.png",
+       "caption": "Swearinger went in round 2 of the 2013 draft, and Pharoh Cooper is not walking back into Williams-Brice. Send this to the Gamecocks fan who still plays \"Sandstorm\" in the car: https://www.thecoverwindow.com/college/fanatic/tennessee-at-south-carolina"
+      },
+      {
+       "team": "South Carolina",
+       "label": "Share as a South Carolina fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/tennessee-at-south-carolina__fanatic__south-carolina.png",
+       "caption": "Al Wilson was a 1998 consensus All-American, and he is not walking into Columbia in orange. Send this to the Vols fan who has been singing \"Rocky Top\" since breakfast: https://www.thecoverwindow.com/college/fanatic/tennessee-at-south-carolina"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Tennessee",
+       "label": "Share as a Tennessee fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/tennessee-at-south-carolina__gambler__tennessee.png",
+       "caption": "Our final says Tennessee 29, South Carolina 27, and Connor Shaw is not walking back into Williams-Brice to flip it. Two points, Gamecocks fans; Sandstorm can only do so much: https://www.thecoverwindow.com/college/gambler/tennessee-at-south-carolina"
+      },
+      {
+       "team": "South Carolina",
+       "label": "Share as a South Carolina fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/tennessee-at-south-carolina__gambler__south-carolina.png",
+       "caption": "Our final: Tennessee 29, South Carolina 27. Shaun Ellis made two Pro Bowls, and Derek Barnett is not chasing anybody in Columbia: https://www.thecoverwindow.com/college/gambler/tennessee-at-south-carolina"
+      }
+     ]
+    }
+   },
    "matchup": "No. 11 Tennessee at South Carolina",
    "away": {
     "team": "Tennessee",
@@ -8537,6 +9149,40 @@
   },
   {
    "game_id": "401858497",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Iowa",
+       "label": "Share as an Iowa fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/iowa-at-minnesota__fanatic__iowa.png",
+       "caption": "Bobby Bell entered the Hall of Fame in 1983, and he is not walking back into Minneapolis for this one. Send this to the Gophers fan who has opinions about a bronze pig: https://www.thecoverwindow.com/college/fanatic/iowa-at-minnesota"
+      },
+      {
+       "team": "Minnesota",
+       "label": "Share as a Minnesota fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/iowa-at-minnesota__fanatic__minnesota.png",
+       "caption": "Andre Tippett was the 1985 NEA Defensive Player of the Year, and George Kittle is busy in San Francisco. Send this to the Hawkeyes fan who thinks the pig belongs in Iowa City: https://www.thecoverwindow.com/college/fanatic/iowa-at-minnesota"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Iowa",
+       "label": "Share as an Iowa fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/iowa-at-minnesota__gambler__iowa.png",
+       "caption": "Our final says Iowa 29, Minnesota 18, and Winfield is busy in Tampa. Gophers fans, Floyd is watching: https://www.thecoverwindow.com/college/gambler/iowa-at-minnesota"
+      },
+      {
+       "team": "Minnesota",
+       "label": "Share as a Minnesota fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/iowa-at-minnesota__gambler__minnesota.png",
+       "caption": "Our final: Iowa 29, Minnesota 18. Scherff won the 2014 Outland Trophy, and he is not blocking for the Hawkeyes in Minneapolis: https://www.thecoverwindow.com/college/gambler/iowa-at-minnesota"
+      }
+     ]
+    }
+   },
    "matchup": "No. 15 Iowa at Minnesota",
    "away": {
     "team": "Iowa",
@@ -8788,6 +9434,40 @@
   },
   {
    "game_id": "401856835",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "BYU",
+       "label": "Share as a BYU fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/byu-at-ucf__fanatic__byu.png",
+       "caption": "Asante Samuel won two Super Bowl rings, and Blake Bortles is not walking back into Orlando. Send this to the UCF fan who still counts the 2017 season as a national title: https://www.thecoverwindow.com/college/fanatic/byu-at-ucf"
+      },
+      {
+       "team": "UCF",
+       "label": "Share as a UCF fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/byu-at-ucf__fanatic__ucf.png",
+       "caption": "Fred Warner was a four-time first-team All-Pro, and he is busy in San Francisco, not Orlando. Send this to the BYU fan who is still undefeated in the group chat: https://www.thecoverwindow.com/college/fanatic/byu-at-ucf"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "BYU",
+       "label": "Share as a BYU fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/byu-at-ucf__gambler__byu.png",
+       "caption": "Our final says BYU 28, UCF 21, and Latavius Murray is not taking a handoff in the Bounce House. Knights fans, seven points is one good bounce: https://www.thecoverwindow.com/college/gambler/byu-at-ucf"
+      },
+      {
+       "team": "UCF",
+       "label": "Share as a UCF fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/byu-at-ucf__gambler__ucf.png",
+       "caption": "Our final: BYU 28, UCF 21. BYU retired Marc Wilson's No. 6, and Bart Oates is not walking into the Bounce House to snap for anybody: https://www.thecoverwindow.com/college/gambler/byu-at-ucf"
+      }
+     ]
+    }
+   },
    "matchup": "No. 2 BYU at UCF",
    "away": {
     "team": "BYU",
@@ -9075,6 +9755,40 @@
   },
   {
    "game_id": "401862810",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "North Texas",
+       "label": "Share as a North Texas fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/north-texas-at-navy__fanatic__north-texas.png",
+       "caption": "Reifsnyder won the 1957 Maxwell Award, and Malcolm Perry is not running the option in Annapolis. Send this to the Navy fan who already sang the alma mater twice: https://www.thecoverwindow.com/college/fanatic/north-texas-at-navy"
+      },
+      {
+       "team": "Navy",
+       "label": "Share as a Navy fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/north-texas-at-navy__fanatic__navy.png",
+       "caption": "Brian Waters was the 2009 Walter Payton Man of the Year, and Jeff Wilson Jr. is not running through Annapolis. Send this to the Mean Green fan who is still explaining the color: https://www.thecoverwindow.com/college/fanatic/north-texas-at-navy"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "North Texas",
+       "label": "Share as a North Texas fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/north-texas-at-navy__gambler__north-texas.png",
+       "caption": "Our final says North Texas 34, Navy 30, and Keenan Reynolds is not walking out of the tunnel to flip it. Midshipmen fans, four points is one long drive: https://www.thecoverwindow.com/college/gambler/north-texas-at-navy"
+      },
+      {
+       "team": "Navy",
+       "label": "Share as a Navy fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/north-texas-at-navy__gambler__navy.png",
+       "caption": "Our final: North Texas 34, Navy 30. John Thomas Smith made two Pro Bowls, and he is not walking into Annapolis for the Mean Green: https://www.thecoverwindow.com/college/gambler/north-texas-at-navy"
+      }
+     ]
+    }
+   },
    "matchup": "North Texas at Navy",
    "away": {
     "team": "North Texas",
@@ -9265,6 +9979,40 @@
   },
   {
    "game_id": "401856730",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Oklahoma",
+       "label": "Share as an Oklahoma fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/oklahoma-at-mississippi-state__fanatic__oklahoma.png",
+       "caption": "Emmanuel Forbes was a 2022 consensus All-American, and Benardrick McKinney is not walking back into Starkville. Send this to the Bulldogs fan who brought a cowbell to dinner: https://www.thecoverwindow.com/college/fanatic/oklahoma-at-mississippi-state"
+      },
+      {
+       "team": "Mississippi State",
+       "label": "Share as a Mississippi State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/oklahoma-at-mississippi-state__fanatic__mississippi-state.png",
+       "caption": "Mark Andrews won the 2017 Mackey Award, and CeeDee Lamb is busy in Dallas. Send this to the Sooners fan with \"Boomer Sooner\" as a ringtone: https://www.thecoverwindow.com/college/fanatic/oklahoma-at-mississippi-state"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Oklahoma",
+       "label": "Share as an Oklahoma fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/oklahoma-at-mississippi-state__gambler__oklahoma.png",
+       "caption": "Our final says Oklahoma 25, Mississippi State 24, and Walt Harris is not walking back into Starkville to change it. One point, Bulldogs fans; ring those cowbells: https://www.thecoverwindow.com/college/gambler/oklahoma-at-mississippi-state"
+      },
+      {
+       "team": "Mississippi State",
+       "label": "Share as a Mississippi State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/oklahoma-at-mississippi-state__gambler__mississippi-state.png",
+       "caption": "Our final: Oklahoma 25, Mississippi State 24. Creed Humphrey and Orlando Brown Jr. are not blocking for the Sooners in Starkville, so that one point is fragile: https://www.thecoverwindow.com/college/gambler/oklahoma-at-mississippi-state"
+      }
+     ]
+    }
+   },
    "matchup": "Oklahoma at Mississippi State",
    "away": {
     "team": "Oklahoma",
@@ -9465,6 +10213,40 @@
   },
   {
    "game_id": "401866447",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Sacramento State",
+       "label": "Share as a Sacramento State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/sacramento-state-at-ball-state__fanatic__sacramento-state.png",
+       "caption": "Blaine Bishop and MiQuale Lewis are not walking back into Muncie, and the Hornets are thrilled about it. Send this to the Ball State fan still getting used to a MAC team from California: https://www.thecoverwindow.com/college/fanatic/sacramento-state-at-ball-state"
+      },
+      {
+       "team": "Ball State",
+       "label": "Share as a Ball State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/sacramento-state-at-ball-state__fanatic__ball-state.png",
+       "caption": "Todd Davis won Super Bowl 50, and Ricky Ray is not walking out of Sacramento to save anybody. Send this to the Hornets fan who just found Muncie on a map: https://www.thecoverwindow.com/college/fanatic/sacramento-state-at-ball-state"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Sacramento State",
+       "label": "Share as a Sacramento State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/sacramento-state-at-ball-state__gambler__sacramento-state.png",
+       "caption": "Our final says Ball State 32, Sacramento State 22, and Brad Maynard is not punting Ball State out of trouble. Hornets fans, ten points in your first MAC season is still a story: https://www.thecoverwindow.com/college/gambler/sacramento-state-at-ball-state"
+      },
+      {
+       "team": "Ball State",
+       "label": "Share as a Ball State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/sacramento-state-at-ball-state__gambler__ball-state.png",
+       "caption": "Our final: Ball State 32, Sacramento State 22. John Gesek lasted until round 10 in 1987, and Aaron Garcia is not throwing for the Hornets in Muncie: https://www.thecoverwindow.com/college/gambler/sacramento-state-at-ball-state"
+      }
+     ]
+    }
+   },
    "matchup": "Sacramento State at Ball State",
    "away": {
     "team": "Sacramento State",
@@ -9665,6 +10447,40 @@
   },
   {
    "game_id": "401856727",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Texas A&M",
+       "label": "Share as a Texas A&M fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/texas-a-and-m-at-alabama__fanatic__texas-a-and-m.png",
+       "caption": "Saban is on ESPN's College GameDay now, so the scariest thing in Tuscaloosa is a desk. Send this to the Bama fan still waiting for the Process to come back: https://www.thecoverwindow.com/college/fanatic/texas-a-and-m-at-alabama"
+      },
+      {
+       "team": "Alabama",
+       "label": "Share as an Alabama fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/texas-a-and-m-at-alabama__fanatic__alabama.png",
+       "caption": "R.C. Slocum won 123 games at A&M, and he is not pacing the sideline in Tuscaloosa. Send this to the Aggie who keeps saying \"this is the year\": https://www.thecoverwindow.com/college/fanatic/texas-a-and-m-at-alabama"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Texas A&M",
+       "label": "Share as a Texas A&M fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/texas-a-and-m-at-alabama__gambler__texas-a-and-m.png",
+       "caption": "Our final is Alabama 32, Texas A&M 20, but DeVonta Smith won the 2020 Heisman and is not running routes for anybody in crimson. Aggies, twelve points feels smaller without him: https://www.thecoverwindow.com/college/gambler/texas-a-and-m-at-alabama"
+      },
+      {
+       "team": "Alabama",
+       "label": "Share as an Alabama fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/texas-a-and-m-at-alabama__gambler__alabama.png",
+       "caption": "Our final: Alabama 32, Texas A&M 20. A&M has never played in an SEC title game, and Tannehill and Mike Evans are not walking in to fix that: https://www.thecoverwindow.com/college/gambler/texas-a-and-m-at-alabama"
+      }
+     ]
+    }
+   },
    "matchup": "Texas A&M at No. 13 Alabama",
    "away": {
     "team": "Texas A&M",
@@ -9934,6 +10750,40 @@
   },
   {
    "game_id": "401856839",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Kansas State",
+       "label": "Share as a Kansas State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/kansas-state-at-arizona-state__fanatic__kansas-state.png",
+       "caption": "Zane Gonzalez won the 2016 Lou Groza Award, and Will Sutton is not walking back into Tempe. Send this to the Sun Devils fan who swears it is a dry heat: https://www.thecoverwindow.com/college/fanatic/kansas-state-at-arizona-state"
+      },
+      {
+       "team": "Arizona State",
+       "label": "Share as an Arizona State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/kansas-state-at-arizona-state__fanatic__arizona-state.png",
+       "caption": "Terence Newman was a 2002 unanimous All-American, and Michael Bishop is not walking out of Manhattan for this one. Send this to the Wildcats fan who keeps reminding you it is Manhattan, Kansas: https://www.thecoverwindow.com/college/fanatic/kansas-state-at-arizona-state"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Kansas State",
+       "label": "Share as a Kansas State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/kansas-state-at-arizona-state__gambler__kansas-state.png",
+       "caption": "Our final says Kansas State 32, Arizona State 27, and Damarious Randall is not walking back into the Sun Devils' secondary. Five points, Tempe; it is a dry heat: https://www.thecoverwindow.com/college/gambler/kansas-state-at-arizona-state"
+      },
+      {
+       "team": "Arizona State",
+       "label": "Share as an Arizona State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/kansas-state-at-arizona-state__gambler__arizona-state.png",
+       "caption": "Our final: Kansas State 32, Arizona State 27. Gramatica won Super Bowl XXXVII, and he is not kicking for the Wildcats in Tempe: https://www.thecoverwindow.com/college/gambler/kansas-state-at-arizona-state"
+      }
+     ]
+    }
+   },
    "matchup": "Kansas State at Arizona State",
    "away": {
     "team": "Kansas State",
@@ -10196,6 +11046,40 @@
   },
   {
    "game_id": "401866449",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Eastern Michigan",
+       "label": "Share as an Eastern Michigan fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/eastern-michigan-at-ohio__fanatic__eastern-michigan.png",
+       "caption": "Mike Mitchell went in round 2 of the 2009 draft, and T.J. Carrie is not walking back into Athens. Send this to the Bobcats fan who thinks Court Street is the best block in America: https://www.thecoverwindow.com/college/fanatic/eastern-michigan-at-ohio"
+      },
+      {
+       "team": "Ohio",
+       "label": "Share as an Ohio fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/eastern-michigan-at-ohio__fanatic__ohio.png",
+       "caption": "Pat O'Connor won Super Bowl LV, and Andrew Wylie is not blocking for anybody in Athens. Send this to the EMU fan who loves that gray turf a little too much: https://www.thecoverwindow.com/college/fanatic/eastern-michigan-at-ohio"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Eastern Michigan",
+       "label": "Share as an Eastern Michigan fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/eastern-michigan-at-ohio__gambler__eastern-michigan.png",
+       "caption": "Our final says Ohio 32, Eastern Michigan 19, and Dave Zastudil is not punting the Bobcats out of trouble. Eagles fans, thirteen points is a long way from that gray turf: https://www.thecoverwindow.com/college/gambler/eastern-michigan-at-ohio"
+      },
+      {
+       "team": "Ohio",
+       "label": "Share as an Ohio fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/eastern-michigan-at-ohio__gambler__ohio.png",
+       "caption": "Our final: Ohio 32, Eastern Michigan 19. L.J. Shelton went 21st in 1999, and he is not blocking for the Eagles in Athens: https://www.thecoverwindow.com/college/gambler/eastern-michigan-at-ohio"
+      }
+     ]
+    }
+   },
    "matchup": "Eastern Michigan at Ohio",
    "away": {
     "team": "Eastern Michigan",
@@ -10396,6 +11280,40 @@
   },
   {
    "game_id": "401871094",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "UL Monroe",
+       "label": "Share as a UL Monroe fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/ul-monroe-at-troy__fanatic__ul-monroe.png",
+       "caption": "McKelvin went 11th in 2008, and Brandon Silvers is not walking back into Troy. Send this to the Trojans fan who reminds you it is Troy, Alabama: https://www.thecoverwindow.com/college/fanatic/ul-monroe-at-troy"
+      },
+      {
+       "team": "Troy",
+       "label": "Share as a Troy fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/ul-monroe-at-troy__fanatic__troy.png",
+       "caption": "Larry Whigham was a two-time first-team All-Pro, and Marty Booker is not walking back for the Warhawks. Send this to the UL Monroe fan who drove a long way to Troy: https://www.thecoverwindow.com/college/fanatic/ul-monroe-at-troy"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "UL Monroe",
+       "label": "Share as a UL Monroe fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/ul-monroe-at-troy__gambler__ul-monroe.png",
+       "caption": "Our final says Troy 36, UL Monroe 18, and Kimani Vidal is carrying the ball on Sundays, not for Troy. Warhawks fans, we will take this one quietly: https://www.thecoverwindow.com/college/gambler/ul-monroe-at-troy"
+      },
+      {
+       "team": "Troy",
+       "label": "Share as a Troy fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/ul-monroe-at-troy__gambler__troy.png",
+       "caption": "Our final: Troy 36, UL Monroe 18. Trey Caldwell lasted until round 5 in 2016, and Chris Harris is not walking back into the Warhawks' secondary: https://www.thecoverwindow.com/college/gambler/ul-monroe-at-troy"
+      }
+     ]
+    }
+   },
    "matchup": "UL Monroe at Troy",
    "away": {
     "team": "UL Monroe",
@@ -10578,6 +11496,40 @@
   },
   {
    "game_id": "401869967",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Louisiana",
+       "label": "Share as a Louisiana fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/louisiana-at-southern-miss__fanatic__louisiana.png",
+       "caption": "Surtain was a two-time first-team All-Pro, and Hanford Dixon is not walking back into Hattiesburg. Send this to the Golden Eagles fan who yells \"To the top\" at stoplights: https://www.thecoverwindow.com/college/fanatic/louisiana-at-southern-miss"
+      },
+      {
+       "team": "Southern Miss",
+       "label": "Share as a Southern Miss fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/louisiana-at-southern-miss__fanatic__southern-miss.png",
+       "caption": "Almendares won the 2024 Lou Groza Award, and Elijah McGuire is not walking out for the Cajuns. Send this to the Louisiana fan who brings crawfish to every tailgate: https://www.thecoverwindow.com/college/fanatic/louisiana-at-southern-miss"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Louisiana",
+       "label": "Share as a Louisiana fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/louisiana-at-southern-miss__gambler__louisiana.png",
+       "caption": "Our final says Louisiana 31, Southern Miss 22, and Nick Mullens is not walking back into Hattiesburg. Golden Eagles fans, nine points is a lot of Mullens: https://www.thecoverwindow.com/college/gambler/louisiana-at-southern-miss"
+      },
+      {
+       "team": "Southern Miss",
+       "label": "Share as a Southern Miss fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/louisiana-at-southern-miss__gambler__southern-miss.png",
+       "caption": "Our final: Louisiana 31, Southern Miss 22. Elijah Mitchell played at Louisiana from 2017 to 2020, and he is not taking a handoff in Hattiesburg: https://www.thecoverwindow.com/college/gambler/louisiana-at-southern-miss"
+      }
+     ]
+    }
+   },
    "matchup": "Louisiana at Southern Miss",
    "away": {
     "team": "Louisiana",
@@ -10771,6 +11723,40 @@
   },
   {
    "game_id": "401871093",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Old Dominion",
+       "label": "Share as an Old Dominion fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/old-dominion-at-louisiana-tech__fanatic__old-dominion.png",
+       "caption": "Tramon Williams won Super Bowl XLV, and Matt Stover is not kicking for the Bulldogs in Ruston. Send this to the Louisiana Tech fan who calls Ruston paradise: https://www.thecoverwindow.com/college/fanatic/old-dominion-at-louisiana-tech"
+      },
+      {
+       "team": "Louisiana Tech",
+       "label": "Share as a Louisiana Tech fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/old-dominion-at-louisiana-tech__fanatic__louisiana-tech.png",
+       "caption": "Old Dominion retired Taylor Heinicke's No. 14, and nobody is unretiring it for a trip to Ruston. Send this to the Monarchs fan who would still start Heinicke tomorrow: https://www.thecoverwindow.com/college/fanatic/old-dominion-at-louisiana-tech"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Old Dominion",
+       "label": "Share as an Old Dominion fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/old-dominion-at-louisiana-tech__gambler__old-dominion.png",
+       "caption": "Our final says Louisiana Tech 31, Old Dominion 18, but Troy Edwards won the 1998 Biletnikoff and he is not catching passes in Ruston anymore. Monarchs fans, thirteen points without Edwards feels doable: https://www.thecoverwindow.com/college/gambler/old-dominion-at-louisiana-tech"
+      },
+      {
+       "team": "Louisiana Tech",
+       "label": "Share as a Louisiana Tech fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/old-dominion-at-louisiana-tech__gambler__louisiana-tech.png",
+       "caption": "Our final: Louisiana Tech 31, Old Dominion 18. Zach Pascal played at Old Dominion from 2012 to 2016, and Travis Fulgham is not walking into Ruston either: https://www.thecoverwindow.com/college/gambler/old-dominion-at-louisiana-tech"
+      }
+     ]
+    }
+   },
    "matchup": "Old Dominion at Louisiana Tech",
    "away": {
     "team": "Old Dominion",
@@ -10953,6 +11939,40 @@
   },
   {
    "game_id": "401864528",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "San José State",
+       "label": "Share as a San José State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-jose-state-at-nevada__fanatic__san-jose-state.png",
+       "caption": "Nevada retired Frank Hawkins's No. 27, and Cody Fajardo is not walking back into Reno. Send this to the Wolf Pack fan who says \"Battle Born\" before every meal: https://www.thecoverwindow.com/college/fanatic/san-jose-state-at-nevada"
+      },
+      {
+       "team": "Nevada",
+       "label": "Share as a Nevada fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-jose-state-at-nevada__fanatic__nevada.png",
+       "caption": "Gill Byrd made two Pro Bowls, and Bené Benwikere is not walking into Reno for the Spartans. Send this to the San José State fan who drove up I-80 for this: https://www.thecoverwindow.com/college/fanatic/san-jose-state-at-nevada"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "San José State",
+       "label": "Share as a San José State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-jose-state-at-nevada__gambler__san-jose-state.png",
+       "caption": "Our final says Nevada 26, San José State 20, and Carson Strong is not walking back into Mackay Stadium. Spartans fans, six points is one drive: https://www.thecoverwindow.com/college/gambler/san-jose-state-at-nevada"
+      },
+      {
+       "team": "Nevada",
+       "label": "Share as a Nevada fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-jose-state-at-nevada__gambler__nevada.png",
+       "caption": "Our final: Nevada 26, San José State 20. James Jones went in round 3 of the 2007 draft, and Duke Ihenacho is not walking into Reno to change it: https://www.thecoverwindow.com/college/gambler/san-jose-state-at-nevada"
+      }
+     ]
+    }
+   },
    "matchup": "San José State at Nevada",
    "away": {
     "team": "San José State",
@@ -11150,6 +12170,40 @@
   },
   {
    "game_id": "401860907",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Boise State",
+       "label": "Share as a Boise State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/boise-state-at-washington-state__fanatic__boise-state.png",
+       "caption": "Rueben Mayes was the 1986 Offensive Rookie of the Year, and Drew Bledsoe is not walking back into Pullman. Send this to the Cougs fan who swears Pullman is closer to everything than you think: https://www.thecoverwindow.com/college/fanatic/boise-state-at-washington-state"
+      },
+      {
+       "team": "Washington State",
+       "label": "Share as a Washington State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/boise-state-at-washington-state__fanatic__washington-state.png",
+       "caption": "Ashton Jeanty won the 2024 Maxwell Award, and he is busy with the Raiders now. Send this to the Boise State fan who talks about the blue turf like a family member: https://www.thecoverwindow.com/college/fanatic/boise-state-at-washington-state"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Boise State",
+       "label": "Share as a Boise State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/boise-state-at-washington-state__gambler__boise-state.png",
+       "caption": "Our final says Boise State 31, Washington State 20, and Keith Millard is not walking back into Pullman to stop it. Cougs fans, wave the flag anyway: https://www.thecoverwindow.com/college/gambler/boise-state-at-washington-state"
+      },
+      {
+       "team": "Washington State",
+       "label": "Share as a Washington State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/boise-state-at-washington-state__gambler__washington-state.png",
+       "caption": "Our final: Boise State 31, Washington State 20. Kellen Moore won Super Bowl LIX, and he is coaching in New Orleans, not throwing for the Broncos in Pullman: https://www.thecoverwindow.com/college/gambler/boise-state-at-washington-state"
+      }
+     ]
+    }
+   },
    "matchup": "No. 21 Boise State at Washington State",
    "away": {
     "team": "Boise State",
@@ -11383,6 +12437,40 @@
   },
   {
    "game_id": "401860905",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "San Diego State",
+       "label": "Share as a San Diego State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-diego-state-at-colorado-state__fanatic__san-diego-state.png",
+       "caption": "Trey McBride won the 2021 Mackey Award, and he is catching passes in Arizona, not Fort Collins. Send this to the Rams fan who thinks the mountains count as a twelfth man: https://www.thecoverwindow.com/college/fanatic/san-diego-state-at-colorado-state"
+      },
+      {
+       "team": "Colorado State",
+       "label": "Share as a Colorado State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-diego-state-at-colorado-state__fanatic__colorado-state.png",
+       "caption": "Willie Buchanon was the 1972 Defensive Rookie of the Year, and Haven Moses is not walking out of San Diego for this one. Send this to the Aztecs fan who packed shorts for Colorado in October: https://www.thecoverwindow.com/college/fanatic/san-diego-state-at-colorado-state"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "San Diego State",
+       "label": "Share as a San Diego State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-diego-state-at-colorado-state__gambler__san-diego-state.png",
+       "caption": "Our final says San Diego State 33, Colorado State 32, and Greg Myers is not walking back into Fort Collins to flip it. One point, Rams fans; breathe that thin air: https://www.thecoverwindow.com/college/gambler/san-diego-state-at-colorado-state"
+      },
+      {
+       "team": "Colorado State",
+       "label": "Share as a Colorado State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-diego-state-at-colorado-state__gambler__colorado-state.png",
+       "caption": "Our final: San Diego State 33, Colorado State 32. Rashaad Penny is not taking a handoff for the Aztecs, so that one point looks a lot thinner: https://www.thecoverwindow.com/college/gambler/san-diego-state-at-colorado-state"
+      }
+     ]
+    }
+   },
    "matchup": "San Diego State at Colorado State",
    "away": {
     "team": "San Diego State",
@@ -11598,6 +12686,40 @@
   },
   {
    "game_id": "401856836",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Colorado",
+       "label": "Share as a Colorado fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/colorado-at-oklahoma-state__fanatic__colorado.png",
+       "caption": "Leslie O'Neal was the 1986 Defensive Rookie of the Year, and he is not walking back into Stillwater. Send this to the Pokes fan with a Pistol Pete bobblehead on the dashboard: https://www.thecoverwindow.com/college/fanatic/colorado-at-oklahoma-state"
+      },
+      {
+       "team": "Oklahoma State",
+       "label": "Share as an Oklahoma State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/colorado-at-oklahoma-state__fanatic__oklahoma-state.png",
+       "caption": "Mark Haynes was a two-time first-team All-Pro, and Chad Brown is not walking into Stillwater for the Buffaloes. Send this to the Colorado fan who keeps a Ralphie plush in the car: https://www.thecoverwindow.com/college/fanatic/colorado-at-oklahoma-state"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Colorado",
+       "label": "Share as a Colorado fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/colorado-at-oklahoma-state__gambler__colorado.png",
+       "caption": "Our final says Oklahoma State 30, Colorado 21, but Mason Rudolph is not walking back into Stillwater to throw it. Buffs fans, nine points is nothing Ralphie can't run through: https://www.thecoverwindow.com/college/gambler/colorado-at-oklahoma-state"
+      },
+      {
+       "team": "Oklahoma State",
+       "label": "Share as an Oklahoma State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/colorado-at-oklahoma-state__gambler__oklahoma-state.png",
+       "caption": "Our final: Oklahoma State 30, Colorado 21. Michael Westbrook was a 1994 consensus All-American, and he is not catching a Hail Mary in Stillwater: https://www.thecoverwindow.com/college/gambler/colorado-at-oklahoma-state"
+      }
+     ]
+    }
+   },
    "matchup": "Colorado at Oklahoma State",
    "away": {
     "team": "Colorado",
@@ -11885,6 +13007,40 @@
   },
   {
    "game_id": "401869935",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Georgia State",
+       "label": "Share as a Georgia State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/georgia-state-at-arkansas-state__fanatic__georgia-state.png",
+       "caption": "Demario Davis made two Pro Bowls, and Elbert Shelley is not walking back into Jonesboro. Send this to the Red Wolves fan who howls at the PA announcer: https://www.thecoverwindow.com/college/fanatic/georgia-state-at-arkansas-state"
+      },
+      {
+       "team": "Arkansas State",
+       "label": "Share as an Arkansas State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/georgia-state-at-arkansas-state__fanatic__arkansas-state.png",
+       "caption": "Wil Lutz played at Georgia State from 2012 to 2015, and he is not kicking for the Panthers in Jonesboro. Send this to the Georgia State fan who keeps saying the program is still young: https://www.thecoverwindow.com/college/fanatic/georgia-state-at-arkansas-state"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Georgia State",
+       "label": "Share as a Georgia State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/georgia-state-at-arkansas-state__gambler__georgia-state.png",
+       "caption": "Our final says Arkansas State 30, Georgia State 29, and McKissic is not walking back into Jonesboro to protect it. One point, Red Wolves fans; howl quietly: https://www.thecoverwindow.com/college/gambler/georgia-state-at-arkansas-state"
+      },
+      {
+       "team": "Arkansas State",
+       "label": "Share as an Arkansas State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/georgia-state-at-arkansas-state__gambler__arkansas-state.png",
+       "caption": "Our final: Arkansas State 30, Georgia State 29. Jamari Thrash lasted until round 5 in 2024, and Penny Hart is not catching anything in Jonesboro: https://www.thecoverwindow.com/college/gambler/georgia-state-at-arkansas-state"
+      }
+     ]
+    }
+   },
    "matchup": "Georgia State at Arkansas State",
    "away": {
     "team": "Georgia State",
@@ -12085,6 +13241,40 @@
   },
   {
    "game_id": "401858276",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Virginia Tech",
+       "label": "Share as a Virginia Tech fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/virginia-tech-at-clemson__fanatic__virginia-tech.png",
+       "caption": "Michael Dean Perry was a two-time first-team All-Pro, and Vic Beasley is not walking back into Death Valley. Send this to the Clemson fan who rubs the Rock on the way to the grocery store: https://www.thecoverwindow.com/college/fanatic/virginia-tech-at-clemson"
+      },
+      {
+       "team": "Clemson",
+       "label": "Share as a Clemson fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/virginia-tech-at-clemson__fanatic__clemson.png",
+       "caption": "Kyle Fuller went 14th in 2014, and Bucky Hodges is not walking into Death Valley for the Hokies. Send this to the Virginia Tech fan who jumps to \"Enter Sandman\" in the shower: https://www.thecoverwindow.com/college/fanatic/virginia-tech-at-clemson"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Virginia Tech",
+       "label": "Share as a Virginia Tech fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/virginia-tech-at-clemson__gambler__virginia-tech.png",
+       "caption": "Our final says Clemson 27, Virginia Tech 24, but Grady Jarrett and Mike Williams are not walking back into Death Valley. Three points, Tigers fans; we brought \"Enter Sandman\" on our phones: https://www.thecoverwindow.com/college/gambler/virginia-tech-at-clemson"
+      },
+      {
+       "team": "Clemson",
+       "label": "Share as a Clemson fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/virginia-tech-at-clemson__gambler__clemson.png",
+       "caption": "Our final: Clemson 27, Virginia Tech 24. Kendall Fuller won Super Bowl LIV, and Logan Thomas is not throwing for the Hokies in Death Valley: https://www.thecoverwindow.com/college/gambler/virginia-tech-at-clemson"
+      }
+     ]
+    }
+   },
    "matchup": "Virginia Tech at Clemson",
    "away": {
     "team": "Virginia Tech",
@@ -12372,6 +13562,40 @@
   },
   {
    "game_id": "401856838",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Iowa State",
+       "label": "Share as an Iowa State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/iowa-state-at-arizona__fanatic__iowa-state.png",
+       "caption": "Arizona retired Chris McAlister's No. 11, and Scooby Wright is not walking back into Tucson. Send this to the Wildcats fan who swears 100 degrees is sweater weather: https://www.thecoverwindow.com/college/fanatic/iowa-state-at-arizona"
+      },
+      {
+       "team": "Arizona",
+       "label": "Share as an Arizona fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/iowa-state-at-arizona__fanatic__arizona.png",
+       "caption": "Brock Purdy lasted until round 7 in 2022, and he is busy in San Francisco, not Tucson. Send this to the Cyclones fan who still calls him Mr. Irrelevant with love: https://www.thecoverwindow.com/college/fanatic/iowa-state-at-arizona"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Iowa State",
+       "label": "Share as an Iowa State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/iowa-state-at-arizona__gambler__iowa-state.png",
+       "caption": "Our final says Arizona 30, Iowa State 22, and Tedy Bruschi is not walking back into Tucson to defend it. Cyclones fans, eight points is very Ames-able: https://www.thecoverwindow.com/college/gambler/iowa-state-at-arizona"
+      },
+      {
+       "team": "Arizona",
+       "label": "Share as an Arizona fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/iowa-state-at-arizona__gambler__arizona.png",
+       "caption": "Our final: Arizona 30, Iowa State 22. Keith Sims made three Pro Bowls, and Kelechi Osemele is not blocking for the Cyclones in Tucson: https://www.thecoverwindow.com/college/gambler/iowa-state-at-arizona"
+      }
+     ]
+    }
+   },
    "matchup": "Iowa State at No. 25 Arizona",
    "away": {
     "team": "Iowa State",
@@ -12659,6 +13883,40 @@
   },
   {
    "game_id": "401858500",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "USC",
+       "label": "Share as a USC fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/usc-at-wisconsin__fanatic__usc.png",
+       "caption": "T.J. Watt was the 2021 Defensive Player of the Year, and Jonathan Taylor is busy in Indianapolis. Send this to the Badgers fan already warming up for Jump Around: https://www.thecoverwindow.com/college/fanatic/usc-at-wisconsin"
+      },
+      {
+       "team": "Wisconsin",
+       "label": "Share as a Wisconsin fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/usc-at-wisconsin__fanatic__wisconsin.png",
+       "caption": "Ron Yary won the 1967 Outland Trophy, and Bruce Matthews is not walking into Madison for the Trojans. Send this to the USC fan who brought sunscreen to Wisconsin in October: https://www.thecoverwindow.com/college/fanatic/usc-at-wisconsin"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "USC",
+       "label": "Share as a USC fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/usc-at-wisconsin__gambler__usc.png",
+       "caption": "Our final says USC 26, Wisconsin 25, and Ron Dayne is not walking out of that tunnel to flip it. One point, Badgers fans; Jump Around responsibly: https://www.thecoverwindow.com/college/gambler/usc-at-wisconsin"
+      },
+      {
+       "team": "Wisconsin",
+       "label": "Share as a Wisconsin fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/usc-at-wisconsin__gambler__wisconsin.png",
+       "caption": "Our final: USC 26, Wisconsin 25. Tony Boselli and Tyron Smith are not blocking for the Trojans in Madison, so that one point is very fragile: https://www.thecoverwindow.com/college/gambler/usc-at-wisconsin"
+      }
+     ]
+    }
+   },
    "matchup": "No. 16 USC at Wisconsin",
    "away": {
     "team": "USC",
@@ -12946,6 +14204,40 @@
   },
   {
    "game_id": "401856732",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Ole Miss",
+       "label": "Share as an Ole Miss fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/ole-miss-at-texas__fanatic__ole-miss.png",
+       "caption": "Texas's last national title was January 2006, and Mack Brown and Colt McCoy are not walking back into Austin to add one. Forward this to the Longhorn who still says \"we're back\": https://www.thecoverwindow.com/college/fanatic/ole-miss-at-texas"
+      },
+      {
+       "team": "Texas",
+       "label": "Share as a Texas fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/ole-miss-at-texas__fanatic__texas.png",
+       "caption": "Archie's grandson Arch plays for Texas now, so the Mannings already picked a side. Send this to your Ole Miss friend, gently: https://www.thecoverwindow.com/college/fanatic/ole-miss-at-texas"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Ole Miss",
+       "label": "Share as an Ole Miss fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/ole-miss-at-texas__gambler__ole-miss.png",
+       "caption": "Our final says Texas 30, Ole Miss 24, but the 2004 Butkus winner is not suiting up in burnt orange. Six points and no Derrick Johnson in the middle sounds very doable from Oxford: https://www.thecoverwindow.com/college/gambler/ole-miss-at-texas"
+      },
+      {
+       "team": "Texas",
+       "label": "Share as a Texas fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/ole-miss-at-texas__gambler__texas.png",
+       "caption": "Our final: Texas 30, Ole Miss 24. Metcalf was a 2001 consensus All-American, and he is not blocking for anybody in Austin: https://www.thecoverwindow.com/college/gambler/ole-miss-at-texas"
+      }
+     ]
+    }
+   },
    "matchup": "No. 7 Ole Miss at No. 19 Texas",
    "away": {
     "team": "Ole Miss",
@@ -13197,6 +14489,40 @@
   },
   {
    "game_id": "401858275",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Syracuse",
+       "label": "Share as a Syracuse fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/syracuse-at-north-carolina__fanatic__syracuse.png",
+       "caption": "Chris Hanburger was a five-time first-team All-Pro, and Trubisky is not walking back into Chapel Hill. Send this to the Tar Heels fan who is only here until basketball starts: https://www.thecoverwindow.com/college/fanatic/syracuse-at-north-carolina"
+      },
+      {
+       "team": "North Carolina",
+       "label": "Share as a North Carolina fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/syracuse-at-north-carolina__fanatic__north-carolina.png",
+       "caption": "Art Monk made three Pro Bowls, and Gary Anderson is not kicking for the Orange in Chapel Hill. Send this to the Syracuse fan who owns more orange than a citrus farm: https://www.thecoverwindow.com/college/fanatic/syracuse-at-north-carolina"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Syracuse",
+       "label": "Share as a Syracuse fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/syracuse-at-north-carolina__gambler__syracuse.png",
+       "caption": "Our final says North Carolina 29, Syracuse 20, but Drake Maye is busy in New England. Orange fans, nine points with no Maye in Chapel Hill is very doable: https://www.thecoverwindow.com/college/gambler/syracuse-at-north-carolina"
+      },
+      {
+       "team": "North Carolina",
+       "label": "Share as a North Carolina fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/syracuse-at-north-carolina__gambler__north-carolina.png",
+       "caption": "Our final: North Carolina 29, Syracuse 20. Daryl Johnston won three Super Bowl rings, and he is not lead-blocking for the Orange in Chapel Hill: https://www.thecoverwindow.com/college/gambler/syracuse-at-north-carolina"
+      }
+     ]
+    }
+   },
    "matchup": "Syracuse at North Carolina",
    "away": {
     "team": "Syracuse",
@@ -13484,6 +14810,40 @@
   },
   {
    "game_id": "401860906",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Utah State",
+       "label": "Share as a Utah State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/utah-state-at-texas-state__fanatic__utah-state.png",
+       "caption": "Craig Mager went in round 3 of the 2015 draft, and Aaron Brewer is not walking back into San Marcos. Send this to the Bobcats fan who tubes the river on bye weeks: https://www.thecoverwindow.com/college/fanatic/utah-state-at-texas-state"
+      },
+      {
+       "team": "Texas State",
+       "label": "Share as a Texas State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/utah-state-at-texas-state__fanatic__texas-state.png",
+       "caption": "Kerwynn Williams lasted until round 7 in 2013, and Nick Vigil is not walking out of Logan for this trip. Send this to the Utah State fan who thinks Logan is the center of the universe: https://www.thecoverwindow.com/college/fanatic/utah-state-at-texas-state"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Utah State",
+       "label": "Share as a Utah State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/utah-state-at-texas-state__gambler__utah-state.png",
+       "caption": "Our final says Texas State 34, Utah State 22, and Reece Morrison is not walking back into San Marcos to stop it. Aggies fans, twelve points and a lot of Texas heat: https://www.thecoverwindow.com/college/gambler/utah-state-at-texas-state"
+      },
+      {
+       "team": "Texas State",
+       "label": "Share as a Texas State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/utah-state-at-texas-state__gambler__texas-state.png",
+       "caption": "Our final: Texas State 34, Utah State 22. Kyler Fackrell played at Utah State from 2011 to 2015, and he is not chasing anybody in San Marcos: https://www.thecoverwindow.com/college/gambler/utah-state-at-texas-state"
+      }
+     ]
+    }
+   },
    "matchup": "Utah State at Texas State",
    "away": {
     "team": "Utah State",
@@ -13684,6 +15044,40 @@
   },
   {
    "game_id": "401856729",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Vanderbilt",
+       "label": "Share as a Vanderbilt fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/vanderbilt-at-kentucky__fanatic__vanderbilt.png",
+       "caption": "Josh Hines-Allen won the 2018 Bednarik Award, and Art Still is not walking back into Lexington. Send this to the Kentucky fan already counting the days to Big Blue Madness: https://www.thecoverwindow.com/college/fanatic/vanderbilt-at-kentucky"
+      },
+      {
+       "team": "Kentucky",
+       "label": "Share as a Kentucky fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/vanderbilt-at-kentucky__fanatic__kentucky.png",
+       "caption": "Jamie Duncan went in round 3 of the 1998 draft, and Will Wolford is not walking into Lexington for the Commodores. Send this to the Vandy fan who will mention SAT scores at halftime: https://www.thecoverwindow.com/college/fanatic/vanderbilt-at-kentucky"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Vanderbilt",
+       "label": "Share as a Vanderbilt fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/vanderbilt-at-kentucky__gambler__vanderbilt.png",
+       "caption": "Our final says Kentucky 33, Vanderbilt 23, but Randall Cobb is not walking back into Kroger Field. Commodores fans, ten points is one smart comeback: https://www.thecoverwindow.com/college/gambler/vanderbilt-at-kentucky"
+      },
+      {
+       "team": "Kentucky",
+       "label": "Share as a Kentucky fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/vanderbilt-at-kentucky__gambler__kentucky.png",
+       "caption": "Our final: Kentucky 33, Vanderbilt 23. Jim Arnold was a 1982 unanimous All-American, and he is not punting the Commodores out of trouble in Lexington: https://www.thecoverwindow.com/college/gambler/vanderbilt-at-kentucky"
+      }
+     ]
+    }
+   },
    "matchup": "Vanderbilt at No. 12 Kentucky",
    "away": {
     "team": "Vanderbilt",
@@ -13917,6 +15311,40 @@
   },
   {
    "game_id": "401862811",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "UTSA",
+       "label": "Share as a UTSA fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/utsa-at-tulane__fanatic__utsa.png",
+       "caption": "Cairo Santos won the 2012 Lou Groza Award, and Matt Forte is not walking back into Yulman Stadium. Send this to the Green Wave fan who brings beignets to the tailgate: https://www.thecoverwindow.com/college/fanatic/utsa-at-tulane"
+      },
+      {
+       "team": "Tulane",
+       "label": "Share as a Tulane fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/utsa-at-tulane__fanatic__tulane.png",
+       "caption": "Riq Woolen won Super Bowl LX, and Brian Price is not walking into New Orleans for the Roadrunners. Send this to the UTSA fan who says \"Birds Up\" to everyone: https://www.thecoverwindow.com/college/fanatic/utsa-at-tulane"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "UTSA",
+       "label": "Share as a UTSA fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/utsa-at-tulane__gambler__utsa.png",
+       "caption": "Our final says Tulane 27, UTSA 24, and Eddie Murray is not kicking for the Green Wave anymore. Three points, Roadrunners fans; one field goal and we are even: https://www.thecoverwindow.com/college/gambler/utsa-at-tulane"
+      },
+      {
+       "team": "Tulane",
+       "label": "Share as a Tulane fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/utsa-at-tulane__gambler__tulane.png",
+       "caption": "Our final: Tulane 27, UTSA 24. Sincere McCormick played at UTSA from 2019 to 2021, and he is not taking a handoff in New Orleans: https://www.thecoverwindow.com/college/gambler/utsa-at-tulane"
+      }
+     ]
+    }
+   },
    "matchup": "UTSA at Tulane",
    "away": {
     "team": "UTSA",
@@ -14114,6 +15542,40 @@
   },
   {
    "game_id": "401864527",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "North Dakota State",
+       "label": "Share as a North Dakota State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/north-dakota-state-at-new-mexico__fanatic__north-dakota-state.png",
+       "caption": "David Sloan went in round 3 of the 1995 draft, and Jason Sanders is not kicking for the Lobos in Albuquerque. Send this to the New Mexico fan who puts green chile on everything: https://www.thecoverwindow.com/college/fanatic/north-dakota-state-at-new-mexico"
+      },
+      {
+       "team": "New Mexico",
+       "label": "Share as a New Mexico fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/north-dakota-state-at-new-mexico__fanatic__new-mexico.png",
+       "caption": "Trey Lance won the 2019 Walter Payton Award, and Carson Wentz is not walking into Albuquerque for the Bison. Send this to the North Dakota State fan who counts trophies before breakfast: https://www.thecoverwindow.com/college/fanatic/north-dakota-state-at-new-mexico"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "North Dakota State",
+       "label": "Share as a North Dakota State fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/north-dakota-state-at-new-mexico__gambler__north-dakota-state.png",
+       "caption": "Our final says New Mexico 27, North Dakota State 19, and Bojorquez is not punting the Lobos out of trouble. Bison fans, eight points is a lot of green chile: https://www.thecoverwindow.com/college/gambler/north-dakota-state-at-new-mexico"
+      },
+      {
+       "team": "New Mexico",
+       "label": "Share as a New Mexico fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/north-dakota-state-at-new-mexico__gambler__new-mexico.png",
+       "caption": "Our final: New Mexico 27, North Dakota State 19. Steve Nelson made three Pro Bowls, and Kyle Emanuel is not chasing anybody in Albuquerque: https://www.thecoverwindow.com/college/gambler/north-dakota-state-at-new-mexico"
+      }
+     ]
+    }
+   },
    "matchup": "North Dakota State at New Mexico",
    "away": {
     "team": "North Dakota State",
@@ -14314,6 +15776,40 @@
   },
   {
    "game_id": "401856837",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Houston",
+       "label": "Share as a Houston fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/houston-at-utah__fanatic__houston.png",
+       "caption": "Eric Weddle was a two-time first-team All-Pro, and Jordan Gross is not walking back into Rice-Eccles. Send this to the Utes fan who swears the altitude is worth a touchdown: https://www.thecoverwindow.com/college/fanatic/houston-at-utah"
+      },
+      {
+       "team": "Utah",
+       "label": "Share as a Utah fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/houston-at-utah__fanatic__utah.png",
+       "caption": "Houston retired Elmo Wright's No. 23, and nobody is unretiring it for a trip to Salt Lake City. Send this to the Cougars fan who still does the end zone dance Elmo invented: https://www.thecoverwindow.com/college/fanatic/houston-at-utah"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Houston",
+       "label": "Share as a Houston fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/houston-at-utah__gambler__houston.png",
+       "caption": "Our final says Utah 34, Houston 25, and Jaylon Johnson is busy in Chicago. Cougars fans, nine points at altitude is a climb: https://www.thecoverwindow.com/college/gambler/houston-at-utah"
+      },
+      {
+       "team": "Utah",
+       "label": "Share as a Utah fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/houston-at-utah__gambler__utah.png",
+       "caption": "Our final: Utah 34, Houston 25. Klingler won the 1990 Sammy Baugh Trophy, and he is not throwing 11 touchdowns in a game for the Cougars this week: https://www.thecoverwindow.com/college/gambler/houston-at-utah"
+      }
+     ]
+    }
+   },
    "matchup": "No. 14 Houston at No. 10 Utah",
    "away": {
     "team": "Houston",
