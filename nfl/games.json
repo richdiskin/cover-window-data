@@ -1022,6 +1022,40 @@
   },
   {
    "game_id": "401873011",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Pittsburgh Steelers",
+       "label": "Share as a Steelers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/pittsburgh-steelers-at-new-orleans-saints__fanatic__pittsburgh-steelers.png",
+       "caption": "Morten Andersen was the 2008 Walter Camp Man of the Year, and he is not jogging out for a long one in Paris. Send this to the Saints fan still looking for a kicker who lasts 25 seasons: https://www.thecoverwindow.com/nfl/fanatic/pittsburgh-steelers-at-new-orleans-saints"
+      },
+      {
+       "team": "New Orleans Saints",
+       "label": "Share as a Saints fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/pittsburgh-steelers-at-new-orleans-saints__fanatic__new-orleans-saints.png",
+       "caption": "Polamalu was a four-time first-team All-Pro, and the hair is not walking through that door either. Send this to the Steelers fan with a Terrible Towel in the glovebox: https://www.thecoverwindow.com/nfl/fanatic/pittsburgh-steelers-at-new-orleans-saints"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Pittsburgh Steelers",
+       "label": "Share as a Steelers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/pittsburgh-steelers-at-new-orleans-saints__gambler__pittsburgh-steelers.png",
+       "caption": "Our final: Steelers 26, Saints 22. Colston won Super Bowl XLIV, and he is not running a slant in Paris: https://www.thecoverwindow.com/nfl/gambler/pittsburgh-steelers-at-new-orleans-saints"
+      },
+      {
+       "team": "New Orleans Saints",
+       "label": "Share as a Saints fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/pittsburgh-steelers-at-new-orleans-saints__gambler__new-orleans-saints.png",
+       "caption": "Our final says Steelers 26, Saints 22, but Faneca and Mel Blount are not in Pittsburgh's lineup anymore. Saints fans, four points with no Blount in the secondary is a fair fight: https://www.thecoverwindow.com/nfl/gambler/pittsburgh-steelers-at-new-orleans-saints"
+      }
+     ]
+    }
+   },
    "matchup": "Pittsburgh Steelers at New Orleans Saints",
    "away": {
     "team": "Pittsburgh Steelers",
@@ -1502,6 +1536,40 @@
   },
   {
    "game_id": "401873017",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "San Francisco 49ers",
+       "label": "Share as a 49ers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-francisco-49ers-at-atlanta-falcons__fanatic__san-francisco-49ers.png",
+       "caption": "Julio Jones was a two-time first-team All-Pro, and he is not running a go route in Atlanta. Send this to the Falcons fan who still flinches at 28-3: https://www.thecoverwindow.com/nfl/fanatic/san-francisco-49ers-at-atlanta-falcons"
+      },
+      {
+       "team": "Atlanta Falcons",
+       "label": "Share as a Falcons fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-francisco-49ers-at-atlanta-falcons__fanatic__atlanta-falcons.png",
+       "caption": "Charles Haley won five Super Bowl rings, and the Niners are not getting him back for this trip. Send this to the 49ers fan who counts rings before saying hello: https://www.thecoverwindow.com/nfl/fanatic/san-francisco-49ers-at-atlanta-falcons"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "San Francisco 49ers",
+       "label": "Share as a 49ers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-francisco-49ers-at-atlanta-falcons__gambler__san-francisco-49ers.png",
+       "caption": "Our final: 49ers 27, Falcons 21. Matt Schaub made two Pro Bowls, and he is not walking into Atlanta to save the day: https://www.thecoverwindow.com/nfl/gambler/san-francisco-49ers-at-atlanta-falcons"
+      },
+      {
+       "team": "Atlanta Falcons",
+       "label": "Share as a Falcons fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-francisco-49ers-at-atlanta-falcons__gambler__atlanta-falcons.png",
+       "caption": "Our final says 49ers 27, Falcons 21, but Vernon Davis, the sixth pick in 2006, is not catching seam routes for San Francisco. Falcons fans, six points with no Davis is very fixable: https://www.thecoverwindow.com/nfl/gambler/san-francisco-49ers-at-atlanta-falcons"
+      }
+     ]
+    }
+   },
    "matchup": "San Francisco 49ers at Atlanta Falcons",
    "away": {
     "team": "San Francisco 49ers",
@@ -2053,6 +2121,40 @@
   },
   {
    "game_id": "401873013",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Cleveland Browns",
+       "label": "Share as a Browns fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/cleveland-browns-at-tennessee-titans__fanatic__cleveland-browns.png",
+       "caption": "Marcus Mariota won the 2014 Heisman, and he is not walking back into Nashville to save Tennessee. Send this to the Titans fan still waiting on the next franchise quarterback: https://www.thecoverwindow.com/nfl/fanatic/cleveland-browns-at-tennessee-titans"
+      },
+      {
+       "team": "Tennessee Titans",
+       "label": "Share as a Titans fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/cleveland-browns-at-tennessee-titans__fanatic__tennessee-titans.png",
+       "caption": "Joe Thomas won the 2006 Outland Trophy, and he is not walking back onto that Browns offensive front. Send this to the Cleveland fan who is somehow still hopeful: https://www.thecoverwindow.com/nfl/fanatic/cleveland-browns-at-tennessee-titans"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Cleveland Browns",
+       "label": "Share as a Browns fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/cleveland-browns-at-tennessee-titans__gambler__cleveland-browns.png",
+       "caption": "Our final: Browns 19, Titans 18, and Byard and Stepnoski are not walking back in to protect Nashville. One point, Titans fans; enjoy the sweating: https://www.thecoverwindow.com/nfl/gambler/cleveland-browns-at-tennessee-titans"
+      },
+      {
+       "team": "Tennessee Titans",
+       "label": "Share as a Titans fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/cleveland-browns-at-tennessee-titans__gambler__tennessee-titans.png",
+       "caption": "Our final says Browns 19, Titans 18, but Ozzie Newsome is not catching passes and Bitonio is not walking through that door. One point is a coin flip with extra steps, Cleveland: https://www.thecoverwindow.com/nfl/gambler/cleveland-browns-at-tennessee-titans"
+      }
+     ]
+    }
+   },
    "matchup": "Cleveland Browns at Tennessee Titans",
    "away": {
     "team": "Cleveland Browns",
@@ -2522,6 +2624,40 @@
   },
   {
    "game_id": "401873014",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Indianapolis Colts",
+       "label": "Share as a Colts fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/indianapolis-colts-at-minnesota-vikings__fanatic__indianapolis-colts.png",
+       "caption": "Randall McDaniel was a seven-time first-team All-Pro, and he is not pulling at guard in Minneapolis. Send this to the Vikings fan who says \"Skol\" to the mail carrier: https://www.thecoverwindow.com/nfl/fanatic/indianapolis-colts-at-minnesota-vikings"
+      },
+      {
+       "team": "Minnesota Vikings",
+       "label": "Share as a Vikings fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/indianapolis-colts-at-minnesota-vikings__fanatic__minnesota-vikings.png",
+       "caption": "Andrew Luck was the 2018 Comeback Player of the Year, and that comeback is not happening twice. Send this to the Colts fan who still has his jersey in the rotation: https://www.thecoverwindow.com/nfl/fanatic/indianapolis-colts-at-minnesota-vikings"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Indianapolis Colts",
+       "label": "Share as a Colts fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/indianapolis-colts-at-minnesota-vikings__gambler__indianapolis-colts.png",
+       "caption": "Our final says Vikings 24, Colts 19, but Kirk Cousins is not walking back into Minnesota and Zimmerman won his ring in Denver. Colts fans, five points and no Cousins to worry about: https://www.thecoverwindow.com/nfl/gambler/indianapolis-colts-at-minnesota-vikings"
+      },
+      {
+       "team": "Minnesota Vikings",
+       "label": "Share as a Vikings fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/indianapolis-colts-at-minnesota-vikings__gambler__minnesota-vikings.png",
+       "caption": "Our final: Vikings 24, Colts 19, and T.Y. Hilton is not torching anybody in Minneapolis. Colts fans can forward this from the couch: https://www.thecoverwindow.com/nfl/gambler/indianapolis-colts-at-minnesota-vikings"
+      }
+     ]
+    }
+   },
    "matchup": "Indianapolis Colts at Minnesota Vikings",
    "away": {
     "team": "Indianapolis Colts",
@@ -3026,6 +3162,40 @@
   },
   {
    "game_id": "401873015",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Miami Dolphins",
+       "label": "Share as a Dolphins fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/miami-dolphins-at-new-york-jets__fanatic__miami-dolphins.png",
+       "caption": "Sauce Gardner was the 2022 Defensive Rookie of the Year, and he is not walking back through the Jets' door. Send this to the Jets fan who has been rebuilding since birth: https://www.thecoverwindow.com/nfl/fanatic/miami-dolphins-at-new-york-jets"
+      },
+      {
+       "team": "New York Jets",
+       "label": "Share as a Jets fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/miami-dolphins-at-new-york-jets__fanatic__new-york-jets.png",
+       "caption": "Larry Little was a five-time first-team All-Pro, and he is not pulling around the corner in New Jersey. Send this to the Dolphins fan who brings up 1972 at every cookout: https://www.thecoverwindow.com/nfl/fanatic/miami-dolphins-at-new-york-jets"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Miami Dolphins",
+       "label": "Share as a Dolphins fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/miami-dolphins-at-new-york-jets__gambler__miami-dolphins.png",
+       "caption": "Our final says Jets 23, Dolphins 19, but Clemens is not taking a snap in New Jersey. Four points, Miami fans, and the Jets are still the Jets: https://www.thecoverwindow.com/nfl/gambler/miami-dolphins-at-new-york-jets"
+      },
+      {
+       "team": "New York Jets",
+       "label": "Share as a Jets fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/miami-dolphins-at-new-york-jets__gambler__new-york-jets.png",
+       "caption": "Our final: Jets 23, Dolphins 19. Matt Moore won Super Bowl LIV, but neither he nor Chad Henne is walking into MetLife to save Miami: https://www.thecoverwindow.com/nfl/gambler/miami-dolphins-at-new-york-jets"
+      }
+     ]
+    }
+   },
    "matchup": "Miami Dolphins at New York Jets",
    "away": {
     "team": "Miami Dolphins",
@@ -3481,6 +3651,40 @@
   },
   {
    "game_id": "401873018",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Tampa Bay Buccaneers",
+       "label": "Share as a Buccaneers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/tampa-bay-buccaneers-at-carolina-panthers__fanatic__tampa-bay-buccaneers.png",
+       "caption": "Michael Bates was a three-time first-team All-Pro, and he is not fielding kicks in Charlotte. Send this to the Panthers fan who still wears the Stewart jersey: https://www.thecoverwindow.com/nfl/fanatic/tampa-bay-buccaneers-at-carolina-panthers"
+      },
+      {
+       "team": "Carolina Panthers",
+       "label": "Share as a Panthers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/tampa-bay-buccaneers-at-carolina-panthers__fanatic__carolina-panthers.png",
+       "caption": "John Lynch won Super Bowl XXXVII, and he is busy running the 49ers, not the Tampa secondary. Send this to the Bucs fan still bragging about that defense: https://www.thecoverwindow.com/nfl/fanatic/tampa-bay-buccaneers-at-carolina-panthers"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Tampa Bay Buccaneers",
+       "label": "Share as a Buccaneers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/tampa-bay-buccaneers-at-carolina-panthers__gambler__tampa-bay-buccaneers.png",
+       "caption": "Our final says Panthers 26, Buccaneers 21, but Graham Gano is not kicking for Carolina anymore and Tolbert is not walking through that door. Bucs fans, five points is one good drive: https://www.thecoverwindow.com/nfl/gambler/tampa-bay-buccaneers-at-carolina-panthers"
+      },
+      {
+       "team": "Carolina Panthers",
+       "label": "Share as a Panthers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/tampa-bay-buccaneers-at-carolina-panthers__gambler__carolina-panthers.png",
+       "caption": "Our final: Panthers 26, Buccaneers 21, and Trent Dilfer is not taking a snap for anybody. Panthers fans, forward this before Tampa does: https://www.thecoverwindow.com/nfl/gambler/tampa-bay-buccaneers-at-carolina-panthers"
+      }
+     ]
+    }
+   },
    "matchup": "Tampa Bay Buccaneers at Carolina Panthers",
    "away": {
     "team": "Tampa Bay Buccaneers",
@@ -4014,6 +4218,40 @@
   },
   {
    "game_id": "401873012",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Cincinnati Bengals",
+       "label": "Share as a Bengals fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/cincinnati-bengals-at-baltimore-ravens__fanatic__cincinnati-bengals.png",
+       "caption": "Marshal Yanda was a two-time first-team All-Pro, and he is not walking back into Baltimore to block anybody. Send this to the Ravens fan who still calls it \"the Bank\": https://www.thecoverwindow.com/nfl/fanatic/cincinnati-bengals-at-baltimore-ravens"
+      },
+      {
+       "team": "Baltimore Ravens",
+       "label": "Share as a Ravens fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/cincinnati-bengals-at-baltimore-ravens__fanatic__baltimore-ravens.png",
+       "caption": "Geno Atkins made eight Pro Bowls, and he is not walking back into the Bengals' front. Send this to the Cincinnati fan who says \"Who Dey\" with a straight face: https://www.thecoverwindow.com/nfl/fanatic/cincinnati-bengals-at-baltimore-ravens"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Cincinnati Bengals",
+       "label": "Share as a Bengals fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/cincinnati-bengals-at-baltimore-ravens__gambler__cincinnati-bengals.png",
+       "caption": "Our final says Ravens 26, Bengals 23, but Baltimore's Super Bowl punter and long snapper are not walking through that door. Three points, Bengals fans; that is one Burrow drive: https://www.thecoverwindow.com/nfl/gambler/cincinnati-bengals-at-baltimore-ravens"
+      },
+      {
+       "team": "Baltimore Ravens",
+       "label": "Share as a Ravens fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/cincinnati-bengals-at-baltimore-ravens__gambler__baltimore-ravens.png",
+       "caption": "Our final: Ravens 26, Bengals 23. Ken Anderson was the 1981 NFL MVP, and he is not walking into Baltimore to change that: https://www.thecoverwindow.com/nfl/gambler/cincinnati-bengals-at-baltimore-ravens"
+      }
+     ]
+    }
+   },
    "matchup": "Cincinnati Bengals at Baltimore Ravens",
    "away": {
     "team": "Cincinnati Bengals",
@@ -4477,6 +4715,40 @@
   },
   {
    "game_id": "401873016",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "New York Giants",
+       "label": "Share as a Giants fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/new-york-giants-at-houston-texans__fanatic__new-york-giants.png",
+       "caption": "Andre Johnson was a two-time first-team All-Pro, and he is not running routes in Houston anymore. Send this to the Texans fan who still has the No. 80 jersey: https://www.thecoverwindow.com/nfl/fanatic/new-york-giants-at-houston-texans"
+      },
+      {
+       "team": "Houston Texans",
+       "label": "Share as a Texans fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/new-york-giants-at-houston-texans__fanatic__houston-texans.png",
+       "caption": "Phil Simms was the 1993 NFL Man of the Year, and he is not taking snaps for the Giants in Houston. Send this to the Giants fan who still talks about Super Bowl XXI: https://www.thecoverwindow.com/nfl/fanatic/new-york-giants-at-houston-texans"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "New York Giants",
+       "label": "Share as a Giants fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/new-york-giants-at-houston-texans__gambler__new-york-giants.png",
+       "caption": "Our final says Texans 26, Giants 18, but Case Keenum won the Sammy Baugh Trophy twice and he is not walking back in to save Houston. Giants fans, eight points is one touchdown and a prayer: https://www.thecoverwindow.com/nfl/gambler/new-york-giants-at-houston-texans"
+      },
+      {
+       "team": "Houston Texans",
+       "label": "Share as a Texans fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/new-york-giants-at-houston-texans__gambler__houston-texans.png",
+       "caption": "Our final: Texans 26, Giants 18. DeOssie won two Super Bowl rings, and Daniel Jones is not walking back through the Giants' door: https://www.thecoverwindow.com/nfl/gambler/new-york-giants-at-houston-texans"
+      }
+     ]
+    }
+   },
    "matchup": "New York Giants at Houston Texans",
    "away": {
     "team": "New York Giants",
@@ -5027,6 +5299,40 @@
   },
   {
    "game_id": "401873019",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Denver Broncos",
+       "label": "Share as a Broncos fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/denver-broncos-at-arizona-cardinals__fanatic__denver-broncos.png",
+       "caption": "Kyler Murray won the 2018 Heisman, and McCown is not walking back into the desert either. Send this to the Cardinals fan who swears this is the year: https://www.thecoverwindow.com/nfl/fanatic/denver-broncos-at-arizona-cardinals"
+      },
+      {
+       "team": "Arizona Cardinals",
+       "label": "Share as a Cardinals fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/denver-broncos-at-arizona-cardinals__fanatic__arizona-cardinals.png",
+       "caption": "Champ Bailey won the 1998 Nagurski Trophy, and he is not shadowing anybody in Glendale. Send this to the Broncos fan who still has an Atwater poster: https://www.thecoverwindow.com/nfl/fanatic/denver-broncos-at-arizona-cardinals"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Denver Broncos",
+       "label": "Share as a Broncos fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/denver-broncos-at-arizona-cardinals__gambler__denver-broncos.png",
+       "caption": "Our final says Broncos 24, Cardinals 20, and David Johnson is not walking back into the Arizona backfield. Cardinals fans, four points sounds close until you watch it: https://www.thecoverwindow.com/nfl/gambler/denver-broncos-at-arizona-cardinals"
+      },
+      {
+       "team": "Arizona Cardinals",
+       "label": "Share as a Cardinals fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/denver-broncos-at-arizona-cardinals__gambler__arizona-cardinals.png",
+       "caption": "Our final: Broncos 24, Cardinals 20. Tom Nalen was a two-time first-team All-Pro, and he is not snapping the ball for Denver in Glendale: https://www.thecoverwindow.com/nfl/gambler/denver-broncos-at-arizona-cardinals"
+      }
+     ]
+    }
+   },
    "matchup": "Denver Broncos at Arizona Cardinals",
    "away": {
     "team": "Denver Broncos",
@@ -5514,6 +5820,40 @@
   },
   {
    "game_id": "401873020",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Green Bay Packers",
+       "label": "Share as a Packers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/green-bay-packers-at-detroit-lions__fanatic__green-bay-packers.png",
+       "caption": "Jason Hanson was a 1989 unanimous All-American, and he is not kicking for the Lions anymore. Send this to the Detroit fan who finally believes: https://www.thecoverwindow.com/nfl/fanatic/green-bay-packers-at-detroit-lions"
+      },
+      {
+       "team": "Detroit Lions",
+       "label": "Share as a Lions fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/green-bay-packers-at-detroit-lions__fanatic__detroit-lions.png",
+       "caption": "Sterling Sharpe was a three-time first-team All-Pro, and he is not running a slant in Detroit. Send this to the Packers fan who owns a share of the team and mentions it weekly: https://www.thecoverwindow.com/nfl/fanatic/green-bay-packers-at-detroit-lions"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Green Bay Packers",
+       "label": "Share as a Packers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/green-bay-packers-at-detroit-lions__gambler__green-bay-packers.png",
+       "caption": "Our final says Lions 26, Packers 25, and Hockenson is catching passes in Minnesota, not Detroit. One point, Packers fans; that is one kick: https://www.thecoverwindow.com/nfl/gambler/green-bay-packers-at-detroit-lions"
+      },
+      {
+       "team": "Detroit Lions",
+       "label": "Share as a Lions fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/green-bay-packers-at-detroit-lions__gambler__detroit-lions.png",
+       "caption": "Our final: Lions 26, Packers 25. Jordy Nelson was the 2016 Comeback Player of the Year, and Mason Crosby is not walking out for the last kick: https://www.thecoverwindow.com/nfl/gambler/green-bay-packers-at-detroit-lions"
+      }
+     ]
+    }
+   },
    "matchup": "Green Bay Packers at Detroit Lions",
    "away": {
     "team": "Green Bay Packers",
@@ -5974,6 +6314,40 @@
   },
   {
    "game_id": "401873021",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Los Angeles Rams",
+       "label": "Share as a Rams fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/los-angeles-rams-at-las-vegas-raiders__fanatic__los-angeles-rams.png",
+       "caption": "Tim Brown won the 1987 Heisman, and he is not returning punts for the Raiders this week. Send this to the Raiders fan who still blames the tuck rule: https://www.thecoverwindow.com/nfl/fanatic/los-angeles-rams-at-las-vegas-raiders"
+      },
+      {
+       "team": "Las Vegas Raiders",
+       "label": "Share as a Raiders fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/los-angeles-rams-at-las-vegas-raiders__fanatic__las-vegas-raiders.png",
+       "caption": "The Rams retired Jackie Slater's No. 78, and nobody is unretiring it for this trip. Send this to the Rams fan who remembers Anaheim: https://www.thecoverwindow.com/nfl/fanatic/los-angeles-rams-at-las-vegas-raiders"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Los Angeles Rams",
+       "label": "Share as a Rams fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/los-angeles-rams-at-las-vegas-raiders__gambler__los-angeles-rams.png",
+       "caption": "Our final says Rams 27, Raiders 22, and Howie Long is on a TV set, not the Raiders' defensive front. Five points, Raiders fans; Long would have made it closer: https://www.thecoverwindow.com/nfl/gambler/los-angeles-rams-at-las-vegas-raiders"
+      },
+      {
+       "team": "Las Vegas Raiders",
+       "label": "Share as a Raiders fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/los-angeles-rams-at-las-vegas-raiders__gambler__las-vegas-raiders.png",
+       "caption": "Our final: Rams 27, Raiders 22. Hekker was a four-time first-team All-Pro punter, and Goff is busy in Detroit, so the Rams are on their own: https://www.thecoverwindow.com/nfl/gambler/los-angeles-rams-at-las-vegas-raiders"
+      }
+     ]
+    }
+   },
    "matchup": "Los Angeles Rams at Las Vegas Raiders",
    "away": {
     "team": "Los Angeles Rams",
@@ -6430,6 +6804,40 @@
   },
   {
    "game_id": "401873022",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Kansas City Chiefs",
+       "label": "Share as a Chiefs fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/kansas-city-chiefs-at-seattle-seahawks__fanatic__kansas-city-chiefs.png",
+       "caption": "Russell Wilson was the 2020 Walter Payton Man of the Year, and he is not walking back into Seattle to save anyone. Send this to the Seahawks fan who still won't talk about Super Bowl XLIX: https://www.thecoverwindow.com/nfl/fanatic/kansas-city-chiefs-at-seattle-seahawks"
+      },
+      {
+       "team": "Seattle Seahawks",
+       "label": "Share as a Seahawks fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/kansas-city-chiefs-at-seattle-seahawks__fanatic__seattle-seahawks.png",
+       "caption": "Will Shields won the 1992 Outland Trophy, and he is not walking into Seattle to block for anybody. Send this to the Chiefs fan who got used to February: https://www.thecoverwindow.com/nfl/fanatic/kansas-city-chiefs-at-seattle-seahawks"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Kansas City Chiefs",
+       "label": "Share as a Chiefs fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/kansas-city-chiefs-at-seattle-seahawks__gambler__kansas-city-chiefs.png",
+       "caption": "Our final says Seahawks 23, Chiefs 21, but Hasselbeck is not walking through that door to keep it that way. Two points, Chiefs fans; Mahomes has turned less into more: https://www.thecoverwindow.com/nfl/gambler/kansas-city-chiefs-at-seattle-seahawks"
+      },
+      {
+       "team": "Seattle Seahawks",
+       "label": "Share as a Seahawks fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/kansas-city-chiefs-at-seattle-seahawks__gambler__seattle-seahawks.png",
+       "caption": "Our final: Seahawks 23, Chiefs 21. Priest Holmes is not taking a handoff in Seattle, and the Chiefs are going to need him: https://www.thecoverwindow.com/nfl/gambler/kansas-city-chiefs-at-seattle-seahawks"
+      }
+     ]
+    }
+   },
    "matchup": "Kansas City Chiefs at Seattle Seahawks",
    "away": {
     "team": "Kansas City Chiefs",
@@ -6913,6 +7321,40 @@
   },
   {
    "game_id": "401873009",
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Dallas Cowboys",
+       "label": "Share as a Cowboys fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/dallas-cowboys-at-philadelphia-eagles__fanatic__dallas-cowboys.png",
+       "caption": "Kelce and Fletcher Cox both retired in March 2024, so Philly's trench warfare is officially a podcast. Send this to the Eagles fan who says \"Go Birds\" to strangers: https://www.thecoverwindow.com/nfl/fanatic/dallas-cowboys-at-philadelphia-eagles"
+      },
+      {
+       "team": "Philadelphia Eagles",
+       "label": "Share as an Eagles fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/dallas-cowboys-at-philadelphia-eagles__fanatic__philadelphia-eagles.png",
+       "caption": "Dallas's last Super Bowl title was January 1996, back when the trophy came with a dial-up connection. Send this to the Cowboys fan who still calls them America's Team: https://www.thecoverwindow.com/nfl/fanatic/dallas-cowboys-at-philadelphia-eagles"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Dallas Cowboys",
+       "label": "Share as a Cowboys fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/dallas-cowboys-at-philadelphia-eagles__gambler__dallas-cowboys.png",
+       "caption": "Our number says Eagles 24, Cowboys 23, but Foles retired as an Eagle in 2024, so nobody is left to catch the Philly Special. One point, Eagles fans; enjoy every second of it: https://www.thecoverwindow.com/nfl/gambler/dallas-cowboys-at-philadelphia-eagles"
+      },
+      {
+       "team": "Philadelphia Eagles",
+       "label": "Share as an Eagles fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/dallas-cowboys-at-philadelphia-eagles__gambler__philadelphia-eagles.png",
+       "caption": "Our final is Eagles 24, Cowboys 23, and Witten is coaching Oklahoma's tight ends, not catching third downs in Philly. Staubach is not coming either, Dallas: https://www.thecoverwindow.com/nfl/gambler/dallas-cowboys-at-philadelphia-eagles"
+      }
+     ]
+    }
+   },
    "matchup": "Dallas Cowboys at Philadelphia Eagles",
    "away": {
     "team": "Dallas Cowboys",
