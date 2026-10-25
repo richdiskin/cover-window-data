@@ -1,0 +1,22 @@
+{
+ "schema": 1,
+ "feature": "Lock It Up",
+ "edition": "gambler",
+ "gambler_only": true,
+ "league": "nfl",
+ "week": 7,
+ "slate_date": "2026-10-25",
+ "headline": "Lamar Sits, the Line Runs, Twelve Tickets Move",
+ "text": "On the call: Next Man Up at Tenaya Creek in Las Vegas, Follow The Money at SweetWater in Atlanta, Letdown Watch at Union Craft in Baltimore, Skipjack in hand.\n\nFollow The Money: Ravens −2.5 Tuesday. Bengals −3 now. Total 51 down to 46.5.\n\nNext Man Up: Lamar is out. Huntley sta—\n\nLetdown Watch: You froze on the quarterback.\n\nNext Man Up: Huntley starts. The number still ran past four of our cards.\n\nTwelve changes, every original on record. Inactives settle the rest. Unmute.",
+ "sources": [
+  "NFL.com injury report",
+  "Baltimore Ravens",
+  "Action Network",
+  "Tenaya Creek Brewery",
+  "SweetWater Brewing",
+  "Union Craft Brewing"
+ ],
+ "sponsor": null,
+ "full_story": "nfl/lockitup.json",
+ "changes_file": "nfl/pick_changes.json"
+}

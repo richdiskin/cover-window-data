@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "feature": "Lock It Up",
+ "league": "nfl",
+ "season": 2026,
+ "week": 7,
+ "slate": "Sunday, Oct 25, 2026",
+ "edition": "gambler",
+ "gambler_only": true,
+ "inputs_as_of": "6:15-6:30 AM ET Sun Oct 25, 2026",
+ "published_at": "2026-10-25T11:32Z",
+ "headline": "Lamar Sat, the Line Ran Five and a Half, and Seven Bengals-Ravens Tickets Moved",
+ "dek": "The Ravens ruling out Lamar Jackson just dropped, and the call connects one city at a time: Houston (The Formula, Saint Arnold Beer Garden, Saint Arnold Pilsner), Las Vegas (Next Man Up, Tenaya Creek Brewery, Aviators Ale), Baltimore (Letdown Watch, Union Craft Brewing's Union Hall, Skipjack Pilsner), Atlanta (Follow The Money, SweetWater's Atlanta Taproom, 420 Extra Pale Ale), New Orleans (In The Trenches, Urban South Brewery, Paradise Park). Somebody is already on mute.",
+ "body_markdown": "**Who's holding**\n- The Formula: 22 of 24 Sunday picks held, two changes (see Bengals at Ravens, Giants at Texans).\n- Next Man Up: 20 held, four changes (see Bengals at Ravens, Rams at Raiders).\n- Letdown Watch: 21 held, three changes (see Bengals at Ravens, Rams at Raiders).\n- Follow The Money: one Sunday call, Over 50.5 in 49ers at Falcons, unchanged. Shows the market; not in the score average.\n- In The Trenches: 21 held, three changes (see Bengals at Ravens, Rams at Raiders).\n\n**Bengals at Ravens: the number ran past four cards**\n\n**FOLLOW THE MONEY:** \"Action Network consensus, 6:15 AM ET: Baltimore Ravens −2.5 Tuesday, Baltimore Ravens +3 now; total 51 to 46.5. The Ravens ruled Lamar Jackson out Saturday. Tyler Huntley starts.\"\n\n**NEXT MAN UP:** \"My Huntley rerun has it near even, and the move alone flips me. Original pick stays on record: Cincinnati Bengals +2.5 and Under 51. Final pick: Baltimore Ravens +3 and Over 46.5.\"\n\n**LETDOWN WATCH:** \"Go ahead.\" **IN THE TRENCHES:** \"No, you go.\" **LETDOWN WATCH:** \"Fine. We both flip the same two. Original picks stay on record: Cincinnati Bengals +2.5 and Under 51. Final picks: Baltimore Ravens +3 and Over 46.5.\"\n\n**THE FORMULA:** \"Three Bengals tickets bailed at the curb. My Ravens side holds at −2.5; my total moves. Original pick stays on record: Under 51. Final pick: Over 46.5.\"\n\n**Giants at Texans: one point late, one card flipped**\n\n**THE FORMULA:** \"Houston Texans −9.5 Tuesday is Houston Texans −10.5 now, Action Network consensus at 6:15 AM ET. My Texans by 9.6 doesn't reach it. Original pick stays on record: Houston Texans −9.5. Final pick: New York Giants +10.5.\"\n\n**NEXT MAN UP:** \"We saved you a seat on the Giants at +9.5. You waited a week and took the one at +10.5.\"\n\n**IN THE TRENCHES:** \"Holding out a week for one point. That's a contract negotiation.\"\n\n**Rams at Raiders: three cards cross over**\n\n**NEXT MAN UP:** \"Rams minus three and a—\" *(frozen, back)* \"Los Angeles Rams −4.5 Tuesday, Los Angeles Rams −3.5 now, total 47.5 to 48.5, Action Network consensus at 6:15 AM ET. My Rams by 3.7 clears it; my 47.9 total doesn't. Original pick stays on record: Las Vegas Raiders +4.5 and Over 47.5. Final pick: Los Angeles Rams −3.5 and Under 48.5.\"\n\n**LETDOWN WATCH:** \"Rams by 3.8. Original pick stays on record: Las Vegas Raiders +4.5. Final pick: Los Angeles Rams −3.5.\"\n\n**IN THE TRENCHES:** \"Rams by 4.2, same move. Original pick stays on record: Las Vegas Raiders +4.5. Final pick: Los Angeles Rams −3.5.\"\n\n**THE FORMULA:** \"Los Angeles Rams −4.5 all week here. You three bought the same team a point cheaper and want a parade.\"\n\n**Everybody else: sticking**\n- Steelers at Saints: Pittsburgh −3.5 slid to −3. Next Man Up (Steelers by 2.5) and In The Trenches (2.7) are sticking with New Orleans Saints +3.5; The Formula and Letdown Watch with Pittsburgh Steelers −3.5.\n- Dolphins at Jets: Breece Hall (quad) is questionable on Friday's Jets report; Next Man Up moves on quarterbacks. Sticking with Miami Dolphins +4.5.\n- Chiefs at Seahawks: Drew Lock (elbow) is questionable on Friday's Seahawks report. Next Man Up has Lock starting and is sticking with Kansas City Chiefs +2.5 until inactives.\n- 49ers at Falcons: four cards sticking with San Francisco 49ers −3.5.\n- Five other games: no card crosses the current number.\n\n**Closing button:** One quarterback out, a five-and-a-half-point swing, 12 changes, all originals on record. Inactives, 90 minutes before each kickoff, settle Hall, Puka Nacua and Lock. Everybody unmute.",
+ "changes_file": "nfl/pick_changes.json",
+ "change_count": 12,
+ "game_ids": [
+  "401873012",
+  "401873016",
+  "401873021"
+ ],
+ "magazine_file": "magazine/lockitup.json",
+ "sources": [
+  {
+   "label": "Saint Arnold Brewing Company, Saint Arnold Beer Garden (2000 Lyons Ave, Houston) and Saint Arnold Pilsner",
+   "urls": [
+    "https://www.saintarnold.com/"
+   ],
+   "checked_et": "6:20 AM ET Oct 25, 2026",
+   "note": "mention only; no sponsorship"
+  },
+  {
+   "label": "Tenaya Creek Brewery taproom (831 W Bonanza Rd, Las Vegas)",
+   "urls": [
+    "https://www.tenayacreekbrewing.com/visit",
+    "https://www.tenayacreekbrewing.com/beers"
+   ],
+   "checked_et": "6:24 AM ET Oct 25, 2026",
+   "note": "mention only; no sponsorship"
+  },
+  {
+   "label": "Union Craft Brewing, Union Hall taproom (1700 W 41st St, Baltimore)",
+   "urls": [
+    "https://www.unioncraftbrewing.com/visit",
+    "https://www.unioncraftbrewing.com/"
+   ],
+   "checked_et": "6:21 AM ET Oct 25, 2026",
+   "note": "mention only; no sponsorship"
+  },
+  {
+   "label": "SweetWater Brewing Company, Atlanta Taproom and Kitchen (195 Ottley Dr NE, Atlanta)",
+   "urls": [
+    "https://www.sweetwaterbrew.com/atlanta",
+    "https://www.sweetwaterbrew.com/"
+   ],
+   "checked_et": "6:21 AM ET Oct 25, 2026",
+   "note": "mention only; no sponsorship"
+  },
+  {
+   "label": "Urban South Brewery taproom (1645 Tchoupitoulas St, New Orleans)",
+   "urls": [
+    "https://urbansouth.com/taprooms/new-orleans",
+    "https://urbansouthbrewery.com/"
+   ],
+   "checked_et": "6:22 AM ET Oct 25, 2026",
+   "note": "mention only; no sponsorship"
+  },
+  {
+   "label": "Action Network NFL odds, consensus lines",
+   "urls": [
+    "https://www.actionnetwork.com/nfl/odds"
+   ],
+   "checked_et": "6:15 AM ET Oct 25, 2026",
+   "note": null
+  },
+  {
+   "label": "Baltimore Ravens, \"Lamar Jackson Ruled Out vs. Bengals\" (Oct 24, 2026)",
+   "urls": [
+    "https://www.baltimoreravens.com/news/lamar-jackson-out-against-bengals-week-7-tyler-huntley-third-straight-start"
+   ],
+   "checked_et": "6:25 AM ET Oct 25, 2026",
+   "note": null
+  },
+  {
+   "label": "NFL.com Week 7 official injury report (Breece Hall, Drew Lock, Puka Nacua questionable; Lamar Jackson out)",
+   "urls": [
+    "https://www.nfl.com/injuries/league/2026/reg7"
+   ],
+   "checked_et": "6:17 AM ET Oct 25, 2026",
+   "note": null
+  }
+ ],
+ "sponsor": null
+}
