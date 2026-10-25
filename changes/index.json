@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "title": "What Changed and Why",
+ "edition": "gambler",
+ "gambler_only": true,
+ "about": "Single home for every pick-change summary. Newest first. One file per league and week; append a new entry to pages[] each week.",
+ "updated_iso": "2026-10-25T07:41:46-04:00",
+ "pages": [
+  {
+   "league": "nfl",
+   "season": 2026,
+   "week": 7,
+   "label": "NFL Week 7",
+   "slate_date": "2026-10-25",
+   "file": "changes/nfl/2026-w07.json",
+   "updated_iso": "2026-10-25T07:41:46-04:00",
+   "change_count": 12,
+   "changes_file": "nfl/pick_changes.json",
+   "games": [
+    {
+     "game": "Cincinnati Bengals at Baltimore Ravens",
+     "game_id": "401873012"
+    },
+    {
+     "game": "New York Giants at Houston Texans",
+     "game_id": "401873016"
+    },
+    {
+     "game": "Los Angeles Rams at Las Vegas Raiders",
+     "game_id": "401873021"
+    }
+   ]
+  }
+ ]
+}
