@@ -1,0 +1,400 @@
+{
+ "status": "published",
+ "league": "college",
+ "date": "2026-10-24",
+ "title": "Weekly Highlights",
+ "header": "Highlights from the Handicap Recap (FBS · Week of Tue Oct 20 – Sat Oct 24, 2026 | graded to the card line at kickoff)",
+ "generated_at_utc": "2026-10-26T00:25:16Z",
+ "source_note": "Scores and card lines from the graded archive archive/college/2026-10-24/; play details from ESPN play-by-play.",
+ "sections": [
+  {
+   "key": "closest_lucky_covers",
+   "title": "Closest Lucky Covers",
+   "items": [
+    {
+     "game_id": "401864527",
+     "text": "New Mexico −4: covered by 1, won by 5 (New Mexico 21, North Dakota State 16).",
+     "colour": [
+      {
+       "text": "New Mexico scored on Austin Brawley's 56-yard interception-return touchdown with 10:57 left in the fourth quarter.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401864527",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401864527"
+      }
+     ]
+    },
+    {
+     "game_id": "401856837",
+     "text": "Utah −6.5: covered by 1.5, won by 8 (Utah 21, Houston 13).",
+     "colour": [
+      {
+       "text": "The cover for Utah was settled by Devon Dampier's 9-yard touchdown run with 2:09 left in the fourth quarter.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401856837",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856837"
+      }
+     ]
+    },
+    {
+     "game_id": "401862808",
+     "text": "Army −1.5: covered by 1.5, won by 3 (Army 38, Tulsa 35).",
+     "colour": [
+      {
+       "text": "Army won it on Dawson Jones's 50-yard field goal on the final play, which also settled the cover.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401862808",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401862808"
+      },
+      {
+       "text": "Army blocked a Tulsa punt with 3:52 left in the fourth quarter.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401862808",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401862808"
+      }
+     ]
+    },
+    {
+     "game_id": "401866476",
+     "text": "Central Michigan +2.5: covered by 1.5, lost by 1 (Miami (OH) 28, Central Michigan 27).",
+     "colour": [
+      {
+       "text": "Miami (OH) took the lead for good on D'Shawntae Jones's 2-yard touchdown run with 1:41 left in the fourth quarter.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401866476",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401866476"
+      }
+     ]
+    },
+    {
+     "game_id": "401856834",
+     "text": "Kansas +1.5: covered by 2.5, won by 1 (Kansas 25, Baylor 24).",
+     "colour": [
+      {
+       "text": "Kansas took the lead for good on Isaiah Marshall's 15-yard touchdown run with 1:13 left in the fourth quarter, which also settled the cover.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401856834",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856834"
+      },
+      {
+       "text": "Kansas blocked a 45-yard Baylor field goal try with 0:18 left in the fourth quarter.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401856834",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856834"
+      }
+     ]
+    },
+    {
+     "game_id": "401862807",
+     "text": "East Carolina +10: covered by 3, lost by 7 in overtime (Memphis 41, East Carolina 34).",
+     "colour": [
+      {
+       "text": "Memphis won it in overtime on Marcus Stokes's 5-yard touchdown run.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401862807",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401862807"
+      }
+     ]
+    },
+    {
+     "game_id": "401866448",
+     "text": "Buffalo −4: covered by 3, won by 7 (Buffalo 31, Bowling Green 24).",
+     "colour": []
+    },
+    {
+     "game_id": "401871070",
+     "text": "New Mexico State −3: covered by 3, won by 6 (New Mexico State 30, Sam Houston 24).",
+     "colour": []
+    },
+    {
+     "game_id": "401856727",
+     "text": "Texas A&M +14.5: covered by 3.5, lost by 11 (Alabama 31, Texas A&M 20).",
+     "colour": []
+    },
+    {
+     "game_id": "401856732",
+     "text": "Texas −3.5: covered by 3.5, won by 7 (Texas 34, Ole Miss 27).",
+     "colour": [
+      {
+       "text": "Texas blocked a 58-yard Ole Miss field goal try with 6:21 left in the fourth quarter.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401856732",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856732"
+      }
+     ]
+    },
+    {
+     "game_id": "401861965",
+     "text": "UConn −15.5: covered by 3.5, won by 19 (UConn 35, Massachusetts 16).",
+     "colour": []
+    },
+    {
+     "game_id": "401866450",
+     "text": "Toledo −3.5: covered by 3.5, won by 7 (Toledo 45, Western Michigan 38).",
+     "colour": [
+      {
+       "text": "The cover for Toledo was settled by CJ Miller's 11-yard touchdown run with 4:23 left in the fourth quarter.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401866450",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401866450"
+      }
+     ]
+    },
+    {
+     "game_id": "401858275",
+     "text": "Syracuse +9.5: covered by 10.5, won by 1 in overtime (Syracuse 31, North Carolina 30).",
+     "colour": [
+      {
+       "text": "Syracuse won it in overtime on Steve Angeli's 4-yard touchdown pass to Calvin Russell III and the two-point conversion.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401858275",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401858275"
+      }
+     ]
+    },
+    {
+     "game_id": "401869845",
+     "text": "App State +10.5: covered by 13.5, won by 3 in overtime (App State 34, James Madison 31).",
+     "colour": [
+      {
+       "text": "App State won it in overtime on James London's 40-yard field goal.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401869845",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401869845"
+      }
+     ]
+    },
+    {
+     "game_id": "401856835",
+     "text": "UCF +6.5: covered by 14.5, won by 8 in double overtime (UCF 39, BYU 31).",
+     "colour": [
+      {
+       "text": "UCF won it in the second overtime on Keyone Jenkins's 4-yard touchdown pass to Grayson Brousseau and the two-point conversion.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401856835",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856835"
+      },
+      {
+       "text": "BYU blocked a 46-yard UCF field goal try with 0:10 left in the fourth quarter.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401856835",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856835"
+      },
+      {
+       "text": "The cover for UCF was settled by Keyone Jenkins's 25-yard touchdown pass to Josh Derry in overtime.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401856835",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856835"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "heartbreaking_misses",
+   "title": "Heartbreaking Misses & Near-Covers",
+   "items": [
+    {
+     "game_id": "401871094",
+     "text": "Troy −17.5: lost outright by 7 (UL Monroe 21, Troy 14), missed by 24.5.",
+     "colour": [
+      {
+       "text": "UL Monroe scored on a fumble-return touchdown by Billy Pullen on the final play of regulation.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401871094",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401871094"
+      },
+      {
+       "text": "Troy led 14-3 with 6:16 left in the fourth quarter and still lost.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401871094",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401871094"
+      }
+     ]
+    },
+    {
+     "game_id": "401856840",
+     "text": "Texas Tech −11.5: lost outright by 13 (Cincinnati 37, Texas Tech 24), missed by 24.5.",
+     "colour": []
+    },
+    {
+     "game_id": "401869967",
+     "text": "Louisiana −11.5: lost outright by 4 (Southern Miss 35, Louisiana 31), missed by 15.5.",
+     "colour": [
+      {
+       "text": "Southern Miss took the lead for good on Jamarice Wilder's 16-yard touchdown run with 0:58 left in the fourth quarter.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401869967",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401869967"
+      },
+      {
+       "text": "Southern Miss scored on an interception-return touchdown by Kolby Peavy with 10:05 left in the fourth quarter.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401869967",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401869967"
+      }
+     ]
+    },
+    {
+     "game_id": "401871055",
+     "text": "Florida International −10.5: lost outright by 3 (Middle Tennessee 26, Florida International 23), missed by 13.5.",
+     "colour": []
+    },
+    {
+     "game_id": "401869845",
+     "text": "James Madison −10.5: lost outright by 3 in overtime (App State 34, James Madison 31), missed by 13.5.",
+     "colour": [
+      {
+       "text": "App State won it in overtime on James London's 40-yard field goal.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401869845",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401869845"
+      }
+     ]
+    },
+    {
+     "game_id": "401858495",
+     "text": "Oregon −10.5: lost outright by 11 (Illinois 21, Oregon 10), missed by 21.5.",
+     "colour": []
+    },
+    {
+     "game_id": "401858275",
+     "text": "North Carolina −9.5: lost outright by 1 in overtime (Syracuse 31, North Carolina 30), missed by 10.5.",
+     "colour": [
+      {
+       "text": "Syracuse won it in overtime on Steve Angeli's 4-yard touchdown pass to Calvin Russell III and the two-point conversion.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401858275",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401858275"
+      }
+     ]
+    },
+    {
+     "game_id": "401856841",
+     "text": "TCU −8.5: lost outright by 4 (West Virginia 24, TCU 20), missed by 12.5.",
+     "colour": []
+    },
+    {
+     "game_id": "401858272",
+     "text": "NC State −7: lost outright by 3 (Stanford 31, NC State 28), missed by 10.",
+     "colour": []
+    },
+    {
+     "game_id": "401858497",
+     "text": "Iowa −7: lost outright by 3 (Minnesota 13, Iowa 10), missed by 10.",
+     "colour": [
+      {
+       "text": "Minnesota won it on Luke Drzewiecki's 46-yard field goal on the final play.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401858497",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401858497"
+      }
+     ]
+    },
+    {
+     "game_id": "401856835",
+     "text": "BYU −6.5: lost outright by 8 in double overtime (UCF 39, BYU 31), missed by 14.5.",
+     "colour": [
+      {
+       "text": "UCF won it in the second overtime on Keyone Jenkins's 4-yard touchdown pass to Grayson Brousseau and the two-point conversion.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401856835",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856835"
+      },
+      {
+       "text": "BYU blocked a 46-yard UCF field goal try with 0:10 left in the fourth quarter.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401856835",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856835"
+      },
+      {
+       "text": "The cover for UCF was settled by Keyone Jenkins's 25-yard touchdown pass to Josh Derry in overtime.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401856835",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856835"
+      }
+     ]
+    },
+    {
+     "game_id": "401856731",
+     "text": "Tennessee −1.5: beaten on the final play, lost by 3 (South Carolina 27, Tennessee 24), missed by 4.5.",
+     "colour": [
+      {
+       "text": "South Carolina won it on Malik Orsan's 48-yard field goal on the final play.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401856731",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856731"
+      },
+      {
+       "text": "The cover for South Carolina was settled by LaNorris Sellers's 4-yard touchdown run with 1:17 left in the fourth quarter.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401856731",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856731"
+      },
+      {
+       "text": "Tennessee led 24-17 with 11:46 left in the fourth quarter and still lost.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401856731",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856731"
+      }
+     ]
+    },
+    {
+     "game_id": "401864527",
+     "text": "North Dakota State +4: missed by 1, lost by 5 (New Mexico 21, North Dakota State 16). The other side of a cover listed above.",
+     "colour": []
+    },
+    {
+     "game_id": "401856837",
+     "text": "Houston +6.5: missed by 1.5, lost by 8 (Utah 21, Houston 13). The other side of a cover listed above.",
+     "colour": []
+    },
+    {
+     "game_id": "401862808",
+     "text": "Tulsa +1.5: missed by 1.5, lost by 3 (Army 38, Tulsa 35). The other side of a cover listed above.",
+     "colour": []
+    },
+    {
+     "game_id": "401866476",
+     "text": "Miami (OH) −2.5: missed by 1.5, won by 1 (Miami (OH) 28, Central Michigan 27). The other side of a cover listed above.",
+     "colour": []
+    },
+    {
+     "game_id": "401858496",
+     "text": "Indiana −7: push, won by 7 in overtime (Indiana 13, Michigan 6).",
+     "colour": [
+      {
+       "text": "Indiana won it in overtime on Josh Hoover's 4-yard touchdown run.",
+       "espn_page": "https://www.espn.com/college-football/game/_/gameId/401858496",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401858496"
+      }
+     ]
+    },
+    {
+     "game_id": "401856727",
+     "text": "Texas A&M–Alabama: finished with 51 against a total of 51.5, so the Under got there by 0.5.",
+     "colour": []
+    },
+    {
+     "game_id": "401856729",
+     "text": "Vanderbilt–Kentucky: finished with 51 against a total of 51.5, so the Under got there by 0.5.",
+     "colour": []
+    },
+    {
+     "game_id": "401856731",
+     "text": "Tennessee–South Carolina: finished with 51 against a total of 50.5, so the Over got there by 0.5.",
+     "colour": []
+    },
+    {
+     "game_id": "401866447",
+     "text": "Sacramento State–Ball State: finished with 51 against a total of 51.5, so the Under got there by 0.5.",
+     "colour": []
+    }
+   ]
+  },
+  {
+   "key": "wildest_scoring",
+   "title": "Wildest Scoring",
+   "items": [
+    {
+     "game_id": "401860905",
+     "text": "Colorado State 56, San Diego State 49: 105 points (total 61.5; Colorado State +3 covered by 10).",
+     "colour": []
+    },
+    {
+     "game_id": "401862809",
+     "text": "Florida Atlantic 51, Rice 49: 100 points (total 55.5; Rice +10 covered by 8).",
+     "colour": []
+    },
+    {
+     "game_id": "401871069",
+     "text": "Delaware 61, Missouri State 38: 99 points (total 52.5; Delaware −3 covered by 20).",
+     "colour": []
+    },
+    {
+     "game_id": "401862810",
+     "text": "North Texas 49, Navy 39: 88 points (total 62.5; North Texas −2.5 covered by 7.5).",
+     "colour": []
+    },
+    {
+     "game_id": "401866450",
+     "text": "Toledo 45, Western Michigan 38: 83 points (total 45.5; Toledo −3.5 covered by 3.5).",
+     "colour": []
+    }
+   ]
+  }
+ ],
+ "closer": "4 totals landed a half point from the number, 5 games went to overtime and 3 were won on the final play of regulation. The only push on the side was Indiana −7.",
+ "archive_path": "archive/college/2026-10-24/"
+}
