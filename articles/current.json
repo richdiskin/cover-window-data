@@ -8,6 +8,97 @@
   "lead_id": "fanatic_team-indiana",
   "articles": [
     {
+      "id": "fanatic_team-indiana",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "indiana",
+      "team_ids": [
+        "indiana"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858496",
+      "title": "And the Crown Goes to... Indiana! Hoosiers Win at the Big House for the First Time Since 1967",
+      "byline": "Mallory Penhallow, The Indiana Fanatic",
+      "matchup": "Indiana 13, Michigan 6 (final, OT), Sat., Oct. 24, Michigan Stadium",
+      "date": "2026-10-26",
+      "word_count": 373,
+      "text": "Good morning, America. I'd like to thank the judges, the Big House, and every single Hoosier who stood in the cold until overtime. Mallory Penhallow here, former Miss Monroe County runner-up, and darlings, I finally have a crown. Indiana 13, Michigan 6, in overtime, in front of 111,276 people. The AP says it's Indiana's first win at Michigan Stadium since 1967. Fifty-nine years! My sash is soaked in happy tears.\n\nNow, the talent portion was not pretty. Through four quarters, Indiana had two field goals from Nico Radicic, from 22 and 34 yards. Michigan had two field goals. Michigan's last one came as time expired, after the Wolverines reached our 3 and our defense sacked Tommy Carr for a fourth time to force the kick. Tied 6-6. Into the evening gown round we went.\n\nOvertime, first snap: Josh Hoover, who is banged up and nearly got benched, threw a 21-yard pass to Brock Schott. Then he ran it in himself from 4 yards out. Michigan got the ball back, reached our 13, and Carr's last pass hit the turf in front of Salesi Moa just outside the end zone. I screamed so loud I lost my pageant voice.\n\nHero: the defense, which kept Michigan out of the end zone all day and held the Wolverines to 57 rushing yards. Rolijah Hardy made nine tackles with two sacks. Amare Ferrell intercepted a pass, and Michigan lost a fumble too. Hoover gets the crown jewel for gutting it out. The goat, affectionately: our passing game, 8 of 18 for 81 yards. Nobody wins Miss Congeniality every year.\n\nWhat it means: Indiana is 7-1 and 4-1 in the Big Ten and jumped from No. 6 to No. 4 in the AP poll released Oct. 25. After coming up inches short against Ohio State, the Hoosiers still have never lost two straight in Curt Cignetti's three years, per the AP. Poise, posture and a defense that won't let you breathe.\n\nNext up: Minnesota visits Memorial Stadium in Bloomington on Saturday, Oct. 31, at 3:30 p.m. ET on CBS. Halloween at home. I'm going as a 1967 Hoosier, which is to say, a winner in Ann Arbor.\n\nThank you, thank you. Wave from the elbow, and go Hoosiers!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Good morning, America. I'd like to thank the judges, the Big House, and every single Hoosier who stood in the cold until overtime. Mallory Penhallow here, former Miss Monroe County runner-up, and darlings, I finally have a crown. Indiana 13, Michigan 6, in overtime, in front of 111,276 people. The AP says it's Indiana's first win at Michigan Stadium since 1967. Fifty-nine years! My sash is soaked in happy tears."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now, the talent portion was not pretty. Through four quarters, Indiana had two field goals from Nico Radicic, from 22 and 34 yards. Michigan had two field goals. Michigan's last one came as time expired, after the Wolverines reached our 3 and our defense sacked Tommy Carr for a fourth time to force the kick. Tied 6-6. Into the evening gown round we went."
+        },
+        {
+          "type": "paragraph",
+          "text": "Overtime, first snap: Josh Hoover, who is banged up and nearly got benched, threw a 21-yard pass to Brock Schott. Then he ran it in himself from 4 yards out. Michigan got the ball back, reached our 13, and Carr's last pass hit the turf in front of Salesi Moa just outside the end zone. I screamed so loud I lost my pageant voice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hero: the defense, which kept Michigan out of the end zone all day and held the Wolverines to 57 rushing yards. Rolijah Hardy made nine tackles with two sacks. Amare Ferrell intercepted a pass, and Michigan lost a fumble too. Hoover gets the crown jewel for gutting it out. The goat, affectionately: our passing game, 8 of 18 for 81 yards. Nobody wins Miss Congeniality every year."
+        },
+        {
+          "type": "paragraph",
+          "text": "What it means: Indiana is 7-1 and 4-1 in the Big Ten and jumped from No. 6 to No. 4 in the AP poll released Oct. 25. After coming up inches short against Ohio State, the Hoosiers still have never lost two straight in Curt Cignetti's three years, per the AP. Poise, posture and a defense that won't let you breathe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: Minnesota visits Memorial Stadium in Bloomington on Saturday, Oct. 31, at 3:30 p.m. ET on CBS. Halloween at home. I'm going as a 1967 Hoosier, which is to say, a winner in Ann Arbor."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thank you, thank you. Wave from the elbow, and go Hoosiers!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Indiana beat Michigan 13-6 in overtime on Saturday, Oct. 24, at Michigan Stadium before 111,276 fans, the Hoosiers' first win in Ann Arbor since 1967, per the AP."
+        },
+        {
+          "type": "fact",
+          "text": "Josh Hoover, playing banged up, ran for a 4-yard touchdown in overtime after a 21-yard pass to Brock Schott on the first snap of the period."
+        },
+        {
+          "type": "fact",
+          "text": "Rolijah Hardy had nine tackles and two sacks, Amare Ferrell intercepted a pass, and Indiana held Michigan to 57 rushing yards and no touchdowns."
+        },
+        {
+          "type": "fact",
+          "text": "Indiana (7-1, 4-1 Big Ten) rose from No. 6 to No. 4 in the Oct. 25 AP poll and hosts Minnesota on Saturday, Oct. 31, at 3:30 p.m. ET on CBS."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN game page and recap, Indiana 13, Michigan 6 (OT) (Oct. 24, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858496"
+        },
+        {
+          "label": "ESPN box score, Indiana at Michigan",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858496"
+        },
+        {
+          "label": "ESPN play-by-play, Indiana at Michigan",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858496"
+        },
+        {
+          "label": "AP Top 25 poll, Oct. 25, 2026 (ESPN)",
+          "url": "https://www.espn.com/college-football/rankings"
+        },
+        {
+          "label": "ESPN Indiana 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/84"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
       "id": "fanatic_team-middle-tennessee",
       "kind": "fanatic_team",
       "league": "college",
@@ -6574,97 +6665,6 @@
         {
           "label": "ESPN Auburn 2026 schedule",
           "url": "https://www.espn.com/college-football/team/schedule/_/id/2"
-        }
-      ],
-      "sources_display": "button",
-      "age_21": false,
-      "sponsored": false,
-      "venues": []
-    },
-    {
-      "id": "fanatic_team-indiana",
-      "kind": "fanatic_team",
-      "league": "college",
-      "team_id": "indiana",
-      "team_ids": [
-        "indiana"
-      ],
-      "tab_id": "bigten",
-      "game_id": "401858496",
-      "title": "And the Crown Goes to... Indiana! Hoosiers Win at the Big House for the First Time Since 1967",
-      "byline": "Mallory Penhallow, The Indiana Fanatic",
-      "matchup": "Indiana 13, Michigan 6 (final, OT), Sat., Oct. 24, Michigan Stadium",
-      "date": "2026-10-26",
-      "word_count": 373,
-      "text": "Good morning, America. I'd like to thank the judges, the Big House, and every single Hoosier who stood in the cold until overtime. Mallory Penhallow here, former Miss Monroe County runner-up, and darlings, I finally have a crown. Indiana 13, Michigan 6, in overtime, in front of 111,276 people. The AP says it's Indiana's first win at Michigan Stadium since 1967. Fifty-nine years! My sash is soaked in happy tears.\n\nNow, the talent portion was not pretty. Through four quarters, Indiana had two field goals from Nico Radicic, from 22 and 34 yards. Michigan had two field goals. Michigan's last one came as time expired, after the Wolverines reached our 3 and our defense sacked Tommy Carr for a fourth time to force the kick. Tied 6-6. Into the evening gown round we went.\n\nOvertime, first snap: Josh Hoover, who is banged up and nearly got benched, threw a 21-yard pass to Brock Schott. Then he ran it in himself from 4 yards out. Michigan got the ball back, reached our 13, and Carr's last pass hit the turf in front of Salesi Moa just outside the end zone. I screamed so loud I lost my pageant voice.\n\nHero: the defense, which kept Michigan out of the end zone all day and held the Wolverines to 57 rushing yards. Rolijah Hardy made nine tackles with two sacks. Amare Ferrell intercepted a pass, and Michigan lost a fumble too. Hoover gets the crown jewel for gutting it out. The goat, affectionately: our passing game, 8 of 18 for 81 yards. Nobody wins Miss Congeniality every year.\n\nWhat it means: Indiana is 7-1 and 4-1 in the Big Ten and jumped from No. 6 to No. 4 in the AP poll released Oct. 25. After coming up inches short against Ohio State, the Hoosiers still have never lost two straight in Curt Cignetti's three years, per the AP. Poise, posture and a defense that won't let you breathe.\n\nNext up: Minnesota visits Memorial Stadium in Bloomington on Saturday, Oct. 31, at 3:30 p.m. ET on CBS. Halloween at home. I'm going as a 1967 Hoosier, which is to say, a winner in Ann Arbor.\n\nThank you, thank you. Wave from the elbow, and go Hoosiers!",
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Good morning, America. I'd like to thank the judges, the Big House, and every single Hoosier who stood in the cold until overtime. Mallory Penhallow here, former Miss Monroe County runner-up, and darlings, I finally have a crown. Indiana 13, Michigan 6, in overtime, in front of 111,276 people. The AP says it's Indiana's first win at Michigan Stadium since 1967. Fifty-nine years! My sash is soaked in happy tears."
-        },
-        {
-          "type": "paragraph",
-          "text": "Now, the talent portion was not pretty. Through four quarters, Indiana had two field goals from Nico Radicic, from 22 and 34 yards. Michigan had two field goals. Michigan's last one came as time expired, after the Wolverines reached our 3 and our defense sacked Tommy Carr for a fourth time to force the kick. Tied 6-6. Into the evening gown round we went."
-        },
-        {
-          "type": "paragraph",
-          "text": "Overtime, first snap: Josh Hoover, who is banged up and nearly got benched, threw a 21-yard pass to Brock Schott. Then he ran it in himself from 4 yards out. Michigan got the ball back, reached our 13, and Carr's last pass hit the turf in front of Salesi Moa just outside the end zone. I screamed so loud I lost my pageant voice."
-        },
-        {
-          "type": "paragraph",
-          "text": "Hero: the defense, which kept Michigan out of the end zone all day and held the Wolverines to 57 rushing yards. Rolijah Hardy made nine tackles with two sacks. Amare Ferrell intercepted a pass, and Michigan lost a fumble too. Hoover gets the crown jewel for gutting it out. The goat, affectionately: our passing game, 8 of 18 for 81 yards. Nobody wins Miss Congeniality every year."
-        },
-        {
-          "type": "paragraph",
-          "text": "What it means: Indiana is 7-1 and 4-1 in the Big Ten and jumped from No. 6 to No. 4 in the AP poll released Oct. 25. After coming up inches short against Ohio State, the Hoosiers still have never lost two straight in Curt Cignetti's three years, per the AP. Poise, posture and a defense that won't let you breathe."
-        },
-        {
-          "type": "paragraph",
-          "text": "Next up: Minnesota visits Memorial Stadium in Bloomington on Saturday, Oct. 31, at 3:30 p.m. ET on CBS. Halloween at home. I'm going as a 1967 Hoosier, which is to say, a winner in Ann Arbor."
-        },
-        {
-          "type": "paragraph",
-          "text": "Thank you, thank you. Wave from the elbow, and go Hoosiers!"
-        }
-      ],
-      "summary": [
-        {
-          "type": "fact",
-          "text": "Indiana beat Michigan 13-6 in overtime on Saturday, Oct. 24, at Michigan Stadium before 111,276 fans, the Hoosiers' first win in Ann Arbor since 1967, per the AP."
-        },
-        {
-          "type": "fact",
-          "text": "Josh Hoover, playing banged up, ran for a 4-yard touchdown in overtime after a 21-yard pass to Brock Schott on the first snap of the period."
-        },
-        {
-          "type": "fact",
-          "text": "Rolijah Hardy had nine tackles and two sacks, Amare Ferrell intercepted a pass, and Indiana held Michigan to 57 rushing yards and no touchdowns."
-        },
-        {
-          "type": "fact",
-          "text": "Indiana (7-1, 4-1 Big Ten) rose from No. 6 to No. 4 in the Oct. 25 AP poll and hosts Minnesota on Saturday, Oct. 31, at 3:30 p.m. ET on CBS."
-        }
-      ],
-      "sources": [
-        {
-          "label": "ESPN game page and recap, Indiana 13, Michigan 6 (OT) (Oct. 24, 2026)",
-          "url": "https://www.espn.com/college-football/game/_/gameId/401858496"
-        },
-        {
-          "label": "ESPN box score, Indiana at Michigan",
-          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858496"
-        },
-        {
-          "label": "ESPN play-by-play, Indiana at Michigan",
-          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858496"
-        },
-        {
-          "label": "AP Top 25 poll, Oct. 25, 2026 (ESPN)",
-          "url": "https://www.espn.com/college-football/rankings"
-        },
-        {
-          "label": "ESPN Indiana 2026 schedule",
-          "url": "https://www.espn.com/college-football/team/schedule/_/id/84"
         }
       ],
       "sources_display": "button",
