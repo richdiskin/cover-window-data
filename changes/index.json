@@ -9,6 +9,20 @@
   {
    "league": "nfl",
    "season": 2026,
+   "week": 8,
+   "label": "NFL Week 8",
+   "slate_date": "2026-11-01",
+   "file": "changes/nfl/2026-w08.json",
+   "updated_iso": "2026-10-27T17:00:00-04:00",
+   "change_count": 0,
+   "changes_file": "nfl/pick_changes.json",
+   "games": [],
+   "status": "no_changes_yet",
+   "note": "No NFL Week 8 Lock It Up changes yet. games is empty, so the app hides What Changed and Why; the file is not fetched and not created until changes exist. Week 7 stays below as the archive (changes/nfl/2026-w07.json)."
+  },
+  {
+   "league": "nfl",
+   "season": 2026,
    "week": 7,
    "label": "NFL Week 7",
    "slate_date": "2026-10-25",
