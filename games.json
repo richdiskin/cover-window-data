@@ -5969,6 +5969,139 @@
    "gambler_story": "Tessa Nakagawa-Ruiz is sketching a game-week roadmap on a whiteboard outside CEFCU Stadium when Paloma Begaye-Ortiz walks up holding two foil-wrapped burritos. \"Red or green?\" Paloma asks. Tessa studies them like a product spec. \"Can I A/B test both?\" Paloma laughs. \"Both, Tessa. Always both.\"\n\nNew Mexico (6-1, 3-0 Mountain West) visits San José State (4-4, 2-2 Mountain West) Saturday at 4 p.m. ET on MW+ at CEFCU Stadium in San Jose. DraftKings has New Mexico Lobos −14.5 with a total of 42.5. My card: New Mexico Lobos −14.5, Over 42.5, and a final of New Mexico Lobos 31, San José State Spartans 15.\n\nPaloma speaks for New Mexico. \"We beat North Dakota State 21-16 last week, and Kiefer Sibley ran for 91 yards and a touchdown. Scottre Humphrey has nine rushing touchdowns, Brett Karhu has five sacks, and Mercury Swaim has 43 tackles. Our defense allows 11.3 points a game. Red or green? BOTH!\"\n\nTessa speaks for San José State. \"Rollback. We lost 28-13 at Nevada, and our quarterback spot is a work in progress. Daniel Rolovich got hurt early, and Luke Weaver came back late. Weaver has 11 touchdown throws. Carson Clark has 47 catches, Jayland McGlothen has six sacks and Dylan Lee has 71 tackles. And we've won the last four meetings.\"\n\nWhy New Mexico? Because the Lobos defend and run the ball. New Mexico allows 11.3 points a game, and its only loss was 14-6 at Oklahoma. San José State scored 13 points at Nevada and 13 against Wyoming, and it's sorting out its quarterbacks. My final has the Lobos winning by 16.\n\nThe risk is the New Mexico passing game. Toa Fa'avae threw for 92 yards last week and 59 at Hawai'i, with interceptions in both, and the Lobos won those games 21-10 and 21-16. McGlothen can get after the quarterback, and the Spartans have won the last four meetings, including 35-28 last season. If New Mexico can't throw, this stays close.\n\nWhy the Over? New Mexico can score in a hurry: 38 against Central Michigan, 70 against Mercyhurst, 42 at New Mexico State and 61 against UTEP. The last five meetings between these teams finished 48-41, 32-21, 38-21, 52-24 and 35-28. My 31-15 adds up to 46, over 42.5.\n\nNow the room. The Formula has New Mexico 31-15, sides with New Mexico, and likes the Over. Next Man Up has New Mexico 30-15, sides with New Mexico, and likes the Over. Follow The Money sits out both, since the spread and the total haven't budged. In The Trenches sits out: the New Mexico run game and the San José State run game each have a matchup they like, so they cancel out.\n\nThe Formula opened: \"New Mexico's defense wins this by more than two scores.\"\n\nNext Man Up agreed: \"And the Lobos score enough for the Over.\"\n\nFollow The Money shrugged: \"Nothing moved. I'm watching.\"\n\nBottom of the card: a New Mexico defense that takes the ball away, a San José State team sorting out its quarterbacks and a Halloween crowd in San Jose. Give me the Lobos and the Over.\n\nNew Mexico Lobos 31, San José State Spartans 15. New Mexico Lobos cover the 14.5. Over 42.5."
   },
   {
+   "game_id": "401858506",
+   "matchup": "Purdue Boilermakers at Penn State Nittany Lions",
+   "away": {
+    "team": "Purdue Boilermakers",
+    "conference": "Big Ten",
+    "record": "3-4",
+    "rank": null
+   },
+   "home": {
+    "team": "Penn State Nittany Lions",
+    "conference": "Big Ten",
+    "record": "3-4",
+    "rank": null
+   },
+   "kickoff_et": "4:15 PM ET Sat Oct 31",
+   "kickoff_utc": "2026-10-31T20:15Z",
+   "tv": [
+    "BTN"
+   ],
+   "venue": "Beaver Stadium",
+   "conferences": [
+    "Big Ten"
+   ],
+   "team_ids": [
+    "purdue",
+    "penn-state"
+   ],
+   "spread": "Penn State Nittany Lions −7.5",
+   "total_line": 54.5,
+   "prediction": {
+    "away_score": 23,
+    "home_score": 34,
+    "winner": "Penn State Nittany Lions",
+    "covers": "Penn State Nittany Lions −7.5"
+   },
+   "total_pick": "Over",
+   "status_at_build": {
+    "state": "pre"
+   },
+   "display": {
+    "writer": {
+     "score_line": "Projected: Penn State Nittany Lions 34, Purdue Boilermakers 23 (Total 57)",
+     "side": "Penn State Nittany Lions −7.5",
+     "ou": "Over 54.5",
+     "label": "Average of 2 independent scores"
+    },
+    "handicappers": [
+     {
+      "name": "The Formula",
+      "side_line": "Side: Penn State Nittany Lions −7.5 · Likes this side",
+      "ou_line": "O/U: Over 54.5",
+      "score_line": "Projected: Penn State Nittany Lions 33, Purdue Boilermakers 23 (Total 56)",
+      "basis_line": "FPI Purdue Boilermakers 2.2, Penn State Nittany Lions 11.9; FPI gap × 0.85 + home field 2.15 = Penn State Nittany Lions by 10.4. Total 55.6: each team's points = average of its points scored per game and the opponent's points allowed per game (Purdue Boilermakers 31.3 scored / 32.3 allowed in 7 games; Penn State Nittany Lions 28.7 / 18.9 in 7). Line Penn State Nittany Lions −7.5, total 54.5.",
+      "independent": true,
+      "distance_from_spread": 2.5,
+      "distance_from_total": 1.5
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: Penn State Nittany Lions −7.5 · Likes this side",
+      "ou_line": "O/U: Over 54.5 · Likes this total",
+      "score_line": "Projected: Penn State Nittany Lions 34, Purdue Boilermakers 23 (Total 57)",
+      "basis_line": "Team strength with the players available: offense and defense strength fitted to every 2026 game score so far (2335 games), starting from last season's strength scaled by how much production returned. Projected points: Purdue Boilermakers 23.0, Penn State Nittany Lions 34.5, home field included. Availability: no official conference availability report covers this game, so no quarterback adjustment is made.",
+      "independent": true,
+      "distance_from_spread": 3.5,
+      "distance_from_total": 2.5
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: not available this week",
+      "ou_line": "O/U: not available this week",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Rest and travel read: the inputs updated for last week's games are not available yet, so this card has no score this week and is not counted in the average.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     },
+     {
+      "name": "Follow The Money",
+      "side_line": "Side: Purdue Boilermakers +7.5 · Likes this side",
+      "ou_line": "O/U: Over 54.5 · Likes this total",
+      "score_line": "No score of its own — reads the market (see the market line).",
+      "basis_line": "Spread opened Penn State Nittany Lions −8.5 and is −7.5 now, a 1-point move that meets the 1-point threshold. Total opened 52.5 and is 54.5 now, a 2-point move that meets the threshold: Over. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
+      "independent": false,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "In The Trenches",
+      "side_line": "Side: no pick (no trench signal)",
+      "ou_line": "O/U: no pick (no trench signal)",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Purdue Boilermakers 3.7 ypc vs Penn State Nittany Lions allowing 4.9; Penn State Nittany Lions 3.8 ypc vs Purdue Boilermakers allowing 5.2 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     }
+    ],
+    "story_text": "Luann Kessler ranks every defense by Creamery ice cream flavor. Barnaby Wolcott-Reese built a miniature Boilermaker Special in his garage. Both of their teams are 3-4, both are coming off a bye, and only one gets back to even on Halloween afternoon in Happy Valley.\n\nPurdue (3-4) at Penn State (3-4), Saturday at 4:15 p.m. ET on BTN at Beaver Stadium in University Park. It's a Big Ten game. DraftKings has Penn State Nittany Lions −7.5 with a total of 54.5. My card: Penn State Nittany Lions −7.5, Over 54.5, and a final of Penn State Nittany Lions 34, Purdue Boilermakers 23.\n\nLuann speaks for Penn State. \"We Are, and we are 0-4 in the Big Ten, which hurts. But we lost 18-21 at Michigan, 23-31 to USC and 20-24 to Wisconsin. Close games. Rocco Becht threw for 267 yards at Michigan, and Chase Sowell caught 11 balls for 151. Matt Campbell says we have complete faith in Rocco. Koby Howard is questionable after missing four games. Tony Rojas has 55 tackles and 5 sacks. That defense is rocky road.\"\n\nBarnaby speaks for Purdue. \"Boiler up! Ryan Browne has 1,822 yards and only 3 interceptions. Fame Ijeboi has 9 rushing touchdowns, and Asaad Waseem caught 9 balls for 116 against Washington. We won at Illinois 24-17 and beat Minnesota 41-13.\"\n\nHere is the part that matters. Penn State allows 18.9 points a game. Purdue allows 32.3. The Boilermakers gave up 38 to Washington, 49 to Notre Dame and 52 at UCLA. Penn State scored 45, 27 and 55 in its three wins, and even its losses were mostly one-score games.\n\nWhy Penn State? The Formula likes the Nittany Lions at 33-23, and Next Man Up likes them at 34-23. Penn State is home, rested and hungry for its first Big Ten win under Campbell. Purdue's defense has eight sacks all season, so Becht should have time.\n\nThe worry is the Penn State offense. Becht went 12 of 29 against Wisconsin and threw two interceptions at Michigan. Follow The Money likes Purdue after the number dropped a point, to −7.5.\n\nWhy the Over/Under? The Formula has 56, and Next Man Up has 57. Next Man Up likes the Over, and Follow The Money likes the Over after the total climbed two points. In The Trenches has no call: Purdue runs for 3.7 yards a carry against a Penn State defense that allows 4.9, and Penn State gets 3.8 against a Purdue defense that allows 5.2. Both offenses throw it well, and Purdue scores 31.3 a game. My 34-23 adds up to 57, two and a half over the over/under 54.5.\n\nNow the room. The Formula has Penn State 33-23 and likes the Nittany Lions. Next Man Up has Penn State 34-23 and likes Penn State and the Over. Follow The Money likes Purdue and the Over. In The Trenches has no score this week. Letdown Watch has no score this week.\n\nThe Formula: \"Ten points at home. That clears the number.\"\n\nNext Man Up: \"No official report, so no quarterback adjustment.\"\n\nFollow The Money: \"The side came my way, and so did the total.\"\n\nBottom of the card: Becht against a defense that bends.\n\nPenn State Nittany Lions 34, Purdue Boilermakers 23. Penn State Nittany Lions cover the 7.5. Over 54.5.",
+    "fanatic_score_line": "Projected: Penn State Nittany Lions 34, Purdue Boilermakers 23 (Total 57)",
+    "line_used": {
+     "home_line": "Penn State Nittany Lions −7.5",
+     "total": "54.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "injuries": {
+     "away": [],
+     "home": [],
+     "source": "No official conference availability report for this game",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "sourced_reasons": [
+     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "ESPN Football Power Index",
+     "Points: ESPN team pages for Purdue and Penn State (espn.com)",
+     "Market moves: ESPN game page (espn.com)",
+     "Trench stats: ESPN team stats for Purdue (espn.com)",
+     "Trench stats: ESPN team stats for Penn State (espn.com)",
+     "Schedule history: collegefootballdata.com 2018–2025"
+    ],
+    "fanatic_story": "Halloween in Happy Valley: Purdue Visits Penn State\n\nPurdue (3-4, 2-2 Big Ten) at Penn State (3-4, 0-4 Big Ten). Saturday, Oct. 31, 4:15 p.m. ET, Beaver Stadium, University Park, Pennsylvania, BTN.\n\nYour hosts are Barnaby Wolcott-Reese, a West Lafayette native and mechanical engineer who built a model Boilermaker Special in his garage, and Luann Kessler, a former Penn State volleyball setter who loves Creamery ice cream and linebackers equally.\n\nBarnaby: Boiler up, Luann! I measured the drive from West Lafayette. Every mile was worth it.\n\nLuann: We Are glad you came, Barnaby. Bring an appetite. The Creamery is open.\n\nPlayers to watch\n\nPurdue quarterback Ryan Browne has completed 145 of 221 throws for 1,822 yards, with 10 touchdowns and only three interceptions. Running back Fame Ijeboi has 568 yards and nine touchdowns on 130 carries. Wide receiver Asaad Waseem has 38 catches for 588 yards. Linebacker Jojo Hayden leads the defense with 48 tackles.\n\nPenn State quarterback Rocco Becht has completed 132 of 210 throws for 1,664 yards and 12 touchdowns. Wide receiver Chase Sowell has 34 catches for 510 yards. Running back Carson Hansen has four rushing touchdowns. Linebacker Tony Rojas does a little of everything, with 55 tackles, five sacks and two interceptions.\n\nLuann: Tony Rojas is mint chocolate chip. Cool, smooth and everywhere.\n\nWhat happened last week\n\nBoth teams had a bye. Purdue last played on Oct. 16 and lost 38-26 to Washington at home. Browne threw for 273 yards, and Waseem caught nine balls for 116 yards.\n\nPenn State last played on Oct. 17 and lost 21-18 at Michigan. Becht went 28 of 44 for 267 yards, and Sowell had a big day with 11 catches for 151 yards and a touchdown.\n\nBarnaby: Eleven catches at the Big House. That young man earned his ice cream.\n\nInjuries and availability\n\nNo official Big Ten availability report had been posted as of Tuesday. Penn State wide receiver Koby Howard has missed the last four games with an undisclosed injury. He returned to practice and is considered questionable for Saturday.\n\nLuann: Praying Koby gets back to full speed, whenever that is.\n\nWhat the coaches are up to\n\nMatt Campbell is in his first season at Penn State, and he brought Becht with him from Iowa State. After the Michigan game, Campbell made it clear Becht is his quarterback. \"We have complete faith in Rocco,\" he said. \"Rocco has continued to obviously play good football.\" Penn State is still looking for its first Big Ten win under Campbell.\n\nBarry Odom is in his second season at Purdue. The Boilermakers went 2-10 in 2025, so a 3-4 start with two Big Ten wins is real progress. They won 24-17 at Illinois and beat Minnesota 41-13.\n\nPlayer storylines\n\nBoth teams are 3-4, and both want to get back to even. Penn State's four losses came by four, 21, eight and three points, so the Nittany Lions have been close in most of them.\n\nPurdue opened the year with Browne going 23 of 29 for 317 yards and three touchdowns against Indiana State. He threw for 378 yards at UCLA, and the Boilermakers took Wake Forest to overtime before losing 38-36.\n\nBecht started his season in style, going 13 of 18 for 271 yards and four touchdowns in a 45-0 win over Marshall.\n\nBarnaby: That's the blueprint, Luann. Draw it up, then build it.\n\nWhat's happening on campus\n\nBeaver Stadium holds 106,572. The field is West Shore Home Field, and the Penn State Blue Band will be out in force. Penn State claims national championships from 1982 and 1986, and the White Out is the tradition every visitor should see once.\n\nPurdue's Ross-Ade Stadium opened in 1924. The Boilermaker Special is the tradition Barnaby would show you first, and the Purdue All-American Marching Band makes the trip a treat.\n\nAnything else fun and true\n\nPenn State's defense allows only 18.9 points a game. Purdue scores 31.3 a game. That's a fun matchup on Halloween afternoon.\n\nLuann: Final Creamery Rankings this week, Barnaby. Your offense is rocky road.\n\nBarnaby: I'll take that as a compliment, Luann. Boiler up.\n\nMy call: Penn State Nittany Lions 34, Purdue Boilermakers 23.",
+    "market": {
+     "score_line": "Market: Penn State Nittany Lions 31, Purdue Boilermakers 24 (Total 55)",
+     "spread": "Penn State Nittany Lions −7.5",
+     "total": "54.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "note": "The market’s own numbers (spread and total split into team points), shown for comparison only."
+    }
+   },
+   "gambler_story": "Luann Kessler ranks every defense by Creamery ice cream flavor. Barnaby Wolcott-Reese built a miniature Boilermaker Special in his garage. Both of their teams are 3-4, both are coming off a bye, and only one gets back to even on Halloween afternoon in Happy Valley.\n\nPurdue (3-4) at Penn State (3-4), Saturday at 4:15 p.m. ET on BTN at Beaver Stadium in University Park. It's a Big Ten game. DraftKings has Penn State Nittany Lions −7.5 with a total of 54.5. My card: Penn State Nittany Lions −7.5, Over 54.5, and a final of Penn State Nittany Lions 34, Purdue Boilermakers 23.\n\nLuann speaks for Penn State. \"We Are, and we are 0-4 in the Big Ten, which hurts. But we lost 18-21 at Michigan, 23-31 to USC and 20-24 to Wisconsin. Close games. Rocco Becht threw for 267 yards at Michigan, and Chase Sowell caught 11 balls for 151. Matt Campbell says we have complete faith in Rocco. Koby Howard is questionable after missing four games. Tony Rojas has 55 tackles and 5 sacks. That defense is rocky road.\"\n\nBarnaby speaks for Purdue. \"Boiler up! Ryan Browne has 1,822 yards and only 3 interceptions. Fame Ijeboi has 9 rushing touchdowns, and Asaad Waseem caught 9 balls for 116 against Washington. We won at Illinois 24-17 and beat Minnesota 41-13.\"\n\nHere is the part that matters. Penn State allows 18.9 points a game. Purdue allows 32.3. The Boilermakers gave up 38 to Washington, 49 to Notre Dame and 52 at UCLA. Penn State scored 45, 27 and 55 in its three wins, and even its losses were mostly one-score games.\n\nWhy Penn State? The Formula likes the Nittany Lions at 33-23, and Next Man Up likes them at 34-23. Penn State is home, rested and hungry for its first Big Ten win under Campbell. Purdue's defense has eight sacks all season, so Becht should have time.\n\nThe worry is the Penn State offense. Becht went 12 of 29 against Wisconsin and threw two interceptions at Michigan. Follow The Money likes Purdue after the number dropped a point, to −7.5.\n\nWhy the Over/Under? The Formula has 56, and Next Man Up has 57. Next Man Up likes the Over, and Follow The Money likes the Over after the total climbed two points. In The Trenches has no call: Purdue runs for 3.7 yards a carry against a Penn State defense that allows 4.9, and Penn State gets 3.8 against a Purdue defense that allows 5.2. Both offenses throw it well, and Purdue scores 31.3 a game. My 34-23 adds up to 57, two and a half over the over/under 54.5.\n\nNow the room. The Formula has Penn State 33-23 and likes the Nittany Lions. Next Man Up has Penn State 34-23 and likes Penn State and the Over. Follow The Money likes Purdue and the Over. In The Trenches has no score this week. Letdown Watch has no score this week.\n\nThe Formula: \"Ten points at home. That clears the number.\"\n\nNext Man Up: \"No official report, so no quarterback adjustment.\"\n\nFollow The Money: \"The side came my way, and so did the total.\"\n\nBottom of the card: Becht against a defense that bends.\n\nPenn State Nittany Lions 34, Purdue Boilermakers 23. Penn State Nittany Lions cover the 7.5. Over 54.5."
+  },
+  {
    "game_id": "401858508",
    "matchup": "Nevada Wolf Pack at UCLA Bruins",
    "away": {
@@ -6101,6 +6234,139 @@
     }
    },
    "gambler_story": "Kenzie Rhee is framing the Rose Bowl through her fingers like a camera when Ridge Corbell walks up in a snowboard jacket, squinting at the sunshine. \"No powder in Pasadena?\" he asks. Kenzie lowers her hands. \"Darling, this is a movie set, not a ski lodge.\" Ridge grins. \"Then let's send it, Kenzie. Roll camera.\"\n\nNevada (3-4, 2-2 Mountain West) visits No. 7 UCLA (7-0, 5-0 Big Ten) Saturday at 4:15 p.m. ET on BTN at the Rose Bowl in Pasadena. DraftKings has UCLA Bruins −22.5 with a total of 44.5. On Monday, DraftKings had UCLA −23.5 and 48.5. My card: Nevada Wolf Pack +22.5, Over 44.5, and a final of UCLA Bruins 34, Nevada Wolf Pack 14.\n\nRidge speaks for Nevada. \"We beat San José State 28-13 last week. Luke Duncan threw two touchdowns with no turnovers, and he spent his first three college seasons at UCLA. Our leading rusher has 582 yards and five touchdowns, and EJ Smith has 76 tackles. Coach Jeff Choate wants to keep this close into the fourth quarter. Sick.\"\n\nKenzie speaks for UCLA. \"We beat Michigan State 28-10, darling. Ty Dieffenbach threw a touchdown, and Anthony Woods ran for 112 yards. Nico Iamaleava is out for the season after a knee injury at Oregon, so Ty is our lead now. Wayne Knight has 12 rushing touchdowns, Sammy Omosigho has five and a half sacks, and Jalen Woods has 59 tackles.\"\n\nWhy Nevada? Because 22.5 is a lot of points for a UCLA offense that has slowed down. In their last three games, the Bruins won 17-15 at Oregon, 17-7 against Wisconsin and 28-10 against Michigan State. Nevada runs the ball and can shorten the game. My final has UCLA winning by 20, short of 22.5.\n\nThe risk is Nevada's quarterback room. Carter Jones and AJ Bianco both missed last week, and Choate hasn't said who will start. Nevada also lost 20-7 at home to Montana State and 31-17 at North Dakota State. If the Wolf Pack turn it over, UCLA's defense could put this away early.\n\nWhy the Over? UCLA has scored 45 at Cal, 52 against Purdue and 54 at Maryland, and Knight finds the end zone almost every week. Nevada scored 49 against Western Kentucky and 33 against Air Force. The total has dropped from where it opened, but I think UCLA still gets there. My 34-14 adds up to 48, over 44.5.\n\nNow the room. The Formula has UCLA 34-15 and likes Nevada and the Over. Next Man Up has UCLA 34-13, sides with Nevada, and likes the Over. Follow The Money likes Nevada after the spread came down a point, and likes the Under after the total fell. In The Trenches sits out: the Nevada run game and the UCLA run game each have a matchup they like, so they cancel out.\n\nFollow The Money started it: \"The total dropped. I go Under.\"\n\nThe Formula fired back: \"UCLA scores 34 by itself. Over.\"\n\nNext Man Up said: \"UCLA wins big, just not that big.\"\n\nBottom of the card: an unbeaten UCLA team with a new quarterback, a Nevada team with a quarterback question and a Halloween crowd at the Rose Bowl. Give me the Wolf Pack and the Over.\n\nUCLA Bruins 34, Nevada Wolf Pack 14. Nevada Wolf Pack cover the 22.5. Over 44.5."
+  },
+  {
+   "game_id": "401869846",
+   "matchup": "App State Mountaineers at Georgia Southern Eagles",
+   "away": {
+    "team": "App State Mountaineers",
+    "conference": "Sun Belt",
+    "record": "5-2",
+    "rank": null
+   },
+   "home": {
+    "team": "Georgia Southern Eagles",
+    "conference": "Sun Belt",
+    "record": "3-4",
+    "rank": null
+   },
+   "kickoff_et": "6:30 PM ET Sat Oct 31",
+   "kickoff_utc": "2026-10-31T22:30Z",
+   "tv": [
+    "ESPN+"
+   ],
+   "venue": "Allen E. Paulson Stadium",
+   "conferences": [
+    "Sun Belt"
+   ],
+   "team_ids": [
+    "app-state",
+    "georgia-southern"
+   ],
+   "spread": "Georgia Southern Eagles −5.5",
+   "total_line": 56.5,
+   "prediction": {
+    "away_score": 23,
+    "home_score": 29,
+    "winner": "Georgia Southern Eagles",
+    "covers": "Georgia Southern Eagles −5.5"
+   },
+   "total_pick": "Under",
+   "status_at_build": {
+    "state": "pre"
+   },
+   "display": {
+    "writer": {
+     "score_line": "Projected: Georgia Southern Eagles 29, App State Mountaineers 23 (Total 52)",
+     "side": "Georgia Southern Eagles −5.5",
+     "ou": "Under 56.5",
+     "label": "Average of 2 independent scores"
+    },
+    "handicappers": [
+     {
+      "name": "The Formula",
+      "side_line": "Side: App State Mountaineers +5.5",
+      "ou_line": "O/U: Under 56.5 · Likes this total",
+      "score_line": "Projected: Georgia Southern Eagles 27, App State Mountaineers 23 (Total 50)",
+      "basis_line": "FPI App State Mountaineers −7.5, Georgia Southern Eagles −4.9; FPI gap × 0.85 + home field 2.15 = Georgia Southern Eagles by 4.3. Total 50.4: each team's points = average of its points scored per game and the opponent's points allowed per game (App State Mountaineers 30.1 scored / 23.1 allowed in 7 games; Georgia Southern Eagles 24.4 / 23.0 in 7). Line Georgia Southern Eagles −5.5, total 56.5.",
+      "independent": true,
+      "distance_from_spread": 1.5,
+      "distance_from_total": 6.5
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: Georgia Southern Eagles −5.5",
+      "ou_line": "O/U: Under 56.5 · Likes this total",
+      "score_line": "Projected: Georgia Southern Eagles 30, App State Mountaineers 22 (Total 52)",
+      "basis_line": "Team strength with the players available: offense and defense strength fitted to every 2026 game score so far (2335 games), starting from last season's strength scaled by how much production returned. Projected points: App State Mountaineers 22.4, Georgia Southern Eagles 29.8, home field included. Availability: no official conference availability report covers this game, so no quarterback adjustment is made.",
+      "independent": true,
+      "distance_from_spread": 2.5,
+      "distance_from_total": 4.5
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: not available this week",
+      "ou_line": "O/U: not available this week",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Rest and travel read: the inputs updated for last week's games are not available yet, so this card has no score this week and is not counted in the average.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     },
+     {
+      "name": "Follow The Money",
+      "side_line": "Side: Georgia Southern Eagles −5.5 · Likes this side",
+      "ou_line": "O/U: Over 56.5 · Likes this total",
+      "score_line": "No score of its own — reads the market (see the market line).",
+      "basis_line": "Spread opened Georgia Southern Eagles −3.5 and is −5.5 now, a 2-point move that meets the 1-point threshold. Total opened 54.5 and is 56.5 now, a 2-point move that meets the threshold: Over. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
+      "independent": false,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "In The Trenches",
+      "side_line": "Side: no pick (no trench signal)",
+      "ou_line": "O/U: no pick (no trench signal)",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "App State Mountaineers 4.0 ypc vs Georgia Southern Eagles allowing 3.5; Georgia Southern Eagles 4.3 ypc vs App State Mountaineers allowing 3.6 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     }
+    ],
+    "story_text": "Zeb Coldiron whittles on a Watauga County porch and calls every drive a hike. Royce Ogeechee grew up in Bulloch County hearing his granddad tell stories about the old Eagles dynasty. On Halloween night in Statesboro, these old rivals meet for the forty-second time, and the East Division is on the table.\n\nApp State (5-2) at Georgia Southern (3-4), Saturday at 6:30 p.m. ET on ESPN+ at Allen E. Paulson Stadium in Statesboro. It's a Sun Belt game. DraftKings has Georgia Southern Eagles −5.5 with a total of 56.5. Action Network opened Georgia Southern −3.5 with a total of 54.5. My card: Georgia Southern Eagles −5.5, Under 56.5, and a final of Georgia Southern Eagles 29, App State Mountaineers 23.\n\nRoyce speaks for Georgia Southern. \"Hail Southern! Max Johnson hurt his throwing shoulder at Old Dominion, and he's questionable. Clay Helton says the rehab progressed pretty fast, and Johnson walked out there and spun it. Turner Helton went 23 of 30 in relief, and we won 23-15. Anthony Bynum was Sun Belt Defensive Player of the Week. And we've had sixteen days to rest up.\"\n\nZeb speaks for App State. \"Come on up the mountain. Malachi Singleton went 26 of 40 for 271 yards and two touchdowns in our overtime win over James Madison. Jaquari Lewis has 8 rushing touchdowns, and Caleb Sandstrom has 5 sacks. But steady footing matters. We scored three points against Old Dominion.\"\n\nHere is the part that matters. Both teams are 2-1 in the league, tied for second in the East. Georgia Southern gives up 23.0 points a game, and App State gives up 23.1. Neither run game has found much room.\n\nWhy Georgia Southern? Follow The Money likes the Eagles after a two-point move, from −3.5 to −5.5. Next Man Up has Georgia Southern 30-22. Clay Helton is four and one against App State, and the Eagles lead the series in Statesboro thirteen to six. They're also unbeaten on Halloween.\n\nThe worry is the quarterback. If Johnson's shoulder isn't right, Georgia Southern turns to a backup. The Formula has only a four-point game, 27-23. App State won two of its three road games.\n\nWhy the Over/Under? The Formula has 50 for the total, and Next Man Up has 52. Both like the Under. Follow The Money likes the Over after the total climbed from 54.5. In The Trenches has no call: App State runs for 4.0 yards a carry against a defense that allows 3.5, and Georgia Southern gets 4.3 against an App State defense that allows 3.6. My 29-23 adds up to 52, four and a half under the over/under 56.5.\n\nNow the room. The Formula has Georgia Southern 27-23 and likes the Under. Next Man Up has Georgia Southern 30-22 and likes the Under. Follow The Money likes Georgia Southern and the Over. In The Trenches has no score this week. Letdown Watch has no score this week.\n\nThe Formula: \"Fifty points of football. The total is too high.\"\n\nNext Man Up: \"No official report, so Johnson gets no adjustment.\"\n\nFollow The Money: \"Two points on the side, two on the total. The market is loud.\"\n\nBottom of the card: Johnson's shoulder and Bynum's motor.\n\nGeorgia Southern Eagles 29, App State Mountaineers 23. Georgia Southern Eagles cover the 5.5. Under 56.5.",
+    "fanatic_score_line": "Projected: Georgia Southern Eagles 29, App State Mountaineers 23 (Total 52)",
+    "line_used": {
+     "home_line": "Georgia Southern Eagles −5.5",
+     "total": "56.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "injuries": {
+     "away": [],
+     "home": [],
+     "source": "No official conference availability report for this game",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "sourced_reasons": [
+     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "ESPN Football Power Index",
+     "Points: ESPN team pages for App State and Georgia Southern (espn.com)",
+     "Market moves: ESPN game page (espn.com)",
+     "Trench stats: ESPN team stats for App State (espn.com)",
+     "Trench stats: ESPN team stats for Georgia Southern (espn.com)",
+     "Schedule history: collegefootballdata.com 2018–2025"
+    ],
+    "fanatic_story": "Halloween Rivalry Night: App State Visits Georgia Southern\n\nApp State (5-2, 2-1 Sun Belt) at Georgia Southern (3-4, 2-1 Sun Belt). Saturday, Oct. 31, 6:30 p.m. ET, Allen E. Paulson Stadium, Statesboro, Georgia, ESPN+.\n\nYour hosts are Zeb Coldiron, a fourth-generation Watauga County whittler who treats every week like a hike, and Royce Ogeechee, a Bulloch County farm kid who grew up hearing about the Eagles' dynasty years from his granddad.\n\nZeb: Come on down off the mountain, Royce. I brought a jacket for your grandma.\n\nRoyce: Hail Southern, Zeb! She says thank you, and she says the Eagles are 4-0 on Halloween.\n\nPlayers to watch\n\nApp State quarterback Malachi Singleton has completed 139 of 209 throws for 1,700 yards, with nine touchdowns and just two interceptions. Running back Jaquari Lewis has 420 yards and eight touchdowns, and wide receiver Sam Pickett III has 32 catches for 474 yards. Caleb Sandstrom has five sacks, and linebacker Colton Phares leads with 51 tackles.\n\nGeorgia Southern quarterback Max Johnson has thrown for 1,601 yards, with 11 touchdowns and only two interceptions. Wide receiver Alex Taylor has 24 catches for 342 yards. Linebacker Anthony Bynum has four sacks, and linebacker Brandon Tyson has 38 tackles.\n\nZeb: Two interceptions each. Those are careful young men.\n\nWhat happened last week\n\nApp State beat James Madison 34-31 in overtime. Singleton went 26 of 40 for 271 yards and two touchdowns, and Nate Branch caught six balls for 73 yards.\n\nGeorgia Southern had a bye. In its last game, on Oct. 15, the Eagles won 23-15 at Old Dominion. Turner Helton came in for Johnson and went 23 of 30 for 206 yards and a touchdown. Bynum had three tackles for loss, two sacks and a forced fumble, and he was named Sun Belt Defensive Player of the Week.\n\nRoyce: That's a farm-strong day's work from Anthony.\n\nInjuries and availability\n\nNo official Sun Belt availability report had been posted as of Tuesday. Johnson hurt his throwing shoulder at Old Dominion and is listed as questionable. \"It's really progressed pretty fast, to be honest with you,\" Clay Helton said. \"He walked out there and spun it.\" For App State, Singleton played through an ankle issue against James Madison.\n\nZeb: Praying both quarterbacks are healthy. A rivalry deserves its best.\n\nWhat the coaches are up to\n\nClay Helton, who led USC to a Rose Bowl title, is 4-1 against App State. His son, Turner, is the backup quarterback who won the Old Dominion game. Georgia Southern has had 16 days to rest and get healthy.\n\nDowell Loggains is in his second season in Boone. He came from South Carolina, where he was offensive coordinator, and before that he called plays in the NFL for the Titans, Bears, Dolphins and Jets.\n\nPlayer storylines\n\nHere's a fun one. Johnson's father, Brad, and App State backup Henry Hasselbeck's father, Matt, both played in the NFL, and they played in two games against each other, in 2004 and 2006.\n\nGeorgia Southern lineman Colin Alexander said a win over App State would make the team \"really, really confident\" about reaching the conference championship.\n\nRoyce: That's the goal, Zeb. A conference title game.\n\nWhat's happening on campus\n\nAllen E. Paulson Stadium opened in 1984 and holds 25,000. Ask anybody about Beautiful Eagle Creek, and the Southern Pride Marching Band will be in full voice.\n\nApp State won three straight FCS national championships from 2005 to 2007. Home in Boone is Kidd Brewer Stadium, named for the coach whose 1937 team outscored its opponents 206-0 in the regular season. Armanti Edwards won the Walter Payton Award back to back, in 2008 and 2009, the first player to do it.\n\nZeb: Three straight titles, Royce. That's a mountain worth the climb.\n\nAnything else fun and true\n\nThis is the 42nd meeting. App State leads the series 21-19-1, but Georgia Southern leads 13-6 in Statesboro. The teams have played every year since 1993, and these two programs are tied for second in the East Division.\n\nZeb: Steady climbing, honest footing, Royce. Then a view at the top.\n\nRoyce: Hail Southern, Zeb. The creek is calling.\n\nMy call: Georgia Southern Eagles 29, App State Mountaineers 23.",
+    "market": {
+     "score_line": "Market: Georgia Southern Eagles 31, App State Mountaineers 26 (Total 57)",
+     "spread": "Georgia Southern Eagles −5.5",
+     "total": "56.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "note": "The market’s own numbers (spread and total split into team points), shown for comparison only."
+    }
+   },
+   "gambler_story": "Zeb Coldiron whittles on a Watauga County porch and calls every drive a hike. Royce Ogeechee grew up in Bulloch County hearing his granddad tell stories about the old Eagles dynasty. On Halloween night in Statesboro, these old rivals meet for the forty-second time, and the East Division is on the table.\n\nApp State (5-2) at Georgia Southern (3-4), Saturday at 6:30 p.m. ET on ESPN+ at Allen E. Paulson Stadium in Statesboro. It's a Sun Belt game. DraftKings has Georgia Southern Eagles −5.5 with a total of 56.5. Action Network opened Georgia Southern −3.5 with a total of 54.5. My card: Georgia Southern Eagles −5.5, Under 56.5, and a final of Georgia Southern Eagles 29, App State Mountaineers 23.\n\nRoyce speaks for Georgia Southern. \"Hail Southern! Max Johnson hurt his throwing shoulder at Old Dominion, and he's questionable. Clay Helton says the rehab progressed pretty fast, and Johnson walked out there and spun it. Turner Helton went 23 of 30 in relief, and we won 23-15. Anthony Bynum was Sun Belt Defensive Player of the Week. And we've had sixteen days to rest up.\"\n\nZeb speaks for App State. \"Come on up the mountain. Malachi Singleton went 26 of 40 for 271 yards and two touchdowns in our overtime win over James Madison. Jaquari Lewis has 8 rushing touchdowns, and Caleb Sandstrom has 5 sacks. But steady footing matters. We scored three points against Old Dominion.\"\n\nHere is the part that matters. Both teams are 2-1 in the league, tied for second in the East. Georgia Southern gives up 23.0 points a game, and App State gives up 23.1. Neither run game has found much room.\n\nWhy Georgia Southern? Follow The Money likes the Eagles after a two-point move, from −3.5 to −5.5. Next Man Up has Georgia Southern 30-22. Clay Helton is four and one against App State, and the Eagles lead the series in Statesboro thirteen to six. They're also unbeaten on Halloween.\n\nThe worry is the quarterback. If Johnson's shoulder isn't right, Georgia Southern turns to a backup. The Formula has only a four-point game, 27-23. App State won two of its three road games.\n\nWhy the Over/Under? The Formula has 50 for the total, and Next Man Up has 52. Both like the Under. Follow The Money likes the Over after the total climbed from 54.5. In The Trenches has no call: App State runs for 4.0 yards a carry against a defense that allows 3.5, and Georgia Southern gets 4.3 against an App State defense that allows 3.6. My 29-23 adds up to 52, four and a half under the over/under 56.5.\n\nNow the room. The Formula has Georgia Southern 27-23 and likes the Under. Next Man Up has Georgia Southern 30-22 and likes the Under. Follow The Money likes Georgia Southern and the Over. In The Trenches has no score this week. Letdown Watch has no score this week.\n\nThe Formula: \"Fifty points of football. The total is too high.\"\n\nNext Man Up: \"No official report, so Johnson gets no adjustment.\"\n\nFollow The Money: \"Two points on the side, two on the total. The market is loud.\"\n\nBottom of the card: Johnson's shoulder and Bynum's motor.\n\nGeorgia Southern Eagles 29, App State Mountaineers 23. Georgia Southern Eagles cover the 5.5. Under 56.5."
   },
   {
    "game_id": "401856847",
