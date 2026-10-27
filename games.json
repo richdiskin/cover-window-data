@@ -5969,6 +5969,139 @@
    "gambler_story": "Tessa Nakagawa-Ruiz is sketching a game-week roadmap on a whiteboard outside CEFCU Stadium when Paloma Begaye-Ortiz walks up holding two foil-wrapped burritos. \"Red or green?\" Paloma asks. Tessa studies them like a product spec. \"Can I A/B test both?\" Paloma laughs. \"Both, Tessa. Always both.\"\n\nNew Mexico (6-1, 3-0 Mountain West) visits San José State (4-4, 2-2 Mountain West) Saturday at 4 p.m. ET on MW+ at CEFCU Stadium in San Jose. DraftKings has New Mexico Lobos −14.5 with a total of 42.5. My card: New Mexico Lobos −14.5, Over 42.5, and a final of New Mexico Lobos 31, San José State Spartans 15.\n\nPaloma speaks for New Mexico. \"We beat North Dakota State 21-16 last week, and Kiefer Sibley ran for 91 yards and a touchdown. Scottre Humphrey has nine rushing touchdowns, Brett Karhu has five sacks, and Mercury Swaim has 43 tackles. Our defense allows 11.3 points a game. Red or green? BOTH!\"\n\nTessa speaks for San José State. \"Rollback. We lost 28-13 at Nevada, and our quarterback spot is a work in progress. Daniel Rolovich got hurt early, and Luke Weaver came back late. Weaver has 11 touchdown throws. Carson Clark has 47 catches, Jayland McGlothen has six sacks and Dylan Lee has 71 tackles. And we've won the last four meetings.\"\n\nWhy New Mexico? Because the Lobos defend and run the ball. New Mexico allows 11.3 points a game, and its only loss was 14-6 at Oklahoma. San José State scored 13 points at Nevada and 13 against Wyoming, and it's sorting out its quarterbacks. My final has the Lobos winning by 16.\n\nThe risk is the New Mexico passing game. Toa Fa'avae threw for 92 yards last week and 59 at Hawai'i, with interceptions in both, and the Lobos won those games 21-10 and 21-16. McGlothen can get after the quarterback, and the Spartans have won the last four meetings, including 35-28 last season. If New Mexico can't throw, this stays close.\n\nWhy the Over? New Mexico can score in a hurry: 38 against Central Michigan, 70 against Mercyhurst, 42 at New Mexico State and 61 against UTEP. The last five meetings between these teams finished 48-41, 32-21, 38-21, 52-24 and 35-28. My 31-15 adds up to 46, over 42.5.\n\nNow the room. The Formula has New Mexico 31-15, sides with New Mexico, and likes the Over. Next Man Up has New Mexico 30-15, sides with New Mexico, and likes the Over. Follow The Money sits out both, since the spread and the total haven't budged. In The Trenches sits out: the New Mexico run game and the San José State run game each have a matchup they like, so they cancel out.\n\nThe Formula opened: \"New Mexico's defense wins this by more than two scores.\"\n\nNext Man Up agreed: \"And the Lobos score enough for the Over.\"\n\nFollow The Money shrugged: \"Nothing moved. I'm watching.\"\n\nBottom of the card: a New Mexico defense that takes the ball away, a San José State team sorting out its quarterbacks and a Halloween crowd in San Jose. Give me the Lobos and the Over.\n\nNew Mexico Lobos 31, San José State Spartans 15. New Mexico Lobos cover the 14.5. Over 42.5."
   },
   {
+   "game_id": "401856736",
+   "matchup": "South Carolina Gamecocks at Oklahoma Sooners",
+   "away": {
+    "team": "South Carolina Gamecocks",
+    "conference": "SEC",
+    "record": "4-3",
+    "rank": null
+   },
+   "home": {
+    "team": "Oklahoma Sooners",
+    "conference": "SEC",
+    "record": "4-3",
+    "rank": null
+   },
+   "kickoff_et": "4:15 PM ET Sat Oct 31",
+   "kickoff_utc": "2026-10-31T20:15Z",
+   "tv": [
+    "SEC Network"
+   ],
+   "venue": "Memorial Stadium (Norman, OK)",
+   "conferences": [
+    "SEC"
+   ],
+   "team_ids": [
+    "south-carolina",
+    "oklahoma"
+   ],
+   "spread": "Oklahoma Sooners −5.5",
+   "total_line": 44.5,
+   "prediction": {
+    "away_score": 21,
+    "home_score": 26,
+    "winner": "Oklahoma Sooners",
+    "covers": "South Carolina Gamecocks +5.5"
+   },
+   "total_pick": "Over",
+   "status_at_build": {
+    "state": "pre"
+   },
+   "display": {
+    "writer": {
+     "score_line": "Projected: Oklahoma Sooners 26, South Carolina Gamecocks 21 (Total 47)",
+     "side": "South Carolina Gamecocks +5.5",
+     "ou": "Over 44.5",
+     "label": "Average of 2 independent scores"
+    },
+    "handicappers": [
+     {
+      "name": "The Formula",
+      "side_line": "Side: South Carolina Gamecocks +5.5",
+      "ou_line": "O/U: Over 44.5 · Likes this total",
+      "score_line": "Projected: Oklahoma Sooners 27, South Carolina Gamecocks 23 (Total 50)",
+      "basis_line": "FPI South Carolina Gamecocks 12.4, Oklahoma Sooners 14.1; FPI gap × 0.85 + home field 2.15 = Oklahoma Sooners by 3.7. Total 50.4: each team's points = average of its points scored per game and the opponent's points allowed per game (South Carolina Gamecocks 36.1 scored / 25.3 allowed in 7 games; Oklahoma Sooners 21.6 / 17.7 in 7). Line Oklahoma Sooners −5.5, total 44.5.",
+      "independent": true,
+      "distance_from_spread": 1.5,
+      "distance_from_total": 5.5
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: Oklahoma Sooners −5.5",
+      "ou_line": "O/U: Under 44.5",
+      "score_line": "Projected: Oklahoma Sooners 25, South Carolina Gamecocks 19 (Total 44)",
+      "basis_line": "Team strength with the players available: offense and defense strength fitted to every 2026 game score so far (2335 games), starting from last season's strength scaled by how much production returned. Projected points: South Carolina Gamecocks 19.0, Oklahoma Sooners 24.8, home field included. Availability: no official conference availability report covers this game, so no quarterback adjustment is made.",
+      "independent": true,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: not available this week",
+      "ou_line": "O/U: not available this week",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Rest and travel read: the inputs updated for last week's games are not available yet, so this card has no score this week and is not counted in the average.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     },
+     {
+      "name": "Follow The Money",
+      "side_line": "Side: no pick (line moved under 1 point)",
+      "ou_line": "O/U: Over 44.5 · Likes this total",
+      "score_line": "No score of its own — reads the market (see the market line).",
+      "basis_line": "Spread opened Oklahoma Sooners −5.5 and is −5.5 now, a 0-point move, under the 1-point threshold: no side pick. Total opened 43.5 and is 44.5 now, a 1-point move that meets the threshold: Over. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
+      "independent": false,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "In The Trenches",
+      "side_line": "Side: no pick (no trench signal)",
+      "ou_line": "O/U: no pick (no trench signal)",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "South Carolina Gamecocks 5.8 ypc vs Oklahoma Sooners allowing 3.5; Oklahoma Sooners 3.1 ypc vs South Carolina Gamecocks allowing 3.3 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     }
+    ],
+    "story_text": "Beau Cheraw already has the entrance music cued. Savannah Redbird-Lowe has the Sooner Schooner polished. Two 4-3 SEC teams meet in Norman on Halloween, and the last time South Carolina came to this stadium, the Gamecocks scored three touchdowns in the first five minutes and twenty seconds.\n\nSouth Carolina (4-3) at Oklahoma (4-3), Saturday at 4:15 p.m. ET on SEC Network at Memorial Stadium in Norman. It's an SEC game. DraftKings has Oklahoma Sooners −5.5 with a total of 44.5. Action Network opened Oklahoma Sooners −5.5 with a total of 43.5. My card: South Carolina Gamecocks +5.5, Over 44.5, and a final of Oklahoma Sooners 26, South Carolina Gamecocks 21.\n\nBeau speaks for South Carolina. \"Lights down. Spotlight. We beat Tennessee 27-24 on a field goal as time expired, and the fans stormed the field. LaNorris Sellers ran for 96 yards and two touchdowns that day. He has 1,548 yards through the air and 13 touchdown throws. Matt Fuller has 513 rushing yards. Cue the music.\"\n\nSavannah speaks for Oklahoma. \"Boomer! We won 23-15 at Mississippi State, and John Mateer went 22 of 29 for 283 yards. Isaiah Sategna caught 8 balls for 164. Our defense allows 17.7 points a game. Coach Venables says we have to be better in the red zone, without question. He's right, sugar.\"\n\nHere is the part that matters. South Carolina scores 36.1 points a game. Oklahoma scores 21.6. The Sooners beat Texas 27-24 and lost 13-21 to Kentucky at home, and Mateer has 7 interceptions. South Carolina has won two straight over ranked teams, at Florida 38-19 and over Tennessee.\n\nWhy South Carolina? The Formula has Oklahoma by four, 27-23, and likes the Gamecocks. Shane Beamer knows this building. He coached at Oklahoma for three seasons, and his team won here thirty-five to nine two years ago. Sellers runs it, Fuller runs it, and Dylan Stewart is back chasing quarterbacks. A five-point loss still covers.\n\nThe worry is the Oklahoma defense. Last October in Columbia, the Sooners won twenty-six to seven and held the Gamecocks to two hundred twenty-four yards. Next Man Up has Oklahoma 25-19 and likes the Sooners, and that defense is the reason.\n\nWhy the Over/Under? The Formula has 50, and Follow The Money likes the Over after the total moved up a point. In The Trenches has no call: South Carolina runs for 5.8 yards a carry against a defense that allows 3.5, and Oklahoma gets 3.1 against a defense that allows 3.3. Next Man Up has 44 and likes the Under. I side with the Gamecocks' offense. My 26-21 adds up to 47, two and a half over the over/under 44.5.\n\nNow the room. The Formula has Oklahoma 27-23 and likes South Carolina and the Over. Next Man Up has Oklahoma 25-19 and likes Oklahoma and the Under. Follow The Money has no side, since the number never moved, and likes the Over. In The Trenches has no score this week. Letdown Watch has no score this week.\n\nThe Formula: \"Four points. Take the five and a half.\"\n\nNext Man Up: \"No official report, so no quarterback adjustment.\"\n\nFollow The Money: \"The side sat still. The total moved up.\"\n\nBottom of the card: Sellers and Fuller against a defense that rarely breaks.\n\nOklahoma Sooners 26, South Carolina Gamecocks 21. South Carolina Gamecocks cover the 5.5. Over 44.5.",
+    "fanatic_score_line": "Projected: Oklahoma Sooners 26, South Carolina Gamecocks 21 (Total 47)",
+    "line_used": {
+     "home_line": "Oklahoma Sooners −5.5",
+     "total": "44.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "injuries": {
+     "away": [],
+     "home": [],
+     "source": "No official conference availability report for this game",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "sourced_reasons": [
+     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "ESPN Football Power Index",
+     "Points: ESPN team pages for South Carolina and Oklahoma (espn.com)",
+     "Market moves: ESPN game page (espn.com)",
+     "Trench stats: ESPN team stats for South Carolina (espn.com)",
+     "Trench stats: ESPN team stats for Oklahoma (espn.com)",
+     "Schedule history: collegefootballdata.com 2018–2025"
+    ],
+    "fanatic_story": "Halloween in Norman: South Carolina Visits Oklahoma\n\nSouth Carolina (4-3, 2-3 SEC) at Oklahoma (4-3, 2-2 SEC). Saturday, Oct. 31, 4:15 p.m. ET (3:15 p.m. CT), Memorial Stadium, Norman, Oklahoma, SEC Network.\n\nYour hosts are Beaumont \"Beau\" Cheraw, a Gamecock superfan who times everything to dramatic music, including breakfast, and Savannah Redbird-Lowe, a former Oklahoma rodeo princess who reads defenses like barrel patterns.\n\nBeau: (Lights down. Spotlight. Smoke machine, family-sized.) Savannah, I've driven all the way to Norman. I brought the entrance music.\n\nSavannah: Boomer! (You say Sooner.) Welcome back, Beau, sugar. Last time y'all were here, you left with a smile.\n\nPlayers to watch\n\nSouth Carolina quarterback LaNorris Sellers has completed 133 of 219 throws for 1,548 yards, with 13 touchdowns and five interceptions, and he runs it too. Running back Matt Fuller has 513 yards and five touchdowns on 90 carries. Wide receiver Mazeo Bennett Jr. leads the team with 31 catches for 324 yards. Linebacker Justin Okoronkwo leads the defense with 53 tackles.\n\nOklahoma quarterback John Mateer has completed 136 of 204 throws for 1,591 yards and 11 touchdowns. Wide receiver Isaiah Sategna III has 41 catches for 578 yards. Linebacker Owen Heinecke has 53 tackles, and defensive lineman Adepoju Adebawore has four sacks.\n\nSavannah: Sategna is my barrel racer. Clean turns, top speed.\n\nWhat happened last week\n\nSouth Carolina beat No. 11 Tennessee 27-24 at Williams-Brice Stadium, and it was a thriller. Trailing 24-17 late, the defense got a fourth-down stop. Sellers led a 61-yard drive and tied it with a run where he broke a number of tackles and reached the ball across the pylon. Then Dylan Stewart forced a fumble on a sack, and Tomiwa Durojaiye recovered it with 33 seconds left. Malik Orsan kicked a 48-yard field goal as time expired, and the fans stormed the field. Orsan was named SEC Special Teams Player of the Week, and center Nolan Hay was SEC Offensive Lineman of the Week.\n\nBeau: (Full orchestra.) The music gets better every time I watch that kick.\n\nOklahoma won 23-15 at Mississippi State. Mateer went 22 of 29 for 283 yards and two touchdowns, and Sategna caught eight balls for 164 yards and a touchdown.\n\nInjuries and availability\n\nThe first official SEC availability report for this game was due Wednesday. Oklahoma center Jake Maikkula got hurt at Mississippi State, and Caleb Nitta replaced him. Coach Brent Venables said Nitta could start at center if Maikkula isn't available. \"He's a tough guy,\" Venables said.\n\nThere was happy news in Norman, too. Sooners player Sean Hutton had a health scare at practice and went to the hospital, and the team wore a helmet decal for him at Mississippi State. He was released and was waiting to greet the team when it got home. \"It's a miracle, nothing short of that,\" Venables said. \"I'm thankful for his health and for the doctors and the team that helped him through that episode.\"\n\nSavannah: That one got me right in the heart, Beau.\n\nBeau: Mine too. Turn the music down for that one. Amen.\n\nWhat the coaches are up to\n\nShane Beamer is in his sixth season at South Carolina, and he knows Oklahoma well. He coached on Lincoln Riley's staff in Norman from 2018 to 2020. His team has beaten two straight ranked opponents, at Florida 38-19 and Tennessee.\n\nVenables wants a cleaner offense. \"Again, just get out of our own way and execute with great precision,\" he said. He also praised Sellers, Stewart and wide receiver Nyck Harbor. \"Because of the dynamic ability of their playmakers, you have to know where everybody is.\"\n\nPlayer storylines\n\nThese teams have met twice, and each has won once. In 2024, South Carolina won 35-9 in Norman, with a school-record nine sacks. Last year, Oklahoma won 26-7 in Columbia, and the Sooners had six sacks.\n\nStewart's forced fumble against Tennessee was the ninth of his career, which tied the South Carolina school record held by Jadeveon Clowney.\n\nWhat's happening on campus\n\nMemorial Stadium seats 80,126, and the Sooner Schooner will roll. Oklahoma claims seven national championships and seven Heisman Trophy winners, and the Sooners hold the Division I record with 47 straight wins.\n\nSouth Carolina brings a proud history too, with George Rogers winning the 1980 Heisman Trophy.\n\nAnything else fun and true\n\nSouth Carolina is one of 13 FBS teams with more than one set of brothers on the roster. LaNorris Sellers shares the roster with his brother, wide receiver Jayden Sellers.\n\nSavannah: Brothers on the same team. That's sweet, Beau.\n\nBeau: Cue the family music, Savannah. Happy Halloween, Norman.\n\nMy call: Oklahoma Sooners 26, South Carolina Gamecocks 21.",
+    "market": {
+     "score_line": "Market: Oklahoma Sooners 25, South Carolina Gamecocks 20 (Total 45)",
+     "spread": "Oklahoma Sooners −5.5",
+     "total": "44.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "note": "The market’s own numbers (spread and total split into team points), shown for comparison only."
+    }
+   },
+   "gambler_story": "Beau Cheraw already has the entrance music cued. Savannah Redbird-Lowe has the Sooner Schooner polished. Two 4-3 SEC teams meet in Norman on Halloween, and the last time South Carolina came to this stadium, the Gamecocks scored three touchdowns in the first five minutes and twenty seconds.\n\nSouth Carolina (4-3) at Oklahoma (4-3), Saturday at 4:15 p.m. ET on SEC Network at Memorial Stadium in Norman. It's an SEC game. DraftKings has Oklahoma Sooners −5.5 with a total of 44.5. Action Network opened Oklahoma Sooners −5.5 with a total of 43.5. My card: South Carolina Gamecocks +5.5, Over 44.5, and a final of Oklahoma Sooners 26, South Carolina Gamecocks 21.\n\nBeau speaks for South Carolina. \"Lights down. Spotlight. We beat Tennessee 27-24 on a field goal as time expired, and the fans stormed the field. LaNorris Sellers ran for 96 yards and two touchdowns that day. He has 1,548 yards through the air and 13 touchdown throws. Matt Fuller has 513 rushing yards. Cue the music.\"\n\nSavannah speaks for Oklahoma. \"Boomer! We won 23-15 at Mississippi State, and John Mateer went 22 of 29 for 283 yards. Isaiah Sategna caught 8 balls for 164. Our defense allows 17.7 points a game. Coach Venables says we have to be better in the red zone, without question. He's right, sugar.\"\n\nHere is the part that matters. South Carolina scores 36.1 points a game. Oklahoma scores 21.6. The Sooners beat Texas 27-24 and lost 13-21 to Kentucky at home, and Mateer has 7 interceptions. South Carolina has won two straight over ranked teams, at Florida 38-19 and over Tennessee.\n\nWhy South Carolina? The Formula has Oklahoma by four, 27-23, and likes the Gamecocks. Shane Beamer knows this building. He coached at Oklahoma for three seasons, and his team won here thirty-five to nine two years ago. Sellers runs it, Fuller runs it, and Dylan Stewart is back chasing quarterbacks. A five-point loss still covers.\n\nThe worry is the Oklahoma defense. Last October in Columbia, the Sooners won twenty-six to seven and held the Gamecocks to two hundred twenty-four yards. Next Man Up has Oklahoma 25-19 and likes the Sooners, and that defense is the reason.\n\nWhy the Over/Under? The Formula has 50, and Follow The Money likes the Over after the total moved up a point. In The Trenches has no call: South Carolina runs for 5.8 yards a carry against a defense that allows 3.5, and Oklahoma gets 3.1 against a defense that allows 3.3. Next Man Up has 44 and likes the Under. I side with the Gamecocks' offense. My 26-21 adds up to 47, two and a half over the over/under 44.5.\n\nNow the room. The Formula has Oklahoma 27-23 and likes South Carolina and the Over. Next Man Up has Oklahoma 25-19 and likes Oklahoma and the Under. Follow The Money has no side, since the number never moved, and likes the Over. In The Trenches has no score this week. Letdown Watch has no score this week.\n\nThe Formula: \"Four points. Take the five and a half.\"\n\nNext Man Up: \"No official report, so no quarterback adjustment.\"\n\nFollow The Money: \"The side sat still. The total moved up.\"\n\nBottom of the card: Sellers and Fuller against a defense that rarely breaks.\n\nOklahoma Sooners 26, South Carolina Gamecocks 21. South Carolina Gamecocks cover the 5.5. Over 44.5."
+  },
+  {
    "game_id": "401858506",
    "matchup": "Purdue Boilermakers at Penn State Nittany Lions",
    "away": {
@@ -6500,6 +6633,139 @@
     }
    },
    "gambler_story": "Dusty Lockridge times plays with a stopwatch from the saddle. Twyla Hemmingsen forecasts every Saturday from her kitchen weather center. On Halloween night in Ames, one of them is tracking a quarterback on a heater, and the other is tracking a storm she hopes is coming.\n\nOklahoma State (5-2) at Iowa State (3-4), Saturday at 7:00 p.m. ET on FS1 at Jack Trice Stadium in Ames. It's a Big 12 game. DraftKings has Oklahoma State Cowboys −8.5 with a total of 57.5. Action Network opened Oklahoma State −9.5. My card: Iowa State Cyclones +8.5, Under 57.5, and a final of Oklahoma State Cowboys 30, Iowa State Cyclones 27.\n\nDusty speaks for Oklahoma State. \"Drew Mestemaker threw for 386 yards and four touchdowns against Colorado. That's six straight 300-yard games since Oregon. Wyatt Young has 639 receiving yards, and Caleb Hawkins ran for 120 last week. My one concern is the back end. Eric Morris is hopeful to get safety Quinton Hammonds back, but he left Colorado in a sling.\"\n\nTwyla speaks for Iowa State. \"Barometer's falling, Dusty. We lost 3-39 at Arizona, and Jimmy Rogers pulled Jaylen Raynor after a fumble. This week he said plainly, we're gonna go with Jaylen. Aiden Flora has 716 yards on 102 carries. We beat West Virginia 45-42 right here, and Sullivan Schlimgen has 71 tackles.\"\n\nHere is the part that matters. Oklahoma State scores 40.0 points a game. Iowa State scores 25.9 and allows 24.1. The Cyclones want to run, keep Mestemaker on the sideline and shorten the night.\n\nWhy Iowa State? Next Man Up likes the Cyclones and has them winning 29-28. Follow The Money likes Iowa State too, with the number down a point from the open. The Formula has Oklahoma State by six, 31-25, inside the number. Iowa State has won three of four at home, and three of the four losses came on the road.\n\nThe worry is that Iowa State's offense went cold. Three points at Arizona. Ten at BYU. Thirteen at Iowa. Mestemaker has a hot hand against everybody, and if Raynor can't move the chains, this gets away.\n\nWhy the Over/Under? The Formula has 56, and Next Man Up has 57. Both sit under 57.5. Follow The Money likes the Over, so the room splits. In The Trenches has no call either way: Oklahoma State runs for 5.1 yards a carry against an Iowa State defense that allows 4.4, and Iowa State gets 4.6 against a Cowboy defense that allows 3.7. Iowa State running the clock shortens the game. My 30-27 adds up to 57, a half point under the over/under 57.5.\n\nNow the room. The Formula has Oklahoma State 31-25 and no strong feeling either way. Next Man Up has Iowa State 29-28 and likes the Cyclones. Follow The Money likes Iowa State and the Over. In The Trenches has no score this week. Letdown Watch has no score this week.\n\nNext Man Up: \"No official report, so Raynor gets no adjustment either way.\"\n\nFollow The Money: \"A point off the open toward Iowa State. That's enough for me.\"\n\nThe Formula: \"Six points of difference. The number is bigger.\"\n\nBottom of the card: Flora and the clock against Mestemaker and the stopwatch.\n\nOklahoma State Cowboys 30, Iowa State Cyclones 27. Iowa State Cyclones cover the 8.5. Under 57.5."
+  },
+  {
+   "game_id": "401858280",
+   "matchup": "Clemson Tigers at Florida State Seminoles",
+   "away": {
+    "team": "Clemson Tigers",
+    "conference": "ACC",
+    "record": "4-3",
+    "rank": null
+   },
+   "home": {
+    "team": "Florida State Seminoles",
+    "conference": "ACC",
+    "record": "3-4",
+    "rank": null
+   },
+   "kickoff_et": "7:00 PM ET Sat Oct 31",
+   "kickoff_utc": "2026-10-31T23:00Z",
+   "tv": [
+    "ACC Network"
+   ],
+   "venue": "Doak Campbell Stadium",
+   "conferences": [
+    "ACC"
+   ],
+   "team_ids": [
+    "clemson",
+    "florida-state"
+   ],
+   "spread": "Florida State Seminoles −6",
+   "total_line": 49.5,
+   "prediction": {
+    "away_score": 21,
+    "home_score": 29,
+    "winner": "Florida State Seminoles",
+    "covers": "Florida State Seminoles −6"
+   },
+   "total_pick": "Over",
+   "status_at_build": {
+    "state": "pre"
+   },
+   "display": {
+    "writer": {
+     "score_line": "Projected: Florida State Seminoles 29, Clemson Tigers 21 (Total 50)",
+     "side": "Florida State Seminoles −6",
+     "ou": "Over 49.5",
+     "label": "Average of 2 independent scores"
+    },
+    "handicappers": [
+     {
+      "name": "The Formula",
+      "side_line": "Side: Clemson Tigers +6",
+      "ou_line": "O/U: Over 49.5",
+      "score_line": "Projected: Florida State Seminoles 28, Clemson Tigers 23 (Total 51)",
+      "basis_line": "FPI Clemson Tigers 5.8, Florida State Seminoles 10.1; FPI gap × 0.85 + home field 2.15 = Florida State Seminoles by 5.8. Total 51.1: each team's points = average of its points scored per game and the opponent's points allowed per game (Clemson Tigers 21.4 scored / 21.3 allowed in 7 games; Florida State Seminoles 31.6 / 27.9 in 7). Line Florida State Seminoles −6, total 49.5.",
+      "independent": true,
+      "distance_from_spread": 1.0,
+      "distance_from_total": 1.5
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: Florida State Seminoles −6 · Likes this side",
+      "ou_line": "O/U: Under 49.5",
+      "score_line": "Projected: Florida State Seminoles 30, Clemson Tigers 19 (Total 49)",
+      "basis_line": "Team strength with the players available: offense and defense strength fitted to every 2026 game score so far (2335 games), starting from last season's strength scaled by how much production returned. Projected points: Clemson Tigers 18.7, Florida State Seminoles 29.6, home field included. Availability: no official conference availability report covers this game, so no quarterback adjustment is made.",
+      "independent": true,
+      "distance_from_spread": 5.0,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: not available this week",
+      "ou_line": "O/U: not available this week",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Rest and travel read: the inputs updated for last week's games are not available yet, so this card has no score this week and is not counted in the average.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     },
+     {
+      "name": "Follow The Money",
+      "side_line": "Side: Florida State Seminoles −6 · Likes this side",
+      "ou_line": "O/U: Under 49.5 · Likes this total",
+      "score_line": "No score of its own — reads the market (see the market line).",
+      "basis_line": "Spread opened Florida State Seminoles +1.5 and is −6 now, a 7.5-point move that meets the 1-point threshold. Total opened 51.5 and is 49.5 now, a 2-point move that meets the threshold: Under. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
+      "independent": false,
+      "distance_from_spread": 0.0,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "In The Trenches",
+      "side_line": "Side: Florida State Seminoles −6 · Likes this side",
+      "ou_line": "O/U: Over 49.5",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "This read points to a side only. Clemson Tigers 4.0 ypc vs Florida State Seminoles allowing 4.8; Florida State Seminoles 4.7 ypc vs Clemson Tigers allowing 3.7 (2026 season; rushing totals include sacks). Per-side test: Clemson Tigers run game 0.8 ypc below what the opponent allows; Florida State Seminoles run game 1.0 ypc above what the opponent allows, which meets the cutoff (0.5 ypc or 5 points) and favours Florida State Seminoles. Side: Florida State Seminoles −6.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     }
+    ],
+    "story_text": "Gianna Ravello reads football coverage like legislation, and this week's bill is a big one. Dixie-Lynn Pruitt owns 43 orange items and is packing most of them for Tallahassee.\n\nClemson (4-3) at Florida State (3-4), Saturday at 7:00 p.m. ET on ACC Network at Doak Campbell Stadium in Tallahassee. It's an ACC game. DraftKings has Florida State Seminoles −6 with a total of 49.5. Action Network opened Clemson −1.5 with a total of 51.5. My card: Florida State Seminoles −6, Over 49.5, and a final of Florida State Seminoles 29, Clemson Tigers 21.\n\nGianna speaks for Florida State. \"Motion to reconsider: denied! We lost 35-43 in overtime at Miami, the No. 1 team, and Ashton Daniels threw four touchdown passes. Duce Robinson caught two. The bad news is real. Ousmane Kromah's season ended with an injury at Miami, and Samuel Singleton Jr. won't play this week. The bill on the floor says Quintrevion Wisner carries the load.\"\n\nDixie-Lynn speaks for Clemson. \"Orange you glad I said it? Bless us, sugar, we lost 16-20 to Virginia Tech at home. Tait Reynolds has thrown one touchdown all season. But Will Heldt has 6 sacks, and Christopher Vizzina is back from his elbow injury. Corey Myrick has 53 tackles. Our defense keeps us in games.\"\n\nHere is the part that matters. Clemson scores 21.4 points a game. Reynolds threw for 153 yards against Virginia Tech and ran for a touchdown. Florida State scores 31.6 and put up 35 on Miami's defense. One offense can stretch the field with Daniels and Robinson. The other has trouble finishing drives.\n\nWhy Florida State? Next Man Up, Follow The Money and In The Trenches all back the Seminoles. Follow The Money sees a move of seven and a half points, from Clemson −1.5 to Florida State −6. Florida State has won three of four at home. Next Man Up has Florida State 30-19.\n\nThe worry is the run game. In The Trenches backs Florida State at 4.7 yards a carry against a Clemson defense that allows 3.7, but Kromah was the lead back. He had six straight 80-yard games to start the year. The Formula has only a five-point game, 28-23, and Florida State allows 27.9 a game. Clemson has also won eight of the last nine meetings.\n\nWhy the Over/Under? The Formula has 51 for the total, and Next Man Up has 49. Follow The Money likes the Under after the total fell from 51.5 to 49.5. I'll go the other way. Daniels has thrown 12 touchdown passes, and Florida State's defense gives up points. My 29-21 adds up to 50, a half point over the over/under 49.5.\n\nNow the room. The Formula has Florida State 28-23 and no strong feeling either way. Next Man Up has Florida State 30-19 and likes the Seminoles. Follow The Money likes Florida State and the Under. In The Trenches likes Florida State. Letdown Watch has no score this week.\n\nFollow The Money: \"Seven and a half points of movement. That's a loud vote.\"\n\nNext Man Up: \"No official report. Vizzina's status matters.\"\n\nIn The Trenches: \"Kromah's absence makes me nervous.\"\n\nBottom of the card: Daniels to Robinson decides it.\n\nFlorida State Seminoles 29, Clemson Tigers 21. Florida State Seminoles cover the 6. Over 49.5.",
+    "fanatic_score_line": "Projected: Florida State Seminoles 29, Clemson Tigers 21 (Total 50)",
+    "line_used": {
+     "home_line": "Florida State Seminoles −6",
+     "total": "49.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "injuries": {
+     "away": [],
+     "home": [],
+     "source": "No official conference availability report for this game",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "sourced_reasons": [
+     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "ESPN Football Power Index",
+     "Points: ESPN team pages for Clemson and Florida State (espn.com)",
+     "Market moves: ESPN game page (espn.com)",
+     "Trench stats: ESPN team stats for Clemson (espn.com)",
+     "Trench stats: ESPN team stats for Florida State (espn.com)",
+     "Schedule history: collegefootballdata.com 2018–2025"
+    ],
+    "fanatic_story": "Halloween in Tallahassee: Clemson Visits Florida State\n\nClemson (4-3, 2-2 ACC) at Florida State (3-4, 1-3 ACC). Saturday, Oct. 31, 7:00 p.m. ET, Doak Campbell Stadium, Tallahassee, Florida, ACC Network.\n\nYour hosts are Dixie-Lynn Pruitt, a Clemson fan and former Tiger Band flag captain who owns 43 orange items, and Gianna Ravello, a Florida State fan and capitol-lobbyist type who reads football coverage like legislation.\n\nDixie-Lynn: Orange you glad I came, Gianna? I brought my orange rain boots. Their name is Darlene.\n\nGianna: Motion to welcome Darlene: approved. Everybody else in orange, we'll debate it.\n\nPlayers to watch\n\nClemson quarterback Tait Reynolds has completed 120 of 180 throws for 1,096 yards. Christopher Vizzina is back from an elbow injury. Running back Gideon Davidson has 492 yards and five touchdowns, and wide receiver Bryant Wesco Jr. has 34 catches for 378 yards. On defense, Will Heldt has six sacks, and Corey Myrick has 53 tackles.\n\nFlorida State quarterback Ashton Daniels has thrown for 1,618 yards and 12 touchdowns. Wide receiver Duce Robinson has 22 catches for 407 yards and four touchdowns. On defense, Rylan Kennedy has six sacks, and linebacker Chris Jones has 46 tackles.\n\nGianna: Four hundred seven yards on 22 catches. That's a bill that passes itself.\n\nWhat happened last week\n\nClemson lost 20-16 to Virginia Tech at home. Reynolds went 20 of 26 for 153 yards and ran for 63 yards and a touchdown. Tyler Brown caught eight balls.\n\nFlorida State had a bye. In its last game, on Oct. 17, the Seminoles lost 43-35 in overtime at No. 1 Miami. Daniels threw four touchdowns, and Robinson caught five balls for 113 yards and two scores.\n\nDixie-Lynn: Taking Miami to overtime on the road? My heart, y'all. That's a good team.\n\nInjuries and availability\n\nNo official ACC availability report had been posted as of Tuesday. Florida State running back Ousmane Kromah, the team's leading rusher with 609 yards, suffered a season-ending injury at Miami. Mike Norvell said running back Samuel Singleton Jr. is making progress but won't play this week. Linebacker Blake Nichelson is getting close to a return. For Clemson, Vizzina has come off the injury report after missing four games.\n\nGianna: Prayers for Ousmane. We're praying for a full recovery.\n\nWhat the coaches are up to\n\nDabo Swinney has led Clemson since the middle of the 2008 season, and he won national championships in 2016 and 2018. He's the winningest head coach in Clemson and ACC history.\n\nMike Norvell is in his seventh season at Florida State. This week he has to rebuild the backfield. Quintrevion Wisner ran nine times for 63 yards at Miami.\n\nPlayer storylines\n\nKromah began the season with six straight games of more than 80 rushing yards, matching a Florida State school record set by Warrick Dunn in 1995. Before his injury, he ranked third in the ACC in rushing yards per game.\n\nFor Clemson, kicker Nolan Hauser made a career-long 59-yard field goal against Charleston Southern. He also made the 56-yard walk-off kick that won the 2024 ACC title over SMU. If this one comes down to a kick, Dixie-Lynn will be twirling.\n\nDixie-Lynn: Fifty-nine yards! I named a scarf after that kick.\n\nWhat's happening on campus\n\nDoak Campbell Stadium was built in 1950 and seats 67,277. The field is named Bobby Bowden Field, and the Marching Chiefs will be in full voice. Florida State claims national titles from 1993, 1999 and 2013.\n\nClemson started playing football in 1896 and has won 27 conference championships. Its Memorial Stadium seats 81,500. The Tigers made six straight College Football Playoff appearances from 2015 to 2021.\n\nAnything else fun and true\n\nFlorida State is 3-1 at home this season. Its best night came against Virginia, when the Seminoles scored the last 38 points to win 38-7 and held the Cavaliers to just 37 rushing yards.\n\nClemson has won eight of the nine meetings between these teams since 2016, including 29-13 in 2024 and 24-10 in 2025.\n\nGianna: The floor recognizes the history, and the floor would like a new chapter.\n\nDixie-Lynn: Bless you, sugar. Orange you glad it's a fun one?\n\nMy call: Florida State Seminoles 29, Clemson Tigers 21.",
+    "market": {
+     "score_line": "Market: Florida State Seminoles 28, Clemson Tigers 22 (Total 50)",
+     "spread": "Florida State Seminoles −6",
+     "total": "49.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "note": "The market’s own numbers (spread and total split into team points), shown for comparison only."
+    }
+   },
+   "gambler_story": "Gianna Ravello reads football coverage like legislation, and this week's bill is a big one. Dixie-Lynn Pruitt owns 43 orange items and is packing most of them for Tallahassee.\n\nClemson (4-3) at Florida State (3-4), Saturday at 7:00 p.m. ET on ACC Network at Doak Campbell Stadium in Tallahassee. It's an ACC game. DraftKings has Florida State Seminoles −6 with a total of 49.5. Action Network opened Clemson −1.5 with a total of 51.5. My card: Florida State Seminoles −6, Over 49.5, and a final of Florida State Seminoles 29, Clemson Tigers 21.\n\nGianna speaks for Florida State. \"Motion to reconsider: denied! We lost 35-43 in overtime at Miami, the No. 1 team, and Ashton Daniels threw four touchdown passes. Duce Robinson caught two. The bad news is real. Ousmane Kromah's season ended with an injury at Miami, and Samuel Singleton Jr. won't play this week. The bill on the floor says Quintrevion Wisner carries the load.\"\n\nDixie-Lynn speaks for Clemson. \"Orange you glad I said it? Bless us, sugar, we lost 16-20 to Virginia Tech at home. Tait Reynolds has thrown one touchdown all season. But Will Heldt has 6 sacks, and Christopher Vizzina is back from his elbow injury. Corey Myrick has 53 tackles. Our defense keeps us in games.\"\n\nHere is the part that matters. Clemson scores 21.4 points a game. Reynolds threw for 153 yards against Virginia Tech and ran for a touchdown. Florida State scores 31.6 and put up 35 on Miami's defense. One offense can stretch the field with Daniels and Robinson. The other has trouble finishing drives.\n\nWhy Florida State? Next Man Up, Follow The Money and In The Trenches all back the Seminoles. Follow The Money sees a move of seven and a half points, from Clemson −1.5 to Florida State −6. Florida State has won three of four at home. Next Man Up has Florida State 30-19.\n\nThe worry is the run game. In The Trenches backs Florida State at 4.7 yards a carry against a Clemson defense that allows 3.7, but Kromah was the lead back. He had six straight 80-yard games to start the year. The Formula has only a five-point game, 28-23, and Florida State allows 27.9 a game. Clemson has also won eight of the last nine meetings.\n\nWhy the Over/Under? The Formula has 51 for the total, and Next Man Up has 49. Follow The Money likes the Under after the total fell from 51.5 to 49.5. I'll go the other way. Daniels has thrown 12 touchdown passes, and Florida State's defense gives up points. My 29-21 adds up to 50, a half point over the over/under 49.5.\n\nNow the room. The Formula has Florida State 28-23 and no strong feeling either way. Next Man Up has Florida State 30-19 and likes the Seminoles. Follow The Money likes Florida State and the Under. In The Trenches likes Florida State. Letdown Watch has no score this week.\n\nFollow The Money: \"Seven and a half points of movement. That's a loud vote.\"\n\nNext Man Up: \"No official report. Vizzina's status matters.\"\n\nIn The Trenches: \"Kromah's absence makes me nervous.\"\n\nBottom of the card: Daniels to Robinson decides it.\n\nFlorida State Seminoles 29, Clemson Tigers 21. Florida State Seminoles cover the 6. Over 49.5."
   },
   {
    "game_id": "401860909",
