@@ -1179,6 +1179,139 @@
    "gambler_story": "Opal Stonebriar has a pan of biscuits warming in Murfreesboro and a fresh page open in Grandmama's ledger. Ximena Holcombe-Reyes has a laptop, a bug list and one commit message she keeps pushing: we lose close, and close is the whole story.\n\nKennesaw State (1-6) at Middle Tennessee (4-3), Wednesday at 7:00 p.m. ET on CBSSN at Johnny \"Red\" Floyd Stadium in Murfreesboro. It's a Conference USA game. DraftKings has Middle Tennessee Blue Raiders −2.5 with a total of 50.5. My card: Kennesaw State Owls +2.5, Under 50.5, and a final of Middle Tennessee Blue Raiders 24, Kennesaw State Owls 23.\n\nOpal speaks for Middle Tennessee. \"Sugar, we have won two in a row, 33-30 over Delaware and 26-23 at FIU, and Terrence Brown ran for 158 yards in Miami. Roman Gagliano has 12 touchdown passes and two interceptions. Grandmama would call that a tidy book.\"\n\nXimena speaks for Kennesaw State. \"Tidy, sure. Check the version history. Last September we beat you 24-16. This year we lost 17-14 at Arkansas State, 27-26 to Jacksonville State and 24-21 at Missouri State. Teams like yours do not blow us out. They beat us by a whisker.\"\n\nHere is the part that matters. Every one of Middle Tennessee's wins over an FBS team came by seven points or fewer: 27-20 over Nevada, 33-30 over Delaware, 26-23 at FIU. This home team wins by a field goal, not a landslide.\n\nWhy Kennesaw State? Because 2.5 points is real breathing room in a game built to be decided late. Three of the Owls' losses came by three points or fewer, and Rickie Collins carries the offense with 1,426 passing yards plus five rushing touchdowns. My final has the Blue Raiders by one, so the Owls stay inside the number.\n\nThe worry is last Thursday. Collins threw two interceptions in a 34-6 loss to Liberty, and Jerry Mack went to Landon Varnes late in the fourth quarter. In The Trenches also points out that Middle Tennessee runs for 5.1 yards a carry against a defense that allows 4.3. If the Owls turn it over early, the Blue Raiders pull away.\n\nWhy the Over/Under? Neither offense scares anyone. Kennesaw State scores 20.0 a game and Middle Tennessee 23.3. The last two meetings finished 14-5 and 24-16. DraftKings had this total at 48.5 on Monday, and the climb to 50.5 only hands the Under more room. My 24-23 adds up to 47, three and a half under the over/under 50.5.\n\nNow the room. The Formula has Middle Tennessee 24-23, my exact final, with Kennesaw State and the Under. Next Man Up has the Blue Raiders 23-22, same side, same Under. In The Trenches likes Middle Tennessee. Follow The Money skips the side and likes the Over. Letdown Watch has no score this week.\n\nIn The Trenches: \"Two of you have Middle Tennessee winning and you both take Kennesaw State? Somebody check the scoreboard.\"\n\nThe Formula: \"One point is not two and a half. That is the whole job.\"\n\nFollow The Money: \"And I am the only one in here who thinks anybody scores. Cozy.\"\n\nBottom of the card: a home team that wins close against a road team that loses close. Opal keeps the biscuits. Ximena keeps the points.\n\nMiddle Tennessee Blue Raiders 24, Kennesaw State Owls 23. Kennesaw State Owls cover the 2.5. Under 50.5."
   },
   {
+   "game_id": "401871057",
+   "matchup": "Jacksonville State Gamecocks at New Mexico State Aggies",
+   "away": {
+    "team": "Jacksonville State Gamecocks",
+    "conference": "Conference USA",
+    "record": "5-2",
+    "rank": null
+   },
+   "home": {
+    "team": "New Mexico State Aggies",
+    "conference": "Conference USA",
+    "record": "3-4",
+    "rank": null
+   },
+   "kickoff_et": "8:00 PM ET Wed Oct 28",
+   "kickoff_utc": "2026-10-29T00:00Z",
+   "tv": [
+    "ESPN2"
+   ],
+   "venue": "Aggie Memorial Stadium",
+   "conferences": [
+    "Conference USA"
+   ],
+   "team_ids": [
+    "jacksonville-state",
+    "new-mexico-state"
+   ],
+   "spread": "Jacksonville State Gamecocks −3",
+   "total_line": 49.5,
+   "prediction": {
+    "away_score": 27,
+    "home_score": 26,
+    "winner": "Jacksonville State Gamecocks",
+    "covers": "New Mexico State Aggies +3"
+   },
+   "total_pick": "Over",
+   "status_at_build": {
+    "state": "pre"
+   },
+   "display": {
+    "writer": {
+     "score_line": "Projected: Jacksonville State Gamecocks 27, New Mexico State Aggies 26 (Total 53)",
+     "side": "New Mexico State Aggies +3",
+     "ou": "Over 49.5",
+     "label": "Average of 2 independent scores"
+    },
+    "handicappers": [
+     {
+      "name": "The Formula",
+      "side_line": "Side: New Mexico State Aggies +3",
+      "ou_line": "O/U: Over 49.5",
+      "score_line": "Projected: Jacksonville State Gamecocks 26, New Mexico State Aggies 24 (Total 50)",
+      "basis_line": "FPI Jacksonville State Gamecocks −8.8, New Mexico State Aggies −12.8; FPI gap × 0.85 + home field 2.15 = Jacksonville State Gamecocks by 1.2. Total 50.0: each team's points = average of its points scored per game and the opponent's points allowed per game (Jacksonville State Gamecocks 27.3 scored / 22.7 allowed in 7 games; New Mexico State Aggies 24.6 / 25.4 in 7). Line Jacksonville State Gamecocks −3, total 49.5.",
+      "independent": true,
+      "distance_from_spread": 1.0,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: New Mexico State Aggies +3 · Likes this side",
+      "ou_line": "O/U: Over 49.5 · Likes this total",
+      "score_line": "Projected: New Mexico State Aggies 27, Jacksonville State Gamecocks 26 (Total 53)",
+      "basis_line": "Team strength with the players available: offense and defense strength fitted to every 2026 game score so far (2335 games), starting from last season's strength scaled by how much production returned. Projected points: Jacksonville State Gamecocks 25.8, New Mexico State Aggies 26.7, home field included. Availability: no official conference availability report covers this game, so no quarterback adjustment is made.",
+      "independent": true,
+      "distance_from_spread": 4.0,
+      "distance_from_total": 3.5
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: not available this week",
+      "ou_line": "O/U: not available this week",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Rest and travel read: the inputs updated for last week's games are not available yet, so this card has no score this week and is not counted in the average.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     },
+     {
+      "name": "Follow The Money",
+      "side_line": "Side: no pick (line moved under 1 point)",
+      "ou_line": "O/U: Under 49.5 · Likes this total",
+      "score_line": "No score of its own — reads the market (see the market line).",
+      "basis_line": "Spread opened New Mexico State Aggies +3 and is +3 now, a 0-point move, under the 1-point threshold: no side pick. Total opened 50.5 and is 49.5 now, a 1-point move that meets the threshold: Under. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
+      "independent": false,
+      "distance_from_spread": 0.0,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "In The Trenches",
+      "side_line": "Side: Jacksonville State Gamecocks −3 · Likes this side",
+      "ou_line": "O/U: Over 49.5",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "This read points to a side only. Jacksonville State Gamecocks 4.5 ypc vs New Mexico State Aggies allowing 3.3; New Mexico State Aggies 4.6 ypc vs Jacksonville State Gamecocks allowing 4.2 (2026 season; rushing totals include sacks). Per-side test: Jacksonville State Gamecocks run game 1.2 ypc above what the opponent allows, which meets the cutoff (0.5 ypc or 5 points) and favours Jacksonville State Gamecocks. Side: Jacksonville State Gamecocks −3.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     }
+    ],
+    "story_text": "Burl Ashcraft-Neeley has had his smoker going since the open week ended, because low and slow wins the fourth quarter. Esperanza Lujan-Tafoya has the roaster set to Hatch hot in Las Cruces, and she has one name ready for every question: James Jones.\n\nJacksonville State (5-2) at New Mexico State (3-4), Wednesday at 8:00 p.m. ET on ESPN2 at Aggie Memorial Stadium in Las Cruces. It's a Conference USA game. DraftKings has Jacksonville State Gamecocks −3 with a total of 49.5. My card: New Mexico State Aggies +3, Over 49.5, and a final of Jacksonville State Gamecocks 27, New Mexico State Aggies 26.\n\nBurl speaks for Jacksonville State. \"We are 3-0 in the league and rested. Caden Creel leads us in passing with 1,637 yards and in rushing with 500 more. And we know how to close: 31-27 over Georgia Southern, 27-26 at Kennesaw State, 27-24 over FIU. Fourth quarter is dinner time.\"\n\nEsperanza speaks for New Mexico State. \"Dinner? Jones has 777 rushing yards and just ran for 178 at Sam Houston. The Jacksonville State coach himself said it will be the best running attack his team has played against. And remember 2023, Burl. Aggies 20, Gamecocks 17.\"\n\nHere is the part that matters. Jacksonville State's last three wins came by four points, one point and three points. They win, but they do not pull away, and they are 1-2 on the road.\n\nWhy New Mexico State? Because three points is the exact margin of the way Jacksonville State has been winning. The Aggies are home, they rush behind a back who leads the league, and Adam Damante has thrown the most passes in each of the last four games. My final has the Gamecocks by one, and the Aggies stay inside the 3.\n\nThe worry is the other side of the ball. In The Trenches notes Jacksonville State runs for 4.5 yards a carry against a New Mexico State defense that allows 3.3, and that gap favours the Gamecocks. And the last meeting was ugly: 54-13 Gamecocks in 2024.\n\nWhy the Over/Under? Jacksonville State scores 27.3 a game and allows 22.7. New Mexico State scores 24.6 and allows 25.4. Both offenses live in the twenties. DraftKings had this total at 50.5 on Monday, and the slide to 49.5 is a gift. My 27-26 adds up to 53, three and a half clear of the over/under 49.5.\n\nNow the room. The Formula has Jacksonville State 26-24 with New Mexico State and the Over. Next Man Up actually has the Aggies winning, 27-26, and likes the Aggies and the Over. In The Trenches likes Jacksonville State. Follow The Money skips the side and likes the Under after the drop. Letdown Watch has no score this week.\n\nNext Man Up: \"I have the home team winning outright. Getting three on top of that is a nice dessert.\"\n\nIn The Trenches: \"Enjoy dessert. The Gamecocks run on that front all night.\"\n\nFollow The Money: \"The total dropped a point. I am the only one who noticed.\"\n\nBottom of the card: a road team that wins by a field goal or less against a home team with the best back in the league. Burl keeps the brisket. Esperanza keeps the points.\n\nJacksonville State Gamecocks 27, New Mexico State Aggies 26. New Mexico State Aggies cover the 3. Over 49.5.",
+    "fanatic_score_line": "Projected: Jacksonville State Gamecocks 27, New Mexico State Aggies 26 (Total 53)",
+    "line_used": {
+     "home_line": "New Mexico State Aggies +3",
+     "total": "49.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "injuries": {
+     "away": [],
+     "home": [],
+     "source": "No official conference availability report for this game",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "sourced_reasons": [
+     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "ESPN Football Power Index",
+     "Points: ESPN team pages for Jacksonville State and New Mexico State (espn.com)",
+     "Market moves: ESPN game page (espn.com)",
+     "Trench stats: ESPN team stats for Jacksonville State (espn.com)",
+     "Trench stats: ESPN team stats for New Mexico State (espn.com)",
+     "Schedule history: collegefootballdata.com 2018–2025"
+    ],
+    "fanatic_story": "Wednesday Night in Las Cruces: Unbeaten-in-League Jax State Comes Off the Bye to Face James Jones and the Aggie Ground Game\n\nJacksonville State (5-2, 3-0 CUSA) at New Mexico State (3-4, 2-1 CUSA). Wednesday, Oct. 28, 8 p.m. ET, Aggie Memorial Stadium, Las Cruces, N.M., ESPN2.\n\nYour hosts are Burl Ashcraft-Neeley, a Calhoun County barbecue pitmaster who has never lived more than ten miles from campus, and Esperanza Lujan-Tafoya, a chile farmer's daughter from Las Cruces who grades every play on a chile-pepper scale.\n\nBurl: Low and slow wins the fourth quarter! I brought brisket for the whole press box.\n\nEsperanza: ¡Bienvenidos, Burl! I brought green chile. We'll see whose cooler empties first.\n\nPlayers to watch\n\nJacksonville State runs through quarterback Caden Creel. He is 129 of 192 for 1,637 yards, 12 touchdowns and six interceptions, and he is also the team's leading rusher with 500 yards and four scores. Wide receiver Deondre Johnson has 22 catches for 431 yards and three touchdowns. Safety Caleb Nix leads the defense with 43 tackles and two interceptions, and defensive lineman Tae Floyd has two sacks.\n\nNew Mexico State's headliner is running back James Jones, a Delaware State transfer who leads Conference USA with 777 rushing yards on 119 carries. Defensive end Gabe Peterson has 5.5 sacks, safety Nick Session leads the team with 52 tackles, and wide receiver TK King has 23 catches for 307 yards and three scores.\n\nEsperanza: Seven hundred seventy-seven yards. That's Hatch hot, Burl.\n\nWhat happened last week\n\nNew Mexico State won 30-24 at Sam Houston on Oct. 21. Jones ran 27 times for 178 yards and a touchdown, Adam Damante went 19 of 29 for 160 yards and two touchdowns, and AJ Williams III caught two of them.\n\nJacksonville State had an open week. Its last game was a 27-24 home win over FIU on Oct. 13. Creel went 16 of 22 for 214 yards and two touchdowns and ran 19 times for 95 yards, and Johnson caught four passes for 93 yards and a score.\n\nBurl: An open week is not a day off, friends. It's a deep breath and a clean grill.\n\nInjuries and availability\n\nConference USA has not posted an availability report for this game, and no injury news has surfaced for either starting quarterback, so watch the teams' pregame notes. Neither school's box scores mark a starter. Creel has thrown the most passes for Jacksonville State in every game, and Damante has done it for New Mexico State in each of the last four games.\n\nWhat the coaches are up to\n\nJacksonville State's head coach is in his second season with the Gamecocks. His first team went 9-5, and this one is 3-0 in league play. During the bye he said the focus was fundamentals and doing your job \"for six seconds at a time.\"\n\nTony Sanchez is an NMSU alum and former Aggie wide receiver who coached UNLV from 2014 to 2019. The Jax State coach says the two are friends, and he called the Aggies' ground game \"the best running attack that we played against.\"\n\nEsperanza: When the other coach says it, Burl, it's not bragging. It's a weather report.\n\nPlayer storylines\n\nThe big matchup is Jones against the Jacksonville State front. The Gamecocks hold opponents to 4.2 yards a carry, and the Aggies run for 4.6. On the other side, the Aggie defense allows just 3.3 yards a carry, and Peterson has been chasing quarterbacks all season.\n\nCreel has had a busy year. He threw five touchdown passes against Eastern Kentucky and 311 yards at Kennesaw State. The Gamecocks have won three straight close ones: 31-27, 27-26 and 27-24.\n\nBurl: Three close wins in a row. That's slow-smoked football, and I like it tender.\n\nWhat's happening on campus\n\nThis is the longest Conference USA road trip of the season for Jacksonville State, a long way from AmFirst Stadium and the Marching Southerners. Out in Las Cruces, the Organ Mountains will be watching over Aggie Memorial Stadium.\n\nEsperanza: Welcome to the desert, Burl. Leave the humidity at home.\n\nBurl: I brought the smoker. That's all the humidity I need.\n\nAnything else fun and true\n\nThe series is tied 1-1. New Mexico State won 20-17 in 2023, and Jacksonville State won 54-13 at home in 2024 behind five rushing touchdowns. Both teams have played FIU this year: the Gamecocks won 27-24, and the Aggies lost 22-3.\n\nEsperanza: One win each. Wednesday settles the chile cook-off.\n\nBurl: Brisket versus green chile. Friends, nobody loses that kind of cook-off.\n\nMy call: Jacksonville State Gamecocks 27, New Mexico State Aggies 26.",
+    "market": {
+     "score_line": "Market: Jacksonville State Gamecocks 26, New Mexico State Aggies 23 (Total 49)",
+     "spread": "Jacksonville State Gamecocks −3",
+     "total": "49.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "note": "The market’s own numbers (spread and total split into team points), shown for comparison only."
+    }
+   },
+   "gambler_story": "Burl Ashcraft-Neeley has had his smoker going since the open week ended, because low and slow wins the fourth quarter. Esperanza Lujan-Tafoya has the roaster set to Hatch hot in Las Cruces, and she has one name ready for every question: James Jones.\n\nJacksonville State (5-2) at New Mexico State (3-4), Wednesday at 8:00 p.m. ET on ESPN2 at Aggie Memorial Stadium in Las Cruces. It's a Conference USA game. DraftKings has Jacksonville State Gamecocks −3 with a total of 49.5. My card: New Mexico State Aggies +3, Over 49.5, and a final of Jacksonville State Gamecocks 27, New Mexico State Aggies 26.\n\nBurl speaks for Jacksonville State. \"We are 3-0 in the league and rested. Caden Creel leads us in passing with 1,637 yards and in rushing with 500 more. And we know how to close: 31-27 over Georgia Southern, 27-26 at Kennesaw State, 27-24 over FIU. Fourth quarter is dinner time.\"\n\nEsperanza speaks for New Mexico State. \"Dinner? Jones has 777 rushing yards and just ran for 178 at Sam Houston. The Jacksonville State coach himself said it will be the best running attack his team has played against. And remember 2023, Burl. Aggies 20, Gamecocks 17.\"\n\nHere is the part that matters. Jacksonville State's last three wins came by four points, one point and three points. They win, but they do not pull away, and they are 1-2 on the road.\n\nWhy New Mexico State? Because three points is the exact margin of the way Jacksonville State has been winning. The Aggies are home, they rush behind a back who leads the league, and Adam Damante has thrown the most passes in each of the last four games. My final has the Gamecocks by one, and the Aggies stay inside the 3.\n\nThe worry is the other side of the ball. In The Trenches notes Jacksonville State runs for 4.5 yards a carry against a New Mexico State defense that allows 3.3, and that gap favours the Gamecocks. And the last meeting was ugly: 54-13 Gamecocks in 2024.\n\nWhy the Over/Under? Jacksonville State scores 27.3 a game and allows 22.7. New Mexico State scores 24.6 and allows 25.4. Both offenses live in the twenties. DraftKings had this total at 50.5 on Monday, and the slide to 49.5 is a gift. My 27-26 adds up to 53, three and a half clear of the over/under 49.5.\n\nNow the room. The Formula has Jacksonville State 26-24 with New Mexico State and the Over. Next Man Up actually has the Aggies winning, 27-26, and likes the Aggies and the Over. In The Trenches likes Jacksonville State. Follow The Money skips the side and likes the Under after the drop. Letdown Watch has no score this week.\n\nNext Man Up: \"I have the home team winning outright. Getting three on top of that is a nice dessert.\"\n\nIn The Trenches: \"Enjoy dessert. The Gamecocks run on that front all night.\"\n\nFollow The Money: \"The total dropped a point. I am the only one who noticed.\"\n\nBottom of the card: a road team that wins by a field goal or less against a home team with the best back in the league. Burl keeps the brisket. Esperanza keeps the points.\n\nJacksonville State Gamecocks 27, New Mexico State Aggies 26. New Mexico State Aggies cover the 3. Over 49.5."
+  },
+  {
    "game_id": "401862812",
    "matchup": "Florida Atlantic Owls at North Texas Mean Green",
    "away": {
@@ -1443,6 +1576,139 @@
     }
    },
    "gambler_story": "Marlo Pickens has a bag of boiled peanuts and a long drive north from the Wiregrass,, and after Saturday nothing feels like peanuts. Lila Shenandoah has the pom-poms out in Harrisonburg and a cheer ready for a title game rematch.\n\nTroy (3-4) at James Madison (7-1), Thursday at 7:30 p.m. ET on ESPN2 at Bridgeforth Stadium in Harrisonburg. It's a Sun Belt game. DraftKings has James Madison Dukes −21 with a total of 49.5. My card: Troy Trojans +21, Over 49.5, and a final of James Madison Dukes 38, Troy Trojans 18.\n\nLila speaks for James Madison. \"Give me a three-one! We are 3-1 all-time against Troy and we won the Sun Belt title game 31-14 last December. Camden Coleman has 14 touchdown passes and two interceptions. Purple reign, y'all.\"\n\nMarlo speaks for Troy. \"Saturday was the hardest one I've watched, buddy. We led UL Monroe 14-3 with under three minutes left and lost 21-14. Goose Crowder is nursing a shoulder, and Coach Parker is still working out a quarterback plan. But Donnie Smith has six sacks, and we gave you all you wanted in 2023, 16-14.\"\n\nHere is the part that matters. James Madison will play this one without George Pettaway, its leading rusher with 824 yards and eight touchdowns, per the Daily News-Record. The Dukes are also coming off a 34-31 overtime loss at App State, while Troy is on a short week.\n\nWhy Troy? Because 21 points is a lot to ask of a home team missing its lead back. The Dukes beat Old Dominion 46-20 and Marshall 45-17, but they also won 20-13 over Liberty and 27-24 at Georgia Southern. Troy's defense allows 24.9 a game, and Smith can make Coleman uncomfortable. My final has the Dukes by 20, a point inside the number.\n\nThe worry is obvious. Troy's quarterbacks combined to go 9 of 18 against UL Monroe, and the Trojans lost 33-6 at Louisiana the week before. If Crowder cannot go and the offense stalls again, this gets away.\n\nWhy the Over/Under? James Madison scores 41.4 a game by itself, and Troy has to chase. DraftKings had this total at 52.5 on Monday and Action Network's opening number was 51.5, so the drop to 49.5 buys us room. They also put up 49 on Georgia State at home. My 38-18 adds up to 56, six and a half over the over/under 49.5.\n\nNow the room. The Formula has James Madison 35-19 and likes Troy and the Over. Next Man Up has the Dukes 41-16 and likes James Madison and the Over. Follow The Money likes James Madison and the Under after the moves. In The Trenches sees the run gaps cancel and has no pick. Letdown Watch has no score this week.\n\nNext Man Up: \"Forty-one to sixteen. Troy has not found a passer.\"\n\nThe Formula: \"Mine had the Dukes by 16 before anyone mentioned Pettaway.\"\n\nFollow The Money: \"Spread up three and a half, total down three. The market thinks Troy cannot score.\"\n\nBottom of the card: a great home team without its best runner, laying three touchdowns to a wounded road team that has played the Dukes tough before. Lila gets the win. Marlo gets the points.\n\nJames Madison Dukes 38, Troy Trojans 18. Troy Trojans cover the 21. Over 49.5."
+  },
+  {
+   "game_id": "401862813",
+   "matchup": "Tulane Green Wave at Charlotte 49ers",
+   "away": {
+    "team": "Tulane Green Wave",
+    "conference": "American",
+    "record": "3-4",
+    "rank": null
+   },
+   "home": {
+    "team": "Charlotte 49ers",
+    "conference": "American",
+    "record": "1-6",
+    "rank": null
+   },
+   "kickoff_et": "7:00 PM ET Fri Oct 30",
+   "kickoff_utc": "2026-10-30T23:00Z",
+   "tv": [
+    "ESPN2"
+   ],
+   "venue": "Jerry Richardson Stadium",
+   "conferences": [
+    "American"
+   ],
+   "team_ids": [
+    "tulane",
+    "charlotte"
+   ],
+   "spread": "Tulane Green Wave −10",
+   "total_line": 46.5,
+   "prediction": {
+    "away_score": 31,
+    "home_score": 19,
+    "winner": "Tulane Green Wave",
+    "covers": "Tulane Green Wave −10"
+   },
+   "total_pick": "Over",
+   "status_at_build": {
+    "state": "pre"
+   },
+   "display": {
+    "writer": {
+     "score_line": "Projected: Tulane Green Wave 31, Charlotte 49ers 19 (Total 50)",
+     "side": "Tulane Green Wave −10",
+     "ou": "Over 46.5",
+     "label": "Average of 2 independent scores"
+    },
+    "handicappers": [
+     {
+      "name": "The Formula",
+      "side_line": "Side: Tulane Green Wave −10 · Likes this side",
+      "ou_line": "O/U: Over 46.5 · Likes this total",
+      "score_line": "Projected: Tulane Green Wave 33, Charlotte 49ers 20 (Total 53)",
+      "basis_line": "FPI Tulane Green Wave −4.0, Charlotte 49ers −22.0; FPI gap × 0.85 + home field 2.15 = Tulane Green Wave by 13.1. Total 52.3: each team's points = average of its points scored per game and the opponent's points allowed per game (Tulane Green Wave 20.3 scored / 24.6 allowed in 7 games; Charlotte 49ers 19.1 / 40.6 in 7). Line Tulane Green Wave −10, total 46.5.",
+      "independent": true,
+      "distance_from_spread": 3.0,
+      "distance_from_total": 6.5
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: Tulane Green Wave −10",
+      "ou_line": "O/U: Under 46.5",
+      "score_line": "Projected: Tulane Green Wave 28, Charlotte 49ers 17 (Total 45)",
+      "basis_line": "Team strength with the players available: offense and defense strength fitted to every 2026 game score so far (2335 games), starting from last season's strength scaled by how much production returned. Projected points: Tulane Green Wave 28.2, Charlotte 49ers 16.9, home field included. Availability: no official conference availability report covers this game, so no quarterback adjustment is made.",
+      "independent": true,
+      "distance_from_spread": 1.0,
+      "distance_from_total": 1.5
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: not available this week",
+      "ou_line": "O/U: not available this week",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Rest and travel read: the inputs updated for last week's games are not available yet, so this card has no score this week and is not counted in the average.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     },
+     {
+      "name": "Follow The Money",
+      "side_line": "Side: Charlotte 49ers +10 · Likes this side",
+      "ou_line": "O/U: Over 46.5 · Likes this total",
+      "score_line": "No score of its own — reads the market (see the market line).",
+      "basis_line": "Spread opened Charlotte 49ers +13.5 and is +10 now, a 3.5-point move that meets the 1-point threshold. Total opened 45.5 and is 46.5 now, a 1-point move that meets the threshold: Over. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
+      "independent": false,
+      "distance_from_spread": 0.0,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "In The Trenches",
+      "side_line": "Side: Tulane Green Wave −10 · Likes this side",
+      "ou_line": "O/U: Over 46.5",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "This read points to a side only. Tulane Green Wave 4.4 ypc vs Charlotte 49ers allowing 4.7; Charlotte 49ers 3.9 ypc vs Tulane Green Wave allowing 4.8 (2026 season; rushing totals include sacks). Per-side test: Charlotte 49ers run game 0.9 ypc below what the opponent allows, which meets the cutoff (0.5 ypc or 5 points) and favours Tulane Green Wave. Side: Tulane Green Wave −10.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     }
+    ],
+    "story_text": "Twan Ducros-Labat has the trombone back in its case after a rough Saturday Uptown, and he is ready to play it again in North Carolina. Priya Halloran is in the stands in Charlotte with a spreadsheet, and she has finally priced a drive that paid off.\n\nTulane (3-4) at Charlotte (1-6), Friday at 7:00 p.m. ET on ESPN2 at Jerry Richardson Stadium in Charlotte. It's an American game. DraftKings has Tulane Green Wave −10 with a total of 46.5. My card: Tulane Green Wave −10, Over 46.5, and a final of Tulane Green Wave 31, Charlotte 49ers 19.\n\nPriya speaks for Charlotte. \"Price that drive! Conner Harrell went 23 of 31 for 281 yards at Temple, threw two touchdowns and ran for two more. Henry Rutledge ran for 123. We won 38-31, and we've had two weeks to enjoy it.\"\n\nTwan speaks for Tulane. \"Darlin', six turnovers against UTSA. That's not us. Trace Johnson was sharp for most of that night before it got away, and we beat Charlotte 34-3 and 27-0 the last two years. Roll Wave!\"\n\nHere is the part that matters. Charlotte allows 40.6 points a game, last in the American. Before Temple, the 49ers gave up 41 to Ole Miss, 34 to Louisiana, 59 to Memphis and 50 to North Texas, and never scored more than 10 in those games.\n\nWhy Tulane? Because the 49ers have trouble running the ball, and that is where In The Trenches finds its read. Charlotte gains 3.9 yards a carry against a Tulane defense that allows 4.8, and that gap points to the Green Wave. Without a ground game, Harrell has to carry everything. My final has Tulane by 12, clear of the 10.\n\nThe worry is real. Tulane is on a short week, starting tackle Ryan Mickow is out per nola.com, and the line will be reshuffled again. All three Tulane wins were decided in the final minutes. Follow The Money likes Charlotte, because Action Network's opening number was Tulane −13.5 and it has fallen to 10.\n\nWhy the Over/Under? Charlotte games have finished 43-41, 41-9, 26-21, 34-7, 59-8, 50-10 and 38-31. This defense gives up points to everyone, and Tulane scored 31 on Memphis. Action Network opened the total at 45.5 and it has ticked up to 46.5. My 31-19 adds up to 50, three and a half over the over/under 46.5.\n\nNow the room. The Formula has Tulane 33-20 and likes the Green Wave and the Over. Next Man Up has Tulane 28-17, on our side but under the total. Follow The Money likes Charlotte and the Over. In The Trenches likes Tulane and reads the side only. Letdown Watch has no score this week.\n\nNext Man Up: \"Forty-five points. A freshman quarterback on a short week does not light up a scoreboard.\"\n\nThe Formula: \"He does against a defense allowing forty.\"\n\nFollow The Money: \"Three and a half points of movement toward Charlotte. Somebody saw Temple.\"\n\nBottom of the card: Tulane is the better team on both sides of the ball, and Charlotte has not shown it can stop anybody for four quarters. Priya prices one more good drive. Twan gets the parade.\n\nTulane Green Wave 31, Charlotte 49ers 19. Tulane Green Wave cover the 10. Over 46.5.",
+    "fanatic_score_line": "Projected: Tulane Green Wave 31, Charlotte 49ers 19 (Total 50)",
+    "line_used": {
+     "home_line": "Charlotte 49ers +10",
+     "total": "46.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "injuries": {
+     "away": [],
+     "home": [],
+     "source": "No official conference availability report for this game",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "sourced_reasons": [
+     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "ESPN Football Power Index",
+     "Points: ESPN team pages for Tulane and Charlotte (espn.com)",
+     "Market moves: ESPN game page (espn.com)",
+     "Trench stats: ESPN team stats for Tulane (espn.com)",
+     "Trench stats: ESPN team stats for Charlotte (espn.com)",
+     "Schedule history: collegefootballdata.com 2018–2025"
+    ],
+    "fanatic_story": "Friday Night in the Queen City: Tulane Visits a Charlotte Team Fresh Off Its First Win\n\nTulane (3-4, 1-2 American) at Charlotte (1-6, 1-2 American). Friday, Oct. 30, 7 p.m. ET (6 p.m. Central), Jerry Richardson Stadium, Charlotte, N.C., ESPN2.\n\nYour hosts are Twan Ducros-Labat, an Uptown Tulane fan who believes every game is a brass-band parade, and Priya Halloran, an uptown Charlotte bank risk analyst who prices every drive like a loan.\n\nTwan: Darlin', I brought beignets for the whole section. Roll Wave!\n\nPriya: Price that drive, Twan. Today the beignets are on the house, and the interest rate is friendly.\n\nPlayers to watch\n\nCharlotte quarterback Conner Harrell went 23 of 31 for 281 yards and two touchdowns at Temple and ran for two more scores. Running back Henry Rutledge leads the team with 331 rushing yards, and wide receiver Jaden Barnes leads the receivers with 40 catches for 396 yards. On defense, linebacker Gavin Willis has 53 tackles and DJ Burgess has two sacks.\n\nFor Tulane, freshman quarterback Trace Johnson has thrown the most passes in each of the last two games. Running back Johnnie Daniels has 394 yards and four touchdowns on 66 carries, and wide receiver Destyn Hill has 26 catches for 339 yards. Linebacker Dickson Agu leads the team with 64 tackles, and defensive lineman Ed Smith IV has three sacks.\n\nTwan: Sixty-four tackles from Agu. That man shows up to every parade.\n\nWhat happened last week\n\nCharlotte had the week off after beating Temple 38-31 on Oct. 17 at Lincoln Financial Field in Philadelphia. It was the 49ers' first win of the season and the first American Conference win for coach Tim Albin. Rutledge ran for a career-high 123 yards, Derrick Eley caught six passes for 96 yards, and Aiden Bui, kicking for the first time in his career, hit a 47-yard field goal in the final two minutes.\n\nTulane lost 42-19 to UTSA at home on Oct. 24. Johnson went 24 of 44 for 265 yards, and Daniels ran eight times for 104 yards and a touchdown.\n\nPriya: A stand at the two-yard mark, four stops in a row, before halftime at Temple. I'd frame that drive and hang it in the lobby.\n\nInjuries and availability\n\nThe American has not posted an availability report for this game. Tulane tackle Ryan Mickow, who was hurt against UTSA, will be unavailable Friday, according to nola.com. Sophomore Reese Baker has moved between tackle and guard and has been the one constant among the big guys up front. No injury news has surfaced for either starting quarterback, so watch the teams' pregame notes.\n\nWhat the coaches are up to\n\nWill Hall is in his first season at Tulane. He was hired on Dec. 8, 2025. After the UTSA game he said, \"I'm glad it's a short week. We know we've got to play better.\" He also called Charlotte \"explosive on offense.\"\n\nTim Albin is in his second season at Charlotte. He went 30-12 in his last three years at Ohio before taking over the 49ers.\n\nTwan: Coach Hall wants a clean game. No fumbles, no fuss, just a good parade.\n\nPlayer storylines\n\nHarrell made his second start of the season at Temple after dealing with injuries, and he looked sharp, with four different receivers going over 50 yards. Tulane's freshman quarterback, meanwhile, threw for nearly 200 yards in the first half against UTSA. \"Trace was very poised,\" Hill said.\n\nTulane's Jah'rie Garner, who chases quarterbacks for a living, is staying humble. \"I see them as a faceless opponent,\" he said. \"In this league you can beat anybody.\"\n\nPriya: Two quarterbacks, both trending up. That's a healthy portfolio.\n\nWhat's happening on campus\n\nJerry Richardson Stadium opened in 2013 and has a listed capacity of 15,300. The Pride of Niner Nation Marching Band will be there, and if you visit, ask somebody about the 49ers name, which dates to the school's founding in 1946.\n\nTwan: Fifteen thousand three hundred? That's a cozy block party. I love it.\n\nAnything else fun and true\n\nTulane won the last two meetings, 34-3 in 2024 and 27-0 in 2025. The Temple win was the 49th in Charlotte program history, so the next one will be No. 50. Tulane's three wins this season came over South Alabama, Southern Miss and Memphis.\n\nPriya: Win No. 50 would be a milestone worth framing, Twan.\n\nTwan: Then we'll both bring the brass band, darlin'. Roll Wave!\n\nMy call: Tulane Green Wave 31, Charlotte 49ers 19.",
+    "market": {
+     "score_line": "Market: Tulane Green Wave 28, Charlotte 49ers 18 (Total 46)",
+     "spread": "Tulane Green Wave −10",
+     "total": "46.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "note": "The market’s own numbers (spread and total split into team points), shown for comparison only."
+    }
+   },
+   "gambler_story": "Twan Ducros-Labat has the trombone back in its case after a rough Saturday Uptown, and he is ready to play it again in North Carolina. Priya Halloran is in the stands in Charlotte with a spreadsheet, and she has finally priced a drive that paid off.\n\nTulane (3-4) at Charlotte (1-6), Friday at 7:00 p.m. ET on ESPN2 at Jerry Richardson Stadium in Charlotte. It's an American game. DraftKings has Tulane Green Wave −10 with a total of 46.5. My card: Tulane Green Wave −10, Over 46.5, and a final of Tulane Green Wave 31, Charlotte 49ers 19.\n\nPriya speaks for Charlotte. \"Price that drive! Conner Harrell went 23 of 31 for 281 yards at Temple, threw two touchdowns and ran for two more. Henry Rutledge ran for 123. We won 38-31, and we've had two weeks to enjoy it.\"\n\nTwan speaks for Tulane. \"Darlin', six turnovers against UTSA. That's not us. Trace Johnson was sharp for most of that night before it got away, and we beat Charlotte 34-3 and 27-0 the last two years. Roll Wave!\"\n\nHere is the part that matters. Charlotte allows 40.6 points a game, last in the American. Before Temple, the 49ers gave up 41 to Ole Miss, 34 to Louisiana, 59 to Memphis and 50 to North Texas, and never scored more than 10 in those games.\n\nWhy Tulane? Because the 49ers have trouble running the ball, and that is where In The Trenches finds its read. Charlotte gains 3.9 yards a carry against a Tulane defense that allows 4.8, and that gap points to the Green Wave. Without a ground game, Harrell has to carry everything. My final has Tulane by 12, clear of the 10.\n\nThe worry is real. Tulane is on a short week, starting tackle Ryan Mickow is out per nola.com, and the line will be reshuffled again. All three Tulane wins were decided in the final minutes. Follow The Money likes Charlotte, because Action Network's opening number was Tulane −13.5 and it has fallen to 10.\n\nWhy the Over/Under? Charlotte games have finished 43-41, 41-9, 26-21, 34-7, 59-8, 50-10 and 38-31. This defense gives up points to everyone, and Tulane scored 31 on Memphis. Action Network opened the total at 45.5 and it has ticked up to 46.5. My 31-19 adds up to 50, three and a half over the over/under 46.5.\n\nNow the room. The Formula has Tulane 33-20 and likes the Green Wave and the Over. Next Man Up has Tulane 28-17, on our side but under the total. Follow The Money likes Charlotte and the Over. In The Trenches likes Tulane and reads the side only. Letdown Watch has no score this week.\n\nNext Man Up: \"Forty-five points. A freshman quarterback on a short week does not light up a scoreboard.\"\n\nThe Formula: \"He does against a defense allowing forty.\"\n\nFollow The Money: \"Three and a half points of movement toward Charlotte. Somebody saw Temple.\"\n\nBottom of the card: Tulane is the better team on both sides of the ball, and Charlotte has not shown it can stop anybody for four quarters. Priya prices one more good drive. Twan gets the parade.\n\nTulane Green Wave 31, Charlotte 49ers 19. Tulane Green Wave cover the 10. Over 46.5."
   },
   {
    "game_id": "401856844",
@@ -1965,7 +2231,7 @@
      "Trench stats: ESPN team stats for NC State (espn.com)",
      "Schedule history: collegefootballdata.com 2018–2025"
     ],
-    "fanatic_story": "Halloween Noon in Raleigh: The Wolfpack Fires Up the Grill as Cal Comes East With a Sign for Every Occasion\n\nCalifornia (3-5, 2-3 ACC) at NC State (3-4, 1-3 ACC). Saturday, Oct. 31, 12 p.m. ET, Carter-Finley Stadium, Raleigh, N.C., ACC Network.\n\nYour hosts are Rutherford \"Ruff\" Pegram, a Wake County engineer who grills in the same Carter-Finley lot every home game, and Quentin Oyelaran-Fitch, a Berkeley philosophy Ph.D. student with a picket sign for every bad play call.\n\nRuff: Welcome to Raleigh, Quentin! Grill's at 450. That's a sear. Wolfpack, howl!\n\nQuentin: Greetings, comrade. I brought a new sign for the occasion. It says \"TRICK PLAYS ARE A HUMAN RIGHT.\"\n\nPlayers to watch\n\nCal quarterback Jaron-Keawe Sagapolutele is 149 of 219 for 1,555 yards, 10 touchdowns and five interceptions. Jackson Brousseau threw the most passes in three straight games in October, and Sagapolutele was back on top at SMU. Wide receiver Chase Hendricks leads the Bears with 54 catches for 498 yards and three scores. Adam Mohammed leads the rushers with 336 yards. On defense, defensive back Isaiah Crosby has 46 tackles and linebacker JD McKinley has three sacks.\n\nNC State quarterback CJ Bailey is 143 of 219 for 1,763 yards, 11 touchdowns and four interceptions, and he has thrown the most passes in every Wolfpack game this season. Wide receiver Keenan Jackson has 30 catches for 456 yards and six touchdowns. Jayden Scott leads the rushers with 358 yards and four scores. Linebacker Popo Aguirre leads the team with 60 tackles, and linebacker Elijah Satchell has four sacks.\n\nRuff: Sixty tackles. Popo Aguirre is the kind of linebacker who flips burgers, cleans the grill and still helps you pack the cooler.\n\nWhat happened last week\n\nCal lost 59-20 at SMU on Oct. 24. Sagapolutele went 27 of 37 for 265 yards and a touchdown, and Hendricks caught seven passes for 83 yards and a score.\n\nQuentin: I have filed a formal grievance with the scoreboard.\n\nNC State lost 31-28 at Stanford on Oct. 23. Bailey went 17 of 30 for 256 yards and two touchdowns and was also the team's leading rusher, with 59 yards on nine carries. Deandre Desinor caught three passes for 79 yards and a touchdown.\n\nRuff: Three points. That one stayed on the grill a little too long.\n\nInjuries and availability\n\nNo official availability report has been posted for this game yet, and neither school's box scores mark starters. Bailey has thrown the most passes for NC State in all seven games, and Sagapolutele did for Cal last week, so watch the teams' pregame notes.\n\nWhat the coaches are up to\n\nDave Doeren is in his 14th season at NC State. He has coached the Wolfpack since 2013, after two seasons as head coach at Northern Illinois. His teams went 9-3, 8-5, 9-4, 6-7 and 8-5 over the last five seasons. This year's offense scores 32.3 points a game, including a 73-0 win over Richmond and a 31-28 win over Louisville.\n\nTosh Lupoi was named the 35th head coach in Cal history on Dec. 4, 2025, replacing Justin Wilcox. His first Cal team picked up ACC wins over Syracuse and Virginia Tech, both by one score.\n\nQuentin: Coach Lupoi is building something, comrade. Respectfully, but firmly.\n\nPlayer storylines\n\nThe matchup to circle is Bailey and Jackson against a Cal defense that allows 31.6 points a game. Jackson has six touchdown catches, the most of anyone on either roster. On the other side, Hendricks has caught 54 passes, and the Bears like to throw it to him early and often. Cal gains 3.1 yards a carry, so the Wolfpack big guys up front will try to make the Bears one-dimensional.\n\nWhat's happening on campus\n\nCarter-Finley Stadium has been NC State's home since 1966, and it's the largest college football stadium in North Carolina. In 2010 the school brought back a live mascot, a Tamaskan dog named Tuffy, and a Halloween noon kickoff means Tuffy may see a few costumes in the stands.\n\nAnything else fun and true\n\nNC State was a founding member of the ACC in 1953 and has won seven conference championships. Cal fans have their own claim to fame: The Play, from the 1982 Big Game against Stanford, when the Bears returned the final kickoff through five laterals and Kevin Moen scored as the Stanford band wandered onto the field. Cal won 25-20. These two met in 2024, and NC State won 24-23, so there's some history here, too.\n\nQuentin: Five laterals, Ruff. That's democracy in action.\n\nRuff: Then let's have a fair election. Grab a plate, Quentin. The game's about to start, and grace comes before brisket.\n\nMy call: NC State Wolfpack 36, California Golden Bears 24.",
+    "fanatic_story": "Halloween Noon in Raleigh: The Wolfpack Fires Up the Grill as Cal Comes East With a Sign for Every Occasion\n\nCalifornia (3-5, 2-3 ACC) at NC State (3-4, 1-3 ACC). Saturday, Oct. 31, 12 p.m. ET, Carter-Finley Stadium, Raleigh, N.C., ACC Network.\n\nYour hosts are Rutherford \"Ruff\" Pegram, a Wake County engineer who grills in the same Carter-Finley lot every home game, and Quentin Oyelaran-Fitch, a Berkeley philosophy Ph.D. student with a picket sign for every bad play call.\n\nRuff: Welcome to Raleigh, Quentin! Grill's at 450. That's a sear. Wolfpack, howl!\n\nQuentin: Greetings, comrade. I brought a new sign for the occasion. It says \"TRICK PLAYS ARE A HUMAN RIGHT.\"\n\nPlayers to watch\n\nCal quarterback Jaron-Keawe Sagapolutele is 149 of 219 for 1,555 yards, 10 touchdowns and five interceptions. Jackson Brousseau threw the most passes in three straight games in October, and Sagapolutele was back on top at SMU. Wide receiver Chase Hendricks leads the Bears with 54 catches for 498 yards and three scores. Adam Mohammed leads the rushers with 336 yards. On defense, defensive back Isaiah Crosby has 46 tackles and linebacker JD McKinley has three sacks.\n\nNC State quarterback CJ Bailey is 143 of 219 for 1,763 yards, 11 touchdowns and four interceptions, and he has thrown the most passes in every Wolfpack game this season. Wide receiver Keenan Jackson has 30 catches for 456 yards and six touchdowns. Jayden Scott leads the rushers with 358 yards and four scores. Linebacker Popo Aguirre leads the team with 60 tackles, and linebacker Elijah Satchell has four sacks.\n\nRuff: Sixty tackles. Popo Aguirre is the kind of linebacker who flips burgers, cleans the grill and still helps you pack the cooler.\n\nWhat happened last week\n\nCal lost 59-20 at SMU on Oct. 24. Sagapolutele went 27 of 37 for 265 yards and a touchdown, and Hendricks caught seven passes for 83 yards and a score.\n\nQuentin: I have filed a formal grievance with the scoreboard.\n\nNC State lost 31-28 at Stanford on Oct. 23. Bailey went 17 of 30 for 256 yards and two touchdowns and was also the team's leading rusher, with 59 yards on nine carries. Deandre Desinor caught three passes for 79 yards and a touchdown.\n\nRuff: Three points. That one stayed on the grill a little too long.\n\nInjuries and availability\n\nNo official availability report has been posted for this game yet, and neither school's box scores mark starters. Bailey has thrown the most passes for NC State in all seven games, and Sagapolutele did for Cal last week, so watch the teams' pregame notes.\n\nWhat the coaches are up to\n\nNC State has new leadership this week. The school relieved Dave Doeren of his duties after the loss at Stanford, ending a run that began in 2013, and running backs coach and special teams coordinator Todd Goebbel will serve as interim head coach for the rest of the season. Saturday is his first game in charge, and he has promised a team that will be \"hard, tough and together.\" This year's offense scores 32.3 points a game, including a 73-0 win over Richmond and a 31-28 win over Louisville.\n\nTosh Lupoi was named the 35th head coach in Cal history on Dec. 4, 2025, replacing Justin Wilcox. His first Cal team picked up ACC wins over Syracuse and Virginia Tech, both by one score.\n\nQuentin: Coach Lupoi is building something, comrade. Respectfully, but firmly.\n\nPlayer storylines\n\nThe matchup to circle is Bailey and Jackson against a Cal defense that allows 31.6 points a game. Jackson has six touchdown catches, the most of anyone on either roster. On the other side, Hendricks has caught 54 passes, and the Bears like to throw it to him early and often. Cal gains 3.1 yards a carry, so the Wolfpack big guys up front will try to make the Bears one-dimensional.\n\nWhat's happening on campus\n\nCarter-Finley Stadium has been NC State's home since 1966, and it's the largest college football stadium in North Carolina. In 2010 the school brought back a live mascot, a Tamaskan dog named Tuffy, and a Halloween noon kickoff means Tuffy may see a few costumes in the stands.\n\nAnything else fun and true\n\nNC State was a founding member of the ACC in 1953 and has won seven conference championships. Cal fans have their own claim to fame: The Play, from the 1982 Big Game against Stanford, when the Bears returned the final kickoff through five laterals and Kevin Moen scored as the Stanford band wandered onto the field. Cal won 25-20. These two met in 2024, and NC State won 24-23, so there's some history here, too.\n\nQuentin: Five laterals, Ruff. That's democracy in action.\n\nRuff: Then let's have a fair election. Grab a plate, Quentin. The game's about to start, and grace comes before brisket.\n\nMy call: NC State Wolfpack 36, California Golden Bears 24.",
     "market": {
      "score_line": "Market: NC State Wolfpack 32, California Golden Bears 25 (Total 57)",
      "spread": "NC State Wolfpack −7",
@@ -2497,7 +2763,7 @@
      "Trench stats: ESPN team stats for Maryland (espn.com)",
      "Schedule history: collegefootballdata.com 2018–2025"
     ],
-    "fanatic_story": "Charts Meet Crabs in College Park: Illinois Brings a Big Win Over Oregon to Maryland on Halloween\n\nIllinois (4-3, 2-2 Big Ten) at Maryland (2-5, 0-4 Big Ten). Saturday, Oct. 31, 12 p.m. ET, SECU Stadium, College Park, Md., FS1.\n\nYour hosts are Margery Vandermolen, a prairie-state numbers whiz who explains football like a beloved teacher, with charts, and Abigail \"Abby\" Chesapeake, a D.C.-suburb networker who cracks crabs on air and puts Old Bay on everything.\n\nMargery: Good afternoon, class! Orange you glad it's Saturday?\n\nAbby: Margery, sweetie, I'm glad it's Saturday because I brought a whole bushel. Old Bay on that!\n\nPlayers to watch\n\nIllinois quarterback Katin Houser threw the most passes in the first six Illini games. He's 122 of 184 for 1,440 yards, 12 touchdowns and four interceptions. Michael Clayton II threw the most in the win over Oregon, going 11 of 18 with two touchdown throws. Wide receiver Collin Dixon is the go-to target, with 54 catches for 678 yards and 10 touchdowns. Aidan Laughery leads the rushers with 514 yards. On defense, defensive back Matthew Bailey has 49 tackles.\n\nMaryland quarterback Malik Washington has thrown the most passes in all seven Terrapin games. He's 155 of 261 for 1,615 yards, nine touchdowns and six interceptions. Chris Durr Jr. leads the receivers with 52 catches for 580 yards. DeJuan Williams leads the rushers with 281 yards and three scores. Linebacker Daniel Wingate has 44 tackles, and linebacker Zion Elee has 3.5 sacks.\n\nMargery: Ten touchdown catches for Dixon. I made a chart, and the column went right off the top of the poster board.\n\nWhat happened last week\n\nIllinois beat Oregon 21-10 at home on Oct. 24. Laughery ran 13 times for 123 yards and a touchdown, and Dixon caught six passes for 65 yards and a score.\n\nMargery: Oskee-wow-wow! I hugged three strangers and a mascot.\n\nMaryland didn't play last week. Its last game was a 37-30 loss to Rutgers on Oct. 17, when Washington threw for 263 yards and two touchdowns and Durr caught six passes for 104 yards.\n\nAbby: A week off means a week of rest, a week of practice and a week of crab cakes. All three matter.\n\nInjuries and availability\n\nNo official availability report has been posted for this game yet, and box scores don't mark starters. Houser threw the most passes for Illinois in six games, but Clayton did against Oregon, so watch the teams' pregame notes for who takes the first snap. Washington has thrown the most passes in every Maryland game.\n\nWhat the coaches are up to\n\nBret Bielema was named the 26th head coach in Illinois history on Dec. 19, 2020. He's an Illinois native, and one of his early wins was a nine-overtime thriller at Penn State in 2021, the longest game in college football history. His team has already won 38-37 in overtime at Michigan State this year.\n\nMike Locksley was hired at Maryland on Dec. 4, 2018. His teams went 7-6, 8-5 and 8-5 from 2021 through 2023. This year's Terps score 28.3 points a game, including a 62-0 win over Hampton and a 38-14 win at UConn.\n\nAbby: Coach Locksley knows everybody. I know everybody. We should start a networking breakfast.\n\nPlayer storylines\n\nThe matchup to circle is Dixon against a Maryland defense that allows 33.3 points a game. On the other side, Washington loves to throw it, and he went 30 of 44 for 359 yards and three touchdowns against Virginia Tech. Both teams run the ball well, too. Illinois gains 5.2 yards a carry and Maryland gains 4.5, so the big guys up front on both sides will be busy.\n\nWhat's happening on campus\n\nSECU Stadium opened in 1950 and seats 51,802. The Mighty Sound of Maryland band will be on hand, and if you visit, ask somebody about Testudo, the diamondback terrapin who's at the heart of campus tradition. A Halloween noon kickoff should mean plenty of turtle shells in the stands.\n\nAbby: I'm going as a crab. Obviously. Seasoned.\n\nAnything else fun and true\n\nIllinois is a founding member of the Big Ten and claims five national championships, from 1914 to 1951. On Oct. 18, 1924, Harold \"Red\" Grange scored four touchdowns against Michigan in the first 12 minutes of the Memorial Stadium dedication game. These two teams have split their last four meetings, and Illinois won 24-6 last year. Back in 2018, Maryland won a wild one, 63-33.\n\nMargery: Abby, after the game, I'm making you a chart of everything I learned today.\n\nAbby: And I'm sprinkling Old Bay on it. Then we'll say grace and eat. Old Bay on that!\n\nMy call: Illinois Fighting Illini 33, Maryland Terrapins 27.",
+    "fanatic_story": "Charts Meet Crabs in College Park: Illinois Brings a Big Win Over Oregon to Maryland on Halloween\n\nIllinois (4-3, 2-2 Big Ten) at Maryland (2-5, 0-4 Big Ten). Saturday, Oct. 31, 12 p.m. ET, SECU Stadium, College Park, Md., FS1.\n\nYour hosts are Margery Vandermolen, a prairie-state numbers whiz who explains football like a beloved teacher, with charts, and Abigail \"Abby\" Chesapeake, a D.C.-suburb networker who cracks crabs on air and puts Old Bay on everything.\n\nMargery: Good afternoon, class! Orange you glad it's Saturday?\n\nAbby: Margery, sweetie, I'm glad it's Saturday because I brought a whole bushel. Old Bay on that!\n\nPlayers to watch\n\nIllinois quarterback Katin Houser threw the most passes in the first six Illini games. He's 122 of 184 for 1,440 yards, 12 touchdowns and four interceptions. Michael Clayton II threw the most in the win over Oregon, going 11 of 18 with two touchdown throws. Wide receiver Collin Dixon is the go-to target, with 54 catches for 678 yards and 10 touchdowns. Aidan Laughery leads the rushers with 514 yards. On defense, defensive back Matthew Bailey has 49 tackles.\n\nMaryland quarterback Malik Washington has thrown the most passes in all seven Terrapin games. He's 155 of 261 for 1,615 yards, nine touchdowns and six interceptions. Chris Durr Jr. leads the receivers with 52 catches for 580 yards. DeJuan Williams leads the rushers with 281 yards and three scores. Linebacker Daniel Wingate has 44 tackles, and linebacker Zion Elee has 3.5 sacks.\n\nMargery: Ten touchdown catches for Dixon. I made a chart, and the column went right off the top of the poster board.\n\nWhat happened last week\n\nIllinois beat Oregon 21-10 at home on Oct. 24. Laughery ran 13 times for 123 yards and a touchdown, and Dixon caught six passes for 65 yards and a score.\n\nMargery: Oskee-wow-wow! I hugged three strangers and a mascot.\n\nMaryland didn't play last week. Its last game was a 37-30 loss to Rutgers on Oct. 17, when Washington threw for 263 yards and two touchdowns and Durr caught six passes for 104 yards.\n\nAbby: A week off means a week of rest, a week of practice and a week of crab cakes. All three matter.\n\nInjuries and availability\n\nNo official availability report has been posted for this game yet, and box scores don't mark starters. Houser threw the most passes for Illinois in six games, but Clayton did against Oregon, so watch the teams' pregame notes for who takes the first snap. Washington has thrown the most passes in every Maryland game.\n\nWhat the coaches are up to\n\nBret Bielema was named the 26th head coach in Illinois history on Dec. 19, 2020. He's an Illinois native, and one of his early wins was a nine-overtime thriller at Penn State in 2021, the longest game in college football history. His team has already won 38-37 in overtime at Michigan State this year.\n\nMaryland has new leadership this week. Mike Locksley stepped down as head coach last week, and co-defensive coordinator Aazaar Abdul-Rahim was named interim head coach. Abdul-Rahim is a Washington, D.C., native in his second stint with the Terps, and Saturday is his first game in charge. This year's Terps score 28.3 points a game, including a 62-0 win over Hampton and a 38-14 win at UConn.\n\nAbby: Coach Abdul-Rahim is a D.C. guy, and I know everybody in D.C. We should start a networking breakfast.\n\nPlayer storylines\n\nThe matchup to circle is Dixon against a Maryland defense that allows 33.3 points a game. On the other side, Washington loves to throw it, and he went 30 of 44 for 359 yards and three touchdowns against Virginia Tech. Both teams run the ball well, too. Illinois gains 5.2 yards a carry and Maryland gains 4.5, so the big guys up front on both sides will be busy.\n\nWhat's happening on campus\n\nSECU Stadium opened in 1950 and seats 51,802. The Mighty Sound of Maryland band will be on hand, and if you visit, ask somebody about Testudo, the diamondback terrapin who's at the heart of campus tradition. A Halloween noon kickoff should mean plenty of turtle shells in the stands.\n\nAbby: I'm going as a crab. Obviously. Seasoned.\n\nAnything else fun and true\n\nIllinois is a founding member of the Big Ten and claims five national championships, from 1914 to 1951. On Oct. 18, 1924, Harold \"Red\" Grange scored four touchdowns against Michigan in the first 12 minutes of the Memorial Stadium dedication game. These two teams have split their last four meetings, and Illinois won 24-6 last year. Back in 2018, Maryland won a wild one, 63-33.\n\nMargery: Abby, after the game, I'm making you a chart of everything I learned today.\n\nAbby: And I'm sprinkling Old Bay on it. Then we'll say grace and eat. Old Bay on that!\n\nMy call: Illinois Fighting Illini 33, Maryland Terrapins 27.",
     "market": {
      "score_line": "Market: Illinois Fighting Illini 29, Maryland Terrapins 26 (Total 55)",
      "spread": "Illinois Fighting Illini −2.5",
@@ -3306,6 +3572,1071 @@
     }
    },
    "gambler_story": "Winnie Pocklington stands at the gate of S.B. Ballard Stadium in a paper crown, proclaiming each arriving fan a knight of the realm. Mercy Holderby walks up in green scrubs under her Marshall jacket and says, \"Winnie, I'm off shift for exactly one game.\" Winnie bows. \"Then the court grants you safe conduct, nurse. Mostly.\"\n\nMarshall (4-3) at Old Dominion (2-6), Saturday at 1 p.m. ET on ESPN+ at S.B. Ballard Stadium in Norfolk. It's a Sun Belt game: Marshall is 1-2 in league play, Old Dominion 1-4. DraftKings has Marshall Thundering Herd −2.5 with a total of 45.5. My card: Old Dominion Monarchs +2.5, Under 45.5, and a final of Old Dominion Monarchs 25, Marshall Thundering Herd 20.\n\nMercy speaks for Marshall, honest as always. \"We Are. We beat South Alabama 20-13 last time out. Caleb Clark-Glover has 51 tackles. Xayvion Turner-Bradshaw has 25 catches for 335 yards. And we beat Old Dominion 48-24 last year.\"\n\nWinnie speaks for Old Dominion, crown tilted. \"Hear ye! Javen Gibson has five sacks. Lucas Struck has 61 tackles. We went to Boone and beat App State 10-3. Our defense allows 26.8 points a game, and it keeps this kingdom in games. Long live the Monarchs.\"\n\nWhy Old Dominion? Because Marshall's defense is the weakest piece on the field. The Herd allows 30.7 points a game and 5.3 yards a carry, and its turnover margin sits at minus-9. Even Marshall's wins have been tight: 28-26, 30-24, 36-35 and 20-13. Old Dominion's defense can steal a game, as App State found out. With the home crowd and 2.5 points, the Monarchs are my side, and my final has them winning outright.\n\nThe risk is the Old Dominion offense. It scores 15.5 points a game and was shut out 26-0 at Louisiana Tech last week. Three different quarterbacks have thrown the most passes in a game this season. The Monarchs have also struggled to protect the quarterback. And Marshall has won eight of the nine meetings since 2016.\n\nWhy the Under? Old Dominion scored 17 points or fewer in five of its eight games, and five of its games stayed under 45.5. Marshall's last game finished 20-13. The total ticked down from 46.5 to 45.5 during the week, and I'm with the move. My 25-20 adds up to 45, under 45.5.\n\nNow the room, and it likes the Monarchs. The Formula has Old Dominion 25-23 and takes the Monarchs, though its total lands Over. Next Man Up has Old Dominion 25-18, same side, with the Under. Follow The Money skips the side and takes the Under. In The Trenches has no pick, since the run games cancel out.\n\nNext Man Up started it: \"Monarchs by a touchdown. Winnie, cue the metaphorical trumpets.\"\n\nThe Formula agreed on the side: \"Home team, short price, better defense. I'll take it.\"\n\nFollow The Money shrugged: \"The side didn't move. The total did. Under.\"\n\nBottom of the card: a Marshall defense that gives up yards in bunches, an Old Dominion defense that can win ugly, and a total built for a low-scoring afternoon. Winnie gets her coronation. Give me the Monarchs and the Under.\n\nOld Dominion Monarchs 25, Marshall Thundering Herd 20. Old Dominion Monarchs cover the 2.5. Under 45.5."
+  },
+  {
+   "game_id": "401856846",
+   "matchup": "Kansas State Wildcats at Colorado Buffaloes",
+   "away": {
+    "team": "Kansas State Wildcats",
+    "conference": "Big 12",
+    "record": "4-3",
+    "rank": null
+   },
+   "home": {
+    "team": "Colorado Buffaloes",
+    "conference": "Big 12",
+    "record": "2-5",
+    "rank": null
+   },
+   "kickoff_et": "2:00 PM ET Sat Oct 31",
+   "kickoff_utc": "2026-10-31T18:00Z",
+   "tv": [
+    "TNT"
+   ],
+   "venue": "Folsom Field",
+   "conferences": [
+    "Big 12"
+   ],
+   "team_ids": [
+    "kansas-state",
+    "colorado"
+   ],
+   "spread": "Kansas State Wildcats −1.5",
+   "total_line": 47.5,
+   "prediction": {
+    "away_score": 28,
+    "home_score": 23,
+    "winner": "Kansas State Wildcats",
+    "covers": "Kansas State Wildcats −1.5"
+   },
+   "total_pick": "Over",
+   "status_at_build": {
+    "state": "pre"
+   },
+   "display": {
+    "writer": {
+     "score_line": "Projected: Kansas State Wildcats 28, Colorado Buffaloes 23 (Total 51)",
+     "side": "Kansas State Wildcats −1.5",
+     "ou": "Over 47.5",
+     "label": "Average of 2 independent scores"
+    },
+    "handicappers": [
+     {
+      "name": "The Formula",
+      "side_line": "Side: Kansas State Wildcats −1.5 · Likes this side",
+      "ou_line": "O/U: Over 47.5 · Likes this total",
+      "score_line": "Projected: Kansas State Wildcats 28, Colorado Buffaloes 24 (Total 52)",
+      "basis_line": "FPI Kansas State Wildcats 5.7, Colorado Buffaloes −1.9; FPI gap × 0.85 + home field 2.15 = Kansas State Wildcats by 4.3. Total 52.1: each team's points = average of its points scored per game and the opponent's points allowed per game (Kansas State Wildcats 32.9 scored / 21.1 allowed in 7 games; Colorado Buffaloes 20.1 / 30.1 in 7). Line Kansas State Wildcats −1.5, total 47.5.",
+      "independent": true,
+      "distance_from_spread": 2.5,
+      "distance_from_total": 4.5
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: Kansas State Wildcats −1.5 · Likes this side",
+      "ou_line": "O/U: Over 47.5 · Likes this total",
+      "score_line": "Projected: Kansas State Wildcats 28, Colorado Buffaloes 22 (Total 50)",
+      "basis_line": "Team strength with the players available: offense and defense strength fitted to every 2026 game score so far (2335 games), starting from last season's strength scaled by how much production returned. Projected points: Kansas State Wildcats 28.0, Colorado Buffaloes 22.4, home field included. Availability: no official conference availability report covers this game, so no quarterback adjustment is made.",
+      "independent": true,
+      "distance_from_spread": 4.5,
+      "distance_from_total": 2.5
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: not available this week",
+      "ou_line": "O/U: not available this week",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Rest and travel read: the inputs updated for last week's games are not available yet, so this card has no score this week and is not counted in the average.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     },
+     {
+      "name": "Follow The Money",
+      "side_line": "Side: Colorado Buffaloes +1.5 · Likes this side",
+      "ou_line": "O/U: Under 47.5 · Likes this total",
+      "score_line": "No score of its own — reads the market (see the market line).",
+      "basis_line": "Spread opened Colorado Buffaloes +3.5 and is +1.5 now, a 2-point move that meets the 1-point threshold. Total opened 48.5 and is 47.5 now, a 1-point move that meets the threshold: Under. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
+      "independent": false,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "In The Trenches",
+      "side_line": "Side: Kansas State Wildcats −1.5 · Likes this side",
+      "ou_line": "O/U: Over 47.5",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "This read points to a side only. Kansas State Wildcats 5.8 ypc vs Colorado Buffaloes allowing 3.7; Colorado Buffaloes 3.7 ypc vs Kansas State Wildcats allowing 4.3 (2026 season; rushing totals include sacks). Per-side test: Kansas State Wildcats run game 2.0 ypc above what the opponent allows; Colorado Buffaloes run game 0.6 ypc below what the opponent allows, which meets the cutoff (0.5 ypc or 5 points) and favours Kansas State Wildcats. Side: Kansas State Wildcats −1.5.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     }
+    ],
+    "story_text": "Moss Feldstein is swaying in a hammock strung between two pines outside Folsom Field, kombucha in hand. Hattie Brandvold walks up in her purple denim jacket, field notebook open, and says, \"Moss, that hammock is not regulation tailgate equipment.\" Moss grins. \"Hattie, gravity disagrees. Pull up a pine.\"\n\nKansas State (4-3) at Colorado (2-5), Saturday at 2 p.m. ET on TNT at Folsom Field in Boulder. It's a Big 12 game: K-State is 1-3 in league play, Colorado 0-4. DraftKings has Kansas State Wildcats −1.5 with a total of 47.5. My card: Kansas State Wildcats −1.5, Over 47.5, and a final of Kansas State Wildcats 28, Colorado Buffaloes 23.\n\nHattie speaks for Kansas State, brooch shining. \"Sugar, Avery Johnson has run for 462 yards and thrown for 1,301. We score 32.9 points a game. We beat Kansas 35-24. And we've beaten Colorado the last two years, 31-28 and 24-14. You can't rush a harvest, but we're due for one.\"\n\nMoss speaks for Colorado, from the hammock. \"Joseph Williams has 46 catches for 643 yards. Lamont Lester Jr. has five sacks. Gideon Lampron has 65 tackles. We lost to Utah 27-24, so we can hang with anybody. Ralphie's running.\"\n\nWhy Kansas State? Because the Wildcats score and Colorado has trouble stopping people. K-State puts up 32.9 points a game, and Colorado allows 30.1. Colorado lost 57-24 at Oklahoma State last week and has dropped all four Big 12 games. Isaac Wilson has thrown multiple interceptions in each of his last three games. In The Trenches likes the K-State run game against this front. A team that scores like K-State only has to win by a field goal. My final has the Wildcats by more than that.\n\nThe risk is that K-State has slipped. It lost three of its last four games, including a 28-17 loss at Arizona State in which Jacob Knuth, not Johnson, threw the most passes. And Folsom Field is a tough place for a visitor, at altitude and on a day the home crowd is desperate for a win.\n\nWhy the Over? Five of K-State's seven games went past 47.5. Colorado's last two games finished 27-24 and 57-24, and its defense gives up 30.1 a game. Wilson can throw it, too: he had 280 yards in Stillwater, and Williams caught nine balls for 135. Both offenses should find room. My 28-23 adds up to 51, over 47.5.\n\nNow the room, and it mostly agrees with me. The Formula has K-State 28-24 and takes the Wildcats and the Over. Next Man Up has K-State 28-22, same side, same Over. In The Trenches backs K-State too. Follow The Money goes the other way, Colorado and the Under, because the market moved toward the Buffs.\n\nNext Man Up started it: \"Wildcats by nearly a touchdown. Hattie, start planting.\"\n\nFollow The Money pushed back: \"The market's been coming to Colorado all week. I'm riding that.\"\n\nThe Formula answered: \"Colorado allows 30.1 a game. The market can ride. I'll take the points on the board.\"\n\nBottom of the card: a K-State offense that scores, a Colorado team that hasn't beaten a Big 12 opponent, and two teams that can light up a scoreboard. Hattie gets her bumper harvest. Give me the Wildcats and the Over.\n\nKansas State Wildcats 28, Colorado Buffaloes 23. Kansas State Wildcats cover the 1.5. Over 47.5.",
+    "fanatic_score_line": "Projected: Kansas State Wildcats 28, Colorado Buffaloes 23 (Total 51)",
+    "line_used": {
+     "home_line": "Colorado Buffaloes +1.5",
+     "total": "47.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "injuries": {
+     "away": [],
+     "home": [],
+     "source": "No official conference availability report for this game",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "sourced_reasons": [
+     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "ESPN Football Power Index",
+     "Points: ESPN team pages for Kansas State and Colorado (espn.com)",
+     "Market moves: ESPN game page (espn.com)",
+     "Trench stats: ESPN team stats for Kansas State (espn.com)",
+     "Trench stats: ESPN team stats for Colorado (espn.com)",
+     "Schedule history: collegefootballdata.com 2018–2025"
+    ],
+    "fanatic_story": "Harvest Time in the Flatirons: Kansas State Visits Colorado in Boulder\n\nKansas State (4-3, 1-3 Big 12) at Colorado (2-5, 0-4 Big 12). Saturday, Oct. 31, 2 p.m. ET, Folsom Field, Boulder, Colo., TNT.\n\nYour hosts are Hattie Brandvold, a Kansas State fan with an agronomy degree who names every drive after a crop, and Moss Feldstein, a Colorado physicist who runs the numbers from a hammock under the Flatirons.\n\nMoss: Welcome to Boulder, Hattie. Kombucha?\n\nHattie: Bless you, Moss, but I brought sweet tea and a field notebook with real Flint Hills dirt on it.\n\nMoss: Dirt and data. My two best things after hacky sack.\n\nPlayers to watch\n\nKansas State quarterback Avery Johnson does it all. He's 118 of 187 for 1,301 yards, 10 touchdowns and three interceptions, and he leads the team in rushing with 462 yards and three scores. Jacob Knuth threw the most passes at Arizona State last week. Jaron Tibbs leads the receivers with 34 catches for 325 yards and four touchdowns. On defense, end Wendell Gregory has 3.5 sacks and safety Logan Bartley has 45 tackles.\n\nColorado quarterback Isaac Wilson has thrown the most passes in each of the last four games. He's 77 of 128 for 979 yards, six touchdowns and seven interceptions. Julian Lewis threw the most in the first three games. JaQuail Smith leads the rushers with 298 yards, and Joseph Williams leads the receivers with 46 catches for 643 yards and five scores. Lamont Lester Jr. has five sacks, and linebacker Gideon Lampron leads the team with 65 tackles.\n\nHattie: Johnson running for 462 yards? That's winter wheat, Moss. Long, patient and golden.\n\nWhat happened last week\n\nKansas State lost 28-17 at Arizona State on Oct. 24. Knuth was 26 of 41 for 194 yards and a touchdown, and Derrick Salley Jr. caught six balls for 63 yards.\n\nHattie: Dry sorghum patch. You can't rush a harvest. I planted a basil seed on Sunday.\n\nColorado lost 57-24 at Oklahoma State on Oct. 24. Wilson threw for 280 yards and two touchdowns, and Williams caught nine balls for 135 yards.\n\nMoss: High variance. Physicists love that. Fans, less so. But Joseph Williams was a bright spot.\n\nInjuries and availability\n\nNo official availability report has been posted for this game yet, and box scores don't mark starters. Johnson threw the most passes in K-State's first six games and Knuth did last week, while Wilson has done it in Colorado's last four, so check the teams' pregame notes.\n\nWhat the coaches are up to\n\nCollin Klein was named Kansas State's 36th head coach on Dec. 4, 2025. He was a 2012 Heisman Trophy finalist and won the Johnny Unitas Award as the Wildcats' quarterback, and he's the first K-State alum to lead the program since Ellis Rainsberger in 1975-77.\n\nDeion Sanders, \"Coach Prime,\" has led Colorado since his hire on Dec. 3, 2022. He played 14 NFL seasons, won two Super Bowls, played nine Major League Baseball seasons, and is the only athlete to play in both a Super Bowl and a World Series.\n\nMoss: Coach Prime keeps naming discipline as the thing to fix. I agree. My hammock agrees.\n\nHattie: Coach Klein grew up in our program. Homegrown crop.\n\nPlayer storylines\n\nThe big matchup is the K-State ground game against a Colorado defense that allows 3.7 yards a carry. K-State's big guys up front have allowed only three sacks, so Johnson and company should have time. On the other side, Williams will be Wilson's top target, and Lester will try to chase down whoever plays quarterback for K-State.\n\nWhat's happening on campus\n\nColorado has played at Folsom Field since 1924, and CFBD lists 50,183 seats. A Halloween afternoon under the Flatirons should bring plenty of black-and-gold costumes, and of course Ralphie will run.\n\nMoss: I'm dressing as a hammock. Very relaxing for everyone.\n\nHattie: I'm dressing as a wheat sheaf. Very on brand.\n\nAnything else fun and true\n\nKansas State has won the Sunflower Showdown against Kansas 18 straight times. Colorado won the 1990 national championship, shared with Georgia Tech, and has two Heisman winners, Rashaan Salaam in 1994 and Travis Hunter in 2024. When Bill Snyder took over in 1989, K-State was in the middle of a 27-game winless run, and he built it into a national contender. These teams have met each of the last two years: K-State won 31-28 in 2024 and 24-14 in 2025.\n\nHattie: Moss, whatever happens, supper's on me. We'll say grace first.\n\nMoss: Grateful for that, Hattie, and for a mountain sunset afterward. Ralphie's running.\n\nMy call: Kansas State Wildcats 28, Colorado Buffaloes 23.",
+    "market": {
+     "score_line": "Market: Kansas State Wildcats 25, Colorado Buffaloes 23 (Total 48)",
+     "spread": "Kansas State Wildcats −1.5",
+     "total": "47.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "note": "The market’s own numbers (spread and total split into team points), shown for comparison only."
+    }
+   },
+   "gambler_story": "Moss Feldstein is swaying in a hammock strung between two pines outside Folsom Field, kombucha in hand. Hattie Brandvold walks up in her purple denim jacket, field notebook open, and says, \"Moss, that hammock is not regulation tailgate equipment.\" Moss grins. \"Hattie, gravity disagrees. Pull up a pine.\"\n\nKansas State (4-3) at Colorado (2-5), Saturday at 2 p.m. ET on TNT at Folsom Field in Boulder. It's a Big 12 game: K-State is 1-3 in league play, Colorado 0-4. DraftKings has Kansas State Wildcats −1.5 with a total of 47.5. My card: Kansas State Wildcats −1.5, Over 47.5, and a final of Kansas State Wildcats 28, Colorado Buffaloes 23.\n\nHattie speaks for Kansas State, brooch shining. \"Sugar, Avery Johnson has run for 462 yards and thrown for 1,301. We score 32.9 points a game. We beat Kansas 35-24. And we've beaten Colorado the last two years, 31-28 and 24-14. You can't rush a harvest, but we're due for one.\"\n\nMoss speaks for Colorado, from the hammock. \"Joseph Williams has 46 catches for 643 yards. Lamont Lester Jr. has five sacks. Gideon Lampron has 65 tackles. We lost to Utah 27-24, so we can hang with anybody. Ralphie's running.\"\n\nWhy Kansas State? Because the Wildcats score and Colorado has trouble stopping people. K-State puts up 32.9 points a game, and Colorado allows 30.1. Colorado lost 57-24 at Oklahoma State last week and has dropped all four Big 12 games. Isaac Wilson has thrown multiple interceptions in each of his last three games. In The Trenches likes the K-State run game against this front. A team that scores like K-State only has to win by a field goal. My final has the Wildcats by more than that.\n\nThe risk is that K-State has slipped. It lost three of its last four games, including a 28-17 loss at Arizona State in which Jacob Knuth, not Johnson, threw the most passes. And Folsom Field is a tough place for a visitor, at altitude and on a day the home crowd is desperate for a win.\n\nWhy the Over? Five of K-State's seven games went past 47.5. Colorado's last two games finished 27-24 and 57-24, and its defense gives up 30.1 a game. Wilson can throw it, too: he had 280 yards in Stillwater, and Williams caught nine balls for 135. Both offenses should find room. My 28-23 adds up to 51, over 47.5.\n\nNow the room, and it mostly agrees with me. The Formula has K-State 28-24 and takes the Wildcats and the Over. Next Man Up has K-State 28-22, same side, same Over. In The Trenches backs K-State too. Follow The Money goes the other way, Colorado and the Under, because the market moved toward the Buffs.\n\nNext Man Up started it: \"Wildcats by nearly a touchdown. Hattie, start planting.\"\n\nFollow The Money pushed back: \"The market's been coming to Colorado all week. I'm riding that.\"\n\nThe Formula answered: \"Colorado allows 30.1 a game. The market can ride. I'll take the points on the board.\"\n\nBottom of the card: a K-State offense that scores, a Colorado team that hasn't beaten a Big 12 opponent, and two teams that can light up a scoreboard. Hattie gets her bumper harvest. Give me the Wildcats and the Over.\n\nKansas State Wildcats 28, Colorado Buffaloes 23. Kansas State Wildcats cover the 1.5. Over 47.5."
+  },
+  {
+   "game_id": "401869944",
+   "matchup": "Coastal Carolina Chanticleers at Georgia State Panthers",
+   "away": {
+    "team": "Coastal Carolina Chanticleers",
+    "conference": "Sun Belt",
+    "record": "2-5",
+    "rank": null
+   },
+   "home": {
+    "team": "Georgia State Panthers",
+    "conference": "Sun Belt",
+    "record": "4-3",
+    "rank": null
+   },
+   "kickoff_et": "2:00 PM ET Sat Oct 31",
+   "kickoff_utc": "2026-10-31T18:00Z",
+   "tv": [
+    "ESPN+"
+   ],
+   "venue": "Center Parc Stadium",
+   "conferences": [
+    "Sun Belt"
+   ],
+   "team_ids": [
+    "coastal-carolina",
+    "georgia-state"
+   ],
+   "spread": "Georgia State Panthers −6.5",
+   "total_line": 58.5,
+   "prediction": {
+    "away_score": 25,
+    "home_score": 33,
+    "winner": "Georgia State Panthers",
+    "covers": "Georgia State Panthers −6.5"
+   },
+   "total_pick": "Under",
+   "status_at_build": {
+    "state": "pre"
+   },
+   "display": {
+    "writer": {
+     "score_line": "Projected: Georgia State Panthers 33, Coastal Carolina Chanticleers 25 (Total 58)",
+     "side": "Georgia State Panthers −6.5",
+     "ou": "Under 58.5",
+     "label": "Average of 2 independent scores"
+    },
+    "handicappers": [
+     {
+      "name": "The Formula",
+      "side_line": "Side: Coastal Carolina Chanticleers +6.5",
+      "ou_line": "O/U: Under 58.5",
+      "score_line": "Projected: Georgia State Panthers 31, Coastal Carolina Chanticleers 25 (Total 56)",
+      "basis_line": "FPI Coastal Carolina Chanticleers −12.2, Georgia State Panthers −7.5; FPI gap × 0.85 + home field 2.15 = Georgia State Panthers by 6.1. Total 56.9: each team's points = average of its points scored per game and the opponent's points allowed per game (Coastal Carolina Chanticleers 26.1 scored / 25.9 allowed in 7 games; Georgia State Panthers 35.9 / 26.0 in 7). Line Georgia State Panthers −6.5, total 58.5.",
+      "independent": true,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 2.5
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: Georgia State Panthers −6.5 · Likes this side",
+      "ou_line": "O/U: Over 58.5",
+      "score_line": "Projected: Georgia State Panthers 35, Coastal Carolina Chanticleers 24 (Total 59)",
+      "basis_line": "Team strength with the players available: offense and defense strength fitted to every 2026 game score so far (2335 games), starting from last season's strength scaled by how much production returned. Projected points: Coastal Carolina Chanticleers 24.0, Georgia State Panthers 35.4, home field included. Availability: no official conference availability report covers this game, so no quarterback adjustment is made.",
+      "independent": true,
+      "distance_from_spread": 4.5,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: not available this week",
+      "ou_line": "O/U: not available this week",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Rest and travel read: the inputs updated for last week's games are not available yet, so this card has no score this week and is not counted in the average.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     },
+     {
+      "name": "Follow The Money",
+      "side_line": "Side: no pick (line moved under 1 point)",
+      "ou_line": "O/U: Over 58.5 · Likes this total",
+      "score_line": "No score of its own — reads the market (see the market line).",
+      "basis_line": "Spread opened Georgia State Panthers −6.5 and is −6.5 now, a 0-point move, under the 1-point threshold: no side pick. Total opened 57.5 and is 58.5 now, a 1-point move that meets the threshold: Over. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
+      "independent": false,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "In The Trenches",
+      "side_line": "Side: Georgia State Panthers −6.5 · Likes this side",
+      "ou_line": "O/U: Under 58.5",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "This read points to a side only. Coastal Carolina Chanticleers 4.2 ypc vs Georgia State Panthers allowing 4.5; Georgia State Panthers 5.4 ypc vs Coastal Carolina Chanticleers allowing 4.8 (2026 season; rushing totals include sacks). Per-side test: Georgia State Panthers run game 0.6 ypc above what the opponent allows, which meets the cutoff (0.5 ypc or 5 points) and favours Georgia State Panthers. Side: Georgia State Panthers −6.5.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     }
+    ],
+    "story_text": "Malik Overstreet steps off the MARTA train at Georgia State station, swipes a Breeze card and finds Goldie Seabrook waiting on the platform with a cooler of boiled shrimp. \"Goldie,\" he says, \"you took I-20 in on a Saturday? Brave.\" Goldie hands him a shrimp. \"Malik, I grew up on a shrimp boat. Traffic doesn't scare me. Tides do.\"\n\nCoastal Carolina (2-5) at Georgia State (4-3), Saturday at 2 p.m. ET on ESPN+ at Center Parc Stadium in Atlanta. It's a Sun Belt game, and both teams are 1-2 in league play. DraftKings has Georgia State Panthers −6.5 with a total of 58.5. My card: Georgia State Panthers −6.5, Under 58.5, and a final of Georgia State Panthers 33, Coastal Carolina Chanticleers 25.\n\nMalik speaks for Georgia State. \"Next stop, the end zone. Cameran Brown has 14 touchdown throws. Rodshaun Dorsey has eight touchdown catches. Xavier Esqillion has seven sacks. And at Center Parc we beat North Carolina A&T 59-10, Northern Illinois 35-14 and Old Dominion 42-10. Let's ride.\"\n\nGoldie speaks for Coastal. \"Teal deal, Malik. Deuce Bailey has 16 touchdown throws and four interceptions. Marcellius Pulliam has 67 tackles. Ibrahim Diawara has five sacks. We beat you 40-27 last year, and we've had an extra week to get ready.\"\n\nWhy Georgia State? Because the Panthers are a different team at home. They're 3-0 at Center Parc, and nobody has come close there. Their losses all came on the road. Georgia State scores 35.9 points a game, and In The Trenches likes its run game, 5.4 yards a carry, against a Coastal defense that allows 4.8. My final has the Panthers by more than a touchdown.\n\nThe risk is that Coastal plays everybody close. Five of its seven games were decided by eight points or fewer, including a 31-24 loss at West Virginia and a 35-32 loss to App State. Coastal has won five of the nine meetings since 2017. Georgia State's turnover margin is minus-4, and Ayden Pereira threw the most passes in last week's 38-32 loss at Arkansas State, not Brown.\n\nWhy the Under? Six of Coastal's seven games stayed under 58.5. The Chanticleers score 26.1 points a game and allow 25.9, and their biggest scoring day was a 35-32 loss. My 33-25 adds up to 58, just under 58.5.\n\nNow the room, and it's split down the tracks. The Formula has Georgia State 31-25, a little short of the 6.5, and sides with Coastal and the Under. Next Man Up has Georgia State 35-24 and likes the Panthers, with its total on the Over. In The Trenches likes Georgia State. Follow The Money skips the side and likes the Over after the total ticked up.\n\nNext Man Up started it: \"Panthers by double digits. Malik, find that parking spot.\"\n\nThe Formula disagreed: \"Coastal plays close games. I'll take the points, but I'm with you on the Under.\"\n\nFollow The Money held out: \"The total ticked up. Over for me.\"\n\nBottom of the card: a Georgia State team that has rolled at home, a Coastal team that keeps games close and rarely turns them into shootouts, and a total that's a hair too high. Malik dances like he found a spot downtown. Give me the Panthers and the Under.\n\nGeorgia State Panthers 33, Coastal Carolina Chanticleers 25. Georgia State Panthers cover the 6.5. Under 58.5.",
+    "fanatic_score_line": "Projected: Georgia State Panthers 33, Coastal Carolina Chanticleers 25 (Total 58)",
+    "line_used": {
+     "home_line": "Georgia State Panthers −6.5",
+     "total": "58.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "injuries": {
+     "away": [],
+     "home": [],
+     "source": "No official conference availability report for this game",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "sourced_reasons": [
+     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "ESPN Football Power Index",
+     "Points: ESPN team pages for Coastal Carolina and Georgia State (espn.com)",
+     "Market moves: ESPN game page (espn.com)",
+     "Trench stats: ESPN team stats for Coastal Carolina (espn.com)",
+     "Trench stats: ESPN team stats for Georgia State (espn.com)",
+     "Schedule history: collegefootballdata.com 2018–2025"
+    ],
+    "fanatic_story": "Teal Tide Meets the Big City: Coastal Carolina Visits Georgia State in Atlanta\n\nCoastal Carolina (2-5, 1-2 Sun Belt) at Georgia State (4-3, 1-2 Sun Belt). Saturday, Oct. 31, 2 p.m. ET, Center Parc Stadium, Atlanta, ESPN+.\n\nYour hosts are Goldie Seabrook, a Conway native from a shrimp-boat family who writes like the tide, and Malik Overstreet, a Georgia State fan who knows every MARTA stop and every Panther third-down tendency.\n\nMalik: Goldie! Welcome to the big city. How was the drive?\n\nGoldie: Long, Malik. I hit traffic on the Connector and thought about turning the car into a boat.\n\nMalik: That's the Connector at rush hour. Welcome to my world.\n\nPlayers to watch\n\nCoastal quarterback Deuce Bailey has thrown the most passes in every game. He's 109 of 204 for 1,638 yards, 16 touchdowns and four interceptions. Dominic Lee-Knicely leads the rushers with 452 yards and three scores, and Colton Hinton leads the receivers with 297 yards and four touchdowns on 13 catches. On defense, linebacker Marcellius Pulliam has 67 tackles and end Ibrahim Diawara has five sacks.\n\nGeorgia State quarterback Cameran Brown threw the most passes in each of the first six games. He's 110 of 166 for 1,356 yards, 14 touchdowns and five interceptions, and he threw six touchdowns against Old Dominion. Ayden Pereira threw the most passes last week. Lanear McCrary Jr. leads the rushers with 399 yards and four touchdowns, and Rodshaun Dorsey leads the receivers with 24 catches for 418 yards and eight scores. Linebacker Xavier Esqillion has seven sacks, and Jaydon Hood has 45 tackles.\n\nGoldie: Sixteen touchdown throws for Deuce Bailey, Malik. That's a full net of shrimp.\n\nWhat happened last week\n\nCoastal had an open date last week. Its last game was a 35-32 loss to App State on Oct. 16, when Bailey threw for 298 yards and three touchdowns, Lee-Knicely ran 18 times for 90 yards, and Robby Washington caught five balls for 118 yards and a score.\n\nGoldie: Low tide. But we had a whole week to rest and get ready.\n\nGeorgia State lost 38-32 at Arkansas State on Oct. 24. Pereira threw two touchdowns, Qwantavius Wiggins ran eight times for 99 yards and a score, and Dorsey caught three balls for 85 yards and a touchdown.\n\nMalik: I blamed the traffic on 75/85. Then I moved on.\n\nInjuries and availability\n\nNo official availability report has been posted for this game yet, and box scores don't mark starters. Bailey has thrown the most passes in every Coastal game, while Brown did for Georgia State in its first six games and Pereira did last week, so check the teams' pregame notes.\n\nWhat the coaches are up to\n\nRyan Beard leads Coastal Carolina, and CollegeFootballData dates his hire to Dec. 11, 2025. His defense has 15 sacks, 37 tackles for loss and 14 takeaways.\n\nDell McGee leads Georgia State, and CFBD dates his hire to Feb. 23, 2024. His offense holds the ball 32:34 a game and runs for 206 yards a game.\n\nMalik: Coach McGee's offense moves like the HOV lane. Smooth and fast.\n\nGoldie: Coach Beard's defense comes in like the tide. Steady and strong.\n\nPlayer storylines\n\nThe matchup to watch is the Georgia State ground game against a Coastal defense that allows 4.8 yards a carry. Coastal's big guys up front will need to slow McCrary and Wiggins. On the other side, Bailey and his receivers want to keep throwing deep, while Esqillion hunts for sack number eight. Georgia State is 3-0 at home this season, so Coastal will have to bring its best.\n\nWhat's happening on campus\n\nCenter Parc Stadium sits about ten minutes from Georgia State's downtown campus and is listed at 25,000 seats. A Halloween afternoon in Atlanta should bring plenty of blue-and-white costumes, and Coastal fans will bring their teal.\n\nMalik: I'm dressing as a MARTA train. I'll arrive on time.\n\nGoldie: I'm dressing as a shrimp boat. I'll arrive whenever the tide says.\n\nAnything else fun and true\n\nGeorgia State football was founded in 2010. Coastal plays at Brooks Stadium in Conway, built in 2003, and its teal turf is the tradition Goldie would show you first. These two have met in every season since 2017, and Coastal has won five of those nine games, including a 51-0 win in 2020 and a 40-27 win in 2025. Georgia State won 42-40 in 2021 and 30-17 in 2023.\n\nGoldie: Malik, win or lose, the shrimp are on me after the game. We'll say grace first.\n\nMalik: Deal, Goldie. Let's ride.\n\nMy call: Georgia State Panthers 33, Coastal Carolina Chanticleers 25.",
+    "market": {
+     "score_line": "Market: Georgia State Panthers 33, Coastal Carolina Chanticleers 26 (Total 59)",
+     "spread": "Georgia State Panthers −6.5",
+     "total": "58.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "note": "The market’s own numbers (spread and total split into team points), shown for comparison only."
+    }
+   },
+   "gambler_story": "Malik Overstreet steps off the MARTA train at Georgia State station, swipes a Breeze card and finds Goldie Seabrook waiting on the platform with a cooler of boiled shrimp. \"Goldie,\" he says, \"you took I-20 in on a Saturday? Brave.\" Goldie hands him a shrimp. \"Malik, I grew up on a shrimp boat. Traffic doesn't scare me. Tides do.\"\n\nCoastal Carolina (2-5) at Georgia State (4-3), Saturday at 2 p.m. ET on ESPN+ at Center Parc Stadium in Atlanta. It's a Sun Belt game, and both teams are 1-2 in league play. DraftKings has Georgia State Panthers −6.5 with a total of 58.5. My card: Georgia State Panthers −6.5, Under 58.5, and a final of Georgia State Panthers 33, Coastal Carolina Chanticleers 25.\n\nMalik speaks for Georgia State. \"Next stop, the end zone. Cameran Brown has 14 touchdown throws. Rodshaun Dorsey has eight touchdown catches. Xavier Esqillion has seven sacks. And at Center Parc we beat North Carolina A&T 59-10, Northern Illinois 35-14 and Old Dominion 42-10. Let's ride.\"\n\nGoldie speaks for Coastal. \"Teal deal, Malik. Deuce Bailey has 16 touchdown throws and four interceptions. Marcellius Pulliam has 67 tackles. Ibrahim Diawara has five sacks. We beat you 40-27 last year, and we've had an extra week to get ready.\"\n\nWhy Georgia State? Because the Panthers are a different team at home. They're 3-0 at Center Parc, and nobody has come close there. Their losses all came on the road. Georgia State scores 35.9 points a game, and In The Trenches likes its run game, 5.4 yards a carry, against a Coastal defense that allows 4.8. My final has the Panthers by more than a touchdown.\n\nThe risk is that Coastal plays everybody close. Five of its seven games were decided by eight points or fewer, including a 31-24 loss at West Virginia and a 35-32 loss to App State. Coastal has won five of the nine meetings since 2017. Georgia State's turnover margin is minus-4, and Ayden Pereira threw the most passes in last week's 38-32 loss at Arkansas State, not Brown.\n\nWhy the Under? Six of Coastal's seven games stayed under 58.5. The Chanticleers score 26.1 points a game and allow 25.9, and their biggest scoring day was a 35-32 loss. My 33-25 adds up to 58, just under 58.5.\n\nNow the room, and it's split down the tracks. The Formula has Georgia State 31-25, a little short of the 6.5, and sides with Coastal and the Under. Next Man Up has Georgia State 35-24 and likes the Panthers, with its total on the Over. In The Trenches likes Georgia State. Follow The Money skips the side and likes the Over after the total ticked up.\n\nNext Man Up started it: \"Panthers by double digits. Malik, find that parking spot.\"\n\nThe Formula disagreed: \"Coastal plays close games. I'll take the points, but I'm with you on the Under.\"\n\nFollow The Money held out: \"The total ticked up. Over for me.\"\n\nBottom of the card: a Georgia State team that has rolled at home, a Coastal team that keeps games close and rarely turns them into shootouts, and a total that's a hair too high. Malik dances like he found a spot downtown. Give me the Panthers and the Under.\n\nGeorgia State Panthers 33, Coastal Carolina Chanticleers 25. Georgia State Panthers cover the 6.5. Under 58.5."
+  },
+  {
+   "game_id": "401861966",
+   "matchup": "UConn Huskies at Air Force Falcons",
+   "away": {
+    "team": "UConn Huskies",
+    "conference": "FBS Independent",
+    "record": "4-3",
+    "rank": null
+   },
+   "home": {
+    "team": "Air Force Falcons",
+    "conference": "Mountain West",
+    "record": "5-2",
+    "rank": null
+   },
+   "kickoff_et": "3:00 PM ET Sat Oct 31",
+   "kickoff_utc": "2026-10-31T19:00Z",
+   "tv": [
+    "MW+"
+   ],
+   "venue": "Falcon Stadium",
+   "conferences": [
+    "FBS Independent",
+    "Mountain West"
+   ],
+   "team_ids": [
+    "uconn",
+    "air-force"
+   ],
+   "spread": "Air Force Falcons −2.5",
+   "total_line": 53.5,
+   "prediction": {
+    "away_score": 27,
+    "home_score": 29,
+    "winner": "Air Force Falcons",
+    "covers": "UConn Huskies +2.5"
+   },
+   "total_pick": "Over",
+   "status_at_build": {
+    "state": "pre"
+   },
+   "display": {
+    "writer": {
+     "score_line": "Projected: Air Force Falcons 29, UConn Huskies 27 (Total 56)",
+     "side": "UConn Huskies +2.5",
+     "ou": "Over 53.5",
+     "label": "Average of 2 independent scores"
+    },
+    "handicappers": [
+     {
+      "name": "The Formula",
+      "side_line": "Side: UConn Huskies +2.5",
+      "ou_line": "O/U: Over 53.5",
+      "score_line": "Projected: Air Force Falcons 28, UConn Huskies 26 (Total 54)",
+      "basis_line": "FPI UConn Huskies −4.8, Air Force Falcons −4.8; FPI gap × 0.85 + home field 2.15 = Air Force Falcons by 2.2. Total 54.4: each team's points = average of its points scored per game and the opponent's points allowed per game (UConn Huskies 35.6 scored / 23.9 allowed in 7 games; Air Force Falcons 28.4 / 20.9 in 7). Line Air Force Falcons −2.5, total 53.5.",
+      "independent": true,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: UConn Huskies +2.5",
+      "ou_line": "O/U: Over 53.5 · Likes this total",
+      "score_line": "Projected: Air Force Falcons 30, UConn Huskies 28 (Total 58)",
+      "basis_line": "Team strength with the players available: offense and defense strength fitted to every 2026 game score so far (2335 games), starting from last season's strength scaled by how much production returned. Projected points: UConn Huskies 27.8, Air Force Falcons 30.1, home field included. Availability: no official conference availability report covers this game, so no quarterback adjustment is made.",
+      "independent": true,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 4.5
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: not available this week",
+      "ou_line": "O/U: not available this week",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Rest and travel read: the inputs updated for last week's games are not available yet, so this card has no score this week and is not counted in the average.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     },
+     {
+      "name": "Follow The Money",
+      "side_line": "Side: UConn Huskies +2.5 · Likes this side",
+      "ou_line": "O/U: Under 53.5 · Likes this total",
+      "score_line": "No score of its own — reads the market (see the market line).",
+      "basis_line": "Spread opened Air Force Falcons −4 and is −2.5 now, a 1.5-point move that meets the 1-point threshold. Total opened 56.5 and is 53.5 now, a 3-point move that meets the threshold: Under. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
+      "independent": false,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "In The Trenches",
+      "side_line": "Side: no pick (no trench signal)",
+      "ou_line": "O/U: no pick (no trench signal)",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "UConn Huskies 5.3 ypc vs Air Force Falcons allowing 4.6; Air Force Falcons 5.3 ypc vs UConn Huskies allowing 3.3 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     }
+    ],
+    "story_text": "Lt. Col. Marissa Okonkwo-Hale, retired, is running a pre-flight checklist on a folding table outside Falcon Stadium when Jo Ferrante jogs up dribbling a basketball. \"Ferrante,\" the colonel says, \"your call sign is Fast Break. Approved.\" Jo spins the ball on one finger. \"Colonel, I'll take it. Just don't make me run the option.\"\n\nUConn (4-3) at Air Force (5-2), Saturday at 3 p.m. ET on MW+ at Falcon Stadium. It's a non-conference game: UConn is an FBS independent, and Air Force is 3-2 in the Mountain West. DraftKings has Air Force Falcons −2.5 with a total of 53.5. My card: UConn Huskies +2.5, Over 53.5, and a final of Air Force Falcons 29, UConn Huskies 27.\n\nThe colonel speaks for Air Force. \"Evan Medders has run for 490 yards and six touchdowns. Blake Fletcher has 72 tackles. We beat Navy 14-9 and UNLV 41-31. We're 5-2, and we're climbing back to cruising altitude. Call sign: correct.\"\n\nJo speaks for UConn. \"Kalieb Osborne has 12 touchdown throws and two interceptions. Cyncir Bowers has 564 rushing yards and seven touchdowns. We scored 35 on UMass last week. And we beat you 26-16 last year. Pack the Rent.\"\n\nWhy UConn? Because the Huskies stop the run, and that's all Air Force wants to do. UConn allows 3.3 yards a carry. Air Force gains 5.3 a carry, but it just managed 14 points at Wyoming. The Falcons have also cycled through quarterbacks: Liam Szarka, Kemper Hodges, Medders and Howard Fisher IV have each thrown the most passes in a game. UConn scores 35.6 points a game and has a quarterback with two interceptions all season. In a game this close to a coin flip, I want the points. My final has Air Force by less than a field goal.\n\nThe risk is the altitude and the clock. Air Force plays at elevation, and it holds the ball for long stretches. UConn lost close games at Miami (Ohio), 24-21, and to Syracuse, 42-41 in overtime.\n\nWhy the Over? UConn has scored 34 points or more in five of its seven games. Air Force scored 41 against UNLV at home, and its loss to North Dakota State finished 38-32. The total has come down this week, so the Over has a lower total to clear. My 29-27 adds up to 56, over 53.5.\n\nNow the room, and everybody likes the Huskies. The Formula has Air Force 28-26 and sides with UConn, with its total landing Over. Next Man Up has Air Force 30-28, sides with UConn and likes the Over. Follow The Money likes UConn too, but takes the Under after the total dropped. In The Trenches has no pick, since the run games cancel out.\n\nNext Man Up started it: \"Air Force by a hair. UConn keeps the points. Colonel, log it.\"\n\nFollow The Money agreed halfway: \"Market moved to UConn. It also moved to the Under.\"\n\nThe Formula answered: \"UConn scores 35.6 a game. Under is a tough flight plan.\"\n\nBottom of the card: a UConn defense that shuts down the run, an Air Force offense still sorting out its quarterbacks, and two teams that can put points up. Jo gets her fast break. Give me the Huskies and the Over.\n\nAir Force Falcons 29, UConn Huskies 27. UConn Huskies cover the 2.5. Over 53.5.",
+    "fanatic_score_line": "Projected: Air Force Falcons 29, UConn Huskies 27 (Total 56)",
+    "line_used": {
+     "home_line": "Air Force Falcons −2.5",
+     "total": "53.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "injuries": {
+     "away": [],
+     "home": [],
+     "source": "No official conference availability report for this game",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "sourced_reasons": [
+     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "ESPN Football Power Index",
+     "Points: ESPN team pages for UConn and Air Force (espn.com)",
+     "Market moves: ESPN game page (espn.com)",
+     "Trench stats: ESPN team stats for UConn (espn.com)",
+     "Trench stats: ESPN team stats for Air Force (espn.com)",
+     "Schedule history: collegefootballdata.com 2018–2025"
+    ],
+    "fanatic_story": "Fast Break Meets the Flight Deck: UConn Visits Air Force on Halloween\n\nUConn (4-3, FBS independent) at Air Force (5-2, 3-2 Mountain West). Saturday, Oct. 31, 3 p.m. ET, Falcon Stadium, USAF Academy, Colo., MW+.\n\nYour hosts are Jo Ferrante, a Hartford-area former point guard who counts possessions, and Lt. Col. (Ret.) Marissa Okonkwo-Hale, a retired Air Force instructor pilot who gives everyone a call sign.\n\nColonel: Welcome to the Academy, Ferrante. Your call sign is Fast Break.\n\nJo: Colonel, I love it. Next play, next possession.\n\nColonel: Hydrate. We're at about 2,025 meters up here. Your lungs will notice before your legs do.\n\nPlayers to watch\n\nUConn quarterback Kalieb Osborne has thrown the most passes in every game. He's 112 of 182 for 1,594 yards, 12 touchdowns and only two interceptions. Running back Cyncir Bowers has 564 yards and seven touchdowns, and Shamar Porter leads the receivers with 265 yards and three scores on 14 catches. On defense, linebacker Hayden Pegg has 47 tackles and K'Von Sherman has 3.5 sacks.\n\nAir Force runs the option, so the quarterback who carries it matters most. Evan Medders leads the team with 490 rushing yards and six touchdowns. Liam Szarka leads in throwing at 19 of 38 for 296 yards, and four different quarterbacks have thrown the most passes in a game this year. Tight end Simon Kibbee leads the receivers with eight catches for 135 yards. Linebacker Blake Fletcher has 72 tackles, and defensive back Max Mustell has three sacks.\n\nJo: Two interceptions all year for Osborne. In basketball terms, that's a point guard who never turns it over. I'd start him every night.\n\nWhat happened last week\n\nUConn beat UMass 35-16 at home on Oct. 23. Osborne was 14 of 19 for 173 yards and two touchdowns, Bowers ran 15 times for 131 yards and a score, and JD Willoughby caught a touchdown.\n\nJo: Pack the Rent! That's how you close out a game.\n\nAir Force lost 28-14 at Wyoming on Oct. 23. Medders ran 21 times for 115 yards, and Howard Fisher IV threw the most passes.\n\nColonel: Rough landing. We debriefed. Wheels up again Saturday.\n\nInjuries and availability\n\nNo official availability report has been posted for this game yet, and box scores don't mark starters. Osborne has thrown the most passes in every UConn game, while four different Air Force quarterbacks have done it, including Fisher last week, so check the teams' pregame notes.\n\nWhat the coaches are up to\n\nJason Candle is UConn's new head coach, hired on Dec. 6, 2025. He led Toledo from 2016 to 2025 after starting there as an assistant in 2009, and his UConn offense plays with pace, running for 195.3 yards a game.\n\nTroy Calhoun has led Air Force since 2007, and CFBD dates his hire to Dec. 22, 2006. His Falcons run for 343.0 yards a game, second in FBS, and hold the ball 36:22 a game.\n\nColonel: Twenty seasons in the cockpit. That's a rare thing in this sport.\n\nJo: Respect, Colonel. Coach Candle is in year one, and he already has us scoring 35.6 points a game.\n\nPlayer storylines\n\nThe big matchup is the Air Force option against a UConn defense that allows only 3.3 yards a carry. Pegg and the Husky big guys up front will need to stay disciplined on every snap. On the other side, Bowers and Osborne will try to keep up with an Air Force defense that allows 20.9 points a game. Possessions will be precious, and Jo will be counting every one.\n\nWhat's happening on campus\n\nFalcon Stadium sits north of Colorado Springs, and CFBD lists it as built in 1962 with 46,692 seats. A Halloween afternoon at the Academy with the mountains in the background is hard to beat. The three service academies compete for the Commander-in-Chief's Trophy each year, and the Falcons beat Navy 14-9 this season.\n\nColonel: I'll be in my flight suit. Not a costume. A uniform.\n\nJo: I'll be in my old jersey. Also not a costume. A lifestyle.\n\nAnything else fun and true\n\nUConn first fielded a team in 1896 and went independent in 2019. The Huskies went 9-4 in both 2024 and 2025, and they beat Air Force 26-16 last season. Air Force has been in the Mountain West since the league was founded in 1999, and the Falcons went 10-3, 10-3 and 9-4 earlier in this decade.\n\nJo: Colonel, whatever happens, dinner's on me afterward. We'll say grace first.\n\nColonel: Accepted, Fast Break. God bless these young men on both sidelines. Call sign: correct.\n\nMy call: Air Force Falcons 29, UConn Huskies 27.",
+    "market": {
+     "score_line": "Market: Air Force Falcons 28, UConn Huskies 26 (Total 54)",
+     "spread": "Air Force Falcons −2.5",
+     "total": "53.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "note": "The market’s own numbers (spread and total split into team points), shown for comparison only."
+    }
+   },
+   "gambler_story": "Lt. Col. Marissa Okonkwo-Hale, retired, is running a pre-flight checklist on a folding table outside Falcon Stadium when Jo Ferrante jogs up dribbling a basketball. \"Ferrante,\" the colonel says, \"your call sign is Fast Break. Approved.\" Jo spins the ball on one finger. \"Colonel, I'll take it. Just don't make me run the option.\"\n\nUConn (4-3) at Air Force (5-2), Saturday at 3 p.m. ET on MW+ at Falcon Stadium. It's a non-conference game: UConn is an FBS independent, and Air Force is 3-2 in the Mountain West. DraftKings has Air Force Falcons −2.5 with a total of 53.5. My card: UConn Huskies +2.5, Over 53.5, and a final of Air Force Falcons 29, UConn Huskies 27.\n\nThe colonel speaks for Air Force. \"Evan Medders has run for 490 yards and six touchdowns. Blake Fletcher has 72 tackles. We beat Navy 14-9 and UNLV 41-31. We're 5-2, and we're climbing back to cruising altitude. Call sign: correct.\"\n\nJo speaks for UConn. \"Kalieb Osborne has 12 touchdown throws and two interceptions. Cyncir Bowers has 564 rushing yards and seven touchdowns. We scored 35 on UMass last week. And we beat you 26-16 last year. Pack the Rent.\"\n\nWhy UConn? Because the Huskies stop the run, and that's all Air Force wants to do. UConn allows 3.3 yards a carry. Air Force gains 5.3 a carry, but it just managed 14 points at Wyoming. The Falcons have also cycled through quarterbacks: Liam Szarka, Kemper Hodges, Medders and Howard Fisher IV have each thrown the most passes in a game. UConn scores 35.6 points a game and has a quarterback with two interceptions all season. In a game this close to a coin flip, I want the points. My final has Air Force by less than a field goal.\n\nThe risk is the altitude and the clock. Air Force plays at elevation, and it holds the ball for long stretches. UConn lost close games at Miami (Ohio), 24-21, and to Syracuse, 42-41 in overtime.\n\nWhy the Over? UConn has scored 34 points or more in five of its seven games. Air Force scored 41 against UNLV at home, and its loss to North Dakota State finished 38-32. The total has come down this week, so the Over has a lower total to clear. My 29-27 adds up to 56, over 53.5.\n\nNow the room, and everybody likes the Huskies. The Formula has Air Force 28-26 and sides with UConn, with its total landing Over. Next Man Up has Air Force 30-28, sides with UConn and likes the Over. Follow The Money likes UConn too, but takes the Under after the total dropped. In The Trenches has no pick, since the run games cancel out.\n\nNext Man Up started it: \"Air Force by a hair. UConn keeps the points. Colonel, log it.\"\n\nFollow The Money agreed halfway: \"Market moved to UConn. It also moved to the Under.\"\n\nThe Formula answered: \"UConn scores 35.6 a game. Under is a tough flight plan.\"\n\nBottom of the card: a UConn defense that shuts down the run, an Air Force offense still sorting out its quarterbacks, and two teams that can put points up. Jo gets her fast break. Give me the Huskies and the Over.\n\nAir Force Falcons 29, UConn Huskies 27. UConn Huskies cover the 2.5. Over 53.5."
+  },
+  {
+   "game_id": "401862815",
+   "matchup": "Temple Owls at East Carolina Pirates",
+   "away": {
+    "team": "Temple Owls",
+    "conference": "American",
+    "record": "2-5",
+    "rank": null
+   },
+   "home": {
+    "team": "East Carolina Pirates",
+    "conference": "American",
+    "record": "3-4",
+    "rank": null
+   },
+   "kickoff_et": "3:00 PM ET Sat Oct 31",
+   "kickoff_utc": "2026-10-31T19:00Z",
+   "tv": [
+    "ESPN+"
+   ],
+   "venue": "Dowdy-Ficklen Stadium",
+   "conferences": [
+    "American"
+   ],
+   "team_ids": [
+    "temple",
+    "east-carolina"
+   ],
+   "spread": "East Carolina Pirates −6",
+   "total_line": 49.5,
+   "prediction": {
+    "away_score": 23,
+    "home_score": 30,
+    "winner": "East Carolina Pirates",
+    "covers": "East Carolina Pirates −6"
+   },
+   "total_pick": "Over",
+   "status_at_build": {
+    "state": "pre"
+   },
+   "display": {
+    "writer": {
+     "score_line": "Projected: East Carolina Pirates 30, Temple Owls 23 (Total 53)",
+     "side": "East Carolina Pirates −6",
+     "ou": "Over 49.5",
+     "label": "Average of 2 independent scores"
+    },
+    "handicappers": [
+     {
+      "name": "The Formula",
+      "side_line": "Side: East Carolina Pirates −6",
+      "ou_line": "O/U: Over 49.5 · Likes this total",
+      "score_line": "Projected: East Carolina Pirates 30, Temple Owls 23 (Total 53)",
+      "basis_line": "FPI Temple Owls −9.1, East Carolina Pirates −4.2; FPI gap × 0.85 + home field 2.15 = East Carolina Pirates by 6.3. Total 52.5: each team's points = average of its points scored per game and the opponent's points allowed per game (Temple Owls 25.7 scored / 28.0 allowed in 7 games; East Carolina Pirates 25.0 / 26.3 in 7). Line East Carolina Pirates −6, total 49.5.",
+      "independent": true,
+      "distance_from_spread": 1.0,
+      "distance_from_total": 3.5
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: East Carolina Pirates −6",
+      "ou_line": "O/U: Over 49.5 · Likes this total",
+      "score_line": "Projected: East Carolina Pirates 30, Temple Owls 23 (Total 53)",
+      "basis_line": "Team strength with the players available: offense and defense strength fitted to every 2026 game score so far (2335 games), starting from last season's strength scaled by how much production returned. Projected points: Temple Owls 22.9, East Carolina Pirates 29.9, home field included. Availability: no official conference availability report covers this game, so no quarterback adjustment is made.",
+      "independent": true,
+      "distance_from_spread": 1.0,
+      "distance_from_total": 3.5
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: not available this week",
+      "ou_line": "O/U: not available this week",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Rest and travel read: the inputs updated for last week's games are not available yet, so this card has no score this week and is not counted in the average.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     },
+     {
+      "name": "Follow The Money",
+      "side_line": "Side: East Carolina Pirates −6 · Likes this side",
+      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "score_line": "No score of its own — reads the market (see the market line).",
+      "basis_line": "Spread opened East Carolina Pirates −4.5 and is −6 now, a 1.5-point move that meets the 1-point threshold. Total opened 49.5 and is 49.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
+      "independent": false,
+      "distance_from_spread": 0.0,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "In The Trenches",
+      "side_line": "Side: Temple Owls +6 · Likes this side",
+      "ou_line": "O/U: Over 49.5",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "This read points to a side only. Temple Owls 5.4 ypc vs East Carolina Pirates allowing 3.3; East Carolina Pirates 4.3 ypc vs Temple Owls allowing 4.5 (2026 season; rushing totals include sacks). Per-side test: Temple Owls run game 2.0 ypc above what the opponent allows, which meets the cutoff (0.5 ypc or 5 points) and favours Temple Owls. Side: Temple Owls +6.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     }
+    ],
+    "story_text": "Bart Quidley is adjusting his purple tricorn hat at the family tailgate spot outside Dowdy-Ficklen Stadium when Teddy Fiorella marches up in a gray hoodie, shadowboxing. \"Bart,\" Teddy says, \"before you say anything about Philly, don't.\" Bart blinks. \"Teddy, I didn't say a word.\" Teddy points. \"You were thinking it.\"\n\nTemple (2-5) at East Carolina (3-4), Saturday at 3 p.m. ET on ESPN+ at Dowdy-Ficklen Stadium in Greenville. It's an American game, and both teams are 1-2 in league play. DraftKings has East Carolina Pirates −6 with a total of 49.5. My card: East Carolina Pirates −6, Over 49.5, and a final of East Carolina Pirates 30, Temple Owls 23.\n\nBart speaks for East Carolina, hat at a jaunty angle. \"Ahoy! TJ Engleman Jr. has run for 582 yards. DJ Johnson Jr. has 51 tackles. We took Memphis to overtime on the road. And we beat Temple 56-34 two years ago and 45-14 last year. Hoist the colors.\"\n\nTeddy speaks for Temple, still shadowboxing. \"Yo, that's Temple Made! Ajani Sheppard has eight touchdown throws. Keveun Mason has 513 rushing yards. Curly Ordonez has 63 tackles. We went into Tampa and beat South Florida 17-13. And we had a week off to get ready.\"\n\nWhy East Carolina? Because the Pirates own this matchup lately and play better at home. ECU won the last three meetings, 49-46, 56-34 and 45-14. At Dowdy-Ficklen this year, the Pirates beat Rice 28-12 and North Carolina Central 42-9 and lost to App State by a field goal. Temple allows 28.0 points a game and has lost three of its last four, including a 34-20 home loss to UConn. ECU just pushed Memphis to overtime on the road, and Landon Sides caught seven balls for 130 yards in that one. My final has the Pirates by a touchdown.\n\nThe risk is the ECU offense. It has bounced between Mitch Griffis and Emory Williams at quarterback, and Griffis threw two interceptions at Memphis. Temple keeps games close, too: it lost 49-48 in overtime at Toledo and 21-17 to Army. In The Trenches likes the Temple run game in this matchup.\n\nWhy the Over? Each of the last three meetings in this series went well past 49.5. Temple's last two games finished 34-20 and 38-31, and Sheppard ran for two touchdowns against Charlotte. ECU's last game finished 41-34. Temple allows 28.0 points a game, and ECU allows 26.3. My 30-23 adds up to 53, over 49.5.\n\nNow the room, and the scores agree. The Formula has East Carolina 30-23, and so does Next Man Up. Both side with the Pirates and both like the Over. Follow The Money likes East Carolina too, after the market moved toward the Pirates, and has no total. In The Trenches goes the other way and takes Temple +6.\n\nNext Man Up started it: \"Pirates by a touchdown. Bart, straighten the hat.\"\n\nIn The Trenches pushed back: \"Temple runs it better. I'll take the six.\"\n\nFollow The Money answered: \"Market went to ECU. I'm sailing with it.\"\n\nBottom of the card: an ECU team that has had Temple's number lately, a Temple defense that gives up points, and a series that keeps lighting up the scoreboard. Bart grades Hooter's costume and approves. Give me the Pirates and the Over.\n\nEast Carolina Pirates 30, Temple Owls 23. East Carolina Pirates cover the 6. Over 49.5.",
+    "fanatic_score_line": "Projected: East Carolina Pirates 30, Temple Owls 23 (Total 53)",
+    "line_used": {
+     "home_line": "East Carolina Pirates −6",
+     "total": "49.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "injuries": {
+     "away": [],
+     "home": [],
+     "source": "No official conference availability report for this game",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "sourced_reasons": [
+     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "ESPN Football Power Index",
+     "Points: ESPN team pages for Temple and East Carolina (espn.com)",
+     "Market moves: ESPN game page (espn.com)",
+     "Trench stats: ESPN team stats for Temple (espn.com)",
+     "Trench stats: ESPN team stats for East Carolina (espn.com)",
+     "Schedule history: collegefootballdata.com 2018–2025"
+    ],
+    "fanatic_story": "Philly Grit Sails Into Greenville: Temple Visits East Carolina on Halloween\n\nTemple (2-5, 1-2 American) at East Carolina (3-4, 1-2 American). Saturday, Oct. 31, 3 p.m. ET, Dowdy-Ficklen Stadium, Greenville, N.C., ESPN+.\n\nYour hosts are Teddy Fiorella, a north Philly gym rat who grades effort like a Rocky montage, and Bart Quidley, a Pitt County tailgater in a purple tricorn hat.\n\nBart: Ahoy, Teddy! Welcome aboard. My family has tailgated this exact spot since before I could walk.\n\nTeddy: Nice spot, Bart. Not as nice as South Philly, but nice. And before you say anything about cheesesteaks, don't.\n\nBart: Teddy, I didn't say a word.\n\nTeddy: You were thinking it.\n\nPlayers to watch\n\nTemple quarterback Ajani Sheppard has thrown the most passes in six of seven games. He's 74 of 120 for 1,127 yards and eight touchdowns, and he can run, too. Keveun Mason leads the rushers with 513 yards and three scores, and Colin Chase leads the receivers with 18 catches for 308 yards. Linebacker Curly Ordonez leads the defense with 63 tackles and two sacks.\n\nEast Carolina has used two quarterbacks. Emory Williams leads the team at 73 of 117 for 716 yards, seven touchdowns and two interceptions, and Mitch Griffis threw the most passes at Memphis last week. TJ Engleman Jr. leads the rushers with 582 yards and four touchdowns, and Ray Ray Joseph Jr. leads the receivers with 31 catches. Linebacker DJ Johnson Jr. has 51 tackles, and Jasiyah Robinson has 2.5 sacks.\n\nTeddy: Curly Ordonez leads us in tackles and sacks. That's a Rocky montage, Bart. Running up the steps every single play.\n\nWhat happened last week\n\nTemple had an open date last week. Its last game was a 38-31 loss to Charlotte on Oct. 17, when Sheppard threw for 236 yards and ran for two touchdowns, and Peter Clarke caught five balls for 127 yards and a score.\n\nTeddy: We rested. We trained. We drank raw eggs. Okay, not the eggs.\n\nEast Carolina lost 41-34 in overtime at Memphis on Thursday, Oct. 22. Griffis threw for 199 yards, Engleman ran 18 times for 92 yards and a touchdown, and Landon Sides caught seven balls for 130 yards and a score.\n\nBart: Overtime on the road. We battled. I graded the Memphis tiger's costume, and it was brushed.\n\nInjuries and availability\n\nNo official availability report has been posted for this game yet, and box scores don't mark starters. Sheppard has thrown the most passes for Temple in six of seven games, while Griffis and Williams have traded that role for East Carolina, so check the teams' pregame notes.\n\nWhat the coaches are up to\n\nK.C. Keeler leads Temple, and CollegeFootballData dates his hire to Dec. 1, 2024. His Owls run the ball on most plays, gaining 202.4 rushing yards a game, and they're disciplined, with only 37.3 penalty yards a game.\n\nBlake Harrell is East Carolina's head coach, and CFBD records his hire date as Nov. 27, 2024. His defense allows 187.5 passing yards a game and has returned two interceptions for touchdowns this season.\n\nBart: The defense is our sturdy hull, Teddy.\n\nTeddy: Our ground game is our Rocky montage. We'll see whose works best.\n\nPlayer storylines\n\nThe matchup to watch is Mason and the Temple ground game against an ECU defense that allows 3.3 yards a carry. Temple's big guys up front will need to win in the trenches. On the other side, Engleman wants another big day, and Sides is coming off a big night at Memphis. ECU won the last three meetings, so Temple has some motivation.\n\nWhat's happening on campus\n\nExcept for the 1999 Miami game, the Pirates have played every home game at Dowdy-Ficklen Stadium since 1963, and CFBD lists it at 50,000 on natural grass. A Halloween afternoon in Greenville should bring plenty of purple-and-gold costumes, and Bart's tricorn hat is coming out for this one. Temple plays home games at Lincoln Financial Field in Philadelphia, listed at 69,879.\n\nTeddy: I'm dressing as Hooter the Owl. Nobody insult Hooter.\n\nBart: Teddy, nobody has insulted Hooter.\n\nAnything else fun and true\n\nEast Carolina played its first season in 1932 and has won seven conference championships and eleven bowl games. The Pirates went 9-4 last year. Temple went 5-7 last season, and its fight song is \"Fight! Temple Fight!\" These two have met often: ECU won 49-46 in 2022, 56-34 in 2024 and 45-14 in 2025, while Temple won 49-6 in 2018.\n\nBart: Teddy, whatever happens, the barbecue's on me after the game. We'll say grace first.\n\nTeddy: Deal, Bart. That's Temple Made, and that's Pirate kind.\n\nMy call: East Carolina Pirates 30, Temple Owls 23.",
+    "market": {
+     "score_line": "Market: East Carolina Pirates 28, Temple Owls 22 (Total 50)",
+     "spread": "East Carolina Pirates −6",
+     "total": "49.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "note": "The market’s own numbers (spread and total split into team points), shown for comparison only."
+    }
+   },
+   "gambler_story": "Bart Quidley is adjusting his purple tricorn hat at the family tailgate spot outside Dowdy-Ficklen Stadium when Teddy Fiorella marches up in a gray hoodie, shadowboxing. \"Bart,\" Teddy says, \"before you say anything about Philly, don't.\" Bart blinks. \"Teddy, I didn't say a word.\" Teddy points. \"You were thinking it.\"\n\nTemple (2-5) at East Carolina (3-4), Saturday at 3 p.m. ET on ESPN+ at Dowdy-Ficklen Stadium in Greenville. It's an American game, and both teams are 1-2 in league play. DraftKings has East Carolina Pirates −6 with a total of 49.5. My card: East Carolina Pirates −6, Over 49.5, and a final of East Carolina Pirates 30, Temple Owls 23.\n\nBart speaks for East Carolina, hat at a jaunty angle. \"Ahoy! TJ Engleman Jr. has run for 582 yards. DJ Johnson Jr. has 51 tackles. We took Memphis to overtime on the road. And we beat Temple 56-34 two years ago and 45-14 last year. Hoist the colors.\"\n\nTeddy speaks for Temple, still shadowboxing. \"Yo, that's Temple Made! Ajani Sheppard has eight touchdown throws. Keveun Mason has 513 rushing yards. Curly Ordonez has 63 tackles. We went into Tampa and beat South Florida 17-13. And we had a week off to get ready.\"\n\nWhy East Carolina? Because the Pirates own this matchup lately and play better at home. ECU won the last three meetings, 49-46, 56-34 and 45-14. At Dowdy-Ficklen this year, the Pirates beat Rice 28-12 and North Carolina Central 42-9 and lost to App State by a field goal. Temple allows 28.0 points a game and has lost three of its last four, including a 34-20 home loss to UConn. ECU just pushed Memphis to overtime on the road, and Landon Sides caught seven balls for 130 yards in that one. My final has the Pirates by a touchdown.\n\nThe risk is the ECU offense. It has bounced between Mitch Griffis and Emory Williams at quarterback, and Griffis threw two interceptions at Memphis. Temple keeps games close, too: it lost 49-48 in overtime at Toledo and 21-17 to Army. In The Trenches likes the Temple run game in this matchup.\n\nWhy the Over? Each of the last three meetings in this series went well past 49.5. Temple's last two games finished 34-20 and 38-31, and Sheppard ran for two touchdowns against Charlotte. ECU's last game finished 41-34. Temple allows 28.0 points a game, and ECU allows 26.3. My 30-23 adds up to 53, over 49.5.\n\nNow the room, and the scores agree. The Formula has East Carolina 30-23, and so does Next Man Up. Both side with the Pirates and both like the Over. Follow The Money likes East Carolina too, after the market moved toward the Pirates, and has no total. In The Trenches goes the other way and takes Temple +6.\n\nNext Man Up started it: \"Pirates by a touchdown. Bart, straighten the hat.\"\n\nIn The Trenches pushed back: \"Temple runs it better. I'll take the six.\"\n\nFollow The Money answered: \"Market went to ECU. I'm sailing with it.\"\n\nBottom of the card: an ECU team that has had Temple's number lately, a Temple defense that gives up points, and a series that keeps lighting up the scoreboard. Bart grades Hooter's costume and approves. Give me the Pirates and the Over.\n\nEast Carolina Pirates 30, Temple Owls 23. East Carolina Pirates cover the 6. Over 49.5."
+  },
+  {
+   "game_id": "401871097",
+   "matchup": "Louisiana Tech Bulldogs at South Alabama Jaguars",
+   "away": {
+    "team": "Louisiana Tech Bulldogs",
+    "conference": "Sun Belt",
+    "record": "5-2",
+    "rank": null
+   },
+   "home": {
+    "team": "South Alabama Jaguars",
+    "conference": "Sun Belt",
+    "record": "4-3",
+    "rank": null
+   },
+   "kickoff_et": "3:00 PM ET Sat Oct 31",
+   "kickoff_utc": "2026-10-31T19:00Z",
+   "tv": [
+    "ESPN+"
+   ],
+   "venue": "Hancock Whitney Stadium",
+   "conferences": [
+    "Sun Belt"
+   ],
+   "team_ids": [
+    "louisiana-tech",
+    "south-alabama"
+   ],
+   "spread": "Louisiana Tech Bulldogs −5.5",
+   "total_line": 57.5,
+   "prediction": {
+    "away_score": 33,
+    "home_score": 30,
+    "winner": "Louisiana Tech Bulldogs",
+    "covers": "South Alabama Jaguars +5.5"
+   },
+   "total_pick": "Over",
+   "status_at_build": {
+    "state": "pre"
+   },
+   "display": {
+    "writer": {
+     "score_line": "Projected: Louisiana Tech Bulldogs 33, South Alabama Jaguars 30 (Total 63)",
+     "side": "South Alabama Jaguars +5.5",
+     "ou": "Over 57.5",
+     "label": "Average of 2 independent scores"
+    },
+    "handicappers": [
+     {
+      "name": "The Formula",
+      "side_line": "Side: South Alabama Jaguars +5.5",
+      "ou_line": "O/U: Over 57.5 · Likes this total",
+      "score_line": "Projected: Louisiana Tech Bulldogs 32, South Alabama Jaguars 29 (Total 61)",
+      "basis_line": "FPI Louisiana Tech Bulldogs −2.3, South Alabama Jaguars −8.8; FPI gap × 0.85 + home field 2.15 = Louisiana Tech Bulldogs by 3.3. Total 60.4: each team's points = average of its points scored per game and the opponent's points allowed per game (Louisiana Tech Bulldogs 32.3 scored / 21.0 allowed in 7 games; South Alabama Jaguars 35.1 / 32.4 in 7). Line Louisiana Tech Bulldogs −5.5, total 57.5.",
+      "independent": true,
+      "distance_from_spread": 2.5,
+      "distance_from_total": 3.5
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: South Alabama Jaguars +5.5 · Likes this side",
+      "ou_line": "O/U: Over 57.5 · Likes this total",
+      "score_line": "Projected: Louisiana Tech Bulldogs 33, South Alabama Jaguars 30 (Total 63)",
+      "basis_line": "Team strength with the players available: offense and defense strength fitted to every 2026 game score so far (2335 games), starting from last season's strength scaled by how much production returned. Projected points: Louisiana Tech Bulldogs 33.3, South Alabama Jaguars 30.5, home field included. Availability: no official conference availability report covers this game, so no quarterback adjustment is made.",
+      "independent": true,
+      "distance_from_spread": 2.5,
+      "distance_from_total": 5.5
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: not available this week",
+      "ou_line": "O/U: not available this week",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Rest and travel read: the inputs updated for last week's games are not available yet, so this card has no score this week and is not counted in the average.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     },
+     {
+      "name": "Follow The Money",
+      "side_line": "Side: Louisiana Tech Bulldogs −5.5 · Likes this side",
+      "ou_line": "O/U: Over 57.5 · Likes this total",
+      "score_line": "No score of its own — reads the market (see the market line).",
+      "basis_line": "Spread opened South Alabama Jaguars +3.5 and is +5.5 now, a 2-point move that meets the 1-point threshold. Total opened 56.5 and is 57.5 now, a 1-point move that meets the threshold: Over. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
+      "independent": false,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "In The Trenches",
+      "side_line": "Side: South Alabama Jaguars +5.5 · Likes this side",
+      "ou_line": "O/U: Over 57.5",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "This read points to a side only. Louisiana Tech Bulldogs 4.1 ypc vs South Alabama Jaguars allowing 5.5; South Alabama Jaguars 4.7 ypc vs Louisiana Tech Bulldogs allowing 3.4 (2026 season; rushing totals include sacks). Per-side test: Louisiana Tech Bulldogs run game 1.4 ypc below what the opponent allows; South Alabama Jaguars run game 1.3 ypc above what the opponent allows, which meets the cutoff (0.5 ypc or 5 points) and favours South Alabama Jaguars. Side: South Alabama Jaguars +5.5.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     }
+    ],
+    "story_text": "Azalea Fairhope-Grice is gluing the last sequins onto a red-and-blue parade float outside Hancock Whitney Stadium when Booker \"Champ\" Tullos rolls up with a bushel of peaches under each arm. \"Champ,\" Azalea says, \"this is a float, not a fruit stand.\" Champ sets a peach on the front bumper. \"Darlin', now it's both.\"\n\nLouisiana Tech (5-2) at South Alabama (4-3), Saturday at 3 p.m. ET on ESPN+ at Hancock Whitney Stadium in Mobile. It's a Sun Belt game: Tech is 3-0 in league play in its first season in the conference, and South Alabama is 2-1. DraftKings has Louisiana Tech Bulldogs −5.5 with a total of 57.5. My card: South Alabama Jaguars +5.5, Over 57.5, and a final of Louisiana Tech Bulldogs 33, South Alabama Jaguars 30.\n\nChamp speaks for Louisiana Tech, peach in hand. \"Peachy! Blake Baker has 10 touchdown throws and one interception all year. Jalen Mickens has 586 receiving yards. Alonzo Jackson Jr. has 6.5 sacks and 48 tackles. And we've posted back-to-back shutouts, 24-0 at UL Monroe and 26-0 over Old Dominion. That's cobbler, served warm.\"\n\nAzalea speaks for South Alabama, whistle around her neck. \"Honey, we run the ball. Keenan Phillips has 514 yards and five touchdowns. Jared Hollins threw for 321 yards against UL Monroe. We scored 56 at Arkansas State. Somebody throw that man some beads.\"\n\nWhy South Alabama? Because the Jaguars can score with anybody, and their run game fits this matchup. In The Trenches likes South Alabama's ground attack against a Tech run defense that has given up yards. And they're home. Tech has won close ones, 31-29 over Army and 32-31 over Louisiana, so a game decided by a field goal is right in its wheelhouse. My final has Tech winning by a field goal, inside the number.\n\nThe risk is the South Alabama passing game. Hollins went 12 of 33 for 148 yards and an interception in the 20-13 loss at Marshall. And the Tech defense just held two straight opponents scoreless. If that keeps up, the Jaguars won't stay close.\n\nWhy the Over? South Alabama games fly. The Jaguars score 35.1 points a game and allow 32.4. Tech scores 32.3. South Alabama's games this year finished 41-36, 52-35 and 56-49. Baker threw for 303 yards last week. My 33-30 adds up to 63, over 57.5.\n\nNow the room. Next Man Up has Louisiana Tech 33-30 and likes South Alabama and the Over. The Formula has Tech 32-29, sides with South Alabama, and likes the Over. In The Trenches likes the Jaguars and lands on the Over too. Follow The Money likes Louisiana Tech after the market moved toward the Bulldogs, and it likes the Over.\n\nNext Man Up started it: \"Tech wins, Jaguars stay close. Peaches and parades.\"\n\nFollow The Money pushed back: \"The money went to Ruston. I'm riding with it.\"\n\nIn The Trenches answered: \"South Alabama runs it. That's the whole story.\"\n\nBottom of the card: a Tech team that wins close games and a South Alabama offense that scores in bunches at home. Champ leaves a peach on the float for luck. Give me the Jaguars and the Over.\n\nLouisiana Tech Bulldogs 33, South Alabama Jaguars 30. South Alabama Jaguars cover the 5.5. Over 57.5.",
+    "fanatic_score_line": "Projected: Louisiana Tech Bulldogs 33, South Alabama Jaguars 30 (Total 63)",
+    "line_used": {
+     "home_line": "South Alabama Jaguars +5.5",
+     "total": "57.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "injuries": {
+     "away": [],
+     "home": [],
+     "source": "No official conference availability report for this game",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "sourced_reasons": [
+     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "ESPN Football Power Index",
+     "Points: ESPN team pages for Louisiana Tech and South Alabama (espn.com)",
+     "Market moves: ESPN game page (espn.com)",
+     "Trench stats: ESPN team stats for Louisiana Tech (espn.com)",
+     "Trench stats: ESPN team stats for South Alabama (espn.com)",
+     "Schedule history: collegefootballdata.com 2018–2025"
+    ],
+    "fanatic_story": "Peaches Meet the Parade in Mobile: Louisiana Tech Visits South Alabama on Halloween\n\nLouisiana Tech (5-2, 3-0 Sun Belt) at South Alabama (4-3, 2-1 Sun Belt). Saturday, Oct. 31, 3 p.m. ET, Hancock Whitney Stadium, Mobile, Ala., ESPN+.\n\nYour hosts are Booker \"Champ\" Tullos, a Louisiana Tech fan who grew up on a Ruston-area peach farm and thinks everything is peachy, and Azalea Fairhope-Grice, a Mobile Mardi Gras float-builder with a whistle in her purse.\n\nAzalea: Well, hey, Champ! Welcome to Mobile. Pull up a lawn chair, honey.\n\nChamp: Thank you kindly, Azalea. I brought peaches. A whole bushel.\n\nAzalea: Darlin', this is a parade town. We throw beads, not fruit.\n\nPlayers to watch\n\nLouisiana Tech quarterback Blake Baker is 96 of 133 for 1,160 yards, 10 touchdowns and one interception. Trey Kukuk threw the most passes against Baylor and Army, but Baker has handled that role the last three games. Andrew Burnette leads the rushers with 349 yards, and Jalen Mickens leads the receivers with 40 catches for 586 yards and three scores. Linebacker Alonzo Jackson Jr. leads the defense with 48 tackles and 6.5 sacks.\n\nSouth Alabama runs the ball first. Keenan Phillips has 514 rushing yards and five touchdowns on 96 carries. Jared Hollins plays quarterback and is 68 of 125 for 1,003 yards, seven touchdowns and three interceptions, after Bishop Davenport threw the most passes in the first two games. Brendan Jenkins leads the receivers with 25 catches for 430 yards and three scores. Safety Cole Blaylock leads the team with 46 tackles, and linebacker William Felton IV has two sacks.\n\nChamp: Alonzo Jackson Jr. is the juiciest peach in the orchard, Azalea. Six and a half sacks!\n\nAzalea: And Keenan Phillips is a float with a turbo engine.\n\nWhat happened last week\n\nLouisiana Tech shut out Old Dominion 26-0 at home on Oct. 24. Baker went 28 of 34 for 303 yards and a touchdown, Burnette ran 20 times for 63 yards, and Eli Finley caught 10 balls for 128 yards and a score.\n\nChamp: Two shutouts in a row. Peach cobbler, served warm.\n\nSouth Alabama lost 20-13 at Marshall on Tuesday, Oct. 20, so the Jaguars have had some extra days to get ready. Hollins threw for 148 yards, Phillips ran 16 times for 70 yards, and Jenkins caught four balls for 75 yards.\n\nAzalea: We'll take the extra rest, darlin'. The float needed new sequins anyway.\n\nInjuries and availability\n\nNo official availability report has been posted for this game yet, and box scores don't mark starters. Baker has thrown the most passes for Louisiana Tech in five of seven games, and Hollins has done it for South Alabama in each of the last five, so check the teams' pregame notes.\n\nWhat the coaches are up to\n\nSonny Cumbie is Louisiana Tech's head coach, hired Nov. 30, 2021. His defense takes the ball away, with 13 takeaways and a plus-5 turnover margin, and his team has won tight ones, 31-29 over Army and 32-31 over Louisiana.\n\nMajor Applewhite has led South Alabama since 2024. He was head coach at Houston in 2017 and 2018, and as a player he quarterbacked Texas from 1998 to 2001. His Jaguars run the ball much more than they throw it and score 35.1 points a game.\n\nChamp: Coach Cumbie, give me the ball at the 2. I'm available.\n\nAzalea: Champ, honey, they have a running back for that.\n\nPlayer storylines\n\nThe matchup to watch is Phillips and the South Alabama ground game against a Tech defense that has not allowed a point in two weeks. The Jaguars' big guys up front will need to open lanes. On the other side, Baker has been sharp, and Mickens and Finley give him places to throw. Tech is trying to stay unbeaten in league play in its first Sun Belt season.\n\nWhat's happening on campus\n\nHancock Whitney Stadium opened in 2020, and CFBD lists its capacity at 25,450. Mobile is where Mardi Gras started in America, and a Halloween afternoon by the bay should bring plenty of costumes alongside the red and blue. Louisiana Tech fans will make the trip from Ruston.\n\nAzalea: I'm dressing as a parade float. A walking one.\n\nChamp: I'm dressing as a peach. I've been practicing my roll.\n\nAnything else fun and true\n\nLouisiana Tech first played football in 1901 and has won three Division II national championships and 25 conference titles. After 13 seasons in Conference USA, Tech joined the Sun Belt on July 1, 2026. South Alabama started its program in 2009, joined the FBS in 2012 and went 10-3 in 2022. These two have met before: Tech won 34-16 in 2017 and 30-26 in 2018, and South Alabama won 38-14 in 2022.\n\nChamp: Win or lose, Azalea, the peaches are yours. We'll say grace before the cobbler.\n\nAzalea: Deal, Champ. And you're riding on my float after the game.\n\nMy call: Louisiana Tech Bulldogs 33, South Alabama Jaguars 30.",
+    "market": {
+     "score_line": "Market: Louisiana Tech Bulldogs 32, South Alabama Jaguars 26 (Total 58)",
+     "spread": "Louisiana Tech Bulldogs −5.5",
+     "total": "57.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "note": "The market’s own numbers (spread and total split into team points), shown for comparison only."
+    }
+   },
+   "gambler_story": "Azalea Fairhope-Grice is gluing the last sequins onto a red-and-blue parade float outside Hancock Whitney Stadium when Booker \"Champ\" Tullos rolls up with a bushel of peaches under each arm. \"Champ,\" Azalea says, \"this is a float, not a fruit stand.\" Champ sets a peach on the front bumper. \"Darlin', now it's both.\"\n\nLouisiana Tech (5-2) at South Alabama (4-3), Saturday at 3 p.m. ET on ESPN+ at Hancock Whitney Stadium in Mobile. It's a Sun Belt game: Tech is 3-0 in league play in its first season in the conference, and South Alabama is 2-1. DraftKings has Louisiana Tech Bulldogs −5.5 with a total of 57.5. My card: South Alabama Jaguars +5.5, Over 57.5, and a final of Louisiana Tech Bulldogs 33, South Alabama Jaguars 30.\n\nChamp speaks for Louisiana Tech, peach in hand. \"Peachy! Blake Baker has 10 touchdown throws and one interception all year. Jalen Mickens has 586 receiving yards. Alonzo Jackson Jr. has 6.5 sacks and 48 tackles. And we've posted back-to-back shutouts, 24-0 at UL Monroe and 26-0 over Old Dominion. That's cobbler, served warm.\"\n\nAzalea speaks for South Alabama, whistle around her neck. \"Honey, we run the ball. Keenan Phillips has 514 yards and five touchdowns. Jared Hollins threw for 321 yards against UL Monroe. We scored 56 at Arkansas State. Somebody throw that man some beads.\"\n\nWhy South Alabama? Because the Jaguars can score with anybody, and their run game fits this matchup. In The Trenches likes South Alabama's ground attack against a Tech run defense that has given up yards. And they're home. Tech has won close ones, 31-29 over Army and 32-31 over Louisiana, so a game decided by a field goal is right in its wheelhouse. My final has Tech winning by a field goal, inside the number.\n\nThe risk is the South Alabama passing game. Hollins went 12 of 33 for 148 yards and an interception in the 20-13 loss at Marshall. And the Tech defense just held two straight opponents scoreless. If that keeps up, the Jaguars won't stay close.\n\nWhy the Over? South Alabama games fly. The Jaguars score 35.1 points a game and allow 32.4. Tech scores 32.3. South Alabama's games this year finished 41-36, 52-35 and 56-49. Baker threw for 303 yards last week. My 33-30 adds up to 63, over 57.5.\n\nNow the room. Next Man Up has Louisiana Tech 33-30 and likes South Alabama and the Over. The Formula has Tech 32-29, sides with South Alabama, and likes the Over. In The Trenches likes the Jaguars and lands on the Over too. Follow The Money likes Louisiana Tech after the market moved toward the Bulldogs, and it likes the Over.\n\nNext Man Up started it: \"Tech wins, Jaguars stay close. Peaches and parades.\"\n\nFollow The Money pushed back: \"The money went to Ruston. I'm riding with it.\"\n\nIn The Trenches answered: \"South Alabama runs it. That's the whole story.\"\n\nBottom of the card: a Tech team that wins close games and a South Alabama offense that scores in bunches at home. Champ leaves a peach on the float for luck. Give me the Jaguars and the Over.\n\nLouisiana Tech Bulldogs 33, South Alabama Jaguars 30. South Alabama Jaguars cover the 5.5. Over 57.5."
+  },
+  {
+   "game_id": "401860908",
+   "matchup": "Texas State Bobcats at Boise State Broncos",
+   "away": {
+    "team": "Texas State Bobcats",
+    "conference": "Pac-12",
+    "record": "4-3",
+    "rank": null
+   },
+   "home": {
+    "team": "Boise State Broncos",
+    "conference": "Pac-12",
+    "record": "6-1",
+    "rank": 20
+   },
+   "kickoff_et": "10:00 PM ET Sat Oct 31",
+   "kickoff_utc": "2026-11-01T02:00Z",
+   "tv": [
+    "CW"
+   ],
+   "venue": "Albertsons Stadium",
+   "conferences": [
+    "Pac-12"
+   ],
+   "team_ids": [
+    "texas-state",
+    "boise-state"
+   ],
+   "spread": "Boise State Broncos −11.5",
+   "total_line": 64.5,
+   "prediction": {
+    "away_score": 26,
+    "home_score": 38,
+    "winner": "Boise State Broncos",
+    "covers": "Boise State Broncos −11.5"
+   },
+   "total_pick": "Under",
+   "status_at_build": {
+    "state": "pre"
+   },
+   "display": {
+    "writer": {
+     "score_line": "Projected: Boise State Broncos 38, Texas State Bobcats 26 (Total 64)",
+     "side": "Boise State Broncos −11.5",
+     "ou": "Under 64.5",
+     "label": "Average of 2 independent scores"
+    },
+    "handicappers": [
+     {
+      "name": "The Formula",
+      "side_line": "Side: Boise State Broncos −11.5",
+      "ou_line": "O/U: Under 64.5 · Likes this total",
+      "score_line": "Projected: Boise State Broncos 37, Texas State Bobcats 25 (Total 62)",
+      "basis_line": "FPI Texas State Bobcats −0.3, Boise State Broncos 11.3; FPI gap × 0.85 + home field 2.15 = Boise State Broncos by 12.0. Total 61.1: each team's points = average of its points scored per game and the opponent's points allowed per game (Texas State Bobcats 37.1 scored / 30.0 allowed in 7 games; Boise State Broncos 34.4 / 20.6 in 7). Line Boise State Broncos −11.5, total 64.5.",
+      "independent": true,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 2.5
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: Boise State Broncos −11.5",
+      "ou_line": "O/U: Over 64.5",
+      "score_line": "Projected: Boise State Broncos 39, Texas State Bobcats 26 (Total 65)",
+      "basis_line": "Team strength with the players available: offense and defense strength fitted to every 2026 game score so far (2335 games), starting from last season's strength scaled by how much production returned. Projected points: Texas State Bobcats 25.7, Boise State Broncos 39.1, home field included. Availability: no official conference availability report covers this game, so no quarterback adjustment is made.",
+      "independent": true,
+      "distance_from_spread": 1.5,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: not available this week",
+      "ou_line": "O/U: not available this week",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Rest and travel read: the inputs updated for last week's games are not available yet, so this card has no score this week and is not counted in the average.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     },
+     {
+      "name": "Follow The Money",
+      "side_line": "Side: Texas State Bobcats +11.5 · Likes this side",
+      "ou_line": "O/U: Under 64.5 · Likes this total",
+      "score_line": "No score of its own — reads the market (see the market line).",
+      "basis_line": "Spread opened Boise State Broncos −12.5 and is −11.5 now, a 1-point move that meets the 1-point threshold. Total opened 65.5 and is 64.5 now, a 1-point move that meets the threshold: Under. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
+      "independent": false,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "In The Trenches",
+      "side_line": "Side: no pick (no trench signal)",
+      "ou_line": "O/U: no pick (no trench signal)",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Texas State Bobcats 5.8 ypc vs Boise State Broncos allowing 3.9; Boise State Broncos 5.6 ypc vs Texas State Bobcats allowing 3.7 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     }
+    ],
+    "story_text": "Yesenia Calderwood floated into homecoming last week on a sun hat and a prayer, and her Bobcats escaped with a field goal. Now she is headed for the blue turf, where Thatcher Bluestem has painted his car, his pancakes and his opinions to match.\n\nTexas State (4-3) at No. 20 Boise State (6-1), Saturday at 10:00 p.m. ET on CW at Albertsons Stadium in Boise. It's a Pac-12 game. DraftKings has Boise State Broncos −11.5 with a total of 64.5. My card: Boise State Broncos −11.5, Under 64.5, and a final of Boise State Broncos 38, Texas State Bobcats 26.\n\nYesenia speaks for Texas State. \"Two weeks ago we beat Colorado State 66-27, and it felt like the whole river was rising. Then we beat Utah State 20-17, and our coach called the offense a bad dream. Brad Jackson has 14 touchdown passes, and Torrance Burgess Jr. has 889 rushing yards. Go with the flow, y'all.\"\n\nThatcher speaks for Boise State. \"Paint it blue! Maddux Madsen still has zero interceptions. Seven games, friends. Dylan Riley has 963 rushing yards, and he ran for 128 and two touchdowns at Washington State. That's six straight wins,.\"\n\nHere is the part that matters. Boise State does not give the ball away and does not give up the run. Its wins were 38-20 over Memphis, 32-7 at Western Michigan, 37-18 over Utah State and 31-10 at Washington State. The Broncos lost only at Oregon, 27-34.\n\nWhy Boise State? Texas State is a different team on the road. The Bobcats lost 7-59 at Texas and 29-31 at San Diego State. Their offense sputtered against Utah State. Madsen is 124 of 189 for 1,445 yards and 14 touchdowns, and Riley carries the load. The Formula and Next Man Up both have Boise State by a dozen or more.\n\nThe worry is the Texas State run game. In The Trenches has the Bobcats at 5.8 yards a carry, and Jackson can run too. If Burgess gets loose, a backdoor touchdown is always possible against a team that likes to sit on a lead. Follow The Money sees the market move toward Texas State.\n\nWhy the Over/Under? Boise State's games ended 27-34, 38-20, 38-24, 32-7, 37-18, 38-31 and 31-10. Only one of those went past this total. The Broncos control the ball and shorten the game. Action Network's opening total was 65.5, and it has come down to 64.5. My 38-26 adds up to 64, just under the over/under 64.5.\n\nNow the room. The Formula has Boise State 37-25 and likes Boise State and the Under. Next Man Up has Boise State 39-26 and likes Boise State and the Over. Follow The Money likes Texas State and the Under. In The Trenches sees the run gaps cancel and has no pick. Letdown Watch has no score this week.\n\nThe Formula: \"Thirty-seven to twenty-five. Broncos by twelve.\"\n\nNext Man Up: \"Riley and Madsen are healthy. That's enough.\"\n\nFollow The Money: \"The total came down a point. I'm with the Under.\"\n\nBottom of the card: Boise State keeps the ball, keeps it clean and wins at home. Thatcher will paint something else blue.\n\nBoise State Broncos 38, Texas State Bobcats 26. Boise State Broncos cover the 11.5. Under 64.5.",
+    "fanatic_score_line": "Projected: Boise State Broncos 38, Texas State Bobcats 26 (Total 64)",
+    "line_used": {
+     "home_line": "Boise State Broncos −11.5",
+     "total": "64.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "injuries": {
+     "away": [],
+     "home": [],
+     "source": "No official conference availability report for this game",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "sourced_reasons": [
+     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "ESPN Football Power Index",
+     "Points: ESPN team pages for Texas State and Boise State (espn.com)",
+     "Market moves: ESPN game page (espn.com)",
+     "Trench stats: ESPN team stats for Texas State (espn.com)",
+     "Trench stats: ESPN team stats for Boise State (espn.com)",
+     "Schedule history: collegefootballdata.com 2018–2025"
+    ],
+    "fanatic_story": "Halloween on the Blue Turf: Texas State Visits Boise State\n\nTexas State (4-3, 2-1 Pac-12) at No. 20 Boise State (6-1, 3-0 Pac-12). Saturday, Oct. 31, 10:00 p.m. ET (8:00 p.m. Mountain), Albertsons Stadium, Boise, Idaho, CW.\n\nYour hosts are Yesenia Calderwood, a Texas State fan who floats the San Marcos River with a sun hat and a radio, and Thatcher Bluestem, a Boise State fan whose car, pancakes and opinions are all blue.\n\nThatcher: Paint it blue! Welcome to Boise, Yesenia. Bring sunglasses. The field looks even bluer in person.\n\nYesenia: Eat 'em up, Cats! I brought a sun hat, Thatcher. It's going to be cold, isn't it?\n\nPlayers to watch\n\nTexas State quarterback Brad Jackson is 133 of 194 for 1,606 yards, 14 touchdowns and five interceptions, and he's a runner too. The school says he has 26 career rushing touchdowns. Running back Torrance Burgess Jr. has 118 carries for 889 yards and five touchdowns. Wide receiver Chris Dawn Jr. leads the team with 36 catches for 396 yards and four touchdowns. On defense, Jayden Bradley has 47 tackles and Tymere Jackson has 2.5 sacks.\n\nBoise State quarterback Maddux Madsen is 124 of 189 for 1,445 yards and 14 touchdowns. The school says he has gone seven straight games without an interception, the first Bronco starter to do that since the team joined the top level of college football in 1996. Running back Dylan Riley has 140 carries for 963 yards and eight touchdowns. Freshman receiver Rasean Jones has 29 catches for 437 yards. Linebacker Boen Phelps leads the defense with 41 tackles, and linebacker Jayden Virgin-Morgan has three sacks.\n\nThatcher: Seven games, no interceptions. That's bluer than a cloudless October sky.\n\nWhat happened last week\n\nTexas State beat Utah State 20-17 at homecoming on Oct. 24. Jacob Bonilla kicked a 37-yard field goal with less than two minutes left, after making one from 51 earlier. Jaylen Jenkins returned a kickoff 100 yards for a touchdown, and Jackson ran for a score. A week earlier, the Bobcats set a school record with 716 yards in a 66-27 win over Colorado State.\n\nBoise State won 31-10 at Washington State. Riley ran 13 times for 128 yards and two touchdowns, and Madsen threw a touchdown to Cam Bates. It was Boise State's first win ever in Pullman and its sixth win in a row.\n\nYesenia: A 100-yard kickoff return at homecoming. Now that's going with the flow.\n\nInjuries and availability\n\nThe official Pac-12 availability report hadn't been posted as of Tuesday and usually comes out on game day. Unofficial notes don't list Madsen, Riley or Jackson. Texas State's Cole Snodgrass is listed as out.\n\nWhat the coaches are up to\n\nG.J. Kinne has 27 wins at Texas State, which ties him for second among Bobcat coaches at the Division I level. His teams are 17-7 at home. After the Utah State game he called the offense a bad dream, so expect him to want a better night.\n\nSpencer Danielson won his 30th game at Boise State last week, the eighth Bronco head coach to get there. Boise State has started 3-0 in league play in each of his three full seasons. His teams love to run the ball and keep it away from the other side.\n\nPlayer storylines\n\nMadsen moved into fourth in Boise State history with 631 career completions and has 64 career touchdown throws. He's 17-1 as a starter in league games. For Texas State, Jackson and Burgess give the Bobcats two runners who can break a long one.\n\nWhat's happening on campus\n\nThe blue turf at Albertsons Stadium is one of the most famous fields in the country, and the stadium seats 36,387. Boise State is now bowl-eligible for the 29th season in a row. The school says only Georgia has a longer active run.\n\nLast week a Bronco player carried the Dan Paul Hammer onto the field in Pullman, a Boise State tradition.\n\nAnything else fun and true\n\nThis is the first meeting between Texas State and Boise State. Both schools are new to the Pac-12 this season. The Bobcats come from the warm Hill Country, and the Broncos come from the foothills, so a Halloween night in Boise will be a change of scenery for Yesenia.\n\nTexas State drew 18,587 fans for homecoming last week. Boise State has scored 30 or more points in six straight games for the first time since 2023.\n\nYesenia: First meeting, new conference, blue grass. I'm floating into the unknown, Thatcher.\n\nThatcher: And we'll paint it blue, Yesenia. Every inch.\n\nMy call: Boise State Broncos 38, Texas State Bobcats 26.",
+    "market": {
+     "score_line": "Market: Boise State Broncos 38, Texas State Bobcats 27 (Total 65)",
+     "spread": "Boise State Broncos −11.5",
+     "total": "64.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "note": "The market’s own numbers (spread and total split into team points), shown for comparison only."
+    }
+   },
+   "gambler_story": "Yesenia Calderwood floated into homecoming last week on a sun hat and a prayer, and her Bobcats escaped with a field goal. Now she is headed for the blue turf, where Thatcher Bluestem has painted his car, his pancakes and his opinions to match.\n\nTexas State (4-3) at No. 20 Boise State (6-1), Saturday at 10:00 p.m. ET on CW at Albertsons Stadium in Boise. It's a Pac-12 game. DraftKings has Boise State Broncos −11.5 with a total of 64.5. My card: Boise State Broncos −11.5, Under 64.5, and a final of Boise State Broncos 38, Texas State Bobcats 26.\n\nYesenia speaks for Texas State. \"Two weeks ago we beat Colorado State 66-27, and it felt like the whole river was rising. Then we beat Utah State 20-17, and our coach called the offense a bad dream. Brad Jackson has 14 touchdown passes, and Torrance Burgess Jr. has 889 rushing yards. Go with the flow, y'all.\"\n\nThatcher speaks for Boise State. \"Paint it blue! Maddux Madsen still has zero interceptions. Seven games, friends. Dylan Riley has 963 rushing yards, and he ran for 128 and two touchdowns at Washington State. That's six straight wins,.\"\n\nHere is the part that matters. Boise State does not give the ball away and does not give up the run. Its wins were 38-20 over Memphis, 32-7 at Western Michigan, 37-18 over Utah State and 31-10 at Washington State. The Broncos lost only at Oregon, 27-34.\n\nWhy Boise State? Texas State is a different team on the road. The Bobcats lost 7-59 at Texas and 29-31 at San Diego State. Their offense sputtered against Utah State. Madsen is 124 of 189 for 1,445 yards and 14 touchdowns, and Riley carries the load. The Formula and Next Man Up both have Boise State by a dozen or more.\n\nThe worry is the Texas State run game. In The Trenches has the Bobcats at 5.8 yards a carry, and Jackson can run too. If Burgess gets loose, a backdoor touchdown is always possible against a team that likes to sit on a lead. Follow The Money sees the market move toward Texas State.\n\nWhy the Over/Under? Boise State's games ended 27-34, 38-20, 38-24, 32-7, 37-18, 38-31 and 31-10. Only one of those went past this total. The Broncos control the ball and shorten the game. Action Network's opening total was 65.5, and it has come down to 64.5. My 38-26 adds up to 64, just under the over/under 64.5.\n\nNow the room. The Formula has Boise State 37-25 and likes Boise State and the Under. Next Man Up has Boise State 39-26 and likes Boise State and the Over. Follow The Money likes Texas State and the Under. In The Trenches sees the run gaps cancel and has no pick. Letdown Watch has no score this week.\n\nThe Formula: \"Thirty-seven to twenty-five. Broncos by twelve.\"\n\nNext Man Up: \"Riley and Madsen are healthy. That's enough.\"\n\nFollow The Money: \"The total came down a point. I'm with the Under.\"\n\nBottom of the card: Boise State keeps the ball, keeps it clean and wins at home. Thatcher will paint something else blue.\n\nBoise State Broncos 38, Texas State Bobcats 26. Boise State Broncos cover the 11.5. Under 64.5."
+  },
+  {
+   "game_id": "401864530",
+   "matchup": "Northern Illinois Huskies at UNLV Rebels",
+   "away": {
+    "team": "Northern Illinois Huskies",
+    "conference": "Mountain West",
+    "record": "0-7",
+    "rank": null
+   },
+   "home": {
+    "team": "UNLV Rebels",
+    "conference": "Mountain West",
+    "record": "4-3",
+    "rank": null
+   },
+   "kickoff_et": "10:30 PM ET Sat Oct 31",
+   "kickoff_utc": "2026-11-01T02:30Z",
+   "tv": [
+    "CBSSN"
+   ],
+   "venue": "Allegiant Stadium",
+   "conferences": [
+    "Mountain West"
+   ],
+   "team_ids": [
+    "northern-illinois",
+    "unlv"
+   ],
+   "spread": "UNLV Rebels −23.5",
+   "total_line": 53.5,
+   "prediction": {
+    "away_score": 15,
+    "home_score": 35,
+    "winner": "UNLV Rebels",
+    "covers": "Northern Illinois Huskies +23.5"
+   },
+   "total_pick": "Under",
+   "status_at_build": {
+    "state": "pre"
+   },
+   "display": {
+    "writer": {
+     "score_line": "Projected: UNLV Rebels 35, Northern Illinois Huskies 15 (Total 50)",
+     "side": "Northern Illinois Huskies +23.5",
+     "ou": "Under 53.5",
+     "label": "Average of 2 independent scores"
+    },
+    "handicappers": [
+     {
+      "name": "The Formula",
+      "side_line": "Side: Northern Illinois Huskies +23.5 · Likes this side",
+      "ou_line": "O/U: Under 53.5 · Likes this total",
+      "score_line": "Projected: UNLV Rebels 35, Northern Illinois Huskies 16 (Total 51)",
+      "basis_line": "FPI Northern Illinois Huskies −22.8, UNLV Rebels −2.5; FPI gap × 0.85 + home field 2.15 = UNLV Rebels by 19.4. Total 50.8: each team's points = average of its points scored per game and the opponent's points allowed per game (Northern Illinois Huskies 15.1 scored / 38.6 allowed in 7 games; UNLV Rebels 24.1 / 23.7 in 7). Line UNLV Rebels −23.5, total 53.5.",
+      "independent": true,
+      "distance_from_spread": 4.5,
+      "distance_from_total": 2.5
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: Northern Illinois Huskies +23.5 · Likes this side",
+      "ou_line": "O/U: Under 53.5 · Likes this total",
+      "score_line": "Projected: UNLV Rebels 35, Northern Illinois Huskies 14 (Total 49)",
+      "basis_line": "Team strength with the players available: offense and defense strength fitted to every 2026 game score so far (2335 games), starting from last season's strength scaled by how much production returned. Projected points: Northern Illinois Huskies 14.3, UNLV Rebels 35.2, home field included. Availability: no official conference availability report covers this game, so no quarterback adjustment is made.",
+      "independent": true,
+      "distance_from_spread": 2.5,
+      "distance_from_total": 4.5
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: not available this week",
+      "ou_line": "O/U: not available this week",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Rest and travel read: the inputs updated for last week's games are not available yet, so this card has no score this week and is not counted in the average.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     },
+     {
+      "name": "Follow The Money",
+      "side_line": "Side: Northern Illinois Huskies +23.5 · Likes this side",
+      "ou_line": "O/U: Over 53.5 · Likes this total",
+      "score_line": "No score of its own — reads the market (see the market line).",
+      "basis_line": "Spread opened UNLV Rebels −24.5 and is −23.5 now, a 1-point move that meets the 1-point threshold. Total opened 52.5 and is 53.5 now, a 1-point move that meets the threshold: Over. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
+      "independent": false,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "In The Trenches",
+      "side_line": "Side: no pick (no trench signal)",
+      "ou_line": "O/U: no pick (no trench signal)",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Northern Illinois Huskies 3.5 ypc vs UNLV Rebels allowing 4.9; UNLV Rebels 4.4 ypc vs Northern Illinois Huskies allowing 5.4 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     }
+    ],
+    "story_text": "Nola Brandvik spent 30 seconds staring at a photo of a cornfield after the Hawai'i game, and she says it helped. Now she's flying to Las Vegas on Halloween, where Vegas Monroe-Kalani has already rated the opening act and promised a show.\n\nNorthern Illinois (0-7) at UNLV (4-3), Saturday at 10:30 p.m. ET on CBSSN at Allegiant Stadium in Las Vegas. It's a Mountain West game. DraftKings has UNLV Rebels −23.5 with a total of 53.5. My card: Northern Illinois Huskies +23.5, Under 53.5, and a final of UNLV Rebels 35, Northern Illinois Huskies 15.\n\nNola speaks for Northern Illinois. \"I'm calm. Very calm. We were tied with Hawai'i in the second quarter, and then the crop got hailed on. DeAree Rogers caught eight balls for 115 yards and two touchdowns. Telly Johnson Jr. has 502 rushing yards. The roots are still in the ground.\"\n\nVegas speaks for UNLV. \"And that's the show, folks. Jackson Arnold has 10 touchdown passes and two interceptions, and he runs it too. We held Hawai'i to six and North Dakota State to seven. But I'll be honest, our last act was Air Force, and that one got a bad review, 41-31.\"\n\nHere is the part that matters. UNLV scores 24.1 points a game. That is not a team built to win by four touchdowns. The Rebels' four wins were 21-6, 38-10, 39-31 and 13-7. To cover 23.5, UNLV has to do something it has done once all season.\n\nWhy Northern Illinois? Because the Huskies have stayed within this number in five of seven games. They lost 24-28 to Illinois State, 7-28 to Air Force and 23-41 at Wyoming. Action Network's opening number was UNLV −24.5, and it has come down a point. Both The Formula and Next Man Up like the Huskies. My final has UNLV by twenty.\n\nThe worry is the Northern Illinois defense. It allows 38.6 points a game, and Hawai'i scored 56 last week. Taron Dickens threw two interceptions. If UNLV gets the running game going with Jai'Den Thomas and Arnold, this could be the one blowout.\n\nWhy the Over/Under? UNLV plays low-scoring games. Its seven games ended 21-27, 21-6, 6-44, 38-10, 39-31, 13-7 and 31-41. Northern Illinois scores 15.1 points a game. UNLV runs the ball and uses the clock. Action Network's opening total was 52.5 and it has moved up to 53.5, but I want the Under. My 35-15 adds up to 50, three and a half under the over/under 53.5.\n\nNow the room. The Formula has UNLV 35-16 and likes Northern Illinois and the Under. Next Man Up has UNLV 35-14 and likes Northern Illinois and the Under. Follow The Money likes Northern Illinois after the move and likes the Over. In The Trenches sees the run gaps cancel and has no pick. Letdown Watch has no score this week.\n\nNext Man Up: \"Thirty-five to fourteen. The Huskies hang around.\"\n\nThe Formula: \"Same result. Take the points.\"\n\nFollow The Money: \"The spread came down a point. Somebody likes the corn.\"\n\nBottom of the card: a winless road team gets more than three touchdowns against a home team that rarely blows anybody out. Vegas wants a show. Nola just wants a harvest.\n\nUNLV Rebels 35, Northern Illinois Huskies 15. Northern Illinois Huskies cover the 23.5. Under 53.5.",
+    "fanatic_score_line": "Projected: UNLV Rebels 35, Northern Illinois Huskies 15 (Total 50)",
+    "line_used": {
+     "home_line": "UNLV Rebels −23.5",
+     "total": "53.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "injuries": {
+     "away": [],
+     "home": [],
+     "source": "No official conference availability report for this game",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "sourced_reasons": [
+     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "ESPN Football Power Index",
+     "Points: ESPN team pages for Northern Illinois and UNLV (espn.com)",
+     "Market moves: ESPN game page (espn.com)",
+     "Trench stats: ESPN team stats for Northern Illinois (espn.com)",
+     "Trench stats: ESPN team stats for UNLV (espn.com)",
+     "Schedule history: collegefootballdata.com 2018–2025"
+    ],
+    "fanatic_story": "Halloween Night on the Strip: Northern Illinois Visits UNLV\n\nNorthern Illinois (0-7, 0-3 Mountain West) at UNLV (4-3, 2-1 Mountain West). Saturday, Oct. 31, 10:30 p.m. ET (7:30 p.m. Pacific), Allegiant Stadium, Las Vegas, CBSSN.\n\nYour hosts are Nola Brandvik, a Northern Illinois agricultural scientist from DeKalb who thinks about the Huskies like a corn crop, and Vegas Monroe-Kalani, a former headliner dancer who calls every UNLV game a show and rates the opening act.\n\nVegas: The show starts Saturday night. Welcome to Las Vegas, Nola.\n\nNola: Thank you. I'm calm. Very calm. I brought a sweater. It's October.\n\nPlayers to watch\n\nNorthern Illinois quarterback Taron Dickens is 138 of 210 for 1,364 yards, six touchdowns and five interceptions. Running back Telly Johnson Jr. has 95 carries for 502 yards and four touchdowns. Wide receiver DeAree Rogers leads the team with 57 catches for 537 yards and four touchdowns. On defense, Jack Murray has 49 tackles and Avery Jones has two sacks.\n\nUNLV quarterback Jackson Arnold is 108 of 182 for 1,386 yards, 10 touchdowns and two interceptions. The school says he leads the league with 16 total touchdowns, 10 throwing and six running. Running back Jai'Den Thomas has 112 carries for 543 yards and three touchdowns. Wide receiver Kayden McGee has 16 catches for 330 yards and four touchdowns. Safety Jake Pope leads the defense with 63 tackles, Tre Fulton has 3.5 sacks and Mumu Bin-Wahad has three interceptions.\n\nWhat happened last week\n\nNorthern Illinois lost 56-21 at home to Hawai'i on Oct. 24. The game was tied at 14 in the second quarter before Hawai'i scored 35 points in a row. Rogers caught eight balls for 115 yards and two touchdowns, of 49 and 25 yards. Dickens threw for 171 yards, and Johnson ran for 63.\n\nUNLV had an open date on Oct. 24, its second bye of the season. The Rebels' last game was a 41-31 loss at Air Force on Oct. 17. McGee caught five balls for 99 yards and two touchdowns that day, and Arnold ran for a score.\n\nNola: After the Hawai'i game I stared at my cornfield photo for 30 seconds. It helped.\n\nInjuries and availability\n\nThe official Mountain West availability report hadn't been posted as of Tuesday and usually comes out on game day. Unofficial notes from mid-October list UNLV receiver DeAngelo Irvin Jr. as out. McGee was listed as questionable that week but played at Air Force. Dickens was listed as questionable before the Hawai'i game and played.\n\nWhat the coaches are up to\n\nRob Harley was the Huskies' defensive coordinator until he was promoted to interim head coach when Thomas Hammock resigned on Feb. 18 to return to the NFL. After the Hawai'i game, Harley said, \"We have to find a way, and it starts with me first, to find a way to increase the consistency with the base stuff that we do.\"\n\nDan Mullen is in his second season at UNLV after being hired on Dec. 12, 2024. The Rebels are 7-2 at home under Mullen. This week he talked about tackling and getting healthy after the break.\n\nPlayer storylines\n\nRogers is on a roll for the Huskies. Arnold, an Auburn transfer, didn't throw his first interception of the season until the North Dakota State game on Oct. 10. That came after 142 straight throws without one.\n\nWhat's happening on campus\n\nUNLV is throwing a Halloween party at Allegiant Stadium. The Rebel Village Fan Zone in Lot C is free, and a band called The Lucky Devils plays before the game.\n\nHalloween is also Nevada Day, the day Nevada became the 36th state in 1864. UNLV last played on Halloween in 2020, when it hosted Nevada in the first game ever played at Allegiant Stadium.\n\nNorthern Illinois is in its first season in the Mountain West as a football-only member, so this trip is all new.\n\nAnything else fun and true\n\nThe Huskies have won all five meetings with UNLV, the latest 38-30 in 2015. UNLV is still looking for its first win in the series.\n\nUNLV says it has already played in five different time zones this season and is the only school in the top level of college football scheduled to do that in 2026. The Rebels are 2-7 all-time on Halloween, and their last Halloween win was 35-31 over San Jose State in 1992.\n\nVegas: Saturday night, under the lights, on Halloween. That's my kind of opening act.\n\nNola: Knee-high by the Fourth of July. Or by Halloween. I'll take either.\n\nMy call: UNLV Rebels 35, Northern Illinois Huskies 15.",
+    "market": {
+     "score_line": "Market: UNLV Rebels 39, Northern Illinois Huskies 15 (Total 54)",
+     "spread": "UNLV Rebels −23.5",
+     "total": "53.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "note": "The market’s own numbers (spread and total split into team points), shown for comparison only."
+    }
+   },
+   "gambler_story": "Nola Brandvik spent 30 seconds staring at a photo of a cornfield after the Hawai'i game, and she says it helped. Now she's flying to Las Vegas on Halloween, where Vegas Monroe-Kalani has already rated the opening act and promised a show.\n\nNorthern Illinois (0-7) at UNLV (4-3), Saturday at 10:30 p.m. ET on CBSSN at Allegiant Stadium in Las Vegas. It's a Mountain West game. DraftKings has UNLV Rebels −23.5 with a total of 53.5. My card: Northern Illinois Huskies +23.5, Under 53.5, and a final of UNLV Rebels 35, Northern Illinois Huskies 15.\n\nNola speaks for Northern Illinois. \"I'm calm. Very calm. We were tied with Hawai'i in the second quarter, and then the crop got hailed on. DeAree Rogers caught eight balls for 115 yards and two touchdowns. Telly Johnson Jr. has 502 rushing yards. The roots are still in the ground.\"\n\nVegas speaks for UNLV. \"And that's the show, folks. Jackson Arnold has 10 touchdown passes and two interceptions, and he runs it too. We held Hawai'i to six and North Dakota State to seven. But I'll be honest, our last act was Air Force, and that one got a bad review, 41-31.\"\n\nHere is the part that matters. UNLV scores 24.1 points a game. That is not a team built to win by four touchdowns. The Rebels' four wins were 21-6, 38-10, 39-31 and 13-7. To cover 23.5, UNLV has to do something it has done once all season.\n\nWhy Northern Illinois? Because the Huskies have stayed within this number in five of seven games. They lost 24-28 to Illinois State, 7-28 to Air Force and 23-41 at Wyoming. Action Network's opening number was UNLV −24.5, and it has come down a point. Both The Formula and Next Man Up like the Huskies. My final has UNLV by twenty.\n\nThe worry is the Northern Illinois defense. It allows 38.6 points a game, and Hawai'i scored 56 last week. Taron Dickens threw two interceptions. If UNLV gets the running game going with Jai'Den Thomas and Arnold, this could be the one blowout.\n\nWhy the Over/Under? UNLV plays low-scoring games. Its seven games ended 21-27, 21-6, 6-44, 38-10, 39-31, 13-7 and 31-41. Northern Illinois scores 15.1 points a game. UNLV runs the ball and uses the clock. Action Network's opening total was 52.5 and it has moved up to 53.5, but I want the Under. My 35-15 adds up to 50, three and a half under the over/under 53.5.\n\nNow the room. The Formula has UNLV 35-16 and likes Northern Illinois and the Under. Next Man Up has UNLV 35-14 and likes Northern Illinois and the Under. Follow The Money likes Northern Illinois after the move and likes the Over. In The Trenches sees the run gaps cancel and has no pick. Letdown Watch has no score this week.\n\nNext Man Up: \"Thirty-five to fourteen. The Huskies hang around.\"\n\nThe Formula: \"Same result. Take the points.\"\n\nFollow The Money: \"The spread came down a point. Somebody likes the corn.\"\n\nBottom of the card: a winless road team gets more than three touchdowns against a home team that rarely blows anybody out. Vegas wants a show. Nola just wants a harvest.\n\nUNLV Rebels 35, Northern Illinois Huskies 15. Northern Illinois Huskies cover the 23.5. Under 53.5."
+  },
+  {
+   "game_id": "401860924",
+   "matchup": "Oregon State Beavers at Fresno State Bulldogs",
+   "away": {
+    "team": "Oregon State Beavers",
+    "conference": "Pac-12",
+    "record": "5-2",
+    "rank": null
+   },
+   "home": {
+    "team": "Fresno State Bulldogs",
+    "conference": "Pac-12",
+    "record": "4-3",
+    "rank": null
+   },
+   "kickoff_et": "11:00 PM ET Sat Oct 31",
+   "kickoff_utc": "2026-11-01T03:00Z",
+   "tv": [
+    "USA Net"
+   ],
+   "venue": "Valley Children's Stadium",
+   "conferences": [
+    "Pac-12"
+   ],
+   "team_ids": [
+    "oregon-state",
+    "fresno-state"
+   ],
+   "spread": "Oregon State Beavers −5.5",
+   "total_line": 57.5,
+   "prediction": {
+    "away_score": 30,
+    "home_score": 27,
+    "winner": "Oregon State Beavers",
+    "covers": "Fresno State Bulldogs +5.5"
+   },
+   "total_pick": "Under",
+   "status_at_build": {
+    "state": "pre"
+   },
+   "display": {
+    "writer": {
+     "score_line": "Projected: Oregon State Beavers 30, Fresno State Bulldogs 27 (Total 57)",
+     "side": "Fresno State Bulldogs +5.5",
+     "ou": "Under 57.5",
+     "label": "Average of 2 independent scores"
+    },
+    "handicappers": [
+     {
+      "name": "The Formula",
+      "side_line": "Side: Fresno State Bulldogs +5.5",
+      "ou_line": "O/U: Under 57.5",
+      "score_line": "Projected: Oregon State Beavers 30, Fresno State Bulldogs 27 (Total 57)",
+      "basis_line": "FPI Oregon State Beavers 6.1, Fresno State Bulldogs −1.0; FPI gap × 0.85 + home field 2.15 = Oregon State Beavers by 3.9. Total 57.1: each team's points = average of its points scored per game and the opponent's points allowed per game (Oregon State Beavers 42.7 scored / 23.1 allowed in 7 games; Fresno State Bulldogs 27.6 / 20.9 in 7). Line Oregon State Beavers −5.5, total 57.5.",
+      "independent": true,
+      "distance_from_spread": 2.5,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: Fresno State Bulldogs +5.5",
+      "ou_line": "O/U: Under 57.5 · Likes this total",
+      "score_line": "Projected: Oregon State Beavers 29, Fresno State Bulldogs 26 (Total 55)",
+      "basis_line": "Team strength with the players available: offense and defense strength fitted to every 2026 game score so far (2335 games), starting from last season's strength scaled by how much production returned. Projected points: Oregon State Beavers 29.2, Fresno State Bulldogs 25.6, home field included. Availability: no official conference availability report covers this game, so no quarterback adjustment is made.",
+      "independent": true,
+      "distance_from_spread": 2.5,
+      "distance_from_total": 2.5
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: not available this week",
+      "ou_line": "O/U: not available this week",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Rest and travel read: the inputs updated for last week's games are not available yet, so this card has no score this week and is not counted in the average.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     },
+     {
+      "name": "Follow The Money",
+      "side_line": "Side: Fresno State Bulldogs +5.5 · Likes this side",
+      "ou_line": "O/U: Over 57.5 · Likes this total",
+      "score_line": "No score of its own — reads the market (see the market line).",
+      "basis_line": "Spread opened Fresno State Bulldogs +7 and is +5.5 now, a 1.5-point move that meets the 1-point threshold. Total opened 56.5 and is 57.5 now, a 1-point move that meets the threshold: Over. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
+      "independent": false,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 0.5
+     },
+     {
+      "name": "In The Trenches",
+      "side_line": "Side: no pick (no trench signal)",
+      "ou_line": "O/U: no pick (no trench signal)",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Oregon State Beavers 4.7 ypc vs Fresno State Bulldogs allowing 4.6; Fresno State Bulldogs 4.3 ypc vs Oregon State Beavers allowing 4.2 (2026 season; rushing totals include sacks). Per-side test: no gap reaches the cutoff (0.5 ypc or 5 points). No pick.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
+     }
+    ],
+    "story_text": "It's Halloween night in Fresno, and Juniper Ostrowski has her field guide out to identify every tree in the Valley. Roz Ayala has one question for her: which valley, babe? Both teams are coming off an open week.\n\nOregon State (5-2) at Fresno State (4-3), Saturday at 11:00 p.m. ET on USA Net at Valley Children's Stadium in Fresno. It's a Pac-12 game. DraftKings has Oregon State Beavers −5.5 with a total of 57.5. My card: Fresno State Bulldogs +5.5, Under 57.5, and a final of Oregon State Beavers 30, Fresno State Bulldogs 27.\n\nJuniper speaks for Oregon State. \"Measure twice, kick once. Braden Atkinson has 24 touchdown passes and two interceptions. Jesse Legree has 1,040 receiving yards and 14 touchdowns. And Coach Shephard says TJ Crandall is good to go at corner after his concussion. That's a healthy canopy.\"\n\nRoz speaks for Fresno State. \"Not that Valley, babe. Our defense allows 20.9 points a game, and The Oregonian says we're tied for the Pac-12 lead in turnover margin at plus-eight. Fresno State is unbeaten at home on Halloween. And we won in Corvallis last year, 36-27.\"\n\nHere is the part that matters. Oregon State scores 42.7 points a game, and this defense is second in the Pac-12 in scoring, per The Oregonian. Fresno State's only blowout loss came in the opener at USC, 39-0. Since then, nobody has scored more than 38 on the Bulldogs.\n\nWhy Fresno State? Because 5.5 points is a nice cushion at home, at night, in a building where the Bulldogs know how to win. Action Network's opening number was Oregon State −6.5, and it has dropped a point toward Fresno State. Jayden Mandal has one interception all season. He just has to protect the ball. My final has Oregon State by three, inside the number.\n\nThe worry is Atkinson. He threw five touchdown passes in three of his last five games, and the Beavers have not trailed during their five-game winning run. Fresno State lost 26-23 at San Diego State, when Mandal threw for 141 yards. If the Bulldogs can't move the ball, Oregon State pulls away.\n\nWhy the Over/Under? Fresno State plays defense. Its seven games ended 39-0, 49-3, 26-10, 38-24, 26-6, 38-31 and 26-23. The total opened 56.5 and moved up to 57.5, but I want the defense. My 30-27 adds up to 57, half a point under the over/under 57.5.\n\nNow the room. The Formula has Oregon State 30-27, takes Fresno State and the Under. Next Man Up has Oregon State 29-26, takes Fresno State and likes the Under. Follow The Money likes Fresno State after the move from +7 and likes the Over. In The Trenches sees the run gaps cancel and has no pick. Letdown Watch has no score this week.\n\nThe Formula: \"Three points. Halloween treat for the home team.\"\n\nNext Man Up: \"Crandall back at corner helps Oregon State, but the Bulldogs still have the defense.\"\n\nFollow The Money: \"The spread came down. Somebody likes the Dogs.\"\n\nBottom of the card: a 42.7-point offense against the league's second-best scoring defense, on a night when the home crowd will be in costume. Juniper says measure twice. Roz says one cut is enough.\n\nOregon State Beavers 30, Fresno State Bulldogs 27. Fresno State Bulldogs cover the 5.5. Under 57.5.",
+    "fanatic_score_line": "Projected: Oregon State Beavers 30, Fresno State Bulldogs 27 (Total 57)",
+    "line_used": {
+     "home_line": "Fresno State Bulldogs +5.5",
+     "total": "57.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "injuries": {
+     "away": [],
+     "home": [],
+     "source": "No official conference availability report for this game",
+     "fetched_at_utc": "2026-10-27T20:44Z"
+    },
+    "sourced_reasons": [
+     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "ESPN Football Power Index",
+     "Points: ESPN team pages for Oregon State and Fresno State (espn.com)",
+     "Market moves: ESPN game page (espn.com)",
+     "Trench stats: ESPN team stats for Oregon State (espn.com)",
+     "Trench stats: ESPN team stats for Fresno State (espn.com)",
+     "Schedule history: collegefootballdata.com 2018–2025"
+    ],
+    "fanatic_story": "Halloween Night in the Valley: Oregon State Visits Fresno State\n\nOregon State (5-2, 3-0 Pac-12) at Fresno State (4-3, 1-2 Pac-12). Saturday, Oct. 31, 11:00 p.m. ET (8:00 p.m. Pacific), Valley Children's Stadium, Fresno, Calif., USA Net.\n\nYour hosts are Juniper Ostrowski, an Oregon State forestry PhD who charts treetop weather and red-zone efficiency and corrects everyone's tree metaphors, and Rosalind \"Roz\" Ayala, a Fresno State fan and raisin-grower's daughter who calls herself the Valley Girl, from a different valley.\n\nRoz: Not that Valley, babe! Welcome to Fresno on Halloween night.\n\nJuniper: Measure twice, kick once! I packed a costume. I came as a Douglas fir.\n\nRoz: Of course you did.\n\nPlayers to watch\n\nOregon State quarterback Braden Atkinson is 189 of 273 for 2,604 yards, 24 touchdowns and just two interceptions. The Oregonian says he has thrown 129 straight throws without an interception, and the school record is 182 by Matt Moore. Wide receiver Jesse Legree has 46 catches for 1,040 yards and 14 touchdowns. Running back AJ Newberry has 431 yards. On defense, linebacker Aiden Sullivan has 53 tackles and linebacker Takari Hickle has six sacks.\n\nFresno State quarterback Jayden Mandal is 123 of 195 for 1,393 yards, eight touchdowns and one interception, and he has run for two scores. Rayshon Luke leads the rushers with 333 yards, and Josiah Freeman leads the receivers with 32 catches for 445 yards. Linebacker K'vion Thunderbird has 61 tackles, and defensive back Simeon Harris has three interceptions.\n\nJuniper: Legree with 14 touchdowns is a giant sequoia. Tall, strong and impossible to miss.\n\nWhat happened last week\n\nBoth teams had an open date on Oct. 24. Oregon State's last game was a 48-30 home win over Washington State on Oct. 17, when Atkinson threw for 347 yards and three touchdowns and Newberry ran for 105 yards and caught five balls for 120 more.\n\nFresno State lost 26-23 at San Diego State that same night. Bryson Donelson ran for a touchdown.\n\nInjuries and availability\n\nThe official Pac-12 availability report usually posts on game day. The Oregonian reports that Oregon State cornerback TJ Crandall, who missed the Washington State game with a concussion, is good to go. Receiver Adonis McDaniel, who tore his Achilles in the winter, is expected to make his season debut. For Fresno State, Luke was listed as questionable with a concussion after the San Diego State game, so watch for his status on Saturday.\n\nWhat the coaches are up to\n\nJaMarcus Shephard is 5-2 in his first season at Oregon State. He was hired on Nov. 28, 2025. Matt Entz is 13-7 at Fresno State and won two FCS national championships at North Dakota State.\n\nRoz: Coach Entz knows big games. Two national titles is a lot of raisins.\n\nJuniper: That is not how raisins work.\n\nPlayer storylines\n\nMcDaniel and Atkinson both came to Corvallis from Mercer. If McDaniel plays, two old teammates get to share a big Saturday night again.\n\nMandal is in his first season as a starter, and he has protected the ball all year with just one interception in seven games. He has also caught a 21-yard ball this year, so keep an eye on trick plays.\n\nThe Beavers have won five straight and have not trailed in any of them. Last year's meeting went the other way, a 36-27 Fresno State win in Corvallis.\n\nWhat's happening on campus\n\nIt's Halloween in Fresno, and the Bulldogs haven't played on Oct. 31 since 2009. Fresno State is 7-4-1 on Halloween, including 5-0-1 at home. Oregon State is 4-9-1 on Halloween, so Juniper might want to keep that Douglas fir costume handy for luck.\n\nFresno State plays on Jim Sweeney Field, and Valley Children's Stadium seats 41,031. Oregon State's home, Reser Stadium, seats 43,363.\n\nAnything else fun and true\n\nOregon State sits first in the Pac-12 at 3-0 in league games, and the Beavers have 17 sacks and nine takeaways. Fresno State's defense is second in the league in scoring, according to The Oregonian.\n\nJuniper: A good defense is like an old-growth forest. You don't get through it quickly.\n\nRoz: And a good offense is like a raisin. Sweet, a little wrinkly, and gone before you know it.\n\nJuniper: I'm writing that down for the podcast.\n\nMy call: Oregon State Beavers 30, Fresno State Bulldogs 27.",
+    "market": {
+     "score_line": "Market: Oregon State Beavers 32, Fresno State Bulldogs 26 (Total 58)",
+     "spread": "Oregon State Beavers −5.5",
+     "total": "57.5",
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "note": "The market’s own numbers (spread and total split into team points), shown for comparison only."
+    }
+   },
+   "gambler_story": "It's Halloween night in Fresno, and Juniper Ostrowski has her field guide out to identify every tree in the Valley. Roz Ayala has one question for her: which valley, babe? Both teams are coming off an open week.\n\nOregon State (5-2) at Fresno State (4-3), Saturday at 11:00 p.m. ET on USA Net at Valley Children's Stadium in Fresno. It's a Pac-12 game. DraftKings has Oregon State Beavers −5.5 with a total of 57.5. My card: Fresno State Bulldogs +5.5, Under 57.5, and a final of Oregon State Beavers 30, Fresno State Bulldogs 27.\n\nJuniper speaks for Oregon State. \"Measure twice, kick once. Braden Atkinson has 24 touchdown passes and two interceptions. Jesse Legree has 1,040 receiving yards and 14 touchdowns. And Coach Shephard says TJ Crandall is good to go at corner after his concussion. That's a healthy canopy.\"\n\nRoz speaks for Fresno State. \"Not that Valley, babe. Our defense allows 20.9 points a game, and The Oregonian says we're tied for the Pac-12 lead in turnover margin at plus-eight. Fresno State is unbeaten at home on Halloween. And we won in Corvallis last year, 36-27.\"\n\nHere is the part that matters. Oregon State scores 42.7 points a game, and this defense is second in the Pac-12 in scoring, per The Oregonian. Fresno State's only blowout loss came in the opener at USC, 39-0. Since then, nobody has scored more than 38 on the Bulldogs.\n\nWhy Fresno State? Because 5.5 points is a nice cushion at home, at night, in a building where the Bulldogs know how to win. Action Network's opening number was Oregon State −6.5, and it has dropped a point toward Fresno State. Jayden Mandal has one interception all season. He just has to protect the ball. My final has Oregon State by three, inside the number.\n\nThe worry is Atkinson. He threw five touchdown passes in three of his last five games, and the Beavers have not trailed during their five-game winning run. Fresno State lost 26-23 at San Diego State, when Mandal threw for 141 yards. If the Bulldogs can't move the ball, Oregon State pulls away.\n\nWhy the Over/Under? Fresno State plays defense. Its seven games ended 39-0, 49-3, 26-10, 38-24, 26-6, 38-31 and 26-23. The total opened 56.5 and moved up to 57.5, but I want the defense. My 30-27 adds up to 57, half a point under the over/under 57.5.\n\nNow the room. The Formula has Oregon State 30-27, takes Fresno State and the Under. Next Man Up has Oregon State 29-26, takes Fresno State and likes the Under. Follow The Money likes Fresno State after the move from +7 and likes the Over. In The Trenches sees the run gaps cancel and has no pick. Letdown Watch has no score this week.\n\nThe Formula: \"Three points. Halloween treat for the home team.\"\n\nNext Man Up: \"Crandall back at corner helps Oregon State, but the Bulldogs still have the defense.\"\n\nFollow The Money: \"The spread came down. Somebody likes the Dogs.\"\n\nBottom of the card: a 42.7-point offense against the league's second-best scoring defense, on a night when the home crowd will be in costume. Juniper says measure twice. Roz says one cut is enough.\n\nOregon State Beavers 30, Fresno State Bulldogs 27. Fresno State Bulldogs cover the 5.5. Under 57.5."
   }
  ]
 }
