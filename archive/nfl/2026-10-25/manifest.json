@@ -1,0 +1,29 @@
+{
+ "league": "nfl",
+ "date": "2026-10-25",
+ "label": "NFL, Week 7",
+ "status": "final",
+ "archived_utc": "2026-10-27T20:39:25Z",
+ "finalized_utc": "2026-10-27T20:39:25Z",
+ "pending_games": [],
+ "files": {
+  "games.json": {
+   "bytes": 461718,
+   "source": "main@548ca49:nfl/games.json"
+  },
+  "monday.json": {
+   "bytes": 23663,
+   "source": "main@548ca49:nfl/monday.json"
+  },
+  "results.json": {
+   "bytes": 4926,
+   "source": "ESPN scoreboard 20261019,20261022,20261025,20261026"
+  },
+  "standings.json": {
+   "bytes": 266,
+   "source": "main@548ca49:nfl/standings.json"
+  }
+ },
+ "read_only": true,
+ "note": "Archived exactly as it was live. Open with the same game pages, read-only."
+}
