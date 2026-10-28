@@ -361,6 +361,18 @@ def item(v, kind, label, **kw):
 def short(team_obj, lg):
     return team_obj.get("name") if lg == "nfl" else team_obj.get("location")
 
+def feed_report_outs(g):
+    """Players Out/Doubtful on the official report the feed itself carries: NFL at g.injuries, college (conference
+    availability report) at g.display.injuries (Oct 28, 2026: e.g. JMU RB George Pettaway, Out vs Troy). Never key players."""
+    outs = set()
+    for inj in (g.get("injuries"), (g.get("display") or {}).get("injuries")):
+        inj = inj if isinstance(inj, dict) else {}
+        for side in ("away", "home"):
+            for i in inj.get(side) or []:
+                if isinstance(i, dict) and (i.get("game_status") or "").lower() in ("out", "doubtful") and i.get("player"):
+                    outs.add(i["player"])
+    return outs
+
 def game_videos(run, lg, g, M):
     s = getj("https://site.api.espn.com/apis/site/v2/sports/football/%s/summary?event=%s" % (ESPN_LG[lg], g["game_id"]))
     comps = {c["homeAway"]: c["team"] for c in s["header"]["competitions"][0]["competitors"]}
@@ -375,10 +387,7 @@ def game_videos(run, lg, g, M):
         for i in t.get("injuries", []):
             if (i.get("status") or "").lower() in ("out", "injured reserve", "doubtful", "suspension"):
                 out_players.add(i.get("athlete", {}).get("displayName"))
-    for side in ("away", "home"):   # NFL feed carries the official injury report too
-        inj = g.get("injuries") if isinstance(g.get("injuries"), dict) else {}
-        for i in inj.get(side) or []:
-            if (i.get("game_status") or "").lower() in ("out", "doubtful"): out_players.add(i.get("player"))
+    out_players |= feed_report_outs(g)
     videos, slots, players = [], [], []
     an, hn = A["displayName"], H["displayName"]
     conf = [x.get("conference") for x in (g.get("away") or {}, g.get("home") or {}) if isinstance(x, dict)]
