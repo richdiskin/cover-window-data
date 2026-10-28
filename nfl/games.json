@@ -252,7 +252,162 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/car and https://www.espn.com/nfl/team/_/name/gb, retrieved Oct 27, 4:04 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Carolina Panthers",
+     "player": "Bryce Young",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873023"
+    },
+    {
+     "team": "Carolina Panthers",
+     "player": "Tetairoa McMillan",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873023"
+    },
+    {
+     "team": "Green Bay Packers",
+     "player": "Jordan Love",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873023"
+    },
+    {
+     "team": "Green Bay Packers",
+     "player": "Christian Watson",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873023"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "dVxy7tMDVJE",
+     "title": "Carolina Panthers vs Green Bay Packers Game Highlights | 2025 NFL Season Week 9",
+     "label": "Last meeting: Panthers vs. Packers",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2025-11-02",
+     "duration_s": 850,
+     "thumb": "https://i.ytimg.com/vi/dVxy7tMDVJE/hqdefault.jpg",
+     "kind": "matchup",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "KHLfLsKZlRg",
+     "title": "Tampa Bay Buccaneers vs Carolina Panthers Game Highlights | 2026 NFL Season Week 7",
+     "label": "Panthers's last game: vs. Buccaneers",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 788,
+     "thumb": "https://i.ytimg.com/vi/KHLfLsKZlRg/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Carolina Panthers",
+     "opponent": "Tampa Bay Buccaneers",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "r3NBIs-ABLA",
+     "title": "Green Bay Packers vs Detroit Lions Game Highlights | 2026 NFL Season Week 7",
+     "label": "Packers's last game: vs. Lions",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 913,
+     "thumb": "https://i.ytimg.com/vi/r3NBIs-ABLA/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Green Bay Packers",
+     "opponent": "Detroit Lions",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "LjjtGENwtzo",
+     "title": "Bryce Young DEEP to Darren Waller for the Touchdown",
+     "label": "Bryce Young highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 32,
+     "thumb": "https://i.ytimg.com/vi/LjjtGENwtzo/hqdefault.jpg",
+     "kind": "player",
+     "player": "Bryce Young",
+     "team": "Carolina Panthers",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "DIFNn8n7Skc",
+     "title": "Tetairoa McMillan best plays from career-high 2-TD, 192-yard game | Week 4",
+     "label": "Tetairoa McMillan highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-04",
+     "duration_s": 79,
+     "thumb": "https://i.ytimg.com/vi/DIFNn8n7Skc/hqdefault.jpg",
+     "kind": "player",
+     "player": "Tetairoa McMillan",
+     "team": "Carolina Panthers",
+     "player_basis": "ESPN season leader, receiving yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "BK5PZUX6pjA",
+     "title": "Jordan Love's best plays from 367-yard game vs. Bears | Week 5",
+     "label": "Jordan Love highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-11",
+     "duration_s": 169,
+     "thumb": "https://i.ytimg.com/vi/BK5PZUX6pjA/hqdefault.jpg",
+     "kind": "player",
+     "player": "Jordan Love",
+     "team": "Green Bay Packers",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "4zDPaTpd_K4",
+     "title": "Christian Watson's best catches from 2-TD game vs. Bears | Week 5",
+     "label": "Christian Watson highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-11",
+     "duration_s": 51,
+     "thumb": "https://i.ytimg.com/vi/4zDPaTpd_K4/hqdefault.jpg",
+     "kind": "player",
+     "player": "Christian Watson",
+     "team": "Green Bay Packers",
+     "player_basis": "ESPN season leader, receiving yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873026",
@@ -498,7 +653,144 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/bal and https://www.espn.com/nfl/team/_/name/buf, retrieved Oct 27, 4:04 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Baltimore Ravens",
+     "player": "Lamar Jackson",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873026"
+    },
+    {
+     "team": "Baltimore Ravens",
+     "player": "Zay Flowers",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873026"
+    },
+    {
+     "team": "Buffalo Bills",
+     "player": "Josh Allen",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873026"
+    },
+    {
+     "team": "Buffalo Bills",
+     "player": "James Cook III",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873026"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "37U_cW0OByc",
+     "title": "Baltimore Ravens vs Buffalo Bills Game Highlights | NFL 2025 Season Week 1",
+     "label": "Last meeting: Ravens vs. Bills",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2025-09-07",
+     "duration_s": 1277,
+     "thumb": "https://i.ytimg.com/vi/37U_cW0OByc/hqdefault.jpg",
+     "kind": "matchup",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "LJRRMbR4BrE",
+     "title": "Cincinnati Bengals vs. Baltimore Ravens Game Highlights | 2026 NFL Season Week 7",
+     "label": "Ravens's last game: vs. Bengals",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 978,
+     "thumb": "https://i.ytimg.com/vi/LJRRMbR4BrE/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Baltimore Ravens",
+     "opponent": "Cincinnati Bengals",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "3OCqmuxG7Js",
+     "title": "Lamar Jackson's best plays from 324-yard, 2-TD game | Week 1",
+     "label": "Lamar Jackson highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-09-13",
+     "duration_s": 154,
+     "thumb": "https://i.ytimg.com/vi/3OCqmuxG7Js/hqdefault.jpg",
+     "kind": "player",
+     "player": "Lamar Jackson",
+     "team": "Baltimore Ravens",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "qqnmsH2kGHE",
+     "title": "You can't catch Zay Flowers",
+     "label": "Zay Flowers highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 35,
+     "thumb": "https://i.ytimg.com/vi/qqnmsH2kGHE/hqdefault.jpg",
+     "kind": "player",
+     "player": "Zay Flowers",
+     "team": "Baltimore Ravens",
+     "player_basis": "ESPN season leader, receiving yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "Eo8BLf7TtFA",
+     "title": "Josh Allen's best plays from 331-yard game vs. Rams | Week 5",
+     "label": "Josh Allen highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-12",
+     "duration_s": 265,
+     "thumb": "https://i.ytimg.com/vi/Eo8BLf7TtFA/hqdefault.jpg",
+     "kind": "player",
+     "player": "Josh Allen",
+     "team": "Buffalo Bills",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "m4COWADezJA",
+     "title": "THE BILLS WORK TOGETHER TO PUSH JAMES COOK THROUGH FOR THE TD",
+     "label": "James Cook III highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-18",
+     "duration_s": 32,
+     "thumb": "https://i.ytimg.com/vi/m4COWADezJA/hqdefault.jpg",
+     "kind": "player",
+     "player": "James Cook III",
+     "team": "Buffalo Bills",
+     "player_basis": "ESPN season leader, rushing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873031",
@@ -744,7 +1036,144 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/ten and https://www.espn.com/nfl/team/_/name/cin, retrieved Oct 27, 4:04 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Tennessee Titans",
+     "player": "Cam Ward",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873031"
+    },
+    {
+     "team": "Tennessee Titans",
+     "player": "Tony Pollard",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873031"
+    },
+    {
+     "team": "Cincinnati Bengals",
+     "player": "Joe Burrow",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873031"
+    },
+    {
+     "team": "Cincinnati Bengals",
+     "player": "Tee Higgins",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873031"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "9J6udxFELGA",
+     "title": "Cincinnati Bengals vs. Tennessee Titans Game Highlights | NFL 2024 Season Week 15",
+     "label": "Last meeting: Titans vs. Bengals",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2024-12-15",
+     "duration_s": 889,
+     "thumb": "https://i.ytimg.com/vi/9J6udxFELGA/hqdefault.jpg",
+     "kind": "matchup",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "_4OJ6iu8K1I",
+     "title": "Cleveland Browns vs. Tennessee Titans Game Highlights | NFL 2026 Season Week 7",
+     "label": "Titans's last game: vs. Browns",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 877,
+     "thumb": "https://i.ytimg.com/vi/_4OJ6iu8K1I/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Tennessee Titans",
+     "opponent": "Cleveland Browns",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "LJRRMbR4BrE",
+     "title": "Cincinnati Bengals vs. Baltimore Ravens Game Highlights | 2026 NFL Season Week 7",
+     "label": "Bengals's last game: vs. Ravens",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 978,
+     "thumb": "https://i.ytimg.com/vi/LJRRMbR4BrE/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Cincinnati Bengals",
+     "opponent": "Baltimore Ravens",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "lQN5V8Jpu94",
+     "title": "Tony Pollard's best plays from 155-total yard, 3-TD game vs. Browns | Week 7",
+     "label": "Tony Pollard highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 135,
+     "thumb": "https://i.ytimg.com/vi/lQN5V8Jpu94/hqdefault.jpg",
+     "kind": "player",
+     "player": "Tony Pollard",
+     "team": "Tennessee Titans",
+     "player_basis": "ESPN season leader, rushing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "g3HWvcU-ujs",
+     "title": "Joe Burrow's best plays from 4-TD, 292-yard game vs. Ravens",
+     "label": "Joe Burrow highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 221,
+     "thumb": "https://i.ytimg.com/vi/g3HWvcU-ujs/hqdefault.jpg",
+     "kind": "player",
+     "player": "Joe Burrow",
+     "team": "Cincinnati Bengals",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "7Gp_kQebvY4",
+     "title": "Tee Higgins' best catches from 148-yard game vs. Ravens | Week 7",
+     "label": "Tee Higgins highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 128,
+     "thumb": "https://i.ytimg.com/vi/7Gp_kQebvY4/hqdefault.jpg",
+     "kind": "player",
+     "player": "Tee Higgins",
+     "team": "Cincinnati Bengals",
+     "player_basis": "ESPN season leader, receiving yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873024",
@@ -990,7 +1419,72 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/ari and https://www.espn.com/nfl/team/_/name/dal, retrieved Oct 27, 4:04 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Arizona Cardinals",
+     "player": "Jacoby Brissett",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873024"
+    },
+    {
+     "team": "Arizona Cardinals",
+     "player": "Trey McBride",
+     "position": "TE",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873024"
+    },
+    {
+     "team": "Dallas Cowboys",
+     "player": "Dak Prescott",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873024"
+    },
+    {
+     "team": "Dallas Cowboys",
+     "player": "CeeDee Lamb",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873024"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "qPIxiCn-gbU",
+     "title": "Arizona Cardinals vs Dallas Cowboys Game Highlights | 2025 NFL Season Week 9",
+     "label": "Last meeting: Cardinals vs. Cowboys",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2025-11-03",
+     "duration_s": 980,
+     "thumb": "https://i.ytimg.com/vi/qPIxiCn-gbU/hqdefault.jpg",
+     "kind": "matchup",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "ELahNguVTLM",
+     "title": "Denver Broncos vs Arizona Cardinals Game Highlights | 2026 NFL Season Week 7",
+     "label": "Cardinals's last game: vs. Broncos",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 1136,
+     "thumb": "https://i.ytimg.com/vi/ELahNguVTLM/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Arizona Cardinals",
+     "opponent": "Denver Broncos",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873030",
@@ -1236,7 +1730,72 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/min and https://www.espn.com/nfl/team/_/name/det, retrieved Oct 27, 4:04 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Minnesota Vikings",
+     "player": "Kyler Murray",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873030"
+    },
+    {
+     "team": "Minnesota Vikings",
+     "player": "Aaron Jones Sr.",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873030"
+    },
+    {
+     "team": "Detroit Lions",
+     "player": "Jared Goff",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873030"
+    },
+    {
+     "team": "Detroit Lions",
+     "player": "Jahmyr Gibbs",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873030"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "-cES7tGVo3o",
+     "title": "Detroit Lions vs Minnesota Vikings Christmas Day Game Highlights | 2025 NFL Season Week 17",
+     "label": "Last meeting: Vikings vs. Lions",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2025-12-25",
+     "duration_s": 903,
+     "thumb": "https://i.ytimg.com/vi/-cES7tGVo3o/hqdefault.jpg",
+     "kind": "matchup",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "r3NBIs-ABLA",
+     "title": "Green Bay Packers vs Detroit Lions Game Highlights | 2026 NFL Season Week 7",
+     "label": "Lions's last game: vs. Packers",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 913,
+     "thumb": "https://i.ytimg.com/vi/r3NBIs-ABLA/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Detroit Lions",
+     "opponent": "Green Bay Packers",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873029",
@@ -1482,7 +2041,57 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/lv and https://www.espn.com/nfl/team/_/name/nyj, retrieved Oct 27, 4:04 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Las Vegas Raiders",
+     "player": "Kirk Cousins",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873029"
+    },
+    {
+     "team": "Las Vegas Raiders",
+     "player": "Tre Tucker",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873029"
+    },
+    {
+     "team": "New York Jets",
+     "player": "Geno Smith",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873029"
+    },
+    {
+     "team": "New York Jets",
+     "player": "Garrett Wilson",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873029"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "vpMS0LTdmAA",
+     "title": "GENO SMITH X GARRETT WILSON DRIVE THE JETS DOWN FIELD FOR A TD !!",
+     "label": "Garrett Wilson highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-11",
+     "duration_s": 73,
+     "thumb": "https://i.ytimg.com/vi/vpMS0LTdmAA/hqdefault.jpg",
+     "kind": "player",
+     "player": "Garrett Wilson",
+     "team": "New York Jets",
+     "player_basis": "ESPN season leader, receiving yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873027",
@@ -1728,7 +2337,144 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/cle and https://www.espn.com/nfl/team/_/name/pit, retrieved Oct 27, 4:04 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Cleveland Browns",
+     "player": "Deshaun Watson",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873027"
+    },
+    {
+     "team": "Cleveland Browns",
+     "player": "Denzel Boston",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873027"
+    },
+    {
+     "team": "Pittsburgh Steelers",
+     "player": "Aaron Rodgers",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873027"
+    },
+    {
+     "team": "Pittsburgh Steelers",
+     "player": "Jaylen Warren",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873027"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "bCRUPnDHzNY",
+     "title": "Cleveland Browns Highlights vs. Pittsburgh Steelers | 2024 Regular Season Week 12",
+     "label": "Last meeting: Browns vs. Steelers",
+     "channel": "Cleveland Browns",
+     "channel_id": "UCQQQO7Kdo0cu9iEb19qOoYA",
+     "published": "2024-11-22",
+     "duration_s": 284,
+     "thumb": "https://i.ytimg.com/vi/bCRUPnDHzNY/hqdefault.jpg",
+     "kind": "matchup",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "_4OJ6iu8K1I",
+     "title": "Cleveland Browns vs. Tennessee Titans Game Highlights | NFL 2026 Season Week 7",
+     "label": "Browns's last game: vs. Titans",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 877,
+     "thumb": "https://i.ytimg.com/vi/_4OJ6iu8K1I/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Cleveland Browns",
+     "opponent": "Tennessee Titans",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "wz6HQi6XPDc",
+     "title": "Pittsburgh Steelers vs. New Orleans Saints Game Highlights | 2026 NFL Season Week 7",
+     "label": "Steelers's last game: vs. Saints",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 942,
+     "thumb": "https://i.ytimg.com/vi/wz6HQi6XPDc/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Pittsburgh Steelers",
+     "opponent": "New Orleans Saints",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "-D-yajitOLg",
+     "title": "Deshaun Watson's best plays from 290-yard game vs. Steelers | Week 4",
+     "label": "Deshaun Watson highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-01",
+     "duration_s": 82,
+     "thumb": "https://i.ytimg.com/vi/-D-yajitOLg/hqdefault.jpg",
+     "kind": "player",
+     "player": "Deshaun Watson",
+     "team": "Cleveland Browns",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "mz7LRMZ9Vpo",
+     "title": "Aaron Rodgers's best plays from 3-TD game vs. Browns | Week 4",
+     "label": "Aaron Rodgers highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-01",
+     "duration_s": 256,
+     "thumb": "https://i.ytimg.com/vi/mz7LRMZ9Vpo/hqdefault.jpg",
+     "kind": "player",
+     "player": "Aaron Rodgers",
+     "team": "Pittsburgh Steelers",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "Jf5zDLWDLuM",
+     "title": "Jaylen Warren's best plays from 137-yard game vs. Saints | Week 7",
+     "label": "Jaylen Warren highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 121,
+     "thumb": "https://i.ytimg.com/vi/Jf5zDLWDLuM/hqdefault.jpg",
+     "kind": "player",
+     "player": "Jaylen Warren",
+     "team": "Pittsburgh Steelers",
+     "player_basis": "ESPN season leader, rushing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873025",
@@ -1974,7 +2720,162 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/atl and https://www.espn.com/nfl/team/_/name/tb, retrieved Oct 27, 4:04 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Atlanta Falcons",
+     "player": "Michael Penix Jr.",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873025"
+    },
+    {
+     "team": "Atlanta Falcons",
+     "player": "Bijan Robinson",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873025"
+    },
+    {
+     "team": "Tampa Bay Buccaneers",
+     "player": "Baker Mayfield",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873025"
+    },
+    {
+     "team": "Tampa Bay Buccaneers",
+     "player": "Bucky Irving",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873025"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "Q9Mg4afregA",
+     "title": "Atlanta Falcons vs. Tampa Bay Buccaneers Game Highlights | NFL 2024 Season Week 8",
+     "label": "Last meeting: Falcons vs. Buccaneers",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2024-10-27",
+     "duration_s": 771,
+     "thumb": "https://i.ytimg.com/vi/Q9Mg4afregA/hqdefault.jpg",
+     "kind": "matchup",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "6PDASNSZQFI",
+     "title": "San Francisco 49ers vs Atlanta Falcons Game Highlights | 2026 NFL Season Week 7",
+     "label": "Falcons's last game: vs. 49ers",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 1002,
+     "thumb": "https://i.ytimg.com/vi/6PDASNSZQFI/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Atlanta Falcons",
+     "opponent": "San Francisco 49ers",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "KHLfLsKZlRg",
+     "title": "Tampa Bay Buccaneers vs Carolina Panthers Game Highlights | 2026 NFL Season Week 7",
+     "label": "Buccaneers's last game: vs. Panthers",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 788,
+     "thumb": "https://i.ytimg.com/vi/KHLfLsKZlRg/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Tampa Bay Buccaneers",
+     "opponent": "Carolina Panthers",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "aSM3eSsFv0Q",
+     "title": "MICHAEL PENIX DROPS A DIME ON NICK MUSE AND GETS THE TD",
+     "label": "Michael Penix Jr. highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 34,
+     "thumb": "https://i.ytimg.com/vi/aSM3eSsFv0Q/hqdefault.jpg",
+     "kind": "player",
+     "player": "Michael Penix Jr.",
+     "team": "Atlanta Falcons",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "WqGyNkVhg6M",
+     "title": "Bijan Robinson's best plays from 213-yard, 2-TD game vs. Packers | Week 3",
+     "label": "Bijan Robinson highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-09-24",
+     "duration_s": 172,
+     "thumb": "https://i.ytimg.com/vi/WqGyNkVhg6M/hqdefault.jpg",
+     "kind": "player",
+     "player": "Bijan Robinson",
+     "team": "Atlanta Falcons",
+     "player_basis": "ESPN season leader, rushing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "d_PjzJhRQgk",
+     "title": "Baker Mayfield escapes the pocket and throws for the tD",
+     "label": "Baker Mayfield highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 31,
+     "thumb": "https://i.ytimg.com/vi/d_PjzJhRQgk/hqdefault.jpg",
+     "kind": "player",
+     "player": "Baker Mayfield",
+     "team": "Tampa Bay Buccaneers",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "OkVGpyi-JWU",
+     "title": "Bucky Irving's best plays from 175-yard, 2-TD game | Week 5",
+     "label": "Bucky Irving highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-08",
+     "duration_s": 153,
+     "thumb": "https://i.ytimg.com/vi/OkVGpyi-JWU/hqdefault.jpg",
+     "kind": "player",
+     "player": "Bucky Irving",
+     "team": "Tampa Bay Buccaneers",
+     "player_basis": "ESPN season leader, rushing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873028",
@@ -2220,7 +3121,144 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/ind and https://www.espn.com/nfl/team/_/name/jax, retrieved Oct 27, 4:04 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Indianapolis Colts",
+     "player": "Daniel Jones",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873028"
+    },
+    {
+     "team": "Indianapolis Colts",
+     "player": "Jonathan Taylor",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873028"
+    },
+    {
+     "team": "Jacksonville Jaguars",
+     "player": "Trevor Lawrence",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873028"
+    },
+    {
+     "team": "Jacksonville Jaguars",
+     "player": "Parker Washington",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873028"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "9OLSbeAunDo",
+     "title": "Jacksonville Jaguars vs. Indianapolis Colts Game Highlights | NFL 2025 Season Week 17",
+     "label": "Last meeting: Colts vs. Jaguars",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2025-12-28",
+     "duration_s": 771,
+     "thumb": "https://i.ytimg.com/vi/9OLSbeAunDo/hqdefault.jpg",
+     "kind": "matchup",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "4PyjDuD7-4I",
+     "title": "Indianapolis Colts vs. Minnesota Vikings Game Highlights | NFL 2026 Season Week 7",
+     "label": "Colts's last game: vs. Vikings",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 624,
+     "thumb": "https://i.ytimg.com/vi/4PyjDuD7-4I/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Indianapolis Colts",
+     "opponent": "Minnesota Vikings",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "SQT1S7J4s-o",
+     "title": "Houston Texans vs. Jacksonville Jaguars Game Highlights | 2026 NFL Season Week 6",
+     "label": "Jaguars's last game: vs. Texans",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-18",
+     "duration_s": 1025,
+     "thumb": "https://i.ytimg.com/vi/SQT1S7J4s-o/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Jacksonville Jaguars",
+     "opponent": "Houston Texans",
+     "game_date": "2026-10-18",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "ffkcAuBGs0c",
+     "title": "Jonathan Taylor's best plays from 110-yard game vs. Vikings | Week 7",
+     "label": "Jonathan Taylor highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 97,
+     "thumb": "https://i.ytimg.com/vi/ffkcAuBGs0c/hqdefault.jpg",
+     "kind": "player",
+     "player": "Jonathan Taylor",
+     "team": "Indianapolis Colts",
+     "player_basis": "ESPN season leader, rushing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "9kfx0LiGPEs",
+     "title": "Trevor Lawrence's best plays from 3-TD game vs. Patriots | Week 3",
+     "label": "Trevor Lawrence highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-09-27",
+     "duration_s": 240,
+     "thumb": "https://i.ytimg.com/vi/9kfx0LiGPEs/hqdefault.jpg",
+     "kind": "player",
+     "player": "Trevor Lawrence",
+     "team": "Jacksonville Jaguars",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "sW0COtxlXWo",
+     "title": "Parker Washington CLUTCH One Handed TD",
+     "label": "Parker Washington highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-11",
+     "duration_s": 60,
+     "thumb": "https://i.ytimg.com/vi/sW0COtxlXWo/hqdefault.jpg",
+     "kind": "player",
+     "player": "Parker Washington",
+     "team": "Jacksonville Jaguars",
+     "player_basis": "ESPN season leader, receiving yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873032",
@@ -2466,7 +3504,129 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/lac and https://www.espn.com/nfl/team/_/name/lar, retrieved Oct 27, 4:04 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Los Angeles Chargers",
+     "player": "Justin Herbert",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873032"
+    },
+    {
+     "team": "Los Angeles Chargers",
+     "player": "Omarion Hampton",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873032"
+    },
+    {
+     "team": "Los Angeles Rams",
+     "player": "Matthew Stafford",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873032"
+    },
+    {
+     "team": "Los Angeles Rams",
+     "player": "Kyren Williams",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873032"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "B5OVcasfeTU",
+     "title": "Los Angeles Chargers vs Kansas City Chiefs Game Highlights | 2026 NFL Season Week 6",
+     "label": "Chargers's last game: vs. Chiefs",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-18",
+     "duration_s": 989,
+     "thumb": "https://i.ytimg.com/vi/B5OVcasfeTU/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Los Angeles Chargers",
+     "opponent": "Kansas City Chiefs",
+     "game_date": "2026-10-18",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "BfUbn1BtRpI",
+     "title": "Rams Top Plays In Week 7 Win vs. Raiders: Davis Allen's 2-TDs, Blake Corum's Best Runs & More",
+     "label": "Rams's last game: vs. Raiders",
+     "channel": "Los Angeles Rams",
+     "channel_id": "UCyJ6yZdVUkBvt2vl4R03jcA",
+     "published": "2026-10-25",
+     "duration_s": 299,
+     "thumb": "https://i.ytimg.com/vi/BfUbn1BtRpI/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Los Angeles Rams",
+     "opponent": "Las Vegas Raiders",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "1szB3DIu2aE",
+     "title": "OMARION HAMPTON GETS HIS 2ND TD RUN OF 2026",
+     "label": "Omarion Hampton highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-09-20",
+     "duration_s": 16,
+     "thumb": "https://i.ytimg.com/vi/1szB3DIu2aE/hqdefault.jpg",
+     "kind": "player",
+     "player": "Omarion Hampton",
+     "team": "Los Angeles Chargers",
+     "player_basis": "ESPN season leader, rushing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "vDI4f5t0EJE",
+     "title": "Matthew Stafford's best plays from 3-TD, 195-yard game vs. Raiders | Week 7",
+     "label": "Matthew Stafford highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 162,
+     "thumb": "https://i.ytimg.com/vi/vDI4f5t0EJE/hqdefault.jpg",
+     "kind": "player",
+     "player": "Matthew Stafford",
+     "team": "Los Angeles Rams",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "MG4l35kF2zs",
+     "title": "Kyren Williams' Best Carries From 1-Touchdown, 99-Yard Game vs. Raiders In Week 7",
+     "label": "Kyren Williams highlights",
+     "channel": "Los Angeles Rams",
+     "channel_id": "UCyJ6yZdVUkBvt2vl4R03jcA",
+     "published": "2026-10-25",
+     "duration_s": 180,
+     "thumb": "https://i.ytimg.com/vi/MG4l35kF2zs/hqdefault.jpg",
+     "kind": "player",
+     "player": "Kyren Williams",
+     "team": "Los Angeles Rams",
+     "player_basis": "ESPN season leader, rushing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873033",
@@ -2712,7 +3872,162 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/kc and https://www.espn.com/nfl/team/_/name/den, retrieved Oct 27, 4:04 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Kansas City Chiefs",
+     "player": "Patrick Mahomes",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873033"
+    },
+    {
+     "team": "Kansas City Chiefs",
+     "player": "Kenneth Walker III",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873033"
+    },
+    {
+     "team": "Denver Broncos",
+     "player": "Bo Nix",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873033"
+    },
+    {
+     "team": "Denver Broncos",
+     "player": "J.K. Dobbins",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873033"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "RYh8_uw45Fw",
+     "title": "Denver Broncos vs Kansas City Chiefs Game Highlights | 2026 NFL Season Week 1",
+     "label": "Last meeting: Chiefs vs. Broncos",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-09-14",
+     "duration_s": 1003,
+     "thumb": "https://i.ytimg.com/vi/RYh8_uw45Fw/hqdefault.jpg",
+     "kind": "matchup",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "dIfN83Krivs",
+     "title": "Kansas City Chiefs vs. Seattle Seahawks Game Highlights | NFL 2026 Season Week 7",
+     "label": "Chiefs's last game: vs. Seahawks",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 944,
+     "thumb": "https://i.ytimg.com/vi/dIfN83Krivs/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Kansas City Chiefs",
+     "opponent": "Seattle Seahawks",
+     "game_date": "2026-10-26",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "ELahNguVTLM",
+     "title": "Denver Broncos vs Arizona Cardinals Game Highlights | 2026 NFL Season Week 7",
+     "label": "Broncos's last game: vs. Cardinals",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 1136,
+     "thumb": "https://i.ytimg.com/vi/ELahNguVTLM/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Denver Broncos",
+     "opponent": "Arizona Cardinals",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "DwXmwtwl11w",
+     "title": "Patrick Mahomes' best plays from 3-TD game | Week 1",
+     "label": "Patrick Mahomes highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-09-14",
+     "duration_s": 137,
+     "thumb": "https://i.ytimg.com/vi/DwXmwtwl11w/hqdefault.jpg",
+     "kind": "player",
+     "player": "Patrick Mahomes",
+     "team": "Kansas City Chiefs",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "ht4MHzWNj4g",
+     "title": "Kenneth Walker III's best runs from 128-yard, 2-TD game vs. Chargers | Week 6",
+     "label": "Kenneth Walker III highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-18",
+     "duration_s": 191,
+     "thumb": "https://i.ytimg.com/vi/ht4MHzWNj4g/hqdefault.jpg",
+     "kind": "player",
+     "player": "Kenneth Walker III",
+     "team": "Kansas City Chiefs",
+     "player_basis": "ESPN season leader, rushing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "zX8JE8iYDU0",
+     "title": "BO NIX 62-YARD TD RUN!",
+     "label": "Bo Nix highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 46,
+     "thumb": "https://i.ytimg.com/vi/zX8JE8iYDU0/hqdefault.jpg",
+     "kind": "player",
+     "player": "Bo Nix",
+     "team": "Denver Broncos",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "reRyd4ZPM0w",
+     "title": "J.K. DOBBINS GETS THE FIRST TD OF THE GAME",
+     "label": "J.K. Dobbins highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-15",
+     "duration_s": 25,
+     "thumb": "https://i.ytimg.com/vi/reRyd4ZPM0w/hqdefault.jpg",
+     "kind": "player",
+     "player": "J.K. Dobbins",
+     "team": "Denver Broncos",
+     "player_basis": "ESPN season leader, rushing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873034",
@@ -2958,7 +4273,162 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/ne and https://www.espn.com/nfl/team/_/name/mia, retrieved Oct 27, 4:04 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "New England Patriots",
+     "player": "Drake Maye",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873034"
+    },
+    {
+     "team": "New England Patriots",
+     "player": "Hunter Henry",
+     "position": "TE",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873034"
+    },
+    {
+     "team": "Miami Dolphins",
+     "player": "Malik Willis",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873034"
+    },
+    {
+     "team": "Miami Dolphins",
+     "player": "Ollie Gordon II",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873034"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "WOUY5H6b6N0",
+     "title": "Miami Dolphins vs New England Patriots Game Highlights | 2025 NFL Season Week 18",
+     "label": "Last meeting: Patriots vs. Dolphins",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-01-04",
+     "duration_s": 708,
+     "thumb": "https://i.ytimg.com/vi/WOUY5H6b6N0/hqdefault.jpg",
+     "kind": "matchup",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "Urfce838vEc",
+     "title": "New England Patriots vs Chicago Bears Game Highlights | 2026 NFL Season Week 7",
+     "label": "Patriots's last game: vs. Bears",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-22",
+     "duration_s": 1191,
+     "thumb": "https://i.ytimg.com/vi/Urfce838vEc/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "New England Patriots",
+     "opponent": "Chicago Bears",
+     "game_date": "2026-10-23",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "iXW84N92-vE",
+     "title": "Miami Dolphins vs. New York Jets Game Highlights | 2026 NFL Season Week 7",
+     "label": "Dolphins's last game: vs. Jets",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 911,
+     "thumb": "https://i.ytimg.com/vi/iXW84N92-vE/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Miami Dolphins",
+     "opponent": "New York Jets",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "kKFOB4YyTOY",
+     "title": "Drake Maye's best plays from 5-TD game vs. Raiders | Week 5",
+     "label": "Drake Maye highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-11",
+     "duration_s": 251,
+     "thumb": "https://i.ytimg.com/vi/kKFOB4YyTOY/hqdefault.jpg",
+     "kind": "player",
+     "player": "Drake Maye",
+     "team": "New England Patriots",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "8043CzAJzWo",
+     "title": "Drake Maye with a strike to Hunter Henry",
+     "label": "Hunter Henry highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-11",
+     "duration_s": 41,
+     "thumb": "https://i.ytimg.com/vi/8043CzAJzWo/hqdefault.jpg",
+     "kind": "player",
+     "player": "Hunter Henry",
+     "team": "New England Patriots",
+     "player_basis": "ESPN season leader, receiving yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "O_8UYPuhA6I",
+     "title": "Malik Willis' best plays from 3-TD game vs. Jets | Week 7",
+     "label": "Malik Willis highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 198,
+     "thumb": "https://i.ytimg.com/vi/O_8UYPuhA6I/hqdefault.jpg",
+     "kind": "player",
+     "player": "Malik Willis",
+     "team": "Miami Dolphins",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "egIcml1c31M",
+     "title": "Ollie Gordon takes it to the outside for the TD",
+     "label": "Ollie Gordon II highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-04",
+     "duration_s": 48,
+     "thumb": "https://i.ytimg.com/vi/egIcml1c31M/hqdefault.jpg",
+     "kind": "player",
+     "player": "Ollie Gordon II",
+     "team": "Miami Dolphins",
+     "player_basis": "ESPN season leader, rushing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873035",
@@ -3204,7 +4674,162 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/phi and https://www.espn.com/nfl/team/_/name/wsh, retrieved Oct 27, 4:04 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Philadelphia Eagles",
+     "player": "Jalen Hurts",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873035"
+    },
+    {
+     "team": "Philadelphia Eagles",
+     "player": "DeVonta Smith",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873035"
+    },
+    {
+     "team": "Washington Commanders",
+     "player": "Jayden Daniels",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873035"
+    },
+    {
+     "team": "Washington Commanders",
+     "player": "Jacory Croskey-Merritt",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873035"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "UYunnfDMXGc",
+     "title": "Washington Commanders vs Philadelphia Eagles Game Highlights | 2026 NFL Week 1",
+     "label": "Last meeting: Eagles vs. Commanders",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-09-13",
+     "duration_s": 1081,
+     "thumb": "https://i.ytimg.com/vi/UYunnfDMXGc/hqdefault.jpg",
+     "kind": "matchup",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "6Hdk00wyWZk",
+     "title": "Dallas Cowboys vs Philadelphia Eagles Game Highlights | 2026 NFL Season Week 7",
+     "label": "Eagles's last game: vs. Cowboys",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-26",
+     "duration_s": 851,
+     "thumb": "https://i.ytimg.com/vi/6Hdk00wyWZk/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Philadelphia Eagles",
+     "opponent": "Dallas Cowboys",
+     "game_date": "2026-10-27",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "EM4Bq_uqLQ0",
+     "title": "Washington Commanders vs San Francisco 49ers Game Highlights | 2026 NFL Season Week 6",
+     "label": "Commanders's last game: vs. 49ers",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-19",
+     "duration_s": 1095,
+     "thumb": "https://i.ytimg.com/vi/EM4Bq_uqLQ0/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Washington Commanders",
+     "opponent": "San Francisco 49ers",
+     "game_date": "2026-10-20",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "WebBQ1BzA9A",
+     "title": "CLUTCH LAST MIN TD FROM JALEN HURTS AND DARIUS COOPER",
+     "label": "Jalen Hurts highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-09-20",
+     "duration_s": 53,
+     "thumb": "https://i.ytimg.com/vi/WebBQ1BzA9A/hqdefault.jpg",
+     "kind": "player",
+     "player": "Jalen Hurts",
+     "team": "Philadelphia Eagles",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "xOcG5N6L8gU",
+     "title": "DeVonta Smith's best plays from 117-yard game vs. Titans | Week 2",
+     "label": "DeVonta Smith highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-09-20",
+     "duration_s": 131,
+     "thumb": "https://i.ytimg.com/vi/xOcG5N6L8gU/hqdefault.jpg",
+     "kind": "player",
+     "player": "DeVonta Smith",
+     "team": "Philadelphia Eagles",
+     "player_basis": "ESPN season leader, receiving yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "mtrZDT_FgJI",
+     "title": "Jayden Daniels' best plays from 300-yard, 2-TD game vs. 49ers | Week 6",
+     "label": "Jayden Daniels highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-19",
+     "duration_s": 113,
+     "thumb": "https://i.ytimg.com/vi/mtrZDT_FgJI/hqdefault.jpg",
+     "kind": "player",
+     "player": "Jayden Daniels",
+     "team": "Washington Commanders",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "ng-1Pl_cBuY",
+     "title": "Croskey-Merritt breaks loose for a Commanders' TD",
+     "label": "Jacory Croskey-Merritt highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-11",
+     "duration_s": 30,
+     "thumb": "https://i.ytimg.com/vi/ng-1Pl_cBuY/hqdefault.jpg",
+     "kind": "player",
+     "player": "Jacory Croskey-Merritt",
+     "team": "Washington Commanders",
+     "player_basis": "ESPN season leader, rushing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873036",
@@ -3450,7 +5075,144 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/chi and https://www.espn.com/nfl/team/_/name/sea, retrieved Oct 27, 4:04 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Chicago Bears",
+     "player": "Caleb Williams",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873036"
+    },
+    {
+     "team": "Chicago Bears",
+     "player": "Luther Burden III",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873036"
+    },
+    {
+     "team": "Seattle Seahawks",
+     "player": "Sam Darnold",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873036"
+    },
+    {
+     "team": "Seattle Seahawks",
+     "player": "Jaxon Smith-Njigba",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873036"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "dcBSQorBQd0",
+     "title": "Seattle Seahawks vs. Chicago Bears Game Highlights | NFL 2024 Season Week 17",
+     "label": "Last meeting: Bears vs. Seahawks",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2024-12-26",
+     "duration_s": 495,
+     "thumb": "https://i.ytimg.com/vi/dcBSQorBQd0/hqdefault.jpg",
+     "kind": "matchup",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "Urfce838vEc",
+     "title": "New England Patriots vs Chicago Bears Game Highlights | 2026 NFL Season Week 7",
+     "label": "Bears's last game: vs. Patriots",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-22",
+     "duration_s": 1191,
+     "thumb": "https://i.ytimg.com/vi/Urfce838vEc/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Chicago Bears",
+     "opponent": "New England Patriots",
+     "game_date": "2026-10-23",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "dIfN83Krivs",
+     "title": "Kansas City Chiefs vs. Seattle Seahawks Game Highlights | NFL 2026 Season Week 7",
+     "label": "Seahawks's last game: vs. Chiefs",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 944,
+     "thumb": "https://i.ytimg.com/vi/dIfN83Krivs/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "Seattle Seahawks",
+     "opponent": "Kansas City Chiefs",
+     "game_date": "2026-10-26",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "AWoan8tg6Eo",
+     "title": "Caleb Williams' best plays from 2-TD game vs. Patriots | Week 7",
+     "label": "Caleb Williams highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-22",
+     "duration_s": 255,
+     "thumb": "https://i.ytimg.com/vi/AWoan8tg6Eo/hqdefault.jpg",
+     "kind": "player",
+     "player": "Caleb Williams",
+     "team": "Chicago Bears",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "yTjMm2Z-22I",
+     "title": "Luther Burden III's best plays from 130-yard game vs. Patriots | Week 7",
+     "label": "Luther Burden III highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-22",
+     "duration_s": 77,
+     "thumb": "https://i.ytimg.com/vi/yTjMm2Z-22I/hqdefault.jpg",
+     "kind": "player",
+     "player": "Luther Burden III",
+     "team": "Chicago Bears",
+     "player_basis": "ESPN season leader, receiving yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "Y1Hi-50dmfM",
+     "title": "Jaxon Smith-Njigba's best plays from 150-yard game vs. Chiefs | Week 7",
+     "label": "Jaxon Smith-Njigba highlights",
+     "channel": "NFL",
+     "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+     "published": "2026-10-25",
+     "duration_s": 84,
+     "thumb": "https://i.ytimg.com/vi/Y1Hi-50dmfM/hqdefault.jpg",
+     "kind": "player",
+     "player": "Jaxon Smith-Njigba",
+     "team": "Seattle Seahawks",
+     "player_basis": "ESPN season leader, receiving yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   }
  ],
  "variant": "A"
