@@ -276,7 +276,7 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was Green Bay Packers −3.5 (Oct 27, 1:11 AM ET) and it is Green Bay Packers −3.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 48 (Oct 27, 12:32 AM ET) and it is 47.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was Green Bay Packers −3.5 (Oct 27, 1:11 AM ET) and it is Green Bay Packers −3.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 48 (Oct 27, 12:32 AM ET), then total 47.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -356,7 +356,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was Green Bay Packers −3.5 (Oct 27, 1:11 AM ET) and it is Green Bay Packers −3.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 48 (Oct 27, 12:32 AM ET) and it is 47.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was Green Bay Packers −3.5 (Oct 27, 1:11 AM ET) and it is Green Bay Packers −3.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 48 (Oct 27, 12:32 AM ET), then total 47.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -879,7 +879,7 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was Buffalo Bills −3.5 (Oct 27, 3:36 PM ET) and it is Buffalo Bills −3 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 53.5 (Oct 27, 11:26 AM ET) and it is 54.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was Buffalo Bills −3.5 (Oct 27, 3:36 PM ET) and it is Buffalo Bills −3 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 53.5 (Oct 27, 11:26 AM ET), then total 54.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -959,7 +959,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: Over 54.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was Buffalo Bills −3.5 (Oct 27, 3:36 PM ET) and it is Buffalo Bills −3 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 53.5 (Oct 27, 11:26 AM ET) and it is 54.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was Buffalo Bills −3.5 (Oct 27, 3:36 PM ET) and it is Buffalo Bills −3 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 53.5 (Oct 27, 11:26 AM ET), then total 54.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.0,
       "distance_from_total": 0.5
@@ -1337,7 +1337,7 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was Cincinnati Bengals −10.5 (Oct 27, 2:58 AM ET) and it is Cincinnati Bengals −10.5 now (Oct 28, 6:49 PM ET). No new consensus total posted since this week's window opened (Oct 27, 12:15 AM ET); it is still 46.5, so no total move is measured. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was Cincinnati Bengals −10.5 (Oct 27, 2:58 AM ET) and it is Cincinnati Bengals −10.5 now (Oct 28, 6:49 PM ET). No new consensus total posted since this week's window opened (Oct 27, 12:15 AM ET); it is 46.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET), so no total move is measured. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -1417,7 +1417,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was Cincinnati Bengals −10.5 (Oct 27, 2:58 AM ET) and it is Cincinnati Bengals −10.5 now (Oct 28, 6:49 PM ET). No new consensus total posted since this week's window opened (Oct 27, 12:15 AM ET); it is still 46.5, so no total move is measured. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was Cincinnati Bengals −10.5 (Oct 27, 2:58 AM ET) and it is Cincinnati Bengals −10.5 now (Oct 28, 6:49 PM ET). No new consensus total posted since this week's window opened (Oct 27, 12:15 AM ET); it is 46.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET), so no total move is measured. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -1785,7 +1785,7 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was Dallas Cowboys −6.5 (Oct 27, 2:48 AM ET) and it is Dallas Cowboys −7 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 54.5 (Oct 27, 2:48 AM ET) and it is 54.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was Dallas Cowboys −6.5 (Oct 27, 2:48 AM ET) and it is Dallas Cowboys −7 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 54.5 (Oct 27, 2:48 AM ET), then total 54.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -1865,7 +1865,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was Dallas Cowboys −6.5 (Oct 27, 2:48 AM ET) and it is Dallas Cowboys −7 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 54.5 (Oct 27, 2:48 AM ET) and it is 54.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was Dallas Cowboys −6.5 (Oct 27, 2:48 AM ET) and it is Dallas Cowboys −7 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 54.5 (Oct 27, 2:48 AM ET), then total 54.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.0,
       "distance_from_total": 0.5
@@ -2238,7 +2238,7 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was Detroit Lions −3.5 (Oct 27, 3:00 AM ET) and it is Detroit Lions −3.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 3:00 AM ET) and it is 46.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was Detroit Lions −3.5 (Oct 27, 3:00 AM ET) and it is Detroit Lions −3.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 3:00 AM ET), then total 46.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -2318,7 +2318,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was Detroit Lions −3.5 (Oct 27, 3:00 AM ET) and it is Detroit Lions −3.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 3:00 AM ET) and it is 46.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was Detroit Lions −3.5 (Oct 27, 3:00 AM ET) and it is Detroit Lions −3.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 3:00 AM ET), then total 46.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -2741,7 +2741,7 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was New York Jets −1.5 (Oct 27, 3:00 AM ET) and it is New York Jets −1.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 45.5 (Oct 27, 9:05 AM ET) and it is 45.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was New York Jets −1.5 (Oct 27, 3:00 AM ET) and it is New York Jets −1.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 45.5 (Oct 27, 9:05 AM ET), then total 45.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -2821,7 +2821,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was New York Jets −1.5 (Oct 27, 3:00 AM ET) and it is New York Jets −1.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 45.5 (Oct 27, 9:05 AM ET) and it is 45.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was New York Jets −1.5 (Oct 27, 3:00 AM ET) and it is New York Jets −1.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 45.5 (Oct 27, 9:05 AM ET), then total 45.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -3252,7 +3252,7 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was Pittsburgh Steelers −3.5 (Oct 27, 1:09 PM ET) and it is Pittsburgh Steelers −3.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 39.5 (Oct 27, 3:00 AM ET) and it is 39.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was Pittsburgh Steelers −3.5 (Oct 27, 1:09 PM ET) and it is Pittsburgh Steelers −3.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 39.5 (Oct 27, 3:00 AM ET), then total 39.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -3332,7 +3332,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was Pittsburgh Steelers −3.5 (Oct 27, 1:09 PM ET) and it is Pittsburgh Steelers −3.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 39.5 (Oct 27, 3:00 AM ET) and it is 39.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was Pittsburgh Steelers −3.5 (Oct 27, 1:09 PM ET) and it is Pittsburgh Steelers −3.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 39.5 (Oct 27, 3:00 AM ET), then total 39.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -3789,7 +3789,7 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was Tampa Bay Buccaneers −2.5 (Oct 27, 11:22 AM ET) and it is Tampa Bay Buccaneers −2.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 9:39 AM ET) and it is 45.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was Tampa Bay Buccaneers −2.5 (Oct 27, 11:22 AM ET) and it is Tampa Bay Buccaneers −2.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 9:39 AM ET), then total 45.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -3869,7 +3869,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: Under 45.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was Tampa Bay Buccaneers −2.5 (Oct 27, 11:22 AM ET) and it is Tampa Bay Buccaneers −2.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 9:39 AM ET) and it is 45.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was Tampa Bay Buccaneers −2.5 (Oct 27, 11:22 AM ET) and it is Tampa Bay Buccaneers −2.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 9:39 AM ET), then total 45.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -4336,7 +4336,7 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was Jacksonville Jaguars −7.5 (Oct 27, 12:39 PM ET) and it is Jacksonville Jaguars −9.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 8:27 AM ET) and it is 46.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was Jacksonville Jaguars −7.5 (Oct 27, 12:39 PM ET) and it is Jacksonville Jaguars −9.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 8:27 AM ET), then total 46.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -4416,7 +4416,7 @@
       "side_line": "Side: Jacksonville Jaguars −9.5 · Likes this side",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was Jacksonville Jaguars −7.5 (Oct 27, 12:39 PM ET) and it is Jacksonville Jaguars −9.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 8:27 AM ET) and it is 46.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was Jacksonville Jaguars −7.5 (Oct 27, 12:39 PM ET) and it is Jacksonville Jaguars −9.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 8:27 AM ET), then total 46.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -4719,7 +4719,7 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was Los Angeles Rams −6.5 (Oct 27, 3:02 AM ET) and it is Los Angeles Rams −6.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 44.5 (Oct 27, 8:37 AM ET) and it is 45.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was Los Angeles Rams −6.5 (Oct 27, 3:02 AM ET) and it is Los Angeles Rams −6.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 44.5 (Oct 27, 8:37 AM ET), then total 45.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -4799,7 +4799,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: Over 45.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was Los Angeles Rams −6.5 (Oct 27, 3:02 AM ET) and it is Los Angeles Rams −6.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 44.5 (Oct 27, 8:37 AM ET) and it is 45.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was Los Angeles Rams −6.5 (Oct 27, 3:02 AM ET) and it is Los Angeles Rams −6.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 44.5 (Oct 27, 8:37 AM ET), then total 45.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -5233,7 +5233,7 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was Kansas City Chiefs −1.5 (Oct 27, 7:03 PM ET) and it is Kansas City Chiefs −1.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 41.5 (Oct 27, 10:46 AM ET) and it is 40.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was Kansas City Chiefs −1.5 (Oct 27, 7:03 PM ET) and it is Kansas City Chiefs −1.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 41.5 (Oct 27, 10:46 AM ET), then total 40.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -5313,7 +5313,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: Under 40.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was Kansas City Chiefs −1.5 (Oct 27, 7:03 PM ET) and it is Kansas City Chiefs −1.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 41.5 (Oct 27, 10:46 AM ET) and it is 40.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was Kansas City Chiefs −1.5 (Oct 27, 7:03 PM ET) and it is Kansas City Chiefs −1.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 41.5 (Oct 27, 10:46 AM ET), then total 40.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -5836,7 +5836,7 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was New England Patriots −7.5 (Oct 27, 1:59 PM ET) and it is New England Patriots −7 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 44.5 (Oct 27, 3:02 PM ET) and it is 44 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was New England Patriots −7.5 (Oct 27, 1:59 PM ET) and it is New England Patriots −7 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 44.5 (Oct 27, 3:02 PM ET), then total 44 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -5916,7 +5916,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was New England Patriots −7.5 (Oct 27, 1:59 PM ET) and it is New England Patriots −7 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 44.5 (Oct 27, 3:02 PM ET) and it is 44 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was New England Patriots −7.5 (Oct 27, 1:59 PM ET) and it is New England Patriots −7 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 44.5 (Oct 27, 3:02 PM ET), then total 44 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.0,
       "distance_from_total": 0.0
@@ -6318,7 +6318,7 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was Washington Commanders −4.5 (Oct 27, 3:02 AM ET) and it is Washington Commanders −5.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 40.5 (Oct 27, 8:37 AM ET) and it is 40.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was Washington Commanders −4.5 (Oct 27, 3:02 AM ET) and it is Washington Commanders −5.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 40.5 (Oct 27, 8:37 AM ET), then total 40.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -6398,7 +6398,7 @@
       "side_line": "Side: Washington Commanders −5.5 · Likes this side",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was Washington Commanders −4.5 (Oct 27, 3:02 AM ET) and it is Washington Commanders −5.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 40.5 (Oct 27, 8:37 AM ET) and it is 40.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was Washington Commanders −4.5 (Oct 27, 3:02 AM ET) and it is Washington Commanders −5.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 40.5 (Oct 27, 8:37 AM ET), then total 40.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -6701,7 +6701,7 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was Seattle Seahawks −3.5 (Oct 27, 7:44 AM ET) and it is Seattle Seahawks −3 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 12:55 PM ET) and it is 46.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was Seattle Seahawks −3.5 (Oct 27, 7:44 AM ET) and it is Seattle Seahawks −3 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 12:55 PM ET), then total 46.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -6781,7 +6781,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was Seattle Seahawks −3.5 (Oct 27, 7:44 AM ET) and it is Seattle Seahawks −3 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 12:55 PM ET) and it is 46.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was Seattle Seahawks −3.5 (Oct 27, 7:44 AM ET) and it is Seattle Seahawks −3 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 12:55 PM ET), then total 46.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.0,
       "distance_from_total": 0.5
