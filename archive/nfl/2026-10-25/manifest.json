@@ -8,11 +8,11 @@
  "pending_games": [],
  "files": {
   "games.json": {
-   "bytes": 449976,
+   "bytes": 407498,
    "source": "main@548ca49:nfl/games.json"
   },
   "monday.json": {
-   "bytes": 23663,
+   "bytes": 23669,
    "source": "main@548ca49:nfl/monday.json"
   },
   "results.json": {
