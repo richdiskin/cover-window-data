@@ -767,7 +767,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Chicago Bears −3 (Oct 20, 2026 05:41 UTC) and is Chicago Bears −3 now (Oct 20, 2026 12:52 UTC). Total opened 50.5 (Oct 20, 2026 06:22 UTC) and is 50.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Chicago Bears −3 (Oct 20, 2026, 1:41 AM ET), then Chicago Bears −3 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 50.5 (Oct 20, 2026, 2:22 AM ET), then total 50.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -847,7 +847,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Chicago Bears −3 (Oct 20, 2026 05:41 UTC) and is Chicago Bears −3 now (Oct 20, 2026 12:52 UTC). Total opened 50.5 (Oct 20, 2026 06:22 UTC) and is 50.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Chicago Bears −3 (Oct 20, 2026, 1:41 AM ET), then Chicago Bears −3 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 50.5 (Oct 20, 2026, 2:22 AM ET), then total 50.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.0,
       "distance_from_total": 0.5
@@ -1278,7 +1278,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Pittsburgh Steelers −3.5 (Oct 20, 2026 06:38 UTC) and is Pittsburgh Steelers −3.5 now (Oct 20, 2026 12:52 UTC). Total opened 44.5 (Oct 20, 2026 06:38 UTC) and is 44.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Pittsburgh Steelers −3.5 (Oct 20, 2026, 2:38 AM ET), then Pittsburgh Steelers −3.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 44.5 (Oct 20, 2026, 2:38 AM ET), then total 44.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -1358,7 +1358,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Pittsburgh Steelers −3.5 (Oct 20, 2026 06:38 UTC) and is Pittsburgh Steelers −3.5 now (Oct 20, 2026 12:52 UTC). Total opened 44.5 (Oct 20, 2026 06:38 UTC) and is 44.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Pittsburgh Steelers −3.5 (Oct 20, 2026, 2:38 AM ET), then Pittsburgh Steelers −3.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 44.5 (Oct 20, 2026, 2:38 AM ET), then total 44.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -1848,7 +1848,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened San Francisco 49ers −3.5 (Oct 20, 2026 04:20 UTC) and is San Francisco 49ers −3.5 now (Oct 20, 2026 12:52 UTC). Total opened 49.5 (Oct 20, 2026 04:18 UTC) and is 50.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened San Francisco 49ers −3.5 (Oct 20, 2026, 12:20 AM ET), then San Francisco 49ers −3.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 49.5 (Oct 20, 2026, 12:18 AM ET), then total 50.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -1928,7 +1928,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: Over 50.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened San Francisco 49ers −3.5 (Oct 20, 2026 04:20 UTC) and is San Francisco 49ers −3.5 now (Oct 20, 2026 12:52 UTC). Total opened 49.5 (Oct 20, 2026 04:18 UTC) and is 50.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened San Francisco 49ers −3.5 (Oct 20, 2026, 12:20 AM ET), then San Francisco 49ers −3.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 49.5 (Oct 20, 2026, 12:18 AM ET), then total 50.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -2405,7 +2405,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Cleveland Browns −1.5 (Oct 20, 2026 06:46 UTC) and is Cleveland Browns −1.5 now (Oct 20, 2026 12:52 UTC). Total opened 38.5 (Oct 20, 2026 06:51 UTC) and is 38.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Cleveland Browns −1.5 (Oct 20, 2026, 2:46 AM ET), then Cleveland Browns −1.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 38.5 (Oct 20, 2026, 2:51 AM ET), then total 38.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -2485,7 +2485,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Cleveland Browns −1.5 (Oct 20, 2026 06:46 UTC) and is Cleveland Browns −1.5 now (Oct 20, 2026 12:52 UTC). Total opened 38.5 (Oct 20, 2026 06:51 UTC) and is 38.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Cleveland Browns −1.5 (Oct 20, 2026, 2:46 AM ET), then Cleveland Browns −1.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 38.5 (Oct 20, 2026, 2:51 AM ET), then total 38.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -2922,7 +2922,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Minnesota Vikings −6.5 (Oct 20, 2026 06:36 UTC) and is Minnesota Vikings −6.5 now (Oct 20, 2026 12:52 UTC). Total opened 41.5 (Oct 20, 2026 06:51 UTC) and is 41.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Minnesota Vikings −6.5 (Oct 20, 2026, 2:36 AM ET), then Minnesota Vikings −6.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 41.5 (Oct 20, 2026, 2:51 AM ET), then total 41.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -3002,7 +3002,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Minnesota Vikings −6.5 (Oct 20, 2026 06:36 UTC) and is Minnesota Vikings −6.5 now (Oct 20, 2026 12:52 UTC). Total opened 41.5 (Oct 20, 2026 06:51 UTC) and is 41.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Minnesota Vikings −6.5 (Oct 20, 2026, 2:36 AM ET), then Minnesota Vikings −6.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 41.5 (Oct 20, 2026, 2:51 AM ET), then total 41.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -3447,7 +3447,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened New York Jets −4.5 (Oct 20, 2026 06:38 UTC) and is New York Jets −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 39.5 (Oct 20, 2026 06:38 UTC) and is 39.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened New York Jets −4.5 (Oct 20, 2026, 2:38 AM ET), then New York Jets −4.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 39.5 (Oct 20, 2026, 2:38 AM ET), then total 39.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -3527,7 +3527,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened New York Jets −4.5 (Oct 20, 2026 06:38 UTC) and is New York Jets −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 39.5 (Oct 20, 2026 06:38 UTC) and is 39.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened New York Jets −4.5 (Oct 20, 2026, 2:38 AM ET), then New York Jets −4.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 39.5 (Oct 20, 2026, 2:38 AM ET), then total 39.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -3978,7 +3978,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Carolina Panthers −3.5 (Oct 20, 2026 11:41 UTC) and is Carolina Panthers −3.5 now (Oct 20, 2026 12:52 UTC). Total opened 44.5 (Oct 20, 2026 06:51 UTC) and is 44.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Carolina Panthers −3.5 (Oct 20, 2026, 7:41 AM ET), then Carolina Panthers −3.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 44.5 (Oct 20, 2026, 2:51 AM ET), then total 44.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -4058,7 +4058,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Carolina Panthers −3.5 (Oct 20, 2026 11:41 UTC) and is Carolina Panthers −3.5 now (Oct 20, 2026 12:52 UTC). Total opened 44.5 (Oct 20, 2026 06:51 UTC) and is 44.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Carolina Panthers −3.5 (Oct 20, 2026, 7:41 AM ET), then Carolina Panthers −3.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 44.5 (Oct 20, 2026, 2:51 AM ET), then total 44.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -4475,7 +4475,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Baltimore Ravens −3 (Oct 20, 2026 04:15 UTC) and is Baltimore Ravens −2.5 now (Oct 20, 2026 12:52 UTC). Total opened 51 (Oct 20, 2026 04:19 UTC) and is 51 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Baltimore Ravens −3 (Oct 20, 2026, 12:15 AM ET), then Baltimore Ravens −2.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 51 (Oct 20, 2026, 12:19 AM ET), then total 51 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -4555,7 +4555,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Baltimore Ravens −3 (Oct 20, 2026 04:15 UTC) and is Baltimore Ravens −2.5 now (Oct 20, 2026 12:52 UTC). Total opened 51 (Oct 20, 2026 04:19 UTC) and is 51 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Baltimore Ravens −3 (Oct 20, 2026, 12:15 AM ET), then Baltimore Ravens −2.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 51 (Oct 20, 2026, 12:19 AM ET), then total 51 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.0
@@ -5049,7 +5049,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Houston Texans −9.5 (Oct 20, 2026 06:38 UTC) and is Houston Texans −9.5 now (Oct 20, 2026 12:52 UTC). Total opened 43 (Oct 20, 2026 04:59 UTC) and is 43 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Houston Texans −9.5 (Oct 20, 2026, 2:38 AM ET), then Houston Texans −9.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 43 (Oct 20, 2026, 12:59 AM ET), then total 43 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -5129,7 +5129,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Houston Texans −9.5 (Oct 20, 2026 06:38 UTC) and is Houston Texans −9.5 now (Oct 20, 2026 12:52 UTC). Total opened 43 (Oct 20, 2026 04:59 UTC) and is 43 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Houston Texans −9.5 (Oct 20, 2026, 2:38 AM ET), then Houston Texans −9.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 43 (Oct 20, 2026, 12:59 AM ET), then total 43 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.0
@@ -5570,7 +5570,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Denver Broncos −4.5 (Oct 20, 2026 11:43 UTC) and is Denver Broncos −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 43.5 (Oct 20, 2026 05:45 UTC) and is 43.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Denver Broncos −4.5 (Oct 20, 2026, 7:43 AM ET), then Denver Broncos −4.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 43.5 (Oct 20, 2026, 1:45 AM ET), then total 43.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -5650,7 +5650,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Denver Broncos −4.5 (Oct 20, 2026 11:43 UTC) and is Denver Broncos −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 43.5 (Oct 20, 2026 05:45 UTC) and is 43.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Denver Broncos −4.5 (Oct 20, 2026, 7:43 AM ET), then Denver Broncos −4.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 43.5 (Oct 20, 2026, 1:45 AM ET), then total 43.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -6049,7 +6049,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Detroit Lions −3 (Oct 20, 2026 05:45 UTC) and is Detroit Lions −3 now (Oct 20, 2026 12:52 UTC). Total opened 53.5 (Oct 20, 2026 06:52 UTC) and is 53.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Detroit Lions −3 (Oct 20, 2026, 1:45 AM ET), then Detroit Lions −3 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 53.5 (Oct 20, 2026, 2:52 AM ET), then total 53.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -6129,7 +6129,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Detroit Lions −3 (Oct 20, 2026 05:45 UTC) and is Detroit Lions −3 now (Oct 20, 2026 12:52 UTC). Total opened 53.5 (Oct 20, 2026 06:52 UTC) and is 53.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Detroit Lions −3 (Oct 20, 2026, 1:45 AM ET), then Detroit Lions −3 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 53.5 (Oct 20, 2026, 2:52 AM ET), then total 53.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.0,
       "distance_from_total": 0.5
@@ -6557,7 +6557,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Los Angeles Rams −4.5 (Oct 20, 2026 06:52 UTC) and is Los Angeles Rams −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 47.5 (Oct 20, 2026 06:52 UTC) and is 47.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Los Angeles Rams −4.5 (Oct 20, 2026, 2:52 AM ET), then Los Angeles Rams −4.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 47.5 (Oct 20, 2026, 2:52 AM ET), then total 47.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -6637,7 +6637,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Los Angeles Rams −4.5 (Oct 20, 2026 06:52 UTC) and is Los Angeles Rams −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 47.5 (Oct 20, 2026 06:52 UTC) and is 47.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Los Angeles Rams −4.5 (Oct 20, 2026, 2:52 AM ET), then Los Angeles Rams −4.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 47.5 (Oct 20, 2026, 2:52 AM ET), then total 47.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -7089,7 +7089,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Seattle Seahawks −2.5 (Oct 20, 2026 06:55 UTC) and is Seattle Seahawks −2.5 now (Oct 20, 2026 12:52 UTC). Total opened 42.5 (Oct 20, 2026 06:52 UTC) and is 42.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Seattle Seahawks −2.5 (Oct 20, 2026, 2:55 AM ET), then Seattle Seahawks −2.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 42.5 (Oct 20, 2026, 2:52 AM ET), then total 42.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -7169,7 +7169,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Seattle Seahawks −2.5 (Oct 20, 2026 06:55 UTC) and is Seattle Seahawks −2.5 now (Oct 20, 2026 12:52 UTC). Total opened 42.5 (Oct 20, 2026 06:52 UTC) and is 42.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Seattle Seahawks −2.5 (Oct 20, 2026, 2:55 AM ET), then Seattle Seahawks −2.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 42.5 (Oct 20, 2026, 2:52 AM ET), then total 42.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -7459,7 +7459,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Dallas Cowboys −4.5 (Oct 20, 2026 06:36 UTC) and is Dallas Cowboys −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 44.5 (Oct 20, 2026 06:52 UTC) and is 44.5 now. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Dallas Cowboys −4.5 (Oct 20, 2026, 2:36 AM ET), then Dallas Cowboys −4.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 44.5 (Oct 20, 2026, 2:52 AM ET), then total 44.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -7539,7 +7539,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Dallas Cowboys −4.5 (Oct 20, 2026 06:36 UTC) and is Dallas Cowboys −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 44.5 (Oct 20, 2026 06:52 UTC) and is 44.5 now. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Dallas Cowboys −4.5 (Oct 20, 2026, 2:36 AM ET), then Dallas Cowboys −4.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). Total opened 44.5 (Oct 20, 2026, 2:52 AM ET), then total 44.5 (Action Network consensus, Oct 20, 2026, 8:52 AM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
