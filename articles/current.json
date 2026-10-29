@@ -4,9 +4,405 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 116,
+  "count": 120,
   "lead_id": "fanatic_team-indiana",
   "articles": [
+    {
+      "id": "fanatic_team-new-mexico-state-2026-10-28",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "new-mexico-state",
+      "team_ids": [
+        "new-mexico-state"
+      ],
+      "tab_id": "cusa",
+      "game_id": "401871057",
+      "title": "New Mexico State vs Jacksonville State: Aggies Shut Out 24-0 at Home",
+      "byline": "",
+      "matchup": "Final: Jacksonville State (6-2) 24, New Mexico State (3-5) 0, Wed., Oct. 28, Aggie Memorial Stadium, Las Cruces. Next: vs. Liberty, Sat., Nov. 7, 8:00 PM ET, Aggie Memorial Stadium, Las Cruces",
+      "date": "2026-10-28",
+      "word_count": 332,
+      "text": "Jacksonville State 24, New Mexico State 0. The Organ Mountains were going dark above Las Cruces on the Wednesday before Halloween, and the scariest sight in town was the zero next to our name at Aggie Memorial Stadium. A home shutout is a trick nobody in Dona Ana County asked for.\n\nLet me start with the good, because there was some. James Jones ran 20 times for 112 yards, and TJ Washington Jr. added 70 on 10 carries. We ran for 192 yards at 5.6 a carry, and on the ground we could hang with anybody. Our defense kept it 7-0 at halftime, too.\n\nTory Gethers was everywhere, with 10 tackles and two for loss. RJ Chapman intercepted Caden Creel and brought it back 53 yards, and Josiah Charles grabbed a second interception. Brad Vislisel got home for a sack. Those guys played their hearts out.\n\nThen the air attack never left the hangar. Adam Damante completed six of 19 throws for 29 yards with an interception. Our two field goal tries came up empty, we went 0 for 2 on fourth down, and you cannot win a game when the scoreboard never hears from you.\n\nAnd then there was Creel. The Jacksonville State quarterback ran 21 times for 211 yards, including an 84-yarder, and had a hand in two of the Gamecocks' three touchdowns. Their offense ran for 324 yards and kept the ball for 35:18. When a quarterback runs like that, a defense gets tired, and ours did.\n\nFolks around here put green chile on everything to make it better. I would put it on this film if I thought it would help.\n\nLiberty Comes to Las Cruces\n\nSo we are 3-5 and 2-2 in Conference USA, with four games left to set this right. After an open week, the Aggies stay home at Aggie Memorial Stadium to face Liberty on Saturday, Nov. 7, at 8:00 p.m. ET. Bring a jacket, bring your voice, and please, Aggies, bring some points.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Jacksonville State 24, New Mexico State 0. The Organ Mountains were going dark above Las Cruces on the Wednesday before Halloween, and the scariest sight in town was the zero next to our name at Aggie Memorial Stadium. A home shutout is a trick nobody in Dona Ana County asked for."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let me start with the good, because there was some. James Jones ran 20 times for 112 yards, and TJ Washington Jr. added 70 on 10 carries. We ran for 192 yards at 5.6 a carry, and on the ground we could hang with anybody. Our defense kept it 7-0 at halftime, too."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tory Gethers was everywhere, with 10 tackles and two for loss. RJ Chapman intercepted Caden Creel and brought it back 53 yards, and Josiah Charles grabbed a second interception. Brad Vislisel got home for a sack. Those guys played their hearts out."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the air attack never left the hangar. Adam Damante completed six of 19 throws for 29 yards with an interception. Our two field goal tries came up empty, we went 0 for 2 on fourth down, and you cannot win a game when the scoreboard never hears from you."
+        },
+        {
+          "type": "paragraph",
+          "text": "And then there was Creel. The Jacksonville State quarterback ran 21 times for 211 yards, including an 84-yarder, and had a hand in two of the Gamecocks' three touchdowns. Their offense ran for 324 yards and kept the ball for 35:18. When a quarterback runs like that, a defense gets tired, and ours did."
+        },
+        {
+          "type": "paragraph",
+          "text": "Folks around here put green chile on everything to make it better. I would put it on this film if I thought it would help."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Liberty Comes to Las Cruces"
+        },
+        {
+          "type": "paragraph",
+          "text": "So we are 3-5 and 2-2 in Conference USA, with four games left to set this right. After an open week, the Aggies stay home at Aggie Memorial Stadium to face Liberty on Saturday, Nov. 7, at 8:00 p.m. ET. Bring a jacket, bring your voice, and please, Aggies, bring some points."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "New Mexico State lost 24-0 to Jacksonville State on Wednesday, Oct. 28, at Aggie Memorial Stadium in Las Cruces. The Aggies are 3-5 and 2-2 in Conference USA."
+        },
+        {
+          "type": "fact",
+          "text": "James Jones ran 20 times for 112 yards, and Tory Gethers made 10 tackles."
+        },
+        {
+          "type": "fact",
+          "text": "RJ Chapman returned an interception 53 yards, and Josiah Charles added a second interception."
+        },
+        {
+          "type": "jab",
+          "text": "Jacksonville State's quarterback ran for 211 yards. We would like the Organ Mountains to block for us next time."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Jacksonville State 24, New Mexico State 0 (Oct. 28, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401871057"
+        },
+        {
+          "label": "ESPN game recap, Jacksonville State at New Mexico State",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401871057"
+        },
+        {
+          "label": "ESPN play-by-play, Jacksonville State at New Mexico State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401871057"
+        },
+        {
+          "label": "ESPN New Mexico State team page",
+          "url": "https://www.espn.com/college-football/team/_/id/166"
+        },
+        {
+          "label": "ESPN New Mexico State schedule (next game: vs. Liberty, Sat., Nov. 7, 8:00 PM ET, Aggie Memorial Stadium, Las Cruces)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/166"
+        },
+        {
+          "label": "Wikipedia: Organ Mountains, Las Cruces, N.M.",
+          "url": "https://en.wikipedia.org/wiki/Organ_Mountains"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-jacksonville-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "jacksonville-state",
+      "team_ids": [
+        "jacksonville-state"
+      ],
+      "tab_id": "cusa",
+      "game_id": "401871057",
+      "title": "Jacksonville State vs New Mexico State: Gamecocks Blank Aggies 24-0",
+      "byline": "",
+      "matchup": "Final: Jacksonville State (6-2) 24, New Mexico State (3-5) 0, Wed., Oct. 28, Aggie Memorial Stadium, Las Cruces. Next: vs. Sam Houston, Sat., Nov. 7, 7:00 PM ET, AmFirst Stadium, Jacksonville",
+      "date": "2026-10-28",
+      "word_count": 352,
+      "text": "Jacksonville State 24, New Mexico State 0, and somebody back on the square in Jacksonville, Alabama, ought to ring a bell. The Gamecocks flew all the way to Las Cruces, out where the Organ Mountains rise above the desert, on the Wednesday before Halloween, and the only thing that got spooked was the home scoreboard. A road shutout. I am framing this one.\n\nCaden Creel was the whole show. He ran 21 times for 211 yards, including an 84-yard burst, and his 3-yard touchdown run early in the second quarter put up the only points of the first half. He threw for 109 more, and his 29-yard touchdown strike to Luke Gilbert with 4:48 left made it 24-0. Gilbert caught five balls for 67 yards.\n\nAs a team, we ran for 324 yards at 7.0 a carry and rolled up 433 yards of offense. Garrison Rippa hit a 49-yard field goal in the third quarter, and Jalen Likely punched in a 1-yard touchdown late in the third to make it 17-0. We held the ball for 35:18, which is a polite way of saying the Aggies spent most of the night watching.\n\nNow let me brag on the defense, because a zero on the road in Conference USA does not happen by accident. New Mexico State completed six of 19 throws for 29 yards. Caleb Nix made nine tackles, eight of them on his own. Brayden Matthews got home for a sack, Marc Woods came up with an interception, and Jonavan Carr broke up two throws.\n\nIn fairness to our hosts, James Jones ran hard for them, 112 yards on 20 carries, and Creel threw two interceptions, so we left points in the desert. The Aggies also missed two field goal tries, and I will not be sending a sympathy card about that.\n\nSam Houston Is Next\n\nThat is four straight wins, and the Gamecocks are 6-2 overall and 4-0 in Conference USA. After an open week, we come home to AmFirst Stadium in Jacksonville to face Sam Houston on Saturday, Nov. 7, at 7:00 p.m. ET. Happy Halloween from Gamecock country.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Jacksonville State 24, New Mexico State 0, and somebody back on the square in Jacksonville, Alabama, ought to ring a bell. The Gamecocks flew all the way to Las Cruces, out where the Organ Mountains rise above the desert, on the Wednesday before Halloween, and the only thing that got spooked was the home scoreboard. A road shutout. I am framing this one."
+        },
+        {
+          "type": "paragraph",
+          "text": "Caden Creel was the whole show. He ran 21 times for 211 yards, including an 84-yard burst, and his 3-yard touchdown run early in the second quarter put up the only points of the first half. He threw for 109 more, and his 29-yard touchdown strike to Luke Gilbert with 4:48 left made it 24-0. Gilbert caught five balls for 67 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "As a team, we ran for 324 yards at 7.0 a carry and rolled up 433 yards of offense. Garrison Rippa hit a 49-yard field goal in the third quarter, and Jalen Likely punched in a 1-yard touchdown late in the third to make it 17-0. We held the ball for 35:18, which is a polite way of saying the Aggies spent most of the night watching."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now let me brag on the defense, because a zero on the road in Conference USA does not happen by accident. New Mexico State completed six of 19 throws for 29 yards. Caleb Nix made nine tackles, eight of them on his own. Brayden Matthews got home for a sack, Marc Woods came up with an interception, and Jonavan Carr broke up two throws."
+        },
+        {
+          "type": "paragraph",
+          "text": "In fairness to our hosts, James Jones ran hard for them, 112 yards on 20 carries, and Creel threw two interceptions, so we left points in the desert. The Aggies also missed two field goal tries, and I will not be sending a sympathy card about that."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Sam Houston Is Next"
+        },
+        {
+          "type": "paragraph",
+          "text": "That is four straight wins, and the Gamecocks are 6-2 overall and 4-0 in Conference USA. After an open week, we come home to AmFirst Stadium in Jacksonville to face Sam Houston on Saturday, Nov. 7, at 7:00 p.m. ET. Happy Halloween from Gamecock country."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Jacksonville State shut out New Mexico State 24-0 on Wednesday, Oct. 28, in Las Cruces, N.M. The Gamecocks are 6-2 and 4-0 in Conference USA."
+        },
+        {
+          "type": "fact",
+          "text": "Caden Creel ran 21 times for 211 yards and a touchdown and threw a 29-yard touchdown to Luke Gilbert."
+        },
+        {
+          "type": "fact",
+          "text": "Jacksonville State ran for 324 yards and held New Mexico State to 29 throwing yards."
+        },
+        {
+          "type": "jab",
+          "text": "The Aggies brought the mountains. We brought the zero."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Jacksonville State 24, New Mexico State 0 (Oct. 28, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401871057"
+        },
+        {
+          "label": "ESPN game recap, Jacksonville State at New Mexico State",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401871057"
+        },
+        {
+          "label": "ESPN play-by-play, Jacksonville State at New Mexico State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401871057"
+        },
+        {
+          "label": "ESPN Jacksonville State team page",
+          "url": "https://www.espn.com/college-football/team/_/id/55"
+        },
+        {
+          "label": "ESPN Jacksonville State schedule (next game: vs. Sam Houston, Sat., Nov. 7, 7:00 PM ET, AmFirst Stadium, Jacksonville)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/55"
+        },
+        {
+          "label": "Wikipedia: Organ Mountains, Las Cruces, N.M.",
+          "url": "https://en.wikipedia.org/wiki/Organ_Mountains"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-kennesaw-state-2026-10-28",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "kennesaw-state",
+      "team_ids": [
+        "kennesaw-state"
+      ],
+      "tab_id": "cusa",
+      "game_id": "401871058",
+      "title": "Kennesaw State vs Middle Tennessee: Owls Snap Skid With 44-28 Win",
+      "byline": "",
+      "matchup": "Final: Kennesaw State (2-6) 44, Middle Tennessee (4-4) 28, Wed., Oct. 28, Johnny \"Red\" Floyd Stadium, Murfreesboro. Next: vs. Delaware, Sat., Nov. 7, 3:00 PM ET, Walens Family Field at Fifth Third Stadium, Kennesaw",
+      "date": "2026-10-28",
+      "word_count": 410,
+      "text": "Kennesaw State 44, Middle Tennessee 28, and the Owls finally have a reason to hoot again. Back home, the General sits in the Southern Museum, the old locomotive taken from Big Shanty, the original name of our town, to kick off the Great Locomotive Chase. On Wednesday night in Murfreesboro, our Owls went on a chase of their own and ran down a six-game losing streak.\n\nRickie Collins was close to perfect. He completed 16 of 19 throws for 206 yards and three touchdowns. Dylan Gary caught only two balls, and both went for scores, from 31 and 28 yards out. Davis Bryson grabbed five for 46 yards, including a 23-yard touchdown, and he added 71 yards on kickoff returns.\n\nBoogie Woods III opened the scoring with a 12-yard touchdown run and closed our touchdown parade with a 2-yard plunge with 5:15 left that made it 41-20. He ran 12 times for 67 yards, and he even caught the two-point conversion after the play that flipped this whole night.\n\nThat play belongs to Tywon Christopher. Early in the third quarter, with us clinging to a 19-17 lead, he jumped in front of a Roman Gagliano throw and took it 59 yards to the house. That made it 27-17, and the Blue Raiders never got closer than seven again. Isaac Paul added an interception of his own and brought it back 41 yards. Ugonna Nwoha had two sacks, and Tay'vion Lawson and Baron Hopson made nine tackles apiece.\n\nNow, my mama raised me to tell the truth. Middle Tennessee held the ball for 40:19 and went 11 of 20 on third down. Antonio Martin ran for 106 yards. We trailed 14-7 in the second quarter, got flagged nine times for 72 yards, missed an extra point and gave up a 100-yard kickoff return late. Every one of those made me grab my hat.\n\nDaniel Kinney bounced back from that missed kick with a 44-yard field goal with 1:55 left to make it 44-20, and Brayden Munroe ripped off 61 yards on two punt returns. When the Owls make more big plays than mistakes, the Owls win.\n\nDelaware Comes to Kennesaw\n\nWe are 2-6 and 1-3 in Conference USA, and that first league win tastes as sweet as Sunday pie after church. After an open week, the Owls come home to face Delaware on Saturday, Nov. 7, at 3:00 p.m. ET at Walens Family Field at Fifth Third Stadium. Hoot hoot, y'all.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Kennesaw State 44, Middle Tennessee 28, and the Owls finally have a reason to hoot again. Back home, the General sits in the Southern Museum, the old locomotive taken from Big Shanty, the original name of our town, to kick off the Great Locomotive Chase. On Wednesday night in Murfreesboro, our Owls went on a chase of their own and ran down a six-game losing streak."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rickie Collins was close to perfect. He completed 16 of 19 throws for 206 yards and three touchdowns. Dylan Gary caught only two balls, and both went for scores, from 31 and 28 yards out. Davis Bryson grabbed five for 46 yards, including a 23-yard touchdown, and he added 71 yards on kickoff returns."
+        },
+        {
+          "type": "paragraph",
+          "text": "Boogie Woods III opened the scoring with a 12-yard touchdown run and closed our touchdown parade with a 2-yard plunge with 5:15 left that made it 41-20. He ran 12 times for 67 yards, and he even caught the two-point conversion after the play that flipped this whole night."
+        },
+        {
+          "type": "paragraph",
+          "text": "That play belongs to Tywon Christopher. Early in the third quarter, with us clinging to a 19-17 lead, he jumped in front of a Roman Gagliano throw and took it 59 yards to the house. That made it 27-17, and the Blue Raiders never got closer than seven again. Isaac Paul added an interception of his own and brought it back 41 yards. Ugonna Nwoha had two sacks, and Tay'vion Lawson and Baron Hopson made nine tackles apiece."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now, my mama raised me to tell the truth. Middle Tennessee held the ball for 40:19 and went 11 of 20 on third down. Antonio Martin ran for 106 yards. We trailed 14-7 in the second quarter, got flagged nine times for 72 yards, missed an extra point and gave up a 100-yard kickoff return late. Every one of those made me grab my hat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Daniel Kinney bounced back from that missed kick with a 44-yard field goal with 1:55 left to make it 44-20, and Brayden Munroe ripped off 61 yards on two punt returns. When the Owls make more big plays than mistakes, the Owls win."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Delaware Comes to Kennesaw"
+        },
+        {
+          "type": "paragraph",
+          "text": "We are 2-6 and 1-3 in Conference USA, and that first league win tastes as sweet as Sunday pie after church. After an open week, the Owls come home to face Delaware on Saturday, Nov. 7, at 3:00 p.m. ET at Walens Family Field at Fifth Third Stadium. Hoot hoot, y'all."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Kennesaw State beat Middle Tennessee 44-28 on Wednesday, Oct. 28, in Murfreesboro, Tenn., snapping a six-game losing streak. The Owls are 2-6 and 1-3 in Conference USA."
+        },
+        {
+          "type": "fact",
+          "text": "Rickie Collins completed 16 of 19 throws for 206 yards and three touchdowns, two of them to Dylan Gary."
+        },
+        {
+          "type": "fact",
+          "text": "Tywon Christopher returned an interception 59 yards for a touchdown early in the third quarter to make it 27-17."
+        },
+        {
+          "type": "jab",
+          "text": "Middle Tennessee held the ball for more than 40 minutes. The Owls just needed less time to do more with it."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Kennesaw State 44, Middle Tennessee 28 (Oct. 28, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401871058"
+        },
+        {
+          "label": "ESPN game recap, Kennesaw State at Middle Tennessee",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401871058"
+        },
+        {
+          "label": "ESPN play-by-play, Kennesaw State at Middle Tennessee",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401871058"
+        },
+        {
+          "label": "ESPN Kennesaw State team page",
+          "url": "https://www.espn.com/college-football/team/_/id/338"
+        },
+        {
+          "label": "ESPN Kennesaw State schedule (next game: vs. Delaware, Sat., Nov. 7, 3:00 PM ET, Walens Family Field at Fifth Third Stadium, Kennesaw)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/338"
+        },
+        {
+          "label": "Southern Museum of Civil War and Locomotive History, home of the General (Kennesaw, Ga.)",
+          "url": "https://www.southernmuseum.org/"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-middle-tennessee-2026-10-28",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "middle-tennessee",
+      "team_ids": [
+        "middle-tennessee"
+      ],
+      "tab_id": "cusa",
+      "game_id": "401871058",
+      "title": "Middle Tennessee vs Kennesaw State: Blue Raiders Fall 44-28 at Home",
+      "byline": "",
+      "matchup": "Final: Kennesaw State (2-6) 44, Middle Tennessee (4-4) 28, Wed., Oct. 28, Johnny \"Red\" Floyd Stadium, Murfreesboro. Next: vs. Western Kentucky, Sat., Nov. 7, 3:30 PM ET, Johnny \"Red\" Floyd Stadium, Murfreesboro",
+      "date": "2026-10-28",
+      "word_count": 414,
+      "text": "Kennesaw State 44, Middle Tennessee 28. Murfreesboro sits at the geographic center of Tennessee, and a stone obelisk off Old Lascassas Road, about a mile from campus, marks the spot. On Wednesday night, the center of my heart took a beating in our own house, and it was our first home loss of the season.\n\nHere is what hurts. We did almost everything you want on paper. We had 22 first downs to their 14. We outgained the Owls 380 to 318, ran for 197 yards and held the ball for 40:19. Our offense went 11 of 20 on third down. If you only read the box score, you would guess we won going away.\n\nAntonio Martin was a workhorse, 18 carries for 106 yards, and his 7-yard touchdown run put us up 14-7 early in the second quarter. Roman Gagliano scored on a 1-yard keeper in the first quarter and ran 15 times for 47 yards. Cam'ron Lacy caught four balls for 73 yards, including a 41-yarder, and Terrence Brown had six catches.\n\nThen came the plays that broke my heart. Dominic Bourgeois drilled a 45-yard field goal with two seconds left in the half to pull us within 19-17. But early in the third quarter, Tywon Christopher jumped a Gagliano throw and returned it 59 yards for a touchdown, and the Owls added a two-point conversion for a 27-17 lead. Gagliano finished 21 of 43 for 183 yards with two interceptions, while Rickie Collins went 16 of 19 for 206 yards and three scores on the other side.\n\nOur defense battled. Bryce Williams made nine tackles, and Korey Smith had seven tackles, an interception and a fumble recovery. Bourgeois added a 38-yarder to make it 27-20 late in the third. Then Collins found Dylan Gary for a 28-yard score, and Boogie Woods III ran one in from 2 yards out to make it 41-20.\n\nSantana Fleming gave us something to cheer late, taking a kickoff 100 yards for a touchdown with 1:42 left, and Gagliano ran in the two-point try. Ashton Logan averaged 47.2 yards on five punts. I will take every bit of good I can find tonight.\n\nRivalry Week in Murfreesboro\n\nSo we are 4-4 and 2-2 in Conference USA, and our two-game winning streak has ended. After an open week, the Blue Raiders stay home in Murfreesboro to face Western Kentucky on Saturday, Nov. 7, at 3:30 p.m. ET. Rivalry week cures a lot of heartache. True Blue, always.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Kennesaw State 44, Middle Tennessee 28. Murfreesboro sits at the geographic center of Tennessee, and a stone obelisk off Old Lascassas Road, about a mile from campus, marks the spot. On Wednesday night, the center of my heart took a beating in our own house, and it was our first home loss of the season."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here is what hurts. We did almost everything you want on paper. We had 22 first downs to their 14. We outgained the Owls 380 to 318, ran for 197 yards and held the ball for 40:19. Our offense went 11 of 20 on third down. If you only read the box score, you would guess we won going away."
+        },
+        {
+          "type": "paragraph",
+          "text": "Antonio Martin was a workhorse, 18 carries for 106 yards, and his 7-yard touchdown run put us up 14-7 early in the second quarter. Roman Gagliano scored on a 1-yard keeper in the first quarter and ran 15 times for 47 yards. Cam'ron Lacy caught four balls for 73 yards, including a 41-yarder, and Terrence Brown had six catches."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the plays that broke my heart. Dominic Bourgeois drilled a 45-yard field goal with two seconds left in the half to pull us within 19-17. But early in the third quarter, Tywon Christopher jumped a Gagliano throw and returned it 59 yards for a touchdown, and the Owls added a two-point conversion for a 27-17 lead. Gagliano finished 21 of 43 for 183 yards with two interceptions, while Rickie Collins went 16 of 19 for 206 yards and three scores on the other side."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our defense battled. Bryce Williams made nine tackles, and Korey Smith had seven tackles, an interception and a fumble recovery. Bourgeois added a 38-yarder to make it 27-20 late in the third. Then Collins found Dylan Gary for a 28-yard score, and Boogie Woods III ran one in from 2 yards out to make it 41-20."
+        },
+        {
+          "type": "paragraph",
+          "text": "Santana Fleming gave us something to cheer late, taking a kickoff 100 yards for a touchdown with 1:42 left, and Gagliano ran in the two-point try. Ashton Logan averaged 47.2 yards on five punts. I will take every bit of good I can find tonight."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Rivalry Week in Murfreesboro"
+        },
+        {
+          "type": "paragraph",
+          "text": "So we are 4-4 and 2-2 in Conference USA, and our two-game winning streak has ended. After an open week, the Blue Raiders stay home in Murfreesboro to face Western Kentucky on Saturday, Nov. 7, at 3:30 p.m. ET. Rivalry week cures a lot of heartache. True Blue, always."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Middle Tennessee lost 44-28 to Kennesaw State on Wednesday, Oct. 28, in Murfreesboro, Tenn. The Blue Raiders are 4-4 and 2-2 in Conference USA."
+        },
+        {
+          "type": "fact",
+          "text": "Antonio Martin ran for 106 yards on 18 carries, and Middle Tennessee outgained Kennesaw State 380 to 318 while holding the ball for 40:19."
+        },
+        {
+          "type": "fact",
+          "text": "Santana Fleming returned a kickoff 100 yards for a touchdown with 1:42 left."
+        },
+        {
+          "type": "jab",
+          "text": "The Owls may have won the night, but the geographic center of Tennessee is still ours, obelisk and all."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Kennesaw State 44, Middle Tennessee 28 (Oct. 28, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401871058"
+        },
+        {
+          "label": "ESPN game recap, Kennesaw State at Middle Tennessee",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401871058"
+        },
+        {
+          "label": "ESPN play-by-play, Kennesaw State at Middle Tennessee",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401871058"
+        },
+        {
+          "label": "ESPN Middle Tennessee team page",
+          "url": "https://www.espn.com/college-football/team/_/id/2393"
+        },
+        {
+          "label": "ESPN Middle Tennessee schedule (next game: vs. Western Kentucky, Sat., Nov. 7, 3:30 PM ET, Johnny \"Red\" Floyd Stadium, Murfreesboro)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2393"
+        },
+        {
+          "label": "Wikipedia: Murfreesboro, Tennessee (geographic center of Tennessee)",
+          "url": "https://en.wikipedia.org/wiki/Murfreesboro,_Tennessee"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
     {
       "id": "fanatic_team-sam-houston-2026-10-27",
       "kind": "fanatic_team",
