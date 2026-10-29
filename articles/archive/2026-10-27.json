@@ -1,0 +1,347 @@
+{
+  "schema": 1,
+  "date": "2026-10-27",
+  "theme": "mmqb",
+  "theme_label": "Monday Morning Quarterback",
+  "published_at": "2026-10-26T11:53:04Z",
+  "count": 4,
+  "lead_id": "fanatic_team-sam-houston-2026-10-27",
+  "articles": [
+    {
+      "id": "fanatic_team-sam-houston-2026-10-27",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "sam-houston",
+      "team_ids": [
+        "sam-houston"
+      ],
+      "tab_id": "cusa",
+      "game_id": "401871072",
+      "title": "Sam Houston vs Missouri State: Bearkats Fall 24-3 in Springfield",
+      "byline": "",
+      "matchup": "Final: Missouri State (3-5) 24, Sam Houston (1-7) 3, Tue., Oct. 27, Robert W. Plaster Stadium, Springfield, Mo.. Next: at Jacksonville State, Sat., Nov. 7, 7:00 PM ET, AmFirst Stadium, Jacksonville, Ala.",
+      "date": "2026-10-27",
+      "word_count": 357,
+      "text": "Missouri State 24, Sam Houston 3. Back home in Huntsville, the big statue of General Sam Houston stands 67 feet tall off the interstate, and on Tuesday night in Springfield I could have used a little of that height and a lot of that patience.\n\nHere is the part that should not get lost. For three quarters this was a fistfight. Sam Carpenter drilled a 33-yard field goal with 31 seconds left in the first quarter, and our defense held the Bears to a single field goal the rest of the first half. It was 10-3 heading into the fourth. Josh Alexander-Felton played like a man who had heard every bad thing anybody ever said about this season. Seven tackles, two sacks and three tackles for loss. Brian Bates Jr. added seven tackles of his own.\n\nAnd Cal Joseph, bless his right leg. Five punts, a 50.2 average, a 70-yard boomer, and two pinned inside the 20. When your punter is one of the best players on the field, you know it was a long night, but that young man earned his supper.\n\nDJ Bailey kept slinging it, too. He went 20 of 35 for 258 yards with no interceptions. Grady O'Neill caught six balls for 74 yards, Chris Reed had four for 64, and Tim Burns Jr. hauled in a 46-yarder.\n\nNow the hard part. We ran 25 times for 26 yards. You cannot live on that. We were flagged 10 times for 84 yards, we went 0 for 2 on fourth down, and the fourth quarter got away fast. Henry Belin IV hit Jmariyae Robinson for a 37-yard touchdown on the first play of the fourth to make it 17-3, a fumbled punt return set up Connor Lair's 1-yard run with 3:44 left, and our last chance ended on a fourth-down throw that got knocked away with 1:08 to go.\n\nSo we are 1-7 and 0-4 in Conference USA, and I am not going anywhere. Neither is the statue. The Bearkats get an open week, then go to Jacksonville State on Saturday, Nov. 7, at 7:00 p.m. ET at AmFirst Stadium. Eat Em Up, Kats.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Missouri State 24, Sam Houston 3. Back home in Huntsville, the big statue of General Sam Houston stands 67 feet tall off the interstate, and on Tuesday night in Springfield I could have used a little of that height and a lot of that patience."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here is the part that should not get lost. For three quarters this was a fistfight. Sam Carpenter drilled a 33-yard field goal with 31 seconds left in the first quarter, and our defense held the Bears to a single field goal the rest of the first half. It was 10-3 heading into the fourth. Josh Alexander-Felton played like a man who had heard every bad thing anybody ever said about this season. Seven tackles, two sacks and three tackles for loss. Brian Bates Jr. added seven tackles of his own."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Cal Joseph, bless his right leg. Five punts, a 50.2 average, a 70-yard boomer, and two pinned inside the 20. When your punter is one of the best players on the field, you know it was a long night, but that young man earned his supper."
+        },
+        {
+          "type": "paragraph",
+          "text": "DJ Bailey kept slinging it, too. He went 20 of 35 for 258 yards with no interceptions. Grady O'Neill caught six balls for 74 yards, Chris Reed had four for 64, and Tim Burns Jr. hauled in a 46-yarder."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the hard part. We ran 25 times for 26 yards. You cannot live on that. We were flagged 10 times for 84 yards, we went 0 for 2 on fourth down, and the fourth quarter got away fast. Henry Belin IV hit Jmariyae Robinson for a 37-yard touchdown on the first play of the fourth to make it 17-3, a fumbled punt return set up Connor Lair's 1-yard run with 3:44 left, and our last chance ended on a fourth-down throw that got knocked away with 1:08 to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "So we are 1-7 and 0-4 in Conference USA, and I am not going anywhere. Neither is the statue. The Bearkats get an open week, then go to Jacksonville State on Saturday, Nov. 7, at 7:00 p.m. ET at AmFirst Stadium. Eat Em Up, Kats."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Sam Houston lost 24-3 at Missouri State on Tuesday, Oct. 27, at Robert W. Plaster Stadium in Springfield, Mo. The Bearkats are 1-7 and 0-4 in Conference USA."
+        },
+        {
+          "type": "fact",
+          "text": "Missouri State led only 10-3 entering the fourth quarter. Josh Alexander-Felton had two sacks and three tackles for loss."
+        },
+        {
+          "type": "fact",
+          "text": "Cal Joseph punted five times for a 50.2-yard average, with a long of 70 and two inside the 20."
+        },
+        {
+          "type": "jab",
+          "text": "Springfield calls itself the birthplace of Route 66. Our statue back home is 67 feet tall, which means even Huntsville's landmarks have a longer reach."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Missouri State 24, Sam Houston 3 (Oct. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401871072"
+        },
+        {
+          "label": "ESPN game recap (AP), Missouri State 24, Sam Houston 3 (Oct. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401871072"
+        },
+        {
+          "label": "ESPN game page and play-by-play, Missouri State 24, Sam Houston 3 (Oct. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401871072"
+        },
+        {
+          "label": "ESPN Sam Houston schedule (next game: at Jacksonville State, Sat., Nov. 7, 7:00 PM ET)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2534"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-missouri-state-2026-10-27",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "missouri-state",
+      "team_ids": [
+        "missouri-state"
+      ],
+      "tab_id": "cusa",
+      "game_id": "401871072",
+      "title": "Missouri State vs Sam Houston: Bears Beat the Bearkats 24-3 at Plaster Stadium",
+      "byline": "",
+      "matchup": "Final: Missouri State (3-5) 24, Sam Houston (1-7) 3, Tue., Oct. 27, Robert W. Plaster Stadium, Springfield, Mo.. Next: at Florida International, Sat., Nov. 7, 4:00 PM ET, Pitbull Stadium, Miami.",
+      "date": "2026-10-27",
+      "word_count": 364,
+      "text": "Missouri State 24, Sam Houston 3. Springfield calls itself the birthplace of Route 66, and on Tuesday night the Bears took the Bearkats on a long, slow drive with no exits. It was the first conference meeting between these two programs and the first time they had played at all since 2006, and we made sure they remember the trip.\n\nHenry Belin IV was cool as a November morning on the square. Twelve of 18, 184 yards, two touchdowns, and not a single turnover. He opened the scoring with a 32-yard strike to Isaiah Myers with 4:09 left in the first quarter. Myers came into this one off 11 catches for 242 yards at Delaware, and he picked right up where he left off with three grabs for 77 yards.\n\nThen came Jmariyae Robinson, and I need a minute. On the first play of the fourth quarter he caught a ball across the middle, shook off a tackler not once but twice, and carried it the rest of the way for a 37-yard touchdown that made it 17-3. Robinson finished with seven catches for 102 yards. I have watched that play eleven times. I will watch it eleven more.\n\nThe defense deserves its own parade down Glenstone. Sam Houston ran 25 times for 26 yards. Twenty-six! Jared Lloyd had seven tackles, a sack and two throws broken up, and Tim Brantley Jr. got a sack of his own. The Bearkats went 0 for 2 on fourth down, and the last one, with 1:08 left, ended with our guys knocking the ball away.\n\nThe dagger came off special teams. Sam Houston fumbled a punt return, Martavis Blackmon fell on it, and Connor Lair ran it in from a yard out with 3:44 to go. Lair carried 19 times for 75 yards and wore that defense down all night. Yousef Obeid added a 34-yard field goal, and the Bears never trailed.\n\nWe are 3-5 and 2-2 in Conference USA, and this team is playing its best football right now. After an open week, the Bears head to Miami to face Florida International on Saturday, Nov. 7, at 4:00 p.m. ET. Pack the sunscreen and the maroon.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Missouri State 24, Sam Houston 3. Springfield calls itself the birthplace of Route 66, and on Tuesday night the Bears took the Bearkats on a long, slow drive with no exits. It was the first conference meeting between these two programs and the first time they had played at all since 2006, and we made sure they remember the trip."
+        },
+        {
+          "type": "paragraph",
+          "text": "Henry Belin IV was cool as a November morning on the square. Twelve of 18, 184 yards, two touchdowns, and not a single turnover. He opened the scoring with a 32-yard strike to Isaiah Myers with 4:09 left in the first quarter. Myers came into this one off 11 catches for 242 yards at Delaware, and he picked right up where he left off with three grabs for 77 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came Jmariyae Robinson, and I need a minute. On the first play of the fourth quarter he caught a ball across the middle, shook off a tackler not once but twice, and carried it the rest of the way for a 37-yard touchdown that made it 17-3. Robinson finished with seven catches for 102 yards. I have watched that play eleven times. I will watch it eleven more."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense deserves its own parade down Glenstone. Sam Houston ran 25 times for 26 yards. Twenty-six! Jared Lloyd had seven tackles, a sack and two throws broken up, and Tim Brantley Jr. got a sack of his own. The Bearkats went 0 for 2 on fourth down, and the last one, with 1:08 left, ended with our guys knocking the ball away."
+        },
+        {
+          "type": "paragraph",
+          "text": "The dagger came off special teams. Sam Houston fumbled a punt return, Martavis Blackmon fell on it, and Connor Lair ran it in from a yard out with 3:44 to go. Lair carried 19 times for 75 yards and wore that defense down all night. Yousef Obeid added a 34-yard field goal, and the Bears never trailed."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are 3-5 and 2-2 in Conference USA, and this team is playing its best football right now. After an open week, the Bears head to Miami to face Florida International on Saturday, Nov. 7, at 4:00 p.m. ET. Pack the sunscreen and the maroon."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Missouri State beat Sam Houston 24-3 on Tuesday, Oct. 27, at Robert W. Plaster Stadium in Springfield, Mo. The Bears are 3-5 and 2-2 in Conference USA."
+        },
+        {
+          "type": "fact",
+          "text": "Henry Belin IV threw for 184 yards and two touchdowns, and Jmariyae Robinson caught seven balls for 102 yards, including a 37-yard score."
+        },
+        {
+          "type": "jab",
+          "text": "Sam Houston ran for 26 yards on 25 carries. That is about a yard a carry, which is slower than rush-hour traffic on Glenstone."
+        },
+        {
+          "type": "fact",
+          "text": "It was the first conference meeting between the two programs and their first meeting since 2006."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Missouri State 24, Sam Houston 3 (Oct. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401871072"
+        },
+        {
+          "label": "ESPN game recap (AP), Missouri State 24, Sam Houston 3 (Oct. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401871072"
+        },
+        {
+          "label": "ESPN game page and play-by-play, Missouri State 24, Sam Houston 3 (Oct. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401871072"
+        },
+        {
+          "label": "ESPN Missouri State schedule (next game: at Florida International, Sat., Nov. 7, 4:00 PM ET)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2623"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-western-kentucky",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "western-kentucky",
+      "team_ids": [
+        "western-kentucky"
+      ],
+      "tab_id": "cusa",
+      "game_id": "401871071",
+      "title": "Western Kentucky vs Delaware: Hilltoppers Fall 35-21 After a Fast Start",
+      "byline": "",
+      "matchup": "Final: Delaware (4-4) 35, Western Kentucky (3-5) 21, Tue., Oct. 27, Houchens Industries-L.T. Smith Stadium, Bowling Green, Ky.. Next: at Middle Tennessee, Sat., Nov. 7, 3:30 PM ET, Johnny \"Red\" Floyd Stadium, Murfreesboro, Tenn.",
+      "date": "2026-10-27",
+      "word_count": 386,
+      "text": "Delaware 35, Western Kentucky 21. I typed that score slowly, the way you back a Corvette out of a tight garage here in Bowling Green, the only town in America where they build the things. It still hurts to look at.\n\nAnd the Hilltoppers started like a brand-new engine. Brock Glenn found CC Ezirim for a 2-yard touchdown on our first drive, Zion Taylor punched in a 1-yard run, and Ajay Allen scored from five out early in the second quarter to put us up 21-14 at Houchens Industries-L.T. Smith Stadium. I was standing on my seat. My wife was asking me to sit down. Both of us were happy.\n\nThen the scoreboard froze for us. Western Kentucky did not score again after 10:52 of the second quarter, and Delaware put up the next 21 points.\n\nThe problem had a name, and it was Nick Minicucci. He completed his first 17 throws, finished 32 of 38 for 414 yards and four touchdowns, and Sean Wilson caught nine of them for 183 yards. When a quarterback misses six times all night, a secondary feels like it's chasing a pickup down Scottsville Road.\n\nNow let me give our guys their due, because they earned it. Glenn ran 17 times for 129 yards, including a 61-yard burst, and threw for 224 more. Ajay Allen added 73 rushing yards and a touchdown. As a team we ran for 232 yards at 6.8 a carry, and we outgained them on the ground by a mile. Moussa Barry caught four balls for 80 yards, including a 45-yarder. Jaylen Wester and Westen Ard made nine tackles apiece, Mackavelli Malotumau had two tackles for loss, and Dave Herard jumped on a Delaware fumble.\n\nWhat killed us was the middle of the field and the big downs we could not finish. Two interceptions, one deep in Delaware territory to open the fourth quarter, and only 4 of 14 on third down. You do not beat a quarterback that hot by leaving points out there.\n\nSo we sit at 3-5 and 2-2 in Conference USA, and the league is still wide open. After an open week, the Hilltoppers go to Murfreesboro to face Middle Tennessee on Saturday, Nov. 7, at 3:30 p.m. ET. That is a rivalry game, and I already have the red towel packed.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Delaware 35, Western Kentucky 21. I typed that score slowly, the way you back a Corvette out of a tight garage here in Bowling Green, the only town in America where they build the things. It still hurts to look at."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the Hilltoppers started like a brand-new engine. Brock Glenn found CC Ezirim for a 2-yard touchdown on our first drive, Zion Taylor punched in a 1-yard run, and Ajay Allen scored from five out early in the second quarter to put us up 21-14 at Houchens Industries-L.T. Smith Stadium. I was standing on my seat. My wife was asking me to sit down. Both of us were happy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the scoreboard froze for us. Western Kentucky did not score again after 10:52 of the second quarter, and Delaware put up the next 21 points."
+        },
+        {
+          "type": "paragraph",
+          "text": "The problem had a name, and it was Nick Minicucci. He completed his first 17 throws, finished 32 of 38 for 414 yards and four touchdowns, and Sean Wilson caught nine of them for 183 yards. When a quarterback misses six times all night, a secondary feels like it's chasing a pickup down Scottsville Road."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now let me give our guys their due, because they earned it. Glenn ran 17 times for 129 yards, including a 61-yard burst, and threw for 224 more. Ajay Allen added 73 rushing yards and a touchdown. As a team we ran for 232 yards at 6.8 a carry, and we outgained them on the ground by a mile. Moussa Barry caught four balls for 80 yards, including a 45-yarder. Jaylen Wester and Westen Ard made nine tackles apiece, Mackavelli Malotumau had two tackles for loss, and Dave Herard jumped on a Delaware fumble."
+        },
+        {
+          "type": "paragraph",
+          "text": "What killed us was the middle of the field and the big downs we could not finish. Two interceptions, one deep in Delaware territory to open the fourth quarter, and only 4 of 14 on third down. You do not beat a quarterback that hot by leaving points out there."
+        },
+        {
+          "type": "paragraph",
+          "text": "So we sit at 3-5 and 2-2 in Conference USA, and the league is still wide open. After an open week, the Hilltoppers go to Murfreesboro to face Middle Tennessee on Saturday, Nov. 7, at 3:30 p.m. ET. That is a rivalry game, and I already have the red towel packed."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Western Kentucky lost 35-21 to Delaware on Tuesday, Oct. 27, at Houchens Industries-L.T. Smith Stadium. The Hilltoppers are 3-5 and 2-2 in Conference USA."
+        },
+        {
+          "type": "fact",
+          "text": "Brock Glenn ran for 129 yards on 17 carries and threw for 224, and Western Kentucky rushed for 232 yards as a team."
+        },
+        {
+          "type": "jab",
+          "text": "Nick Minicucci completed his first 17 throws. Bowling Green builds Corvettes, and even those take a turn now and then."
+        },
+        {
+          "type": "fact",
+          "text": "Western Kentucky led 21-14 in the second quarter but did not score again."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Delaware 35, Western Kentucky 21 (Oct. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401871071"
+        },
+        {
+          "label": "ESPN game recap (AP), Delaware 35, Western Kentucky 21 (Oct. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401871071"
+        },
+        {
+          "label": "ESPN game page and play-by-play, Delaware 35, Western Kentucky 21 (Oct. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401871071"
+        },
+        {
+          "label": "ESPN Western Kentucky schedule (next game: at Middle Tennessee, Sat., Nov. 7, 3:30 PM ET)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/98"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-delaware-2026-10-27",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "delaware",
+      "team_ids": [
+        "delaware"
+      ],
+      "tab_id": "cusa",
+      "game_id": "401871071",
+      "title": "Delaware vs Western Kentucky: Nick Minicucci Throws for 414 in a 35-21 Blue Hens Win",
+      "byline": "",
+      "matchup": "Final: Delaware (4-4) 35, Western Kentucky (3-5) 21, Tue., Oct. 27, Houchens Industries-L.T. Smith Stadium, Bowling Green, Ky.. Next: at Kennesaw State, Sat., Nov. 7, 3:00 PM ET, Walens Family Field at Fifth Third Stadium, Kennesaw, Ga.",
+      "date": "2026-10-27",
+      "word_count": 380,
+      "text": "Delaware 35, Western Kentucky 21, and I want it read out loud on Main Street in Newark. The Blue Hens went to Bowling Green, Kentucky, on a Tuesday night and came home with a road win, which this program had not done in seven straight trips. That road streak is finished. Nobody in my house is allowed to mention it again.\n\nStart with Nick Minicucci, because the young man was a surgeon. He completed his first 17 throws, a Delaware record for straight completions to open a game, and finished 32 of 38 for 414 yards and four touchdowns. He also climbed to fourth in program history with 6,459 career yards. A week after he tied the school record with five touchdown throws, he went out and made more history on a weeknight.\n\nSean Wilson was the guy Minicucci kept looking for, and who could blame him? Nine catches. 183 yards. Touchdowns of 21 and 40 yards. That 40-yarder with 4:20 left in the third quarter made it 35-21, and nobody scored again. Kaderris Roberts caught seven balls and opened our scoring with a 17-yard touchdown, and Jo Silver grabbed an 8-yard score with 59 seconds left in the half to give us our first lead at 28-21.\n\nNow, honesty is a family value in my house. The Hilltoppers jumped us 7-0 and 14-7, and Brock Glenn ran for 129 yards on 17 carries. Western Kentucky piled up 232 rushing yards. My blood pressure would like a word with our run defense.\n\nBut this defense found a second gear after halftime and held the Hilltoppers scoreless for the final 30 minutes. Kevin Moore picked off a throw late in the first quarter, and AJ Graham got his first career interception on the first play of the fourth, deep in our own end, which shut the door for good. Gavin Moul led us with seven tackles, and Dominick Brogna got home for a sack.\n\nThe Blue Hen is our state bird, and tonight every one of them in the First State is crowing. We are 4-4 and 2-2 in Conference USA, right back in the middle of things. After an open week, the Blue Hens head to Kennesaw State on Saturday, Nov. 7, at 3:00 p.m. ET. Bring the whole flock.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Delaware 35, Western Kentucky 21, and I want it read out loud on Main Street in Newark. The Blue Hens went to Bowling Green, Kentucky, on a Tuesday night and came home with a road win, which this program had not done in seven straight trips. That road streak is finished. Nobody in my house is allowed to mention it again."
+        },
+        {
+          "type": "paragraph",
+          "text": "Start with Nick Minicucci, because the young man was a surgeon. He completed his first 17 throws, a Delaware record for straight completions to open a game, and finished 32 of 38 for 414 yards and four touchdowns. He also climbed to fourth in program history with 6,459 career yards. A week after he tied the school record with five touchdown throws, he went out and made more history on a weeknight."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sean Wilson was the guy Minicucci kept looking for, and who could blame him? Nine catches. 183 yards. Touchdowns of 21 and 40 yards. That 40-yarder with 4:20 left in the third quarter made it 35-21, and nobody scored again. Kaderris Roberts caught seven balls and opened our scoring with a 17-yard touchdown, and Jo Silver grabbed an 8-yard score with 59 seconds left in the half to give us our first lead at 28-21."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now, honesty is a family value in my house. The Hilltoppers jumped us 7-0 and 14-7, and Brock Glenn ran for 129 yards on 17 carries. Western Kentucky piled up 232 rushing yards. My blood pressure would like a word with our run defense."
+        },
+        {
+          "type": "paragraph",
+          "text": "But this defense found a second gear after halftime and held the Hilltoppers scoreless for the final 30 minutes. Kevin Moore picked off a throw late in the first quarter, and AJ Graham got his first career interception on the first play of the fourth, deep in our own end, which shut the door for good. Gavin Moul led us with seven tackles, and Dominick Brogna got home for a sack."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Blue Hen is our state bird, and tonight every one of them in the First State is crowing. We are 4-4 and 2-2 in Conference USA, right back in the middle of things. After an open week, the Blue Hens head to Kennesaw State on Saturday, Nov. 7, at 3:00 p.m. ET. Bring the whole flock."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Delaware beat Western Kentucky 35-21 on Tuesday, Oct. 27, in Bowling Green, Ky., ending a seven-game road losing streak. The Blue Hens are 4-4 and 2-2 in Conference USA."
+        },
+        {
+          "type": "fact",
+          "text": "Nick Minicucci completed his first 17 throws, a program record, and finished 32 of 38 for 414 yards and four touchdowns. Sean Wilson caught nine balls for 183 yards and two scores."
+        },
+        {
+          "type": "jab",
+          "text": "The Hilltoppers scored 21 points in the first 20 minutes and none in the second half. Our defense took the long drive home personally."
+        },
+        {
+          "type": "fact",
+          "text": "AJ Graham's first career interception came on the first play of the fourth quarter, deep in Delaware territory."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Delaware 35, Western Kentucky 21 (Oct. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401871071"
+        },
+        {
+          "label": "ESPN game recap (AP), Delaware 35, Western Kentucky 21 (Oct. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401871071"
+        },
+        {
+          "label": "ESPN game page and play-by-play, Delaware 35, Western Kentucky 21 (Oct. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401871071"
+        },
+        {
+          "label": "ESPN Delaware schedule (next game: at Kennesaw State, Sat., Nov. 7, 3:00 PM ET)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/48"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    }
+  ]
+}
