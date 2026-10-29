@@ -8,7 +8,7 @@
  "pending_games": [],
  "files": {
   "games.json": {
-   "bytes": 409776,
+   "bytes": 407498,
    "source": "main@548ca49:nfl/games.json"
   },
   "monday.json": {
@@ -25,5 +25,5 @@
   }
  },
  "read_only": true,
- "note": "Archived as it was live. Line labels show their original snapshot times."
+ "note": "Archived exactly as it was live. Open with the same game pages, read-only."
 }
