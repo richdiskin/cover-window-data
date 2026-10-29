@@ -1821,8 +1821,8 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "",
       "basis_line": "Spread opened Florida International Panthers −10 and is −10.5 now, a 0.5-point move, under the 1-point threshold: no side pick. Total opened 45.5 and is 45.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included."
      },
@@ -1931,8 +1931,8 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "",
       "basis_line": "Spread opened Delaware Blue Hens −3 and is −3 now, a 0-point move, under the 1-point threshold: no side pick. Total opened 52.5 and is 52.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included."
      },
@@ -2041,15 +2041,15 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
+      "side_line": "Side: no pick",
       "ou_line": "O/U: Over 64.5 · Likes this total",
       "score_line": "",
       "basis_line": "Spread opened Marshall Thundering Herd +3 and is +3 now, a 0-point move, under the 1-point threshold: no side pick. Total opened 62.5 and is 64.5 now, a 2-point move that meets the threshold: Over. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included."
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No adjustment this week — uses The Formula's score.",
       "basis_line": "Same as The Formula – South Alabama Jaguars 4.8 ypc vs Marshall Thundering Herd allowing 5.5; Marshall Thundering Herd 4.4 ypc vs South Alabama Jaguars allowing 5.8. Sack rate: South Alabama Jaguars generate 5.2% vs Marshall Thundering Herd allowing 5.1%; Marshall Thundering Herd generate 2.6% vs South Alabama Jaguars allowing 4.4% (2026 season; rushing totals include sacks). Per-side test: qualifying gaps favour different teams, so they cancel. No pick."
      }
@@ -2151,7 +2151,7 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
+      "side_line": "Side: no pick",
       "ou_line": "O/U: Under 44.5 · Likes this total",
       "score_line": "",
       "basis_line": "Spread opened Sam Houston Bearkats +2.5 and is +3 now, a 0.5-point move, under the 1-point threshold: no side pick. Total opened 47.5 and is 44.5 now, a 3-point move that meets the threshold: Under. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included."
@@ -2407,8 +2407,8 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened App State Mountaineers +10.5 and is +10.5 now, a 0-point move, under the 1-point threshold: no side pick. Total opened 56.5 and is 56.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -2417,8 +2417,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "James Madison Dukes 5.7 ypc vs App State Mountaineers allowing 3.7; App State Mountaineers 4.2 ypc vs James Madison Dukes allowing 3.3 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -2876,7 +2876,7 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
+      "side_line": "Side: no pick",
       "ou_line": "O/U: Over 54.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Memphis Tigers −9.5 and is −10 now, a 0.5-point move, under the 1-point threshold: no side pick. Total opened 53.5 and is 54.5 now, a 1-point move that meets the threshold: Over. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
@@ -3083,8 +3083,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Duke Blue Devils 5.4 ypc vs Virginia Cavaliers allowing 4.1; Virginia Cavaliers 3.9 ypc vs Duke Blue Devils allowing 3.2 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -3361,7 +3361,7 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
+      "side_line": "Side: no pick",
       "ou_line": "O/U: Under 48.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened UConn Huskies −15.5 and is −15.5 now, a 0-point move, under the 1-point threshold: no side pick. Total opened 49.5 and is 48.5 now, a 1-point move that meets the threshold: Under. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
@@ -3371,8 +3371,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Massachusetts Minutemen 4.7 ypc vs UConn Huskies allowing 3.4; UConn Huskies 5.3 ypc vs Massachusetts Minutemen allowing 3.5 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -3743,8 +3743,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Air Force Falcons 5.4 ypc vs Wyoming Cowboys allowing 4.8; Wyoming Cowboys 4.9 ypc vs Air Force Falcons allowing 4.2 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -3916,8 +3916,8 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Stanford Cardinal +7.5 and is +7 now, a 0.5-point move, under the 1-point threshold: no side pick. Total opened 55.5 and is 55.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -3926,8 +3926,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "NC State Wolfpack 4.5 ypc vs Stanford Cardinal allowing 5.5; Stanford Cardinal 3.5 ypc vs NC State Wolfpack allowing 4.3 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -4247,8 +4247,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "California Golden Bears 3.3 ypc vs SMU Mustangs allowing 4.2; SMU Mustangs 4.1 ypc vs California Golden Bears allowing 5.0 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -4540,8 +4540,8 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Auburn Tigers +6.5 and is +7 now, a 0.5-point move, under the 1-point threshold: no side pick. Total opened 50.5 and is 50.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -4550,8 +4550,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "LSU Tigers 4.5 ypc vs Auburn Tigers allowing 3.6; Auburn Tigers 4.7 ypc vs LSU Tigers allowing 2.8 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -4818,7 +4818,7 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
+      "side_line": "Side: no pick",
       "ou_line": "O/U: Under 41.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Michigan Wolverines +6.5 and is +7 now, a 0.5-point move, under the 1-point threshold: no side pick. Total opened 52.5 and is 41.5 now, a 11-point move that meets the threshold: Under. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
@@ -4828,8 +4828,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Indiana Hoosiers 5.7 ypc vs Michigan Wolverines allowing 2.7; Michigan Wolverines 4.2 ypc vs Indiana Hoosiers allowing 2.3 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -5139,8 +5139,8 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Cincinnati Bearcats +11.5 and is +11.5 now, a 0-point move, under the 1-point threshold: no side pick. Total opened 56.5 and is 56.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -5149,8 +5149,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Texas Tech Red Raiders 5.1 ypc vs Cincinnati Bearcats allowing 4.1; Cincinnati Bearcats 5.9 ypc vs Texas Tech Red Raiders allowing 2.9 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -5470,8 +5470,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Pittsburgh Panthers 4.6 ypc vs Miami Hurricanes allowing 2.3; Miami Hurricanes 6.1 ypc vs Pittsburgh Panthers allowing 2.0 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -5781,7 +5781,7 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
+      "side_line": "Side: no pick",
       "ou_line": "O/U: Under 55.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Florida Atlantic Owls −10.5 and is −10 now, a 0.5-point move, under the 1-point threshold: no side pick. Total opened 58.5 and is 55.5 now, a 3-point move that meets the threshold: Under. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
@@ -5791,8 +5791,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Rice Owls 4.9 ypc vs Florida Atlantic Owls allowing 5.4; Florida Atlantic Owls 3.3 ypc vs Rice Owls allowing 4.9 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -5990,8 +5990,8 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Northwestern Wildcats −16.5 and is −16.5 now, a 0-point move, under the 1-point threshold: no side pick. Total opened 58.5 and is 58.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -6000,8 +6000,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Rutgers Scarlet Knights 3.8 ypc vs Northwestern Wildcats allowing 4.3; Northwestern Wildcats 4.8 ypc vs Rutgers Scarlet Knights allowing 5.6 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -6609,8 +6609,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Western Michigan Broncos 4.4 ypc vs Toledo Rockets allowing 3.4; Toledo Rockets 5.1 ypc vs Western Michigan Broncos allowing 3.7 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -6848,7 +6848,7 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
+      "side_line": "Side: no pick",
       "ou_line": "O/U: Over 45.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Kent State Golden Flashes −3.5 and is −3 now, a 0.5-point move, under the 1-point threshold: no side pick. Total opened 43.5 and is 45.5 now, a 2-point move that meets the threshold: Over. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
@@ -7061,8 +7061,8 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Kansas Jayhawks +1.5 and is +1.5 now, a 0-point move, under the 1-point threshold: no side pick. Total opened 54.5 and is 54.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -7071,8 +7071,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Baylor Bears 3.8 ypc vs Kansas Jayhawks allowing 4.5; Kansas Jayhawks 5.2 ypc vs Baylor Bears allowing 2.6 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -7383,7 +7383,7 @@
      {
       "name": "Follow The Money",
       "side_line": "Side: Miami (OH) RedHawks −2.5 · Likes this side",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Central Michigan Chippewas −1.5 and is +2.5 now, a 4-point move that meets the 1-point threshold. Total opened 42.5 and is 42.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -7592,7 +7592,7 @@
      {
       "name": "Follow The Money",
       "side_line": "Side: Illinois Fighting Illini +10.5 · Likes this side",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Illinois Fighting Illini +12.5 and is +10.5 now, a 2-point move that meets the 1-point threshold. Total opened 51.5 and is 51.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -7913,7 +7913,7 @@
      {
       "name": "Follow The Money",
       "side_line": "Side: Georgia Tech Yellow Jackets −5.5 · Likes this side",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Georgia Tech Yellow Jackets −4.5 and is −5.5 now, a 1-point move that meets the 1-point threshold. Total opened 49.5 and is 49.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -7922,8 +7922,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Boston College Eagles 3.9 ypc vs Georgia Tech Yellow Jackets allowing 4.3; Georgia Tech Yellow Jackets 4.2 ypc vs Boston College Eagles allowing 4.1 (2026 season; rushing totals include sacks). No single gap meets 0.5 ypc or 5 points. No pick.",
       "independent": false,
@@ -8208,7 +8208,7 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
+      "side_line": "Side: no pick",
       "ou_line": "O/U: Over 44.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Buffalo Bulls −4.5 and is −4 now, a 0.5-point move, under the 1-point threshold: no side pick. Total opened 43.5 and is 44.5 now, a 1-point move that meets the threshold: Over. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
@@ -8218,8 +8218,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Bowling Green Falcons 3.2 ypc vs Buffalo Bulls allowing 4.4; Buffalo Bulls 3.9 ypc vs Bowling Green Falcons allowing 5.5 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -8467,8 +8467,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Hawai'i Rainbow Warriors 3.0 ypc vs Northern Illinois Huskies allowing 5.6; Northern Illinois Huskies 3.5 ypc vs Hawai'i Rainbow Warriors allowing 4.8 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -8673,7 +8673,7 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
+      "side_line": "Side: no pick",
       "ou_line": "O/U: Under 46.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened UCLA Bruins −13.5 and is −14 now, a 0.5-point move, under the 1-point threshold: no side pick. Total opened 47.5 and is 46.5 now, a 1-point move that meets the threshold: Under. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
@@ -9004,8 +9004,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Tennessee Volunteers 5.0 ypc vs South Carolina Gamecocks allowing 3.2; South Carolina Gamecocks 6.0 ypc vs Tennessee Volunteers allowing 3.8 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -9271,8 +9271,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Iowa Hawkeyes 6.1 ypc vs Minnesota Golden Gophers allowing 3.9; Minnesota Golden Gophers 3.7 ypc vs Iowa Hawkeyes allowing 2.5 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -9556,8 +9556,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "BYU Cougars 5.7 ypc vs UCF Knights allowing 3.2; UCF Knights 5.0 ypc vs BYU Cougars allowing 3.1 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -9877,8 +9877,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "North Texas Mean Green 5.1 ypc vs Navy Midshipmen allowing 2.7; Navy Midshipmen 5.7 ypc vs North Texas Mean Green allowing 3.8 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -10092,7 +10092,7 @@
      {
       "name": "Follow The Money",
       "side_line": "Side: Oklahoma Sooners −2.5 · Likes this side",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Mississippi State Bulldogs +1.5 and is +2.5 now, a 1-point move that meets the 1-point threshold. Total opened 46.5 and is 46.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -10335,8 +10335,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Sacramento State Hornets 3.5 ypc vs Ball State Cardinals allowing 5.4; Ball State Cardinals 4.3 ypc vs Sacramento State Hornets allowing 4.9 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -10569,8 +10569,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Texas A&M Aggies 4.3 ypc vs Alabama Crimson Tide allowing 3.1; Alabama Crimson Tide 4.6 ypc vs Texas A&M Aggies allowing 4.2 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -10862,8 +10862,8 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Arizona State Sun Devils +3 and is +3.5 now, a 0.5-point move, under the 1-point threshold: no side pick. Total opened 56.5 and is 56.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -11159,7 +11159,7 @@
      {
       "name": "Follow The Money",
       "side_line": "Side: Ohio Bobcats −10.5 · Likes this side",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Ohio Bobcats −9.5 and is −10.5 now, a 1-point move that meets the 1-point threshold. Total opened 49.5 and is 49.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -11392,8 +11392,8 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Troy Trojans −17.5 and is −17.5 now, a 0-point move, under the 1-point threshold: no side pick. Total opened 50.5 and is 50.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -11609,7 +11609,7 @@
      {
       "name": "Follow The Money",
       "side_line": "Side: Louisiana Ragin' Cajuns −11.5 · Likes this side",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Southern Miss Golden Eagles +10.5 and is +11.5 now, a 1-point move that meets the 1-point threshold. Total opened 52.5 and is 52.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -11836,7 +11836,7 @@
      {
       "name": "Follow The Money",
       "side_line": "Side: Louisiana Tech Bulldogs −10.5 · Likes this side",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Louisiana Tech Bulldogs −8.5 and is −10.5 now, a 2-point move that meets the 1-point threshold. Total opened 44.5 and is 44.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -11845,8 +11845,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Old Dominion Monarchs 2.9 ypc vs Louisiana Tech Bulldogs allowing 3.8; Louisiana Tech Bulldogs 4.3 ypc vs Old Dominion Monarchs allowing 3.5 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -12051,8 +12051,8 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Nevada Wolf Pack −5.5 and is −5.5 now, a 0-point move, under the 1-point threshold: no side pick. Total opened 45.5 and is 45.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -12061,8 +12061,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "San José State Spartans 4.2 ypc vs Nevada Wolf Pack allowing 4.2; Nevada Wolf Pack 5.3 ypc vs San José State Spartans allowing 3.9 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -12283,7 +12283,7 @@
      {
       "name": "Follow The Money",
       "side_line": "Side: Washington State Cougars +12.5 · Likes this side",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Washington State Cougars +14 and is +12.5 now, a 1.5-point move that meets the 1-point threshold. Total opened 50.5 and is 50.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -12549,7 +12549,7 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
+      "side_line": "Side: no pick",
       "ou_line": "O/U: Over 61.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Colorado State Rams +3 and is +3 now, a 0-point move, under the 1-point threshold: no side pick. Total opened 59.5 and is 61.5 now, a 2-point move that meets the threshold: Over. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
@@ -12798,7 +12798,7 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
+      "side_line": "Side: no pick",
       "ou_line": "O/U: Under 54.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Oklahoma State Cowboys −14.5 and is −14 now, a 0.5-point move, under the 1-point threshold: no side pick. Total opened 55.5 and is 54.5 now, a 1-point move that meets the threshold: Under. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
@@ -13354,7 +13354,7 @@
      {
       "name": "Follow The Money",
       "side_line": "Side: Clemson Tigers −2.5 · Likes this side",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Clemson Tigers +1.5 and is −2.5 now, a 4-point move that meets the 1-point threshold. Total opened 49.5 and is 49.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -13674,8 +13674,8 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Arizona Wildcats −10 and is −10.5 now, a 0.5-point move, under the 1-point threshold: no side pick. Total opened 50.5 and is 50.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -14005,8 +14005,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "USC Trojans 4.3 ypc vs Wisconsin Badgers allowing 3.2; Wisconsin Badgers 4.7 ypc vs USC Trojans allowing 3.7 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -14326,8 +14326,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Ole Miss Rebels 4.9 ypc vs Texas Longhorns allowing 2.9; Texas Longhorns 3.6 ypc vs Ole Miss Rebels allowing 4.0 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -14601,7 +14601,7 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
+      "side_line": "Side: no pick",
       "ou_line": "O/U: Over 45.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened North Carolina Tar Heels −9.5 and is −9.5 now, a 0-point move, under the 1-point threshold: no side pick. Total opened 44.5 and is 45.5 now, a 1-point move that meets the threshold: Over. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
@@ -14611,8 +14611,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Syracuse Orange 3.8 ypc vs North Carolina Tar Heels allowing 3.9; North Carolina Tar Heels 3.8 ypc vs Syracuse Orange allowing 4.2 (2026 season; rushing totals include sacks). No single gap meets 0.5 ypc or 5 points. No pick.",
       "independent": false,
@@ -14923,7 +14923,7 @@
      {
       "name": "Follow The Money",
       "side_line": "Side: Texas State Bobcats −11.5 · Likes this side",
-      "ou_line": "O/U: no pick (total moved under 1 point)",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Texas State Bobcats −9.5 and is −11.5 now, a 2-point move that meets the 1-point threshold. Total opened 58.5 and is 58.5 now, a 0-point move: no total pick. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
       "independent": false,
@@ -14932,8 +14932,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Utah State Aggies 3.8 ypc vs Texas State Bobcats allowing 3.9; Texas State Bobcats 6.1 ypc vs Utah State Aggies allowing 4.1 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -15654,7 +15654,7 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
+      "side_line": "Side: no pick",
       "ou_line": "O/U: Under 42.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened New Mexico Lobos −3.5 and is −4 now, a 0.5-point move, under the 1-point threshold: no side pick. Total opened 46.5 and is 42.5 now, a 4-point move that meets the threshold: Under. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
@@ -15664,8 +15664,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "North Dakota State Bison 4.3 ypc vs New Mexico Lobos allowing 3.0; New Mexico Lobos 4.7 ypc vs North Dakota State Bison allowing 3.3 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
@@ -15888,7 +15888,7 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (line moved under 1 point)",
+      "side_line": "Side: no pick",
       "ou_line": "O/U: Over 56.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
       "basis_line": "Spread opened Utah Utes −6.5 and is −6.5 now, a 0-point move, under the 1-point threshold: no side pick. Total opened 50.5 and is 56.5 now, a 6-point move that meets the threshold: Over. Market score = market numbers (total and spread split into team points, each rounded half up). The opening time and the bets-versus-money split are not published free, so neither is included.",
@@ -15898,8 +15898,8 @@
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: no pick (no trench signal)",
-      "ou_line": "O/U: no pick (no trench signal)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week — not counted in the average.",
       "basis_line": "Houston Cougars 5.3 ypc vs Utah Utes allowing 3.3; Utah Utes 5.5 ypc vs Houston Cougars allowing 3.2 (2026 season; rushing totals include sacks). Per-side test: the gaps big enough to count favour different teams, so they cancel. No pick.",
       "independent": false,
