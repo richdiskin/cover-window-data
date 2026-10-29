@@ -495,7 +495,7 @@
    "sourced_reasons": [
     "The Formula: Net ratings Jacksonville Jaguars −0.8, Houston Texans −3.0 (nflverse play-by-play, Oct 18, 2026). Neutral site, no home field. Projected margin Jacksonville Jaguars by 2.3. Line Jacksonville Jaguars −2.5. Edge 0.2. Threshold 2.5 not met. No edge.",
     "The Formula data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
-    "Next Man Up: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "Next Man Up: no starting QB ruled out (09/23). No edge.",
     "Letdown Watch: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
     "Follow The Money: Spread opened Jacksonville Jaguars −2.5 (Oct 13, 2026 18:12 UTC), now −2.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 42.5 (Oct 13, 2026 10:20 UTC), now 42.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Spread split 50/50% bets, 51/49% money (Houston Texans/Jacksonville Jaguars, Action Network public betting, Oct 18, 2026 11:32 UTC): same side, no divergence. 53% of bets on Under, 80% of money on Over (Action Network public betting, Oct 18, 2026 11:32 UTC). Divergence 27 meets 15-point threshold. Over.",
     "In The Trenches: no edge – metrics conflict",
@@ -734,7 +734,7 @@
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "The Formula: Net ratings Atlanta Falcons 2.6, Chicago Bears −5.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Atlanta Falcons. Projected margin Atlanta Falcons by 10.3. Line Chicago Bears −1.5. Edge 11.8. Threshold 2.5 met. Cover Atlanta Falcons.",
+     "public_case": "The Formula: Net ratings Atlanta Falcons 2.6, Chicago Bears −5.9 (nflverse play-by-play, Oct 18, 2026). Projected margin Atlanta Falcons by 10.3. Line Chicago Bears −1.5. Edge 11.8. Threshold 2.5 met. Cover Atlanta Falcons.",
      "market": "spread",
      "best_bet": false,
      "projected": {
@@ -802,9 +802,9 @@
     }
    ],
    "sourced_reasons": [
-    "The Formula: Net ratings Atlanta Falcons 2.6, Chicago Bears −5.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Atlanta Falcons. Projected margin Atlanta Falcons by 10.3. Line Chicago Bears −1.5. Edge 11.8. Threshold 2.5 met. Cover Atlanta Falcons.",
+    "The Formula: Net ratings Atlanta Falcons 2.6, Chicago Bears −5.9 (nflverse play-by-play, Oct 18, 2026). Projected margin Atlanta Falcons by 10.3. Line Chicago Bears −1.5. Edge 11.8. Threshold 2.5 met. Cover Atlanta Falcons.",
     "The Formula data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
-    "Next Man Up: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "Next Man Up: no starting QB ruled out (09/23). No edge.",
     "Letdown Watch: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
     "Follow The Money: Spread opened Atlanta Falcons +3.5 (Oct 13, 2026 11:08 UTC), now +1.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 2 meets 1-point threshold. Cover Atlanta Falcons. Total opened 49.5 (Oct 13, 2026 06:30 UTC), now 52.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 3 meets 1-point threshold. Over. Spread split 42/58% bets, 41/59% money (Chicago Bears/Atlanta Falcons, Action Network public betting, Oct 18, 2026 11:32 UTC): same side, no divergence. Total split 66/34% bets, 70/30% money (Over/Under, Action Network public betting, Oct 18, 2026 11:32 UTC): same side, no divergence.",
     "In The Trenches: key trench piece ruled out, season metrics include him (38): Dayo Odeyingbo",
@@ -1183,7 +1183,7 @@
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "The Formula: Net ratings Baltimore Ravens 1.8, Cleveland Browns −9.6 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Cleveland Browns. Projected margin Baltimore Ravens by 9.6. Line Baltimore Ravens −3. Edge 6.6. Threshold 2.5 met. Cover Baltimore Ravens.",
+     "public_case": "The Formula: Net ratings Baltimore Ravens 1.8, Cleveland Browns −9.6 (nflverse play-by-play, Oct 18, 2026). Projected margin Baltimore Ravens by 9.6. Line Baltimore Ravens −3. Edge 6.6. Threshold 2.5 met. Cover Baltimore Ravens.",
      "market": "spread",
      "best_bet": false,
      "projected": {
@@ -1253,9 +1253,9 @@
     }
    ],
    "sourced_reasons": [
-    "The Formula: Net ratings Baltimore Ravens 1.8, Cleveland Browns −9.6 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Cleveland Browns. Projected margin Baltimore Ravens by 9.6. Line Baltimore Ravens −3. Edge 6.6. Threshold 2.5 met. Cover Baltimore Ravens.",
+    "The Formula: Net ratings Baltimore Ravens 1.8, Cleveland Browns −9.6 (nflverse play-by-play, Oct 18, 2026). Projected margin Baltimore Ravens by 9.6. Line Baltimore Ravens −3. Edge 6.6. Threshold 2.5 met. Cover Baltimore Ravens.",
     "The Formula data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
-    "Next Man Up: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "Next Man Up: no starting QB ruled out (09/23). No edge.",
     "Letdown Watch: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
     "Follow The Money: Spread opened Cleveland Browns +4.5 (Oct 13, 2026 06:30 UTC), now +3 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets 1-point threshold. Cover Cleveland Browns. Total opened 41.5 (Oct 13, 2026 07:33 UTC), now 39.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 2 meets 1-point threshold. Under.",
     "Follow The Money spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
@@ -1547,7 +1547,7 @@
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "The Formula: Net ratings Indianapolis Colts −6.2, Tennessee Titans −8.6 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Indianapolis Colts. Projected margin Indianapolis Colts by 4.1. Line Indianapolis Colts −6.5. Edge 2.4. Threshold 2.5 not met. No edge.",
+     "public_case": "The Formula: Net ratings Indianapolis Colts −6.2, Tennessee Titans −8.6 (nflverse play-by-play, Oct 18, 2026). Projected margin Indianapolis Colts by 4.1. Line Indianapolis Colts −6.5. Edge 2.4. Threshold 2.5 not met. No edge.",
      "market": "spread",
      "best_bet": false,
      "projected": {
@@ -1616,9 +1616,9 @@
     }
    ],
    "sourced_reasons": [
-    "The Formula: Net ratings Indianapolis Colts −6.2, Tennessee Titans −8.6 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Indianapolis Colts. Projected margin Indianapolis Colts by 4.1. Line Indianapolis Colts −6.5. Edge 2.4. Threshold 2.5 not met. No edge.",
+    "The Formula: Net ratings Indianapolis Colts −6.2, Tennessee Titans −8.6 (nflverse play-by-play, Oct 18, 2026). Projected margin Indianapolis Colts by 4.1. Line Indianapolis Colts −6.5. Edge 2.4. Threshold 2.5 not met. No edge.",
     "The Formula data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
-    "Next Man Up: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "Next Man Up: no starting QB ruled out (09/23). No edge.",
     "Letdown Watch: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
     "Follow The Money: Spread opened Indianapolis Colts −7 (Oct 13, 2026 07:13 UTC), now −6.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. Total opened 44 (Oct 13, 2026 17:44 UTC), now 44.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. No edge.",
     "Follow The Money spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
@@ -1908,7 +1908,7 @@
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "The Formula: Net ratings New England Patriots 2.9, New York Jets −4.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to New England Patriots. Projected margin New England Patriots by 8.7. Line New England Patriots −7.5. Edge 1.2. Threshold 2.5 not met. No edge.",
+     "public_case": "The Formula: Net ratings New England Patriots 2.9, New York Jets −4.1 (nflverse play-by-play, Oct 18, 2026). Projected margin New England Patriots by 8.7. Line New England Patriots −7.5. Edge 1.2. Threshold 2.5 not met. No edge.",
      "market": "spread",
      "best_bet": false,
      "projected": {
@@ -1977,9 +1977,9 @@
     }
    ],
    "sourced_reasons": [
-    "The Formula: Net ratings New England Patriots 2.9, New York Jets −4.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to New England Patriots. Projected margin New England Patriots by 8.7. Line New England Patriots −7.5. Edge 1.2. Threshold 2.5 not met. No edge.",
+    "The Formula: Net ratings New England Patriots 2.9, New York Jets −4.1 (nflverse play-by-play, Oct 18, 2026). Projected margin New England Patriots by 8.7. Line New England Patriots −7.5. Edge 1.2. Threshold 2.5 not met. No edge.",
     "The Formula data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
-    "Next Man Up: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "Next Man Up: no starting QB ruled out (09/23). No edge.",
     "Letdown Watch: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
     "Follow The Money: Spread opened New England Patriots −7.5 (Oct 13, 2026 10:37 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 43.5 (Oct 13, 2026 08:56 UTC), now 43.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. No edge.",
     "Follow The Money spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
@@ -2283,7 +2283,7 @@
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "The Formula: Net ratings New Orleans Saints −10.3, New York Giants −11.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to New York Giants. Projected margin New York Giants by 0.1. Line New Orleans Saints −1.5. Edge 1.6. Threshold 2.5 not met. No edge.",
+     "public_case": "The Formula: Net ratings New Orleans Saints −10.3, New York Giants −11.9 (nflverse play-by-play, Oct 18, 2026). Projected margin New York Giants by 0.1. Line New Orleans Saints −1.5. Edge 1.6. Threshold 2.5 not met. No edge.",
      "market": "spread",
      "best_bet": false,
      "projected": {
@@ -2353,9 +2353,9 @@
     }
    ],
    "sourced_reasons": [
-    "The Formula: Net ratings New Orleans Saints −10.3, New York Giants −11.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to New York Giants. Projected margin New York Giants by 0.1. Line New Orleans Saints −1.5. Edge 1.6. Threshold 2.5 not met. No edge.",
+    "The Formula: Net ratings New Orleans Saints −10.3, New York Giants −11.9 (nflverse play-by-play, Oct 18, 2026). Projected margin New York Giants by 0.1. Line New Orleans Saints −1.5. Edge 1.6. Threshold 2.5 not met. No edge.",
     "The Formula data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
-    "Next Man Up: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "Next Man Up: no starting QB ruled out (09/23). No edge.",
     "Letdown Watch: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
     "Follow The Money: Spread opened New York Giants +1.5 (Oct 13, 2026 08:56 UTC), now +1.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 45.5 (Oct 13, 2026 10:59 UTC), now 46 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. No edge.",
     "Follow The Money spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
@@ -2729,7 +2729,7 @@
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "The Formula: Net ratings Carolina Panthers −1.2, Philadelphia Eagles −8.3 (nflverse play-by-play, Oct 18, 2026). Philadelphia Eagles rating includes −1.5 for starting QB ruled out (NFL.com injury report, Oct 18, 2026 11:32 UTC; rule 157/156 item 1). Home field +1.75 to Philadelphia Eagles. Projected margin Carolina Panthers by 5.4. Line Carolina Panthers −3. Edge 2.4. Threshold 2.5 not met. No edge.",
+     "public_case": "The Formula: Net ratings Carolina Panthers −1.2, Philadelphia Eagles −8.3 (nflverse play-by-play, Oct 18, 2026). Projected margin Carolina Panthers by 5.4. Line Carolina Panthers −3. Edge 2.4. Threshold 2.5 not met. No edge.",
      "market": "spread",
      "best_bet": false,
      "projected": {
@@ -2788,9 +2788,8 @@
     }
    ],
    "sourced_reasons": [
-    "The Formula: Net ratings Carolina Panthers −1.2, Philadelphia Eagles −8.3 (nflverse play-by-play, Oct 18, 2026). Philadelphia Eagles rating includes −1.5 for starting QB ruled out (NFL.com injury report, Oct 18, 2026 11:32 UTC; rule 157/156 item 1). Home field +1.75 to Philadelphia Eagles. Projected margin Carolina Panthers by 5.4. Line Carolina Panthers −3. Edge 2.4. Threshold 2.5 not met. No edge.",
+    "The Formula: Net ratings Carolina Panthers −1.2, Philadelphia Eagles −8.3 (nflverse play-by-play, Oct 18, 2026). Projected margin Carolina Panthers by 5.4. Line Carolina Panthers −3. Edge 2.4. Threshold 2.5 not met. No edge.",
     "The Formula data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
-    "Next Man Up: starting QB ruled out; drop value 1.5 (QB minimum, rule 09/157 item 23); line movement since news not sourced -> no edge – data not found",
     "Letdown Watch: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
     "Follow The Money move test: starting QB ruled out; post-news baseline (28) not sourced -> no edge – data not found",
     "Follow The Money spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
@@ -3059,7 +3058,7 @@
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "The Formula: Net ratings Pittsburgh Steelers −6.6, Tampa Bay Buccaneers −6.8 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Tampa Bay Buccaneers. Projected margin Tampa Bay Buccaneers by 1.6. Line Pittsburgh Steelers −2.5. Edge 4.1. Threshold 2.5 met. Cover Tampa Bay Buccaneers.",
+     "public_case": "The Formula: Net ratings Pittsburgh Steelers −6.6, Tampa Bay Buccaneers −6.8 (nflverse play-by-play, Oct 18, 2026). Projected margin Tampa Bay Buccaneers by 1.6. Line Pittsburgh Steelers −2.5. Edge 4.1. Threshold 2.5 met. Cover Tampa Bay Buccaneers.",
      "market": "spread",
      "best_bet": false,
      "projected": {
@@ -3127,9 +3126,9 @@
     }
    ],
    "sourced_reasons": [
-    "The Formula: Net ratings Pittsburgh Steelers −6.6, Tampa Bay Buccaneers −6.8 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Tampa Bay Buccaneers. Projected margin Tampa Bay Buccaneers by 1.6. Line Pittsburgh Steelers −2.5. Edge 4.1. Threshold 2.5 met. Cover Tampa Bay Buccaneers.",
+    "The Formula: Net ratings Pittsburgh Steelers −6.6, Tampa Bay Buccaneers −6.8 (nflverse play-by-play, Oct 18, 2026). Projected margin Tampa Bay Buccaneers by 1.6. Line Pittsburgh Steelers −2.5. Edge 4.1. Threshold 2.5 met. Cover Tampa Bay Buccaneers.",
     "The Formula data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
-    "Next Man Up: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "Next Man Up: no starting QB ruled out (09/23). No edge.",
     "Letdown Watch: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
     "Follow The Money: Spread opened Tampa Bay Buccaneers +3 (Oct 13, 2026 07:45 UTC), now +2.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. Total opened 40.5 (Oct 13, 2026 07:45 UTC), now 38.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 2 meets 1-point threshold. Under.",
     "Follow The Money spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
@@ -3400,7 +3399,7 @@
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "The Formula: Net ratings Los Angeles Rams 6.1, Arizona Cardinals −8.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Los Angeles Rams. Projected margin Los Angeles Rams by 16.8. Line Los Angeles Rams −12.5. Edge 4.3. Threshold 2.5 met. Cover Los Angeles Rams.",
+     "public_case": "The Formula: Net ratings Los Angeles Rams 6.1, Arizona Cardinals −8.9 (nflverse play-by-play, Oct 18, 2026). Projected margin Los Angeles Rams by 16.8. Line Los Angeles Rams −12.5. Edge 4.3. Threshold 2.5 met. Cover Los Angeles Rams.",
      "market": "spread",
      "best_bet": false
     },
@@ -3434,9 +3433,9 @@
     }
    ],
    "sourced_reasons": [
-    "The Formula: Net ratings Los Angeles Rams 6.1, Arizona Cardinals −8.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Los Angeles Rams. Projected margin Los Angeles Rams by 16.8. Line Los Angeles Rams −12.5. Edge 4.3. Threshold 2.5 met. Cover Los Angeles Rams.",
+    "The Formula: Net ratings Los Angeles Rams 6.1, Arizona Cardinals −8.9 (nflverse play-by-play, Oct 18, 2026). Projected margin Los Angeles Rams by 16.8. Line Los Angeles Rams −12.5. Edge 4.3. Threshold 2.5 met. Cover Los Angeles Rams.",
     "The Formula data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
-    "Next Man Up: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "Next Man Up: no starting QB ruled out (09/23). No edge.",
     "Letdown Watch: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
     "Follow The Money: Spread opened Los Angeles Rams −13 (Oct 13, 2026 05:35 UTC), now −12.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold. Total opened 52.5 (Oct 13, 2026 05:38 UTC), now 51.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Under.",
     "Follow The Money spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
@@ -3479,7 +3478,7 @@
    ],
    "writer_total": {
     "label": "The Cover Writer's projection",
-    "source": "average of all five handicappers (rule 170)",
+    "source": "Cover Writer",
     "projected_total": 51,
     "market_total": 51.5,
     "pick": "Under",
@@ -3501,14 +3500,14 @@
       "side_line": "Side: Los Angeles Rams −12.5 · Edge 4.3 – qualifies",
       "ou_line": "O/U: Under 51.5 · No edge (0.60, under the 2.5 bar)",
       "score_line": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)",
-      "basis_line": "Net ratings Los Angeles Rams 6.1, Arizona Cardinals −8.9 + home field 1.75 = Rams by 16.8; total 50.9 (rule-165 method, sample ARI 5 games, LAR 5 games). Projected points per team = average of its points scored per game and the opponent's points allowed per game, 2026 Weeks 1–5 (nflverse games)."
+      "basis_line": "Net ratings Los Angeles Rams 6.1, Arizona Cardinals −8.9 (nflverse play-by-play, Oct 18, 2026)"
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: Los Angeles Rams −12.5 · No edge",
       "ou_line": "O/U: Under 51.5 · No edge",
       "score_line": "Projected: Los Angeles Rams 34, Arizona Cardinals 17 (Total 51)",
-      "basis_line": "Equals The Formula base – no expected starting quarterback is ruled out, so the 1.5-point quarterback value is not triggered. Every other absence is excluded because no point value was found (NFL.com official injury report, fetched Oct 18, 2026 11:32 UTC: no starting quarterback or starting lineman ruled out). No edge."
+      "basis_line": "Equals The Formula base – no expected starting quarterback is ruled out. NFL.com official injury report, fetched Oct 18, 2026 11:32 UTC: no starting quarterback or starting lineman ruled out. No edge."
      },
      {
       "name": "Letdown Watch",
@@ -3808,7 +3807,7 @@
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "The Formula: Net ratings Kansas City Chiefs 0.8, Los Angeles Chargers −5.5 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Kansas City Chiefs. Projected margin Kansas City Chiefs by 8.0. Line Kansas City Chiefs −7.5. Edge 0.5. Threshold 2.5 not met. No edge.",
+     "public_case": "The Formula: Net ratings Kansas City Chiefs 0.8, Los Angeles Chargers −5.5 (nflverse play-by-play, Oct 18, 2026). Projected margin Kansas City Chiefs by 8.0. Line Kansas City Chiefs −7.5. Edge 0.5. Threshold 2.5 not met. No edge.",
      "market": "spread",
      "best_bet": false
     },
@@ -3844,9 +3843,9 @@
     }
    ],
    "sourced_reasons": [
-    "The Formula: Net ratings Kansas City Chiefs 0.8, Los Angeles Chargers −5.5 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Kansas City Chiefs. Projected margin Kansas City Chiefs by 8.0. Line Kansas City Chiefs −7.5. Edge 0.5. Threshold 2.5 not met. No edge.",
+    "The Formula: Net ratings Kansas City Chiefs 0.8, Los Angeles Chargers −5.5 (nflverse play-by-play, Oct 18, 2026). Projected margin Kansas City Chiefs by 8.0. Line Kansas City Chiefs −7.5. Edge 0.5. Threshold 2.5 not met. No edge.",
     "The Formula data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
-    "Next Man Up: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "Next Man Up: no starting QB ruled out (09/23). No edge.",
     "Letdown Watch: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
     "Follow The Money: Spread opened Kansas City Chiefs −8.5 (Oct 13, 2026 10:31 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Cover Los Angeles Chargers. Total opened 42.5 (Oct 13, 2026 12:04 UTC), now 41.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Under.",
     "Follow The Money spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
@@ -3888,7 +3887,7 @@
    ],
    "writer_total": {
     "label": "The Cover Writer's projection",
-    "source": "average of all five handicappers (rule 170)",
+    "source": "Cover Writer",
     "projected_total": 45,
     "market_total": 41.5,
     "pick": "Over",
@@ -3910,14 +3909,14 @@
       "side_line": "Side: Kansas City Chiefs −7.5 · No edge (0.5, under the 2.5 bar)",
       "ou_line": "O/U: Over 41.5 · Edge 4.17 – qualifies",
       "score_line": "Projected: Kansas City Chiefs 27, Los Angeles Chargers 19 (Total 46)",
-      "basis_line": "Net ratings Kansas City Chiefs 0.8, Los Angeles Chargers −5.5 + home field 1.75 = Chiefs by 8.0; total 45.67 (rule-165 method, sample LAC 5 games, KC 4 games). Projected points per team = average of its points scored per game and the opponent's points allowed per game, 2026 Weeks 1–5 (nflverse games)."
+      "basis_line": "Net ratings Kansas City Chiefs 0.8, Los Angeles Chargers −5.5 (nflverse play-by-play, Oct 18, 2026)"
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: Kansas City Chiefs −7.5 · No edge",
       "ou_line": "O/U: Over 41.5 · No edge",
       "score_line": "Projected: Kansas City Chiefs 27, Los Angeles Chargers 19 (Total 46)",
-      "basis_line": "Equals The Formula base – no expected starting quarterback is ruled out, so the 1.5-point quarterback value is not triggered. Every other absence is excluded because no point value was found (NFL.com official injury report, fetched Oct 18, 2026 11:32 UTC: Joe Alt (T, LAC) Out; Kayode Awosika (G, LAC) Out; Josh Simmons (T, KC) Out). No edge."
+      "basis_line": "Equals The Formula base – no expected starting quarterback is ruled out. NFL.com official injury report, fetched Oct 18, 2026 11:32 UTC: Joe Alt (T, LAC) Out; Kayode Awosika (G, LAC) Out; Josh Simmons (T, KC) Out. No edge."
      },
      {
       "name": "Letdown Watch",
@@ -3938,7 +3937,7 @@
       "side_line": "Side: Kansas City Chiefs −7.5 · No edge",
       "ou_line": "O/U: Over 41.5 · No edge",
       "score_line": "Projected: Kansas City Chiefs 27, Los Angeles Chargers 19 (Total 46)",
-      "basis_line": "Equals The Formula base – not graded. Key trench starters are ruled out (Joe Alt, T, LAC; Kayode Awosika, G, LAC; Josh Simmons, T, KC) and the season ypc and sack-rate numbers still include them (rule 38), so the gaps are not measured. No edge."
+      "basis_line": "Equals The Formula base – not graded. Key trench starters are ruled out (Joe Alt, T, LAC; Kayode Awosika, G, LAC; Josh Simmons, T, KC) and the season ypc and sack-rate numbers still include them, so the gaps are not measured. No edge."
      }
     ],
     "best_bets": [],
@@ -4217,7 +4216,7 @@
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "The Formula: Net ratings Buffalo Bills 5.4, Las Vegas Raiders −9.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Las Vegas Raiders. Projected margin Buffalo Bills by 13.5. Line Buffalo Bills −5. Edge 8.5. Threshold 2.5 met. Cover Buffalo Bills.",
+     "public_case": "The Formula: Net ratings Buffalo Bills 5.4, Las Vegas Raiders −9.9 (nflverse play-by-play, Oct 18, 2026). Projected margin Buffalo Bills by 13.5. Line Buffalo Bills −5. Edge 8.5. Threshold 2.5 met. Cover Buffalo Bills.",
      "market": "spread",
      "best_bet": false,
      "projected": {
@@ -4255,9 +4254,9 @@
     }
    ],
    "sourced_reasons": [
-    "The Formula: Net ratings Buffalo Bills 5.4, Las Vegas Raiders −9.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Las Vegas Raiders. Projected margin Buffalo Bills by 13.5. Line Buffalo Bills −5. Edge 8.5. Threshold 2.5 met. Cover Buffalo Bills.",
+    "The Formula: Net ratings Buffalo Bills 5.4, Las Vegas Raiders −9.9 (nflverse play-by-play, Oct 18, 2026). Projected margin Buffalo Bills by 13.5. Line Buffalo Bills −5. Edge 8.5. Threshold 2.5 met. Cover Buffalo Bills.",
     "The Formula data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
-    "Next Man Up: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "Next Man Up: no starting QB ruled out (09/23). No edge.",
     "Letdown Watch: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
     "Follow The Money: Spread opened Las Vegas Raiders +6 (Oct 13, 2026 04:54 UTC), now +5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Cover Las Vegas Raiders. Total opened 53 (Oct 13, 2026 05:36 UTC), now 53.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0.5 under 1-point threshold.",
     "Follow The Money spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
@@ -4301,7 +4300,7 @@
    ],
    "writer_total": {
     "label": "The Cover Writer's projection",
-    "source": "average of all five handicappers (rule 170)",
+    "source": "Cover Writer",
     "projected_total": 56,
     "market_total": 53.5,
     "pick": "Over",
@@ -4323,14 +4322,14 @@
       "side_line": "Side: Buffalo Bills −5.5 · Edge 8.0 – qualifies",
       "ou_line": "O/U: Over 53.5 · Edge 3.10 – qualifies",
       "score_line": "Projected: Las Vegas Raiders 22, Buffalo Bills 35 (Total 57)",
-      "basis_line": "Net ratings Buffalo Bills 5.4, Las Vegas Raiders −9.9, home field 1.75 to Raiders = Bills by 13.5; total 56.6 (rule-165 method, sample BUF 5 games, LV 5 games). Projected points per team = average of its points scored per game and the opponent's points allowed per game, 2026 Weeks 1–5 (nflverse games)."
+      "basis_line": "Net ratings Buffalo Bills 5.4, Las Vegas Raiders −9.9 (nflverse play-by-play, Oct 18, 2026)"
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: Buffalo Bills −5.5 · No edge",
       "ou_line": "O/U: Over 53.5 · No edge",
       "score_line": "Projected: Las Vegas Raiders 22, Buffalo Bills 35 (Total 57)",
-      "basis_line": "Equals The Formula base – no expected starting quarterback is ruled out, so the 1.5-point quarterback value is not triggered. Every other absence is excluded because no point value was found (NFL.com official injury report, fetched Oct 18, 2026 11:32 UTC: Tonka Hemingway (DT, LV) Out). No edge."
+      "basis_line": "Equals The Formula base – no expected starting quarterback is ruled out. NFL.com official injury report, fetched Oct 18, 2026 11:32 UTC: Tonka Hemingway (DT, LV) Out. No edge."
      },
      {
       "name": "Letdown Watch",
@@ -4351,7 +4350,7 @@
       "side_line": "Side: Buffalo Bills −5.5 · No edge",
       "ou_line": "O/U: Over 53.5 · No edge",
       "score_line": "Projected: Las Vegas Raiders 22, Buffalo Bills 35 (Total 57)",
-      "basis_line": "Equals The Formula base – not graded. Key trench starter Tonka Hemingway (DT, LV) is ruled out and the season ypc and sack-rate numbers still include him (rule 38), so the gaps are not measured. No edge."
+      "basis_line": "Equals The Formula base – not graded. Key trench starter Tonka Hemingway (DT, LV) is ruled out and the season ypc and sack-rate numbers still include him, so the gaps are not measured. No edge."
      }
     ],
     "best_bets": [],
@@ -4623,7 +4622,7 @@
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "The Formula: Net ratings Green Bay Packers −0.6, Dallas Cowboys −6.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Green Bay Packers. Projected margin Green Bay Packers by 8.0. Line Green Bay Packers −1.5. Edge 6.5. Threshold 2.5 met. Cover Green Bay Packers.",
+     "public_case": "The Formula: Net ratings Green Bay Packers −0.6, Dallas Cowboys −6.9 (nflverse play-by-play, Oct 18, 2026). Projected margin Green Bay Packers by 8.0. Line Green Bay Packers −1.5. Edge 6.5. Threshold 2.5 met. Cover Green Bay Packers.",
      "market": "spread",
      "best_bet": false,
      "projected": {
@@ -4660,20 +4659,20 @@
     },
     {
      "id": "H5",
-     "public_case": "In The Trenches: Dallas Cowboys 3.8 ypc vs Green Bay Packers allows 4.2; Green Bay Packers 3.4 ypc vs Dallas Cowboys allows 5.3. Sack rate Dallas Cowboys generates 3.5% vs Green Bay Packers allows 5.2%; Green Bay Packers generates 7.5% vs Dallas Cowboys allows 3.0% (nflverse play-by-play, Oct 18, 2026). Per-side test: Green Bay Packers run game 1.92 ypc below what Dallas Cowboys allow, meets 0.5 ypc; other gaps under cutoff. Edge: Dallas Cowboys +1.5.",
+     "public_case": "In The Trenches: Dallas Cowboys 3.8 ypc vs Green Bay Packers allows 4.2; Green Bay Packers 3.4 ypc vs Dallas Cowboys allows 5.3. Sack rate Dallas Cowboys generates 3.5% vs Green Bay Packers allows 5.2%; Green Bay Packers generates 7.5% vs Dallas Cowboys allows 3.0% (nflverse play-by-play, Oct 18, 2026). Edge: Dallas Cowboys +1.5.",
      "market": "spread",
      "best_bet": false
     }
    ],
    "sourced_reasons": [
-    "The Formula: Net ratings Green Bay Packers −0.6, Dallas Cowboys −6.9 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to Green Bay Packers. Projected margin Green Bay Packers by 8.0. Line Green Bay Packers −1.5. Edge 6.5. Threshold 2.5 met. Cover Green Bay Packers.",
+    "The Formula: Net ratings Green Bay Packers −0.6, Dallas Cowboys −6.9 (nflverse play-by-play, Oct 18, 2026). Projected margin Green Bay Packers by 8.0. Line Green Bay Packers −1.5. Edge 6.5. Threshold 2.5 met. Cover Green Bay Packers.",
     "The Formula data label (internal): single-source nflverse; PFR/ESPN second-source check not completed -> not Best Bet eligible (67/118).",
-    "Next Man Up: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded (09/23). No edge.",
+    "Next Man Up: no starting QB ruled out (09/23). No edge.",
     "Letdown Watch: No scheduling edge this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
     "Follow The Money: Spread opened Green Bay Packers −1.5 (Oct 13, 2026 16:31 UTC), now −1.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0 under 1-point threshold. Total opened 52.5 (Oct 13, 2026 04:28 UTC), now 53.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1 meets 1-point threshold. Over.",
     "Follow The Money spread split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
     "Follow The Money total split: money % not shown free on actionnetwork.com/nfl/public-betting (Action PRO) -> not published (157 item 20)",
-    "In The Trenches: Dallas Cowboys 3.8 ypc vs Green Bay Packers allows 4.2; Green Bay Packers 3.4 ypc vs Dallas Cowboys allows 5.3. Sack rate Dallas Cowboys generates 3.5% vs Green Bay Packers allows 5.2%; Green Bay Packers generates 7.5% vs Dallas Cowboys allows 3.0% (nflverse play-by-play, Oct 18, 2026). Per-side test: Green Bay Packers run game 1.92 ypc below what Dallas Cowboys allow, meets 0.5 ypc; other gaps under cutoff. Edge: Dallas Cowboys +1.5.",
+    "In The Trenches: Dallas Cowboys 3.8 ypc vs Green Bay Packers allows 4.2; Green Bay Packers 3.4 ypc vs Dallas Cowboys allows 5.3. Sack rate Dallas Cowboys generates 3.5% vs Green Bay Packers allows 5.2%; Green Bay Packers generates 7.5% vs Dallas Cowboys allows 3.0% (nflverse play-by-play, Oct 18, 2026). Edge: Dallas Cowboys +1.5.",
     "Key absences (NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg6, fetched Oct 18, 2026 11:32 UTC): Drew Shelton (T, DAL) Out; Jonathan Ford (DT, GB) Out; Javon Hargrave (DT, GB) Out"
    ],
    "total_line": 53.5,
@@ -4710,7 +4709,7 @@
    ],
    "writer_total": {
     "label": "The Cover Writer's projection",
-    "source": "average of all five handicappers (rule 170)",
+    "source": "Cover Writer",
     "projected_total": 50,
     "market_total": 53.5,
     "pick": "Under",
@@ -4732,14 +4731,14 @@
       "side_line": "Side: Green Bay Packers −1.5 · Edge 6.5 – qualifies",
       "ou_line": "O/U: Under 53.5 · Edge 4.50 – qualifies",
       "score_line": "Projected: Green Bay Packers 29, Dallas Cowboys 20 (Total 49)",
-      "basis_line": "Net ratings Green Bay Packers −0.6, Dallas Cowboys −6.9 + home field 1.75 = Packers by 8.0; total 49.0 (rule-165 method, sample DAL 5 games, GB 5 games). Projected points per team = average of its points scored per game and the opponent's points allowed per game, 2026 Weeks 1–5 (nflverse games)."
+      "basis_line": "Net ratings Green Bay Packers −0.6, Dallas Cowboys −6.9 (nflverse play-by-play, Oct 18, 2026)"
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: Green Bay Packers −1.5 · No edge",
       "ou_line": "O/U: Under 53.5 · No edge",
       "score_line": "Projected: Green Bay Packers 29, Dallas Cowboys 20 (Total 49)",
-      "basis_line": "Equals The Formula base – no expected starting quarterback is ruled out, so the 1.5-point quarterback value is not triggered. Every other absence is excluded because no point value was found (NFL.com official injury report, fetched Oct 18, 2026 11:32 UTC: Drew Shelton (T, DAL) Out; Jonathan Ford (DT, GB) Out; Javon Hargrave (DT, GB) Out). No edge."
+      "basis_line": "Equals The Formula base – no expected starting quarterback is ruled out. NFL.com official injury report, fetched Oct 18, 2026 11:32 UTC: Drew Shelton (T, DAL) Out; Jonathan Ford (DT, GB) Out; Javon Hargrave (DT, GB) Out. No edge."
      },
      {
       "name": "Letdown Watch",
@@ -4760,7 +4759,7 @@
       "side_line": "Side: Dallas Cowboys +1.5 · Run gap 1.92 ypc – qualifies",
       "ou_line": "O/U: Under 53.5 · No edge",
       "score_line": "Projected: Green Bay Packers 29, Dallas Cowboys 20 (Total 49)",
-      "basis_line": "Equals The Formula base – the edge is a label only; the score is unchanged. Dallas Cowboys 3.8 ypc vs Green Bay Packers allowing 4.2; Green Bay Packers 3.4 ypc vs Dallas Cowboys allowing 5.3. Sack rate: Dallas Cowboys generate 3.5% vs Green Bay Packers allowing 5.2%; Green Bay Packers generate 7.5% vs Dallas Cowboys allowing 3.0% (nflverse play-by-play, Oct 18, 2026). Per-side test: Green Bay's run game (3.4 ypc) is 1.92 ypc below what Dallas allows (5.3), which meets the 0.5 ypc cutoff and favors Dallas. The other three gaps do not qualify (Dallas run game 0.4 below what Green Bay allows; pass rush 1.7 and 4.5 points, under 5). Edge: Dallas Cowboys +1.5."
+      "basis_line": "Equals The Formula base – the edge is a label only; the score is unchanged. Dallas Cowboys 3.8 ypc vs Green Bay Packers allowing 4.2; Green Bay Packers 3.4 ypc vs Dallas Cowboys allowing 5.3. Sack rate: Dallas Cowboys generate 3.5% vs Green Bay Packers allowing 5.2%; Green Bay Packers generate 7.5% vs Dallas Cowboys allowing 3.0% (nflverse play-by-play, Oct 18, 2026). The other three gaps do not qualify (Dallas run game 0.4 below what Green Bay allows; pass rush 1.7 and 4.5 points, under 5). Edge: Dallas Cowboys +1.5."
      }
     ],
     "best_bets": [],
@@ -5129,7 +5128,7 @@
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "The Formula: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to San Francisco 49ers. Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Gap 13.1, clear of the 2.5-point cutoff. Cover San Francisco 49ers.",
+     "public_case": "The Formula: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Gap 13.1, clear of the 2.5-point cutoff. Cover San Francisco 49ers.",
      "market": "spread",
      "best_bet": false
     },
@@ -5165,8 +5164,8 @@
     }
    ],
    "sourced_reasons": [
-    "The Formula: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Home field +1.75 to San Francisco 49ers. Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Gap 13.1, clear of the 2.5-point cutoff. Cover San Francisco 49ers.",
-    "Next Man Up: no starting QB ruled out (QB value 1.5 not triggered); all other absences: point value not found – excluded. No strong lean.",
+    "The Formula: Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026). Projected margin San Francisco 49ers by 20.6. Line San Francisco 49ers −7.5. Gap 13.1, clear of the 2.5-point cutoff. Cover San Francisco 49ers.",
+    "Next Man Up: no starting QB ruled out. No strong lean.",
     "Letdown Watch: No scheduling spot this week. No short-week, long-rest, significant travel, or back-to-back road situation meets the multi-year sample threshold for either team.",
     "Follow The Money: Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC), now −7.5 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 0, under the 1-point cutoff. Total opened 50.5 (Oct 13, 2026 05:04 UTC), now 52 (Oct 18, 2026 11:32 UTC), Action Network consensus. Move 1.5 meets the 1-point cutoff. Over.",
     "Follow The Money spread split: the money share is not shown free on actionnetwork.com/nfl/public-betting, so it is not published.",
@@ -5210,7 +5209,7 @@
    ],
    "writer_total": {
     "label": "The Cover Writer's projection",
-    "source": "average of all five handicappers",
+    "source": "Cover Writer",
     "projected_total": 51,
     "market_total": 52,
     "pick": "Under",
@@ -5232,14 +5231,14 @@
       "side_line": "Side: San Francisco 49ers −7.5 · Likes this side",
       "ou_line": "O/U: Under 52 · No strong lean (gap 0.90, under the 2.5-point cutoff)",
       "score_line": "Projected: San Francisco 49ers 36, Washington Commanders 15 (Total 51)",
-      "basis_line": "Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 + home field 1.75 = 49ers by 20.6; total 51.1 (sample WAS 5 games, SF 5 games). Projected points per team = average of its points scored per game and the opponent's points allowed per game, 2026 Weeks 1–5 (nflverse games)."
+      "basis_line": "Net ratings San Francisco 49ers 9.8, Washington Commanders −9.1 (nflverse play-by-play, Oct 18, 2026)"
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: San Francisco 49ers −7.5 · No strong lean",
       "ou_line": "O/U: Under 52 · No strong lean",
       "score_line": "Projected: San Francisco 49ers 36, Washington Commanders 15 (Total 51)",
-      "basis_line": "Same as The Formula – no expected starting quarterback is ruled out, so the 1.5-point quarterback value is not triggered. Marcus Mariota (WAS) is listed out but is the backup; Jayden Daniels practiced fully and starts. Every other absence is excluded because no point value was found (NFL.com official injury report, fetched Oct 18, 2026 11:32 UTC: Charles Omenihu (DE, WAS) Out; Nick Bosa (DE, SF) Out). No strong lean."
+      "basis_line": "Same as The Formula – no expected starting quarterback is ruled out. Marcus Mariota (WAS) is listed out but is the backup; Jayden Daniels practiced fully and starts. NFL.com official injury report, fetched Oct 18, 2026 11:32 UTC: Charles Omenihu (DE, WAS) Out; Nick Bosa (DE, SF) Out. No strong lean."
      },
      {
       "name": "Letdown Watch",
