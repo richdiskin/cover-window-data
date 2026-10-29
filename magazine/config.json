@@ -83,7 +83,7 @@
    }
   ],
   "score_title": "How the predicted score is made",
-  "score_text": "The predicted final score on every game is the even average of the five handicapper projections. Each handicapper produces its own whole-number score from the inputs it already uses. Those five scores are weighted equally. The home points are averaged and rounded to the nearest whole number; the away points are averaged and rounded the same way. The two rounded numbers are the official predicted score. The total is their sum. If a handicapper has no projection yet, it is left out and the rest are still weighted equally among themselves. The Cover Writer then reads the covering side and the over/under from this averaged score against the current line."
+  "score_text": "Every game gets one predicted final score from The Cover Writer, and the total is the sum of its two numbers. The Cover Writer reads the covering side and the over/under from that score against the current line."
  },
  "back_issue_extras": [
   {
