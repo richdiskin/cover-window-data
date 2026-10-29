@@ -2399,30 +2399,91 @@
     "line_used": {
      "home_line": "James Madison Dukes −21",
      "total": "49.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-10-27T20:44Z"
+     "source": "ESPN scoreboard odds (DraftKings), Oct 27, 2026, 4:44 PM ET"
     },
     "injuries": {
      "away": [
       {
        "player": "Goose Crowder",
-       "position": "QB",
+       "position": "Troy, QB",
        "injury": "",
        "practice_status": "",
        "game_status": "Probable"
+      },
+      {
+       "player": "TK Keyes",
+       "position": "Troy, WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Questionable"
+      },
+      {
+       "player": "Tai Terrell",
+       "position": "Troy, DB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Doubtful"
+      },
+      {
+       "player": "Jackson Worley",
+       "position": "Troy, TE",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out for Season"
+      },
+      {
+       "player": "Joe Lott",
+       "position": "Troy, DB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out for Season"
+      },
+      {
+       "player": "Jermaine Paramore",
+       "position": "Troy, DL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out for Season"
       }
      ],
      "home": [
       {
-       "player": "George Pettaway",
-       "position": "RB",
+       "player": "Za'Ron Collins",
+       "position": "James Madison, WR",
        "injury": "",
        "practice_status": "",
        "game_status": "Out"
+      },
+      {
+       "player": "Jayon Harvey",
+       "position": "James Madison, DB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Jayden Studio",
+       "position": "James Madison, ILB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Questionable"
+      },
+      {
+       "player": "George Pettaway",
+       "position": "James Madison, RB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Tanner Vibabul",
+       "position": "James Madison, QB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Doubtful"
       }
      ],
-     "source": "Sun Belt availability report (Oct 28, 2026), via RotoWire",
-     "fetched_at_utc": "2026-10-28T23:20:00Z"
+     "source": "Sun Belt availability report, initial report, posted Oct 28, 2026, 8:57 PM ET"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
