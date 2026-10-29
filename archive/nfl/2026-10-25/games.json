@@ -492,7 +492,7 @@
       "side_line": "Side: No strong lean (line move under 1 point)",
       "ou_line": "O/U: Over 52 · Likes this total",
       "score_line": "",
-      "basis_line": "Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC) and is still −7.5 (Oct 18, 2026 11:32 UTC; 18:44 UTC Action Network consensus), no move, so no lean on the side. Total opened 50.5 (Oct 13, 2026 05:04 UTC) and is 52 now, a 1.5-point move that meets the 1-point cutoff: Over. The bets-versus-money split is not published free, so it is not included."
+      "basis_line": "Spread opened San Francisco 49ers −7.5 (Oct 13, 2026 10:59 UTC) and is still −7.5 (Oct 18, 2026 11:32 UTC; 18:44 UTC Action Network consensus), no move, so no lean on the side. Total opened 50.5 (Oct 13, 2026 05:04 UTC) and is 52 now. The bets-versus-money split is not published free, so it is not included."
      },
      {
       "name": "In The Trenches",
@@ -767,7 +767,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Chicago Bears −3 (Oct 20, 2026 05:41 UTC) and is Chicago Bears −3 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 50.5 (Oct 20, 2026 06:22 UTC) and is 50.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Chicago Bears −3 (Oct 20, 2026 05:41 UTC) and is Chicago Bears −3 now (Oct 20, 2026 12:52 UTC). Total opened 50.5 (Oct 20, 2026 06:22 UTC) and is 50.5 now. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -847,7 +847,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Chicago Bears −3 (Oct 20, 2026 05:41 UTC) and is Chicago Bears −3 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 50.5 (Oct 20, 2026 06:22 UTC) and is 50.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Chicago Bears −3 (Oct 20, 2026 05:41 UTC) and is Chicago Bears −3 now (Oct 20, 2026 12:52 UTC). Total opened 50.5 (Oct 20, 2026 06:22 UTC) and is 50.5 now. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.0,
       "distance_from_total": 0.5
@@ -1278,7 +1278,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Pittsburgh Steelers −3.5 (Oct 20, 2026 06:38 UTC) and is Pittsburgh Steelers −3.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 44.5 (Oct 20, 2026 06:38 UTC) and is 44.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Pittsburgh Steelers −3.5 (Oct 20, 2026 06:38 UTC) and is Pittsburgh Steelers −3.5 now (Oct 20, 2026 12:52 UTC). Total opened 44.5 (Oct 20, 2026 06:38 UTC) and is 44.5 now. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -1358,7 +1358,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Pittsburgh Steelers −3.5 (Oct 20, 2026 06:38 UTC) and is Pittsburgh Steelers −3.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 44.5 (Oct 20, 2026 06:38 UTC) and is 44.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Pittsburgh Steelers −3.5 (Oct 20, 2026 06:38 UTC) and is Pittsburgh Steelers −3.5 now (Oct 20, 2026 12:52 UTC). Total opened 44.5 (Oct 20, 2026 06:38 UTC) and is 44.5 now. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -1848,7 +1848,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened San Francisco 49ers −3.5 (Oct 20, 2026 04:20 UTC) and is San Francisco 49ers −3.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 49.5 (Oct 20, 2026 04:18 UTC) and is 50.5 now, a 1-point move, meeting the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened San Francisco 49ers −3.5 (Oct 20, 2026 04:20 UTC) and is San Francisco 49ers −3.5 now (Oct 20, 2026 12:52 UTC). Total opened 49.5 (Oct 20, 2026 04:18 UTC) and is 50.5 now. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -1928,7 +1928,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: Over 50.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened San Francisco 49ers −3.5 (Oct 20, 2026 04:20 UTC) and is San Francisco 49ers −3.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 49.5 (Oct 20, 2026 04:18 UTC) and is 50.5 now, a 1-point move, meeting the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened San Francisco 49ers −3.5 (Oct 20, 2026 04:20 UTC) and is San Francisco 49ers −3.5 now (Oct 20, 2026 12:52 UTC). Total opened 49.5 (Oct 20, 2026 04:18 UTC) and is 50.5 now. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -1945,7 +1945,7 @@
      }
     ],
     "best_bets": [],
-    "story_text": "The best team in this game is also the one flying cross-country on a short week. I'm laying the points anyway, and I'll tell you why.\n\nSan Francisco 49ers (6-0) at Atlanta Falcons (2-4), Sunday at 1 p.m. ET on Fox at Mercedes-Benz Stadium. The consensus had San Francisco −3.5 with a total of 50.5; it's now −2.5, same total. My card: San Francisco 49ers −3.5, Under 50.5, and a final of 49ers 27, Falcons 21.\n\nWhy the 49ers? The Formula: Net ratings 49ers 8.1, Falcons 0.4 (nflverse play-by-play, Oct. 20, 2026). You're laying 3.5. Atlanta is 0-3 at home, and its last two games brought an overtime loss to Baltimore, in which Michael Penix Jr. left with a rib injury, and a 31-7 hole against Chicago. San Francisco, meanwhile, protects its quarterback like a vault. Purdy rarely goes down. Atlanta's quarterbacks go down far more often, and Chicago just sacked Penix five times.\n\nThe caveats, because I don't hide the ugly parts: the 49ers beat Washington 23-17 on Monday night and now travel to Atlanta on a short week, and a six-point win over a 1-4-1 team at home was not exactly a statement. The 49ers are also banged up: Deebo Samuel is out with a hamstring injury, and Mike Evans and Nick Bosa are both out on Friday's injury report. Also, the Falcons run for 5.2 yards a carry. If Bijan Robinson gets more than nine carries this time, Atlanta can shorten the game.\n\nWhy the Under? The Formula's number is 48.5, and my final adds up to 48. That's two and a half points short of 50.5. San Francisco has allowed 110 points in six games. Both teams' run defenses are stingy, 3.7 yards a carry allowed by San Francisco and 3.8 by Atlanta, and the 49ers can grind clock with Christian McCaffrey.\n\nThe room agreed on the winner, and that's where the peace ended. The Formula and In The Trenches both have 49ers 27, Falcons 21, Letdown Watch has 49ers 27, Falcons 20, and Next Man Up has 49ers 26, Falcons 22. Follow The Money has no side pick and likes the Over 50.5.\n\nOf course, The Formula still found one: \"Twenty-four for Atlanta? Against this defense? Did you watch a different Falcons team than I did?\"\n\nFollow The Money didn't even look up: \"This week I'm on the Over and you're on the Under. Same game, opposite sides. We'll see who's still talking on Monday.\"\n\nEverybody else stayed out of it.\n\nBottom of the card: a better, cleaner team getting a short number against a club that can't win at home yet. Lay it and take the Under.\n\n49ers 27, Falcons 21. 49ers cover the 3.5. Under 50.5.",
+    "story_text": "The best team in this game is also the one flying cross-country on a short week. I'm laying the points anyway, and I'll tell you why.\n\nSan Francisco 49ers (6-0) at Atlanta Falcons (2-4), Sunday at 1 p.m. ET on Fox at Mercedes-Benz Stadium. The consensus had San Francisco −3.5 with a total of 50.5; it's now −2.5, same total. My card: San Francisco 49ers −3.5, Under 50.5, and a final of 49ers 27, Falcons 21.\n\nWhy the 49ers? The Formula: Net ratings 49ers 8.1, Falcons 0.4 (nflverse play-by-play, Oct. 20, 2026). You're laying 3.5. Atlanta is 0-3 at home, and its last two games brought an overtime loss to Baltimore, in which Michael Penix Jr. left with a rib injury, and a 31-7 hole against Chicago. San Francisco, meanwhile, protects its quarterback like a vault. Purdy rarely goes down. Atlanta's quarterbacks go down far more often, and Chicago just sacked Penix five times.\n\nThe caveats, because I don't hide the ugly parts: the 49ers beat Washington 23-17 on Monday night and now travel to Atlanta on a short week, and a six-point win over a 1-4-1 team at home was not exactly a statement. The 49ers are also banged up: Deebo Samuel is out with a hamstring injury, and Mike Evans and Nick Bosa are both out on Friday's injury report. Also, the Falcons run for 5.2 yards a carry. If Bijan Robinson gets more than nine carries this time, Atlanta can shorten the game.\n\nWhy the Under? The Formula's number is 48.5, and my final adds up to 48. That's two and a half points short of 50.5. San Francisco has allowed 110 points in six games. Both teams' run defenses are stingy, 3.7 yards a carry allowed by San Francisco and 3.8 by Atlanta, and the 49ers can grind clock with Christian McCaffrey.\n\nThe room agreed on the winner, and that's where the peace ended. The Formula and In The Trenches both have 49ers 27, Falcons 21, Letdown Watch has 49ers 27, Falcons 20, and Next Man Up has 49ers 26, Falcons 22. Follow The Money has no pick on the side and likes the Over 50.5.\n\nOf course, The Formula still found one: \"Twenty-four for Atlanta? Against this defense? Did you watch a different Falcons team than I did?\"\n\nFollow The Money didn't even look up: \"This week I'm on the Over and you're on the Under. Same game, opposite sides. We'll see who's still talking on Monday.\"\n\nEverybody else stayed out of it.\n\nBottom of the card: a better, cleaner team getting a short number against a club that can't win at home yet. Lay it and take the Under.\n\n49ers 27, Falcons 21. 49ers cover the 3.5. Under 50.5.",
     "fanatic_score_line": "Projected: Atlanta Falcons 21, San Francisco 49ers 27 (Total 48)",
     "market": {
      "score_line": "Market: Atlanta Falcons 24, San Francisco 49ers 27 (Total 51)",
@@ -1955,7 +1955,7 @@
      "note": "The market’s own numbers, shown for comparison only."
     }
    },
-   "gambler_story": "The best team in this game is also the one flying cross-country on a short week. I'm laying the points anyway, and I'll tell you why.\n\nSan Francisco 49ers (6-0) at Atlanta Falcons (2-4), Sunday at 1 p.m. ET on Fox at Mercedes-Benz Stadium. The consensus had San Francisco −3.5 with a total of 50.5; it's now −2.5, same total. My card: San Francisco 49ers −3.5, Under 50.5, and a final of 49ers 27, Falcons 21.\n\nWhy the 49ers? The Formula: Net ratings 49ers 8.1, Falcons 0.4 (nflverse play-by-play, Oct. 20, 2026). You're laying 3.5. Atlanta is 0-3 at home, and its last two games brought an overtime loss to Baltimore, in which Michael Penix Jr. left with a rib injury, and a 31-7 hole against Chicago. San Francisco, meanwhile, protects its quarterback like a vault. Purdy rarely goes down. Atlanta's quarterbacks go down far more often, and Chicago just sacked Penix five times.\n\nThe caveats, because I don't hide the ugly parts: the 49ers beat Washington 23-17 on Monday night and now travel to Atlanta on a short week, and a six-point win over a 1-4-1 team at home was not exactly a statement. The 49ers are also banged up: Deebo Samuel is out with a hamstring injury, and Mike Evans and Nick Bosa are both out on Friday's injury report. Also, the Falcons run for 5.2 yards a carry. If Bijan Robinson gets more than nine carries this time, Atlanta can shorten the game.\n\nWhy the Under? The Formula's number is 48.5, and my final adds up to 48. That's two and a half points short of 50.5. San Francisco has allowed 110 points in six games. Both teams' run defenses are stingy, 3.7 yards a carry allowed by San Francisco and 3.8 by Atlanta, and the 49ers can grind clock with Christian McCaffrey.\n\nThe room agreed on the winner, and that's where the peace ended. The Formula and In The Trenches both have 49ers 27, Falcons 21, Letdown Watch has 49ers 27, Falcons 20, and Next Man Up has 49ers 26, Falcons 22. Follow The Money has no side pick and likes the Over 50.5.\n\nOf course, The Formula still found one: \"Twenty-four for Atlanta? Against this defense? Did you watch a different Falcons team than I did?\"\n\nFollow The Money didn't even look up: \"This week I'm on the Over and you're on the Under. Same game, opposite sides. We'll see who's still talking on Monday.\"\n\nEverybody else stayed out of it.\n\nBottom of the card: a better, cleaner team getting a short number against a club that can't win at home yet. Lay it and take the Under.\n\n49ers 27, Falcons 21. 49ers cover the 3.5. Under 50.5.",
+   "gambler_story": "The best team in this game is also the one flying cross-country on a short week. I'm laying the points anyway, and I'll tell you why.\n\nSan Francisco 49ers (6-0) at Atlanta Falcons (2-4), Sunday at 1 p.m. ET on Fox at Mercedes-Benz Stadium. The consensus had San Francisco −3.5 with a total of 50.5; it's now −2.5, same total. My card: San Francisco 49ers −3.5, Under 50.5, and a final of 49ers 27, Falcons 21.\n\nWhy the 49ers? The Formula: Net ratings 49ers 8.1, Falcons 0.4 (nflverse play-by-play, Oct. 20, 2026). You're laying 3.5. Atlanta is 0-3 at home, and its last two games brought an overtime loss to Baltimore, in which Michael Penix Jr. left with a rib injury, and a 31-7 hole against Chicago. San Francisco, meanwhile, protects its quarterback like a vault. Purdy rarely goes down. Atlanta's quarterbacks go down far more often, and Chicago just sacked Penix five times.\n\nThe caveats, because I don't hide the ugly parts: the 49ers beat Washington 23-17 on Monday night and now travel to Atlanta on a short week, and a six-point win over a 1-4-1 team at home was not exactly a statement. The 49ers are also banged up: Deebo Samuel is out with a hamstring injury, and Mike Evans and Nick Bosa are both out on Friday's injury report. Also, the Falcons run for 5.2 yards a carry. If Bijan Robinson gets more than nine carries this time, Atlanta can shorten the game.\n\nWhy the Under? The Formula's number is 48.5, and my final adds up to 48. That's two and a half points short of 50.5. San Francisco has allowed 110 points in six games. Both teams' run defenses are stingy, 3.7 yards a carry allowed by San Francisco and 3.8 by Atlanta, and the 49ers can grind clock with Christian McCaffrey.\n\nThe room agreed on the winner, and that's where the peace ended. The Formula and In The Trenches both have 49ers 27, Falcons 21, Letdown Watch has 49ers 27, Falcons 20, and Next Man Up has 49ers 26, Falcons 22. Follow The Money has no pick on the side and likes the Over 50.5.\n\nOf course, The Formula still found one: \"Twenty-four for Atlanta? Against this defense? Did you watch a different Falcons team than I did?\"\n\nFollow The Money didn't even look up: \"This week I'm on the Over and you're on the Under. Same game, opposite sides. We'll see who's still talking on Monday.\"\n\nEverybody else stayed out of it.\n\nBottom of the card: a better, cleaner team getting a short number against a club that can't win at home yet. Lay it and take the Under.\n\n49ers 27, Falcons 21. 49ers cover the 3.5. Under 50.5.",
    "fanatic_story": "Mercedes-Benz Stadium, 1 p.m. Eastern on Fox. San Francisco arrives 6-0 and on a short week after Monday night's 23-17 home win against Washington. Atlanta arrives 2-4 and still looking for its first home win. Nora Haskell measures the 49ers in rings, all five of them. Russ Amundsen measures the Falcons in NFC South math, and the math says nothing is decided in October.\n\nRuss: Nora, welcome to Atlanta. Our roof opens like a camera lens. Look up and be amazed.\n\nNora: I've heard. I've also heard you're 0-3 at home.\n\nRuss: We're saving the good stuff. The NFC South gets settled in December. Ask anybody.\n\nNora: Five Super Bowls, Russ. Montana, Young, Walsh. The Catch. Our trophy case has its own zip code.\n\nRuss: And your defensive coordinator used to be our head coach. Raheem Morris coached the Falcons the last two seasons. So technically, our guy is running your defense.\n\nNora: Technically, we hired him. So technically, he's ours now.\n\nLast game, 49ers: On Monday night, the 49ers beat Washington 23-17 at home to stay perfect. Before that, the 49ers won 32-29 in Seattle in a playoff rematch with the defending champions. Brock Purdy found Mike Evans four times for 75 yards on the go-ahead drive, then hit newcomer Brandin Cooks for a 7-yard touchdown, and Evans caught the 2-point conversion. After Seattle tied it, Purdy drove the 49ers into range for Eddy Pineiro's go-ahead field goal with 1:56 left. The game had seven combined turnovers, a season high.\n\nNora: I don't get excited about October. I get excited about February. But Evans going up and getting the ball in Seattle? I'll allow myself one smile.\n\nLast week, Falcons: Atlanta fell behind Chicago 31-7 and rallied to 31-23 before a late strip-sack ended it. Michael Penix Jr., a week after leaving the Baltimore game with a rib injury, threw three touchdown passes: a 13-yarder to Jahan Dotson and two to Kyle Pitts. Penix also threw two 2-point conversions, to Zachariah Branch and Drake London. But the Bears sacked him five times, and Bijan Robinson got just nine carries. And the scariest moment of the day ended in the best way: rookie linebacker Kendal Daniels was carted off with a neck injury, then walked back into the locker room on his own after a hospital visit. Praise God for that.\n\nRuss: Kevin Stefanski said the slow start was on the coaches. I agree. Bijan Robinson with nine carries is like owning a sports car and leaving it in the garage.\n\nThe matchup: The Falcons run for 5.2 yards a carry, and San Francisco allows just 3.7. That's the heavyweight fight. Christian McCaffrey against Jessie Bates III and the Falcons' second level could decide it. Kendal Daniels was cleared to practice just three days after that scare and is questionable on Friday's injury report, but linebacker Divine Deablo (forearm) is out. Purdy has been sacked rarely this year. Penix has not. San Francisco is banged up, though: Deebo Samuel is out with a hamstring injury, and Friday's report ruled out both Mike Evans (ribs, Achilles) and Nick Bosa, who hasn't played since the second week of the season because of a calf injury. That could mean a big day for Brandin Cooks and Jordan Watkins, and a 49ers pass rush that has to get home without its biggest name.\n\nThe numbers: Atlanta has scored 142 and allowed 153. San Francisco has scored 177 and allowed 110 through six games, all wins.\n\nNora: One more, Russ. Remind me who won the last time these two franchises met in a Super Bowl?\n\nRuss: We've never met in a Super Bowl, Nora.\n\nNora: Exactly. One of us keeps getting there.\n\nRuss: That's cold. I'm going to go eat a peach and think about the standings.\n\nTwo old NFC West rivals from the days before the NFC South existed, and a Sunday afternoon that should tell us a lot about both.\n\nMy call: 49ers 27, Falcons 21.",
    "fanatic_final_sentence": "49ers 27, Falcons 21.",
    "preview_sources": [],
@@ -2405,7 +2405,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Cleveland Browns −1.5 (Oct 20, 2026 06:46 UTC) and is Cleveland Browns −1.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 38.5 (Oct 20, 2026 06:51 UTC) and is 38.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Cleveland Browns −1.5 (Oct 20, 2026 06:46 UTC) and is Cleveland Browns −1.5 now (Oct 20, 2026 12:52 UTC). Total opened 38.5 (Oct 20, 2026 06:51 UTC) and is 38.5 now. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -2485,7 +2485,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Cleveland Browns −1.5 (Oct 20, 2026 06:46 UTC) and is Cleveland Browns −1.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 38.5 (Oct 20, 2026 06:51 UTC) and is 38.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Cleveland Browns −1.5 (Oct 20, 2026 06:46 UTC) and is Cleveland Browns −1.5 now (Oct 20, 2026 12:52 UTC). Total opened 38.5 (Oct 20, 2026 06:51 UTC) and is 38.5 now. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -2922,7 +2922,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Minnesota Vikings −6.5 (Oct 20, 2026 06:36 UTC) and is Minnesota Vikings −6.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 41.5 (Oct 20, 2026 06:51 UTC) and is 41.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Minnesota Vikings −6.5 (Oct 20, 2026 06:36 UTC) and is Minnesota Vikings −6.5 now (Oct 20, 2026 12:52 UTC). Total opened 41.5 (Oct 20, 2026 06:51 UTC) and is 41.5 now. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -3002,7 +3002,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Minnesota Vikings −6.5 (Oct 20, 2026 06:36 UTC) and is Minnesota Vikings −6.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 41.5 (Oct 20, 2026 06:51 UTC) and is 41.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Minnesota Vikings −6.5 (Oct 20, 2026 06:36 UTC) and is Minnesota Vikings −6.5 now (Oct 20, 2026 12:52 UTC). Total opened 41.5 (Oct 20, 2026 06:51 UTC) and is 41.5 now. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -3447,7 +3447,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened New York Jets −4.5 (Oct 20, 2026 06:38 UTC) and is New York Jets −4.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 39.5 (Oct 20, 2026 06:38 UTC) and is 39.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened New York Jets −4.5 (Oct 20, 2026 06:38 UTC) and is New York Jets −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 39.5 (Oct 20, 2026 06:38 UTC) and is 39.5 now. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -3527,7 +3527,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened New York Jets −4.5 (Oct 20, 2026 06:38 UTC) and is New York Jets −4.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 39.5 (Oct 20, 2026 06:38 UTC) and is 39.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened New York Jets −4.5 (Oct 20, 2026 06:38 UTC) and is New York Jets −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 39.5 (Oct 20, 2026 06:38 UTC) and is 39.5 now. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -3978,7 +3978,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Carolina Panthers −3.5 (Oct 20, 2026 11:41 UTC) and is Carolina Panthers −3.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 44.5 (Oct 20, 2026 06:51 UTC) and is 44.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Carolina Panthers −3.5 (Oct 20, 2026 11:41 UTC) and is Carolina Panthers −3.5 now (Oct 20, 2026 12:52 UTC). Total opened 44.5 (Oct 20, 2026 06:51 UTC) and is 44.5 now. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -4058,7 +4058,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Carolina Panthers −3.5 (Oct 20, 2026 11:41 UTC) and is Carolina Panthers −3.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 44.5 (Oct 20, 2026 06:51 UTC) and is 44.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Carolina Panthers −3.5 (Oct 20, 2026 11:41 UTC) and is Carolina Panthers −3.5 now (Oct 20, 2026 12:52 UTC). Total opened 44.5 (Oct 20, 2026 06:51 UTC) and is 44.5 now. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -4475,7 +4475,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Baltimore Ravens −3 (Oct 20, 2026 04:15 UTC) and is Baltimore Ravens −2.5 now (Oct 20, 2026 12:52 UTC), a 0.5-point move, under the 1-point cutoff. Total opened 51 (Oct 20, 2026 04:19 UTC) and is 51 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Baltimore Ravens −3 (Oct 20, 2026 04:15 UTC) and is Baltimore Ravens −2.5 now (Oct 20, 2026 12:52 UTC). Total opened 51 (Oct 20, 2026 04:19 UTC) and is 51 now. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -4555,7 +4555,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Baltimore Ravens −3 (Oct 20, 2026 04:15 UTC) and is Baltimore Ravens −2.5 now (Oct 20, 2026 12:52 UTC), a 0.5-point move, under the 1-point cutoff. Total opened 51 (Oct 20, 2026 04:19 UTC) and is 51 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Baltimore Ravens −3 (Oct 20, 2026 04:15 UTC) and is Baltimore Ravens −2.5 now (Oct 20, 2026 12:52 UTC). Total opened 51 (Oct 20, 2026 04:19 UTC) and is 51 now. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.0
@@ -5049,7 +5049,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Houston Texans −9.5 (Oct 20, 2026 06:38 UTC) and is Houston Texans −9.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 43 (Oct 20, 2026 04:59 UTC) and is 43 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Houston Texans −9.5 (Oct 20, 2026 06:38 UTC) and is Houston Texans −9.5 now (Oct 20, 2026 12:52 UTC). Total opened 43 (Oct 20, 2026 04:59 UTC) and is 43 now. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -5129,7 +5129,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Houston Texans −9.5 (Oct 20, 2026 06:38 UTC) and is Houston Texans −9.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 43 (Oct 20, 2026 04:59 UTC) and is 43 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Houston Texans −9.5 (Oct 20, 2026 06:38 UTC) and is Houston Texans −9.5 now (Oct 20, 2026 12:52 UTC). Total opened 43 (Oct 20, 2026 04:59 UTC) and is 43 now. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.0
@@ -5570,7 +5570,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Denver Broncos −4.5 (Oct 20, 2026 11:43 UTC) and is Denver Broncos −4.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 43.5 (Oct 20, 2026 05:45 UTC) and is 43.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Denver Broncos −4.5 (Oct 20, 2026 11:43 UTC) and is Denver Broncos −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 43.5 (Oct 20, 2026 05:45 UTC) and is 43.5 now. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -5650,7 +5650,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Denver Broncos −4.5 (Oct 20, 2026 11:43 UTC) and is Denver Broncos −4.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 43.5 (Oct 20, 2026 05:45 UTC) and is 43.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Denver Broncos −4.5 (Oct 20, 2026 11:43 UTC) and is Denver Broncos −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 43.5 (Oct 20, 2026 05:45 UTC) and is 43.5 now. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -6049,7 +6049,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Detroit Lions −3 (Oct 20, 2026 05:45 UTC) and is Detroit Lions −3 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 53.5 (Oct 20, 2026 06:52 UTC) and is 53.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Detroit Lions −3 (Oct 20, 2026 05:45 UTC) and is Detroit Lions −3 now (Oct 20, 2026 12:52 UTC). Total opened 53.5 (Oct 20, 2026 06:52 UTC) and is 53.5 now. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -6129,7 +6129,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Detroit Lions −3 (Oct 20, 2026 05:45 UTC) and is Detroit Lions −3 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 53.5 (Oct 20, 2026 06:52 UTC) and is 53.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Detroit Lions −3 (Oct 20, 2026 05:45 UTC) and is Detroit Lions −3 now (Oct 20, 2026 12:52 UTC). Total opened 53.5 (Oct 20, 2026 06:52 UTC) and is 53.5 now. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.0,
       "distance_from_total": 0.5
@@ -6557,7 +6557,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Los Angeles Rams −4.5 (Oct 20, 2026 06:52 UTC) and is Los Angeles Rams −4.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 47.5 (Oct 20, 2026 06:52 UTC) and is 47.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Los Angeles Rams −4.5 (Oct 20, 2026 06:52 UTC) and is Los Angeles Rams −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 47.5 (Oct 20, 2026 06:52 UTC) and is 47.5 now. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -6637,7 +6637,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Los Angeles Rams −4.5 (Oct 20, 2026 06:52 UTC) and is Los Angeles Rams −4.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 47.5 (Oct 20, 2026 06:52 UTC) and is 47.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Los Angeles Rams −4.5 (Oct 20, 2026 06:52 UTC) and is Los Angeles Rams −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 47.5 (Oct 20, 2026 06:52 UTC) and is 47.5 now. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -7089,7 +7089,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Seattle Seahawks −2.5 (Oct 20, 2026 06:55 UTC) and is Seattle Seahawks −2.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 42.5 (Oct 20, 2026 06:52 UTC) and is 42.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Seattle Seahawks −2.5 (Oct 20, 2026 06:55 UTC) and is Seattle Seahawks −2.5 now (Oct 20, 2026 12:52 UTC). Total opened 42.5 (Oct 20, 2026 06:52 UTC) and is 42.5 now. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -7169,7 +7169,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Seattle Seahawks −2.5 (Oct 20, 2026 06:55 UTC) and is Seattle Seahawks −2.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 42.5 (Oct 20, 2026 06:52 UTC) and is 42.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Seattle Seahawks −2.5 (Oct 20, 2026 06:55 UTC) and is Seattle Seahawks −2.5 now (Oct 20, 2026 12:52 UTC). Total opened 42.5 (Oct 20, 2026 06:52 UTC) and is 42.5 now. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -7459,7 +7459,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Dallas Cowboys −4.5 (Oct 20, 2026 06:36 UTC) and is Dallas Cowboys −4.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 44.5 (Oct 20, 2026 06:52 UTC) and is 44.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Dallas Cowboys −4.5 (Oct 20, 2026 06:36 UTC) and is Dallas Cowboys −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 44.5 (Oct 20, 2026 06:52 UTC) and is 44.5 now. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -7539,7 +7539,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Dallas Cowboys −4.5 (Oct 20, 2026 06:36 UTC) and is Dallas Cowboys −4.5 now (Oct 20, 2026 12:52 UTC), a 0-point move, under the 1-point cutoff. Total opened 44.5 (Oct 20, 2026 06:52 UTC) and is 44.5 now, a 0-point move, under the 1-point cutoff. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Dallas Cowboys −4.5 (Oct 20, 2026 06:36 UTC) and is Dallas Cowboys −4.5 now (Oct 20, 2026 12:52 UTC). Total opened 44.5 (Oct 20, 2026 06:52 UTC) and is 44.5 now. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
