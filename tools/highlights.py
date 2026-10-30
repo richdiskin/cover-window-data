@@ -60,6 +60,35 @@ OTHER = re.compile(r"\b(basketball|volleyball|soccer|baseball|softball|hockey|la
                    r"cbb|ncaab|ncaaw|hoops|nba|wnba|mlb|nhl|mls|nwsl|ufl|xfl|high school|hs football|7v7|flag football|"
                    r"recovery|reflects?|surgery|injur\w*|emotional|tribute|memorial|"
                    r"msoc|wsoc|mvb|wvb|band|halftime show|cheer|dance team|cover|edit)\b", re.I)
+# Sport check (Oct 30, 2026): titles, descriptions and tags are scanned. A conference channel posted women's
+# basketball "Kennesaw St. vs. Middle Tennessee - Game Highlights" (nf6SD3-UQPg, tags #Basketball #CollegeHoops).
+OTHER_SPORT = re.compile(r"\b(basketball|volleyball|soccer|baseball|softball|hockey|lacrosse|wrestling|tennis|golf|swimming|"
+                         r"gymnastics|track (and|&) field|cross country|rowing|beach volleyball|futbol|"
+                         r"wbb|mbb|cbb|ncaab|ncaaw|hoops|collegehoops|marchmadness|march madness|nba|wnba|mlb|nhl|mls|nwsl|"
+                         r"msoc|wsoc|mvb|wvb|wvball|mbball|wbball)\b", re.I)
+OTHER_SPORT_X = re.compile(r"\b(\d+ ?PTS|PTS|AST|REB|rebounds?|assists|dunks?|three-pointers?|3-pointers?|buzzer[- ]beater|"
+                           r"double-double|triple-double|free throws?|hat trick|innings?|home runs?|"
+                           r"State Farm Center|arena)\b|\U0001F3C0|\U0001F3D0|\u26BD|\u26BE|\U0001F94E|\U0001F3D2|\U0001F94D", re.I)
+FOOTBALL = re.compile(r"\b(football|fb|nfl|cfb|fbs|fcs|touchdowns?|tds?|\d+-?yds?|yards?|yd|quarterback|qb|gridiron|"
+                      r"field goal|pick-six|interception|sacks?|rushing|receiving|kickoff|punt|week \d{1,2}|"
+                      r"bowl game|college ?football|collegefootball|b1gfootball|ncaafootball)\b", re.I)
+def _other(t):
+    return OTHER_SPORT.search(t) or OTHER_SPORT_X.search(t)
+def sport_problem(v, need_football):
+    """Football only. Title first: another sport (or a sport emoji) in the title rejects; a football word in the title
+    accepts (channel-default tags and description boilerplate often list other sports). Otherwise the tags and the
+    first 250 characters of the description decide: any other-sport sign rejects, a football sign accepts.
+    With no sign anywhere, matchup clips (need_football) are rejected."""
+    t = (v.get("title") or "").replace("#", " ")
+    m = _other(norm(t)) or re.search("[\U0001F3C0\U0001F3D0\u26BD\u26BE\U0001F94E\U0001F3D2]", t)
+    if m: return "other sport: " + m.group(0)
+    if FOOTBALL.search(norm(t)): return None
+    ctx = (" ".join(norm(k) for k in (v.get("keywords") or [])) + " " + norm((v.get("description") or "")[:250])).replace("#", " ")
+    m = _other(ctx)
+    if m: return "other sport: " + m.group(0)
+    if FOOTBALL.search(ctx): return None
+    return "no football context" if need_football else None
+
 HL = re.compile(r"highlights?|condensed|every (catch|td|touchdown|run|throw|pass|sack)|top plays|best plays", re.I)
 ACTION = re.compile(r"\b(TD|TDs|touchdowns?|catch(es)?|grab|runs?|rush(es)?|throws?|strike|dime|laser|moonshot|scramble|"
                     r"sacks?|best plays|top plays|highlight reel|highlights?|interception|pick-six|score[sd]?|dash|burst|bomb|deep ball)\b", re.I)
@@ -171,11 +200,41 @@ def watch_page(vid):
             "availability": "public" if status == "OK" and g(r'"isUnlisted":(true|false)') != "true" and g(r'"isPrivate":(true|false)') != "true" else status.lower(),
             "age_limit": 0 if status == "OK" and g(r'"isFamilySafe":(true|false)') != "false" else 18,
             "live_status": "is_live" if live else "not_live", "duration": int(g(r'"lengthSeconds":"(\d+)"') or 0) or None,
-            "channel": OFFICIAL.get(cid, {}).get("name"), "via": "watch_page"}
+            "channel": OFFICIAL.get(cid, {}).get("name"), "via": "watch_page",
+            "description": _desc(h), "keywords": _kw(h)}
+
+def _desc(h):
+    m = re.search(r'"shortDescription":"((?:[^"\\]|\\.)*)"', h)
+    if not m: return ""
+    try: return json.loads('"' + m.group(1) + '"')
+    except Exception: return m.group(1)
+
+def _kw(h):
+    m = re.search(r'"keywords":(\[(?:"(?:[^"\\]|\\.)*",?)*\])', h)
+    try: return json.loads(m.group(1)) if m else []
+    except Exception: return []
+
+def embed_status(vid, tries=3):
+    """Real third-party embed check (Oct 30, 2026). The watch page's playableInEmbed and oEmbed 200 both say yes for
+    NFL-channel clips, yet in an iframe on another site they show 'Video unavailable. This video contains content
+    from NFL, who has blocked it from display on this website or application.' The youtube-nocookie embed page
+    (requested with a third-party Referer, no cookies) carries previewPlayabilityStatus: OK when it plays,
+    UNPLAYABLE when blocked. Returns 'OK', 'UNPLAYABLE', another status string, or None if the page could not be read."""
+    for i in range(tries):
+        with YT_SLOTS:
+            STATS["yt_requests"] += 1
+            p = subprocess.run(["curl", "-sL", "--compressed", "--max-time", "25", "-A", UA, "-e", "https://example.com/",
+                                "-H", "Accept-Language: en-US,en;q=0.9", "https://www.youtube-nocookie.com/embed/" + vid], capture_output=True)
+        h = p.stdout.decode("utf-8", "ignore").replace('\\"', '"')
+        if "blocked it from display" in h: return "UNPLAYABLE"
+        m = re.search(r'"previewPlayabilityStatus":\{"status":"(\w+)"', h)
+        if m: return m.group(1)
+        time.sleep(3 * (i + 1))
+    return None
 
 def video(vid):
     v = cget("video", vid)
-    if v is not None: return v
+    if v is not None and v.get("v") == 2: return v
     v = {"id": vid}
     w = None
     for i in range(2):
@@ -195,10 +254,14 @@ def video(vid):
                 break
             v["error"] = (p.stderr.strip().splitlines() or ["error"])[-1][:160]
             time.sleep(5 * (i + 1))
-    if not v.get("error"): cput("video", vid, v)
+    if not v.get("error"):
+        v["embed_status"] = embed_status(vid)
+        v["v"] = 2
+        if v["embed_status"] is not None: cput("video", vid, v)
     return v
 
 def embed_ok(v):
+    if v.get("embed_status") != "OK": return False
     if not (v.get("playable_in_embed") is True and v.get("availability") == "public" and v.get("channel_id") in OFFICIAL):
         return False
     if "oembed" not in v:
@@ -316,7 +379,7 @@ class Run:
     def reject(self, why):
         with self.lock: self.rej[why] = self.rej.get(why, 0) + 1
 
-def pick(run, sources, title_ok, date_ok, maxcheck=8, want=1, newest=False):
+def pick(run, sources, title_ok, date_ok, maxcheck=8, want=1, newest=False, need_football=True):
     """sources: callables returning candidate lists, tried in order until one yields a valid video.
     Candidates are prefiltered (allowlisted channel, title rules, title match) before any validation request;
     validation stops at the first valid video unless newest=True (matchup: compare dates of all valid ones)."""
@@ -338,6 +401,9 @@ def pick(run, sources, title_ok, date_ok, maxcheck=8, want=1, newest=False):
             if v.get("error"): run.reject("extract_error"); continue
             if v.get("channel_id") not in OFFICIAL: run.reject("not_allowlisted_channel"); continue
             if not v.get("upload_date") or not date_ok(pub(v)): run.reject("date_window"); continue
+            sp = sport_problem(v, need_football)
+            if sp: run.reject("non_football: " + sp.split(":")[0]); continue
+            if v.get("embed_status") != "OK": run.reject("not_embeddable_third_party"); continue
             if not embed_ok(v): run.reject("not_embeddable"); continue
             if text_problems(v.get("title")) or not title_ok(norm(v.get("title"))): run.reject("title_rules"); continue
             out.append(v)
@@ -397,7 +463,8 @@ def game_videos(run, lg, g, M):
         q.append(lambda cid=cid: chsearch(cid, "%s %s highlights" % (short(A, lg), short(H, lg))))
     m = pick(run, q, newest=True, title_ok=lambda t: M.mentions(t, A["id"]) and M.mentions(t, H["id"]) and HL.search(t)
              and not re.search(r"preseason|spring game|scrimmage", t, re.I),
-             date_ok=lambda d: (run.today - d).days <= 3 * 365 + 30 and in_season(d, lg))
+             date_ok=lambda d: (run.today - d).days <= 3 * 365 + 30 and in_season(d, lg),
+             need_football=(lg == "college"))   # NFL: both NFL team names in the title are the football context
     slots.append(("matchup", bool(m)))
     if m: videos.append(item(m[0], "matchup", "Last meeting: %s vs. %s" % (short(A, lg), short(H, lg))))
     # 2) each team's most recent completed game
@@ -418,7 +485,8 @@ def game_videos(run, lg, g, M):
             q.append(lambda T=T, O=O: chsearch("UCDVYQ4Zhbm3S2dlz7P1GBDg", "%s vs %s" % (short(T, lg), short(O, lg) or O["displayName"])))
         # ESPN gameDate is UTC; YouTube upload dates are Pacific, so a night game can be uploaded the "day before"
         r = pick(run, q, lambda t, T=T: M.mentions(t, T["id"]) and opp_ok(t) and HL.search(t),
-                 lambda d, gd=gd: gd - dt.timedelta(days=1) <= d <= gd + dt.timedelta(days=4))
+                 lambda d, gd=gd: gd - dt.timedelta(days=1) <= d <= gd + dt.timedelta(days=4),
+                 need_football=False)   # tied to the date of the team's last football game; other sports still rejected
         slots.append(("team_recent", bool(r)))
         if r: videos.append(item(r[0], "team_recent", "%s's last game: vs. %s" % (short(T, lg), short(O, lg) or O["displayName"]),
                                  team=T["displayName"], opponent=O["displayName"], game_date=gd.isoformat()))
@@ -457,7 +525,7 @@ def game_videos(run, lg, g, M):
             chans = CONF_CH.get(c.get("conference"), []) + TEAM_CH.get(T["displayName"], [])[:2] + LEAGUE_CH[lg]
         for cid in chans:
             q.append(lambda cid=cid, p=p: chsearch(cid, p["player"]))
-        r = pick(run, q, subj, lambda d: (run.today - d).days <= 45, maxcheck=5, newest=True)
+        r = pick(run, q, subj, lambda d: (run.today - d).days <= 45, maxcheck=5, newest=True, need_football=False)
         slots.append(("player", bool(r)))
         if r: videos.append(item(r[0], "player", "%s highlights" % p["player"], player=p["player"], team=p["team"], player_basis=p["basis"]))
     # dedupe by youtube_id (a matchup clip can also be a team's last game), cap
@@ -490,6 +558,9 @@ def check_videos(doc, frozen, final_oembed=True):
             if final_oembed:
                 st = oembed(v["youtube_id"])
                 if st != 200: errs.append("%s: %s oEmbed %s" % (gid, v["youtube_id"], st))
+                es = embed_status(v["youtube_id"])
+                if es != "OK": errs.append("%s: %s third-party embed %s" % (gid, v["youtube_id"], es))
+                if OTHER_SPORT.search(norm(v.get("title")) + " " + norm(v.get("label"))): errs.append("%s: %s other sport in title" % (gid, v["youtube_id"]))
     return errs
 
 def dump(doc, raw):

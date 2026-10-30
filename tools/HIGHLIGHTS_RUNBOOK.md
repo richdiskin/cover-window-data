@@ -13,6 +13,8 @@
 ## Rules every video must pass (applied before writing)
 - **Channel:** `channel_id` is in `tools/highlights_allowlist.json`. That file lists league, network, conference and team channels, each with evidence; see its `about` field.
 - **Embeddable:** the watch page says `playableInEmbed` true, the video is public, not age-gated and not live, and YouTube oEmbed returns 200. oEmbed is re-checked for every written video at the end of the run.
+- **Plays on a third-party site (Oct 30, 2026):** the youtube-nocookie embed page, fetched with a third-party Referer and no cookies, must report `previewPlayabilityStatus` `OK`. NFL-owned footage (NFL channel and team-channel game highlights) reports `UNPLAYABLE` ("...content from NFL, who has blocked it from display on this website or application") even though `playableInEmbed` and oEmbed say yes; those clips are dropped (`not_embeddable_third_party`) and re-checked at the end of the run. If no clip plays for a game, `videos` stays empty.
+- **Football only (Oct 30, 2026):** another sport (or a sport emoji) in the title rejects; otherwise the tags and the first 250 characters of the description are checked (e.g. `#Basketball`, `#CollegeHoops`, PTS/rebounds). College matchup clips also need a football sign (rejection key `non_football`).
 - **Title and label must not contain:**
   - gambling words (bet, odds, picks, spread, props, sportsbooks, ATS, favorite, underdog, fantasy and similar);
   - the house rule-183 Fanatic banned terms (`tools_fanatic_check.banned_terms`);
