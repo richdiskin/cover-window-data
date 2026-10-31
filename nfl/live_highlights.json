@@ -1,0 +1,96 @@
+{
+ "schema": "cw_live_highlights_v1",
+ "league": "nfl",
+ "updated_utc": "2026-10-31T21:34:42Z",
+ "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
+ "games": {
+  "401873026": {
+   "game_id": "401873026",
+   "matchup": "Baltimore Ravens at Buffalo Bills",
+   "kickoff_utc": "2026-11-01T18:00Z",
+   "first_seen_utc": "2026-10-31T21:34:13Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873031": {
+   "game_id": "401873031",
+   "matchup": "Tennessee Titans at Cincinnati Bengals",
+   "kickoff_utc": "2026-11-01T18:00Z",
+   "first_seen_utc": "2026-10-31T21:34:13Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873024": {
+   "game_id": "401873024",
+   "matchup": "Arizona Cardinals at Dallas Cowboys",
+   "kickoff_utc": "2026-11-01T18:00Z",
+   "first_seen_utc": "2026-10-31T21:34:13Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873030": {
+   "game_id": "401873030",
+   "matchup": "Minnesota Vikings at Detroit Lions",
+   "kickoff_utc": "2026-11-01T18:00Z",
+   "first_seen_utc": "2026-10-31T21:34:13Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873029": {
+   "game_id": "401873029",
+   "matchup": "Las Vegas Raiders at New York Jets",
+   "kickoff_utc": "2026-11-01T18:00Z",
+   "first_seen_utc": "2026-10-31T21:34:13Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873027": {
+   "game_id": "401873027",
+   "matchup": "Cleveland Browns at Pittsburgh Steelers",
+   "kickoff_utc": "2026-11-01T18:00Z",
+   "first_seen_utc": "2026-10-31T21:34:13Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873025": {
+   "game_id": "401873025",
+   "matchup": "Atlanta Falcons at Tampa Bay Buccaneers",
+   "kickoff_utc": "2026-11-01T18:00Z",
+   "first_seen_utc": "2026-10-31T21:34:13Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873028": {
+   "game_id": "401873028",
+   "matchup": "Indianapolis Colts at Jacksonville Jaguars",
+   "kickoff_utc": "2026-11-01T18:00Z",
+   "first_seen_utc": "2026-10-31T21:34:13Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873032": {
+   "game_id": "401873032",
+   "matchup": "Los Angeles Chargers at Los Angeles Rams",
+   "kickoff_utc": "2026-11-01T21:05Z",
+   "first_seen_utc": "2026-10-31T21:34:13Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873033": {
+   "game_id": "401873033",
+   "matchup": "Kansas City Chiefs at Denver Broncos",
+   "kickoff_utc": "2026-11-01T21:25Z",
+   "first_seen_utc": "2026-10-31T21:34:13Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873034": {
+   "game_id": "401873034",
+   "matchup": "New England Patriots at Miami Dolphins",
+   "kickoff_utc": "2026-11-01T21:25Z",
+   "first_seen_utc": "2026-10-31T21:34:13Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  }
+ }
+}
