@@ -1,0 +1,541 @@
+{
+ "schema": 1,
+ "date": "2026-10-29",
+ "theme": "mmqb",
+ "theme_label": "Monday Morning Quarterback",
+ "published_at": "2026-10-26T11:53:04Z",
+ "count": 6,
+ "lead_id": "fanatic_team-james-madison-2026-10-29",
+ "articles": [
+  {
+   "id": "fanatic_team-car",
+   "kind": "fanatic_team",
+   "league": "nfl",
+   "team_id": "car",
+   "team_ids": [
+    "car"
+   ],
+   "tab_id": "nfl",
+   "game_id": "401873023",
+   "title": "Carolina Panthers vs Green Bay Packers Week 8: Panthers Fall 27-19",
+   "byline": "",
+   "matchup": "Final: Carolina Panthers (3-4) 19, Green Bay Packers (5-3) 27, Thu., Oct. 29, Lambeau Field, Green Bay. Next: vs. Denver Broncos, Sun., Nov. 8, 1:00 PM ET, Bank of America Stadium, Charlotte",
+   "date": "2026-10-29",
+   "word_count": 359,
+   "text": "Green Bay Packers 27, Carolina Panthers 19. Charlotte opened a packed Halloween sports weekend with Carolina Panthers vs Green Bay Packers in Week 8, and the Queen City still has the 49ers on Friday and Charlotte FC's Fan Appreciation finale on Saturday at Bank of America Stadium. We needed a treat from Lambeau Field. We got a trick, and the Panthers dropped to 3-4. Somehow we are still first in the NFC South.\n\nIt started like a dream. Rookie linebacker Jackson Kuwatch forced a fumble on the opening kickoff, and Nick Hampton recovered it. Ryan Fitzgerald soon hit a 39-yard field goal. Chuba Hubbard punched in a 1-yard run early in the second quarter for a 10-6 lead, and then Nick Scott forced another fumble that Bobby Okereke fell on. Then rookie safety Zakee Wheatley intercepted Jordan Love in the end zone in the fourth quarter. Three takeaways on the road. That is supposed to win you a game.\n\nWe turned those three takeaways into three points. That is the whole story in one sentence.\n\nBryce Young got sacked six times and finished 23 of 41 for 209 yards, a touchdown and an interception. Our offense went 5 of 18 on third down and gained 258 yards. Hubbard was the one thing working all night, with 81 yards on 22 carries plus seven catches for 38. Tetairoa McMillan caught six balls for 58 yards. Jalen Coker caught a fourth-and-3 throw and broke it for a 26-yard touchdown with 5:37 left to make it 27-19. The two-point try got tipped, and a fourth-and-5 at midfield came up short with 2:41 to go.\n\nThe secondary deserves a medal just for finishing. Rookie cornerback Will Lee III was carted off with a hamstring injury in the second quarter, and the team finished with three healthy corners. Green Bay found holes, and Love went 30 of 41. Fitzgerald also drilled a 50-yarder. Sam Martin averaged 48.8 yards a punt.\n\nSo we fly home from Wisconsin, catch some soccer and some Hornets, and get ready for Denver at Bank of America Stadium on Nov. 8. First place is still ours. Go take it back.",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "Green Bay Packers 27, Carolina Panthers 19. Charlotte opened a packed Halloween sports weekend with Carolina Panthers vs Green Bay Packers in Week 8, and the Queen City still has the 49ers on Friday and Charlotte FC's Fan Appreciation finale on Saturday at Bank of America Stadium. We needed a treat from Lambeau Field. We got a trick, and the Panthers dropped to 3-4. Somehow we are still first in the NFC South."
+    },
+    {
+     "type": "paragraph",
+     "text": "It started like a dream. Rookie linebacker Jackson Kuwatch forced a fumble on the opening kickoff, and Nick Hampton recovered it. Ryan Fitzgerald soon hit a 39-yard field goal. Chuba Hubbard punched in a 1-yard run early in the second quarter for a 10-6 lead, and then Nick Scott forced another fumble that Bobby Okereke fell on. Then rookie safety Zakee Wheatley intercepted Jordan Love in the end zone in the fourth quarter. Three takeaways on the road. That is supposed to win you a game."
+    },
+    {
+     "type": "paragraph",
+     "text": "We turned those three takeaways into three points. That is the whole story in one sentence."
+    },
+    {
+     "type": "paragraph",
+     "text": "Bryce Young got sacked six times and finished 23 of 41 for 209 yards, a touchdown and an interception. Our offense went 5 of 18 on third down and gained 258 yards. Hubbard was the one thing working all night, with 81 yards on 22 carries plus seven catches for 38. Tetairoa McMillan caught six balls for 58 yards. Jalen Coker caught a fourth-and-3 throw and broke it for a 26-yard touchdown with 5:37 left to make it 27-19. The two-point try got tipped, and a fourth-and-5 at midfield came up short with 2:41 to go."
+    },
+    {
+     "type": "paragraph",
+     "text": "The secondary deserves a medal just for finishing. Rookie cornerback Will Lee III was carted off with a hamstring injury in the second quarter, and the team finished with three healthy corners. Green Bay found holes, and Love went 30 of 41. Fitzgerald also drilled a 50-yarder. Sam Martin averaged 48.8 yards a punt."
+    },
+    {
+     "type": "paragraph",
+     "text": "So we fly home from Wisconsin, catch some soccer and some Hornets, and get ready for Denver at Bank of America Stadium on Nov. 8. First place is still ours. Go take it back."
+    }
+   ],
+   "summary": [
+    {
+     "type": "fact",
+     "text": "The Carolina Panthers lost 27-19 to the Green Bay Packers on Thursday, Oct. 29, at Lambeau Field in Week 8. Carolina is 3-4 and first in the NFC South."
+    },
+    {
+     "type": "fact",
+     "text": "Carolina forced three turnovers, including a Zakee Wheatley interception in the end zone, but scored three points off them."
+    },
+    {
+     "type": "fact",
+     "text": "Jalen Coker caught a 26-yard touchdown on fourth-and-3 with 5:37 left."
+    },
+    {
+     "type": "jab",
+     "text": "Green Bay can keep the cheese. Charlotte is keeping first place."
+    }
+   ],
+   "sources": [
+    {
+     "label": "ESPN box score, Packers 27, Panthers 19 (Oct. 29, 2026)",
+     "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873023"
+    },
+    {
+     "label": "ESPN game recap, Panthers at Packers",
+     "url": "https://www.espn.com/nfl/recap/_/gameId/401873023"
+    },
+    {
+     "label": "Panthers.com: Rapid Reactions, Panthers fall on the road at Green Bay",
+     "url": "https://www.panthers.com/news/rapid-reactions-panthers-fall-on-the-road-at-green-bay"
+    },
+    {
+     "label": "Uptown Informer: This week in Charlotte sports (Oct. 29 to Nov. 2)",
+     "url": "https://uptowninformer.com/this-week-in-charlotte-sports-panthers-on-tnf-halloween-at-jerry-richardson-charlotte-fcs-fan-appreciation-finale-and-two-hornets-home-games/"
+    },
+    {
+     "label": "ESPN Carolina Panthers schedule (next game: vs. Denver Broncos, Sun., Nov. 8, 1:00 PM ET, Bank of America Stadium, Charlotte)",
+     "url": "https://www.espn.com/nfl/team/schedule/_/name/car/carolina-panthers"
+    }
+   ],
+   "sources_display": "button",
+   "age_21": false,
+   "sponsored": false,
+   "venues": []
+  },
+  {
+   "id": "fanatic_team-gb",
+   "kind": "fanatic_team",
+   "league": "nfl",
+   "team_id": "gb",
+   "team_ids": [
+    "gb"
+   ],
+   "tab_id": "nfl",
+   "game_id": "401873023",
+   "title": "Green Bay Packers vs Carolina Panthers Week 8: Packers Win 27-19",
+   "byline": "",
+   "matchup": "Final: Carolina Panthers (3-4) 19, Green Bay Packers (5-3) 27, Thu., Oct. 29, Lambeau Field, Green Bay. Next: at New England Patriots, Sun., Nov. 8, 4:25 PM ET, Gillette Stadium, Foxborough",
+   "date": "2026-10-29",
+   "word_count": 407,
+   "text": "Green Bay Packers 27, Carolina Panthers 19. Green Bay Packers vs Carolina Panthers in Week 8 had a pregame act nobody could top. The Milwaukee Brewers came to Lambeau Field one night after winning the first World Series in franchise history, wearing cheeseheads that read 2026 WS Champions, and one of them even took a Lambeau Leap. Wisconsin had two celebrations going in one stadium, and the Packers made sure the night ended with a win.\n\nJordan Love was the reason. He went 30 of 41 for 288 yards and three touchdowns, and he was not sacked once. He threw scores to three different guys: Tucker Kraft from 12 yards, Matthew Golden from 24 yards with 1:46 left in the half, and Josh Jacobs from 4 yards in the third quarter to make it 27-10. Golden finished with seven catches for 79 yards. Kraft added six for 53.\n\nThen there is Christian Watson. He caught a 53-yarder, landed on the ball and was taken to a local hospital for tests. He came back in the second half to a roar from the tunnel and finished with eight catches for 113 yards. Lambeau has seen plenty of comebacks. That one belongs on the wall.\n\nThe defense was the real headline. Six different Packers each got a sack: Ty'Ron Hopper, Lukas Van Ness, Barryn Sorrell, Dani Dennis-Sutton, Brenton Cox Jr. and Devonte Wyatt. On top of that, Hopper batted a throw to himself for our only interception, and that set up the touchdown for a 20-10 halftime lead. To open the second half, Chris McClellan and Evan Williams stuffed Chuba Hubbard on fourth-and-2 at midfield. Late in the game, the defense got another fourth-down stop with 2:41 left. That makes five straight opponents held to 20 points or fewer.\n\nNow the honest part, because cheeseheads do not lie. We fumbled the opening kickoff, missed an extra point, threw an interception in the end zone up 27-13 and ran for next to nothing. Jacobs scored on a 1-yard run but finished with 39 yards on 21 carries. We went 9 of 16 on third down and 3 for 3 in the red zone, so the finishing was there. The ground game was not.\n\nAt halftime, Bob Harlan's name went up on the northeast façade, right beside Ted Thompson's. It was a good night to be a Packers fan. We are 5-3, and next up is New England on Nov. 8.",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "Green Bay Packers 27, Carolina Panthers 19. Green Bay Packers vs Carolina Panthers in Week 8 had a pregame act nobody could top. The Milwaukee Brewers came to Lambeau Field one night after winning the first World Series in franchise history, wearing cheeseheads that read 2026 WS Champions, and one of them even took a Lambeau Leap. Wisconsin had two celebrations going in one stadium, and the Packers made sure the night ended with a win."
+    },
+    {
+     "type": "paragraph",
+     "text": "Jordan Love was the reason. He went 30 of 41 for 288 yards and three touchdowns, and he was not sacked once. He threw scores to three different guys: Tucker Kraft from 12 yards, Matthew Golden from 24 yards with 1:46 left in the half, and Josh Jacobs from 4 yards in the third quarter to make it 27-10. Golden finished with seven catches for 79 yards. Kraft added six for 53."
+    },
+    {
+     "type": "paragraph",
+     "text": "Then there is Christian Watson. He caught a 53-yarder, landed on the ball and was taken to a local hospital for tests. He came back in the second half to a roar from the tunnel and finished with eight catches for 113 yards. Lambeau has seen plenty of comebacks. That one belongs on the wall."
+    },
+    {
+     "type": "paragraph",
+     "text": "The defense was the real headline. Six different Packers each got a sack: Ty'Ron Hopper, Lukas Van Ness, Barryn Sorrell, Dani Dennis-Sutton, Brenton Cox Jr. and Devonte Wyatt. On top of that, Hopper batted a throw to himself for our only interception, and that set up the touchdown for a 20-10 halftime lead. To open the second half, Chris McClellan and Evan Williams stuffed Chuba Hubbard on fourth-and-2 at midfield. Late in the game, the defense got another fourth-down stop with 2:41 left. That makes five straight opponents held to 20 points or fewer."
+    },
+    {
+     "type": "paragraph",
+     "text": "Now the honest part, because cheeseheads do not lie. We fumbled the opening kickoff, missed an extra point, threw an interception in the end zone up 27-13 and ran for next to nothing. Jacobs scored on a 1-yard run but finished with 39 yards on 21 carries. We went 9 of 16 on third down and 3 for 3 in the red zone, so the finishing was there. The ground game was not."
+    },
+    {
+     "type": "paragraph",
+     "text": "At halftime, Bob Harlan's name went up on the northeast façade, right beside Ted Thompson's. It was a good night to be a Packers fan. We are 5-3, and next up is New England on Nov. 8."
+    }
+   ],
+   "summary": [
+    {
+     "type": "fact",
+     "text": "The Green Bay Packers beat the Carolina Panthers 27-19 on Thursday, Oct. 29, at Lambeau Field in Week 8. Green Bay is 5-3."
+    },
+    {
+     "type": "fact",
+     "text": "Jordan Love went 30 of 41 for 288 yards and three touchdowns and was not sacked."
+    },
+    {
+     "type": "fact",
+     "text": "The Packers sacked Bryce Young six times, with six different players each getting one."
+    },
+    {
+     "type": "jab",
+     "text": "The Brewers brought a trophy to Lambeau. The Panthers brought a long flight home."
+    }
+   ],
+   "sources": [
+    {
+     "label": "ESPN box score, Packers 27, Panthers 19 (Oct. 29, 2026)",
+     "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873023"
+    },
+    {
+     "label": "ESPN game recap, Panthers at Packers",
+     "url": "https://www.espn.com/nfl/recap/_/gameId/401873023"
+    },
+    {
+     "label": "Packers.com: Game recap, 5 takeaways from Packers' victory over Panthers",
+     "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-victory-over-panthers-week-8-2026"
+    },
+    {
+     "label": "ESPN Green Bay Packers schedule (next game: at New England Patriots, Sun., Nov. 8, 4:25 PM ET, Gillette Stadium, Foxborough)",
+     "url": "https://www.espn.com/nfl/team/schedule/_/name/gb/green-bay-packers"
+    }
+   ],
+   "sources_display": "button",
+   "age_21": false,
+   "sponsored": false,
+   "venues": []
+  },
+  {
+   "id": "fanatic_team-james-madison-2026-10-29",
+   "kind": "fanatic_team",
+   "league": "college",
+   "team_id": "james-madison",
+   "team_ids": [
+    "james-madison"
+   ],
+   "tab_id": "sunbelt",
+   "game_id": "401869963",
+   "title": "James Madison vs Troy: Dukes Fall 24-21 in Overtime at Home",
+   "byline": "",
+   "matchup": "Final: Troy (4-4) 24, James Madison (7-2) 21 (OT), Thu., Oct. 29, Bridgeforth Stadium, Harrisonburg. Next: at Southern Miss, Thu., Nov. 5, 8:00 PM ET, M. M. Roberts Stadium, Hattiesburg",
+   "date": "2026-10-29",
+   "word_count": 378,
+   "text": "Troy 24, James Madison 21, in overtime. James Madison vs Troy was our Brighten the Lights of Madison game, a white out named for a lyric from our own fight song, with white pompoms waiting on the general admission seats at Bridgeforth Stadium. For one half the lights were blinding. Then the Trojans flipped the switch, and the Dukes lost at home for the first time in 12 games.\n\nThe first half was everything we came for. Camden Coleman found Corey Scott for a 2-yard touchdown, then hit Braeden Wisloski for 31 more, and it was 14-0 after one quarter. Seth Cromwell finished a third straight scoring drive with a 14-yard run, and we went to the locker room up 21-7. Cromwell ended with 135 yards on 23 carries, his first 100-yard game as a Duke, and he earned every inch of it.\n\nThen came the part I would rather skip, but a real fan reads the whole box score. We turned it over five times, three interceptions and two lost fumbles, and drew 10 flags for 71 yards. The second play of the second half was an interception that Justin Powe returned 37 yards for a touchdown. A strip later set up Troy's tying run. After that 21-7 halftime lead, we did not score again for the final 38:41.\n\nThe defense deserves better than this headline. Amar Thomas had two sacks and six tackles. Nakian Jackson, TJ McGill and Rasheed Lovelace each made seven stops. Troy went 0 for 3 on fourth down and missed a 49-yarder late in regulation. Coleman finished 14 of 25 for 175 yards and two touchdowns, and Michael Scott caught four balls for 68 yards. We outgained them 408 yards to 349. That should win at home. Not with five giveaways.\n\nOvertime hurt the most. We got one first down, then got stopped on fourth-and-1 from the 5, and Troy kicked a 27-yarder to end it. That is two straight overtime losses, and the 11-game home streak is gone.\n\nHere is the good news. We are 7-2, 4-2 in the Sun Belt and still first in the East. We go to Southern Miss on Thursday, Nov. 5, for another night game. Pack the white jerseys away for now. Start wearing purple again.",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "Troy 24, James Madison 21, in overtime. James Madison vs Troy was our Brighten the Lights of Madison game, a white out named for a lyric from our own fight song, with white pompoms waiting on the general admission seats at Bridgeforth Stadium. For one half the lights were blinding. Then the Trojans flipped the switch, and the Dukes lost at home for the first time in 12 games."
+    },
+    {
+     "type": "paragraph",
+     "text": "The first half was everything we came for. Camden Coleman found Corey Scott for a 2-yard touchdown, then hit Braeden Wisloski for 31 more, and it was 14-0 after one quarter. Seth Cromwell finished a third straight scoring drive with a 14-yard run, and we went to the locker room up 21-7. Cromwell ended with 135 yards on 23 carries, his first 100-yard game as a Duke, and he earned every inch of it."
+    },
+    {
+     "type": "paragraph",
+     "text": "Then came the part I would rather skip, but a real fan reads the whole box score. We turned it over five times, three interceptions and two lost fumbles, and drew 10 flags for 71 yards. The second play of the second half was an interception that Justin Powe returned 37 yards for a touchdown. A strip later set up Troy's tying run. After that 21-7 halftime lead, we did not score again for the final 38:41."
+    },
+    {
+     "type": "paragraph",
+     "text": "The defense deserves better than this headline. Amar Thomas had two sacks and six tackles. Nakian Jackson, TJ McGill and Rasheed Lovelace each made seven stops. Troy went 0 for 3 on fourth down and missed a 49-yarder late in regulation. Coleman finished 14 of 25 for 175 yards and two touchdowns, and Michael Scott caught four balls for 68 yards. We outgained them 408 yards to 349. That should win at home. Not with five giveaways."
+    },
+    {
+     "type": "paragraph",
+     "text": "Overtime hurt the most. We got one first down, then got stopped on fourth-and-1 from the 5, and Troy kicked a 27-yarder to end it. That is two straight overtime losses, and the 11-game home streak is gone."
+    },
+    {
+     "type": "paragraph",
+     "text": "Here is the good news. We are 7-2, 4-2 in the Sun Belt and still first in the East. We go to Southern Miss on Thursday, Nov. 5, for another night game. Pack the white jerseys away for now. Start wearing purple again."
+    }
+   ],
+   "summary": [
+    {
+     "type": "fact",
+     "text": "James Madison lost 24-21 in overtime to Troy on Thursday, Oct. 29, at Bridgeforth Stadium. The Dukes are 7-2 and 4-2 in the Sun Belt."
+    },
+    {
+     "type": "fact",
+     "text": "Seth Cromwell ran for 135 yards and a touchdown on 23 carries, his first 100-yard game at JMU."
+    },
+    {
+     "type": "fact",
+     "text": "JMU led 21-7 at halftime but turned it over five times and did not score again."
+    },
+    {
+     "type": "jab",
+     "text": "Troy can enjoy one night in our house. The Valley has a long memory and a whole lot of purple."
+    }
+   ],
+   "sources": [
+    {
+     "label": "ESPN box score, Troy 24, James Madison 21 OT (Oct. 29, 2026)",
+     "url": "https://www.espn.com/college-football/boxscore/_/gameId/401869963"
+    },
+    {
+     "label": "ESPN play-by-play, Troy at James Madison",
+     "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401869963"
+    },
+    {
+     "label": "JMU Athletics: Dukes Drop Second Straight in OT",
+     "url": "https://jmusports.com/news/2026/10/30/football-dukes-drop-second-straight-in-ot"
+    },
+    {
+     "label": "JMU Athletics: 2026 football promotional schedule (Brighten the Lights of Madison white out)",
+     "url": "https://jmusports.com/news/2026/6/4/jmu-announces-full-promotional-schedule-for-2026-football-season"
+    },
+    {
+     "label": "ESPN James Madison schedule (next game: at Southern Miss, Thu., Nov. 5, 8:00 PM ET, M. M. Roberts Stadium, Hattiesburg)",
+     "url": "https://www.espn.com/college-football/team/schedule/_/id/256"
+    }
+   ],
+   "sources_display": "button",
+   "age_21": false,
+   "sponsored": false,
+   "venues": []
+  },
+  {
+   "id": "fanatic_team-troy-2026-10-29",
+   "kind": "fanatic_team",
+   "league": "college",
+   "team_id": "troy",
+   "team_ids": [
+    "troy"
+   ],
+   "tab_id": "sunbelt",
+   "game_id": "401869963",
+   "title": "Troy vs James Madison: Trojans Stun Dukes 24-21 in Overtime",
+   "byline": "",
+   "matchup": "Final: Troy (4-4) 24, James Madison (7-2) 21 (OT), Thu., Oct. 29, Bridgeforth Stadium, Harrisonburg. Next: vs. Louisiana Tech, Sat., Nov. 7, 4:00 PM ET, Veterans Memorial Stadium, Troy",
+   "date": "2026-10-29",
+   "word_count": 392,
+   "text": "Troy 24, James Madison 21, in overtime. On Tuesday night, TROYAPALOOZA brought the Janice Hawkins Cultural Arts Park a costume contest, a concert and fried Oreos. Two nights later, Troy vs James Madison gave us the best costume change of the week. The Trojans walked into Bridgeforth Stadium dressed as a team down 21-7 at halftime and walked out as the team that ended the Dukes' 11-game home winning streak.\n\nLet me introduce Justin Powe to the rest of the country. He intercepted three throws, which ties Ronnie Shelley's single-game school record from 1968. The biggest came on the second play of the second half, when he took it back 37 yards for a touchdown. Just like that it was 21-14, and you could feel the whole stadium tighten up.\n\nThen the defense took over. After the Dukes scored on their first three drives, they did not score again for the final 38:41. Troy forced five turnovers. Keno Jones made 13 tackles, recovered a fumble and, in overtime, stuffed Seth Cromwell on fourth-and-1 from the 5. Donnie Smith got his seventh sack of the season. That is how you avenge last year's Sun Belt Championship Game on the other team's own field.\n\nOn offense, we pounded the ground the way Troy football should. We ran it 45 times for 170 yards. Jaheim Merriweather broke a 28-yard touchdown run in the third quarter to tie it at 21-21, and he finished with 84 yards on 13 carries. Gavin Griffin opened our scoring with a 1-yard run on the first play of the second quarter, then gained 8 yards on third-and-6 in overtime to set up the kick. Tucker Kilcrease made his first start of the season and went 15 of 31 for 179 yards without an interception.\n\nI will be fair to my own team. We went 0 for 3 on fourth down, and Hayden Wolfe missed from 49 yards late in regulation. But the kid came back in overtime and put a 27-yarder straight down the middle. It was his first field goal at Troy and our first walk-off kick in the final minute or overtime since 2020. Evan Crenshaw also averaged 45.6 yards on five punts.\n\nWe are 4-4 and 2-2 in the Sun Belt, and The Vet gets Homecoming against Louisiana Tech on Nov. 7. Save me a fried Oreo.",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "Troy 24, James Madison 21, in overtime. On Tuesday night, TROYAPALOOZA brought the Janice Hawkins Cultural Arts Park a costume contest, a concert and fried Oreos. Two nights later, Troy vs James Madison gave us the best costume change of the week. The Trojans walked into Bridgeforth Stadium dressed as a team down 21-7 at halftime and walked out as the team that ended the Dukes' 11-game home winning streak."
+    },
+    {
+     "type": "paragraph",
+     "text": "Let me introduce Justin Powe to the rest of the country. He intercepted three throws, which ties Ronnie Shelley's single-game school record from 1968. The biggest came on the second play of the second half, when he took it back 37 yards for a touchdown. Just like that it was 21-14, and you could feel the whole stadium tighten up."
+    },
+    {
+     "type": "paragraph",
+     "text": "Then the defense took over. After the Dukes scored on their first three drives, they did not score again for the final 38:41. Troy forced five turnovers. Keno Jones made 13 tackles, recovered a fumble and, in overtime, stuffed Seth Cromwell on fourth-and-1 from the 5. Donnie Smith got his seventh sack of the season. That is how you avenge last year's Sun Belt Championship Game on the other team's own field."
+    },
+    {
+     "type": "paragraph",
+     "text": "On offense, we pounded the ground the way Troy football should. We ran it 45 times for 170 yards. Jaheim Merriweather broke a 28-yard touchdown run in the third quarter to tie it at 21-21, and he finished with 84 yards on 13 carries. Gavin Griffin opened our scoring with a 1-yard run on the first play of the second quarter, then gained 8 yards on third-and-6 in overtime to set up the kick. Tucker Kilcrease made his first start of the season and went 15 of 31 for 179 yards without an interception."
+    },
+    {
+     "type": "paragraph",
+     "text": "I will be fair to my own team. We went 0 for 3 on fourth down, and Hayden Wolfe missed from 49 yards late in regulation. But the kid came back in overtime and put a 27-yarder straight down the middle. It was his first field goal at Troy and our first walk-off kick in the final minute or overtime since 2020. Evan Crenshaw also averaged 45.6 yards on five punts."
+    },
+    {
+     "type": "paragraph",
+     "text": "We are 4-4 and 2-2 in the Sun Belt, and The Vet gets Homecoming against Louisiana Tech on Nov. 7. Save me a fried Oreo."
+    }
+   ],
+   "summary": [
+    {
+     "type": "fact",
+     "text": "Troy beat James Madison 24-21 in overtime on Thursday, Oct. 29, at Bridgeforth Stadium in Harrisonburg, Va. The Trojans are 4-4 and 2-2 in the Sun Belt."
+    },
+    {
+     "type": "fact",
+     "text": "Justin Powe intercepted three throws, tying Troy's single-game school record, and returned one 37 yards for a touchdown."
+    },
+    {
+     "type": "fact",
+     "text": "Hayden Wolfe kicked a 27-yard field goal in overtime after Keno Jones stopped JMU on fourth-and-1."
+    },
+    {
+     "type": "jab",
+     "text": "Harrisonburg dressed in white for the big night. Troy showed up in costume as the team that ended the party."
+    }
+   ],
+   "sources": [
+    {
+     "label": "ESPN box score, Troy 24, James Madison 21 OT (Oct. 29, 2026)",
+     "url": "https://www.espn.com/college-football/boxscore/_/gameId/401869963"
+    },
+    {
+     "label": "ESPN game recap, Troy at James Madison",
+     "url": "https://www.espn.com/college-football/recap/_/gameId/401869963"
+    },
+    {
+     "label": "Troy Athletics: Troy Storms Back to Stun James Madison in Overtime",
+     "url": "https://troytrojans.com/news/2026/10/30/football-troy-storms-back-to-stun-james-madison-in-overtime"
+    },
+    {
+     "label": "ESPN Troy schedule (next game: vs. Louisiana Tech, Sat., Nov. 7, 4:00 PM ET, Veterans Memorial Stadium, Troy)",
+     "url": "https://www.espn.com/college-football/team/schedule/_/id/2653"
+    },
+    {
+     "label": "Troy University: TROYAPALOOZA returns Oct. 27",
+     "url": "https://today.troy.edu/news/troyapalooza-returns-oct-27-with-concert-costume-contest-and-more/"
+    }
+   ],
+   "sources_display": "button",
+   "age_21": false,
+   "sponsored": false,
+   "venues": []
+  },
+  {
+   "id": "fanatic_team-florida-atlantic-2026-10-29",
+   "kind": "fanatic_team",
+   "league": "college",
+   "team_id": "florida-atlantic",
+   "team_ids": [
+    "florida-atlantic"
+   ],
+   "tab_id": "aac",
+   "game_id": "401862812",
+   "title": "Florida Atlantic vs North Texas: Owls Fall 48-41 Despite Records",
+   "byline": "",
+   "matchup": "Final: Florida Atlantic (5-3) 41, North Texas (6-2) 48, Thu., Oct. 29, DATCU Stadium, Denton. Next: vs. UTSA, Thu., Nov. 5, 7:30 PM ET, Flagler Credit Union Stadium, Boca Raton",
+   "date": "2026-10-29",
+   "word_count": 405,
+   "text": "North Texas 48, Florida Atlantic 41. Florida Atlantic vs North Texas was our first game on ESPN since the 2020 Montgomery Bowl, and the Owls flew into Denton five days after the Rice shootout like they owned the whole sky. We did not get the win. We did get a night the record book will remember, and Boca Raton is not handing the sky back.\n\nEaston Messer caught 16 balls for 189 yards and three touchdowns. Sixteen catches is the program record and tied for the most by any FBS player this season, and the man caught every throw that came his way. His 12-yard grab on fourth-and-4 with 39 seconds left in the half, slipping between two defenders, tied it 24-24. His 34-yarder with 8:26 to go pulled us within three. On our campus the burrowing owls dig in and refuse to move, and Messer played like one of them all night.\n\nCaden Veltkamp went 37 of 56 for 452 yards and five touchdown throws, which ties the program record he has now matched three times. He also became the first Owl quarterback with more than one 400-yard game. Dominique Henry caught 10 balls for 116 yards, a career high, and Kaden Shields-Dutton touched it four times for 53 yards on one drive and finished it on a 22-yard shovel throw for a touchdown. Collin Rogers hit both field goals, including a 43-yarder with 1:56 left.\n\nHere is the honest film session. Two turnovers flipped it. A third-quarter strip-sack set up the North Texas score that made it 34-24, and an interception near their goal in the fourth quarter cost us points we badly needed. The defense allowed 644 yards and 31 first downs, and North Texas held the ball for 35:05. Jahiem White ran for 193 yards. Joseph Sipp Jr. made eight tackles trying to plug it all by himself. When the onside kick bounced the wrong way, the clock did the rest.\n\nWe still went 10 of 18 on third down and 2 of 4 on fourth down, on the road, against the top team in the American. That is not a team that folds.\n\nNow the Owls come home at 5-3. UTSA visits Flagler Credit Union Stadium on Thursday, Nov. 5, for Paradise Appreciation and Vice Night, our first Thursday home game since 2006 and the first ever at Flagler Credit Union Stadium. Bring the noise. Messer will bring the hands.",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "North Texas 48, Florida Atlantic 41. Florida Atlantic vs North Texas was our first game on ESPN since the 2020 Montgomery Bowl, and the Owls flew into Denton five days after the Rice shootout like they owned the whole sky. We did not get the win. We did get a night the record book will remember, and Boca Raton is not handing the sky back."
+    },
+    {
+     "type": "paragraph",
+     "text": "Easton Messer caught 16 balls for 189 yards and three touchdowns. Sixteen catches is the program record and tied for the most by any FBS player this season, and the man caught every throw that came his way. His 12-yard grab on fourth-and-4 with 39 seconds left in the half, slipping between two defenders, tied it 24-24. His 34-yarder with 8:26 to go pulled us within three. On our campus the burrowing owls dig in and refuse to move, and Messer played like one of them all night."
+    },
+    {
+     "type": "paragraph",
+     "text": "Caden Veltkamp went 37 of 56 for 452 yards and five touchdown throws, which ties the program record he has now matched three times. He also became the first Owl quarterback with more than one 400-yard game. Dominique Henry caught 10 balls for 116 yards, a career high, and Kaden Shields-Dutton touched it four times for 53 yards on one drive and finished it on a 22-yard shovel throw for a touchdown. Collin Rogers hit both field goals, including a 43-yarder with 1:56 left."
+    },
+    {
+     "type": "paragraph",
+     "text": "Here is the honest film session. Two turnovers flipped it. A third-quarter strip-sack set up the North Texas score that made it 34-24, and an interception near their goal in the fourth quarter cost us points we badly needed. The defense allowed 644 yards and 31 first downs, and North Texas held the ball for 35:05. Jahiem White ran for 193 yards. Joseph Sipp Jr. made eight tackles trying to plug it all by himself. When the onside kick bounced the wrong way, the clock did the rest."
+    },
+    {
+     "type": "paragraph",
+     "text": "We still went 10 of 18 on third down and 2 of 4 on fourth down, on the road, against the top team in the American. That is not a team that folds."
+    },
+    {
+     "type": "paragraph",
+     "text": "Now the Owls come home at 5-3. UTSA visits Flagler Credit Union Stadium on Thursday, Nov. 5, for Paradise Appreciation and Vice Night, our first Thursday home game since 2006 and the first ever at Flagler Credit Union Stadium. Bring the noise. Messer will bring the hands."
+    }
+   ],
+   "summary": [
+    {
+     "type": "fact",
+     "text": "Florida Atlantic lost 48-41 at North Texas on Thursday, Oct. 29, in Denton. The Owls are 5-3 and 2-2 in the American."
+    },
+    {
+     "type": "fact",
+     "text": "Easton Messer set the program record with 16 catches, for 189 yards and three touchdowns."
+    },
+    {
+     "type": "fact",
+     "text": "Caden Veltkamp threw for 452 yards and five touchdowns, tying the program record."
+    },
+    {
+     "type": "jab",
+     "text": "Denton can keep its rain. We have the beach, the burrowing owls and the best set of hands in the country."
+    }
+   ],
+   "sources": [
+    {
+     "label": "ESPN box score, North Texas 48, Florida Atlantic 41 (Oct. 29, 2026)",
+     "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862812"
+    },
+    {
+     "label": "ESPN game recap, Florida Atlantic at North Texas",
+     "url": "https://www.espn.com/college-football/recap/_/gameId/401862812"
+    },
+    {
+     "label": "FAU Athletics: Owls Fall Despite Record Nights from Messer, Veltkamp",
+     "url": "https://fausports.com/news/2026/10/30/football-owls-fall-despite-record-nights-from-messer-veltkamp"
+    },
+    {
+     "label": "FAU Athletics: Florida Atlantic Hosts UTSA on ESPN (Vice Night)",
+     "url": "https://fausports.com/news/2026/10/26/football-florida-atlantic-hosts-utsa-on-espn"
+    },
+    {
+     "label": "ESPN Florida Atlantic schedule (next game: vs. UTSA, Thu., Nov. 5, 7:30 PM ET, Flagler Credit Union Stadium, Boca Raton)",
+     "url": "https://www.espn.com/college-football/team/schedule/_/id/2226"
+    },
+    {
+     "label": "Florida Atlantic University: Burrowing Owls",
+     "url": "https://www.fau.edu/owls/"
+    }
+   ],
+   "sources_display": "button",
+   "age_21": false,
+   "sponsored": false,
+   "venues": []
+  },
+  {
+   "id": "fanatic_team-north-texas-2026-10-29",
+   "kind": "fanatic_team",
+   "league": "college",
+   "team_id": "north-texas",
+   "team_ids": [
+    "north-texas"
+   ],
+   "tab_id": "aac",
+   "game_id": "401862812",
+   "title": "North Texas vs Florida Atlantic: Mean Green Survive 48-41 Shootout",
+   "byline": "",
+   "matchup": "Final: Florida Atlantic (5-3) 41, North Texas (6-2) 48, Thu., Oct. 29, DATCU Stadium, Denton. Next: vs. Rice, Sat., Nov. 7, 4:00 PM ET, DATCU Stadium, Denton",
+   "date": "2026-10-29",
+   "word_count": 438,
+   "text": "North Texas 48, Florida Atlantic 41. Five days after Denton's Day of the Dead Festival sent coffins racing downtown and lanterns glowing through the Twilight Lantern and Costume Parade, North Texas vs Florida Atlantic turned DATCU Stadium into its own haunted house on a wet Thursday night. The Owls kept rising from the grave. The Mean Green kept burying them anyway, and now we are 6-2, 4-0 in the American and bowl eligible for a third straight season.\n\nStart with the quarterback, because Tayven Jackson earned the first paragraph and then some. He went 33 of 46 for 404 yards, four touchdown throws and zero interceptions, then ran five times for 41 more. That is not a game manager. That is a conductor. Our offense piled up 644 yards and 31 first downs, went 8 of 14 on third down and held the ball for 35:05. The Owls' offense spent a lot of the night watching from the bench.\n\nJahiem White ran 26 times for 193 yards and two scores, and his 59-yard sprint late in the second quarter gave us our first lead of the night at 24-17. Justin Stevenson caught nine balls for 119 yards and a score. Kyle Koch matched him with nine grabs, went for 78 yards and scored twice, including the 2-yard dagger with 4:02 left that made it 48-38. Max Reese added seven catches for 85 yards, and Dalton Carnes turned three catches into 66.\n\nNow the honest part, because a real fan does not hide the film. White put the ball on the turf twice, and Florida Atlantic recovered both. Easton Messer caught 16 balls for 189 yards and three touchdowns, and he caught every throw sent his way. Caden Veltkamp threw for 452 yards. Our secondary spent the night chasing a receiver who apparently cannot be tackled by rain, by brackets or by prayer, though I tried that last one.\n\nBut the defense made the two plays that decided it. Brayden Knox stripped Veltkamp on a sack in the third quarter, and we turned that into a 34-24 cushion. Peyton Taylor then intercepted Veltkamp near our goal in the fourth quarter and added seven tackles. Curlee Thomas IV got home for a sack too. Dominic De Freitas went 2 for 2 on field goals, including a 48-yarder, and the late onside kick did not go Florida Atlantic's way.\n\nFive straight wins. A 4-0 league start for the first time since 2004, when we played in the Sun Belt. Rice comes to Denton for Homecoming on Nov. 7, and the coffins can stay in the garage. We are not done yet.",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "North Texas 48, Florida Atlantic 41. Five days after Denton's Day of the Dead Festival sent coffins racing downtown and lanterns glowing through the Twilight Lantern and Costume Parade, North Texas vs Florida Atlantic turned DATCU Stadium into its own haunted house on a wet Thursday night. The Owls kept rising from the grave. The Mean Green kept burying them anyway, and now we are 6-2, 4-0 in the American and bowl eligible for a third straight season."
+    },
+    {
+     "type": "paragraph",
+     "text": "Start with the quarterback, because Tayven Jackson earned the first paragraph and then some. He went 33 of 46 for 404 yards, four touchdown throws and zero interceptions, then ran five times for 41 more. That is not a game manager. That is a conductor. Our offense piled up 644 yards and 31 first downs, went 8 of 14 on third down and held the ball for 35:05. The Owls' offense spent a lot of the night watching from the bench."
+    },
+    {
+     "type": "paragraph",
+     "text": "Jahiem White ran 26 times for 193 yards and two scores, and his 59-yard sprint late in the second quarter gave us our first lead of the night at 24-17. Justin Stevenson caught nine balls for 119 yards and a score. Kyle Koch matched him with nine grabs, went for 78 yards and scored twice, including the 2-yard dagger with 4:02 left that made it 48-38. Max Reese added seven catches for 85 yards, and Dalton Carnes turned three catches into 66."
+    },
+    {
+     "type": "paragraph",
+     "text": "Now the honest part, because a real fan does not hide the film. White put the ball on the turf twice, and Florida Atlantic recovered both. Easton Messer caught 16 balls for 189 yards and three touchdowns, and he caught every throw sent his way. Caden Veltkamp threw for 452 yards. Our secondary spent the night chasing a receiver who apparently cannot be tackled by rain, by brackets or by prayer, though I tried that last one."
+    },
+    {
+     "type": "paragraph",
+     "text": "But the defense made the two plays that decided it. Brayden Knox stripped Veltkamp on a sack in the third quarter, and we turned that into a 34-24 cushion. Peyton Taylor then intercepted Veltkamp near our goal in the fourth quarter and added seven tackles. Curlee Thomas IV got home for a sack too. Dominic De Freitas went 2 for 2 on field goals, including a 48-yarder, and the late onside kick did not go Florida Atlantic's way."
+    },
+    {
+     "type": "paragraph",
+     "text": "Five straight wins. A 4-0 league start for the first time since 2004, when we played in the Sun Belt. Rice comes to Denton for Homecoming on Nov. 7, and the coffins can stay in the garage. We are not done yet."
+    }
+   ],
+   "summary": [
+    {
+     "type": "fact",
+     "text": "North Texas beat Florida Atlantic 48-41 on Thursday, Oct. 29, at DATCU Stadium in Denton. The Mean Green are 6-2 and 4-0 in the American and have won five straight."
+    },
+    {
+     "type": "fact",
+     "text": "Tayven Jackson completed 33 of 46 throws for 404 yards and four touchdowns with no interceptions."
+    },
+    {
+     "type": "fact",
+     "text": "Jahiem White ran for 193 yards and two touchdowns on 26 carries, including a 59-yard score."
+    },
+    {
+     "type": "jab",
+     "text": "The Owls brought the fireworks, but Denton just finished a whole festival of coffin races. We know how to finish a race."
+    }
+   ],
+   "sources": [
+    {
+     "label": "ESPN box score, North Texas 48, Florida Atlantic 41 (Oct. 29, 2026)",
+     "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862812"
+    },
+    {
+     "label": "ESPN game recap, Florida Atlantic at North Texas",
+     "url": "https://www.espn.com/college-football/recap/_/gameId/401862812"
+    },
+    {
+     "label": "ESPN play-by-play, Florida Atlantic at North Texas",
+     "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401862812"
+    },
+    {
+     "label": "North Texas Athletics: Mean Green Move to 4-0 in American Play",
+     "url": "https://meangreensports.com/news/2026/10/29/football-mean-green-move-to-4-0-in-american-play"
+    },
+    {
+     "label": "Dallas Morning News: 5 thoughts from UNT's win over FAU (bowl eligibility)",
+     "url": "https://www.dallasnews.com/sports/unt-mean-green/article/florida-atlantic-north-texas-score-five-thoughts-22498071.php"
+    },
+    {
+     "label": "ESPN North Texas schedule (next game: vs. Rice, Sat., Nov. 7, 4:00 PM ET, DATCU Stadium, Denton)",
+     "url": "https://www.espn.com/college-football/team/schedule/_/id/249"
+    },
+    {
+     "label": "Discover Denton: Denton's Day of the Dead Festival",
+     "url": "https://www.discoverdenton.com/events/annual-events/dentons-day-of-the-dead-festival/"
+    }
+   ],
+   "sources_display": "button",
+   "age_21": false,
+   "sponsored": false,
+   "venues": []
+  }
+ ]
+}
