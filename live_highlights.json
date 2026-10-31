@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-10-31T21:45:11Z",
+ "updated_utc": "2026-10-31T23:41:40Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -408,7 +408,24 @@
    "kickoff_utc": "2026-10-31T19:15Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q2 0:15",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "9TolWAmKmMU",
+    "title": "Stanford vs. Louisville Condensed Game | 2026 ACC Football",
+    "channel": "ACC Digital Network",
+    "channel_id": "UC0hy7TcR1gGD8nQBqrF2FaA",
+    "url": "https://www.youtube.com/watch?v=9TolWAmKmMU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/9TolWAmKmMU",
+    "thumb": "https://i.ytimg.com/vi/9TolWAmKmMU/hqdefault.jpg",
+    "duration_s": 1506,
+    "uploaded_utc": "2026-10-31T23:24:53Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-10-31T23:37:25Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856734": {
    "game_id": "401856734",
@@ -416,7 +433,24 @@
    "kickoff_utc": "2026-10-31T19:30Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q2 2:00",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "yFPxXLxZDms",
+    "title": "Florida Gators vs. Georgia Bulldogs | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=yFPxXLxZDms",
+    "embed_url": "https://www.youtube-nocookie.com/embed/yFPxXLxZDms",
+    "thumb": "https://i.ytimg.com/vi/yFPxXLxZDms/hqdefault.jpg",
+    "duration_s": 1392,
+    "uploaded_utc": "2026-10-31T23:27:43Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-10-31T23:37:25Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856843": {
    "game_id": "401856843",
@@ -432,7 +466,24 @@
    "kickoff_utc": "2026-10-31T19:30Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q2 1:21",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "AmsZUta-Fwg",
+    "title": "Kansas Jayhawks vs. TCU Horned Frogs | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=AmsZUta-Fwg",
+    "embed_url": "https://www.youtube-nocookie.com/embed/AmsZUta-Fwg",
+    "thumb": "https://i.ytimg.com/vi/AmsZUta-Fwg/hqdefault.jpg",
+    "duration_s": 136,
+    "uploaded_utc": "2026-10-31T23:32:39Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-10-31T23:38:42Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858501": {
    "game_id": "401858501",
@@ -440,7 +491,24 @@
    "kickoff_utc": "2026-10-31T19:30Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q2 1:54",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "vPSA8rC9gZ4",
+    "title": "Minnesota at Indiana | Highlights | Big Ten Football | 10/31/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=vPSA8rC9gZ4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/vPSA8rC9gZ4",
+    "thumb": "https://i.ytimg.com/vi/vPSA8rC9gZ4/hqdefault.jpg",
+    "duration_s": 194,
+    "uploaded_utc": "2026-10-31T23:35:14Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-10-31T23:38:42Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858505": {
    "game_id": "401858505",
@@ -448,7 +516,24 @@
    "kickoff_utc": "2026-10-31T19:30Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q2 0:21",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "p8l-qE5SAhM",
+    "title": "Northwestern at Oregon | Highlights | Big Ten Football | 10/31/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=p8l-qE5SAhM",
+    "embed_url": "https://www.youtube-nocookie.com/embed/p8l-qE5SAhM",
+    "thumb": "https://i.ytimg.com/vi/p8l-qE5SAhM/hqdefault.jpg",
+    "duration_s": 189,
+    "uploaded_utc": "2026-10-31T23:07:26Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-10-31T23:39:49Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401860910": {
    "game_id": "401860910",
@@ -488,7 +573,24 @@
    "kickoff_utc": "2026-10-31T19:45Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q2 4:48",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "ATbHkWn4Y0g",
+    "title": "Utah Utes vs. Cincinnati Bearcats | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=ATbHkWn4Y0g",
+    "embed_url": "https://www.youtube-nocookie.com/embed/ATbHkWn4Y0g",
+    "thumb": "https://i.ytimg.com/vi/ATbHkWn4Y0g/hqdefault.jpg",
+    "duration_s": 1049,
+    "uploaded_utc": "2026-10-31T23:36:51Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-10-31T23:40:41Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858284": {
    "game_id": "401858284",
@@ -496,7 +598,24 @@
    "kickoff_utc": "2026-10-31T19:45Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q2 3:54",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "cD6_mK0xcLg",
+    "title": "Virginia vs Wake Forest Condensed Game | 2026 ACC Football",
+    "channel": "ACC Digital Network",
+    "channel_id": "UC0hy7TcR1gGD8nQBqrF2FaA",
+    "url": "https://www.youtube.com/watch?v=cD6_mK0xcLg",
+    "embed_url": "https://www.youtube-nocookie.com/embed/cD6_mK0xcLg",
+    "thumb": "https://i.ytimg.com/vi/cD6_mK0xcLg/hqdefault.jpg",
+    "duration_s": 1500,
+    "uploaded_utc": "2026-10-31T23:31:47Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-10-31T23:40:45Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401864529": {
    "game_id": "401864529",
@@ -528,7 +647,24 @@
    "kickoff_utc": "2026-10-31T20:15Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 0:00",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "kQ4TVYQWybc",
+    "title": "Nevada at UCLA | Highlights | Big Ten Football | 10/31/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=kQ4TVYQWybc",
+    "embed_url": "https://www.youtube-nocookie.com/embed/kQ4TVYQWybc",
+    "thumb": "https://i.ytimg.com/vi/kQ4TVYQWybc/hqdefault.jpg",
+    "duration_s": 300,
+    "uploaded_utc": "2026-10-31T23:41:09Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-10-31T23:41:40Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401869846": {
    "game_id": "401869846",
