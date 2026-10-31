@@ -2116,26 +2116,7 @@
      "source": "ESPN game summary, event 401873030"
     }
    ],
-   "videos": [
-    {
-     "youtube_id": "-p6D2ANkZeM",
-     "title": "Calls of the Game: Jahmyr Gibbs THREE touchdowns leads Detroit to win over New York | Lions vs Jets",
-     "label": "Jahmyr Gibbs highlights",
-     "channel": "Detroit Lions",
-     "channel_id": "UCv5J06V-ESk5_1uriG65f3w",
-     "published": "2026-09-28",
-     "duration_s": 217,
-     "thumb": "https://i.ytimg.com/vi/-p6D2ANkZeM/hqdefault.jpg",
-     "kind": "player",
-     "player": "Jahmyr Gibbs",
-     "team": "Detroit Lions",
-     "player_basis": "ESPN season leader, rushing yards",
-     "embeddable": true,
-     "oembed": 200,
-     "official": true,
-     "gambling_language": false
-    }
-   ]
+   "videos": []
   },
   {
    "game_id": "401873029",
@@ -3425,24 +3406,6 @@
    ],
    "videos": [
     {
-     "youtube_id": "L4hRrpX54u8",
-     "title": "Baker Mayfield throws TD 2️⃣0️⃣0️⃣📺: #TBvsCAR on FOX #bakermayfield #tezjohnson #touchdown #nfl",
-     "label": "Baker Mayfield highlights",
-     "channel": "Tampa Bay Buccaneers",
-     "channel_id": "UC0Wwu7r1ybaaR09ANhudTzA",
-     "published": "2026-10-25",
-     "duration_s": 18,
-     "thumb": "https://i.ytimg.com/vi/L4hRrpX54u8/hqdefault.jpg",
-     "kind": "player",
-     "player": "Baker Mayfield",
-     "team": "Tampa Bay Buccaneers",
-     "player_basis": "ESPN season leader, passing yards",
-     "embeddable": true,
-     "oembed": 200,
-     "official": true,
-     "gambling_language": false
-    },
-    {
      "youtube_id": "J7xCSK-83Po",
      "title": "Bucky Irving is off to a HOT start 🔥📺: #TBvsCAR on FOX #buckyirving #touchdown #buccaneers #nfl",
      "label": "Bucky Irving highlights",
@@ -4585,14 +4548,14 @@
    ],
    "videos": [
     {
-     "youtube_id": "od2EofGLEtI",
-     "title": "Bullet Bo on the move 💨 #nfl #broncos #bonix #mariokart #highlight",
+     "youtube_id": "-3eIqRHdETk",
+     "title": "TOUCHDOWN, BO NIX 😤 #broncos #touchdown #nix #denver #nfl",
      "label": "Bo Nix highlights",
      "channel": "Denver Broncos",
      "channel_id": "UCDGdBexlDZA8T7hnweWWyow",
-     "published": "2026-10-27",
-     "duration_s": 13,
-     "thumb": "https://i.ytimg.com/vi/od2EofGLEtI/hqdefault.jpg",
+     "published": "2026-10-25",
+     "duration_s": 17,
+     "thumb": "https://i.ytimg.com/vi/-3eIqRHdETk/hqdefault.jpg",
      "kind": "player",
      "player": "Bo Nix",
      "team": "Denver Broncos",
@@ -5099,23 +5062,7 @@
      "source": "ESPN game summary, event 401873034"
     }
    ],
-   "videos": [
-    {
-     "youtube_id": "h4WBNHBqK_g",
-     "title": "HIGHLIGHTS: New England Patriots vs. Miami Dolphins | 2024 Regular Season Week 5",
-     "label": "Last meeting: Patriots vs. Dolphins",
-     "channel": "New England Patriots",
-     "channel_id": "UCMm_V8YjmnZRhToXIqDYDuw",
-     "published": "2024-10-06",
-     "duration_s": 373,
-     "thumb": "https://i.ytimg.com/vi/h4WBNHBqK_g/hqdefault.jpg",
-     "kind": "matchup",
-     "embeddable": true,
-     "oembed": 200,
-     "official": true,
-     "gambling_language": false
-    }
-   ]
+   "videos": []
   },
   {
    "game_id": "401873035",
@@ -5449,13 +5396,6 @@
      "player": "Jalen Hurts",
      "position": "QB",
      "basis": "ESPN season leader, passing yards",
-     "source": "ESPN game summary, event 401873035"
-    },
-    {
-     "team": "Philadelphia Eagles",
-     "player": "DeVonta Smith",
-     "position": "WR",
-     "basis": "ESPN season leader, receiving yards",
      "source": "ESPN game summary, event 401873035"
     },
     {
