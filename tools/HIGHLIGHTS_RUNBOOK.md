@@ -75,3 +75,6 @@
 > - No gambling language and nothing never-public (records, standings, betting units).
 > - Never print secrets and don't message anyone.
 > - Report coverage per league and per slot, the commit hash, the run time and any failure.
+
+## Live halftime and final clips
+See `tools/LIVE_HIGHLIGHTS_RUNBOOK.md` (`tools/live_highlights.py`, `tools/publish_live_highlights.sh`). They write only `live_highlights.json` and `nfl/live_highlights.json`.
