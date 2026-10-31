@@ -4,7 +4,7 @@
  "theme": "mmqb",
  "theme_label": "Monday Morning Quarterback",
  "published_at": "2026-10-26T11:53:04Z",
- "count": 4,
+ "count": 6,
  "lead_id": "fanatic_team-ucf-2026-10-30",
  "articles": [
   {
@@ -352,6 +352,184 @@
     {
      "label": "ESPN Tulane schedule (next game: vs. Tulsa, Sat., Nov. 7, Yulman Stadium)",
      "url": "https://www.espn.com/college-football/team/schedule/_/id/2655"
+    }
+   ],
+   "sources_display": "button",
+   "age_21": false,
+   "sponsored": false,
+   "venues": []
+  },
+  {
+   "id": "fanatic_team-sacramento-state-2026-10-30",
+   "kind": "fanatic_team",
+   "league": "college",
+   "team_id": "sacramento-state",
+   "team_ids": [
+    "sacramento-state"
+   ],
+   "tab_id": "mac",
+   "game_id": "401866451",
+   "title": "Sacramento State vs Kent State: Hornets Grab First MAC Win 31-10",
+   "byline": "",
+   "matchup": "Final: Sacramento State (2-7) 31, Kent State (3-6) 10, Fri., Oct. 30, Hornet Stadium, Sacramento. Next: vs. Toledo, Wed., Nov. 4, Hornet Stadium, Sacramento",
+   "date": "2026-10-30",
+   "word_count": 374,
+   "text": "Sacramento State 31, Kent State 10. Friday was Healthcare Appreciation and AANHPI Heritage Night at Hornet Stadium, and the postgame fireworks came back. This time they went up over the first Mid-American Conference win in program history, in front of 9,931 fans. Plate it up, chef. This one goes in the cookbook.\n\nKent State hit us early. Dru DeShields escaped trouble in his own end zone and found Wayne Harris for 92 yards, and the Golden Flashes led 7-0 in the first quarter. Grant Meadors kept us close with field goals from 42 and 28 yards, but Kent State kicked one at the horn, and we went in down 10-6. Back to the kitchen? Not this time.\n\nThe second half was 25-0, all Hornets, and the defense ran the kitchen. Five takeaways, our most since five at Incarnate Word on Sept. 7, 2017. Fata Puloka forced two fumbles and Xavier Williams forced another on a sack. Miles Bailey recovered two, and Boogsie Silvera recovered one to go with a game-high 10 tackles. On third-and-5 in the fourth quarter, Donovan Turner jumped a throw and ran it back 38 yards for a touchdown, his first trip to the end zone since his senior year at Long Beach Poly in 2021. Malikai Nichols added an interception in the end zone in the final two minutes.\n\nIsaiah Ene carried the main course. He ran 19 times for a career-high 107 yards and two touchdowns. His 35-yard run late in the third put us ahead to stay, and he ran in the two-point try himself to make it 17-10. His 5-yard run with 2:55 left closed it out. Meadors went 3 of 3 on field goals, adding a 36-yarder, and Hamish Adams averaged 45.3 yards on six punts. We ran for 161 yards on 42 carries, and Jackson Sharman went 14 of 25 for 117 yards with no interceptions.\n\nKitchen cleanup: 10 penalties for 89 yards, and Kent State outgained us 302 to 278. We will sharpen the knives on that. But this win tastes like the first plate off a brand-new menu.\n\nWe're 2-7 and 1-5 in the MAC. Toledo comes to Hornet Stadium on Wednesday, Nov. 4, for Senior Night. Fire up the grill. Go Hornets!",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "Sacramento State 31, Kent State 10. Friday was Healthcare Appreciation and AANHPI Heritage Night at Hornet Stadium, and the postgame fireworks came back. This time they went up over the first Mid-American Conference win in program history, in front of 9,931 fans. Plate it up, chef. This one goes in the cookbook."
+    },
+    {
+     "type": "paragraph",
+     "text": "Kent State hit us early. Dru DeShields escaped trouble in his own end zone and found Wayne Harris for 92 yards, and the Golden Flashes led 7-0 in the first quarter. Grant Meadors kept us close with field goals from 42 and 28 yards, but Kent State kicked one at the horn, and we went in down 10-6. Back to the kitchen? Not this time."
+    },
+    {
+     "type": "paragraph",
+     "text": "The second half was 25-0, all Hornets, and the defense ran the kitchen. Five takeaways, our most since five at Incarnate Word on Sept. 7, 2017. Fata Puloka forced two fumbles and Xavier Williams forced another on a sack. Miles Bailey recovered two, and Boogsie Silvera recovered one to go with a game-high 10 tackles. On third-and-5 in the fourth quarter, Donovan Turner jumped a throw and ran it back 38 yards for a touchdown, his first trip to the end zone since his senior year at Long Beach Poly in 2021. Malikai Nichols added an interception in the end zone in the final two minutes."
+    },
+    {
+     "type": "paragraph",
+     "text": "Isaiah Ene carried the main course. He ran 19 times for a career-high 107 yards and two touchdowns. His 35-yard run late in the third put us ahead to stay, and he ran in the two-point try himself to make it 17-10. His 5-yard run with 2:55 left closed it out. Meadors went 3 of 3 on field goals, adding a 36-yarder, and Hamish Adams averaged 45.3 yards on six punts. We ran for 161 yards on 42 carries, and Jackson Sharman went 14 of 25 for 117 yards with no interceptions."
+    },
+    {
+     "type": "paragraph",
+     "text": "Kitchen cleanup: 10 penalties for 89 yards, and Kent State outgained us 302 to 278. We will sharpen the knives on that. But this win tastes like the first plate off a brand-new menu."
+    },
+    {
+     "type": "paragraph",
+     "text": "We're 2-7 and 1-5 in the MAC. Toledo comes to Hornet Stadium on Wednesday, Nov. 4, for Senior Night. Fire up the grill. Go Hornets!"
+    }
+   ],
+   "summary": [
+    {
+     "type": "fact",
+     "text": "Sacramento State beat Kent State 31-10 on Friday, Oct. 30, at Hornet Stadium for the first MAC win in program history. The Hornets are 2-7 and 1-5 in the MAC."
+    },
+    {
+     "type": "fact",
+     "text": "Isaiah Ene ran for a career-high 107 yards and two touchdowns, and Grant Meadors made all three field goal tries."
+    },
+    {
+     "type": "fact",
+     "text": "The Hornets forced five turnovers and outscored Kent State 25-0 in the second half, with Donovan Turner returning an interception 38 yards for a touchdown."
+    },
+    {
+     "type": "jab",
+     "text": "Kent State brought the fireworks early. We set off the ones that counted."
+    }
+   ],
+   "sources": [
+    {
+     "label": "ESPN box score, Sacramento State 31, Kent State 10 (Oct. 30, 2026)",
+     "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866451"
+    },
+    {
+     "label": "ESPN play-by-play, Kent State at Sacramento State",
+     "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866451"
+    },
+    {
+     "label": "Sacramento State Athletics: Football claims first MAC win with 31-10 victory over Kent State",
+     "url": "https://hornetsports.com/news/2026/10/31/football-football-claims-first-mac-win-with-31-10-victory-over-kent-state.aspx"
+    },
+    {
+     "label": "Sacramento State Athletics: Football takes on Kent State on Friday night (Healthcare Appreciation and AANHPI Heritage Night, postgame fireworks)",
+     "url": "https://hornetsports.com/news/2026/10/27/football-football-takes-on-kent-state-on-friday-night.aspx"
+    },
+    {
+     "label": "ESPN Sacramento State schedule (next game: vs. Toledo, Wed., Nov. 4)",
+     "url": "https://www.espn.com/college-football/team/schedule/_/id/16"
+    }
+   ],
+   "sources_display": "button",
+   "age_21": false,
+   "sponsored": false,
+   "venues": []
+  },
+  {
+   "id": "fanatic_team-kent-state-2026-10-30",
+   "kind": "fanatic_team",
+   "league": "college",
+   "team_id": "kent-state",
+   "team_ids": [
+    "kent-state"
+   ],
+   "tab_id": "mac",
+   "game_id": "401866451",
+   "title": "Kent State vs Sacramento State: Five Turnovers Sink Flashes 31-10",
+   "byline": "",
+   "matchup": "Final: Sacramento State (2-7) 31, Kent State (3-6) 10, Fri., Oct. 30, Hornet Stadium, Sacramento. Next: at Bowling Green, Tue., Nov. 10, Doyt L. Perry Stadium, Bowling Green",
+   "date": "2026-10-30",
+   "word_count": 400,
+   "text": "Sacramento State 31, Kent State 10. Back home on Friday, families trick-or-treated through downtown Kent from Hometown Bank Plaza, and the Kent Student Center handed out candy all afternoon. Hours later, out at Hornet Stadium in Sacramento, our Golden Flashes kept the Halloween spirit going the wrong way. We handed out the treats. Five turnovers. Five.\n\nIt started like a Halloween miracle. The Hornets fumbled on their second snap and Josue Cordoba fell on it at their 24, though we came away empty. Then, backed up at our own 8, Dru DeShields got flushed into his own end zone, kept his eyes downfield and found Wayne Harris near midfield. Harris did the rest, 92 yards, the longest Kent State touchdown this season, and we led 7-0. Harris finished with three catches for 122 yards.\n\nTommy Newcomb drilled a 29-yard field goal as the first half ended, and we went in up 10-6. I said nothing good lasts. I hate being right. The second half went 25-0 the other way. Brandon White had already lost a fumble late in the first half, and DeShields lost two more after the break. On third-and-5 in the fourth quarter, Donovan Turner jumped a throw and ran it back 38 yards for a touchdown. Nolan Good's late throw from their 6 was intercepted in the end zone. Isaiah Ene ran 19 times for 107 yards and two scores, and Grant Meadors went 3 of 3 on field goals.\n\nHonest film session: DeShields went 16 of 33 for 190 yards with one touchdown and one interception, and he ran 10 times for 43 yards. We were 4 of 13 on third down, 1 of 3 on fourth down, and we ran for 93 yards. The defense did its job for long stretches. Trey Rubinstein and Antonio Bottiggi each had a sack, and Josue Cordoba and Hayden Dawahare made six tackles apiece. We outgained them 302 to 278 and still lost by 21. It is the football, folks. Hold on to it.\n\nI went to a school with a famous fashion program, so I grade the uniforms every week. The uniforms were fine. The ball security needs a full redesign.\n\nWe are 3-6, 2-3 in the MAC and 0-5 on the road. Next is Bowling Green at Doyt L. Perry Stadium on Tuesday, Nov. 10. I expect the worst. I would love to be wrong. Go Flashes.",
+   "blocks": [
+    {
+     "type": "paragraph",
+     "text": "Sacramento State 31, Kent State 10. Back home on Friday, families trick-or-treated through downtown Kent from Hometown Bank Plaza, and the Kent Student Center handed out candy all afternoon. Hours later, out at Hornet Stadium in Sacramento, our Golden Flashes kept the Halloween spirit going the wrong way. We handed out the treats. Five turnovers. Five."
+    },
+    {
+     "type": "paragraph",
+     "text": "It started like a Halloween miracle. The Hornets fumbled on their second snap and Josue Cordoba fell on it at their 24, though we came away empty. Then, backed up at our own 8, Dru DeShields got flushed into his own end zone, kept his eyes downfield and found Wayne Harris near midfield. Harris did the rest, 92 yards, the longest Kent State touchdown this season, and we led 7-0. Harris finished with three catches for 122 yards."
+    },
+    {
+     "type": "paragraph",
+     "text": "Tommy Newcomb drilled a 29-yard field goal as the first half ended, and we went in up 10-6. I said nothing good lasts. I hate being right. The second half went 25-0 the other way. Brandon White had already lost a fumble late in the first half, and DeShields lost two more after the break. On third-and-5 in the fourth quarter, Donovan Turner jumped a throw and ran it back 38 yards for a touchdown. Nolan Good's late throw from their 6 was intercepted in the end zone. Isaiah Ene ran 19 times for 107 yards and two scores, and Grant Meadors went 3 of 3 on field goals."
+    },
+    {
+     "type": "paragraph",
+     "text": "Honest film session: DeShields went 16 of 33 for 190 yards with one touchdown and one interception, and he ran 10 times for 43 yards. We were 4 of 13 on third down, 1 of 3 on fourth down, and we ran for 93 yards. The defense did its job for long stretches. Trey Rubinstein and Antonio Bottiggi each had a sack, and Josue Cordoba and Hayden Dawahare made six tackles apiece. We outgained them 302 to 278 and still lost by 21. It is the football, folks. Hold on to it."
+    },
+    {
+     "type": "paragraph",
+     "text": "I went to a school with a famous fashion program, so I grade the uniforms every week. The uniforms were fine. The ball security needs a full redesign."
+    },
+    {
+     "type": "paragraph",
+     "text": "We are 3-6, 2-3 in the MAC and 0-5 on the road. Next is Bowling Green at Doyt L. Perry Stadium on Tuesday, Nov. 10. I expect the worst. I would love to be wrong. Go Flashes."
+    }
+   ],
+   "summary": [
+    {
+     "type": "fact",
+     "text": "Sacramento State beat Kent State 31-10 on Friday, Oct. 30, at Hornet Stadium in Sacramento. The Golden Flashes are 3-6 and 2-3 in the MAC."
+    },
+    {
+     "type": "fact",
+     "text": "Kent State led 10-6 at the half after a 92-yard touchdown from Dru DeShields to Wayne Harris, then lost five turnovers."
+    },
+    {
+     "type": "fact",
+     "text": "Sacramento State scored 25 straight points in the second half, including a 38-yard interception return by Donovan Turner."
+    },
+    {
+     "type": "jab",
+     "text": "We came west for Halloween and handed out all the candy."
+    }
+   ],
+   "sources": [
+    {
+     "label": "ESPN box score, Sacramento State 31, Kent State 10 (Oct. 30, 2026)",
+     "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866451"
+    },
+    {
+     "label": "ESPN play-by-play, Kent State at Sacramento State",
+     "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866451"
+    },
+    {
+     "label": "Sacramento State Athletics: Football claims first MAC win with 31-10 victory over Kent State",
+     "url": "https://hornetsports.com/news/2026/10/31/football-football-claims-first-mac-win-with-31-10-victory-over-kent-state.aspx"
+    },
+    {
+     "label": "Central Portage County Visitors & Convention Bureau: Halloween in Downtown Kent (Oct. 30)",
+     "url": "https://centralportagevcb.org/event/halloween-downtown-kent/"
+    },
+    {
+     "label": "Kent State University: Trick-or-Treat at the Kent Student Center (Oct. 30, 2026)",
+     "url": "https://www.kent.edu/isl/event/trick-or-treat"
+    },
+    {
+     "label": "ESPN Kent State schedule (next game: at Bowling Green, Tue., Nov. 10)",
+     "url": "https://www.espn.com/college-football/team/schedule/_/id/2309"
     }
    ],
    "sources_display": "button",
