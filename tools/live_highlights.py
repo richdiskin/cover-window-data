@@ -292,7 +292,7 @@ def scoreboard(lg, dates):
     for d in sorted(dates):
         url = "https://site.api.espn.com/apis/site/v2/sports/football/%s/scoreboard?dates=%s&limit=400" % (H.ESPN_LG[lg], d)
         if lg == "college": url += "&groups=80"
-        try: doc = H.getj(url)
+        try: doc = H.getj(url, tries=5)
         except Exception: continue
         for e in doc.get("events", []):
             st[str(e["id"])] = status_of(e["competitions"][0]["status"])
@@ -304,7 +304,7 @@ def status_of(s):
             "completed": bool(t.get("completed"))}
 
 def summary_status(lg, gid):
-    d = H.getj("https://site.api.espn.com/apis/site/v2/sports/football/%s/summary?event=%s" % (H.ESPN_LG[lg], gid))
+    d = H.getj("https://site.api.espn.com/apis/site/v2/sports/football/%s/summary?event=%s" % (H.ESPN_LG[lg], gid), tries=6)
     return status_of(d["header"]["competitions"][0]["status"])
 
 def at_half_or_later(s): return s["name"] in ("STATUS_HALFTIME",) or (s["name"] == "STATUS_END_PERIOD" and s["period"] == 2) or s["period"] >= 3
@@ -379,7 +379,7 @@ def run_league(lg, a, now, run, seed):
     M = H.Matcher(lg)
     rep = {"file": OUT[lg], "games_in_window": 0, "registered_new": 0, "halftime_eligible_new": 0, "not_eligible_new": 0,
            "halftime_searched": 0, "halftime_found": 0, "halftime_closed_no_clip": 0, "final_searched": 0, "final_found": 0,
-           "halftime_total": 0, "final_total": 0, "errors": {}, "found": []}
+           "halftime_total": 0, "final_total": 0, "errors": {}, "status_skipped": {}, "found": []}
     games = []
     for g in feed["games"]:
         gid = str(g["game_id"]); k = H.kickoff(g)
@@ -392,7 +392,7 @@ def run_league(lg, a, now, run, seed):
         gid = str(g["game_id"])
         if gid not in st and k <= now:
             try: st[gid] = summary_status(lg, gid)
-            except Exception as e: rep["errors"][gid] = "status: %s" % e
+            except Exception as e: rep["status_skipped"][gid] = "%s: %s" % (type(e).__name__, str(e)[:120])   # game skipped this run only
     jobs = []
     for g, k in games:
         gid = str(g["game_id"]); s = st.get(gid)

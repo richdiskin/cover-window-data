@@ -13,7 +13,7 @@ run_write() {
   python3 - <<'PY' || return 1
 import json, sys
 s = json.load(open("/tmp/live_hl_summary.json"))
-if not s.get("pass") or s.get("errors") or not s.get("feeds_untouched"):
+if not s.get("pass") or s.get("errors") or not s.get("feeds_untouched"):  # status_skipped games are retried next run
     print("STOP: summary has errors"); sys.exit(1)
 PY
 }
