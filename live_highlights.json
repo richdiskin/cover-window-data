@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-01T02:36:50Z",
+ "updated_utc": "2026-11-01T03:16:14Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -765,7 +765,24 @@
    "kickoff_utc": "2026-10-31T23:00Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "vWg3b3-7XMA",
+    "title": "Oklahoma State Cowboys vs. Iowa State Cyclones | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=vWg3b3-7XMA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/vWg3b3-7XMA",
+    "thumb": "https://i.ytimg.com/vi/vWg3b3-7XMA/hqdefault.jpg",
+    "duration_s": 140,
+    "uploaded_utc": "2026-11-01T03:13:53Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-01T03:14:55Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858280": {
    "game_id": "401858280",
@@ -773,7 +790,24 @@
    "kickoff_utc": "2026-10-31T23:00Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "iQLtDDQsJn0",
+    "title": "Clemson Tigers vs. Florida State Seminoles | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=iQLtDDQsJn0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/iQLtDDQsJn0",
+    "thumb": "https://i.ytimg.com/vi/iQLtDDQsJn0/hqdefault.jpg",
+    "duration_s": 1321,
+    "uploaded_utc": "2026-11-01T03:05:46Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-01T03:14:55Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401860909": {
    "game_id": "401860909",
