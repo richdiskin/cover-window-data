@@ -4,7 +4,7 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 202,
+  "count": 214,
   "lead_id": "fanatic_team-indiana",
   "articles": [
     {
@@ -6290,6 +6290,1070 @@
         {
           "label": "ESPN Washington State schedule (next game: vs. Colorado State, Sat., Nov. 14)",
           "url": "https://www.espn.com/college-football/team/schedule/_/id/265"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-texas-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "texas",
+      "team_ids": [
+        "texas"
+      ],
+      "tab_id": "sec",
+      "game_id": "401856737",
+      "title": "Texas vs Mississippi State: Biles and the Defense Rule 31-3",
+      "byline": "",
+      "matchup": "Final: Texas (6-2) 31, Mississippi State (4-4) 3, Sat., Oct. 31, DKR-Texas Memorial Stadium, Austin. Next: at Missouri, Sat., Nov. 7, Memorial Stadium, Columbia",
+      "date": "2026-10-31",
+      "word_count": 346,
+      "text": "Texas 31, Mississippi State 3. As forecast. Austin shut Sixth Street to cars for Halloween night and Pumpkin Nights ran its final night in town, but the best show in the city was at DKR, where our defense ran the Bulldog offense through a hostile takeover.\n\nThe first acquisition closed fast. On third-and-9, Arch Manning hit Cam Coleman for 47 yards, then found him again for a 14-yard touchdown. Four plays, 62 yards, 7-0.\n\nThen the defense took over the boardroom. Mississippi State drove 12 plays to our 18 and walked away with a missed 38-yarder. Gianni Spetic drilled a 45-yarder for 10-0. With 1:13 left in the half, Rasheem Biles sacked AJ Swann at our 39, the ball came loose, and Maraad Watson scooped it up and ran 61 yards for a touchdown. 17-0 at the break. That is how you merge two departments into one end zone.\n\nThe second half had one messy page of paperwork. Manning got sacked twice on one series and lost the ball at our 28, and the Bulldogs turned it into a 30-yard field goal. Our response: seven plays, 75 yards, a 37-yard strike to open it and a 4-yard touchdown throw to Raleek Brown, 24-3. Early in the fourth, the defense stopped a fourth-and-2 at our 40. Then on third-and-1, Manning hit Emmett Mosley V deep for a 42-yard touchdown. 31-3. Close the books.\n\nCaro Bucks report. Biles: three sacks, four tackles for loss, eight tackles, top of the portfolio. Watson: a defensive touchdown, and he just earned a corner office. Manning went 16 of 20 for 220 yards and three touchdowns, Mosley caught four balls for 98 yards, and Jelani McDonald led us with nine tackles. Seven sacks as a team, and the Bulldogs finished with 187 yards and 68 on the ground. The audit flags are real: 60 rushing yards on 32 carries, five sacks allowed and a lost fumble. That's tomorrow's board-meeting agenda.\n\nWe're 6-2, 3-2 in the SEC and 5-1 at DKR. Next up, a trip to Missouri on Saturday, Nov. 7. Hook 'em.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Texas 31, Mississippi State 3. As forecast. Austin shut Sixth Street to cars for Halloween night and Pumpkin Nights ran its final night in town, but the best show in the city was at DKR, where our defense ran the Bulldog offense through a hostile takeover."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first acquisition closed fast. On third-and-9, Arch Manning hit Cam Coleman for 47 yards, then found him again for a 14-yard touchdown. Four plays, 62 yards, 7-0."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the defense took over the boardroom. Mississippi State drove 12 plays to our 18 and walked away with a missed 38-yarder. Gianni Spetic drilled a 45-yarder for 10-0. With 1:13 left in the half, Rasheem Biles sacked AJ Swann at our 39, the ball came loose, and Maraad Watson scooped it up and ran 61 yards for a touchdown. 17-0 at the break. That is how you merge two departments into one end zone."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half had one messy page of paperwork. Manning got sacked twice on one series and lost the ball at our 28, and the Bulldogs turned it into a 30-yard field goal. Our response: seven plays, 75 yards, a 37-yard strike to open it and a 4-yard touchdown throw to Raleek Brown, 24-3. Early in the fourth, the defense stopped a fourth-and-2 at our 40. Then on third-and-1, Manning hit Emmett Mosley V deep for a 42-yard touchdown. 31-3. Close the books."
+        },
+        {
+          "type": "paragraph",
+          "text": "Caro Bucks report. Biles: three sacks, four tackles for loss, eight tackles, top of the portfolio. Watson: a defensive touchdown, and he just earned a corner office. Manning went 16 of 20 for 220 yards and three touchdowns, Mosley caught four balls for 98 yards, and Jelani McDonald led us with nine tackles. Seven sacks as a team, and the Bulldogs finished with 187 yards and 68 on the ground. The audit flags are real: 60 rushing yards on 32 carries, five sacks allowed and a lost fumble. That's tomorrow's board-meeting agenda."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 6-2, 3-2 in the SEC and 5-1 at DKR. Next up, a trip to Missouri on Saturday, Nov. 7. Hook 'em."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Texas beat Mississippi State 31-3 on Halloween at DKR-Texas Memorial Stadium. The Longhorns are 6-2 and 3-2 in the SEC."
+        },
+        {
+          "type": "fact",
+          "text": "Arch Manning went 16 of 20 for 220 yards and three touchdowns, and Emmett Mosley V caught four balls for 98 yards."
+        },
+        {
+          "type": "fact",
+          "text": "Rasheem Biles had three sacks, and Maraad Watson returned a fumble 61 yards for a touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "Mississippi State came to Austin for a merger and left after a liquidation."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Texas 31, Mississippi State 3 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856737"
+        },
+        {
+          "label": "ESPN play-by-play, Mississippi State at Texas",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856737"
+        },
+        {
+          "label": "Austin Capital News: Halloween in Austin Is Saturday: Sixth Street Closes to Cars, Pumpkin Nights Takes Its Final Night",
+          "url": "https://austincapitalnews.com/story/halloween-in-austin-saturday-sixth-street-closure-pumpkin-nights-final-night-guide"
+        },
+        {
+          "label": "Texas Athletics: Game Center, Football vs Mississippi State, 10/31/2026",
+          "url": "https://texaslonghorns.com/game-center/22501"
+        },
+        {
+          "label": "ESPN Texas schedule (next game: at Missouri, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/251"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-mississippi-state-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "mississippi-state",
+      "team_ids": [
+        "mississippi-state"
+      ],
+      "tab_id": "sec",
+      "game_id": "401856737",
+      "title": "Mississippi State vs Texas: Bulldogs Sacked Into Silence 31-3",
+      "byline": "",
+      "matchup": "Final: Texas (6-2) 31, Mississippi State (4-4) 3, Sat., Oct. 31, DKR-Texas Memorial Stadium, Austin. Next: vs. Vanderbilt, Sat., Nov. 7, Davis Wade Stadium, Starkville",
+      "date": "2026-10-31",
+      "word_count": 402,
+      "text": "Texas 31, Mississippi State 3, and the cowbell went in the sock before halftime. Back home, the Starkville Community Trick-or-Treat Map wrapped up on Halloween, with Bulldog Burger, Mugshots and Bluto's among the six stops handing out free candy. Starkville gave away treats all day. Austin gave us seven sacks.\n\nIt went sideways on the fourth snap. On third-and-9, Arch Manning found Cam Coleman for 47 yards, then hit him for a 14-yard touchdown. Four plays, 62 yards, 7-0 with 12:59 still left in the first quarter.\n\nWe had our chances in the first half and let them walk out of the hen house. A 12-play drive reached their 18, Anthony Evans III lost six yards on a run, and Kyle Ferrie missed from 38. Gianni Spetic made his from 45. Then, with 1:13 left before the break, Rasheem Biles sacked AJ Swann at the Texas 39, the ball squirted loose, and Maraad Watson scooped it and ran 61 yards for a touchdown. 17-0. I wrote that one on a receipt and folded it very small.\n\nOur defense gave us a pulse in the third. Jaray Bledsoe sacked Manning, and Zakari Tillman fell on the loose ball at the Texas 28. Biles then dropped Evans for a 15-yard loss, and we settled for Ferrie's 30-yarder, 17-3. Texas answered with a seven-play, 75-yard drive capped by Manning's 4-yard touchdown throw to Raleek Brown. Early in the fourth we went for it on fourth-and-2 at their 40, and Parker Puckett's throw to Evans fell incomplete. Manning hit Emmett Mosley V for a 42-yard touchdown on third-and-1, 31-3.\n\nHere's what the feed-store receipt says. Our defense held Texas to 60 rushing yards on 32 carries and sacked Manning five times. Tillman had a sack, 2.5 tackles for loss and that fumble recovery, and Fatt Forrest made seven tackles. We held the ball 32:28. Now the honest half of the receipt: 187 yards of offense, 68 rushing yards on 41 carries, 6 of 18 on third down, seven sacks allowed. Swann went 12 of 15 for 97 yards, Puckett 3 of 10 for 22, and Fluff Bothwell ran 17 times for 49. Marquis Johnson caught six balls for 61 yards. You can't grow a crop on 187 yards.\n\nWe're 4-4 and 2-4 in the SEC. Vanderbilt comes to Davis Wade Stadium on Saturday, Nov. 7, and the cowbell stays in the sock until then. Hail State.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Texas 31, Mississippi State 3, and the cowbell went in the sock before halftime. Back home, the Starkville Community Trick-or-Treat Map wrapped up on Halloween, with Bulldog Burger, Mugshots and Bluto's among the six stops handing out free candy. Starkville gave away treats all day. Austin gave us seven sacks."
+        },
+        {
+          "type": "paragraph",
+          "text": "It went sideways on the fourth snap. On third-and-9, Arch Manning found Cam Coleman for 47 yards, then hit him for a 14-yard touchdown. Four plays, 62 yards, 7-0 with 12:59 still left in the first quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "We had our chances in the first half and let them walk out of the hen house. A 12-play drive reached their 18, Anthony Evans III lost six yards on a run, and Kyle Ferrie missed from 38. Gianni Spetic made his from 45. Then, with 1:13 left before the break, Rasheem Biles sacked AJ Swann at the Texas 39, the ball squirted loose, and Maraad Watson scooped it and ran 61 yards for a touchdown. 17-0. I wrote that one on a receipt and folded it very small."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our defense gave us a pulse in the third. Jaray Bledsoe sacked Manning, and Zakari Tillman fell on the loose ball at the Texas 28. Biles then dropped Evans for a 15-yard loss, and we settled for Ferrie's 30-yarder, 17-3. Texas answered with a seven-play, 75-yard drive capped by Manning's 4-yard touchdown throw to Raleek Brown. Early in the fourth we went for it on fourth-and-2 at their 40, and Parker Puckett's throw to Evans fell incomplete. Manning hit Emmett Mosley V for a 42-yard touchdown on third-and-1, 31-3."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's what the feed-store receipt says. Our defense held Texas to 60 rushing yards on 32 carries and sacked Manning five times. Tillman had a sack, 2.5 tackles for loss and that fumble recovery, and Fatt Forrest made seven tackles. We held the ball 32:28. Now the honest half of the receipt: 187 yards of offense, 68 rushing yards on 41 carries, 6 of 18 on third down, seven sacks allowed. Swann went 12 of 15 for 97 yards, Puckett 3 of 10 for 22, and Fluff Bothwell ran 17 times for 49. Marquis Johnson caught six balls for 61 yards. You can't grow a crop on 187 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 4-4 and 2-4 in the SEC. Vanderbilt comes to Davis Wade Stadium on Saturday, Nov. 7, and the cowbell stays in the sock until then. Hail State."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Texas beat Mississippi State 31-3 on Saturday, Oct. 31, at DKR-Texas Memorial Stadium in Austin. The Bulldogs are 4-4 and 2-4 in the SEC."
+        },
+        {
+          "type": "fact",
+          "text": "Mississippi State gained 187 yards and gave up seven sacks, and Maraad Watson's 61-yard fumble return made it 17-0 before halftime."
+        },
+        {
+          "type": "fact",
+          "text": "Zakari Tillman had a sack, 2.5 tackles for loss and a fumble recovery that set up Kyle Ferrie's 30-yard field goal."
+        },
+        {
+          "type": "jab",
+          "text": "Starkville handed out free candy all over town. Austin handed back seven sacks."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Texas 31, Mississippi State 3 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856737"
+        },
+        {
+          "label": "ESPN play-by-play, Mississippi State at Texas",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856737"
+        },
+        {
+          "label": "Starkville Daily News: Follow the Treat Map for Halloween fun throughout Starkville",
+          "url": "https://www.starkvilledailynews.com/news/follow-the-treat-map-for-halloween-fun-throughout-starkville/article_20926b71-0859-4910-9d9e-90d7ac36055e.html"
+        },
+        {
+          "label": "The Dispatch: Rapid recap: MSU blown out at Texas, falls to 4-4",
+          "url": "https://cdispatch.com/sports/rapid-recap-msu-blown-out-at-texas-falls-to-4-4/"
+        },
+        {
+          "label": "ESPN Mississippi State schedule (next game: vs. Vanderbilt, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/344"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-arkansas",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "arkansas",
+      "team_ids": [
+        "arkansas"
+      ],
+      "tab_id": "sec",
+      "game_id": "401856733",
+      "title": "Arkansas vs Missouri: Hogs Give It Away on Halloween, 34-10",
+      "byline": "",
+      "matchup": "Final: Missouri (6-2) 34, Arkansas (3-5) 10, Sat., Oct. 31, Donald W. Reynolds Razorback Stadium, Fayetteville. Next: at Auburn, Sat., Nov. 7, Jordan-Hare Stadium, Auburn",
+      "date": "2026-10-31",
+      "word_count": 383,
+      "text": "Missouri 34, Arkansas 10, and it hurts to write it on the first Halloween on the Hill since 2015. Woooo, Pig. The 105th Homecoming Week ended with trunk-or-treating in the tailgate lots, a Hog Walk at Maple and Razorback, a trick-or-treat trailgating parade at 5:45 and a halftime laser show. The Hill brought the party. We brought four turnovers.\n\nHog Call, then the hard stat: four giveaways, 24 Missouri points. KJ Jackson got intercepted by Trajen Greco on our third drive, and Missouri kicked a field goal. Next time out, a snap got away from Cam Settles, rolled into our end zone, and Missouri's Darris Smith fell on it, 10-0. After a 53-yard field goal made it 13-0, Max Gilbert's 52-yard try came up empty.\n\nWe found some fight before the half. Jackson capped an eight-play, 52-yard drive with a 2-yard keeper with 41 seconds left, 13-7, and the place was rocking. Then Missouri went 75 yards to open the third, and on our very next snap, Jackson got stripped and Missouri recovered at our 45. Jamal Roberts scored from 2 three plays later, 27-7.\n\nThe drive I'll tell my science class about Monday: 20 plays, 62 yards, 9:51. Antonio Jordan caught a 25-yard touchdown that came back on a penalty, and Settles scored from the 1 before a chop block wiped that off too. We settled for a 32-yarder from Gilbert, 27-10. Bradley Shaw recovered a Roberts fumble at our 16, and we gave it right back two plays later when Jordan was stripped at our 33. Missouri scored four plays after that, 34-10.\n\nJackson completed 20 of 34 throws for 229 yards and ran for our only touchdown. Jordan caught seven balls for 106 yards with a long of 37, and CJ Brown caught four for 37. Shaw made nine tackles and broke up two throws, Joker Johnson made eight with a tackle for loss, and Christian Harrison made seven. Our defense held Missouri to 179 yards through the air.\n\nHonest lab report: 59 rushing yards on 36 carries, 8 of 17 on third down, a turnover on downs late, and seven penalties for 85 yards. We're 3-5 and 1-4 in the SEC, and we head to Auburn's Jordan-Hare Stadium on Saturday, Nov. 7. Call the Hogs anyway. Woooo, Pig, Sooie.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Missouri 34, Arkansas 10, and it hurts to write it on the first Halloween on the Hill since 2015. Woooo, Pig. The 105th Homecoming Week ended with trunk-or-treating in the tailgate lots, a Hog Walk at Maple and Razorback, a trick-or-treat trailgating parade at 5:45 and a halftime laser show. The Hill brought the party. We brought four turnovers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hog Call, then the hard stat: four giveaways, 24 Missouri points. KJ Jackson got intercepted by Trajen Greco on our third drive, and Missouri kicked a field goal. Next time out, a snap got away from Cam Settles, rolled into our end zone, and Missouri's Darris Smith fell on it, 10-0. After a 53-yard field goal made it 13-0, Max Gilbert's 52-yard try came up empty."
+        },
+        {
+          "type": "paragraph",
+          "text": "We found some fight before the half. Jackson capped an eight-play, 52-yard drive with a 2-yard keeper with 41 seconds left, 13-7, and the place was rocking. Then Missouri went 75 yards to open the third, and on our very next snap, Jackson got stripped and Missouri recovered at our 45. Jamal Roberts scored from 2 three plays later, 27-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "The drive I'll tell my science class about Monday: 20 plays, 62 yards, 9:51. Antonio Jordan caught a 25-yard touchdown that came back on a penalty, and Settles scored from the 1 before a chop block wiped that off too. We settled for a 32-yarder from Gilbert, 27-10. Bradley Shaw recovered a Roberts fumble at our 16, and we gave it right back two plays later when Jordan was stripped at our 33. Missouri scored four plays after that, 34-10."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jackson completed 20 of 34 throws for 229 yards and ran for our only touchdown. Jordan caught seven balls for 106 yards with a long of 37, and CJ Brown caught four for 37. Shaw made nine tackles and broke up two throws, Joker Johnson made eight with a tackle for loss, and Christian Harrison made seven. Our defense held Missouri to 179 yards through the air."
+        },
+        {
+          "type": "paragraph",
+          "text": "Honest lab report: 59 rushing yards on 36 carries, 8 of 17 on third down, a turnover on downs late, and seven penalties for 85 yards. We're 3-5 and 1-4 in the SEC, and we head to Auburn's Jordan-Hare Stadium on Saturday, Nov. 7. Call the Hogs anyway. Woooo, Pig, Sooie."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Missouri beat Arkansas 34-10 on Halloween at Razorback Stadium, the Hogs' first Halloween home game since 2015. Arkansas is 3-5 and 1-4 in the SEC."
+        },
+        {
+          "type": "fact",
+          "text": "Arkansas turned the ball over four times, and Missouri scored 24 points off them."
+        },
+        {
+          "type": "fact",
+          "text": "KJ Jackson threw for 229 yards and ran for a touchdown, and Antonio Jordan caught seven balls for 106 yards."
+        },
+        {
+          "type": "jab",
+          "text": "The Hill threw a Halloween party for the ages. The Tigers took the treats home to Columbia."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Missouri 34, Arkansas 10 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856733"
+        },
+        {
+          "label": "ESPN play-by-play, Missouri at Arkansas",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856733"
+        },
+        {
+          "label": "Arkansas Athletics: Halloween with the Hogs",
+          "url": "https://arkansasrazorbacks.com/halloween-with-the-hogs/"
+        },
+        {
+          "label": "Arkansas Athletics: Game Time Announcement, Missouri",
+          "url": "https://arkansasrazorbacks.com/game-time-announcement-missouri-26/"
+        },
+        {
+          "label": "ESPN Arkansas schedule (next game: at Auburn, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/8"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-missouri",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "missouri",
+      "team_ids": [
+        "missouri"
+      ],
+      "tab_id": "sec",
+      "game_id": "401856733",
+      "title": "Missouri vs Arkansas: Tigers Feast on Turnovers, Win 34-10",
+      "byline": "",
+      "matchup": "Final: Missouri (6-2) 34, Arkansas (3-5) 10, Sat., Oct. 31, Donald W. Reynolds Razorback Stadium, Fayetteville. Next: vs. Texas, Sat., Nov. 7, Memorial Stadium, Columbia",
+      "date": "2026-10-31",
+      "word_count": 419,
+      "text": "Missouri 34, Arkansas 10, and breaking news from Fayetteville: the Tigers took the ball away four times and turned every one of those takeaways into points on Halloween night. Back in Columbia, the day started at 11 a.m. at the Missouri Theatre on South Ninth Street, where the Missouri Symphony played its Spooktacular family concert for kids in costume. By 6:45 Central, the only thing spooking anybody was our defense.\n\nIt started early. Trajen Greco intercepted KJ Jackson and brought it back 22 yards to the Arkansas 43, and Blake Craig kicked a 31-yarder. On Arkansas' next possession, a snap got away from Cam Settles, the ball rolled into the end zone, and Darris Smith fell on it for a touchdown, 10-0. Craig then capped a 16-play drive that chewed 8:14 with a 53-yard field goal, 13-0.\n\nArkansas got a 2-yard Jackson run with 41 seconds left in the half, 13-7, and that's as close as it got. We came out of the break and went 75 yards in eight plays, finished by Austin Simmons hitting Donovan Olugbode from 15 yards out, 20-7. On the very next snap, Nicholas Rodriguez forced a Jackson fumble and Santana Banner recovered at the Arkansas 45. On the third play after that, Jamal Roberts walked in from 2, 27-7. Breaking news, delivered live: that's two scores in 66 seconds.\n\nThe Hogs answered with a 20-play drive that ate 9:51, and our defense held them to a 32-yard field goal after two Arkansas touchdowns came back on penalties. Roberts fumbled at the Arkansas 16 midway through the fourth, but two plays into the next Arkansas drive, Dante McClellan forced a fumble right back, Jahlil Florence recovered at the 33, and Simmons found Roberts for a 10-yard score four plays later, 34-10.\n\nSimmons completed 20 of 31 throws for 179 yards, two touchdowns and no interceptions. Roberts ran for 138 yards on 23 carries with a 43-yard burst and caught three balls for 20 yards. Cayden Lee caught six for 78, Ahmad Hardy ripped off a 37-yarder among his three carries, and Craig went 2 for 2 and scored 10 points. Rodriguez and Banner each made nine tackles, and Greco added eight. We held Arkansas to 59 rushing yards on 36 carries.\n\nHonest copy desk: nine penalties for 80 yards, 6 of 13 on third down and a lost fumble deep in Arkansas territory. Clean that up before Texas comes to Memorial Stadium on Saturday, Nov. 7. We're 6-2 and 3-2 in the SEC. M-I-Z.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Missouri 34, Arkansas 10, and breaking news from Fayetteville: the Tigers took the ball away four times and turned every one of those takeaways into points on Halloween night. Back in Columbia, the day started at 11 a.m. at the Missouri Theatre on South Ninth Street, where the Missouri Symphony played its Spooktacular family concert for kids in costume. By 6:45 Central, the only thing spooking anybody was our defense."
+        },
+        {
+          "type": "paragraph",
+          "text": "It started early. Trajen Greco intercepted KJ Jackson and brought it back 22 yards to the Arkansas 43, and Blake Craig kicked a 31-yarder. On Arkansas' next possession, a snap got away from Cam Settles, the ball rolled into the end zone, and Darris Smith fell on it for a touchdown, 10-0. Craig then capped a 16-play drive that chewed 8:14 with a 53-yard field goal, 13-0."
+        },
+        {
+          "type": "paragraph",
+          "text": "Arkansas got a 2-yard Jackson run with 41 seconds left in the half, 13-7, and that's as close as it got. We came out of the break and went 75 yards in eight plays, finished by Austin Simmons hitting Donovan Olugbode from 15 yards out, 20-7. On the very next snap, Nicholas Rodriguez forced a Jackson fumble and Santana Banner recovered at the Arkansas 45. On the third play after that, Jamal Roberts walked in from 2, 27-7. Breaking news, delivered live: that's two scores in 66 seconds."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Hogs answered with a 20-play drive that ate 9:51, and our defense held them to a 32-yard field goal after two Arkansas touchdowns came back on penalties. Roberts fumbled at the Arkansas 16 midway through the fourth, but two plays into the next Arkansas drive, Dante McClellan forced a fumble right back, Jahlil Florence recovered at the 33, and Simmons found Roberts for a 10-yard score four plays later, 34-10."
+        },
+        {
+          "type": "paragraph",
+          "text": "Simmons completed 20 of 31 throws for 179 yards, two touchdowns and no interceptions. Roberts ran for 138 yards on 23 carries with a 43-yard burst and caught three balls for 20 yards. Cayden Lee caught six for 78, Ahmad Hardy ripped off a 37-yarder among his three carries, and Craig went 2 for 2 and scored 10 points. Rodriguez and Banner each made nine tackles, and Greco added eight. We held Arkansas to 59 rushing yards on 36 carries."
+        },
+        {
+          "type": "paragraph",
+          "text": "Honest copy desk: nine penalties for 80 yards, 6 of 13 on third down and a lost fumble deep in Arkansas territory. Clean that up before Texas comes to Memorial Stadium on Saturday, Nov. 7. We're 6-2 and 3-2 in the SEC. M-I-Z."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Missouri beat Arkansas 34-10 on Saturday, Oct. 31, at Razorback Stadium in Fayetteville. The Tigers are 6-2 and 3-2 in the SEC."
+        },
+        {
+          "type": "fact",
+          "text": "Missouri forced four turnovers, and Darris Smith scored on a fumble recovery in the end zone."
+        },
+        {
+          "type": "fact",
+          "text": "Jamal Roberts ran for 138 yards and a touchdown and caught a touchdown, and Austin Simmons threw two touchdowns with no interceptions."
+        },
+        {
+          "type": "jab",
+          "text": "Fayetteville handed out candy all afternoon. Arkansas kept handing us the football."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Missouri 34, Arkansas 10 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856733"
+        },
+        {
+          "label": "ESPN play-by-play, Missouri at Arkansas",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856733"
+        },
+        {
+          "label": "Missouri Symphony: A Spooktacular Symphony, Halloween with MOSY (Oct. 31, 2026)",
+          "url": "https://www.themosy.org/calendar/spooktacular"
+        },
+        {
+          "label": "Arkansas Athletics: Halloween with the Hogs",
+          "url": "https://arkansasrazorbacks.com/halloween-with-the-hogs/"
+        },
+        {
+          "label": "ESPN Missouri schedule (next game: vs. Texas, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/142"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-florida-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "florida-state",
+      "team_ids": [
+        "florida-state"
+      ],
+      "tab_id": "acc",
+      "game_id": "401858280",
+      "title": "Florida State vs Clemson: Four Turnovers Sink Seminoles 36-24",
+      "byline": "",
+      "matchup": "Final: Clemson (5-3) 36, Florida State (3-5) 24, Sat., Oct. 31, Doak Campbell Stadium, Tallahassee. Next: at Boston College, Sat., Nov. 7, Alumni Stadium (Chestnut Hill, MA), Chestnut Hill",
+      "date": "2026-10-31",
+      "word_count": 331,
+      "text": "Clemson 36, Florida State 24. The record will show that Doak Campbell Stadium did its part. Florida State rolled out Operation Garnet Storm for Halloween night, with festivities on Langford Green from 3 p.m., a salute to Seminoles legend Peter Warrick, the program's first-ever drone show and a stadium light show at the start of the fourth quarter. The lights came on, and so did our offense. Too late, but it came.\n\nLet the minutes reflect the first three quarters. We trailed 29-10 after Nolan Hauser's fifth field goal early in the fourth. Ashton Daniels threw three interceptions, two to Elliot Washington II and one to Jerome Carter III, and fumbled at the Clemson 20 after a 10-yard run in the third quarter. Four turnovers. We went 1 of 10 on third down and ran for 65 yards. That bill dies in committee every time.\n\nThen the floor opened. Daniels ran in from 13 and threw for the two-point conversion, 29-18. Next series, he found Jasen Lopez for 41 yards and a touchdown, and it was 29-24 with 5:30 left. Doak was shaking.\n\nMotion to reconsider: denied. Tait Reynolds ran 79 yards for a touchdown on Clemson's next drive, and our last push ended when Washington intercepted Daniels in the end zone with 1:03 to go.\n\nFor the record, the playmakers showed up. Daniels threw for 350 yards on 21 of 33 with two touchdowns, and he ran for one. Micahi Danzy caught four balls for 108 yards, including a 46-yard touchdown in the first quarter. Jayvan Boggs had two catches for 64. CJ Richard Jr. made 13 tackles, Chris Jones made 10, and Ashlynd Barker added nine. We out-gained Clemson 415 yards to 351. The turnovers decided it.\n\nWe are 3-5 and 1-4 in the ACC. Next is Boston College at Alumni Stadium in Chestnut Hill on Saturday, Nov. 7, at noon ET. My amendment for Chestnut Hill is simple: protect the football. All in favor? The ayes have it.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Clemson 36, Florida State 24. The record will show that Doak Campbell Stadium did its part. Florida State rolled out Operation Garnet Storm for Halloween night, with festivities on Langford Green from 3 p.m., a salute to Seminoles legend Peter Warrick, the program's first-ever drone show and a stadium light show at the start of the fourth quarter. The lights came on, and so did our offense. Too late, but it came."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let the minutes reflect the first three quarters. We trailed 29-10 after Nolan Hauser's fifth field goal early in the fourth. Ashton Daniels threw three interceptions, two to Elliot Washington II and one to Jerome Carter III, and fumbled at the Clemson 20 after a 10-yard run in the third quarter. Four turnovers. We went 1 of 10 on third down and ran for 65 yards. That bill dies in committee every time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the floor opened. Daniels ran in from 13 and threw for the two-point conversion, 29-18. Next series, he found Jasen Lopez for 41 yards and a touchdown, and it was 29-24 with 5:30 left. Doak was shaking."
+        },
+        {
+          "type": "paragraph",
+          "text": "Motion to reconsider: denied. Tait Reynolds ran 79 yards for a touchdown on Clemson's next drive, and our last push ended when Washington intercepted Daniels in the end zone with 1:03 to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "For the record, the playmakers showed up. Daniels threw for 350 yards on 21 of 33 with two touchdowns, and he ran for one. Micahi Danzy caught four balls for 108 yards, including a 46-yard touchdown in the first quarter. Jayvan Boggs had two catches for 64. CJ Richard Jr. made 13 tackles, Chris Jones made 10, and Ashlynd Barker added nine. We out-gained Clemson 415 yards to 351. The turnovers decided it."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are 3-5 and 1-4 in the ACC. Next is Boston College at Alumni Stadium in Chestnut Hill on Saturday, Nov. 7, at noon ET. My amendment for Chestnut Hill is simple: protect the football. All in favor? The ayes have it."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Florida State lost 36-24 to Clemson on Saturday, Oct. 31, at Doak Campbell Stadium and is 3-5 and 1-4 in the ACC."
+        },
+        {
+          "type": "fact",
+          "text": "The Seminoles turned it over four times, three interceptions and a fumble, and trailed 29-10 in the fourth quarter."
+        },
+        {
+          "type": "fact",
+          "text": "Ashton Daniels threw for 350 yards and pulled Florida State within 29-24 before Tait Reynolds' 79-yard touchdown run."
+        },
+        {
+          "type": "jab",
+          "text": "Clemson kicked five field goals. That's not a win, that's a filibuster."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Clemson 36, Florida State 24 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858280"
+        },
+        {
+          "label": "ESPN play-by-play, Clemson at Florida State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858280"
+        },
+        {
+          "label": "WCTV: Florida State University to debut first-ever drone show during Clemson game-day festivities",
+          "url": "https://www.wctv.tv/2026/10/29/florida-state-university-debut-first-ever-drone-show-during-clemson-game-day-festivities/"
+        },
+        {
+          "label": "Florida State Athletics: Florida State reveals elevated game day experience for October 31 contest",
+          "url": "https://seminoles.com/news/2026/10/23/football-florida-state-reveals-elevated-game-day-experience-for-october-31-contest-in-doak-campbell-stadium"
+        },
+        {
+          "label": "ESPN Florida State schedule (next game: at Boston College, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/52"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-clemson-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "clemson",
+      "team_ids": [
+        "clemson"
+      ],
+      "tab_id": "acc",
+      "game_id": "401858280",
+      "title": "Clemson vs Florida State: Tigers Take Four Turnovers, Win 36-24",
+      "byline": "",
+      "matchup": "Final: Clemson (5-3) 36, Florida State (3-5) 24, Sat., Oct. 31, Doak Campbell Stadium, Tallahassee. Next: at Syracuse, Sat., Nov. 7, JMA Wireless Dome, Syracuse, N.Y.",
+      "date": "2026-10-31",
+      "word_count": 382,
+      "text": "Clemson 36, Florida State 24, and well, hey there, y'all, the Tigers celebrated a birthday in Tallahassee. Clemson played its very first football game on Oct. 31, 1896, a win over Furman in Greenville, back when Professor Walter Riggs coached a bunch of cadets who had barely seen a football. One hundred thirty years later to the day, on Halloween night, we won again. Some traditions keep.\n\nThis one was won by a kicker and a secondary, and I have the choreography notes to prove it. Nolan Hauser went 5 for 5 on field goals for 18 points, from 35, 35, 50, 46 and 49 yards. The 50-yarder came with two seconds left in the first half and sent us to the locker room up 23-10. My orange rain boots Darlene did a full high step in the living room.\n\nNow the defense, my kind of routine. Jerome Carter III intercepted Ashton Daniels and brought it back 26 yards, and he had a sack too. Late in the half, Sammy Brown hurried Daniels into a throw that Elliot Washington II intercepted. In the third, Jahiem Lawson jumped on a Daniels fumble at our 16 to end a 75-yard Seminole drive. Then, with Florida State driving late, Washington intercepted Daniels again in the end zone. Four takeaways, zero giveaways. I'm naming that formation the Halloween Hold.\n\nTait Reynolds steered it all. He went 18 of 32 for 189 yards with touchdown throws to Christian Bentancur from 18 and Olsen Patt-Henry from 4. Then, with Florida State back within 29-24, he kept it and ran 79 yards for the touchdown that ended the argument with 3:17 left. Tyler Brown caught five balls for 74 yards, and Corey Myrick made 10 tackles. Will Heldt had a sack and 2.5 tackles for loss.\n\nI'll say it plainly, because I don't decorate facts. We were 4 of 17 on third down, and we let a 29-10 lead shrink to five in the fourth quarter. Field goals look great in the box score only when they don't keep the other team in it. We have to finish drives.\n\nWe are 5-3 and 3-2 in the ACC. Next is Syracuse at the JMA Wireless Dome on Saturday, Nov. 7, at noon ET. Orange is ready for Orange. Go Tigers.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Clemson 36, Florida State 24, and well, hey there, y'all, the Tigers celebrated a birthday in Tallahassee. Clemson played its very first football game on Oct. 31, 1896, a win over Furman in Greenville, back when Professor Walter Riggs coached a bunch of cadets who had barely seen a football. One hundred thirty years later to the day, on Halloween night, we won again. Some traditions keep."
+        },
+        {
+          "type": "paragraph",
+          "text": "This one was won by a kicker and a secondary, and I have the choreography notes to prove it. Nolan Hauser went 5 for 5 on field goals for 18 points, from 35, 35, 50, 46 and 49 yards. The 50-yarder came with two seconds left in the first half and sent us to the locker room up 23-10. My orange rain boots Darlene did a full high step in the living room."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the defense, my kind of routine. Jerome Carter III intercepted Ashton Daniels and brought it back 26 yards, and he had a sack too. Late in the half, Sammy Brown hurried Daniels into a throw that Elliot Washington II intercepted. In the third, Jahiem Lawson jumped on a Daniels fumble at our 16 to end a 75-yard Seminole drive. Then, with Florida State driving late, Washington intercepted Daniels again in the end zone. Four takeaways, zero giveaways. I'm naming that formation the Halloween Hold."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tait Reynolds steered it all. He went 18 of 32 for 189 yards with touchdown throws to Christian Bentancur from 18 and Olsen Patt-Henry from 4. Then, with Florida State back within 29-24, he kept it and ran 79 yards for the touchdown that ended the argument with 3:17 left. Tyler Brown caught five balls for 74 yards, and Corey Myrick made 10 tackles. Will Heldt had a sack and 2.5 tackles for loss."
+        },
+        {
+          "type": "paragraph",
+          "text": "I'll say it plainly, because I don't decorate facts. We were 4 of 17 on third down, and we let a 29-10 lead shrink to five in the fourth quarter. Field goals look great in the box score only when they don't keep the other team in it. We have to finish drives."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are 5-3 and 3-2 in the ACC. Next is Syracuse at the JMA Wireless Dome on Saturday, Nov. 7, at noon ET. Orange is ready for Orange. Go Tigers."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Clemson beat Florida State 36-24 on Saturday, Oct. 31, at Doak Campbell Stadium, 130 years to the day after the program's first football game. The Tigers are 5-3 and 3-2 in the ACC."
+        },
+        {
+          "type": "fact",
+          "text": "Nolan Hauser made all five field goals, and Clemson forced four turnovers without committing one."
+        },
+        {
+          "type": "fact",
+          "text": "Tait Reynolds threw two touchdowns and sealed it with a 79-yard touchdown run with 3:17 left."
+        },
+        {
+          "type": "jab",
+          "text": "Tallahassee brought drones. We brought a kicker."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Clemson 36, Florida State 24 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858280"
+        },
+        {
+          "label": "ESPN play-by-play, Clemson at Florida State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858280"
+        },
+        {
+          "label": "Clemson Athletics: Clemson's First Football Game (Oct. 31, 1896, at Furman)",
+          "url": "https://clemsontigers.com/news/2000/09/19/clemsons-first-football-game"
+        },
+        {
+          "label": "Post and Courier: Clemson treats itself to Halloween win at Florida State",
+          "url": "https://www.postandcourier.com/sports/clemson/clemson-fsu-football-final-score-key-stats-game-recap/article_6fc69ecf-3d9e-4261-a73d-6b8ebae2f64a.html"
+        },
+        {
+          "label": "ESPN Clemson schedule (next game: at Syracuse, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/228"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-iowa-state-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "iowa-state",
+      "team_ids": [
+        "iowa-state"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856847",
+      "title": "Iowa State vs Oklahoma State: Konrardy Wins It at 0:00, 51-49",
+      "byline": "",
+      "matchup": "Final: Iowa State (4-4) 51, Oklahoma State (5-3) 49, Sat., Oct. 31, Jack Trice Stadium, Ames. Next: at Baylor, Sat., Nov. 7, McLane Stadium, Waco",
+      "date": "2026-10-31",
+      "word_count": 410,
+      "text": "Iowa State 51, Oklahoma State 49, and the forecast for Halloween night in Ames verified right at 0:00: Kyle Konrardy from 34 yards, good, ballgame. The Cyclones wore black, the athletics department told all of us to Pack the Jack and Wear Black, and Jack Trice Stadium looked like one giant storm cell on the radar from the opening kick. Costumes were welcome, masks were not, so every face in the place got to show exactly how loud it was.\n\nAiden Flora was the low-pressure system nobody could escape. He opened the scoring with a 29-yard run on our first drive and finished with 221 yards on 29 carries. His biggest gust came with 11:08 left: Oklahoma State had just pulled to 38-35, and Flora went 75 yards on the very next snap, 45-35.\n\nJaylen Raynor completed 18 of 28 throws for 309 yards and three touchdowns and ran in another from 8 yards out. Jamal Polite Jr. caught six balls for 171 yards, including a 43-yard score in the second quarter just 79 seconds after Raynor's 2-yard touchdown throw tied it 14-14. Cameron Pettaway hauled in a 40-yarder late in the third, 38-28.\n\nThe defense didn't have a clean night, but it brought the hail when it counted. Beau Goodwin intercepted Drew Mestemaker at the Oklahoma State 35 with 4:35 left in a 45-42 game, and Konrardy turned it into a 29-yarder, 48-42. Before the half, Caleb Schmidt jumped on a muffed punt at the Oklahoma State 36, and Konrardy hit from 39 with seven seconds left for a 24-21 lead. Sullivan Schlimgen led us with eight tackles and broke up two throws.\n\nThen the front stalled right over Ames. Oklahoma State went 75 yards in 12 plays and scored with 53 seconds left, 49-48. A 15-yard unsportsmanlike flag on the Cowboys pushed their kickoff back, Raynor found Polite deep for 33 yards to the Oklahoma State 30, and Flora carried three straight times to the 16. Two seconds left. Konrardy, 34 yards, straight through. He went 3 for 3 and scored 15 points.\n\nHonest radar check: we allowed 533 yards, Mestemaker threw five touchdowns, and Caleb Hawkins ran for 194. We answered with 581 yards, 272 rushing, held the ball for 34:47 and turned it over once.\n\nWe're 4-4 and 2-3 in the Big 12. Next up is Baylor at McLane Stadium in Waco on Saturday, Nov. 7. Seven-day outlook for Ames: sunshine in every kitchen. Go Cyclones.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Iowa State 51, Oklahoma State 49, and the forecast for Halloween night in Ames verified right at 0:00: Kyle Konrardy from 34 yards, good, ballgame. The Cyclones wore black, the athletics department told all of us to Pack the Jack and Wear Black, and Jack Trice Stadium looked like one giant storm cell on the radar from the opening kick. Costumes were welcome, masks were not, so every face in the place got to show exactly how loud it was."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aiden Flora was the low-pressure system nobody could escape. He opened the scoring with a 29-yard run on our first drive and finished with 221 yards on 29 carries. His biggest gust came with 11:08 left: Oklahoma State had just pulled to 38-35, and Flora went 75 yards on the very next snap, 45-35."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jaylen Raynor completed 18 of 28 throws for 309 yards and three touchdowns and ran in another from 8 yards out. Jamal Polite Jr. caught six balls for 171 yards, including a 43-yard score in the second quarter just 79 seconds after Raynor's 2-yard touchdown throw tied it 14-14. Cameron Pettaway hauled in a 40-yarder late in the third, 38-28."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense didn't have a clean night, but it brought the hail when it counted. Beau Goodwin intercepted Drew Mestemaker at the Oklahoma State 35 with 4:35 left in a 45-42 game, and Konrardy turned it into a 29-yarder, 48-42. Before the half, Caleb Schmidt jumped on a muffed punt at the Oklahoma State 36, and Konrardy hit from 39 with seven seconds left for a 24-21 lead. Sullivan Schlimgen led us with eight tackles and broke up two throws."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the front stalled right over Ames. Oklahoma State went 75 yards in 12 plays and scored with 53 seconds left, 49-48. A 15-yard unsportsmanlike flag on the Cowboys pushed their kickoff back, Raynor found Polite deep for 33 yards to the Oklahoma State 30, and Flora carried three straight times to the 16. Two seconds left. Konrardy, 34 yards, straight through. He went 3 for 3 and scored 15 points."
+        },
+        {
+          "type": "paragraph",
+          "text": "Honest radar check: we allowed 533 yards, Mestemaker threw five touchdowns, and Caleb Hawkins ran for 194. We answered with 581 yards, 272 rushing, held the ball for 34:47 and turned it over once."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 4-4 and 2-3 in the Big 12. Next up is Baylor at McLane Stadium in Waco on Saturday, Nov. 7. Seven-day outlook for Ames: sunshine in every kitchen. Go Cyclones."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Iowa State beat Oklahoma State 51-49 on Halloween at Jack Trice Stadium, with Kyle Konrardy's 34-yard field goal as time expired. The Cyclones are 4-4 and 2-3 in the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "Aiden Flora ran for 221 yards and two touchdowns, including a 75-yarder in the fourth quarter."
+        },
+        {
+          "type": "fact",
+          "text": "Jaylen Raynor threw for 309 yards and three touchdowns, and Jamal Polite Jr. caught six balls for 171 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Ames packed the Jack in black. The Cowboys brought orange and left with a 34-yard chill."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Iowa State 51, Oklahoma State 49 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856847"
+        },
+        {
+          "label": "ESPN play-by-play, Oklahoma State at Iowa State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856847"
+        },
+        {
+          "label": "Iowa State Athletics: Pack The Jack, Wear Black",
+          "url": "https://cyclones.com/news/2026/10/27/football-pack-the-jack-wearing-black"
+        },
+        {
+          "label": "Iowa State Athletics: Primer, Iowa State vs. No. 24 Oklahoma State",
+          "url": "https://cyclones.com/news/2026/10/28/football-primer-iowa-state-vs-no-24-oklahoma-state"
+        },
+        {
+          "label": "ESPN Iowa State schedule (next game: at Baylor, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/66"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-oklahoma-state-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "oklahoma-state",
+      "team_ids": [
+        "oklahoma-state"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856847",
+      "title": "Oklahoma State vs Iowa State: Bucked Off at the Horn, 51-49",
+      "byline": "",
+      "matchup": "Final: Iowa State (4-4) 51, Oklahoma State (5-3) 49, Sat., Oct. 31, Jack Trice Stadium, Ames. Next: at Kansas State, Sat., Nov. 7, Bill Snyder Family Stadium, Manhattan",
+      "date": "2026-10-31",
+      "word_count": 435,
+      "text": "Iowa State 51, Oklahoma State 49, and the Cyclones got the last ride on Halloween night in Ames when Kyle Konrardy split it from 34 yards as the clock hit zero. Back home in Stillwater, families spent 4:30 to 6:30 at the free community trick-or-treat on South Husband Street, with the Humane Society of Stillwater and Our Daily Bread among the groups handing out candy. Kickoff in Ames came at 6 Central, and what followed went the full eight seconds about nine times over.\n\nOur offense rode hard all night. Drew Mestemaker completed 27 of 42 throws for 323 yards and five touchdowns. Caleb Hawkins was the bronc nobody could stay on: 194 yards on 25 carries, a 75-yard touchdown run 17 seconds after Iowa State went up 31-21, and a 59-yard touchdown catch in the first quarter. Justin Bowick caught seven balls for 124 yards and two scores, and Wyatt Young caught seven for 74 and two more.\n\nWhat hurts is the gifts we didn't cash. LaDainian Fields intercepted Jaylen Raynor in the first quarter and set us up at the Iowa State 27. Three straight incompletions later, Sam Keltner missed from 45. Late in the second quarter, we muffed a punt at our own 36, and Konrardy turned it into a 39-yarder with seven seconds left, 24-21 at the half. In a two-point game, you don't need a calculator for that.\n\nThe fourth quarter was pure chute-and-buck. Bowick's 41-yard catch made it 38-35, and Aiden Flora answered with a 75-yard run 11 seconds later. Hawkins punched in a 1-yard score, 45-42. Then Beau Goodwin intercepted Mestemaker at our 35, and the Cyclones kicked a 29-yarder for 48-42. Here's the ride I'll remember: 12 plays, 75 yards, 2:03, Hawkins grinding out runs of 9, 11 and 3 yards, and Mestemaker hitting Young from 7 out with 53 seconds left, 49-48. Then a 15-yard unsportsmanlike flag on the touchdown backed up our kickoff, Raynor hit Jamal Polite Jr. for 33 yards, Flora ran three straight times to our 16, and Konrardy finished it.\n\nHonest scorecard from the chute: we gave up 581 yards, 272 of them on the ground, and Flora ran for 221 on 29 carries. Iowa State held the ball for 34:47. Tate Romney made nine tackles, and Quinton Hammonds made six with a tackle and a half for loss. We went 8 of 12 on third down and still came home empty.\n\nWe're 5-3 and 3-2 in the Big 12. The road trip rolls on to Kansas State in Manhattan on Saturday, Nov. 7. Dust off, climb back on. Ride 'em, Pokes.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Iowa State 51, Oklahoma State 49, and the Cyclones got the last ride on Halloween night in Ames when Kyle Konrardy split it from 34 yards as the clock hit zero. Back home in Stillwater, families spent 4:30 to 6:30 at the free community trick-or-treat on South Husband Street, with the Humane Society of Stillwater and Our Daily Bread among the groups handing out candy. Kickoff in Ames came at 6 Central, and what followed went the full eight seconds about nine times over."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our offense rode hard all night. Drew Mestemaker completed 27 of 42 throws for 323 yards and five touchdowns. Caleb Hawkins was the bronc nobody could stay on: 194 yards on 25 carries, a 75-yard touchdown run 17 seconds after Iowa State went up 31-21, and a 59-yard touchdown catch in the first quarter. Justin Bowick caught seven balls for 124 yards and two scores, and Wyatt Young caught seven for 74 and two more."
+        },
+        {
+          "type": "paragraph",
+          "text": "What hurts is the gifts we didn't cash. LaDainian Fields intercepted Jaylen Raynor in the first quarter and set us up at the Iowa State 27. Three straight incompletions later, Sam Keltner missed from 45. Late in the second quarter, we muffed a punt at our own 36, and Konrardy turned it into a 39-yarder with seven seconds left, 24-21 at the half. In a two-point game, you don't need a calculator for that."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fourth quarter was pure chute-and-buck. Bowick's 41-yard catch made it 38-35, and Aiden Flora answered with a 75-yard run 11 seconds later. Hawkins punched in a 1-yard score, 45-42. Then Beau Goodwin intercepted Mestemaker at our 35, and the Cyclones kicked a 29-yarder for 48-42. Here's the ride I'll remember: 12 plays, 75 yards, 2:03, Hawkins grinding out runs of 9, 11 and 3 yards, and Mestemaker hitting Young from 7 out with 53 seconds left, 49-48. Then a 15-yard unsportsmanlike flag on the touchdown backed up our kickoff, Raynor hit Jamal Polite Jr. for 33 yards, Flora ran three straight times to our 16, and Konrardy finished it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Honest scorecard from the chute: we gave up 581 yards, 272 of them on the ground, and Flora ran for 221 on 29 carries. Iowa State held the ball for 34:47. Tate Romney made nine tackles, and Quinton Hammonds made six with a tackle and a half for loss. We went 8 of 12 on third down and still came home empty."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 5-3 and 3-2 in the Big 12. The road trip rolls on to Kansas State in Manhattan on Saturday, Nov. 7. Dust off, climb back on. Ride 'em, Pokes."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Iowa State beat Oklahoma State 51-49 on a 34-yard field goal as time expired on Saturday, Oct. 31, at Jack Trice Stadium in Ames. The Cowboys are 5-3 and 3-2 in the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "Drew Mestemaker threw for 323 yards and five touchdowns, and Caleb Hawkins ran for 194 yards and two scores."
+        },
+        {
+          "type": "fact",
+          "text": "Oklahoma State took a 49-48 lead with 53 seconds left on a 7-yard throw to Wyatt Young."
+        },
+        {
+          "type": "jab",
+          "text": "Stillwater handed out candy on Husband Street. We handed Ames a muffed punt and a missed 45-yarder."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Iowa State 51, Oklahoma State 49 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856847"
+        },
+        {
+          "label": "ESPN play-by-play, Oklahoma State at Iowa State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856847"
+        },
+        {
+          "label": "Stillwater Community Trick or Treat, Sat., Oct. 31, 2026",
+          "url": "https://events.yodel.today/stillwater-ok/event/Stonecloud-Brewing-Stillwater/Community-Trick-or-Treat---Halloween-Hootenanny/6ad950fa7ff00abb1c1cfc05"
+        },
+        {
+          "label": "Oklahoma State Athletics: Oklahoma State starts two-game road stretch at Iowa State",
+          "url": "https://okstate.com/news/2026/10/27/cowboy-football-oklahoma-state-starts-two-game-road-stretch-at-iowa-state"
+        },
+        {
+          "label": "ESPN Oklahoma State schedule (next game: at Kansas State, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/197"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-usc-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "usc",
+      "team_ids": [
+        "usc"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858509",
+      "title": "USC vs Ohio State: Trojans Take Down the No. 2 Buckeyes 30-18",
+      "byline": "",
+      "matchup": "Final: USC (7-2) 30, Ohio State (6-2) 18, Sat., Oct. 31, Los Angeles Memorial Coliseum, Los Angeles. Next: at Indiana, Sat., Nov. 14, Memorial Stadium (Bloomington, IN), Bloomington",
+      "date": "2026-10-31",
+      "word_count": 390,
+      "text": "USC 30, Ohio State 18, and the Coliseum got a Halloween premiere worth every ticket. It was Trojan Family Weekend, the USC ticket office had sold out, and the No. 2 team in the country came to Exposition Park for the casting call. They didn't get the part. Roll credits.\n\nThe opening scene took 39 seconds. Jayden Maiava found Trent Mosley for 69 yards and a touchdown on our second snap. Mosley then took a punt back 44 yards, a Buckeye personal foul added 15, and Waymond Jordan finished the short drive with a 9-yard run, 14-3.\n\nThe middle act turned into a kicking duel, and our kickers never blinked. Ryon Sayeri drilled a 54-yarder. Ohio State drove 13 plays to our 1 after King Miller lost a fumble, a false start pushed them back, and they took three instead of seven. Caden Chittenden banged one through from 36 with a second left in the half, 20-9.\n\nThen the plot twist. The Buckeyes had the ball at our 31 in the third quarter when Desman Stephens II stripped Isaiah West and Floyd Boucard fell on it. Maiava went deep to Mark Bowman for 70 yards, and Miller punched it in from 1, 27-9. Cue the strings.\n\nThe finale got tense. Luke Fahey's 1-yard touchdown throw to Jeremiah Smith made it 27-18 with 2:12 left, and the two-point try failed. We smothered the onside kick, Miller ground out five yards, and Chittenden kicked a 32-yarder, 30-18. Ohio State still marched to our 12. Chasen Johnson broke up a deep throw on that drive, and the last four throws into the end zone hit nothing but grass.\n\nMaiava went 15 of 22 for 222 yards and a touchdown. Mosley caught five balls for 101 yards and Bowman three for 79. Miller ran 13 times for 78 yards, and he and Jordan each found the end zone. Deven Bryant made 11 tackles and Stephens added nine. Honest review: the Buckeyes outgained us 464 yards to 338, kept the ball 39:28 to our 20:32, and we converted 4 of 10 third downs. The defense bent all night and gave up one touchdown. That's a director's cut I'll rewatch.\n\nWe're 7-2, 4-2 in the Big Ten and 5-1 at the Coliseum. After the open week, we head to Indiana on Saturday, Nov. 14. Fight On!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "USC 30, Ohio State 18, and the Coliseum got a Halloween premiere worth every ticket. It was Trojan Family Weekend, the USC ticket office had sold out, and the No. 2 team in the country came to Exposition Park for the casting call. They didn't get the part. Roll credits."
+        },
+        {
+          "type": "paragraph",
+          "text": "The opening scene took 39 seconds. Jayden Maiava found Trent Mosley for 69 yards and a touchdown on our second snap. Mosley then took a punt back 44 yards, a Buckeye personal foul added 15, and Waymond Jordan finished the short drive with a 9-yard run, 14-3."
+        },
+        {
+          "type": "paragraph",
+          "text": "The middle act turned into a kicking duel, and our kickers never blinked. Ryon Sayeri drilled a 54-yarder. Ohio State drove 13 plays to our 1 after King Miller lost a fumble, a false start pushed them back, and they took three instead of seven. Caden Chittenden banged one through from 36 with a second left in the half, 20-9."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the plot twist. The Buckeyes had the ball at our 31 in the third quarter when Desman Stephens II stripped Isaiah West and Floyd Boucard fell on it. Maiava went deep to Mark Bowman for 70 yards, and Miller punched it in from 1, 27-9. Cue the strings."
+        },
+        {
+          "type": "paragraph",
+          "text": "The finale got tense. Luke Fahey's 1-yard touchdown throw to Jeremiah Smith made it 27-18 with 2:12 left, and the two-point try failed. We smothered the onside kick, Miller ground out five yards, and Chittenden kicked a 32-yarder, 30-18. Ohio State still marched to our 12. Chasen Johnson broke up a deep throw on that drive, and the last four throws into the end zone hit nothing but grass."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maiava went 15 of 22 for 222 yards and a touchdown. Mosley caught five balls for 101 yards and Bowman three for 79. Miller ran 13 times for 78 yards, and he and Jordan each found the end zone. Deven Bryant made 11 tackles and Stephens added nine. Honest review: the Buckeyes outgained us 464 yards to 338, kept the ball 39:28 to our 20:32, and we converted 4 of 10 third downs. The defense bent all night and gave up one touchdown. That's a director's cut I'll rewatch."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 7-2, 4-2 in the Big Ten and 5-1 at the Coliseum. After the open week, we head to Indiana on Saturday, Nov. 14. Fight On!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "USC beat No. 2 Ohio State 30-18 on Halloween at the Los Angeles Memorial Coliseum. The Trojans are 7-2 and 4-2 in the Big Ten."
+        },
+        {
+          "type": "fact",
+          "text": "Jayden Maiava threw a 69-yard touchdown to Trent Mosley on USC's second snap, and Mark Bowman's 70-yard catch set up King Miller's 1-yard score."
+        },
+        {
+          "type": "fact",
+          "text": "Desman Stephens II forced a third-quarter fumble and Floyd Boucard came up with the ball at the USC 31."
+        },
+        {
+          "type": "jab",
+          "text": "The Buckeyes brought a field goal kicker to a touchdown premiere."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, USC 30, Ohio State 18 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858509"
+        },
+        {
+          "label": "ESPN play-by-play, Ohio State at USC",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858509"
+        },
+        {
+          "label": "USC Athletics: Game Center, Football vs Ohio State, 10/31/2026 (Trojan Family Weekend)",
+          "url": "https://usctrojans.com/game-center/35255"
+        },
+        {
+          "label": "USC Athletics: USC Football vs. Ohio State tickets (sold out from the USC Ticket Office)",
+          "url": "https://usctrojans.com/sports/2026/2/9/usc-trojans-football-ohio-state-buckeyes-tickets"
+        },
+        {
+          "label": "ESPN USC schedule (next game: at Indiana, Sat., Nov. 14)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/30"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ohio-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "ohio-state",
+      "team_ids": [
+        "ohio-state"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858509",
+      "title": "Ohio State vs USC: Field Goals Can't Save Buckeyes 30-18",
+      "byline": "",
+      "matchup": "Final: USC (7-2) 30, Ohio State (6-2) 18, Sat., Oct. 31, Los Angeles Memorial Coliseum, Los Angeles. Next: vs. Oregon, Sat., Nov. 7, Ohio Stadium, Columbus",
+      "date": "2026-10-31",
+      "word_count": 442,
+      "text": "USC 30, Ohio State 18, and this one stings all the way back to High Street. Columbus already did its trick-or-treat on Thursday, and on Saturday our hockey team hosted That Place at Value City Arena at 5 p.m. Not saying the name. No buckeye candy fine tonight. Out at the Coliseum, the football team walked straight into a haunted house.\n\nThe fright started on the second snap. Jayden Maiava hit Trent Mosley for 69 yards and a touchdown 39 seconds in. Connor Hawkins answered with a 39-yarder, then our punt team got torched: Mosley returned one 44 yards, a personal foul on us tacked on 15 more, and Waymond Jordan ran in from 9. 14-3.\n\nWe kept moving the ball and kept kicking. Hawkins hit from 34, Ryon Sayeri answered from 54, and then Kenyatta Jackson Jr. punched the ball out of King Miller's arms and Earl Little Jr. fell on it at our 42. We drove 13 plays to their 1, a false start shoved us back, and Hawkins kicked from 23. Caden Chittenden's 36-yarder with one second left made it 20-9 at the half.\n\nThe back-breaker came in the third. We were at their 31 when Isaiah West caught a short throw, Desman Stephens II knocked it loose, and Floyd Boucard fell on it. Mark Bowman's 70-yard catch set up Miller's 1-yard run, 27-9. Hawkins went four for four from 47, and Luke Fahey capped a 13-play, 80-yard drive with a 1-yard touchdown throw to Jeremiah Smith with 2:12 left. The two-point try failed, USC grabbed the onside kick, and Chittenden kicked from 32.\n\nOne last shot. Fahey found Chris Henry Jr. for 39, Bo Jackson for 15 and Smith for 20 to reach their 12 with a minute to go. Four straight throws into the end zone fell incomplete, and the ball went over on downs with 36 seconds left.\n\nMy Route Tree segment on this one writes itself, and it's ugly. We outgained USC 464 yards to 338, held the ball 39:28 and piled up 25 first downs. Jackson ran 21 times for 121 yards, Smith caught 10 for 83, and Fahey went 21 of 38 for 260. But 11 penalties for 71 yards, 7 of 16 on third down, a fumble that turned into seven points, and four field goals where we needed touchdowns. You can't trade threes for sevens with a team that scores in two snaps.\n\nWe're 6-2 and 4-1 in the Big Ten. No time to sulk: Oregon comes to Ohio Stadium on Saturday, Nov. 7. The press box hallway is open, and I'm running routes until this tape makes sense. Go Bucks.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "USC 30, Ohio State 18, and this one stings all the way back to High Street. Columbus already did its trick-or-treat on Thursday, and on Saturday our hockey team hosted That Place at Value City Arena at 5 p.m. Not saying the name. No buckeye candy fine tonight. Out at the Coliseum, the football team walked straight into a haunted house."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fright started on the second snap. Jayden Maiava hit Trent Mosley for 69 yards and a touchdown 39 seconds in. Connor Hawkins answered with a 39-yarder, then our punt team got torched: Mosley returned one 44 yards, a personal foul on us tacked on 15 more, and Waymond Jordan ran in from 9. 14-3."
+        },
+        {
+          "type": "paragraph",
+          "text": "We kept moving the ball and kept kicking. Hawkins hit from 34, Ryon Sayeri answered from 54, and then Kenyatta Jackson Jr. punched the ball out of King Miller's arms and Earl Little Jr. fell on it at our 42. We drove 13 plays to their 1, a false start shoved us back, and Hawkins kicked from 23. Caden Chittenden's 36-yarder with one second left made it 20-9 at the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "The back-breaker came in the third. We were at their 31 when Isaiah West caught a short throw, Desman Stephens II knocked it loose, and Floyd Boucard fell on it. Mark Bowman's 70-yard catch set up Miller's 1-yard run, 27-9. Hawkins went four for four from 47, and Luke Fahey capped a 13-play, 80-yard drive with a 1-yard touchdown throw to Jeremiah Smith with 2:12 left. The two-point try failed, USC grabbed the onside kick, and Chittenden kicked from 32."
+        },
+        {
+          "type": "paragraph",
+          "text": "One last shot. Fahey found Chris Henry Jr. for 39, Bo Jackson for 15 and Smith for 20 to reach their 12 with a minute to go. Four straight throws into the end zone fell incomplete, and the ball went over on downs with 36 seconds left."
+        },
+        {
+          "type": "paragraph",
+          "text": "My Route Tree segment on this one writes itself, and it's ugly. We outgained USC 464 yards to 338, held the ball 39:28 and piled up 25 first downs. Jackson ran 21 times for 121 yards, Smith caught 10 for 83, and Fahey went 21 of 38 for 260. But 11 penalties for 71 yards, 7 of 16 on third down, a fumble that turned into seven points, and four field goals where we needed touchdowns. You can't trade threes for sevens with a team that scores in two snaps."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 6-2 and 4-1 in the Big Ten. No time to sulk: Oregon comes to Ohio Stadium on Saturday, Nov. 7. The press box hallway is open, and I'm running routes until this tape makes sense. Go Bucks."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "USC beat Ohio State 30-18 on Saturday, Oct. 31, at the Los Angeles Memorial Coliseum. The Buckeyes are 6-2 and 4-1 in the Big Ten."
+        },
+        {
+          "type": "fact",
+          "text": "Bo Jackson ran for 121 yards, Jeremiah Smith caught 10 balls and a late touchdown, and Connor Hawkins made all four field goals."
+        },
+        {
+          "type": "fact",
+          "text": "Ohio State outgained USC 464 yards to 338 but lost a third-quarter fumble that USC turned into a touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "Four field goals in the Coliseum is a trick, not a treat."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, USC 30, Ohio State 18 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858509"
+        },
+        {
+          "label": "ESPN play-by-play, Ohio State at USC",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858509"
+        },
+        {
+          "label": "Columbus Navigator: The Best Things To Do In Columbus This Weekend (Oct. 30-Nov. 1)",
+          "url": "https://www.columbusnavigator.com/things-to-do-this-weekend-columbus-october-30-november-1/"
+        },
+        {
+          "label": "USC Athletics: Game Center, Football vs Ohio State, 10/31/2026",
+          "url": "https://usctrojans.com/game-center/35255"
+        },
+        {
+          "label": "ESPN Ohio State schedule (next game: vs. Oregon, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/194"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-north-carolina-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "north-carolina",
+      "team_ids": [
+        "north-carolina"
+      ],
+      "tab_id": "acc",
+      "game_id": "401858282",
+      "title": "North Carolina vs Miami: Tar Heels Push No. 1 to the Wire 38-35",
+      "byline": "",
+      "matchup": "Final: Miami (8-0) 38, North Carolina (4-4) 35, Sat., Oct. 31, Kenan Stadium, Chapel Hill. Next: at UConn, Sat., Nov. 7, Pratt & Whitney Stadium, East Hartford, Conn.",
+      "date": "2026-10-31",
+      "word_count": 390,
+      "text": "Miami 38, North Carolina 35, and I'm going to hold my head high in this costume. Chapel Hill threw a real Halloween for the No. 1 team in the country: our team handed out candy on the walk to Kenan Stadium, children trick-or-treated on the concourse before kickoff, and thousands filled Franklin Street with no street closures. Then the Tar Heels handed Miami its closest finish of the season.\n\nAs a kinesiologist, let me describe the force Billy Edwards Jr. generated. He went 28 of 34 for 341 yards and four touchdowns with no interceptions. Jelani Thurman caught two of them, both from 8 yards. Jordan Shipp took a 16-yarder in the third quarter to give us a 21-17 lead. Then Demon June went in from a yard out with 11:46 left, and Kenan was rocking at 28-24. We went 8 of 11 on third down, which is how you keep a No. 1 offense on the bench.\n\nTwo moments broke my heart. Early in the fourth, Benjamin Hall ran 12 yards into the end zone and a holding flag brought it back. We still scored on that drive, but it took 16 plays and 8:28. Later, trailing 31-28, Edwards was sacked by Marquise Lightfoot at our 37, the ball came out, and Miami turned it into a 38-28 lead in six plays.\n\nDid we quit? Absolutely not. Edwards moved 75 yards in 55 seconds and hit Trech Kekahuna for 15 yards to make it 38-35 with 1:38 to go. We went for the onside kick three times. Two were erased by our own offside flags, and Miami grabbed the third. Painful.\n\nCredit where it's due, and I'll say it graciously: Darian Mensah went 22 of 29 for 274 yards with three touchdowns and zero turnovers, and Mark Fletcher Jr. scored three times. Our run game was the problem, 66 yards on 30 carries. Derek McDonald made 11 tackles and Peyton Seelmann had a sack. Kenton Dopson III added eight tackles.\n\nWe are 4-4 and 2-3 in the ACC, and 1-3 at home. Next is UConn at Pratt & Whitney Stadium in East Hartford on Saturday, Nov. 7, at noon ET. Carolina blue skies will return, and from the look of that fourth quarter, soon. And no, I will not be taking questions from anyone eight miles down the road.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Miami 38, North Carolina 35, and I'm going to hold my head high in this costume. Chapel Hill threw a real Halloween for the No. 1 team in the country: our team handed out candy on the walk to Kenan Stadium, children trick-or-treated on the concourse before kickoff, and thousands filled Franklin Street with no street closures. Then the Tar Heels handed Miami its closest finish of the season."
+        },
+        {
+          "type": "paragraph",
+          "text": "As a kinesiologist, let me describe the force Billy Edwards Jr. generated. He went 28 of 34 for 341 yards and four touchdowns with no interceptions. Jelani Thurman caught two of them, both from 8 yards. Jordan Shipp took a 16-yarder in the third quarter to give us a 21-17 lead. Then Demon June went in from a yard out with 11:46 left, and Kenan was rocking at 28-24. We went 8 of 11 on third down, which is how you keep a No. 1 offense on the bench."
+        },
+        {
+          "type": "paragraph",
+          "text": "Two moments broke my heart. Early in the fourth, Benjamin Hall ran 12 yards into the end zone and a holding flag brought it back. We still scored on that drive, but it took 16 plays and 8:28. Later, trailing 31-28, Edwards was sacked by Marquise Lightfoot at our 37, the ball came out, and Miami turned it into a 38-28 lead in six plays."
+        },
+        {
+          "type": "paragraph",
+          "text": "Did we quit? Absolutely not. Edwards moved 75 yards in 55 seconds and hit Trech Kekahuna for 15 yards to make it 38-35 with 1:38 to go. We went for the onside kick three times. Two were erased by our own offside flags, and Miami grabbed the third. Painful."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit where it's due, and I'll say it graciously: Darian Mensah went 22 of 29 for 274 yards with three touchdowns and zero turnovers, and Mark Fletcher Jr. scored three times. Our run game was the problem, 66 yards on 30 carries. Derek McDonald made 11 tackles and Peyton Seelmann had a sack. Kenton Dopson III added eight tackles."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are 4-4 and 2-3 in the ACC, and 1-3 at home. Next is UConn at Pratt & Whitney Stadium in East Hartford on Saturday, Nov. 7, at noon ET. Carolina blue skies will return, and from the look of that fourth quarter, soon. And no, I will not be taking questions from anyone eight miles down the road."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "North Carolina lost 38-35 to No. 1 Miami on Saturday, Oct. 31, at Kenan Stadium and is 4-4 and 2-3 in the ACC."
+        },
+        {
+          "type": "fact",
+          "text": "Billy Edwards Jr. went 28 of 34 for 341 yards and four touchdowns, and the Tar Heels led 28-24 early in the fourth quarter."
+        },
+        {
+          "type": "fact",
+          "text": "A strip sack by Marquise Lightfoot set up Miami's go-ahead score, and Carolina's last-minute onside kick attempts came up empty."
+        },
+        {
+          "type": "jab",
+          "text": "Miami needed a fourth-quarter fumble to get out of Chapel Hill. Remember that in Coral Gables."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Miami 38, North Carolina 35 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858282"
+        },
+        {
+          "label": "ESPN play-by-play, Miami at North Carolina",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858282"
+        },
+        {
+          "label": "CBS17: Chapel Hill gears up for 'hype energy' ahead of Halloween, UNC matchup against No. 1 Miami",
+          "url": "https://www.cbs17.com/news/local-news/orange-county-news/chapel-hill-gears-up-for-hype-energy-ahead-of-halloween-unc-matchup-against-no-1-miami/"
+        },
+        {
+          "label": "WRAL: Chapel Hill prepares for thousands to celebrate Halloween downtown",
+          "url": "https://www.wral.com/news/local/chapel-hill-prepares-for-thousands-to-celebrate-halloween-october-2026/"
+        },
+        {
+          "label": "UNC Athletics game center: Football vs No. 1 Miami",
+          "url": "https://goheels.com/game-center/26883"
+        },
+        {
+          "label": "ESPN North Carolina schedule (next game: at UConn, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/153"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-miami-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "miami",
+      "team_ids": [
+        "miami"
+      ],
+      "tab_id": "acc",
+      "game_id": "401858282",
+      "title": "Miami vs North Carolina: Canes Escape Chapel Hill 38-35",
+      "byline": "",
+      "matchup": "Final: Miami (8-0) 38, North Carolina (4-4) 35, Sat., Oct. 31, Kenan Stadium, Chapel Hill. Next: at Notre Dame, Sat., Nov. 7, Notre Dame Stadium, Notre Dame, Ind.",
+      "date": "2026-10-31",
+      "word_count": 379,
+      "text": "Miami 38, North Carolina 35, and we are 8-0. Back home, the Miami Canes packed Lost Boy Dry Goods on East Flagler Street downtown for the official game watch in orange and green, and I promise that room was louder than Kenan Stadium every time Carolina tied it or took the lead. That happened four times. On Halloween. Rude.\n\nLet me be honest, because The Breeze does not do spin. This was a street fight. Carolina's quarterback Billy Edwards Jr. went 28 of 34 for 341 yards and four touchdowns, and the Tar Heels went 8 of 11 on third down. We trailed 21-17 in the third and 28-24 early in the fourth after Demon June punched one in from a yard out.\n\nThen the grown-ups took over. Down 28-24 with 11:46 to go, Darian Mensah hit Malachi Toney for 31 yards on a no-huddle march, and Mark Fletcher Jr. bulled in from 2 for his second rushing score. 31-28. Next series, Marquise Lightfoot sacked Edwards, the ball came loose, and Justin Scott jumped on it at the Carolina 37. Six plays later Mensah found Toney from 9 yards out. 38-28. Lightfoot, se acabó, the quarterback hit the ground, adiós!\n\nCarolina scored with 1:38 left to make it 38-35, then tried three onside kicks. Two got wiped out by offside flags, and Ezekiel Marcelin Jr. grabbed the third. Mensah knelt, and the sunglasses stayed in my pocket.\n\nThe numbers. Mensah went 22 of 29 for 274 yards, three touchdowns and zero interceptions. Toney caught seven balls for 75 yards and two scores, Cooper Barkate added four for 71, and Fletcher scored three times, two on the ground and once on a 31-yard catch. Lightfoot had two sacks. Chase Smith, JJ Dunnigan and Mohamed Toure each made nine tackles. We turned it over zero times and went 6 of 11 on third down.\n\nNow the part I won't hide. We let them throw for 341 yards and gave up 35 points to a 4-4 team. The defense has to tighten up, because the road gets harder.\n\nWe are 8-0, 6-0 in the ACC and 4-0 away from home. Next is Notre Dame at Notre Dame Stadium on Saturday, Nov. 7, at 7:30 PM ET. Arms up, make the U. Swag!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Miami 38, North Carolina 35, and we are 8-0. Back home, the Miami Canes packed Lost Boy Dry Goods on East Flagler Street downtown for the official game watch in orange and green, and I promise that room was louder than Kenan Stadium every time Carolina tied it or took the lead. That happened four times. On Halloween. Rude."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let me be honest, because The Breeze does not do spin. This was a street fight. Carolina's quarterback Billy Edwards Jr. went 28 of 34 for 341 yards and four touchdowns, and the Tar Heels went 8 of 11 on third down. We trailed 21-17 in the third and 28-24 early in the fourth after Demon June punched one in from a yard out."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the grown-ups took over. Down 28-24 with 11:46 to go, Darian Mensah hit Malachi Toney for 31 yards on a no-huddle march, and Mark Fletcher Jr. bulled in from 2 for his second rushing score. 31-28. Next series, Marquise Lightfoot sacked Edwards, the ball came loose, and Justin Scott jumped on it at the Carolina 37. Six plays later Mensah found Toney from 9 yards out. 38-28. Lightfoot, se acabó, the quarterback hit the ground, adiós!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Carolina scored with 1:38 left to make it 38-35, then tried three onside kicks. Two got wiped out by offside flags, and Ezekiel Marcelin Jr. grabbed the third. Mensah knelt, and the sunglasses stayed in my pocket."
+        },
+        {
+          "type": "paragraph",
+          "text": "The numbers. Mensah went 22 of 29 for 274 yards, three touchdowns and zero interceptions. Toney caught seven balls for 75 yards and two scores, Cooper Barkate added four for 71, and Fletcher scored three times, two on the ground and once on a 31-yard catch. Lightfoot had two sacks. Chase Smith, JJ Dunnigan and Mohamed Toure each made nine tackles. We turned it over zero times and went 6 of 11 on third down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the part I won't hide. We let them throw for 341 yards and gave up 35 points to a 4-4 team. The defense has to tighten up, because the road gets harder."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are 8-0, 6-0 in the ACC and 4-0 away from home. Next is Notre Dame at Notre Dame Stadium on Saturday, Nov. 7, at 7:30 PM ET. Arms up, make the U. Swag!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Miami beat North Carolina 38-35 on Saturday, Oct. 31, at Kenan Stadium and is 8-0 and 6-0 in the ACC."
+        },
+        {
+          "type": "fact",
+          "text": "Trailing 28-24 in the fourth quarter, Miami scored two touchdowns, the second after Marquise Lightfoot forced a fumble that Justin Scott jumped on."
+        },
+        {
+          "type": "fact",
+          "text": "Darian Mensah threw for 274 yards and three touchdowns, two to Malachi Toney, and Mark Fletcher Jr. scored three times."
+        },
+        {
+          "type": "jab",
+          "text": "Carolina threw a great Halloween party. We left town with the only treat that counts: win number eight."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Miami 38, North Carolina 35 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858282"
+        },
+        {
+          "label": "ESPN play-by-play, Miami at North Carolina",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858282"
+        },
+        {
+          "label": "University of Miami Events: Miami Canes game watch, Miami vs. North Carolina, Lost Boy Dry Goods (Oct. 31)",
+          "url": "https://events.miami.edu/event/miami-canes-miami-vs-north-carolina-game-watch"
+        },
+        {
+          "label": "CBS17: Chapel Hill gears up for Halloween, UNC matchup against No. 1 Miami",
+          "url": "https://www.cbs17.com/news/local-news/orange-county-news/chapel-hill-gears-up-for-hype-energy-ahead-of-halloween-unc-matchup-against-no-1-miami/"
+        },
+        {
+          "label": "ESPN Miami schedule (next game: at Notre Dame, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2390"
         }
       ],
       "sources_display": "button",
