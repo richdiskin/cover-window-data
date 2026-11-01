@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-01T01:42:45Z",
+ "updated_utc": "2026-11-01T02:36:50Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -781,7 +781,24 @@
    "kickoff_utc": "2026-10-31T23:00Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "WEWrc-o_HKE",
+    "title": "Washington State Cougars vs. San Diego State Aztecs Football Highlights | Week 9 Condensed Game",
+    "channel": "CBS Sports College Football",
+    "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+    "url": "https://www.youtube.com/watch?v=WEWrc-o_HKE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/WEWrc-o_HKE",
+    "thumb": "https://i.ytimg.com/vi/WEWrc-o_HKE/hqdefault.jpg",
+    "duration_s": 1515,
+    "uploaded_utc": "2026-11-01T02:32:14Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-01T02:36:32Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856737": {
    "game_id": "401856737",
