@@ -4,7 +4,7 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 196,
+  "count": 198,
   "lead_id": "fanatic_team-indiana",
   "articles": [
     {
@@ -5752,6 +5752,188 @@
         {
           "label": "ESPN Florida schedule (next game: vs. Oklahoma, Sat., Nov. 7)",
           "url": "https://www.espn.com/college-football/team/schedule/_/id/57"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-oklahoma-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "oklahoma",
+      "team_ids": [
+        "oklahoma"
+      ],
+      "tab_id": "sec",
+      "game_id": "401856736",
+      "title": "Oklahoma vs South Carolina: Sooners Fall on Homecoming, 42-25",
+      "byline": "",
+      "matchup": "Final: South Carolina (5-3) 42, Oklahoma (4-4) 25, Sat., Oct. 31, Memorial Stadium (Norman, OK), Norman. Next: at Florida, Sat., Nov. 7, Ben Hill Griffin Stadium, Gainesville",
+      "date": "2026-10-31",
+      "word_count": 411,
+      "text": "South Carolina 42, Oklahoma 25, and it stings worse because it happened on homecoming. Saturday was also Native American Heritage Appreciation Day in Norman, with the Osage Nation teaming up with OU Football for the Halloween game, and Owen Field deserved a better show from the home side than the one we put on.\n\nThe day began right. The Sooner Schooner led the Walk of Champions, the Student-Athlete Advisory Committee handed out candy at Party at the Palace, and I hollered at the team buses until my voice cracked. Then Sellers ran 15 yards for a touchdown on South Carolina's second drive, and our first four drives all ended in punts.\n\nKip Lewis gave this town a jolt early in the second quarter. He jumped a Sellers throw and rumbled 30 yards for a touchdown, 7-7, and the whole stadium shook. It did not last. South Carolina scored touchdowns on its next three drives, including an 84-yard strike on third-and-12, and Tate Sandell's 52-yard field goal was our only reply. It was 28-10 at the break.\n\nMichael Boganowski intercepted Sellers at our 18 in the third quarter, and that is the fight I want from this defense every snap. But Sellers ran in from 11 yards out late in the third, and after John Mateer found Ivan Carreon for a 34-yard touchdown to open the fourth, South Carolina answered with a 79-yard bomb three plays later. That one hurt all the way down to my boots.\n\nMateer finished 26 of 43 for 244 yards and two touchdown throws, both to Carreon, who caught five balls for 88 yards. The second score, from 10 yards out with 2:59 left, made it 42-25. Both two-point tries failed. Sandell also hit from 34. Markel Ford intercepted a South Carolina throw in the end zone late, and we did not turn it over once all day.\n\nHere is the honest part, rodeo rules: you cannot win a barrel race if the horse will not turn. South Carolina ran for 212 yards, piled up 521 and converted 8 of 14 third downs. We ran for 115 on 31 carries and went 7 of 16 on third down. Owen Heinecke and Courtland Guillory made 10 tackles apiece and never quit.\n\nWe're 4-4, 2-3 in the SEC and 2-2 at home. Next is a trip to Florida on Saturday, Nov. 7, at Ben Hill Griffin Stadium in Gainesville. Chin up, Norman. We roll the Schooner again. Boomer! (Sooner!)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "South Carolina 42, Oklahoma 25, and it stings worse because it happened on homecoming. Saturday was also Native American Heritage Appreciation Day in Norman, with the Osage Nation teaming up with OU Football for the Halloween game, and Owen Field deserved a better show from the home side than the one we put on."
+        },
+        {
+          "type": "paragraph",
+          "text": "The day began right. The Sooner Schooner led the Walk of Champions, the Student-Athlete Advisory Committee handed out candy at Party at the Palace, and I hollered at the team buses until my voice cracked. Then Sellers ran 15 yards for a touchdown on South Carolina's second drive, and our first four drives all ended in punts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kip Lewis gave this town a jolt early in the second quarter. He jumped a Sellers throw and rumbled 30 yards for a touchdown, 7-7, and the whole stadium shook. It did not last. South Carolina scored touchdowns on its next three drives, including an 84-yard strike on third-and-12, and Tate Sandell's 52-yard field goal was our only reply. It was 28-10 at the break."
+        },
+        {
+          "type": "paragraph",
+          "text": "Michael Boganowski intercepted Sellers at our 18 in the third quarter, and that is the fight I want from this defense every snap. But Sellers ran in from 11 yards out late in the third, and after John Mateer found Ivan Carreon for a 34-yard touchdown to open the fourth, South Carolina answered with a 79-yard bomb three plays later. That one hurt all the way down to my boots."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mateer finished 26 of 43 for 244 yards and two touchdown throws, both to Carreon, who caught five balls for 88 yards. The second score, from 10 yards out with 2:59 left, made it 42-25. Both two-point tries failed. Sandell also hit from 34. Markel Ford intercepted a South Carolina throw in the end zone late, and we did not turn it over once all day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here is the honest part, rodeo rules: you cannot win a barrel race if the horse will not turn. South Carolina ran for 212 yards, piled up 521 and converted 8 of 14 third downs. We ran for 115 on 31 carries and went 7 of 16 on third down. Owen Heinecke and Courtland Guillory made 10 tackles apiece and never quit."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 4-4, 2-3 in the SEC and 2-2 at home. Next is a trip to Florida on Saturday, Nov. 7, at Ben Hill Griffin Stadium in Gainesville. Chin up, Norman. We roll the Schooner again. Boomer! (Sooner!)"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "South Carolina beat Oklahoma 42-25 on Saturday, Oct. 31, at Memorial Stadium in Norman on homecoming. The Sooners are 4-4 and 2-3 in the SEC."
+        },
+        {
+          "type": "fact",
+          "text": "Kip Lewis returned an interception 30 yards for a touchdown, and Ivan Carreon caught both of John Mateer's touchdown throws."
+        },
+        {
+          "type": "fact",
+          "text": "South Carolina outgained Oklahoma 521 yards to 359 and ran for 212."
+        },
+        {
+          "type": "jab",
+          "text": "The Schooner rolls again in Gainesville. The Gamecocks can keep the candy."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, South Carolina 42, Oklahoma 25 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856736"
+        },
+        {
+          "label": "ESPN play-by-play, South Carolina at Oklahoma",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856736"
+        },
+        {
+          "label": "Oklahoma Athletics: Game Primer, OU vs. South Carolina (homecoming, Walk of Champions, Party at the Palace)",
+          "url": "https://soonersports.com/news/2026/10/30/football-game-primer-ou-vs-south-carolina"
+        },
+        {
+          "label": "Bartlesville Radio: OU Football, Osage Nation Team up for Oct. 31 Native American Heritage Appreciation Day Game",
+          "url": "https://www.bartlesvilleradio.com/sports/ou-football-osage-nation-team-up-for-oct-31-native-american-heritage-appreciation-day-game/article_8039c367-269f-4341-ad2f-bde583765be2.html"
+        },
+        {
+          "label": "ESPN Oklahoma schedule (next game: at Florida, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/201"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-south-carolina-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "south-carolina",
+      "team_ids": [
+        "south-carolina"
+      ],
+      "tab_id": "sec",
+      "game_id": "401856736",
+      "title": "South Carolina vs Oklahoma: Sellers Runs Wild in Norman 42-25",
+      "byline": "",
+      "matchup": "Final: South Carolina (5-3) 42, Oklahoma (4-4) 25, Sat., Oct. 31, Memorial Stadium (Norman, OK), Norman. Next: vs. Texas A&M, Sat., Nov. 7, Williams-Brice Stadium, Columbia",
+      "date": "2026-10-31",
+      "word_count": 411,
+      "text": "South Carolina 42, Oklahoma 25, on Halloween in Norman, so somebody cue the music. Back home on Friday night, Finlay Park ran the Halloween Edition of Finlay Fridays with the Vinyl Junkies on stage, and Columbia warmed up the speakers. On Saturday, LaNorris Sellers turned them all the way up at Memorial Stadium.\n\nThe opening act came fast. Sellers took a no-huddle snap and ran 15 yards for a touchdown midway through the first quarter. Then came the plot twist nobody ordered: early in the second, Kip Lewis jumped a Sellers throw and returned it 30 yards for an Oklahoma score, 7-7. A lesser show folds right there. Ours answered with a six-play, 75-yard drive, and Christian Clark plowed in from a yard out.\n\nThen the spotlight hit. On third-and-12 from our own 16, Sellers found DJ Black deep down the middle for an 84-yard touchdown, 21-7. After a Tate Sandell 52-yard field goal, Sellers marched us 75 yards in eight plays and hit Nyck Harbor from 8 yards out with 16 seconds left in the half. It was 28-10 at the break, and I was standing on a chair.\n\nIn the third quarter, Sellers capped a 12-play, 75-yard march with an 11-yard touchdown run, 35-10. Oklahoma scored to open the fourth, and three plays later Sellers dropped a 79-yard strike on Mazeo Bennett Jr. to make it 42-16. Somewhere in Columbia, Sandstorm cranked up on its own.\n\nSellers finished 19 of 24 for 301 yards and three touchdown throws, plus 96 rushing yards and two more scores on 13 carries. That is five touchdowns from one man at somebody else's homecoming. Bennett caught four balls for 107 yards. We piled up 521 yards, 212 of them on the ground, and converted 8 of 14 third downs.\n\nThe defense earned its own curtain call. Fred Johnson made 11 tackles and a sack, Tomiwa Durojaiye added a sack, and Troy Pikes and Anthony Addison split another. Oklahoma ran for 115 yards on 31 tries. Honest review, because I keep receipts: Sellers threw two interceptions, Cutter Woods threw one late, and we drew nine flags for 90 yards. That gets fixed before the next show.\n\nShane Beamer coached in Norman from 2018 through 2020, and he came back on Halloween and won in that building. We're 5-3, 3-3 in the SEC and 2-1 on the road. Texas A&M comes to Williams-Brice Stadium on Saturday, Nov. 7. Lights down. Music up. Forever to thee.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "South Carolina 42, Oklahoma 25, on Halloween in Norman, so somebody cue the music. Back home on Friday night, Finlay Park ran the Halloween Edition of Finlay Fridays with the Vinyl Junkies on stage, and Columbia warmed up the speakers. On Saturday, LaNorris Sellers turned them all the way up at Memorial Stadium."
+        },
+        {
+          "type": "paragraph",
+          "text": "The opening act came fast. Sellers took a no-huddle snap and ran 15 yards for a touchdown midway through the first quarter. Then came the plot twist nobody ordered: early in the second, Kip Lewis jumped a Sellers throw and returned it 30 yards for an Oklahoma score, 7-7. A lesser show folds right there. Ours answered with a six-play, 75-yard drive, and Christian Clark plowed in from a yard out."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the spotlight hit. On third-and-12 from our own 16, Sellers found DJ Black deep down the middle for an 84-yard touchdown, 21-7. After a Tate Sandell 52-yard field goal, Sellers marched us 75 yards in eight plays and hit Nyck Harbor from 8 yards out with 16 seconds left in the half. It was 28-10 at the break, and I was standing on a chair."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the third quarter, Sellers capped a 12-play, 75-yard march with an 11-yard touchdown run, 35-10. Oklahoma scored to open the fourth, and three plays later Sellers dropped a 79-yard strike on Mazeo Bennett Jr. to make it 42-16. Somewhere in Columbia, Sandstorm cranked up on its own."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sellers finished 19 of 24 for 301 yards and three touchdown throws, plus 96 rushing yards and two more scores on 13 carries. That is five touchdowns from one man at somebody else's homecoming. Bennett caught four balls for 107 yards. We piled up 521 yards, 212 of them on the ground, and converted 8 of 14 third downs."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense earned its own curtain call. Fred Johnson made 11 tackles and a sack, Tomiwa Durojaiye added a sack, and Troy Pikes and Anthony Addison split another. Oklahoma ran for 115 yards on 31 tries. Honest review, because I keep receipts: Sellers threw two interceptions, Cutter Woods threw one late, and we drew nine flags for 90 yards. That gets fixed before the next show."
+        },
+        {
+          "type": "paragraph",
+          "text": "Shane Beamer coached in Norman from 2018 through 2020, and he came back on Halloween and won in that building. We're 5-3, 3-3 in the SEC and 2-1 on the road. Texas A&M comes to Williams-Brice Stadium on Saturday, Nov. 7. Lights down. Music up. Forever to thee."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "South Carolina beat Oklahoma 42-25 on Saturday, Oct. 31, in Norman. The Gamecocks are 5-3 and 3-3 in the SEC."
+        },
+        {
+          "type": "fact",
+          "text": "LaNorris Sellers threw for 301 yards and three touchdowns and ran for 96 yards and two more scores."
+        },
+        {
+          "type": "fact",
+          "text": "South Carolina rolled up 521 yards, including touchdown throws of 84 yards to DJ Black and 79 yards to Mazeo Bennett Jr."
+        },
+        {
+          "type": "jab",
+          "text": "Oklahoma threw a homecoming party. We brought the main act."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, South Carolina 42, Oklahoma 25 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856736"
+        },
+        {
+          "label": "ESPN play-by-play, South Carolina at Oklahoma",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856736"
+        },
+        {
+          "label": "City of Columbia, Finlay Park: Finlay Fridays Halloween Edition featuring the Vinyl Junkies (Oct. 30, 2026)",
+          "url": "https://finlaypark.columbiasc.gov/park-events/finlay-fridays-live-in-the-park-halloween-edition-featuring-vinyl-junkies/"
+        },
+        {
+          "label": "Oklahoma Athletics: Game Primer, OU vs. South Carolina (Shane Beamer at OU, 2018-20)",
+          "url": "https://soonersports.com/news/2026/10/30/football-game-primer-ou-vs-south-carolina"
+        },
+        {
+          "label": "ESPN South Carolina schedule (next game: vs. Texas A&M, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2579"
         }
       ],
       "sources_display": "button",
