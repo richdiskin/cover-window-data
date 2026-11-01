@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-01T00:39:05Z",
+ "updated_utc": "2026-11-01T01:05:00Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -343,7 +343,24 @@
    "kickoff_utc": "2026-10-31T17:00Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_FINAL Q4 0:00",
-   "halftime_eligible": false
+   "halftime_eligible": false,
+   "final": {
+    "youtube_id": "UiqW2vbEt_o",
+    "title": "Marshall Football Highlights at Old Dominion | 2026 Week 9",
+    "channel": "Marshall Thundering Herd",
+    "channel_id": "UCwnEdAc9dbqApW8BDnUhUAg",
+    "url": "https://www.youtube.com/watch?v=UiqW2vbEt_o",
+    "embed_url": "https://www.youtube-nocookie.com/embed/UiqW2vbEt_o",
+    "thumb": "https://i.ytimg.com/vi/UiqW2vbEt_o/hqdefault.jpg",
+    "duration_s": 459,
+    "uploaded_utc": "2026-11-01T00:32:01Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-01T01:04:36Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856846": {
    "game_id": "401856846",
