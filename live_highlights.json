@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-01T03:16:14Z",
+ "updated_utc": "2026-11-01T03:37:55Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -840,7 +840,24 @@
    "kickoff_utc": "2026-10-31T23:30Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "xbQz4mHUri4",
+    "title": "Mississippi State Bulldogs vs. Texas Longhorns | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=xbQz4mHUri4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/xbQz4mHUri4",
+    "thumb": "https://i.ytimg.com/vi/xbQz4mHUri4/hqdefault.jpg",
+    "duration_s": 1051,
+    "uploaded_utc": "2026-11-01T03:27:39Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-01T03:35:31Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858281": {
    "game_id": "401858281",
@@ -856,7 +873,24 @@
    "kickoff_utc": "2026-10-31T23:30Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "hCoXdS79KO0",
+    "title": "Miami Hurricanes vs. North Carolina Tar Heels | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=hCoXdS79KO0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/hCoXdS79KO0",
+    "thumb": "https://i.ytimg.com/vi/hCoXdS79KO0/hqdefault.jpg",
+    "duration_s": 2030,
+    "uploaded_utc": "2026-11-01T03:34:05Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-01T03:36:36Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858509": {
    "game_id": "401858509",
@@ -864,7 +898,24 @@
    "kickoff_utc": "2026-10-31T23:30Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "FRUpewO25t4",
+    "title": "Ohio State at USC | Highlights | Big Ten Football | 10/31/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=FRUpewO25t4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/FRUpewO25t4",
+    "thumb": "https://i.ytimg.com/vi/FRUpewO25t4/hqdefault.jpg",
+    "duration_s": 191,
+    "uploaded_utc": "2026-11-01T03:23:50Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-01T03:37:02Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856733": {
    "game_id": "401856733",
@@ -872,7 +923,24 @@
    "kickoff_utc": "2026-10-31T23:45Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "wcmS-wInn28",
+    "title": "Missouri Tigers vs. Arkansas Razorbacks | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=wcmS-wInn28",
+    "embed_url": "https://www.youtube-nocookie.com/embed/wcmS-wInn28",
+    "thumb": "https://i.ytimg.com/vi/wcmS-wInn28/hqdefault.jpg",
+    "duration_s": 1009,
+    "uploaded_utc": "2026-11-01T03:28:24Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-01T03:37:02Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858504": {
    "game_id": "401858504",
