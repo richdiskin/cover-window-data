@@ -4,9 +4,24 @@
  "season": 2026,
  "week": 8,
  "slate_date": "2026-11-01",
- "updated_utc": "2026-11-01T19:36:06Z",
+ "updated_utc": "2026-11-01T19:45:24Z",
  "about": "Halftime story links per game_id. fanatic.url goes only on Fanatic pages, gambler.url only on Gambler pages. Times are for data only; apps show none of them.",
  "games": {
+  "401873031": {
+   "game_id": "401873031",
+   "key": "TEN@CIN",
+   "matchup": "Tennessee Titans at Cincinnati Bengals",
+   "fanatic": {
+    "label": "Halftime report",
+    "headline": "Fourteen Straight: Bengals Grab a 14-13 Halftime Lead on the Titans",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/tennessee-titans-at-cincinnati-bengals/halftime/fanatic/"
+   },
+   "gambler": {
+    "label": "Halftime report",
+    "headline": "Titans +10.5 Sitting Pretty, Under 46.5 Sweating at the Half",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/tennessee-titans-at-cincinnati-bengals/halftime/gambler/"
+   }
+  },
   "401873024": {
    "game_id": "401873024",
    "key": "ARI@DAL",
@@ -20,6 +35,21 @@
     "label": "Halftime report",
     "headline": "Sweating Arlington: Cowboys 14, Cardinals 3, Our Under Still Alive",
     "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/arizona-cardinals-at-dallas-cowboys/halftime/gambler/"
+   }
+  },
+  "401873030": {
+   "game_id": "401873030",
+   "key": "MIN@DET",
+   "matchup": "Minnesota Vikings at Detroit Lions",
+   "fanatic": {
+    "label": "Halftime report",
+    "headline": "Vikings 7, Lions 6 at the half: four sacks, a touchdown taken away and a buzzer-beating Bates kick",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/minnesota-vikings-at-detroit-lions/halftime/fanatic/"
+   },
+   "gambler": {
+    "label": "Halftime report",
+    "headline": "Halftime sweat: Vikings +3.5 up by 4.5, Under 46.5 sitting on 13 points",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/minnesota-vikings-at-detroit-lions/halftime/gambler/"
    }
   },
   "401873029": {
@@ -37,6 +67,21 @@
     "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/las-vegas-raiders-at-new-york-jets/halftime/gambler/"
    }
   },
+  "401873027": {
+   "game_id": "401873027",
+   "key": "CLE@PIT",
+   "matchup": "Cleveland Browns at Pittsburgh Steelers",
+   "fanatic": {
+    "label": "Halftime report",
+    "headline": "Freiermuth Plunges In at the Gun, Steelers Lead Browns 20-6 at Halftime",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/cleveland-browns-at-pittsburgh-steelers/halftime/fanatic/"
+   },
+   "gambler": {
+    "label": "Halftime report",
+    "headline": "Browns +3.5 Sitting 10.5 Short, Over 39.5 Needs 14 More After Steelers Go Up 20-6",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/cleveland-browns-at-pittsburgh-steelers/halftime/gambler/"
+   }
+  },
   "401873025": {
    "game_id": "401873025",
    "key": "ATL@TB",
@@ -50,6 +95,21 @@
     "label": "Halftime report",
     "headline": "Halftime Sweat: Bucs 9, Falcons 0, Three Penix Interceptions and a Rally Needed",
     "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/atlanta-falcons-at-tampa-bay-buccaneers/halftime/gambler/"
+   }
+  },
+  "401873028": {
+   "game_id": "401873028",
+   "key": "IND@JAX",
+   "matchup": "Indianapolis Colts at Jacksonville Jaguars",
+   "fanatic": {
+    "label": "Halftime report",
+    "headline": "Jaguars Roar to a 28-0 Halftime Lead as Lane Takes One 92 Yards",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/indianapolis-colts-at-jacksonville-jaguars/halftime/fanatic/"
+   },
+   "gambler": {
+    "label": "Halftime report",
+    "headline": "Halftime Sweat: Jaguars 28, Colts 0 and Our Calls Are Gasping",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/indianapolis-colts-at-jacksonville-jaguars/halftime/gambler/"
    }
   }
  }
