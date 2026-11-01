@@ -4,7 +4,7 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 198,
+  "count": 202,
   "lead_id": "fanatic_team-indiana",
   "articles": [
     {
@@ -5934,6 +5934,362 @@
         {
           "label": "ESPN South Carolina schedule (next game: vs. Texas A&M, Sat., Nov. 7)",
           "url": "https://www.espn.com/college-football/team/schedule/_/id/2579"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-georgia-southern",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "georgia-southern",
+      "team_ids": [
+        "georgia-southern"
+      ],
+      "tab_id": "sunbelt",
+      "game_id": "401869846",
+      "title": "Georgia Southern vs App State: White Out Defense Wins 19-3",
+      "byline": "",
+      "matchup": "Final: Georgia Southern (4-4) 19, App State (5-3) 3, Sat., Oct. 31, Allen E. Paulson Stadium, Statesboro. Next: vs. Marshall, Sat., Nov. 7, Allen E. Paulson Stadium, Statesboro (Homecoming)",
+      "date": "2026-10-31",
+      "word_count": 420,
+      "text": "Georgia Southern 19, App State 3, on Erk Russell's 100th birthday celebration at a White Out Paulson Stadium, and it was Erk's kind of night. The Eagles unveiled Eagle Legends busts of Tracy Ham, Adrian Peterson and Paul Johnson at Parrish-Scoggins Plaza at 3 p.m., the \"One More Time\" exhibit sat on the Bishop Fieldhouse Patio, and the costume contest had a Best Dressed as Erk Russell category. Then our defense played the kind of football Erk built this place on.\n\nIt started on App's third snap. Brandon Tyson hurried Malachi Singleton, and Chace Calicut intercepted him at our 32. Max Johnson and the offense went to work with a 14-play, 73-yard drive. Weston Bryan converted a fourth-and-1 at the App 6, and Tripp Bryant kicked a 25-yarder. Next time out, Bryan threw 7 yards to Josh Dallas on fourth-and-1, and Taeo Todd ran it in from 5, 10-0.\n\nApp got a 51-yard kickoff return and a missed 35-yarder, and James London hit from 33 at the end of the half, 10-3. That was all the Mountaineers got. Bryant kicked a 35-yarder for 13-3, then a 34-yarder at the end of a 14-play drive that burned 7:25 off the clock, 16-3.\n\nThen the defense took over the barn. Nigel Eldridge Jr. shared a sack, and Ethan Johnson sacked Singleton for 10 yards on the very next snap. Our offense came up empty on fourth down at the App 34, so the defense went and got the ball back itself: Anthony Bynum jumped on a Singleton fumble at the App 29, and Bryant drilled a 48-yarder, 19-3. App drove to our 2 with three minutes left and walked away with nothing when Singleton got intercepted in the end zone, with MJ Stroud in his face.\n\nJohnson completed 36 of 47 throws for 318 yards with no interceptions. Alex Taylor caught 10 balls for 93 yards, Dallas caught seven for 86, and Jeremiah Ware had a 50-yarder among his three catches. Bryant went 4 for 4 and scored 13 points. Bynum had a sack, two tackles for loss and the fumble recovery. We held App to 222 yards and 6 on the ground, owned the ball for 43:54 and didn't turn it over once. Honest report from the creek: 8 of 17 on third down and four field goals means we left touchdowns out there.\n\nWe're 4-4, 3-1 in the Sun Belt and sitting first in the East. Marshall comes to Paulson for Homecoming on Saturday, Nov. 7. GATA, and Hail Southern.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Georgia Southern 19, App State 3, on Erk Russell's 100th birthday celebration at a White Out Paulson Stadium, and it was Erk's kind of night. The Eagles unveiled Eagle Legends busts of Tracy Ham, Adrian Peterson and Paul Johnson at Parrish-Scoggins Plaza at 3 p.m., the \"One More Time\" exhibit sat on the Bishop Fieldhouse Patio, and the costume contest had a Best Dressed as Erk Russell category. Then our defense played the kind of football Erk built this place on."
+        },
+        {
+          "type": "paragraph",
+          "text": "It started on App's third snap. Brandon Tyson hurried Malachi Singleton, and Chace Calicut intercepted him at our 32. Max Johnson and the offense went to work with a 14-play, 73-yard drive. Weston Bryan converted a fourth-and-1 at the App 6, and Tripp Bryant kicked a 25-yarder. Next time out, Bryan threw 7 yards to Josh Dallas on fourth-and-1, and Taeo Todd ran it in from 5, 10-0."
+        },
+        {
+          "type": "paragraph",
+          "text": "App got a 51-yard kickoff return and a missed 35-yarder, and James London hit from 33 at the end of the half, 10-3. That was all the Mountaineers got. Bryant kicked a 35-yarder for 13-3, then a 34-yarder at the end of a 14-play drive that burned 7:25 off the clock, 16-3."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the defense took over the barn. Nigel Eldridge Jr. shared a sack, and Ethan Johnson sacked Singleton for 10 yards on the very next snap. Our offense came up empty on fourth down at the App 34, so the defense went and got the ball back itself: Anthony Bynum jumped on a Singleton fumble at the App 29, and Bryant drilled a 48-yarder, 19-3. App drove to our 2 with three minutes left and walked away with nothing when Singleton got intercepted in the end zone, with MJ Stroud in his face."
+        },
+        {
+          "type": "paragraph",
+          "text": "Johnson completed 36 of 47 throws for 318 yards with no interceptions. Alex Taylor caught 10 balls for 93 yards, Dallas caught seven for 86, and Jeremiah Ware had a 50-yarder among his three catches. Bryant went 4 for 4 and scored 13 points. Bynum had a sack, two tackles for loss and the fumble recovery. We held App to 222 yards and 6 on the ground, owned the ball for 43:54 and didn't turn it over once. Honest report from the creek: 8 of 17 on third down and four field goals means we left touchdowns out there."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 4-4, 3-1 in the Sun Belt and sitting first in the East. Marshall comes to Paulson for Homecoming on Saturday, Nov. 7. GATA, and Hail Southern."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Georgia Southern beat App State 19-3 on Halloween at Paulson Stadium. The Eagles are 4-4, 3-1 in the Sun Belt and first in the East."
+        },
+        {
+          "type": "fact",
+          "text": "Tripp Bryant made all four field goals, from 25, 35, 34 and 48 yards, and Taeo Todd ran for the only touchdown."
+        },
+        {
+          "type": "fact",
+          "text": "Max Johnson completed 36 of 47 throws for 318 yards, and the Eagles held App State to 222 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Erk's birthday, Erk's kind of defense. App brought a flashlight and still couldn't find the end zone."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Georgia Southern 19, App State 3 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401869846"
+        },
+        {
+          "label": "ESPN play-by-play, App State at Georgia Southern",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401869846"
+        },
+        {
+          "label": "Georgia Southern Athletics: Rivalry Showdown Set for Halloween Night at Paulson Stadium",
+          "url": "https://gseagles.com/news/2026/10/20/football-rivalry-showdown-set-for-halloween-night-at-paulson-stadium"
+        },
+        {
+          "label": "Georgia Southern Athletics: Game Center, Football vs App State, 10/31/2026",
+          "url": "https://gseagles.com/game-center/17433"
+        },
+        {
+          "label": "AP: Georgia Southern beats Appalachian State 19-3",
+          "url": "https://apnews.com/article/appalachian-state-georgia-southern-football-score-661098c3a2a6f81ad7a5cab81b250c3c"
+        },
+        {
+          "label": "Georgia Southern 2026 football schedule (next game: vs. Marshall, Sat., Nov. 7)",
+          "url": "https://gseagles.com/sports/football/schedule/2026"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-app-state-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "app-state",
+      "team_ids": [
+        "app-state"
+      ],
+      "tab_id": "sunbelt",
+      "game_id": "401869846",
+      "title": "App State vs Georgia Southern: Mountaineers Stuck at 3, 19-3",
+      "byline": "",
+      "matchup": "Final: Georgia Southern (4-4) 19, App State (5-3) 3, Sat., Oct. 31, Allen E. Paulson Stadium, Statesboro. Next: vs. Georgia State, Sat., Nov. 7, Kidd Brewer Stadium, Boone",
+      "date": "2026-10-31",
+      "word_count": 386,
+      "text": "Georgia Southern 19, App State 3, and Halloween in Statesboro turned into a long, cold climb with no summit. Back home, Boone BOO! filled King Street from 4 to 6:30 p.m., with the costume contest at 5 in front of the Jones House. Kickoff came at 6:30, right as the last kids headed home. Downtown Boone had the better night.\n\nIt went sideways on the third snap. Malachi Singleton got hurried by Brandon Tyson and Chace Calicut intercepted him at the Georgia Southern 32. Sam Pickett III ripped off a 45-yard catch on the next drive, but we punted. The Eagles answered with a 14-play, 73-yard grind that ended in a Tripp Bryant field goal, then a 12-play, 76-yard march that ended with a Taeo Todd 5-yard run, 10-0.\n\nWe had our chances. Ja'Quez Cross brought a kickoff back 51 yards to the Georgia Southern 40, and James London missed from 35. Before the half, Singleton converted a fourth-and-1 to Dillon Galloway, found Pickett for 10, and London hit from 33 with three seconds left, 10-3. That was the last time we scored.\n\nThe second half was a slow whittle down to nothing. Bryant kicked from 35 to make it 13-3 and from 34 to make it 16-3, and that second kick capped a 14-play drive that ate 7:25. On our next series, Singleton got sacked on back-to-back snaps, the second by Ethan Johnson for 10 yards. Then Singleton coughed up the ball at our 29, Anthony Bynum fell on it, and Bryant hit from 48, 19-3. We drove 75 yards in five plays to the Georgia Southern 2 and watched Singleton get intercepted in the end zone at 3:02.\n\nSingleton went 15 of 28 for 215 yards with two interceptions and finished with minus-13 rushing yards. Pickett caught four balls for 86 yards, and Chris Lofton caught five for 82. Colton Phares made 12 tackles, and Juan Berchal had 10 with two throws broken up. Honest trail report: we ran for 6 yards on 16 carries, had the ball for 16:06 against 43:54, went 2 of 9 on third down and turned it over three times.\n\nWe're 5-3 and 2-2 in the Sun Belt. Georgia State comes to Kidd Brewer Stadium on Saturday, Nov. 7. Come home to the mountain and get loud. Go Apps.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Georgia Southern 19, App State 3, and Halloween in Statesboro turned into a long, cold climb with no summit. Back home, Boone BOO! filled King Street from 4 to 6:30 p.m., with the costume contest at 5 in front of the Jones House. Kickoff came at 6:30, right as the last kids headed home. Downtown Boone had the better night."
+        },
+        {
+          "type": "paragraph",
+          "text": "It went sideways on the third snap. Malachi Singleton got hurried by Brandon Tyson and Chace Calicut intercepted him at the Georgia Southern 32. Sam Pickett III ripped off a 45-yard catch on the next drive, but we punted. The Eagles answered with a 14-play, 73-yard grind that ended in a Tripp Bryant field goal, then a 12-play, 76-yard march that ended with a Taeo Todd 5-yard run, 10-0."
+        },
+        {
+          "type": "paragraph",
+          "text": "We had our chances. Ja'Quez Cross brought a kickoff back 51 yards to the Georgia Southern 40, and James London missed from 35. Before the half, Singleton converted a fourth-and-1 to Dillon Galloway, found Pickett for 10, and London hit from 33 with three seconds left, 10-3. That was the last time we scored."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half was a slow whittle down to nothing. Bryant kicked from 35 to make it 13-3 and from 34 to make it 16-3, and that second kick capped a 14-play drive that ate 7:25. On our next series, Singleton got sacked on back-to-back snaps, the second by Ethan Johnson for 10 yards. Then Singleton coughed up the ball at our 29, Anthony Bynum fell on it, and Bryant hit from 48, 19-3. We drove 75 yards in five plays to the Georgia Southern 2 and watched Singleton get intercepted in the end zone at 3:02."
+        },
+        {
+          "type": "paragraph",
+          "text": "Singleton went 15 of 28 for 215 yards with two interceptions and finished with minus-13 rushing yards. Pickett caught four balls for 86 yards, and Chris Lofton caught five for 82. Colton Phares made 12 tackles, and Juan Berchal had 10 with two throws broken up. Honest trail report: we ran for 6 yards on 16 carries, had the ball for 16:06 against 43:54, went 2 of 9 on third down and turned it over three times."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 5-3 and 2-2 in the Sun Belt. Georgia State comes to Kidd Brewer Stadium on Saturday, Nov. 7. Come home to the mountain and get loud. Go Apps."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Georgia Southern beat App State 19-3 on Saturday, Oct. 31, at Allen E. Paulson Stadium in Statesboro. The Mountaineers are 5-3 and 2-2 in the Sun Belt."
+        },
+        {
+          "type": "fact",
+          "text": "Malachi Singleton threw for 215 yards with two interceptions, and Sam Pickett III caught four balls for 86 yards."
+        },
+        {
+          "type": "fact",
+          "text": "App State ran for 6 yards on 16 carries and had the ball for 16:06."
+        },
+        {
+          "type": "jab",
+          "text": "Boone handed out candy on King Street. We handed Statesboro three turnovers."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Georgia Southern 19, App State 3 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401869846"
+        },
+        {
+          "label": "ESPN play-by-play, App State at Georgia Southern",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401869846"
+        },
+        {
+          "label": "Watauga Online: Boone BOO! returns to downtown Oct. 31",
+          "url": "https://wataugaonline.com/boone-boo-returns-to-downtown-oct-31-with-road-closures-trick-or-treating-and-costume-contest/"
+        },
+        {
+          "label": "Jones House: Boone BOO!",
+          "url": "https://www.joneshouse.org/booneboo"
+        },
+        {
+          "label": "AP: Georgia Southern beats Appalachian State 19-3",
+          "url": "https://apnews.com/article/appalachian-state-georgia-southern-football-score-661098c3a2a6f81ad7a5cab81b250c3c"
+        },
+        {
+          "label": "ESPN App State schedule (next game: vs. Georgia State, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2026"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-san-diego-state-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "san-diego-state",
+      "team_ids": [
+        "san-diego-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860909",
+      "title": "San Diego State vs Washington State: Kinnard Runs Aztecs 26-20",
+      "byline": "",
+      "matchup": "Final: San Diego State (4-5) 26, Washington State (1-8) 20, Sat., Oct. 31, Snapdragon Stadium, San Diego. Next: vs. Utah State, Sat., Nov. 14, Snapdragon Stadium, San Diego",
+      "date": "2026-10-31",
+      "word_count": 412,
+      "text": "San Diego State 26, Washington State 20, on Halloween at Snapdragon Stadium, and the Aztecs gave the whole River Park a treat. The River Park Block Party opened at 11 a.m., kids paraded around the Yellow Lot right after the Warrior Walk, our student-athletes handed out candy, and the students got the green light to wear costumes to the game. Then Javion Kinnard put on his work boots.\n\nKinnard set the tone early. After our defense stuffed the Cougars on fourth-and-1 at our 21, he capped an eight-play, 79-yard drive with a 9-yard touchdown run. Washington State tied it, and Kinnard went right back to work, finishing an 11-play, 79-yard march from 10 yards out, 14-7. The Cougars tied it again, so Cooper DiLeva drilled a 36-yarder. Before the half, Sione Hala hurried Owen Eshelman and Kai Wallin jumped the throw at our 28. Gnarly. 17-14 at the break.\n\nThe third quarter turned into a big swell for the defense. Stone Saunders got intercepted on our first series, and the Cougars had a short field. A Cougar personal foul pushed them back 15 yards, they gained six on four plays, Djibril Rahman hurried Eshelman on fourth-and-4, and the throw fell incomplete. DiLeva banged home a 45-yarder, 20-14. Krishna Clay then dropped Eshelman for a 14-yard loss, and the 53-yard try that followed sailed no good.\n\nHere's the wave I'll be talking about at Ocean Beach for a month. Fourth-and-goal at the Cougar 2, a 15-play drive that ate 7:11, and Bert Emanuel Jr. took the ball and threw a touchdown to Jackson Ford, 26-14. Washington State answered, missed the extra point, and got one last shot. On fourth-and-10 from their 48 with 38 seconds left, Mike Lindsay broke up the deep throw. Paddle in, dudes.\n\nLucky Sutton ran 18 times for 115 yards, with a 46-yard burst. Kinnard added 87 yards and both rushing scores on 17 carries. We ran for 202 yards on 37 tries. Tainoa Lave made nine tackles, Clay had 1.5 sacks, and the defense sacked Eshelman three times and stopped all three Cougar fourth-down tries. Honest surf report: Saunders went 12 of 21 for 102 yards with an interception, Eshelman threw for 299 on us, and the Cougars converted 9 of 14 third downs. That water gets cleaned up.\n\nWe're 4-5, 3-2 in the Pac-12 and 4-1 at Snapdragon. After the open week, Utah State comes to Snapdragon Stadium on Saturday, Nov. 14. Wax the board. Go Aztecs.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "San Diego State 26, Washington State 20, on Halloween at Snapdragon Stadium, and the Aztecs gave the whole River Park a treat. The River Park Block Party opened at 11 a.m., kids paraded around the Yellow Lot right after the Warrior Walk, our student-athletes handed out candy, and the students got the green light to wear costumes to the game. Then Javion Kinnard put on his work boots."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kinnard set the tone early. After our defense stuffed the Cougars on fourth-and-1 at our 21, he capped an eight-play, 79-yard drive with a 9-yard touchdown run. Washington State tied it, and Kinnard went right back to work, finishing an 11-play, 79-yard march from 10 yards out, 14-7. The Cougars tied it again, so Cooper DiLeva drilled a 36-yarder. Before the half, Sione Hala hurried Owen Eshelman and Kai Wallin jumped the throw at our 28. Gnarly. 17-14 at the break."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter turned into a big swell for the defense. Stone Saunders got intercepted on our first series, and the Cougars had a short field. A Cougar personal foul pushed them back 15 yards, they gained six on four plays, Djibril Rahman hurried Eshelman on fourth-and-4, and the throw fell incomplete. DiLeva banged home a 45-yarder, 20-14. Krishna Clay then dropped Eshelman for a 14-yard loss, and the 53-yard try that followed sailed no good."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's the wave I'll be talking about at Ocean Beach for a month. Fourth-and-goal at the Cougar 2, a 15-play drive that ate 7:11, and Bert Emanuel Jr. took the ball and threw a touchdown to Jackson Ford, 26-14. Washington State answered, missed the extra point, and got one last shot. On fourth-and-10 from their 48 with 38 seconds left, Mike Lindsay broke up the deep throw. Paddle in, dudes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lucky Sutton ran 18 times for 115 yards, with a 46-yard burst. Kinnard added 87 yards and both rushing scores on 17 carries. We ran for 202 yards on 37 tries. Tainoa Lave made nine tackles, Clay had 1.5 sacks, and the defense sacked Eshelman three times and stopped all three Cougar fourth-down tries. Honest surf report: Saunders went 12 of 21 for 102 yards with an interception, Eshelman threw for 299 on us, and the Cougars converted 9 of 14 third downs. That water gets cleaned up."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 4-5, 3-2 in the Pac-12 and 4-1 at Snapdragon. After the open week, Utah State comes to Snapdragon Stadium on Saturday, Nov. 14. Wax the board. Go Aztecs."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "San Diego State beat Washington State 26-20 on Halloween at Snapdragon Stadium. The Aztecs are 4-5 and 3-2 in the Pac-12."
+        },
+        {
+          "type": "fact",
+          "text": "Javion Kinnard ran for both touchdowns, Lucky Sutton ran for 115 yards, and Cooper DiLeva made field goals from 36 and 45 yards."
+        },
+        {
+          "type": "fact",
+          "text": "Bert Emanuel Jr. threw a 2-yard touchdown to Jackson Ford on fourth-and-goal for a 26-14 lead."
+        },
+        {
+          "type": "jab",
+          "text": "The Cougars wanted a treat. They got a fourth-down stop on the way out."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, San Diego State 26, Washington State 20 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860909"
+        },
+        {
+          "label": "ESPN play-by-play, Washington State at San Diego State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860909"
+        },
+        {
+          "label": "San Diego State Athletics: Halloween Festivities Announced for SDSU's Football Game vs. Washington State",
+          "url": "https://goaztecs.com/news/2026/10/26/halloween-festivities-announced-for-sdsus-football-game-vs-washington-state"
+        },
+        {
+          "label": "San Diego State Athletics: box score, Football vs Washington State, 10/31/2026",
+          "url": "https://goaztecs.com/boxscore/17100"
+        },
+        {
+          "label": "ESPN San Diego State schedule (next game: vs. Utah State, Sat., Nov. 14)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/21"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-washington-state-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "washington-state",
+      "team_ids": [
+        "washington-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860909",
+      "title": "Washington State vs San Diego State: Cougars Fall Short 26-20",
+      "byline": "",
+      "matchup": "Final: San Diego State (4-5) 26, Washington State (1-8) 20, Sat., Oct. 31, Snapdragon Stadium, San Diego. Next: vs. Colorado State, Sat., Nov. 14, Martin Stadium, Pullman",
+      "date": "2026-10-31",
+      "word_count": 437,
+      "text": "San Diego State 26, Washington State 20, and the Aztecs pulled the one real Halloween trick of the night. Back home on Saturday afternoon, the Downtown Pullman Association ran its trick-or-treat from 3 to 6 p.m., and kickoff at Snapdragon Stadium landed right in the middle of it. Main Street handed out the candy. Our Cougars came home with a bag of rocks.\n\nWe came out hungry. The opening drive went 11 plays into Aztec territory before Kirby Vorhees got stopped on fourth-and-1 at their 21. Javion Kinnard ran in from 9, and Owen Eshelman answered with a 4-yard keeper, 7-7. Kinnard scored again from 10, and Vorhees bulled in from 2 to finish a 12-play drive, 14-14. Then Kai Wallin intercepted Eshelman at the Aztec 28, Cooper DiLeva kicked a 36-yarder, and it was 17-14 at the half.\n\nThe third quarter is where this crop got hailed on. Jaylen Thomas intercepted Stone Saunders on the first series of the half, but a personal foul on our side moved the ball back 15 yards, we managed six yards in four plays, and we turned it over on downs at their 30. DiLeva hit from 45, 20-14. Our next drive ran 13 plays, then a 14-yard sack shoved us back to their 35, and Jack Stevens missed from 53.\n\nThen came the gut punch. On fourth-and-goal at our 2, Bert Emanuel Jr. took the ball and threw a touchdown to Jackson Ford, 26-14, finishing a 15-play march that burned 7:11. We fought back. Eshelman found Daniel Blood for 43 yards, Blood lost the ball at the 10 and fell on it himself at the 4, and Eshelman ran in from 2. The extra point failed, so the last drive needed a touchdown, not a kick. On fourth-and-10 from our 48 with 38 seconds left, his deep throw for Branden Ganashamoorthy was broken up.\n\nEshelman went 30 of 42 for 299 yards and ran for both of his touchdowns. Blood caught eight balls for 105 yards. Keith Brown made 11 tackles, and Linus Zunk had 2.5 tackles for loss. We outgained them 367 yards to 306, held the ball for 33:05 and converted 9 of 14 third downs. Honest harvest report: we went 0 for 3 on fourth down, ran for 68 yards on 30 carries, and gave up 202 on the ground, 115 of them to Lucky Sutton.\n\nWe're 1-8, 0-5 in the Pac-12 and 0-5 on the road. This tape is not going in the shoebox. After the open week, Colorado State comes to Martin Stadium on Saturday, Nov. 14. Fly Ol' Crimson high, Pullman. Go Cougs.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "San Diego State 26, Washington State 20, and the Aztecs pulled the one real Halloween trick of the night. Back home on Saturday afternoon, the Downtown Pullman Association ran its trick-or-treat from 3 to 6 p.m., and kickoff at Snapdragon Stadium landed right in the middle of it. Main Street handed out the candy. Our Cougars came home with a bag of rocks."
+        },
+        {
+          "type": "paragraph",
+          "text": "We came out hungry. The opening drive went 11 plays into Aztec territory before Kirby Vorhees got stopped on fourth-and-1 at their 21. Javion Kinnard ran in from 9, and Owen Eshelman answered with a 4-yard keeper, 7-7. Kinnard scored again from 10, and Vorhees bulled in from 2 to finish a 12-play drive, 14-14. Then Kai Wallin intercepted Eshelman at the Aztec 28, Cooper DiLeva kicked a 36-yarder, and it was 17-14 at the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter is where this crop got hailed on. Jaylen Thomas intercepted Stone Saunders on the first series of the half, but a personal foul on our side moved the ball back 15 yards, we managed six yards in four plays, and we turned it over on downs at their 30. DiLeva hit from 45, 20-14. Our next drive ran 13 plays, then a 14-yard sack shoved us back to their 35, and Jack Stevens missed from 53."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the gut punch. On fourth-and-goal at our 2, Bert Emanuel Jr. took the ball and threw a touchdown to Jackson Ford, 26-14, finishing a 15-play march that burned 7:11. We fought back. Eshelman found Daniel Blood for 43 yards, Blood lost the ball at the 10 and fell on it himself at the 4, and Eshelman ran in from 2. The extra point failed, so the last drive needed a touchdown, not a kick. On fourth-and-10 from our 48 with 38 seconds left, his deep throw for Branden Ganashamoorthy was broken up."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eshelman went 30 of 42 for 299 yards and ran for both of his touchdowns. Blood caught eight balls for 105 yards. Keith Brown made 11 tackles, and Linus Zunk had 2.5 tackles for loss. We outgained them 367 yards to 306, held the ball for 33:05 and converted 9 of 14 third downs. Honest harvest report: we went 0 for 3 on fourth down, ran for 68 yards on 30 carries, and gave up 202 on the ground, 115 of them to Lucky Sutton."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 1-8, 0-5 in the Pac-12 and 0-5 on the road. This tape is not going in the shoebox. After the open week, Colorado State comes to Martin Stadium on Saturday, Nov. 14. Fly Ol' Crimson high, Pullman. Go Cougs."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "San Diego State beat Washington State 26-20 on Saturday, Oct. 31, at Snapdragon Stadium in San Diego. The Cougars are 1-8 and 0-5 in the Pac-12."
+        },
+        {
+          "type": "fact",
+          "text": "Owen Eshelman threw for 299 yards and ran for two touchdowns, and Daniel Blood caught eight balls for 105 yards."
+        },
+        {
+          "type": "fact",
+          "text": "Washington State outgained San Diego State 367 yards to 306 but went 0 for 3 on fourth down."
+        },
+        {
+          "type": "jab",
+          "text": "Pullman handed out candy on Main Street. The Aztecs handed us a trick play."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, San Diego State 26, Washington State 20 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860909"
+        },
+        {
+          "label": "ESPN play-by-play, Washington State at San Diego State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860909"
+        },
+        {
+          "label": "Pullman Radio: Halloween Trick-or-Treating Events Planned Across the Palouse (Downtown Pullman Trick-or-Treat, Oct. 31, 3 to 6 p.m.)",
+          "url": "https://pullmanradio.com/halloween-trick-or-treating-events-planned-across-the-palouse/"
+        },
+        {
+          "label": "San Diego State Athletics: box score, Football vs Washington State, 10/31/2026",
+          "url": "https://goaztecs.com/boxscore/17100"
+        },
+        {
+          "label": "ESPN Washington State schedule (next game: vs. Colorado State, Sat., Nov. 14)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/265"
         }
       ],
       "sources_display": "button",
