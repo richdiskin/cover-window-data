@@ -4,9 +4,24 @@
  "season": 2026,
  "week": 8,
  "slate_date": "2026-11-01",
- "updated_utc": "2026-11-01T19:45:24Z",
+ "updated_utc": "2026-11-01T19:48:29Z",
  "about": "Halftime story links per game_id. fanatic.url goes only on Fanatic pages, gambler.url only on Gambler pages. Times are for data only; apps show none of them.",
  "games": {
+  "401873026": {
+   "game_id": "401873026",
+   "key": "BAL@BUF",
+   "matchup": "Baltimore Ravens at Buffalo Bills",
+   "fanatic": {
+    "label": "Halftime report",
+    "headline": "Bills 16, Ravens 7 at the half: Bass boots three, Baltimore burns through three quarterbacks",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/baltimore-ravens-at-buffalo-bills/halftime/fanatic/"
+   },
+   "gambler": {
+    "label": "Halftime report",
+    "headline": "Halftime sweat: Bills 16, Ravens 7, Bills −3 up 6 on the number, 23 points on the board against 54.5",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/baltimore-ravens-at-buffalo-bills/halftime/gambler/"
+   }
+  },
   "401873031": {
    "game_id": "401873031",
    "key": "TEN@CIN",
