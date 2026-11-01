@@ -2116,7 +2116,23 @@
      "source": "ESPN game summary, event 401873030"
     }
    ],
-   "videos": []
+   "videos": [
+    {
+     "youtube_id": "gMlmP6flh9Q",
+     "title": "Jared Goff's BEST throws vs. Minnesota | Lions vs. Vikings: 2024 NFL Season Highlights",
+     "label": "Last meeting: Vikings vs. Lions",
+     "channel": "Detroit Lions",
+     "channel_id": "UCv5J06V-ESk5_1uriG65f3w",
+     "published": "2024-10-22",
+     "duration_s": 258,
+     "thumb": "https://i.ytimg.com/vi/gMlmP6flh9Q/hqdefault.jpg",
+     "kind": "matchup",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873029",
@@ -3406,6 +3422,24 @@
    ],
    "videos": [
     {
+     "youtube_id": "w2MxMoV0VAc",
+     "title": "Tampa Terrence & Baker Mayfield would run the pong table 😮‍💨🏓🎉: Bud Light #bakermayfield",
+     "label": "Baker Mayfield highlights",
+     "channel": "Tampa Bay Buccaneers",
+     "channel_id": "UC0Wwu7r1ybaaR09ANhudTzA",
+     "published": "2026-10-31",
+     "duration_s": 45,
+     "thumb": "https://i.ytimg.com/vi/w2MxMoV0VAc/hqdefault.jpg",
+     "kind": "player",
+     "player": "Baker Mayfield",
+     "team": "Tampa Bay Buccaneers",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
      "youtube_id": "J7xCSK-83Po",
      "title": "Bucky Irving is off to a HOT start 🔥📺: #TBvsCAR on FOX #buckyirving #touchdown #buccaneers #nfl",
      "label": "Bucky Irving highlights",
@@ -4548,14 +4582,14 @@
    ],
    "videos": [
     {
-     "youtube_id": "-3eIqRHdETk",
-     "title": "TOUCHDOWN, BO NIX 😤 #broncos #touchdown #nix #denver #nfl",
+     "youtube_id": "TsLePJqprUM",
+     "title": "#BoNix making history. 👏 #broncos #nix #touchdown #highlight #denver",
      "label": "Bo Nix highlights",
      "channel": "Denver Broncos",
      "channel_id": "UCDGdBexlDZA8T7hnweWWyow",
-     "published": "2026-10-25",
-     "duration_s": 17,
-     "thumb": "https://i.ytimg.com/vi/-3eIqRHdETk/hqdefault.jpg",
+     "published": "2026-10-26",
+     "duration_s": 27,
+     "thumb": "https://i.ytimg.com/vi/TsLePJqprUM/hqdefault.jpg",
      "kind": "player",
      "player": "Bo Nix",
      "team": "Denver Broncos",
