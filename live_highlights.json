@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-01T01:05:00Z",
+ "updated_utc": "2026-11-01T01:42:45Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -393,7 +393,24 @@
    "kickoff_utc": "2026-10-31T18:00Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q4 9:07",
-   "halftime_eligible": false
+   "halftime_eligible": false,
+   "final": {
+    "youtube_id": "QLzhGUi9jT4",
+    "title": "Coastal Carolina Chanticleers vs Georgia State Panthers Highlights | 2026 Sun Belt Conference Footba",
+    "channel": "Sun Belt Conference",
+    "channel_id": "UCwRkms-Zb61HtMDIjmKofmw",
+    "url": "https://www.youtube.com/watch?v=QLzhGUi9jT4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/QLzhGUi9jT4",
+    "thumb": "https://i.ytimg.com/vi/QLzhGUi9jT4/hqdefault.jpg",
+    "duration_s": 529,
+    "uploaded_utc": "2026-11-01T01:15:44Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-01T01:36:34Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401861966": {
    "game_id": "401861966",
