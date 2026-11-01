@@ -4,7 +4,7 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 214,
+  "count": 218,
   "lead_id": "fanatic_team-indiana",
   "articles": [
     {
@@ -7354,6 +7354,366 @@
         {
           "label": "ESPN Miami schedule (next game: at Notre Dame, Sat., Nov. 7)",
           "url": "https://www.espn.com/college-football/team/schedule/_/id/2390"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-memphis-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "memphis",
+      "team_ids": [
+        "memphis"
+      ],
+      "tab_id": "aac",
+      "game_id": "401862814",
+      "title": "Memphis vs Army: Stokes Throws Four, Tigers Roll 49-22",
+      "byline": "",
+      "matchup": "Final: Memphis (7-2) 49, Army (5-3) 22, Sat., Oct. 31, Simmons Bank Liberty Stadium, Memphis. Next: at South Florida, Thu., Nov. 12, Raymond James Stadium, Tampa",
+      "date": "2026-10-31",
+      "word_count": 356,
+      "text": "Memphis 49, Army 22, and Homecoming at Simmons Bank Liberty Stadium got the full band treatment. Hero Day honored the military, veterans and first responders, the crowd was asked to wear black, and Tiger Lane ran a Tailgate and Treat before kickoff. Our Tigers honored the cadets the right way: by playing their very best.\n\nMarcus Stokes was the lead guitar all night. He completed 29 of 35 throws for 371 yards and four touchdowns, no interceptions. Jermane Hayes caught nine balls for 86 yards and scored twice from 13 and 5. Jemyri Davis caught touchdowns of 15 and 26. Hunter Tipton grabbed five for 86, including a 51-yarder. I hummed a riff after every score until my neighbor asked me to take a set break.\n\nNow, I won't play loose with the sour notes. Davis lost a fumble in the second quarter, and Army tied it 14-14 four plays later. Their option ran for 320 yards, Godspower Nwawuihe went for 100, and Zach Mundell broke a 68-yarder that set up a score to make it 35-22. That defense needs to tune a few strings.\n\nBut listen to the groove we found once it was tied. Jaylin Carter punched in a 1-yard run, Stokes found Davis with 35 seconds left in the half, and Davis scored again in the third. Three straight touchdowns, 35-14. We converted 11 of 15 third downs and gained 554 yards with just two penalties.\n\nAnd the fourth quarter had the strangest solo of the night. Stokes kept it from the 1, fumbled at the 4, grabbed his own ball and still got in for a touchdown and a 42-22 lead. Right after, Chauncey Logan Jr. intercepted Cale Hellums, and Carter's 3-yard run made it 49-22. Ellis Ellis Jr. intercepted the last throw at our 2 to close the show. Mike Montgomery led us with nine tackles.\n\nOn my soul scale, Army's alma mater gets a full respectful bow. The scoreboard gets an amen.\n\nWe're 7-2, 4-1 in the American and 5-0 at home. Next up, we head to South Florida on Thursday, Nov. 12, at Raymond James Stadium. Go Tigers Go!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Memphis 49, Army 22, and Homecoming at Simmons Bank Liberty Stadium got the full band treatment. Hero Day honored the military, veterans and first responders, the crowd was asked to wear black, and Tiger Lane ran a Tailgate and Treat before kickoff. Our Tigers honored the cadets the right way: by playing their very best."
+        },
+        {
+          "type": "paragraph",
+          "text": "Marcus Stokes was the lead guitar all night. He completed 29 of 35 throws for 371 yards and four touchdowns, no interceptions. Jermane Hayes caught nine balls for 86 yards and scored twice from 13 and 5. Jemyri Davis caught touchdowns of 15 and 26. Hunter Tipton grabbed five for 86, including a 51-yarder. I hummed a riff after every score until my neighbor asked me to take a set break."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now, I won't play loose with the sour notes. Davis lost a fumble in the second quarter, and Army tied it 14-14 four plays later. Their option ran for 320 yards, Godspower Nwawuihe went for 100, and Zach Mundell broke a 68-yarder that set up a score to make it 35-22. That defense needs to tune a few strings."
+        },
+        {
+          "type": "paragraph",
+          "text": "But listen to the groove we found once it was tied. Jaylin Carter punched in a 1-yard run, Stokes found Davis with 35 seconds left in the half, and Davis scored again in the third. Three straight touchdowns, 35-14. We converted 11 of 15 third downs and gained 554 yards with just two penalties."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the fourth quarter had the strangest solo of the night. Stokes kept it from the 1, fumbled at the 4, grabbed his own ball and still got in for a touchdown and a 42-22 lead. Right after, Chauncey Logan Jr. intercepted Cale Hellums, and Carter's 3-yard run made it 49-22. Ellis Ellis Jr. intercepted the last throw at our 2 to close the show. Mike Montgomery led us with nine tackles."
+        },
+        {
+          "type": "paragraph",
+          "text": "On my soul scale, Army's alma mater gets a full respectful bow. The scoreboard gets an amen."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 7-2, 4-1 in the American and 5-0 at home. Next up, we head to South Florida on Thursday, Nov. 12, at Raymond James Stadium. Go Tigers Go!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Memphis beat Army 49-22 on Homecoming and Hero Day, Oct. 31, at Simmons Bank Liberty Stadium. The Tigers are 7-2 and 4-1 in the American."
+        },
+        {
+          "type": "fact",
+          "text": "Marcus Stokes completed 29 of 35 throws for 371 yards and four touchdowns; Jermane Hayes and Jemyri Davis caught two each."
+        },
+        {
+          "type": "fact",
+          "text": "Jaylin Carter ran for two touchdowns, and Chauncey Logan Jr. and Ellis Ellis Jr. each intercepted a throw."
+        },
+        {
+          "type": "jab",
+          "text": "Army brought the option. We brought the whole band."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Memphis 49, Army 22 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862814"
+        },
+        {
+          "label": "ESPN play-by-play, Army at Memphis",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401862814"
+        },
+        {
+          "label": "Memphis Athletics: Memphis Football vs. Army Know Before You Go (Hero Day, wear black, Tailgate and Treat)",
+          "url": "https://gotigersgo.com/news/2026/10/30/memphis-football-vs-army-know-before-you-go-game-day-updates"
+        },
+        {
+          "label": "University of Memphis Homecoming, Oct. 26-31",
+          "url": "https://www.memphis.edu/homecoming/"
+        },
+        {
+          "label": "ESPN Memphis schedule (next game: at South Florida, Thu., Nov. 12)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/235"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-army-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "army",
+      "team_ids": [
+        "army"
+      ],
+      "tab_id": "aac",
+      "game_id": "401862814",
+      "title": "Army vs Memphis: Black Knights Can't Stop Stokes 49-22",
+      "byline": "",
+      "matchup": "Final: Memphis (7-2) 49, Army (5-3) 22, Sat., Oct. 31, Simmons Bank Liberty Stadium, Memphis. Next: vs. Air Force, Sat., Nov. 7, Michie Stadium, West Point",
+      "date": "2026-10-31",
+      "word_count": 351,
+      "text": "Memphis 49, Army 22. Filing this field report from the Mid-South with a heavy pen. On Friday night back at West Point, the post ran its Trunk-or-Treat in H-Lot by the PX and then showed Ghostbusters on the soccer field. Saturday in Memphis, nobody in our secondary knew who to call.\n\nStatus of the ground war: green. We ran 51 times for 320 yards and held the ball 31:55. Godspower Nwawuihe carried 19 times for 100 yards, broke a 34-yarder and scored from 5 out to tie it 7-7. After Noah Nixon punched the ball loose from Jemyri Davis and Kody Harris-Miller recovered it, Cale Hellums threw 8 yards to Samari Howard for a 14-14 tie in the second quarter. Right item, right place, right time.\n\nStatus of the air defense: red. Marcus Stokes completed 29 of 35 throws for 371 yards and four touchdowns, and Memphis converted 11 of 15 third downs. They scored 21 straight to go up 35-14. Jermane Hayes caught two touchdowns, Jemyri Davis caught two more, and Hunter Tipton took one short throw 51 yards to set up a score. You can't win a time-of-possession war when the other side needs two minutes to go 75 yards.\n\nWe did not quit. Zach Mundell broke a 68-yard run to the Memphis 5, Hellums kept it from 2, and the two-point try was good to make it 35-22. Then Memphis marched 92 yards, and Stokes fumbled at our 4, grabbed it right back and got into the end zone anyway. That's a report I'll log under \"status unknown,\" because I can't explain it. Hellums was intercepted on the next series, and Bryson Luter was intercepted at the Memphis 2 to end it.\n\nCredit where it's due. Deion Miller made 10 tackles, and James Wagenseller boomed a 74-yard punt. Memphis played a sharp game and earned this one in front of a homecoming crowd.\n\nWe're 5-3 and 4-2 in the American, 2-2 on the road. The mission resets fast: Air Force comes to Michie Stadium on Saturday, Nov. 7, and that one is personal. Copy that, and beat Navy.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Memphis 49, Army 22. Filing this field report from the Mid-South with a heavy pen. On Friday night back at West Point, the post ran its Trunk-or-Treat in H-Lot by the PX and then showed Ghostbusters on the soccer field. Saturday in Memphis, nobody in our secondary knew who to call."
+        },
+        {
+          "type": "paragraph",
+          "text": "Status of the ground war: green. We ran 51 times for 320 yards and held the ball 31:55. Godspower Nwawuihe carried 19 times for 100 yards, broke a 34-yarder and scored from 5 out to tie it 7-7. After Noah Nixon punched the ball loose from Jemyri Davis and Kody Harris-Miller recovered it, Cale Hellums threw 8 yards to Samari Howard for a 14-14 tie in the second quarter. Right item, right place, right time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Status of the air defense: red. Marcus Stokes completed 29 of 35 throws for 371 yards and four touchdowns, and Memphis converted 11 of 15 third downs. They scored 21 straight to go up 35-14. Jermane Hayes caught two touchdowns, Jemyri Davis caught two more, and Hunter Tipton took one short throw 51 yards to set up a score. You can't win a time-of-possession war when the other side needs two minutes to go 75 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "We did not quit. Zach Mundell broke a 68-yard run to the Memphis 5, Hellums kept it from 2, and the two-point try was good to make it 35-22. Then Memphis marched 92 yards, and Stokes fumbled at our 4, grabbed it right back and got into the end zone anyway. That's a report I'll log under \"status unknown,\" because I can't explain it. Hellums was intercepted on the next series, and Bryson Luter was intercepted at the Memphis 2 to end it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit where it's due. Deion Miller made 10 tackles, and James Wagenseller boomed a 74-yard punt. Memphis played a sharp game and earned this one in front of a homecoming crowd."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 5-3 and 4-2 in the American, 2-2 on the road. The mission resets fast: Air Force comes to Michie Stadium on Saturday, Nov. 7, and that one is personal. Copy that, and beat Navy."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Memphis beat Army 49-22 on Saturday, Oct. 31, at Simmons Bank Liberty Stadium. The Black Knights are 5-3 and 4-2 in the American."
+        },
+        {
+          "type": "fact",
+          "text": "Army ran for 320 yards; Godspower Nwawuihe had 100 and Zach Mundell broke a 68-yard run."
+        },
+        {
+          "type": "fact",
+          "text": "Memphis quarterback Marcus Stokes threw for 371 yards and four touchdowns, and Army threw two interceptions."
+        },
+        {
+          "type": "jab",
+          "text": "We won the clock and lost the scoreboard. Bad trade."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Memphis 49, Army 22 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862814"
+        },
+        {
+          "label": "ESPN play-by-play, Army at Memphis",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401862814"
+        },
+        {
+          "label": "West Point MWR: Trunk or Treat and Movie, Oct. 30, 2026",
+          "url": "https://westpoint.armymwr.com/calendar/event/114683"
+        },
+        {
+          "label": "Memphis Athletics: Memphis Football vs. Army Know Before You Go",
+          "url": "https://gotigersgo.com/news/2026/10/30/memphis-football-vs-army-know-before-you-go-game-day-updates"
+        },
+        {
+          "label": "ESPN Army schedule (next game: vs. Air Force, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/349"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-pittsburgh-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "pittsburgh",
+      "team_ids": [
+        "pittsburgh"
+      ],
+      "tab_id": "acc",
+      "game_id": "401858281",
+      "title": "Pittsburgh vs Georgia Tech: Ferguson Runs Over Jackets 34-11",
+      "byline": "",
+      "matchup": "Final: Pittsburgh (6-3) 34, Georgia Tech (2-6) 11, Sat., Oct. 31, Acrisure Stadium, Pittsburgh. Next: vs. Florida State, Fri., Nov. 13, Acrisure Stadium, Pittsburgh",
+      "date": "2026-10-31",
+      "word_count": 373,
+      "text": "Pittsburgh 34, Georgia Tech 11, and yinz SEE that?! Halloween night on the North Shore was Hail to Heroes at Acrisure Stadium, with the military, veterans and first responders honored on the field, and the Panthers saluted them with a defense that played like it was on a mission. Costumes were welcome, masks weren't, and Georgia Tech's offense looked like it came dressed as a ghost.\n\nMy homemade whistle got a workout. Antonio Chadha opened the scoring with a 45-yard field goal. Then Damon Ferguson Jr. finished a 15-play, 86-yard march with a 3-yard touchdown run. That's a \"yinz\" grade on the whole drive, n'at. La'Vell Wright punched in a 1-yarder for 17-0.\n\nNow the \"yikes\" column, because I'm honest. Carson Kent had the ball knocked loose at the Tech 2, and Justin Cook coughed one up late in the half to set up a Yellow Jacket field goal. Corey Dailey got intercepted in the fourth, and Georgia Tech scored a play later. Ten penalties for 95 yards. Three turnovers. That's a sandwich-in-silence list, even in a 23-point win.\n\nBut the defense? Textbook. Jeremiah Marcelin and Raion Strader each got a sack, Strader broke up two throws, and Alex Sanford Jr. led us with eight tackles. Alberto Mendoza fumbled four times, and Jaeden Moore pounced on the last one at the Tech 15 to end the third quarter. Zach Crothers recovered another at our 21 in the fourth. Tech went 3 of 18 on third down and finished with 238 yards.\n\nFerguson was the main course: 31 carries, 185 yards and two touchdowns, the last one from a yard out with 3:28 to go for 34-11. We ran for 281 and put up 461 yards. Holden Geriner went 13 of 30 for 180, hit Censere Lee for 44 yards, and dropped a 30-yard touchdown throw right into Cataurus Hicks's hands. Chadha didn't miss a kick all night.\n\nOur last stand was the best tackle grade of the night. Georgia Tech drove 14 plays to our doorstep in the final minute, and the defense knocked away the fourth-down throw.\n\nWe're 6-3, 3-3 in the ACC and 5-1 at home. After the open week, Florida State comes to Acrisure Stadium on Friday, Nov. 13. H2P!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pittsburgh 34, Georgia Tech 11, and yinz SEE that?! Halloween night on the North Shore was Hail to Heroes at Acrisure Stadium, with the military, veterans and first responders honored on the field, and the Panthers saluted them with a defense that played like it was on a mission. Costumes were welcome, masks weren't, and Georgia Tech's offense looked like it came dressed as a ghost."
+        },
+        {
+          "type": "paragraph",
+          "text": "My homemade whistle got a workout. Antonio Chadha opened the scoring with a 45-yard field goal. Then Damon Ferguson Jr. finished a 15-play, 86-yard march with a 3-yard touchdown run. That's a \"yinz\" grade on the whole drive, n'at. La'Vell Wright punched in a 1-yarder for 17-0."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the \"yikes\" column, because I'm honest. Carson Kent had the ball knocked loose at the Tech 2, and Justin Cook coughed one up late in the half to set up a Yellow Jacket field goal. Corey Dailey got intercepted in the fourth, and Georgia Tech scored a play later. Ten penalties for 95 yards. Three turnovers. That's a sandwich-in-silence list, even in a 23-point win."
+        },
+        {
+          "type": "paragraph",
+          "text": "But the defense? Textbook. Jeremiah Marcelin and Raion Strader each got a sack, Strader broke up two throws, and Alex Sanford Jr. led us with eight tackles. Alberto Mendoza fumbled four times, and Jaeden Moore pounced on the last one at the Tech 15 to end the third quarter. Zach Crothers recovered another at our 21 in the fourth. Tech went 3 of 18 on third down and finished with 238 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ferguson was the main course: 31 carries, 185 yards and two touchdowns, the last one from a yard out with 3:28 to go for 34-11. We ran for 281 and put up 461 yards. Holden Geriner went 13 of 30 for 180, hit Censere Lee for 44 yards, and dropped a 30-yard touchdown throw right into Cataurus Hicks's hands. Chadha didn't miss a kick all night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our last stand was the best tackle grade of the night. Georgia Tech drove 14 plays to our doorstep in the final minute, and the defense knocked away the fourth-down throw."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 6-3, 3-3 in the ACC and 5-1 at home. After the open week, Florida State comes to Acrisure Stadium on Friday, Nov. 13. H2P!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Pittsburgh beat Georgia Tech 34-11 on Halloween night at Acrisure Stadium during Hail to Heroes. The Panthers are 6-3 and 3-3 in the ACC."
+        },
+        {
+          "type": "fact",
+          "text": "Damon Ferguson Jr. ran 31 times for 185 yards and two touchdowns, and Pitt rushed for 281 yards."
+        },
+        {
+          "type": "fact",
+          "text": "Pitt's defense recovered two Georgia Tech fumbles, held Tech to 238 yards and stopped a final drive on fourth down."
+        },
+        {
+          "type": "jab",
+          "text": "Georgia Tech came dressed as an offense. Nobody bought the costume."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Pittsburgh 34, Georgia Tech 11 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858281"
+        },
+        {
+          "label": "ESPN play-by-play, Georgia Tech at Pittsburgh",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858281"
+        },
+        {
+          "label": "Pitt Athletics: Game Week, Pitt Hosts Georgia Tech on Halloween Night (Hail to Heroes)",
+          "url": "https://pittsburghpanthers.com/news/2026/10/26/football-game-week-pitt-hosts-georgia-tech-on-halloween-night"
+        },
+        {
+          "label": "Pitt Athletics: Game Central, Football vs. Georgia Tech (Halloween costume guidelines)",
+          "url": "https://pittsburghpanthers.com/news/2026/10/29/game-central-football-vs-georgia-tech"
+        },
+        {
+          "label": "ESPN Pittsburgh schedule (next game: vs. Florida State, Fri., Nov. 13)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/221"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-georgia-tech-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "georgia-tech",
+      "team_ids": [
+        "georgia-tech"
+      ],
+      "tab_id": "acc",
+      "game_id": "401858281",
+      "title": "Georgia Tech vs Pittsburgh: Fumbles Ground Yellow Jackets 34-11",
+      "byline": "",
+      "matchup": "Final: Pittsburgh (6-3) 34, Georgia Tech (2-6) 11, Sat., Oct. 31, Acrisure Stadium, Pittsburgh. Next: vs. Louisville, Sat., Nov. 7, Bobby Dodd Stadium, Atlanta",
+      "date": "2026-10-31",
+      "word_count": 409,
+      "text": "Pittsburgh 34, Georgia Tech 11, and I have already re-run this simulation more times than I can count. Back home, Tech Square handed out candy to costumed trick-or-treaters from 5 to 8 p.m. on Saturday. Up on the North Shore at Acrisure Stadium, the Panthers handed us nothing but tricks, and our offense never left its launch pad.\n\nHere is the bug report. Alberto Mendoza put the ball on the ground four times, every one of them in our own half. Pitt sacked him again and again, and the cruelest data point came on the final snap of the third quarter: an 11-yard loss, a fumble, and Jaeden Moore falling on it at our 15. Mendoza finished 16 of 25 for 81 yards. That trajectory never cleared the atmosphere.\n\nThe defense kept the orbit stable for a while. Pitt led 10-0 when Jonas Duclona took a touchdown off the board, punching the ball out of Carson Kent's hands at our 2 and recovering it in the end zone. Duclona made 10 tackles, and he was the best thing on our side of the field. Taje McCoy forced a Justin Cook fumble late in the half, Zachary Tobe recovered, and Aidan Birr hammered a 49-yard field goal with three seconds left. 17-3 at the break. Physics still had us in it.\n\nThen Pitt's ground game ran the experiment over and over. Damon Ferguson Jr. carried 31 times for 185 yards and two touchdowns, and the Panthers rushed for 281. A 15-play, 83-yard drive ate 8:07 of the third quarter for a field goal, and Holden Geriner hit Cataurus Hicks for a 30-yard score, 27-3.\n\nGrady Adamson came in and gave the graph a pulse. He ripped off a 36-yard run, and after Trae Stevenson Jr. intercepted a Pitt throw and returned it 22 yards, Adamson ran 18 yards for the touchdown and powered in the two-point try himself, 27-11. Our last drive went 14 plays to the Pitt doorstep and died on fourth down with 50 seconds left.\n\nThe final numbers: Pitt 461 yards, us 238. We converted 3 of 18 third downs. Pitt fumbled twice and threw an interception, and we still couldn't make it a game. Graph paper doesn't lie, and tonight it drew a straight slope downhill.\n\nWe're 2-6 and 1-4 in the ACC. Louisville comes to Bobby Dodd Stadium on Saturday, Nov. 7. Back to the wind tunnel. To Hell With Georgia, and back to work.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pittsburgh 34, Georgia Tech 11, and I have already re-run this simulation more times than I can count. Back home, Tech Square handed out candy to costumed trick-or-treaters from 5 to 8 p.m. on Saturday. Up on the North Shore at Acrisure Stadium, the Panthers handed us nothing but tricks, and our offense never left its launch pad."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here is the bug report. Alberto Mendoza put the ball on the ground four times, every one of them in our own half. Pitt sacked him again and again, and the cruelest data point came on the final snap of the third quarter: an 11-yard loss, a fumble, and Jaeden Moore falling on it at our 15. Mendoza finished 16 of 25 for 81 yards. That trajectory never cleared the atmosphere."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense kept the orbit stable for a while. Pitt led 10-0 when Jonas Duclona took a touchdown off the board, punching the ball out of Carson Kent's hands at our 2 and recovering it in the end zone. Duclona made 10 tackles, and he was the best thing on our side of the field. Taje McCoy forced a Justin Cook fumble late in the half, Zachary Tobe recovered, and Aidan Birr hammered a 49-yard field goal with three seconds left. 17-3 at the break. Physics still had us in it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Pitt's ground game ran the experiment over and over. Damon Ferguson Jr. carried 31 times for 185 yards and two touchdowns, and the Panthers rushed for 281. A 15-play, 83-yard drive ate 8:07 of the third quarter for a field goal, and Holden Geriner hit Cataurus Hicks for a 30-yard score, 27-3."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grady Adamson came in and gave the graph a pulse. He ripped off a 36-yard run, and after Trae Stevenson Jr. intercepted a Pitt throw and returned it 22 yards, Adamson ran 18 yards for the touchdown and powered in the two-point try himself, 27-11. Our last drive went 14 plays to the Pitt doorstep and died on fourth down with 50 seconds left."
+        },
+        {
+          "type": "paragraph",
+          "text": "The final numbers: Pitt 461 yards, us 238. We converted 3 of 18 third downs. Pitt fumbled twice and threw an interception, and we still couldn't make it a game. Graph paper doesn't lie, and tonight it drew a straight slope downhill."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 2-6 and 1-4 in the ACC. Louisville comes to Bobby Dodd Stadium on Saturday, Nov. 7. Back to the wind tunnel. To Hell With Georgia, and back to work."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Pittsburgh beat Georgia Tech 34-11 on Saturday, Oct. 31, at Acrisure Stadium. The Yellow Jackets are 2-6 and 1-4 in the ACC."
+        },
+        {
+          "type": "fact",
+          "text": "Alberto Mendoza fumbled four times and finished 16 of 25 for 81 yards; Grady Adamson ran 18 yards for Tech's only touchdown and added the two-point run."
+        },
+        {
+          "type": "fact",
+          "text": "Jonas Duclona made 10 tackles and forced and recovered a fumble at the Tech 2."
+        },
+        {
+          "type": "jab",
+          "text": "Four fumbles is not an offense, it's a failed launch."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Pittsburgh 34, Georgia Tech 11 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858281"
+        },
+        {
+          "label": "ESPN play-by-play, Georgia Tech at Pittsburgh",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858281"
+        },
+        {
+          "label": "Georgia Tech Campus Calendar: Trick or Treating in Tech Square, Oct. 31, 2026",
+          "url": "https://calendar.gatech.edu/event/2026/10/31/trick-or-treating-tech-square"
+        },
+        {
+          "label": "Pitt Athletics: Game Week, Pitt Hosts Georgia Tech on Halloween Night",
+          "url": "https://pittsburghpanthers.com/news/2026/10/26/football-game-week-pitt-hosts-georgia-tech-on-halloween-night"
+        },
+        {
+          "label": "ESPN Georgia Tech schedule (next game: vs. Louisville, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/59"
         }
       ],
       "sources_display": "button",
