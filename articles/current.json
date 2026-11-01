@@ -4,7 +4,7 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 218,
+  "count": 220,
   "lead_id": "fanatic_team-indiana",
   "articles": [
     {
@@ -7714,6 +7714,180 @@
         {
           "label": "ESPN Georgia Tech schedule (next game: vs. Louisville, Sat., Nov. 7)",
           "url": "https://www.espn.com/college-football/team/schedule/_/id/59"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-nebraska",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "nebraska",
+      "team_ids": [
+        "nebraska"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858504",
+      "title": "Nebraska vs Washington: Late Huskies Strike Spoils Blackout 17-10",
+      "byline": "",
+      "matchup": "Final: Washington (5-3) 17, Nebraska (5-3) 10, Sat., Oct. 31, Memorial Stadium (Lincoln, NE), Lincoln. Next: at Illinois, Fri., Nov. 6, Gies Memorial Stadium, Champaign",
+      "date": "2026-10-31",
+      "word_count": 390,
+      "text": "Washington 17, Nebraska 10, and that one is going to sit in my stomach longer than the Halloween candy they handed kids at the Cornhusker Kickoff in the Hawks Center. It was our Blackout game, the first Halloween game in Lincoln since 1998, and Memorial Stadium in black watched a 7-3 lead hold into the final two minutes before it got away.\n\nCredit first, because a farm girl pays her debts. The Blackshirts were nasty. Washington ran 19 times for 32 yards. Kade Pietrzak dropped Elijah Brown for a 10-yard loss, Jahsear Whittington and Mason Goldman each had a sack, and Riley Van Poppel and Vincent Shavers Jr. split another. Owen Chambliss led us with seven tackles. Washington's first three quarters added up to one 50-yard field goal.\n\nOur only touchdown was a beauty. Backed up at our own 5, we went 95 yards in 10 plays. Jamal Rule ripped off a 16-yarder, Mekhi Nelson ran for 19, and Anthony Colandrea dropped a 24-yard touchdown throw on Carter Nelson with 1:40 left in the first quarter. Rule finished with 72 yards on 13 carries, and Jacory Barney Jr. was everywhere: six catches for 65 yards, four punt returns for 46 and a 37-yard kick return.\n\nNow the part I'd rather spike into the floor. Colandrea was intercepted on each of our first two drives, at the Washington 8 and the Washington 30. Early in the fourth, Barney's 31-yard catch put us at their 5. A delay of game, two incompletions and an 8-yard sack later, the 36-yard field goal try missed. That was the night, right there.\n\nWashington went 81 yards in 12 plays, and even after our rush sacked Demond Williams Jr. twice in four snaps, he found Chris Lawson for a 25-yard touchdown with 1:30 left. Two snaps into our answer, Alex McLaughlin intercepted Colandrea and ran it back 48 yards. John Hohl's 42-yard field goal made it 17-10 with 31 seconds left. We outgained them 387 yards to 267 and turned it over three times to their zero. That math doesn't win Big Ten games.\n\nWe're 5-3 and 2-3 in the Big Ten, and three of our losses have come by a combined 13 points. Friday, Nov. 6, we're at Illinois. Those people in black deserved better tonight. Now go win one for them. Go Big Red!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Washington 17, Nebraska 10, and that one is going to sit in my stomach longer than the Halloween candy they handed kids at the Cornhusker Kickoff in the Hawks Center. It was our Blackout game, the first Halloween game in Lincoln since 1998, and Memorial Stadium in black watched a 7-3 lead hold into the final two minutes before it got away."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit first, because a farm girl pays her debts. The Blackshirts were nasty. Washington ran 19 times for 32 yards. Kade Pietrzak dropped Elijah Brown for a 10-yard loss, Jahsear Whittington and Mason Goldman each had a sack, and Riley Van Poppel and Vincent Shavers Jr. split another. Owen Chambliss led us with seven tackles. Washington's first three quarters added up to one 50-yard field goal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our only touchdown was a beauty. Backed up at our own 5, we went 95 yards in 10 plays. Jamal Rule ripped off a 16-yarder, Mekhi Nelson ran for 19, and Anthony Colandrea dropped a 24-yard touchdown throw on Carter Nelson with 1:40 left in the first quarter. Rule finished with 72 yards on 13 carries, and Jacory Barney Jr. was everywhere: six catches for 65 yards, four punt returns for 46 and a 37-yard kick return."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the part I'd rather spike into the floor. Colandrea was intercepted on each of our first two drives, at the Washington 8 and the Washington 30. Early in the fourth, Barney's 31-yard catch put us at their 5. A delay of game, two incompletions and an 8-yard sack later, the 36-yard field goal try missed. That was the night, right there."
+        },
+        {
+          "type": "paragraph",
+          "text": "Washington went 81 yards in 12 plays, and even after our rush sacked Demond Williams Jr. twice in four snaps, he found Chris Lawson for a 25-yard touchdown with 1:30 left. Two snaps into our answer, Alex McLaughlin intercepted Colandrea and ran it back 48 yards. John Hohl's 42-yard field goal made it 17-10 with 31 seconds left. We outgained them 387 yards to 267 and turned it over three times to their zero. That math doesn't win Big Ten games."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 5-3 and 2-3 in the Big Ten, and three of our losses have come by a combined 13 points. Friday, Nov. 6, we're at Illinois. Those people in black deserved better tonight. Now go win one for them. Go Big Red!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Washington beat Nebraska 17-10 at Memorial Stadium on Halloween night, Nebraska's Blackout game. The Cornhuskers are 5-3 and 2-3 in the Big Ten."
+        },
+        {
+          "type": "fact",
+          "text": "Anthony Colandrea threw a 24-yard touchdown to Carter Nelson and finished 24 of 44 for 255 yards with three interceptions."
+        },
+        {
+          "type": "fact",
+          "text": "Nebraska outgained Washington 387 yards to 267 and held the Huskies to 32 rushing yards, but turned it over three times to zero for Washington."
+        },
+        {
+          "type": "jab",
+          "text": "Washington ran for 32 yards. The Blackshirts did their job; three interceptions gave the rest away."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Washington 17, Nebraska 10 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858504"
+        },
+        {
+          "label": "ESPN play-by-play, Washington at Nebraska",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858504"
+        },
+        {
+          "label": "KOLN 10/11: First Halloween game in Lincoln since 1998, what to know before Nebraska hosts Washington",
+          "url": "https://www.1011now.com/2026/10/30/first-halloween-game-lincoln-since-1998-what-know-before-nebraska-hosts-washington/"
+        },
+        {
+          "label": "KETV: Nebraska football falls to Washington (second annual Blackout game)",
+          "url": "https://www.ketv.com/article/nebraska-falls-to-washington/74304071"
+        },
+        {
+          "label": "ESPN Nebraska schedule (next game: at Illinois, Fri., Nov. 6)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/158"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-washington",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "washington",
+      "team_ids": [
+        "washington"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858504",
+      "title": "Washington vs Nebraska: McLaughlin Seals Halloween Win 17-10",
+      "byline": "",
+      "matchup": "Final: Washington (5-3) 17, Nebraska (5-3) 10, Sat., Oct. 31, Memorial Stadium (Lincoln, NE), Lincoln. Next: vs. Penn State, Sat., Nov. 7, Husky Stadium, Seattle",
+      "date": "2026-10-31",
+      "word_count": 396,
+      "text": "Washington 17, Nebraska 10, and I am rowing home from Lincoln on pure adrenaline. Back in Seattle, U Village merchants spent Halloween Saturday handing out treats to trick-or-treaters. In Memorial Stadium, wrapped in black for Nebraska's Blackout game, the Huskies took the treat with 1:30 left and then grabbed a second helping 15 seconds later.\n\nLet me be honest about the first three quarters, because this boat doesn't float on fibs. Our offense ran 19 times for 32 yards. Elijah Brown went 19 of 30 for 136 yards and got sacked twice, which no coxswain would allow. Nebraska went 95 yards on a 10-play drive in the first quarter and Anthony Colandrea hit Carter Nelson for a 24-yard touchdown. Tyler Robles drilled a 50-yard field goal with 41 seconds left in the half, and it sat 7-3 until deep in the fourth.\n\nThe defense kept us in the water all night. Rylon Dillard-Allen intercepted Colandrea at our 8 on Nebraska's opening drive and ran it back 20 yards. On Nebraska's next drive, Emmanuel Karnley intercepted him again at our 30. Early in the fourth quarter, Nebraska had first-and-goal at our 5, then a delay of game, two incompletions and Derek Colman-Brusa's 8-yard sack. The 36-yard field goal try missed. Zaydrius Rainey-Sale finished with 10 tackles and a sack.\n\nThen Demond Williams Jr. took the oar. Starting from our 14 after a false start, he ran for 17 yards, found Chris Lawson for 22, and shook off two Blackshirt sacks in four snaps. With 1:30 left, he hit Lawson for a 25-yard touchdown. 10-7, Washington. Lawson caught 12 balls for 155 yards. That man earned a seat in the lead boat.\n\nOn Nebraska's next snap after an 11-yard catch, Alex McLaughlin jumped a Colandrea throw at the Nebraska 48 and ran it all the way back. Forty-eight yards, touchdown, 17-7 with 1:15 to go. A 42-yard field goal from John Hohl made it 17-10, and that was it. Hunter Green punted eight times for a 48.9-yard average with five inside the 20, the quiet hero of a long, muddy row.\n\nZero turnovers for us, three interceptions for Nebraska, and a Halloween win in a sea of black. We're 5-3, 2-3 in the Big Ten and 2-1 on the road. Penn State comes to Husky Stadium on Saturday, Nov. 7, and I'm sailing in. Bow Down to Washington!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Washington 17, Nebraska 10, and I am rowing home from Lincoln on pure adrenaline. Back in Seattle, U Village merchants spent Halloween Saturday handing out treats to trick-or-treaters. In Memorial Stadium, wrapped in black for Nebraska's Blackout game, the Huskies took the treat with 1:30 left and then grabbed a second helping 15 seconds later."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let me be honest about the first three quarters, because this boat doesn't float on fibs. Our offense ran 19 times for 32 yards. Elijah Brown went 19 of 30 for 136 yards and got sacked twice, which no coxswain would allow. Nebraska went 95 yards on a 10-play drive in the first quarter and Anthony Colandrea hit Carter Nelson for a 24-yard touchdown. Tyler Robles drilled a 50-yard field goal with 41 seconds left in the half, and it sat 7-3 until deep in the fourth."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense kept us in the water all night. Rylon Dillard-Allen intercepted Colandrea at our 8 on Nebraska's opening drive and ran it back 20 yards. On Nebraska's next drive, Emmanuel Karnley intercepted him again at our 30. Early in the fourth quarter, Nebraska had first-and-goal at our 5, then a delay of game, two incompletions and Derek Colman-Brusa's 8-yard sack. The 36-yard field goal try missed. Zaydrius Rainey-Sale finished with 10 tackles and a sack."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Demond Williams Jr. took the oar. Starting from our 14 after a false start, he ran for 17 yards, found Chris Lawson for 22, and shook off two Blackshirt sacks in four snaps. With 1:30 left, he hit Lawson for a 25-yard touchdown. 10-7, Washington. Lawson caught 12 balls for 155 yards. That man earned a seat in the lead boat."
+        },
+        {
+          "type": "paragraph",
+          "text": "On Nebraska's next snap after an 11-yard catch, Alex McLaughlin jumped a Colandrea throw at the Nebraska 48 and ran it all the way back. Forty-eight yards, touchdown, 17-7 with 1:15 to go. A 42-yard field goal from John Hohl made it 17-10, and that was it. Hunter Green punted eight times for a 48.9-yard average with five inside the 20, the quiet hero of a long, muddy row."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zero turnovers for us, three interceptions for Nebraska, and a Halloween win in a sea of black. We're 5-3, 2-3 in the Big Ten and 2-1 on the road. Penn State comes to Husky Stadium on Saturday, Nov. 7, and I'm sailing in. Bow Down to Washington!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Washington beat Nebraska 17-10 on Saturday, Oct. 31, at Memorial Stadium in Lincoln. The Huskies are 5-3 and 2-3 in the Big Ten."
+        },
+        {
+          "type": "fact",
+          "text": "Demond Williams Jr. hit Chris Lawson for a 25-yard touchdown with 1:30 left, and Lawson finished with 12 catches for 155 yards."
+        },
+        {
+          "type": "fact",
+          "text": "Alex McLaughlin returned an interception 48 yards for a touchdown with 1:15 left, one of three Washington interceptions."
+        },
+        {
+          "type": "jab",
+          "text": "Nebraska dressed the whole stadium in black. We showed up as the ghosts of the fourth quarter."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Washington 17, Nebraska 10 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858504"
+        },
+        {
+          "label": "ESPN play-by-play, Washington at Nebraska",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858504"
+        },
+        {
+          "label": "University Village: Halloween Candy at U Village, Sat., Oct. 31, 2026",
+          "url": "https://uvillage.com/2026/10/20/halloween-candy-at-u-village/"
+        },
+        {
+          "label": "KETV: Nebraska football falls to Washington (Blackout game)",
+          "url": "https://www.ketv.com/article/nebraska-falls-to-washington/74304071"
+        },
+        {
+          "label": "ESPN Washington schedule (next game: vs. Penn State, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/264"
         }
       ],
       "sources_display": "button",
