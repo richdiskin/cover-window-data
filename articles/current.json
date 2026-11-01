@@ -4,7 +4,7 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 180,
+  "count": 196,
   "lead_id": "fanatic_team-indiana",
   "articles": [
     {
@@ -4300,6 +4300,1458 @@
         {
           "label": "ESPN Auburn schedule (next game: vs. Arkansas, Sat., Nov. 7)",
           "url": "https://www.espn.com/college-football/team/schedule/_/id/2"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-penn-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "penn-state",
+      "team_ids": [
+        "penn-state"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858506",
+      "title": "Penn State vs Purdue: Wallace, Hansen Run Lions Past Boilers 31-17",
+      "byline": "",
+      "matchup": "Final: Penn State (4-4) 31, Purdue (3-5) 17, Sat., Oct. 31, Beaver Stadium, University Park. Next: at Washington, Sat., Nov. 7, Husky Stadium, Seattle",
+      "date": "2026-10-31",
+      "word_count": 331,
+      "text": "Penn State 31, Purdue 17, and on All-U Day, with Commonwealth Campus students set for the halftime spotlight at Beaver Stadium, the Nittany Lions gave every campus something to cheer about. It is our first Big Ten win of the season, and it snapped a four-game losing streak. We Are!\n\nFormer setter talking here: this was a game about getting the ball to the right hitters, and Rocco Becht kept setting up his runners. Cam Wallace ran 22 times for 135 yards and a touchdown, including a 48-yard burst that set up Becht's own 6-yard touchdown run. Carson Hansen added 96 yards and a 1-yard score on fourth-and-goal. We ran 51 times for 269 yards and held the ball for 43:27.\n\nThe opening drive told you everything: 12 plays, 96 yards, capped by Becht's 4-yard touchdown throw to Andrew Rappleyea. Becht finished 16 of 24 for 175 yards, and Benjamin Brahmer caught four balls for 58, including a 33-yarder on the 85-yard drive that ended with Wallace scoring from 2 out for a 31-14 lead.\n\nNow the Creamery Rankings. This defense was a big scoop of Death by Chocolate today. Purdue had 175 yards, nine first downs and 33 rushing yards. Jamison Patton and Jeremiah Cooper each intercepted Ryan Browne, Yvan Kemajou got a sack, and Patton's interception set up Ryan Barker's 44-yard field goal for a 24-14 lead.\n\nHonest part, because I don't sell melted ice cream. Purdue blocked one of our punts and Jalil Hall returned it 31 yards for a touchdown toward our Halloween-decorated student section, which tied it 14-14. Xavier Townsend beat us for a 33-yard score. Barker also missed two field goals. Those mistakes have to go before Seattle.\n\nStill, 12 straight wins over Purdue, and a team that went 3 for 3 on fourth down. That is a group that kept swinging.\n\nWe're 4-4, 1-4 in the Big Ten and 3-2 at home. Next up: at Washington, Saturday, Nov. 7, at Husky Stadium in Seattle.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Penn State 31, Purdue 17, and on All-U Day, with Commonwealth Campus students set for the halftime spotlight at Beaver Stadium, the Nittany Lions gave every campus something to cheer about. It is our first Big Ten win of the season, and it snapped a four-game losing streak. We Are!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Former setter talking here: this was a game about getting the ball to the right hitters, and Rocco Becht kept setting up his runners. Cam Wallace ran 22 times for 135 yards and a touchdown, including a 48-yard burst that set up Becht's own 6-yard touchdown run. Carson Hansen added 96 yards and a 1-yard score on fourth-and-goal. We ran 51 times for 269 yards and held the ball for 43:27."
+        },
+        {
+          "type": "paragraph",
+          "text": "The opening drive told you everything: 12 plays, 96 yards, capped by Becht's 4-yard touchdown throw to Andrew Rappleyea. Becht finished 16 of 24 for 175 yards, and Benjamin Brahmer caught four balls for 58, including a 33-yarder on the 85-yard drive that ended with Wallace scoring from 2 out for a 31-14 lead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the Creamery Rankings. This defense was a big scoop of Death by Chocolate today. Purdue had 175 yards, nine first downs and 33 rushing yards. Jamison Patton and Jeremiah Cooper each intercepted Ryan Browne, Yvan Kemajou got a sack, and Patton's interception set up Ryan Barker's 44-yard field goal for a 24-14 lead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Honest part, because I don't sell melted ice cream. Purdue blocked one of our punts and Jalil Hall returned it 31 yards for a touchdown toward our Halloween-decorated student section, which tied it 14-14. Xavier Townsend beat us for a 33-yard score. Barker also missed two field goals. Those mistakes have to go before Seattle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Still, 12 straight wins over Purdue, and a team that went 3 for 3 on fourth down. That is a group that kept swinging."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 4-4, 1-4 in the Big Ten and 3-2 at home. Next up: at Washington, Saturday, Nov. 7, at Husky Stadium in Seattle."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Penn State beat Purdue 31-17 on Saturday, Oct. 31, at Beaver Stadium for its first Big Ten win of the season."
+        },
+        {
+          "type": "fact",
+          "text": "Cam Wallace ran for 135 yards and a touchdown, and Carson Hansen added 96 yards and a touchdown."
+        },
+        {
+          "type": "fact",
+          "text": "Penn State ran for 269 yards, held the ball for 43:27 and intercepted Ryan Browne twice."
+        },
+        {
+          "type": "jab",
+          "text": "Twelve straight over Purdue. Washington is next."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Penn State 31, Purdue 17 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858506"
+        },
+        {
+          "label": "ESPN play-by-play, Purdue at Penn State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858506"
+        },
+        {
+          "label": "Penn State Athletics official box score, Football vs Purdue (Oct. 31, 2026)",
+          "url": "https://gopsusports.com/boxscore/19023"
+        },
+        {
+          "label": "Penn State Athletics: 2026 Penn State Football Game Themes Announced (All-U Day vs Purdue)",
+          "url": "https://gopsusports.com/news/2026/08/25/2026-penn-state-football-game-themes-announced"
+        },
+        {
+          "label": "ESPN Penn State schedule (next game: at Washington, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/213"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-purdue",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "purdue",
+      "team_ids": [
+        "purdue"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858506",
+      "title": "Purdue vs Penn State: Boilers Tie It, Then Fade at Beaver 31-17",
+      "byline": "",
+      "matchup": "Final: Penn State (4-4) 31, Purdue (3-5) 17, Sat., Oct. 31, Beaver Stadium, University Park. Next: vs. Maryland, Sat., Nov. 7, Ross-Ade Stadium, West Lafayette",
+      "date": "2026-10-31",
+      "word_count": 353,
+      "text": "Penn State 31, Purdue 17. West Lafayette set its trick-or-treat hours for 6 to 8 p.m. on Halloween, and by the end of this one I was ready to hand out every piece of candy in the house just to think about something else. The Boilermakers hung with Penn State for a half in Beaver Stadium, then ran out of fuel.\n\nLet me open the Blueprint, because the first half had real engineering in it. After Penn State scored on its opening drive, Ryan Browne hit Asaad Waseem for 38 yards and then Xavier Townsend for a 33-yard touchdown. Four plays, 75 yards, tied 7-7. In the second quarter, Bisi Owens blocked a Penn State punt and Jalil Hall scooped it up and ran 31 yards for the score that tied it 14-14. That was the best special teams play we have made all year.\n\nThen the design flaw showed up. Penn State ran 51 times for 269 yards and held the ball for 43:27. Its 15-play drive before the half ended with a 1-yard touchdown on fourth down, and in the third quarter Jamison Patton intercepted Browne to set up a field goal. Cam Wallace finished with 135 rushing yards. You cannot build a machine that only runs for 16 minutes.\n\nOur defense spent all night on the field and still fought. Justin Denson made 15 tackles, Jojo Hayden made 10, and Curt Neal had two sacks. Jacobo Echeverria Lozano hit a 49-yarder in the fourth quarter after Browne converted a fourth down with a 24-yard throw.\n\nThe honest numbers are ugly. We finished with 175 yards, nine first downs and 33 rushing yards. Browne went 10 of 29 for 142 yards with a touchdown and two interceptions. Penn State has now won 12 straight in this series, and we have not beaten them since 2004.\n\nMy model Boilermaker Special has a cracked wheel tonight. I'll fix it in the garage this week, same as this team needs to fix its run game.\n\nWe're 3-5 and 2-3 in the Big Ten. Maryland comes to Ross-Ade Stadium on Saturday, Nov. 7. Boiler up!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Penn State 31, Purdue 17. West Lafayette set its trick-or-treat hours for 6 to 8 p.m. on Halloween, and by the end of this one I was ready to hand out every piece of candy in the house just to think about something else. The Boilermakers hung with Penn State for a half in Beaver Stadium, then ran out of fuel."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let me open the Blueprint, because the first half had real engineering in it. After Penn State scored on its opening drive, Ryan Browne hit Asaad Waseem for 38 yards and then Xavier Townsend for a 33-yard touchdown. Four plays, 75 yards, tied 7-7. In the second quarter, Bisi Owens blocked a Penn State punt and Jalil Hall scooped it up and ran 31 yards for the score that tied it 14-14. That was the best special teams play we have made all year."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the design flaw showed up. Penn State ran 51 times for 269 yards and held the ball for 43:27. Its 15-play drive before the half ended with a 1-yard touchdown on fourth down, and in the third quarter Jamison Patton intercepted Browne to set up a field goal. Cam Wallace finished with 135 rushing yards. You cannot build a machine that only runs for 16 minutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our defense spent all night on the field and still fought. Justin Denson made 15 tackles, Jojo Hayden made 10, and Curt Neal had two sacks. Jacobo Echeverria Lozano hit a 49-yarder in the fourth quarter after Browne converted a fourth down with a 24-yard throw."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest numbers are ugly. We finished with 175 yards, nine first downs and 33 rushing yards. Browne went 10 of 29 for 142 yards with a touchdown and two interceptions. Penn State has now won 12 straight in this series, and we have not beaten them since 2004."
+        },
+        {
+          "type": "paragraph",
+          "text": "My model Boilermaker Special has a cracked wheel tonight. I'll fix it in the garage this week, same as this team needs to fix its run game."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 3-5 and 2-3 in the Big Ten. Maryland comes to Ross-Ade Stadium on Saturday, Nov. 7. Boiler up!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Penn State beat Purdue 31-17 on Saturday, Oct. 31, at Beaver Stadium. Purdue is 3-5 and 2-3 in the Big Ten."
+        },
+        {
+          "type": "fact",
+          "text": "Bisi Owens blocked a punt and Jalil Hall returned it 31 yards for a touchdown that tied the game 14-14."
+        },
+        {
+          "type": "fact",
+          "text": "Justin Denson made 15 tackles and Curt Neal had two sacks, but Purdue finished with 175 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Sixteen minutes with the ball will not build anything. Maryland is next."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Penn State 31, Purdue 17 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858506"
+        },
+        {
+          "label": "ESPN play-by-play, Purdue at Penn State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858506"
+        },
+        {
+          "label": "Penn State Athletics official box score, Football vs Purdue (Oct. 31, 2026)",
+          "url": "https://gopsusports.com/boxscore/19023"
+        },
+        {
+          "label": "WLFI: Trick-or-treating hours near you, West Lafayette (Oct. 29, 2026)",
+          "url": "https://www.wlfi.com/2026/10/29/ghosts-goblins-candy-heres-when-trick-or-treating-starts-near-you/"
+        },
+        {
+          "label": "ESPN Purdue schedule (next game: vs. Maryland, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2509"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ucla-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "ucla",
+      "team_ids": [
+        "ucla"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858508",
+      "title": "UCLA vs Nevada: Bruins Pitch Halloween Shutout, Go 8-0, 27-0",
+      "byline": "",
+      "matchup": "Final: UCLA (8-0) 27, Nevada (3-5) 0, Sat., Oct. 31, Rose Bowl, Pasadena. Next: at Minnesota, Sat., Nov. 7, Huntington Bank Stadium, Minneapolis",
+      "date": "2026-10-31",
+      "word_count": 320,
+      "text": "UCLA 27, Nevada 0, at the Rose Bowl, and we're 8-0 for the sixth time in program history and the first time since 2005. It was Halloween in Pasadena, with kids in costume trick-or-treating at the Court of Champions, and our defense showed up dressed as a horror movie. Three interceptions in the first quarter. Roll credits early.\n\nCold open: on Nevada's first snap, Scooter Jackson intercepts Luke Duncan, and Mateen Bhaghani turns it into a 26-yard field goal. Scene two: Jalen Woods intercepts Duncan at our 16. Scene three: Derrick Barksdale intercepts Duncan and takes it 26 yards to the end zone. 10-0 with 7:33 left in the first quarter. You can't storyboard it better than that.\n\nThe offense needed a few takes. Then Ty Dieffenbach directed a 10-play, 71-yard drive and finished it himself with a 4-yard run with 1:20 left in the half. In the third quarter he led a 13-play, 75-yard march and hit Wayne Knight from 12 for a 24-0 lead. Bhaghani added a 38-yarder in the fourth, and Ty Lee closed the show with a fourth interception and a 27-yard return with 45 seconds left.\n\nDieffenbach went 16 of 30 for 178 yards with zero turnovers. Knight ran 11 times for 53 yards on top of his touchdown catch, Jalen Saint Paul caught three balls for 52, and Semaj Morgan had five for 32. The defense held Nevada to 176 yards, 65 on the ground on 35 carries, and 5 of 16 on third down. Sahir West had nine tackles and 1.5 sacks, Aiden Gobaira had seven tackles, 1.5 sacks and three tackles for loss, and Trent Hendrick made eight stops.\n\nThat's a shutout, a defensive touchdown and an unbeaten record into November. Greenlit.\n\nWe're 8-0, 5-0 in the Big Ten. Next is Minnesota on Saturday, Nov. 7, at Huntington Bank Stadium in Minneapolis. Location shoot in the cold. Pack the parka. Go Bruins.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "UCLA 27, Nevada 0, at the Rose Bowl, and we're 8-0 for the sixth time in program history and the first time since 2005. It was Halloween in Pasadena, with kids in costume trick-or-treating at the Court of Champions, and our defense showed up dressed as a horror movie. Three interceptions in the first quarter. Roll credits early."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cold open: on Nevada's first snap, Scooter Jackson intercepts Luke Duncan, and Mateen Bhaghani turns it into a 26-yard field goal. Scene two: Jalen Woods intercepts Duncan at our 16. Scene three: Derrick Barksdale intercepts Duncan and takes it 26 yards to the end zone. 10-0 with 7:33 left in the first quarter. You can't storyboard it better than that."
+        },
+        {
+          "type": "paragraph",
+          "text": "The offense needed a few takes. Then Ty Dieffenbach directed a 10-play, 71-yard drive and finished it himself with a 4-yard run with 1:20 left in the half. In the third quarter he led a 13-play, 75-yard march and hit Wayne Knight from 12 for a 24-0 lead. Bhaghani added a 38-yarder in the fourth, and Ty Lee closed the show with a fourth interception and a 27-yard return with 45 seconds left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dieffenbach went 16 of 30 for 178 yards with zero turnovers. Knight ran 11 times for 53 yards on top of his touchdown catch, Jalen Saint Paul caught three balls for 52, and Semaj Morgan had five for 32. The defense held Nevada to 176 yards, 65 on the ground on 35 carries, and 5 of 16 on third down. Sahir West had nine tackles and 1.5 sacks, Aiden Gobaira had seven tackles, 1.5 sacks and three tackles for loss, and Trent Hendrick made eight stops."
+        },
+        {
+          "type": "paragraph",
+          "text": "That's a shutout, a defensive touchdown and an unbeaten record into November. Greenlit."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 8-0, 5-0 in the Big Ten. Next is Minnesota on Saturday, Nov. 7, at Huntington Bank Stadium in Minneapolis. Location shoot in the cold. Pack the parka. Go Bruins."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "UCLA beat Nevada 27-0 on Saturday, Oct. 31, at the Rose Bowl. The Bruins are 8-0 and 5-0 in the Big Ten."
+        },
+        {
+          "type": "fact",
+          "text": "The defense intercepted four throws, three in the first quarter, and Derrick Barksdale returned one 26 yards for a touchdown."
+        },
+        {
+          "type": "fact",
+          "text": "Ty Dieffenbach ran for one touchdown and threw a 12-yard score to Wayne Knight; UCLA had no turnovers."
+        },
+        {
+          "type": "jab",
+          "text": "Sequel shoots in Minneapolis next Saturday. Same ending."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, UCLA 27, Nevada 0 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858508"
+        },
+        {
+          "label": "ESPN play-by-play, Nevada at UCLA",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858508"
+        },
+        {
+          "label": "AP game recap, Nevada at UCLA (Oct. 31, 2026)",
+          "url": "https://apnews.com/article/nevada-ucla-football-score-e1af394923f96f906d939acf89321d88"
+        },
+        {
+          "label": "UCLA Athletics: Gameday Information, UCLA vs. Nevada (Halloween trick-or-treating, Court of Champions)",
+          "url": "https://uclabruins.com/news/2026/10/29/gameday-information-ucla-vs-nevada"
+        },
+        {
+          "label": "ESPN UCLA schedule (next game: at Minnesota, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/26"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-nevada-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "nevada",
+      "team_ids": [
+        "nevada"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401858508",
+      "title": "Nevada vs UCLA: Wolf Pack Shut Out at the Rose Bowl, Fall 27-0",
+      "byline": "",
+      "matchup": "Final: UCLA (8-0) 27, Nevada (3-5) 0, Sat., Oct. 31, Rose Bowl, Pasadena. Next: vs. New Mexico, Fri., Nov. 6, Mackay Stadium, Reno",
+      "date": "2026-10-31",
+      "word_count": 346,
+      "text": "UCLA 27, Nevada 0, at the Rose Bowl, and this was a powder day that went sideways before the first chair loaded. Back home in Reno, Reno Public Market on Plumb Lane opened its food hall to trick-or-treaters from 4 to 7 on Halloween, kids in costume working the vendor stalls. The Pack went trick-or-treating in Pasadena and came home with an empty bag.\n\nOn our first snap of the day, Scooter Jackson intercepted Luke Duncan at our 30, and UCLA kicked a 26-yard field goal. Our next drive reached the UCLA 16 before Jalen Woods intercepted Duncan there. One drive later, Derrick Barksdale intercepted Duncan and ran it back 26 yards for a touchdown. Three interceptions, and 7:33 still left in the first quarter. 10-0.\n\nCredit the defense for digging in after that. UCLA's next three drives ended in punts. Ty Dieffenbach finally ran it in from the 4 with 1:20 left in the half, and Mateen Bhaghani missed from 51 at the gun. 17-0.\n\nThe third quarter is where we needed a turn and never got it. UCLA went 13 plays and 75 yards, Dieffenbach throwing 12 yards to Wayne Knight. We answered with a 10-play drive, and Joe McFadden missed from 48. Bhaghani hit from 38 in the fourth, and Ty Lee intercepted Reeve Slone with 45 seconds left.\n\nThe defense kept us upright. EJ Smith made nine tackles, Larry Turner-Gooden had eight and broke up two throws, and Dylan LaBarbera shared a sack and broke up two more. UCLA finished with 303 yards. Ewan Baulch punted five times for a 44.4 average. But we threw four interceptions, ran 35 times for 65 yards and finished with 176 yards and 10 first downs. Marshaun Brown caught three balls for 51 yards, and AJ Bianco went 6 of 13 for 71.\n\nSome days the mountain wins. You pack it in, wax the board and come back meaner.\n\nWe're 3-5, 2-2 in the Mountain West. New Mexico comes to Mackay Stadium on Friday night, Nov. 6, and Reno gets its own team back. Go Pack.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "UCLA 27, Nevada 0, at the Rose Bowl, and this was a powder day that went sideways before the first chair loaded. Back home in Reno, Reno Public Market on Plumb Lane opened its food hall to trick-or-treaters from 4 to 7 on Halloween, kids in costume working the vendor stalls. The Pack went trick-or-treating in Pasadena and came home with an empty bag."
+        },
+        {
+          "type": "paragraph",
+          "text": "On our first snap of the day, Scooter Jackson intercepted Luke Duncan at our 30, and UCLA kicked a 26-yard field goal. Our next drive reached the UCLA 16 before Jalen Woods intercepted Duncan there. One drive later, Derrick Barksdale intercepted Duncan and ran it back 26 yards for a touchdown. Three interceptions, and 7:33 still left in the first quarter. 10-0."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit the defense for digging in after that. UCLA's next three drives ended in punts. Ty Dieffenbach finally ran it in from the 4 with 1:20 left in the half, and Mateen Bhaghani missed from 51 at the gun. 17-0."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter is where we needed a turn and never got it. UCLA went 13 plays and 75 yards, Dieffenbach throwing 12 yards to Wayne Knight. We answered with a 10-play drive, and Joe McFadden missed from 48. Bhaghani hit from 38 in the fourth, and Ty Lee intercepted Reeve Slone with 45 seconds left."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense kept us upright. EJ Smith made nine tackles, Larry Turner-Gooden had eight and broke up two throws, and Dylan LaBarbera shared a sack and broke up two more. UCLA finished with 303 yards. Ewan Baulch punted five times for a 44.4 average. But we threw four interceptions, ran 35 times for 65 yards and finished with 176 yards and 10 first downs. Marshaun Brown caught three balls for 51 yards, and AJ Bianco went 6 of 13 for 71."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some days the mountain wins. You pack it in, wax the board and come back meaner."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 3-5, 2-2 in the Mountain West. New Mexico comes to Mackay Stadium on Friday night, Nov. 6, and Reno gets its own team back. Go Pack."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "UCLA beat Nevada 27-0 on Saturday, Oct. 31, at the Rose Bowl in Pasadena. The Wolf Pack are 3-5 and 2-2 in the Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "Nevada threw three interceptions in the first quarter, one returned 26 yards for a touchdown by Derrick Barksdale, and four in the game."
+        },
+        {
+          "type": "fact",
+          "text": "EJ Smith made nine tackles and Larry Turner-Gooden eight; Nevada finished with 176 yards and 10 first downs."
+        },
+        {
+          "type": "jab",
+          "text": "New Mexico gets Mackay on a Friday night. We owe somebody."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, UCLA 27, Nevada 0 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858508"
+        },
+        {
+          "label": "ESPN play-by-play, Nevada at UCLA",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858508"
+        },
+        {
+          "label": "AP game recap, Nevada at UCLA (Oct. 31, 2026)",
+          "url": "https://apnews.com/article/nevada-ucla-football-score-e1af394923f96f906d939acf89321d88"
+        },
+        {
+          "label": "Reno Public Market: Saturday Trick-or-Treat (Oct. 31, 2026)",
+          "url": "https://www.renopublicmarket.com/events/saturday-trick-or-treat-at-reno-public-market"
+        },
+        {
+          "label": "ESPN Nevada schedule (next game: vs. New Mexico, Fri., Nov. 6)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2440"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-tcu-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "tcu",
+      "team_ids": [
+        "tcu"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856845",
+      "title": "TCU vs Kansas: Jaden Craig Leads Frogs Back From 13-0, Win 22-16",
+      "byline": "",
+      "matchup": "Final: TCU (4-4) 22, Kansas (3-5) 16, Sat., Oct. 31, Amon G. Carter Stadium, Fort Worth. Next: at Arizona, Fri., Nov. 6, Casino Del Sol Stadium, Tucson",
+      "date": "2026-10-31",
+      "word_count": 373,
+      "text": "TCU 22, Kansas 16, and the Haunting at the Carter lived up to the name. The Frogs blacked out Amon G. Carter Stadium for their first home game on Halloween since 2009, and for one half it felt like the lights went out on us, too. Then the second half came, and we scared the Jayhawks out of Fort Worth.\n\nNo excuses for the first 30 minutes. We punted seven times in our first eight possessions, Kansas led 13-0 at the break, and we got stopped inside the Kansas 1 with three seconds left in the half. That was the first time since the 2018 Cheez-It Bowl that we went scoreless in a first half. Somebody up the road in Dallas was surely laughing.\n\nRunning a defense is like moving cattle: you lose a few strays early, but you keep the herd together and push. Kansas drove to our 2 in the third quarter, and our guys held on fourth-and-goal. A few minutes later, Max Carroll intercepted Cole Ballard on fourth down and ran 60 yards for a touchdown. Ace Theus broke a 28-yard touchdown run with 26 seconds left in the third, and we had our first lead at 14-13.\n\nKansas kicked ahead 16-14 with 4:59 left, after Jamel Johnson's 94-yard interception return was wiped out by a flag. That is when Jaden Craig grabbed this game by the horns. He led a 13-play, 84-yard drive, ran it in from 17 yards with 1:11 to go, and threw the two-point conversion to Jordan Dwyer. Ballard's last heave fell incomplete. Yeehaw!\n\nCraig threw for 141 yards and ran for 87 more on 15 carries. Johnson made 10 tackles, Kylin Jackson had two tackles for loss, Koron Hayward forced a fumble with a sack that Markis Deal recovered, and the defense piled up eight tackles for loss. John Hoyet Chance punted eight times and averaged 43.5 yards.\n\nHonest note: Kansas outgained us by 165 yards. But we finally won a one-score game after four losses by eight points or fewer, and we outscored Kansas 22-3 after halftime.\n\nWe're 4-4, 2-3 in the Big 12 and 3-2 at home. Next up: at Arizona, Friday, Nov. 6, at Casino Del Sol Stadium in Tucson. Go Frogs.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "TCU 22, Kansas 16, and the Haunting at the Carter lived up to the name. The Frogs blacked out Amon G. Carter Stadium for their first home game on Halloween since 2009, and for one half it felt like the lights went out on us, too. Then the second half came, and we scared the Jayhawks out of Fort Worth."
+        },
+        {
+          "type": "paragraph",
+          "text": "No excuses for the first 30 minutes. We punted seven times in our first eight possessions, Kansas led 13-0 at the break, and we got stopped inside the Kansas 1 with three seconds left in the half. That was the first time since the 2018 Cheez-It Bowl that we went scoreless in a first half. Somebody up the road in Dallas was surely laughing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Running a defense is like moving cattle: you lose a few strays early, but you keep the herd together and push. Kansas drove to our 2 in the third quarter, and our guys held on fourth-and-goal. A few minutes later, Max Carroll intercepted Cole Ballard on fourth down and ran 60 yards for a touchdown. Ace Theus broke a 28-yard touchdown run with 26 seconds left in the third, and we had our first lead at 14-13."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kansas kicked ahead 16-14 with 4:59 left, after Jamel Johnson's 94-yard interception return was wiped out by a flag. That is when Jaden Craig grabbed this game by the horns. He led a 13-play, 84-yard drive, ran it in from 17 yards with 1:11 to go, and threw the two-point conversion to Jordan Dwyer. Ballard's last heave fell incomplete. Yeehaw!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Craig threw for 141 yards and ran for 87 more on 15 carries. Johnson made 10 tackles, Kylin Jackson had two tackles for loss, Koron Hayward forced a fumble with a sack that Markis Deal recovered, and the defense piled up eight tackles for loss. John Hoyet Chance punted eight times and averaged 43.5 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Honest note: Kansas outgained us by 165 yards. But we finally won a one-score game after four losses by eight points or fewer, and we outscored Kansas 22-3 after halftime."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 4-4, 2-3 in the Big 12 and 3-2 at home. Next up: at Arizona, Friday, Nov. 6, at Casino Del Sol Stadium in Tucson. Go Frogs."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "TCU beat Kansas 22-16 on Saturday, Oct. 31, at the Haunting at the Carter after trailing 13-0 at halftime."
+        },
+        {
+          "type": "fact",
+          "text": "Max Carroll returned an interception 60 yards for a touchdown, and Ace Theus scored on a 28-yard run for TCU's first lead."
+        },
+        {
+          "type": "fact",
+          "text": "Jaden Craig ran for the winning 17-yard touchdown with 1:11 left and threw the two-point conversion to Jordan Dwyer."
+        },
+        {
+          "type": "jab",
+          "text": "Kansas got the first half. We got the win."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, TCU 22, Kansas 16 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856845"
+        },
+        {
+          "label": "ESPN play-by-play, Kansas at TCU",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856845"
+        },
+        {
+          "label": "TCU Athletics official game center, Football vs Kansas (Oct. 31, 2026)",
+          "url": "https://gofrogs.com/game-center/20102"
+        },
+        {
+          "label": "TCU Athletics: TCU Hosts Kansas for the Haunting at the Carter (Oct. 29, 2026)",
+          "url": "https://gofrogs.com/news/2026/10/29/football-tcu-hosts-kansas-for-the-haunting-at-the-carter"
+        },
+        {
+          "label": "ESPN TCU schedule (next game: at Arizona, Fri., Nov. 6)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2628"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-kansas-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "kansas",
+      "team_ids": [
+        "kansas"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856845",
+      "title": "Kansas vs TCU: Jayhawks Lead 13-0, Fall Late in Fort Worth 22-16",
+      "byline": "",
+      "matchup": "Final: TCU (4-4) 22, Kansas (3-5) 16, Sat., Oct. 31, Amon G. Carter Stadium, Fort Worth. Next: vs. UCF, Sat., Nov. 7, David Booth Kansas Memorial Stadium, Lawrence",
+      "date": "2026-10-31",
+      "word_count": 386,
+      "text": "TCU 22, Kansas 16, and that one is going to haunt me longer than anything on Massachusetts Street tonight. Downtown Lawrence Trick or Treat ran from 5 to 8 p.m., thousands of us on Mass Street, and I spent most of it staring at my phone replaying a fourth quarter in Fort Worth.\n\nFor a half, the Jayhawks owned the place. Martin Connington kicked field goals from 34 and 42 yards, Keaton Kubecka ripped off a 40-yard run, and on the next snap Cole Ballard hit Cam Pickett for a 29-yard touchdown. Then our defense stopped TCU inside our 1 with three seconds left in the half. We went to the locker room up 13-0 with the Frogs held without a first-half point.\n\nHere is the Lawrence translation for my hoops friends: Kansas outgained TCU by 165 yards and held the ball for 38:57. In basketball terms, we owned the boards all night and lost on a late three. That is a very Kansas football sentence, and I hate typing it.\n\nThe third quarter turned on two plays. We drove 71 yards and got stopped on fourth-and-goal at the TCU 2, with Ballard a yard short. A few minutes later, on fourth down, Max Carroll intercepted Ballard and went 60 yards the other way. Ace Theus scored from 28 out with 26 seconds left in the quarter, and it was 14-13 TCU.\n\nWe answered. Nahzae Cox caught a 50-yard bomb, TCU's Jamel Johnson had a 94-yard interception return wiped out by an interference flag, and Connington hit from 27 for a 16-14 lead with 4:59 left. Then TCU went 84 yards in 13 plays, Jaden Craig ran it in from 17 and threw the two-point conversion, and our last drive went nowhere.\n\nCox finished with 145 yards on five catches. Pickett caught 10 for 113. Ballard threw for 285 yards and a touchdown, and Trey Lathan made seven tackles. But we lost the turnover battle, missed a 26-yard field goal and came away empty from the 2. Close is not a win, and we are now 0-6 in Fort Worth since TCU joined the Big 12.\n\nWe're 3-5 and 1-4 in the Big 12. UCF comes to David Booth Kansas Memorial Stadium on Saturday, Nov. 7. Rock Chalk, and somebody please win me a close one.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "TCU 22, Kansas 16, and that one is going to haunt me longer than anything on Massachusetts Street tonight. Downtown Lawrence Trick or Treat ran from 5 to 8 p.m., thousands of us on Mass Street, and I spent most of it staring at my phone replaying a fourth quarter in Fort Worth."
+        },
+        {
+          "type": "paragraph",
+          "text": "For a half, the Jayhawks owned the place. Martin Connington kicked field goals from 34 and 42 yards, Keaton Kubecka ripped off a 40-yard run, and on the next snap Cole Ballard hit Cam Pickett for a 29-yard touchdown. Then our defense stopped TCU inside our 1 with three seconds left in the half. We went to the locker room up 13-0 with the Frogs held without a first-half point."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here is the Lawrence translation for my hoops friends: Kansas outgained TCU by 165 yards and held the ball for 38:57. In basketball terms, we owned the boards all night and lost on a late three. That is a very Kansas football sentence, and I hate typing it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter turned on two plays. We drove 71 yards and got stopped on fourth-and-goal at the TCU 2, with Ballard a yard short. A few minutes later, on fourth down, Max Carroll intercepted Ballard and went 60 yards the other way. Ace Theus scored from 28 out with 26 seconds left in the quarter, and it was 14-13 TCU."
+        },
+        {
+          "type": "paragraph",
+          "text": "We answered. Nahzae Cox caught a 50-yard bomb, TCU's Jamel Johnson had a 94-yard interception return wiped out by an interference flag, and Connington hit from 27 for a 16-14 lead with 4:59 left. Then TCU went 84 yards in 13 plays, Jaden Craig ran it in from 17 and threw the two-point conversion, and our last drive went nowhere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cox finished with 145 yards on five catches. Pickett caught 10 for 113. Ballard threw for 285 yards and a touchdown, and Trey Lathan made seven tackles. But we lost the turnover battle, missed a 26-yard field goal and came away empty from the 2. Close is not a win, and we are now 0-6 in Fort Worth since TCU joined the Big 12."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 3-5 and 1-4 in the Big 12. UCF comes to David Booth Kansas Memorial Stadium on Saturday, Nov. 7. Rock Chalk, and somebody please win me a close one."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "TCU beat Kansas 22-16 on Saturday, Oct. 31, at Amon G. Carter Stadium. Kansas is 3-5 and 1-4 in the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "Kansas led 13-0 at halftime on two Martin Connington field goals and Cole Ballard's 29-yard touchdown to Cam Pickett."
+        },
+        {
+          "type": "fact",
+          "text": "Nahzae Cox caught five balls for 145 yards, and Kansas held the ball for 38:57."
+        },
+        {
+          "type": "jab",
+          "text": "We had the ball for most of the night. TCU had it last."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, TCU 22, Kansas 16 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856845"
+        },
+        {
+          "label": "ESPN play-by-play, Kansas at TCU",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856845"
+        },
+        {
+          "label": "TCU Athletics official game center, Football vs Kansas (Oct. 31, 2026)",
+          "url": "https://gofrogs.com/game-center/20102"
+        },
+        {
+          "label": "Lawrence Kids Calendar: Downtown Lawrence Trick or Treat (Oct. 31, 2026)",
+          "url": "https://www.lawrencekidscalendar.com/event-details/downtown-lawrence-trick-or-treat"
+        },
+        {
+          "label": "ESPN Kansas schedule (next game: vs. UCF, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2305"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-cincinnati-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "cincinnati",
+      "team_ids": [
+        "cincinnati"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856848",
+      "title": "Cincinnati vs Utah: Bearcats Buried Early on Halloween, 49-25",
+      "byline": "",
+      "matchup": "Final: Utah (8-0) 49, Cincinnati (5-3) 25, Sat., Oct. 31, Nippert Stadium, Cincinnati. Next: at Houston, Sat., Nov. 7, TDECU Stadium, Houston",
+      "date": "2026-10-31",
+      "word_count": 329,
+      "text": "Utah 49, Cincinnati 25, at Nippert Stadium, and this one goes down as plain spaghetti. No chili, no cheese, no onions. The program asked us to wear black for Breast Cancer Awareness and invited the kids to come in Halloween costumes, and Clifton showed up dressed for it. The stands looked right. The scoreboard did not.\n\nWe hung with them early. Stephen Rusnak hit from 47 to make it 7-3. Then Utah ran 13 yards for a score, and the second quarter got ugly: Gi'Bran Payne lost a fumble that Utah returned 51 yards for a touchdown, Rusnak missed from 35, and Daniel Bray ran 30 yards for another.\n\nWe caught a break when Bray fumbled the kickoff after Rusnak's 39-yarder, but Utah fell on it and went 95 yards anyway. Then JC French IV was intercepted and Elijah Davis took it 39 yards for six. 42-6 at the half, a week after we beat Texas Tech on our 100th Homecoming.\n\nThe third quarter was at least a three-way. Jacob Finley jumped a Devon Dampier throw at our 21 and ran 79 yards for a touchdown. Cole Tabb ripped off a 48-yard touchdown run. French ran in from the 2 early in the fourth. We won the second half, and nobody on Calhoun Street is handing out trophies for that.\n\nTabb ran 14 times for 131 yards. French went 16 of 30 for 263 yards. JV Gibson caught five balls for 76, and Malachi Henry had a 63-yard grab. Finley made 10 tackles on top of his touchdown, Antwan Peek Jr. had eight, and Patrick Bauer forced and recovered a fumble in the fourth. We put up 456 yards. Utah put up 534 and scored twice on defense.\n\nUtah is 8-0 for a reason. Credit to them, and now we get back to work.\n\nWe're 5-3, 2-3 in the Big 12. Next is a trip to Houston on Saturday, Nov. 7, at TDECU Stadium. Five-way or nothing. Go Bearcats.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Utah 49, Cincinnati 25, at Nippert Stadium, and this one goes down as plain spaghetti. No chili, no cheese, no onions. The program asked us to wear black for Breast Cancer Awareness and invited the kids to come in Halloween costumes, and Clifton showed up dressed for it. The stands looked right. The scoreboard did not."
+        },
+        {
+          "type": "paragraph",
+          "text": "We hung with them early. Stephen Rusnak hit from 47 to make it 7-3. Then Utah ran 13 yards for a score, and the second quarter got ugly: Gi'Bran Payne lost a fumble that Utah returned 51 yards for a touchdown, Rusnak missed from 35, and Daniel Bray ran 30 yards for another."
+        },
+        {
+          "type": "paragraph",
+          "text": "We caught a break when Bray fumbled the kickoff after Rusnak's 39-yarder, but Utah fell on it and went 95 yards anyway. Then JC French IV was intercepted and Elijah Davis took it 39 yards for six. 42-6 at the half, a week after we beat Texas Tech on our 100th Homecoming."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter was at least a three-way. Jacob Finley jumped a Devon Dampier throw at our 21 and ran 79 yards for a touchdown. Cole Tabb ripped off a 48-yard touchdown run. French ran in from the 2 early in the fourth. We won the second half, and nobody on Calhoun Street is handing out trophies for that."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tabb ran 14 times for 131 yards. French went 16 of 30 for 263 yards. JV Gibson caught five balls for 76, and Malachi Henry had a 63-yard grab. Finley made 10 tackles on top of his touchdown, Antwan Peek Jr. had eight, and Patrick Bauer forced and recovered a fumble in the fourth. We put up 456 yards. Utah put up 534 and scored twice on defense."
+        },
+        {
+          "type": "paragraph",
+          "text": "Utah is 8-0 for a reason. Credit to them, and now we get back to work."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 5-3, 2-3 in the Big 12. Next is a trip to Houston on Saturday, Nov. 7, at TDECU Stadium. Five-way or nothing. Go Bearcats."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Utah beat Cincinnati 49-25 on Saturday, Oct. 31, at Nippert Stadium. The Bearcats are 5-3 and 2-3 in the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "Jacob Finley returned an interception 79 yards for a touchdown, and Cole Tabb ran for 131 yards and a 48-yard score."
+        },
+        {
+          "type": "fact",
+          "text": "Utah led 42-6 at halftime after two defensive touchdowns and finished with 534 yards to Cincinnati's 456."
+        },
+        {
+          "type": "jab",
+          "text": "Plain spaghetti tonight. Houston gets the five-way."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Utah 49, Cincinnati 25 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856848"
+        },
+        {
+          "label": "ESPN play-by-play, Utah at Cincinnati",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856848"
+        },
+        {
+          "label": "Cincinnati Athletics: Cincinnati Hosts No. 6 Utah on Halloween",
+          "url": "https://gobearcats.com/news/2026/10/26/cincinnati-hosts-no-6-utah-on-halloween"
+        },
+        {
+          "label": "Cincinnati Athletics: Themes Announced for 2026 Home Games (Oct. 31: Wear Black, Breast Cancer Awareness)",
+          "url": "https://gobearcats.com/news/2026/07/14/themes-announced-for-2026-home-games"
+        },
+        {
+          "label": "ESPN Cincinnati schedule (next game: at Houston, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2132"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-utah-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "utah",
+      "team_ids": [
+        "utah"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856848",
+      "title": "Utah vs Cincinnati: Utes Bury Bearcats Early, Move to 8-0, 49-25",
+      "byline": "",
+      "matchup": "Final: Utah (8-0) 49, Cincinnati (5-3) 25, Sat., Oct. 31, Nippert Stadium, Cincinnati. Next: vs. BYU, Sat., Nov. 7, Rice-Eccles Stadium, Salt Lake City",
+      "date": "2026-10-31",
+      "word_count": 343,
+      "text": "Utah 49, Cincinnati 25, on Halloween at Nippert Stadium, and we're 8-0. Back home on the hill in Salt Lake City, Officers Hollow filled Officers Circle in Fort Douglas from noon to 3 with trick-or-treating, face painting and pumpkin carving, a U tradition since 2004. While those kids were carving pumpkins, our offense was carving up Cincinnati.\n\nClean run through the first gates. Devon Dampier found Hunter Andrews for a 4-yard touchdown, and after a Cincinnati field goal, Wayshawn Parker ran 13 yards for another with 14 seconds left in the first quarter. 14-3.\n\nThen the avalanche. Ethan Day forced a fumble, and Rabbit Evans scooped it and went 51 yards. Daniel Bray ran 30 for a score. Bray fumbled a kickoff at our 3, Nate Ritchie jumped on it, and we went 95 yards anyway, capped by Dampier's 3-yard touchdown throw to Bray. Then Elijah Davis intercepted JC French IV and ran it back 39 yards with 34 seconds left. 42-6 at the half. That's the whole mountain coming down.\n\nThe third quarter had one wipeout. Jacob Finley intercepted Dampier and ran it back 79 yards, and Cole Tabb broke a 48-yard touchdown run. Dampier answered with 28 seconds left in the third, a 59-yard strike to Andrews. 49-19. Cincinnati scored once more, and the gates were closed.\n\nDampier went 22 of 29 for 260 yards and ran for 45 more. Andrews caught five balls for 112 yards. Parker ran seven times for 82 with a 64-yard burst, and Bray had 75 on eight carries. We piled up 534 yards, 268 on the ground, converted 7 of 11 third downs and held the ball for 35:30. Kash Dillon and Ritchie made seven tackles each, and Karson Kaufusi and Elijah Reed got sacks.\n\nTwo defensive touchdowns, five offensive ones and one 79-yard crash we'll study on film. A racer takes that run every single Saturday.\n\nWe're 8-0, 5-0 in the Big 12 and 3-0 on the road. BYU comes to Rice-Eccles Stadium on Saturday, Nov. 7. Rivalry week in the Wasatch. Go Utes.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Utah 49, Cincinnati 25, on Halloween at Nippert Stadium, and we're 8-0. Back home on the hill in Salt Lake City, Officers Hollow filled Officers Circle in Fort Douglas from noon to 3 with trick-or-treating, face painting and pumpkin carving, a U tradition since 2004. While those kids were carving pumpkins, our offense was carving up Cincinnati."
+        },
+        {
+          "type": "paragraph",
+          "text": "Clean run through the first gates. Devon Dampier found Hunter Andrews for a 4-yard touchdown, and after a Cincinnati field goal, Wayshawn Parker ran 13 yards for another with 14 seconds left in the first quarter. 14-3."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the avalanche. Ethan Day forced a fumble, and Rabbit Evans scooped it and went 51 yards. Daniel Bray ran 30 for a score. Bray fumbled a kickoff at our 3, Nate Ritchie jumped on it, and we went 95 yards anyway, capped by Dampier's 3-yard touchdown throw to Bray. Then Elijah Davis intercepted JC French IV and ran it back 39 yards with 34 seconds left. 42-6 at the half. That's the whole mountain coming down."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter had one wipeout. Jacob Finley intercepted Dampier and ran it back 79 yards, and Cole Tabb broke a 48-yard touchdown run. Dampier answered with 28 seconds left in the third, a 59-yard strike to Andrews. 49-19. Cincinnati scored once more, and the gates were closed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dampier went 22 of 29 for 260 yards and ran for 45 more. Andrews caught five balls for 112 yards. Parker ran seven times for 82 with a 64-yard burst, and Bray had 75 on eight carries. We piled up 534 yards, 268 on the ground, converted 7 of 11 third downs and held the ball for 35:30. Kash Dillon and Ritchie made seven tackles each, and Karson Kaufusi and Elijah Reed got sacks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Two defensive touchdowns, five offensive ones and one 79-yard crash we'll study on film. A racer takes that run every single Saturday."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 8-0, 5-0 in the Big 12 and 3-0 on the road. BYU comes to Rice-Eccles Stadium on Saturday, Nov. 7. Rivalry week in the Wasatch. Go Utes."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Utah beat Cincinnati 49-25 on Saturday, Oct. 31, at Nippert Stadium. The Utes are 8-0 and 5-0 in the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "Utah led 42-6 at halftime with defensive touchdowns from Rabbit Evans on a 51-yard fumble return and Elijah Davis on a 39-yard interception return."
+        },
+        {
+          "type": "fact",
+          "text": "Devon Dampier went 22 of 29 for 260 yards, and Hunter Andrews caught five balls for 112 yards, including a 59-yard touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "BYU is next at Rice-Eccles. Bring a helmet."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Utah 49, Cincinnati 25 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856848"
+        },
+        {
+          "label": "ESPN play-by-play, Utah at Cincinnati",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856848"
+        },
+        {
+          "label": "AP: No. 6 Utah improves to 8-0 with 49-25 win over Cincinnati",
+          "url": "https://apnews.com/article/utah-cincinnati-score-a711f05301b7d9b0f7233e85230a69e8"
+        },
+        {
+          "label": "University of Utah College of Social Work: Officers Hollow Halloween Carnival (Oct. 31, 2026)",
+          "url": "https://socialwork.utah.edu/events/2026/officers-hollow-2026.php"
+        },
+        {
+          "label": "ESPN Utah schedule (next game: vs. BYU, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/254"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-wake-forest",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "wake-forest",
+      "team_ids": [
+        "wake-forest"
+      ],
+      "tab_id": "acc",
+      "game_id": "401858284",
+      "title": "Wake Forest vs Virginia: Deacons Roll the Cavaliers 51-7",
+      "byline": "",
+      "matchup": "Final: Wake Forest (7-1) 51, Virginia (4-5) 7, Sat., Oct. 31, Allegacy Federal Credit Union Stadium, Winston-Salem. Next: vs. Merrimack, Sat., Nov. 7, Allegacy Federal Credit Union Stadium, Winston-Salem",
+      "date": "2026-10-31",
+      "word_count": 369,
+      "text": "Wake Forest 51, Virginia 7. DEACTOWN dressed up for Halloween, with a pumpkin patch at Gate 5, the Golden Knights on the parachute schedule for the anthem and Thriller on the halftime bill for the Spirit of the Old Gold and Black. Then the Demon Deacons went out and scared the Cavaliers right out of Winston-Salem. Roll the Quad!\n\nResolved: this was the most complete game of the season. I will argue the affirmative. Exhibit A is the opening drive, set up by a 30-yard punt return from Kam Shanks and a 33-yard strike from Gio Lopez to Carlos Hernandez, finished by a 2-yard Ty Clark III touchdown. Exhibit B is Braylon Johnson's interception on a Virginia fourth down, which led to a 45-yard field goal from Connor Calvert. The defense rests? Hardly.\n\nClark scored three touchdowns, all on short runs. Lopez went 13 of 21 for 229 yards, hit Hernandez for a 10-yard score after a 64-yard Shanks punt return, and found Drayden Dickmann for 47 on another drive. Hernandez finished with eight catches for 136 yards. Calvert went 3 for 3 on field goals and 6 for 6 on extra points, good for 15 points by himself.\n\nExhibit C is the third quarter, when we outscored Virginia 24-7. Jamar Searcy broke a 55-yard run and finished the drive with a 7-yard score. Kyndall McCaleb added a 27-yard touchdown run in the fourth. We piled up 538 yards, ran for 309, went 9 of 14 on third down and did not turn it over once.\n\nRebuttal time, because a fair debater admits the other side's best point. Virginia's Da'Shawn Martin beat us for a 47-yard touchdown late in the third quarter, and that cost us the shutout. Still, our defense stood up on fourth-and-1 at our own 6, where Zach Lohavichan stuffed the run, and again on fourth-and-goal in the fourth quarter. Camden Hardy and Dallas Afalava each got a sack, and Virginia finished with 16 rushing yards.\n\nClosing argument: that is five straight wins, and the second-biggest margin we have ever put on Virginia in this series. I move that we keep winning. Motion carries.\n\nWe're 7-1. Merrimack comes to Winston-Salem on Saturday, Nov. 7. Go Deacs.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Wake Forest 51, Virginia 7. DEACTOWN dressed up for Halloween, with a pumpkin patch at Gate 5, the Golden Knights on the parachute schedule for the anthem and Thriller on the halftime bill for the Spirit of the Old Gold and Black. Then the Demon Deacons went out and scared the Cavaliers right out of Winston-Salem. Roll the Quad!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Resolved: this was the most complete game of the season. I will argue the affirmative. Exhibit A is the opening drive, set up by a 30-yard punt return from Kam Shanks and a 33-yard strike from Gio Lopez to Carlos Hernandez, finished by a 2-yard Ty Clark III touchdown. Exhibit B is Braylon Johnson's interception on a Virginia fourth down, which led to a 45-yard field goal from Connor Calvert. The defense rests? Hardly."
+        },
+        {
+          "type": "paragraph",
+          "text": "Clark scored three touchdowns, all on short runs. Lopez went 13 of 21 for 229 yards, hit Hernandez for a 10-yard score after a 64-yard Shanks punt return, and found Drayden Dickmann for 47 on another drive. Hernandez finished with eight catches for 136 yards. Calvert went 3 for 3 on field goals and 6 for 6 on extra points, good for 15 points by himself."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exhibit C is the third quarter, when we outscored Virginia 24-7. Jamar Searcy broke a 55-yard run and finished the drive with a 7-yard score. Kyndall McCaleb added a 27-yard touchdown run in the fourth. We piled up 538 yards, ran for 309, went 9 of 14 on third down and did not turn it over once."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rebuttal time, because a fair debater admits the other side's best point. Virginia's Da'Shawn Martin beat us for a 47-yard touchdown late in the third quarter, and that cost us the shutout. Still, our defense stood up on fourth-and-1 at our own 6, where Zach Lohavichan stuffed the run, and again on fourth-and-goal in the fourth quarter. Camden Hardy and Dallas Afalava each got a sack, and Virginia finished with 16 rushing yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Closing argument: that is five straight wins, and the second-biggest margin we have ever put on Virginia in this series. I move that we keep winning. Motion carries."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 7-1. Merrimack comes to Winston-Salem on Saturday, Nov. 7. Go Deacs."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Wake Forest beat Virginia 51-7 on Saturday, Oct. 31, in Winston-Salem for its fifth straight win and a 7-1 record."
+        },
+        {
+          "type": "fact",
+          "text": "Ty Clark III ran for three touchdowns, and Gio Lopez threw for 229 yards and a touchdown to Carlos Hernandez."
+        },
+        {
+          "type": "fact",
+          "text": "Connor Calvert made 3 of 3 field goals, Kam Shanks had 94 punt return yards, and Wake did not turn it over."
+        },
+        {
+          "type": "jab",
+          "text": "Thriller at halftime. Not much thrill for Virginia after it."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Wake Forest 51, Virginia 7 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858284"
+        },
+        {
+          "label": "ESPN play-by-play, Virginia at Wake Forest",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858284"
+        },
+        {
+          "label": "Wake Forest Athletics: DEACTOWN Halloween game-day guide (Oct. 31, 2026)",
+          "url": "https://app.godeacs.com/DEACTOWNHalloween"
+        },
+        {
+          "label": "ESPN Wake Forest schedule (next game: vs. Merrimack, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/154"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-virginia-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "virginia",
+      "team_ids": [
+        "virginia"
+      ],
+      "tab_id": "acc",
+      "game_id": "401858284",
+      "title": "Virginia vs Wake Forest: Cavaliers Run Over in Winston-Salem 51-7",
+      "byline": "",
+      "matchup": "Final: Wake Forest (7-1) 51, Virginia (4-5) 7, Sat., Oct. 31, Allegacy Federal Credit Union Stadium, Winston-Salem. Next: bye, then vs. California, Sat., Nov. 14, Scott Stadium, Charlottesville",
+      "date": "2026-10-31",
+      "word_count": 349,
+      "text": "Wake Forest 51, Virginia 7, and I will not dress it up. While the Lawn residents and some 70 student groups were handing out candy from the 54 Lawn rooms and the Range on the Grounds from 5 to 7 p.m., our Cavaliers were taking the worst trick of the night in Winston-Salem. Mr. Jefferson built a place for learning, and we learned plenty.\n\nThe trouble started on special teams and never left. Kam Shanks returned punts for 94 yards, including a 64-yarder that set up a touchdown. Ty Clark III scored three times on short runs, Connor Calvert made all three of his field goals, and the Deacons ran for 309 yards on 51 carries. We ran for 16 yards on 19 tries. That gap is the game.\n\nWe had our chances early. Braylon Johnson intercepted Beau Pribula on a fourth-down throw in the first quarter, and Calvert turned it into a 45-yarder. In the second quarter we drove 13 plays to the Wake 6 and came away empty when Zach Lohavichan stopped Xay Davis on fourth-and-1. We trailed 20-0 at the half, and we never got closer.\n\nThere were honest bright spots. Pribula threw for 212 yards on 20 of 29, and with 50 seconds left in the third quarter he found Da'Shawn Martin for a 47-yard touchdown. Martin finished with nine catches for 119 yards and kept fighting all night. Montino Williams made 10 tackles, Christian Ellis made nine, and Kam Robinson and Matthew Fobbs-White each got a sack. Eli Holstein came in and went 12 of 16.\n\nBut 1 of 12 on third down is not a number that wins on the road. Wake went 9 of 14. We are 0-3 away from Charlottesville this year, and the third straight loss stings.\n\nA note for the group chat: anyone who calls our campus a campus this week owes me a bagel. I am collecting. It is the only thing I won on Saturday.\n\nWe're 4-5 and 2-4 in the ACC. A bye week comes first, then California visits Scott Stadium on Saturday, Nov. 14. Wahoowa.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Wake Forest 51, Virginia 7, and I will not dress it up. While the Lawn residents and some 70 student groups were handing out candy from the 54 Lawn rooms and the Range on the Grounds from 5 to 7 p.m., our Cavaliers were taking the worst trick of the night in Winston-Salem. Mr. Jefferson built a place for learning, and we learned plenty."
+        },
+        {
+          "type": "paragraph",
+          "text": "The trouble started on special teams and never left. Kam Shanks returned punts for 94 yards, including a 64-yarder that set up a touchdown. Ty Clark III scored three times on short runs, Connor Calvert made all three of his field goals, and the Deacons ran for 309 yards on 51 carries. We ran for 16 yards on 19 tries. That gap is the game."
+        },
+        {
+          "type": "paragraph",
+          "text": "We had our chances early. Braylon Johnson intercepted Beau Pribula on a fourth-down throw in the first quarter, and Calvert turned it into a 45-yarder. In the second quarter we drove 13 plays to the Wake 6 and came away empty when Zach Lohavichan stopped Xay Davis on fourth-and-1. We trailed 20-0 at the half, and we never got closer."
+        },
+        {
+          "type": "paragraph",
+          "text": "There were honest bright spots. Pribula threw for 212 yards on 20 of 29, and with 50 seconds left in the third quarter he found Da'Shawn Martin for a 47-yard touchdown. Martin finished with nine catches for 119 yards and kept fighting all night. Montino Williams made 10 tackles, Christian Ellis made nine, and Kam Robinson and Matthew Fobbs-White each got a sack. Eli Holstein came in and went 12 of 16."
+        },
+        {
+          "type": "paragraph",
+          "text": "But 1 of 12 on third down is not a number that wins on the road. Wake went 9 of 14. We are 0-3 away from Charlottesville this year, and the third straight loss stings."
+        },
+        {
+          "type": "paragraph",
+          "text": "A note for the group chat: anyone who calls our campus a campus this week owes me a bagel. I am collecting. It is the only thing I won on Saturday."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 4-5 and 2-4 in the ACC. A bye week comes first, then California visits Scott Stadium on Saturday, Nov. 14. Wahoowa."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Wake Forest beat Virginia 51-7 on Saturday, Oct. 31, in Winston-Salem. Virginia is 4-5 and 2-4 in the ACC."
+        },
+        {
+          "type": "fact",
+          "text": "Beau Pribula threw a 47-yard touchdown to Da'Shawn Martin, who finished with nine catches for 119 yards."
+        },
+        {
+          "type": "fact",
+          "text": "Wake Forest ran for 309 yards; Virginia ran for 16 and went 1 of 12 on third down."
+        },
+        {
+          "type": "jab",
+          "text": "A bye week, then California. We need every day of it."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Wake Forest 51, Virginia 7 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858284"
+        },
+        {
+          "label": "ESPN play-by-play, Virginia at Wake Forest",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858284"
+        },
+        {
+          "label": "UVA Housing & Residence Life: Trick-or-Treating on the Lawn (Oct. 31, 2026)",
+          "url": "https://housing.virginia.edu/trick-or-treating-lawn-0"
+        },
+        {
+          "label": "ESPN Virginia schedule (next game: vs. California, Sat., Nov. 14)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/258"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-indiana-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "indiana",
+      "team_ids": [
+        "indiana"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858501",
+      "title": "Indiana vs Minnesota: Hoosiers Win Homecoming in OT 23-16",
+      "byline": "",
+      "matchup": "Final/OT: Indiana (8-1) 23, Minnesota (5-3) 16, Sat., Oct. 31, Memorial Stadium (Bloomington, IN), Bloomington. Next: vs. USC, Sat., Nov. 14, Memorial Stadium (Bloomington, IN), Bloomington",
+      "date": "2026-10-31",
+      "word_count": 338,
+      "text": "Indiana 23, Minnesota 16, in overtime, and Homecoming weekend in Bloomington got the ending it deserved. Friday night the Homecoming Parade rolled from Washington Street down Kirkwood Avenue to the Sample Gates, and Saturday the Hoosiers rewarded the 54,400 inside Memorial Stadium for every nervous minute. My rhinestone clicker is down to its last few rhinestones.\n\nThis was no pageant walk. Minnesota kicked a 37-yard field goal first, and our answer came off a takeaway: Josh Burnham recovered a fumble at the Minnesota 26, and Josh Hoover hit Nick Marsh for a 9-yard touchdown. Then Drake Lindsey threw 39 yards to Roman Voss, Hoover was intercepted, and we went to the half down 10-7.\n\nGrant Wilson took over at quarterback in the second half and steadied the room. Nico Radicic tied it from 46 in the third and again from 34 with 3:05 left. Then Minnesota's kicker hit from 60 with 19 seconds left, and I forgot how to breathe.\n\nNineteen seconds. Wilson threw deep to Charlie Becker for 33 yards, and Paddy McAteer walked out and drilled a 60-yarder of his own as time ran out. 16-16. My 40-tab model has no tab for that. It does now.\n\nOvertime took one snap. Wilson to Becker, 25 yards, touchdown. Then the defense took the crown. Minnesota got to our 3, and Jeff Utzinger and Tobi Osunsanmi sacked Lindsey on back-to-back plays to end it at our 9. Talent portion, evening gown and interview, all in two snaps.\n\nBecker finished with eight catches for 149 yards. Wilson went 9 of 17 for 156 yards and ran for 26 more. Lee Beebe Jr. ran 15 times for 84 yards, and Marsh caught four for 59. We outgained Minnesota 419 yards to 215 and won the first-down count 21 to 10. Preston Zachman made nine tackles, and Byron Baldwin Jr. had seven and a sack.\n\nWe're 8-1, 5-1 in the Big Ten. After a week off, USC comes to Memorial Stadium on Saturday, Nov. 14. Sash on, clicker reloaded. Go Hoosiers.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Indiana 23, Minnesota 16, in overtime, and Homecoming weekend in Bloomington got the ending it deserved. Friday night the Homecoming Parade rolled from Washington Street down Kirkwood Avenue to the Sample Gates, and Saturday the Hoosiers rewarded the 54,400 inside Memorial Stadium for every nervous minute. My rhinestone clicker is down to its last few rhinestones."
+        },
+        {
+          "type": "paragraph",
+          "text": "This was no pageant walk. Minnesota kicked a 37-yard field goal first, and our answer came off a takeaway: Josh Burnham recovered a fumble at the Minnesota 26, and Josh Hoover hit Nick Marsh for a 9-yard touchdown. Then Drake Lindsey threw 39 yards to Roman Voss, Hoover was intercepted, and we went to the half down 10-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "Grant Wilson took over at quarterback in the second half and steadied the room. Nico Radicic tied it from 46 in the third and again from 34 with 3:05 left. Then Minnesota's kicker hit from 60 with 19 seconds left, and I forgot how to breathe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nineteen seconds. Wilson threw deep to Charlie Becker for 33 yards, and Paddy McAteer walked out and drilled a 60-yarder of his own as time ran out. 16-16. My 40-tab model has no tab for that. It does now."
+        },
+        {
+          "type": "paragraph",
+          "text": "Overtime took one snap. Wilson to Becker, 25 yards, touchdown. Then the defense took the crown. Minnesota got to our 3, and Jeff Utzinger and Tobi Osunsanmi sacked Lindsey on back-to-back plays to end it at our 9. Talent portion, evening gown and interview, all in two snaps."
+        },
+        {
+          "type": "paragraph",
+          "text": "Becker finished with eight catches for 149 yards. Wilson went 9 of 17 for 156 yards and ran for 26 more. Lee Beebe Jr. ran 15 times for 84 yards, and Marsh caught four for 59. We outgained Minnesota 419 yards to 215 and won the first-down count 21 to 10. Preston Zachman made nine tackles, and Byron Baldwin Jr. had seven and a sack."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 8-1, 5-1 in the Big Ten. After a week off, USC comes to Memorial Stadium on Saturday, Nov. 14. Sash on, clicker reloaded. Go Hoosiers."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Indiana beat Minnesota 23-16 in overtime on Homecoming, Saturday, Oct. 31, at Memorial Stadium. The Hoosiers are 8-1 and 5-1 in the Big Ten."
+        },
+        {
+          "type": "fact",
+          "text": "Paddy McAteer tied it with a 60-yard field goal as regulation ended, and Grant Wilson hit Charlie Becker for a 25-yard touchdown on the first snap of overtime."
+        },
+        {
+          "type": "fact",
+          "text": "Becker caught eight balls for 149 yards, and Jeff Utzinger and Tobi Osunsanmi had back-to-back sacks to end it."
+        },
+        {
+          "type": "jab",
+          "text": "Sixty from them, sixty from us, and the crown stays in Bloomington."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Indiana 23, Minnesota 16 (OT) (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858501"
+        },
+        {
+          "label": "ESPN play-by-play, Minnesota at Indiana",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858501"
+        },
+        {
+          "label": "USA Today: Indiana beats Minnesota in OT after wild 60-yard field goals",
+          "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/10/31/minnesota-indiana-football-60-yard-field-goals-overtime-paddy-mcateer-luke-drzewiecki/92540832007/"
+        },
+        {
+          "label": "IU Alumni Association: Homecoming 2026 (parade Oct. 30, Minnesota game Oct. 31)",
+          "url": "https://www.myiu.org/events/homecoming/index.html"
+        },
+        {
+          "label": "ESPN Indiana schedule (next game: vs. USC, Sat., Nov. 14)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/84"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-minnesota-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "minnesota",
+      "team_ids": [
+        "minnesota"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858501",
+      "title": "Minnesota vs Indiana: Gophers Drop OT Kicking Duel 23-16",
+      "byline": "",
+      "matchup": "Final/OT: Indiana (8-1) 23, Minnesota (5-3) 16, Sat., Oct. 31, Memorial Stadium (Bloomington, IN), Bloomington. Next: vs. UCLA, Sat., Nov. 7, Huntington Bank Stadium, Minneapolis",
+      "date": "2026-10-31",
+      "word_count": 421,
+      "text": "Indiana 23, Minnesota 16, in overtime in Bloomington, and I'll keep my voice down, because that's how we do it up north. Back home on Halloween night, BareBones Puppet Theatre ran its 33rd Halloween Extravaganza at Powderhorn Park, giant puppets and fire under the theme \"Hum, Honk, Howl: As Above, So Below,\" with folks bringing tarps to sit on the cold ground. Grandpa calls that ice-house training.\n\nWe had this one. Luke Drzewiecki hit from 37 to open the scoring. A Drake Lindsey fumble at our 26 handed Indiana a short field and a 9-yard touchdown, but Lindsey answered in the second quarter with a 39-yard strike to Roman Voss. Jaxon Howard intercepted Josh Hoover, and we went to the half up 10-7.\n\nIndiana tied it in the third. Drzewiecki made it 13-10 from 51 early in the fourth, and after Indiana tied it again with 3:05 left, Darius Taylor broke a 19-yard run to get us into Hoosier territory. Drzewiecki stepped up from 60 with 19 seconds left and drilled it. 16-13. Cold enough for ya, Bloomington?\n\nThen 19 seconds turned into a long winter. Grant Wilson, who took over at quarterback for Indiana in the second half, hit Charlie Becker for 33 yards, and Paddy McAteer matched our kicker with a 60-yarder of his own as time ran out. In overtime, Wilson found Becker from 25 on the first snap.\n\nOur turn. Lindsey hit Noah Jennings for 17 yards to the Indiana 8 and ran it to the 3 himself. Then Jeff Utzinger and Tobi Osunsanmi got home on back-to-back sacks, and it ended at the Indiana 9.\n\nLindsey went 20 of 37 for 120 yards and the Voss touchdown. TJ Thomas caught six balls for 54 yards, and Javon Tracy had seven for 40. Maverick Baranowski made 10 tackles, Kerry Brown seven, and TJ Bush Jr. got a sack. Tom Weston punted seven times for a 48.6 average. We had 215 yards and 10 first downs and still had Indiana beat with 19 seconds left. Drzewiecki went 3 for 3 with a 60-yarder. That man owes nobody a thing.\n\nSome days on the lake you sit eight hours and catch nothing. This was one of those days, except we had a fish on the hook with 19 seconds left. I'll get over it by Thursday, maybe.\n\nWe're 5-3, 3-2 in the Big Ten. UCLA comes to Huntington Bank Stadium on Saturday, Nov. 7, and they're bringing an unbeaten record into November in Minneapolis. Bring the good coat. Ski-U-Mah.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Indiana 23, Minnesota 16, in overtime in Bloomington, and I'll keep my voice down, because that's how we do it up north. Back home on Halloween night, BareBones Puppet Theatre ran its 33rd Halloween Extravaganza at Powderhorn Park, giant puppets and fire under the theme \"Hum, Honk, Howl: As Above, So Below,\" with folks bringing tarps to sit on the cold ground. Grandpa calls that ice-house training."
+        },
+        {
+          "type": "paragraph",
+          "text": "We had this one. Luke Drzewiecki hit from 37 to open the scoring. A Drake Lindsey fumble at our 26 handed Indiana a short field and a 9-yard touchdown, but Lindsey answered in the second quarter with a 39-yard strike to Roman Voss. Jaxon Howard intercepted Josh Hoover, and we went to the half up 10-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indiana tied it in the third. Drzewiecki made it 13-10 from 51 early in the fourth, and after Indiana tied it again with 3:05 left, Darius Taylor broke a 19-yard run to get us into Hoosier territory. Drzewiecki stepped up from 60 with 19 seconds left and drilled it. 16-13. Cold enough for ya, Bloomington?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Then 19 seconds turned into a long winter. Grant Wilson, who took over at quarterback for Indiana in the second half, hit Charlie Becker for 33 yards, and Paddy McAteer matched our kicker with a 60-yarder of his own as time ran out. In overtime, Wilson found Becker from 25 on the first snap."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our turn. Lindsey hit Noah Jennings for 17 yards to the Indiana 8 and ran it to the 3 himself. Then Jeff Utzinger and Tobi Osunsanmi got home on back-to-back sacks, and it ended at the Indiana 9."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lindsey went 20 of 37 for 120 yards and the Voss touchdown. TJ Thomas caught six balls for 54 yards, and Javon Tracy had seven for 40. Maverick Baranowski made 10 tackles, Kerry Brown seven, and TJ Bush Jr. got a sack. Tom Weston punted seven times for a 48.6 average. We had 215 yards and 10 first downs and still had Indiana beat with 19 seconds left. Drzewiecki went 3 for 3 with a 60-yarder. That man owes nobody a thing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some days on the lake you sit eight hours and catch nothing. This was one of those days, except we had a fish on the hook with 19 seconds left. I'll get over it by Thursday, maybe."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 5-3, 3-2 in the Big Ten. UCLA comes to Huntington Bank Stadium on Saturday, Nov. 7, and they're bringing an unbeaten record into November in Minneapolis. Bring the good coat. Ski-U-Mah."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Indiana beat Minnesota 23-16 in overtime on Saturday, Oct. 31, at Memorial Stadium in Bloomington. The Gophers are 5-3 and 3-2 in the Big Ten."
+        },
+        {
+          "type": "fact",
+          "text": "Luke Drzewiecki made all three field goals, including a 60-yarder with 19 seconds left for a 16-13 lead before Indiana answered from 60 at the gun."
+        },
+        {
+          "type": "fact",
+          "text": "Minnesota reached the Indiana 3 in overtime before back-to-back sacks ended the game on downs."
+        },
+        {
+          "type": "jab",
+          "text": "UCLA gets Minneapolis in November next. Pack a coat, Bruins."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Indiana 23, Minnesota 16 (OT) (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858501"
+        },
+        {
+          "label": "ESPN play-by-play, Minnesota at Indiana",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858501"
+        },
+        {
+          "label": "USA Today: Indiana beats Minnesota in OT after wild 60-yard field goals",
+          "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/10/31/minnesota-indiana-football-60-yard-field-goals-overtime-paddy-mcateer-luke-drzewiecki/92540832007/"
+        },
+        {
+          "label": "BareBones Puppets: 2026 Halloween Extravaganza, Powderhorn Park, Minneapolis",
+          "url": "https://barebonespuppets.org/2026-show/"
+        },
+        {
+          "label": "ESPN Minnesota schedule (next game: vs. UCLA, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/135"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-byu-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "byu",
+      "team_ids": [
+        "byu"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856843",
+      "title": "BYU vs Arizona State: Cougars Sack Sun Devils Six Times, Win 27-20",
+      "byline": "",
+      "matchup": "Final: BYU (7-1) 27, Arizona State (4-4) 20, Sat., Oct. 31, LaVell Edwards Stadium, Provo. Next: at Utah, Sat., Nov. 7, Rice-Eccles Stadium, Salt Lake City",
+      "date": "2026-10-31",
+      "word_count": 363,
+      "text": "BYU 27, Arizona State 20. On Halloween afternoon, Center Street in Downtown Provo was handing out treats from 3 to 6 p.m., and at LaVell Edwards Stadium, 63,332 of us were handing out sacks. Six of them. The Cougars are 7-1, and oh my heck, they made us earn every bit of it.\n\nThe defense set the tone right away. Arizona State's quarterback fumbled on the third snap of the game, Isaiah Glasker pounced on it at the Sun Devil 29, and on that drive Sione Moa scooped up our own fumble inside the 1 and carried it in for a touchdown nobody drew up. Faletau Satuala blocked a field goal, and the Sun Devils needed a penalty to get three points out of that trip. Matthias Dunn hit from 28, and Bear Bachmeier threaded a 13-yard touchdown to Kyler Kasper for a 17-3 lead.\n\nThen the third quarter took the trail I never ride. Arizona State scored twice, a Kasper fumble flipped field position, and it was 17-17 with 1:15 left in the quarter. My trail map had a big red X on it.\n\nHere is where this team showed me something. Dunn drilled a 45-yarder for a 20-17 lead. Then we went 95 yards in 11 plays. Bachmeier hit Legend Glasker for 53 yards, converted two fourth downs, and Moa plowed in from a yard out with 2:09 left. Moa's second touchdown is the one I'll be telling my grandkids about.\n\nBachmeier went 19 of 30 for 236 yards and a touchdown. Walker Lyons caught five balls and Glasker finished with 87 yards on four grabs. Six different Cougars got a sack: Isaiah Glasker, Cade Uluave, Nusi Taumoepeau, Ace Kaufusi, Miles Hall and Bodie Schoonover. Satuala led us with nine tackles. I'd love to see more than 47 rushing yards next time, but I am not returning this win.\n\nWhy did the Cougar defense skip the haunted house? It already had six scares of its own. I'll show myself out.\n\nWe're 7-1, 4-1 in the Big 12 and 5-0 at home. Next up, the big one: at Utah, Saturday, Nov. 7, at Rice-Eccles Stadium in Salt Lake City. Rise and shout.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "BYU 27, Arizona State 20. On Halloween afternoon, Center Street in Downtown Provo was handing out treats from 3 to 6 p.m., and at LaVell Edwards Stadium, 63,332 of us were handing out sacks. Six of them. The Cougars are 7-1, and oh my heck, they made us earn every bit of it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense set the tone right away. Arizona State's quarterback fumbled on the third snap of the game, Isaiah Glasker pounced on it at the Sun Devil 29, and on that drive Sione Moa scooped up our own fumble inside the 1 and carried it in for a touchdown nobody drew up. Faletau Satuala blocked a field goal, and the Sun Devils needed a penalty to get three points out of that trip. Matthias Dunn hit from 28, and Bear Bachmeier threaded a 13-yard touchdown to Kyler Kasper for a 17-3 lead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the third quarter took the trail I never ride. Arizona State scored twice, a Kasper fumble flipped field position, and it was 17-17 with 1:15 left in the quarter. My trail map had a big red X on it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here is where this team showed me something. Dunn drilled a 45-yarder for a 20-17 lead. Then we went 95 yards in 11 plays. Bachmeier hit Legend Glasker for 53 yards, converted two fourth downs, and Moa plowed in from a yard out with 2:09 left. Moa's second touchdown is the one I'll be telling my grandkids about."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bachmeier went 19 of 30 for 236 yards and a touchdown. Walker Lyons caught five balls and Glasker finished with 87 yards on four grabs. Six different Cougars got a sack: Isaiah Glasker, Cade Uluave, Nusi Taumoepeau, Ace Kaufusi, Miles Hall and Bodie Schoonover. Satuala led us with nine tackles. I'd love to see more than 47 rushing yards next time, but I am not returning this win."
+        },
+        {
+          "type": "paragraph",
+          "text": "Why did the Cougar defense skip the haunted house? It already had six scares of its own. I'll show myself out."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 7-1, 4-1 in the Big 12 and 5-0 at home. Next up, the big one: at Utah, Saturday, Nov. 7, at Rice-Eccles Stadium in Salt Lake City. Rise and shout."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "BYU beat Arizona State 27-20 on Saturday, Oct. 31, at LaVell Edwards Stadium to improve to 7-1 and 4-1 in the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "After Arizona State tied it 17-17, Matthias Dunn kicked a 45-yard field goal and BYU went 95 yards for Sione Moa's second touchdown."
+        },
+        {
+          "type": "fact",
+          "text": "Six different Cougars recorded a sack, and Bear Bachmeier threw for 236 yards and a touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "The Sun Devils got a third quarter. We kept the fourth."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, BYU 27, Arizona State 20 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856843"
+        },
+        {
+          "label": "ESPN play-by-play, Arizona State at BYU",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856843"
+        },
+        {
+          "label": "BYU Athletics official box score, Football vs Arizona State (Oct. 31, 2026)",
+          "url": "https://byucougars.com/boxscore/24747"
+        },
+        {
+          "label": "Explore Utah Valley: Trick-or-Treating Events in Utah County 2026 (Downtown Provo, Center Street, Oct. 31)",
+          "url": "https://www.utahvalley.com/blog/post/trick-or-treating-events-utah-county/"
+        },
+        {
+          "label": "ESPN BYU schedule (next game: at Utah, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/252"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-arizona-state-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "arizona-state",
+      "team_ids": [
+        "arizona-state"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856843",
+      "title": "Arizona State vs BYU: Sun Devils Rally, Fall Late in Provo 27-20",
+      "byline": "",
+      "matchup": "Final: BYU (7-1) 27, Arizona State (4-4) 20, Sat., Oct. 31, LaVell Edwards Stadium, Provo. Next: vs. Colorado, Sat., Nov. 7, Mountain America Stadium, Tempe",
+      "date": "2026-10-31",
+      "word_count": 405,
+      "text": "BYU 27, Arizona State 20, and the Sun Devils dragged No. 8 BYU into a fourth quarter it did not want. Back in Tempe, the trombones, tubas and euphoniums of the Happy How-Low-Ween Concert were booked for Nelson Fine Arts Plaza at 5 p.m., and I wanted that brass playing a victory song. It played a sad one instead, and it played it loud.\n\nJake Fette made his first career start in Provo, and the first quarter was rough. He fumbled on the third snap of our opening drive, and BYU scored when Sione Moa scooped up a Cougar fumble at the goal and took it in. In the second quarter, Faletau Satuala blocked a field goal, we got new life on a Cougar personal foul, and still settled for a 24-yarder from Carson Smith. Down 17-3 at the half, six sacks taken by the end of the day. Ouch.\n\nThen the third quarter happened, and it was all maroon and gold. Fette led a 13-play, 81-yard march and hit Omarion Miller from 20 yards out. Owen Long punched the ball out of Kyler Kasper's hands, Adrian Wilson fell on it at the BYU 39, and we converted two fourth downs on the way to Fette's 1-yard touchdown throw to Anthony Miller. Seventeen all, with 1:15 left in the third, and 63,332 people in Provo got very quiet.\n\nCardae Mack was the engine all day: 123 rushing yards on 23 carries plus five catches for 47 more, 170 yards of pure Tempe toughness. Long finished with 10 tackles, and Montana Warren intercepted Bear Bachmeier right before the half. Smith hit both of his field goals, including a 44-yarder with 57 seconds left that pulled us within seven.\n\nThe honest film session hurts. BYU went 95 yards in 11 plays to put it away, Bachmeier found Legend Glasker for 53 on the big one, and Moa scored from a yard out with 2:09 left. Fette went 22 of 42 for 166 yards and two touchdowns with no interceptions, but we were 6 of 17 on third down, and that is the whole story.\n\nSo, a quick sip of water, a long exhale, and the truth: we won the third quarter 14-0 on the road against a top-10 team. That is a group with fight in it.\n\nWe're 4-4 and 2-3 in the Big 12. Colorado comes to Mountain America Stadium on Saturday, Nov. 7. Forks up.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "BYU 27, Arizona State 20, and the Sun Devils dragged No. 8 BYU into a fourth quarter it did not want. Back in Tempe, the trombones, tubas and euphoniums of the Happy How-Low-Ween Concert were booked for Nelson Fine Arts Plaza at 5 p.m., and I wanted that brass playing a victory song. It played a sad one instead, and it played it loud."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jake Fette made his first career start in Provo, and the first quarter was rough. He fumbled on the third snap of our opening drive, and BYU scored when Sione Moa scooped up a Cougar fumble at the goal and took it in. In the second quarter, Faletau Satuala blocked a field goal, we got new life on a Cougar personal foul, and still settled for a 24-yarder from Carson Smith. Down 17-3 at the half, six sacks taken by the end of the day. Ouch."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the third quarter happened, and it was all maroon and gold. Fette led a 13-play, 81-yard march and hit Omarion Miller from 20 yards out. Owen Long punched the ball out of Kyler Kasper's hands, Adrian Wilson fell on it at the BYU 39, and we converted two fourth downs on the way to Fette's 1-yard touchdown throw to Anthony Miller. Seventeen all, with 1:15 left in the third, and 63,332 people in Provo got very quiet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cardae Mack was the engine all day: 123 rushing yards on 23 carries plus five catches for 47 more, 170 yards of pure Tempe toughness. Long finished with 10 tackles, and Montana Warren intercepted Bear Bachmeier right before the half. Smith hit both of his field goals, including a 44-yarder with 57 seconds left that pulled us within seven."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest film session hurts. BYU went 95 yards in 11 plays to put it away, Bachmeier found Legend Glasker for 53 on the big one, and Moa scored from a yard out with 2:09 left. Fette went 22 of 42 for 166 yards and two touchdowns with no interceptions, but we were 6 of 17 on third down, and that is the whole story."
+        },
+        {
+          "type": "paragraph",
+          "text": "So, a quick sip of water, a long exhale, and the truth: we won the third quarter 14-0 on the road against a top-10 team. That is a group with fight in it."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 4-4 and 2-3 in the Big 12. Colorado comes to Mountain America Stadium on Saturday, Nov. 7. Forks up."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "BYU beat Arizona State 27-20 on Saturday, Oct. 31, at LaVell Edwards Stadium in Provo. The Sun Devils are 4-4 and 2-3 in the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "Jake Fette threw touchdowns to Omarion Miller and Anthony Miller in the third quarter to tie it 17-17."
+        },
+        {
+          "type": "fact",
+          "text": "Cardae Mack ran for 123 yards and added 47 receiving yards; Owen Long made 10 tackles."
+        },
+        {
+          "type": "jab",
+          "text": "We won the third quarter 14-0 in Provo. Colorado gets the rest of it."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, BYU 27, Arizona State 20 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856843"
+        },
+        {
+          "label": "ESPN play-by-play, Arizona State at BYU",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856843"
+        },
+        {
+          "label": "BYU Athletics official box score, Football vs Arizona State (Oct. 31, 2026)",
+          "url": "https://byucougars.com/boxscore/24747"
+        },
+        {
+          "label": "ASU Events: Happy How-Low-Ween Concert, Nelson Fine Arts Plaza, Tempe (Oct. 31, 2026)",
+          "url": "https://asuevents.asu.edu/event/happy-how-low-ween-concert"
+        },
+        {
+          "label": "ESPN Arizona State schedule (next game: vs. Colorado, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/9"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-georgia",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "georgia",
+      "team_ids": [
+        "georgia"
+      ],
+      "tab_id": "sec",
+      "game_id": "401856734",
+      "title": "Georgia vs Florida: Dawgs Defense Takes Six Straight, Wins 27-8",
+      "byline": "",
+      "matchup": "Final: Georgia (7-1) 27, Florida (5-3) 8, Sat., Oct. 31, Mercedes-Benz Stadium, Atlanta. Next: at Ole Miss, Sat., Nov. 7, Vaught-Hemingway Stadium, Oxford",
+      "date": "2026-10-31",
+      "word_count": 361,
+      "text": "Georgia 27, Florida 8, on Halloween in Atlanta, and that's six straight in this series for the Dawgs. Back in Athens, the 18th Wild Rumpus Parade stepped off at 8 p.m. outside Creature Comforts on W. Hancock Ave., and downtown partied into the night. So did our defense, about four hours earlier.\n\nFirst time this rivalry ever came to Atlanta, and the set list opened with a skipped track: Peyton Woodring missed from 43 on our first drive. Then the defense dropped the needle. Ellis Robinson IV intercepted Aaron Philo's underhand flip, a roughing penalty on our punt handed us new life, and Nate Frazier went in from the 1 for a 7-0 lead.\n\nDemello Jones intercepted Philo and brought it back 23 yards, and Woodring hit from 28. Bo Walker capped a 10-play, 81-yard drive with a 1-yard run. Then the headliner: Quintavius Johnson sacked Tramell Jones Jr., the ball came out, and Chris Cole ran it 66 yards to the house with 29 seconds left in the half. 24-0. That's the closer you save for the encore, and we played it before intermission.\n\nThe second half was a B-side, I'll admit it. Talyn Taylor lost a fumble, and Florida turned it into eight points. But Braylon Conley intercepted Jones in the end zone with 4:50 left in the third to keep Florida off the board, and Woodring added a 21-yarder with 3:34 left to close it at 27-8.\n\nOur ground game ran 42 times for 217 yards. Frazier had 67 and a touchdown, Dwight Phillips Jr. had 67 with a 26-yard burst, and Gunner Stockton went 13 of 23 for 101 while running for 45 more. Cole led us with nine tackles and added a sack on top of the touchdown. Raylen Wilson had eight. Four takeaways turned into 17 points, and Florida ran for 48 yards on 28 carries.\n\nAlbum review: four takeaways, four sacks, one fumble-return encore. Ten out of ten. Play it loud on the drive home.\n\nWe're 7-1, 5-1 in the SEC. Next up is Ole Miss on Saturday, Nov. 7, at Vaught-Hemingway Stadium in Oxford. Pack the headphones and bring the defense. Go Dawgs.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Georgia 27, Florida 8, on Halloween in Atlanta, and that's six straight in this series for the Dawgs. Back in Athens, the 18th Wild Rumpus Parade stepped off at 8 p.m. outside Creature Comforts on W. Hancock Ave., and downtown partied into the night. So did our defense, about four hours earlier."
+        },
+        {
+          "type": "paragraph",
+          "text": "First time this rivalry ever came to Atlanta, and the set list opened with a skipped track: Peyton Woodring missed from 43 on our first drive. Then the defense dropped the needle. Ellis Robinson IV intercepted Aaron Philo's underhand flip, a roughing penalty on our punt handed us new life, and Nate Frazier went in from the 1 for a 7-0 lead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Demello Jones intercepted Philo and brought it back 23 yards, and Woodring hit from 28. Bo Walker capped a 10-play, 81-yard drive with a 1-yard run. Then the headliner: Quintavius Johnson sacked Tramell Jones Jr., the ball came out, and Chris Cole ran it 66 yards to the house with 29 seconds left in the half. 24-0. That's the closer you save for the encore, and we played it before intermission."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half was a B-side, I'll admit it. Talyn Taylor lost a fumble, and Florida turned it into eight points. But Braylon Conley intercepted Jones in the end zone with 4:50 left in the third to keep Florida off the board, and Woodring added a 21-yarder with 3:34 left to close it at 27-8."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our ground game ran 42 times for 217 yards. Frazier had 67 and a touchdown, Dwight Phillips Jr. had 67 with a 26-yard burst, and Gunner Stockton went 13 of 23 for 101 while running for 45 more. Cole led us with nine tackles and added a sack on top of the touchdown. Raylen Wilson had eight. Four takeaways turned into 17 points, and Florida ran for 48 yards on 28 carries."
+        },
+        {
+          "type": "paragraph",
+          "text": "Album review: four takeaways, four sacks, one fumble-return encore. Ten out of ten. Play it loud on the drive home."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 7-1, 5-1 in the SEC. Next up is Ole Miss on Saturday, Nov. 7, at Vaught-Hemingway Stadium in Oxford. Pack the headphones and bring the defense. Go Dawgs."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Georgia beat Florida 27-8 on Saturday, Oct. 31, at Mercedes-Benz Stadium for its sixth straight win in the series. The Bulldogs are 7-1 and 5-1 in the SEC."
+        },
+        {
+          "type": "fact",
+          "text": "Chris Cole returned a fumble 66 yards for a touchdown with 29 seconds left in the first half for a 24-0 lead."
+        },
+        {
+          "type": "fact",
+          "text": "Georgia forced four turnovers, turned them into 17 points and ran for 217 yards on 42 carries."
+        },
+        {
+          "type": "jab",
+          "text": "Four takeaways, one encore. Florida can request it again next year in Tampa."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Georgia 27, Florida 8 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856734"
+        },
+        {
+          "label": "ESPN play-by-play, Florida vs Georgia",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856734"
+        },
+        {
+          "label": "Georgia Athletics: Takeaways Power Bulldogs Past Gators",
+          "url": "https://georgiadogs.com/news/2026/10/31/football-takeaways-power-bulldogs-past-gators"
+        },
+        {
+          "label": "Flagpole: Wild Rumpus Parade & Spectacle, downtown Athens (Oct. 31, 2026)",
+          "url": "https://flagpole.com/topstory/2026/10/28/wild-rumpus-parade-spectacle-where-everybody-is-the-parade/"
+        },
+        {
+          "label": "ESPN Georgia schedule (next game: at Ole Miss, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/61"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-florida",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "florida",
+      "team_ids": [
+        "florida"
+      ],
+      "tab_id": "sec",
+      "game_id": "401856734",
+      "title": "Florida vs Georgia: Gators Give Away Four Turnovers, Fall 27-8",
+      "byline": "",
+      "matchup": "Final: Georgia (7-1) 27, Florida (5-3) 8, Sat., Oct. 31, Mercedes-Benz Stadium, Atlanta. Next: vs. Oklahoma, Sat., Nov. 7, Ben Hill Griffin Stadium, Gainesville",
+      "date": "2026-10-31",
+      "word_count": 424,
+      "text": "Georgia 27, Florida 8, on Halloween afternoon in Atlanta, and the Reptile Index has a new entry for the Bulldogs: apex predator, feeds on turnovers. Back home in Gainesville, Carson Springs Wildlife Foundation ran its Halloween Safari Drive-Thru from 1 to 3 that afternoon, rare animals and spooky displays before kickoff. That was the last thing all day that behaved the way it was supposed to.\n\nThis was the first time our rivalry game was ever played in Atlanta, and we spent the first half handing Georgia the keys. Aaron Philo, back under center, got chased on our opening drive and flipped the ball underhand right to Ellis Robinson IV. A roughing penalty on the punt kept Georgia alive, and Nate Frazier went in from the 1. In the second quarter a ball bounced off our receiver's hands to Demello Jones, and Peyton Woodring made it 10-0.\n\nTramell Jones Jr. came in and Georgia kept feeding. Bo Walker scored from the 1 to make it 17-0. Then, with 29 seconds left before the break, Quintavius Johnson sacked Jones, the ball came loose, and Chris Cole ran it back 66 yards. 24-0 at the half. In herpetology terms, that is a monitor lizard cleaning out the whole nest.\n\nWe had our shot in the third. Jones drove us to the Georgia 3, and Braylon Conley intercepted him in the end zone with 4:50 left. DJ Coleman punched the ball loose from Talyn Taylor early in the fourth, Myles Graham recovered, and Jones finally put us on the board with a 2-yard run and a two-point conversion with 6:59 to go. Woodring answered with a 21-yard field goal.\n\nThe honest numbers: Jones went 18 of 25 for 172 yards. Bailey Stockton caught eight balls for 76 yards. Alec Clark averaged 51.3 yards on four punts. Coleman made eight tackles, Graham seven, and Emmanuel Oyebadejo got a sack. But we turned it over four times, ran for 48 yards on 28 carries, and Jadan Baugh, an Atlanta native, got 38 on 17. Georgia ran for 217. Eight penalties for 78 yards finished the job.\n\nThe Bulldogs earned it, and I'm saying that through clenched teeth. The Reptile Index files them as a species that lives off other animals' mistakes, and we served them a buffet.\n\nWe're 5-3, 3-3 in the SEC. Oklahoma comes to Ben Hill Griffin Stadium on Saturday, Nov. 7, the first time the Sooners have ever played in the Swamp. Gainesville gets its team back, and the Swamp gets its noise back. Go Gators.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Georgia 27, Florida 8, on Halloween afternoon in Atlanta, and the Reptile Index has a new entry for the Bulldogs: apex predator, feeds on turnovers. Back home in Gainesville, Carson Springs Wildlife Foundation ran its Halloween Safari Drive-Thru from 1 to 3 that afternoon, rare animals and spooky displays before kickoff. That was the last thing all day that behaved the way it was supposed to."
+        },
+        {
+          "type": "paragraph",
+          "text": "This was the first time our rivalry game was ever played in Atlanta, and we spent the first half handing Georgia the keys. Aaron Philo, back under center, got chased on our opening drive and flipped the ball underhand right to Ellis Robinson IV. A roughing penalty on the punt kept Georgia alive, and Nate Frazier went in from the 1. In the second quarter a ball bounced off our receiver's hands to Demello Jones, and Peyton Woodring made it 10-0."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tramell Jones Jr. came in and Georgia kept feeding. Bo Walker scored from the 1 to make it 17-0. Then, with 29 seconds left before the break, Quintavius Johnson sacked Jones, the ball came loose, and Chris Cole ran it back 66 yards. 24-0 at the half. In herpetology terms, that is a monitor lizard cleaning out the whole nest."
+        },
+        {
+          "type": "paragraph",
+          "text": "We had our shot in the third. Jones drove us to the Georgia 3, and Braylon Conley intercepted him in the end zone with 4:50 left. DJ Coleman punched the ball loose from Talyn Taylor early in the fourth, Myles Graham recovered, and Jones finally put us on the board with a 2-yard run and a two-point conversion with 6:59 to go. Woodring answered with a 21-yard field goal."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest numbers: Jones went 18 of 25 for 172 yards. Bailey Stockton caught eight balls for 76 yards. Alec Clark averaged 51.3 yards on four punts. Coleman made eight tackles, Graham seven, and Emmanuel Oyebadejo got a sack. But we turned it over four times, ran for 48 yards on 28 carries, and Jadan Baugh, an Atlanta native, got 38 on 17. Georgia ran for 217. Eight penalties for 78 yards finished the job."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Bulldogs earned it, and I'm saying that through clenched teeth. The Reptile Index files them as a species that lives off other animals' mistakes, and we served them a buffet."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 5-3, 3-3 in the SEC. Oklahoma comes to Ben Hill Griffin Stadium on Saturday, Nov. 7, the first time the Sooners have ever played in the Swamp. Gainesville gets its team back, and the Swamp gets its noise back. Go Gators."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Georgia beat Florida 27-8 on Saturday, Oct. 31, at Mercedes-Benz Stadium in Atlanta. The Gators are 5-3 and 3-3 in the SEC."
+        },
+        {
+          "type": "fact",
+          "text": "Florida trailed 24-0 at halftime after four turnovers, including Chris Cole's 66-yard fumble return with 29 seconds left in the half."
+        },
+        {
+          "type": "fact",
+          "text": "Tramell Jones Jr. went 18 of 25 for 172 yards and ran for Florida's only touchdown; Georgia outrushed the Gators 217 yards to 48."
+        },
+        {
+          "type": "jab",
+          "text": "Oklahoma has never played in the Swamp. Next Saturday it finds out what that means."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Georgia 27, Florida 8 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856734"
+        },
+        {
+          "label": "ESPN play-by-play, Florida vs Georgia",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856734"
+        },
+        {
+          "label": "Florida Gators: FINAL: No. 3 Georgia 27, No. 17 Florida 8",
+          "url": "https://floridagators.com/news/2026/10/31/football-final-Georgia-27-Florida-8-southeastern-conference-florida-georgia-game"
+        },
+        {
+          "label": "Visit Gainesville event calendar: Carson Springs Wildlife Foundation Halloween Safari Drive-Thru (Oct. 31, 2026)",
+          "url": "https://www.visitgainesville.com/print-event-calendar/"
+        },
+        {
+          "label": "Central Atlanta Progress: Georgia-Florida comes to Mercedes-Benz Stadium",
+          "url": "https://www.downtownatl.com/news/georgia-florida-atlanta-gridiron-classic-mercedes-benz-stadium"
+        },
+        {
+          "label": "ESPN Florida schedule (next game: vs. Oklahoma, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/57"
         }
       ],
       "sources_display": "button",
