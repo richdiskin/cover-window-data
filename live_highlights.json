@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-10-31T23:41:40Z",
+ "updated_utc": "2026-11-01T00:11:17Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -458,7 +458,24 @@
    "kickoff_utc": "2026-10-31T19:30Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q2 2:00",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "2El8WjGMvnI",
+    "title": "Arizona State Sun Devils vs. BYU Cougars | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=2El8WjGMvnI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/2El8WjGMvnI",
+    "thumb": "https://i.ytimg.com/vi/2El8WjGMvnI/hqdefault.jpg",
+    "duration_s": 133,
+    "uploaded_utc": "2026-10-31T23:41:02Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-01T00:09:55Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856845": {
    "game_id": "401856845",
@@ -639,7 +656,24 @@
    "kickoff_utc": "2026-10-31T20:15Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q2 15:00",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "iLyrLqPsEOM",
+    "title": "Purdue at Penn State | Highlights | Big Ten Football | 10/31/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=iLyrLqPsEOM",
+    "embed_url": "https://www.youtube-nocookie.com/embed/iLyrLqPsEOM",
+    "thumb": "https://i.ytimg.com/vi/iLyrLqPsEOM/hqdefault.jpg",
+    "duration_s": 298,
+    "uploaded_utc": "2026-10-31T23:38:44Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-01T00:11:17Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858508": {
    "game_id": "401858508",
