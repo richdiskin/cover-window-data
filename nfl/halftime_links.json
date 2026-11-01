@@ -1,0 +1,56 @@
+{
+ "schema": "cw_nfl_halftime_links_v1",
+ "league": "nfl",
+ "season": 2026,
+ "week": 8,
+ "slate_date": "2026-11-01",
+ "updated_utc": "2026-11-01T19:36:06Z",
+ "about": "Halftime story links per game_id. fanatic.url goes only on Fanatic pages, gambler.url only on Gambler pages. Times are for data only; apps show none of them.",
+ "games": {
+  "401873024": {
+   "game_id": "401873024",
+   "key": "ARI@DAL",
+   "matchup": "Arizona Cardinals at Dallas Cowboys",
+   "fanatic": {
+    "label": "Halftime report",
+    "headline": "Wide Right at the Gun: Cowboys Up 14-3, Cardinals Still Swinging",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/arizona-cardinals-at-dallas-cowboys/halftime/fanatic/"
+   },
+   "gambler": {
+    "label": "Halftime report",
+    "headline": "Sweating Arlington: Cowboys 14, Cardinals 3, Our Under Still Alive",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/arizona-cardinals-at-dallas-cowboys/halftime/gambler/"
+   }
+  },
+  "401873029": {
+   "game_id": "401873029",
+   "key": "LV@NYJ",
+   "matchup": "Las Vegas Raiders at New York Jets",
+   "fanatic": {
+    "label": "Halftime report",
+    "headline": "Braelon Allen Bulldozes Vegas, Jets Up 23-14 at the Half",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/las-vegas-raiders-at-new-york-jets/halftime/fanatic/"
+   },
+   "gambler": {
+    "label": "Halftime report",
+    "headline": "Jets Covering by 7.5 at Halftime, Under Sweating at 37",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/las-vegas-raiders-at-new-york-jets/halftime/gambler/"
+   }
+  },
+  "401873025": {
+   "game_id": "401873025",
+   "key": "ATL@TB",
+   "matchup": "Atlanta Falcons at Tampa Bay Buccaneers",
+   "fanatic": {
+    "label": "Halftime report",
+    "headline": "Bucs Ball-Hawks Grab Three Takeaways, Lead Falcons 9-0 at the Half",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/atlanta-falcons-at-tampa-bay-buccaneers/halftime/fanatic/"
+   },
+   "gambler": {
+    "label": "Halftime report",
+    "headline": "Halftime Sweat: Bucs 9, Falcons 0, Three Penix Interceptions and a Rally Needed",
+    "url": "https://stories.thecoverwindow.com/nfl/2026/week-8/atlanta-falcons-at-tampa-bay-buccaneers/halftime/gambler/"
+   }
+  }
+ }
+}
