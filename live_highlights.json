@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-01T00:11:17Z",
+ "updated_utc": "2026-11-01T00:39:05Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -648,7 +648,24 @@
    "kickoff_utc": "2026-10-31T20:15Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 0:00",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "sYok6pYCaJs",
+    "title": "South Carolina Gamecocks vs. Oklahoma Sooners | Game Highlights | 2026 SEC Football",
+    "channel": "SEC",
+    "channel_id": "UC60q_WUDde_NK-ze3frvtiA",
+    "url": "https://www.youtube.com/watch?v=sYok6pYCaJs",
+    "embed_url": "https://www.youtube-nocookie.com/embed/sYok6pYCaJs",
+    "thumb": "https://i.ytimg.com/vi/sYok6pYCaJs/hqdefault.jpg",
+    "duration_s": 540,
+    "uploaded_utc": "2026-11-01T00:36:41Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-01T00:38:43Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858506": {
    "game_id": "401858506",
