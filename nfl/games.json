@@ -5165,8 +5165,8 @@
     "detail": "11/1 - 8:20 PM EST",
     "away_score": "0",
     "home_score": "0",
-    "source": "ESPN scoreboard",
-    "fetched_at_utc": "2026-10-28T22:49:17Z"
+    "source": "ESPN game summary",
+    "fetched_at_utc": "2026-11-02T00:23:53Z"
    },
    "market_lines": {
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
@@ -5179,114 +5179,122 @@
     "open_home_line": 1.5,
     "open_total": 46.5,
     "spread_display": "Washington Commanders −5.5",
-    "open_timestamp": ""
+    "open_timestamp": "",
+    "current_source": "DraftKings via ESPN pickcenter (summary?event=401873035)",
+    "current_fetched_at_utc": "2026-11-02T00:23:53Z",
+    "current_home_line": -6.0,
+    "current_total": 40.5,
+    "current_open_home_line_dk": 2.5,
+    "an_consensus_home_line_now": -5.5,
+    "an_consensus_fetched_at_utc": "2026-11-02T00:24:11Z"
    },
    "injuries": {
-    "source": "NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg8 (Philadelphia Eagles: no injuries reported; fetched Oct 28, 6:49 PM ET)",
-    "as_of_utc": "2026-10-28T22:49:36Z",
-    "away": [],
+    "source": "ESPN game summary injuries and inactives, event 401873035 (fetched Nov 1, 7:23 PM ET)",
+    "as_of_utc": "2026-11-02T00:23:53Z",
+    "away": [
+     {
+      "team": "PHI",
+      "player": "Dontayvion Wicks",
+      "position": "WR",
+      "injury": "",
+      "practice_status": "",
+      "game_status": "Inactive"
+     },
+     {
+      "team": "PHI",
+      "player": "DeVonta Smith",
+      "position": "WR",
+      "injury": "",
+      "practice_status": "",
+      "game_status": "Inactive"
+     },
+     {
+      "team": "PHI",
+      "player": "Jake Majors",
+      "position": "C",
+      "injury": "",
+      "practice_status": "",
+      "game_status": "Inactive"
+     },
+     {
+      "team": "PHI",
+      "player": "Jonathan Jones",
+      "position": "CB",
+      "injury": "",
+      "practice_status": "",
+      "game_status": "Inactive"
+     },
+     {
+      "team": "PHI",
+      "player": "Jihaad Campbell",
+      "position": "LB",
+      "injury": "",
+      "practice_status": "",
+      "game_status": "Inactive"
+     }
+    ],
     "home": [
      {
       "team": "WAS",
-      "player": "John Bates",
-      "position": "TE",
-      "injury": "",
-      "practice_status": "Did Not Participate In Practice",
-      "game_status": ""
-     },
-     {
-      "team": "WAS",
-      "player": "Treylon Burks",
-      "position": "WR",
-      "injury": "",
-      "practice_status": "Limited Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "team": "WAS",
-      "player": "Jayden Daniels",
+      "player": "Athan Kaliakmanis",
       "position": "QB",
       "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
+      "practice_status": "",
+      "game_status": "Inactive"
      },
      {
       "team": "WAS",
-      "player": "Stefon Diggs",
-      "position": "WR",
+      "player": "Isaac Yiadom",
+      "position": "CB",
       "injury": "",
-      "practice_status": "Did Not Participate In Practice",
-      "game_status": ""
+      "practice_status": "",
+      "game_status": "Inactive"
      },
      {
       "team": "WAS",
-      "player": "Javon Kinlaw",
-      "position": "DT",
+      "player": "Tanoa Togiai",
+      "position": "G",
       "injury": "",
-      "practice_status": "Did Not Participate In Practice",
-      "game_status": ""
-     },
-     {
-      "team": "WAS",
-      "player": "Marcus Mariota",
-      "position": "QB",
-      "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
+      "practice_status": "",
+      "game_status": "Inactive"
      },
      {
       "team": "WAS",
       "player": "Fabian Moreau",
       "position": "CB",
       "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
+      "practice_status": "",
+      "game_status": "Inactive"
      },
      {
       "team": "WAS",
-      "player": "Jer'Zhan Newton",
+      "player": "Daron Payne",
       "position": "DT",
       "injury": "",
-      "practice_status": "Limited Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "team": "WAS",
-      "player": "Charles Omenihu",
-      "position": "DE",
-      "injury": "",
-      "practice_status": "Limited Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "team": "WAS",
-      "player": "Colson Yankoff",
-      "position": "TE",
-      "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
+      "practice_status": "",
+      "game_status": "Inactive"
      }
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261101",
-   "spread": "Philadelphia Eagles +5.5",
-   "story_text": "Commanders 23, Eagles 22. Eagles cover the 5.5. Over 40.5.",
+   "spread": "Philadelphia Eagles +6",
+   "story_text": "Commanders 24, Eagles 22. Eagles cover the 6. Over 40.5.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
    "line_used": {
-    "home_line": -5.5,
+    "home_line": -6.0,
     "total": 40.5,
-    "source": "Consensus line as of Oct 28, 6:49 PM ET",
-    "as_of_utc": "2026-10-28T22:49:22Z"
+    "source": "Line as of Nov 1, 7:23 PM ET (DraftKings via ESPN)",
+    "as_of_utc": "2026-11-02T00:23:53Z"
    },
    "total_line": 40.5,
    "prediction": {
     "away_score": 22,
-    "home_score": 23,
+    "home_score": 24,
     "winner": "Washington Commanders",
-    "covers": "Philadelphia Eagles +5.5"
+    "covers": "Philadelphia Eagles +6"
    },
    "handicappers": [
     {
@@ -5297,7 +5305,7 @@
     },
     {
      "id": "H2",
-     "public_case": "With the players available: projected points Commanders 22.1, Eagles 22.9. Availability: expected starting quarterbacks Jayden Daniels (WAS) and Jalen Hurts (PHI). NFL.com official Week 8 injury report (fetched Oct 28, 6:49 PM ET): no quarterback is ruled out; each team’s expected starter is the one who started its last game unless the team has named a different starter, or its main starter is on the report and not ruled out.",
+     "public_case": "With the players available: projected points Commanders 22.1, Eagles 22.9. Availability: expected starting quarterbacks Jayden Daniels (WAS) and Jalen Hurts (PHI). ESPN injury and inactive list (fetched Nov 1, 7:23 PM ET): neither starting quarterback is inactive; Washington backup Athan Kaliakmanis is inactive.",
      "market": "spread",
      "best_bet": false
     },
@@ -5309,7 +5317,7 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was Washington Commanders −4.5 (Oct 27, 3:02 AM ET) and it is Washington Commanders −5.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 40.5 (Oct 27, 8:37 AM ET), then total 40.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was Washington Commanders −4.5 (Oct 27, 3:02 AM ET) and it is Washington Commanders −5.5 now (Action Network consensus, Nov 1, 7:24 PM ET). This week’s first consensus total was 40.5 (Oct 27, 8:37 AM ET), and it is 40.5 now (Action Network consensus, Nov 1, 7:24 PM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -5326,10 +5334,10 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Oct 28, 6:49 PM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Oct 28, 6:49 PM ET.",
+    "Lines: DraftKings via ESPN, as of Nov 1, 7:23 PM ET; checked against the Action Network consensus at 7:24 PM ET.",
     "The Formula ratings: nflverse play-by-play as of Oct 28, 6:49 PM ET, Weeks 1–7 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–7 finals.",
-    "Injuries: NFL.com official Week 8 injury report, fetched Oct 28, 6:49 PM ET (quarterback status used by Next Man Up).",
+    "Injuries: ESPN injury and inactive list, fetched Nov 1, 7:23 PM ET (quarterback status used by Next Man Up).",
     "Follow The Money: move from the first consensus line at or after Oct 27, 12:15 AM ET (Action Network line history).",
     "Records and points: ESPN team pages, as of Oct 28, 6:49 PM ET.",
     "Next Man Up: nflverse game results and play-by-play, the NFL.com Week 8 injury report and team announcements.",
@@ -5341,84 +5349,84 @@
    "writer_total": {
     "label": "",
     "source": "Cover Writer",
-    "projected_total": 45,
+    "projected_total": 46,
     "market_total": 40.5,
     "pick": "Over",
     "text": "Over 40.5"
    },
    "display": {
     "writer": {
-     "score_line": "Projected: Washington Commanders 23, Philadelphia Eagles 22 (Total 45)",
-     "side": "Philadelphia Eagles +5.5",
+     "score_line": "Projected: Washington Commanders 24, Philadelphia Eagles 22 (Total 46)",
+     "side": "Philadelphia Eagles +6",
      "ou": "Over 40.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Philadelphia Eagles +5.5",
+      "side_line": "Side: Philadelphia Eagles +6",
       "ou_line": "O/U: Over 40.5 · Likes this total",
       "score_line": "Projected: Washington Commanders 25, Philadelphia Eagles 22 (Total 47)",
       "basis_line": "Net ratings Washington Commanders −6.0, Philadelphia Eagles −8.0 (nflverse play-by-play, Oct 28, 2026)",
       "independent": true,
-      "distance_from_spread": 2.5,
-      "distance_from_total": 6.5
+      "distance_from_spread": 2.2,
+      "distance_from_total": 6.4
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Philadelphia Eagles +5.5 · Likes this side",
+      "side_line": "Side: Philadelphia Eagles +6 · Likes this side",
       "ou_line": "O/U: Over 40.5 · Likes this total",
       "score_line": "Projected: Washington Commanders 22, Philadelphia Eagles 23 (Total 45)",
-      "basis_line": "With the players available: projected points Commanders 22.1, Eagles 22.9. Availability: expected starting quarterbacks Jayden Daniels (WAS) and Jalen Hurts (PHI). NFL.com official Week 8 injury report (fetched Oct 28, 6:49 PM ET): no quarterback is ruled out; each team’s expected starter is the one who started its last game unless the team has named a different starter, or its main starter is on the report and not ruled out.",
+      "basis_line": "With the players available: projected points Commanders 22.1, Eagles 22.9. Availability: expected starting quarterbacks Jayden Daniels (WAS) and Jalen Hurts (PHI). ESPN injury and inactive list (fetched Nov 1, 7:23 PM ET): neither starting quarterback is inactive; Washington backup Athan Kaliakmanis is inactive.",
       "independent": true,
-      "distance_from_spread": 6.5,
+      "distance_from_spread": 6.8,
       "distance_from_total": 4.5
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Philadelphia Eagles +5.5 · Likes this side",
+      "side_line": "Side: Philadelphia Eagles +6 · Likes this side",
       "ou_line": "O/U: Over 40.5 · Likes this total",
       "score_line": "Projected: Washington Commanders 23, Philadelphia Eagles 21 (Total 44)",
       "basis_line": "Rest and travel read: Philadelphia Eagles: 6 days since its last game, travels 114 miles; Washington Commanders: 13 days since its last game, plays at home. Projected: Commanders by 2.5. Projected total: 44.1.",
       "independent": true,
       "distance_from_spread": 3.5,
-      "distance_from_total": 3.5
+      "distance_from_total": 3.6
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: Washington Commanders −5.5 · Likes this side",
+      "side_line": "Side: Washington Commanders −6 · Likes this side",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was Washington Commanders −4.5 (Oct 27, 3:02 AM ET) and it is Washington Commanders −5.5 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 40.5 (Oct 27, 8:37 AM ET), then total 40.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was Washington Commanders −4.5 (Oct 27, 3:02 AM ET) and it is Washington Commanders −5.5 now (Action Network consensus, Nov 1, 7:24 PM ET). This week’s first consensus total was 40.5 (Oct 27, 8:37 AM ET), and it is 40.5 now (Action Network consensus, Nov 1, 7:24 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.5,
+      "distance_from_spread": 0.0,
       "distance_from_total": 0.5
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Philadelphia Eagles +5.5 · Likes this side",
+      "side_line": "Side: Philadelphia Eagles +6 · Likes this side",
       "ou_line": "O/U: Over 40.5 · Likes this total",
       "score_line": "Projected: Washington Commanders 23, Philadelphia Eagles 21 (Total 44)",
       "basis_line": "Line-of-scrimmage read: each offense against this defense, 2026 through Week 7. Projected points: Commanders 23.4, Eagles 21.3.",
       "independent": true,
-      "distance_from_spread": 3.5,
-      "distance_from_total": 3.5
+      "distance_from_spread": 3.9,
+      "distance_from_total": 4.1
      }
     ],
     "best_bets": [],
-    "story_text": "Eagles vs Commanders prediction, pick against the spread and over/under: Washington spent Saturday running the fifty-first Marine Corps Marathon with the Key and Memorial bridges closed, and on Sunday night a 1-4-1 Commanders team with no road wins is laying 5.5. That's too many points for this record, even rested, even at home, so I'm taking the Eagles.\n\nNBC has the 8:20 p.m. Eastern kickoff from Northwest Stadium in Landover. The consensus has Washington −5.5 with a total of 40.5 as of Oct 28, 6:49 p.m. ET. My card: Philadelphia Eagles +5.5, Over 40.5, final Commanders 23, Eagles 22.\n\nThe Eagles side is about what Washington hasn't done, because Washington is 1-1-1 at home and has scored 132 points while allowing 172 in six games. That's not a team that wins by six.\n\nThe Formula: Net ratings Washington Commanders −6.0, Philadelphia Eagles −8.0 (nflverse play-by-play, Oct 28, 2026).\n\nIts card has Commanders 25, Eagles 22. I have it closer than that, a one-point game, and 5.5 gives me plenty of room.\n\nWashington's run game is the strongest thing on the field: 4.8 yards a carry against a Philadelphia defense allowing 4.3. That's how the Commanders win. But Philadelphia's defense hasn't been gashed everywhere, and the Eagles run for 3.9 against a Washington defense allowing 4.2, enough to stay balanced.\n\nThe two things that could burn me: the schedule and the rush. Washington last played in Week 6 at San Francisco and comes in with thirteen days of rest. Philadelphia comes in on six days of rest after hosting Dallas. And the Eagles' rush has been nearly silent, getting a sack about once every thirty-one and a half dropbacks, while Philadelphia's own quarterbacks go down about once every fourteen. Washington allows a sack about once every fifteen and gets one about once every twenty-one. Tanner McKee started the Eagles' last game, and Jayden Daniels started Washington's last game. On Wednesday's official injury report, Daniels was a full participant, Stefon Diggs sat out Washington's practice, Saquon Barkley and DeVonta Smith were listed as non-participants on Philadelphia's estimated report from a walkthrough, and there are no game statuses yet. Terry McLaurin is out for the season with a torn patellar tendon.\n\nThe Over is the easy half. This is the one where every scoring opinion agrees. The posted 40.5 is low for two defenses that have allowed 175 and 172 points. The Formula's number is well above that, and my final adds up to 45. Two leaky defenses on a Sunday night should clear it.\n\nEvery scoring opinion is on the Over and the Eagles. The Formula has Commanders 25, Eagles 22. Letdown Watch and In The Trenches both have Commanders 23, Eagles 21. Next Man Up has the Eagles winning outright, Eagles 23, Commanders 22. Follow The Money is the one dissent: it sides with Washington.\n\nWashington moved thousands of marathon runners across closed bridges on schedule Saturday. Moving 5.5 points past a division rival is harder: two teams with three wins between them, every scoring opinion inside a field goal, and 5.5 on the board. Give me the Eagles.\n\nCommanders 23, Eagles 22. Eagles cover the 5.5. Over 40.5.",
-    "fanatic_score_line": "Projected: Washington Commanders 23, Philadelphia Eagles 22 (45 combined points)",
+    "story_text": "Eagles vs Commanders prediction, pick against the spread and over/under: Washington spent Saturday running the fifty-first Marine Corps Marathon with the Key and Memorial bridges closed, and on Sunday night a 1-4-1 Commanders team with no road wins is laying 6. That's too many points for this record, even rested, even at home, so I'm taking the Eagles.\n\nNBC has the 8:20 p.m. Eastern kickoff from Northwest Stadium in Landover. DraftKings has Washington −6 with a total of 40.5 as of Nov 1, 7:23 p.m. ET. My card: Philadelphia Eagles +6, Over 40.5, final Commanders 24, Eagles 22.\n\nThe Eagles side is about what Washington hasn't done, because Washington is 1-1-1 at home and has scored 132 points while allowing 172 in six games. That's not a team that wins by seven.\n\nThe Formula: Net ratings Washington Commanders −6.0, Philadelphia Eagles −8.0 (nflverse play-by-play, Oct 28, 2026).\n\nIts card has Commanders 25, Eagles 22. I have it closer than that, a two-point game, and 6 gives me plenty of room.\n\nWashington's run game is the strongest thing on the field: 4.8 yards a carry against a Philadelphia defense allowing 4.3. That's how the Commanders win. But Philadelphia's defense hasn't been gashed everywhere, and the Eagles run for 3.9 against a Washington defense allowing 4.2, enough to stay balanced.\n\nThe two things that could burn me: the schedule and the rush. Washington last played in Week 6 at San Francisco and comes in with thirteen days of rest. Philadelphia comes in on six days of rest after hosting Dallas. And the Eagles' rush has been nearly silent, getting a sack about once every thirty-one and a half dropbacks, while Philadelphia's own quarterbacks go down about once every fourteen. Washington allows a sack about once every fifteen and gets one about once every twenty-one. Tanner McKee started the Eagles' last game, and Jayden Daniels started Washington's last game. Hurts and Daniels are both off Sunday's inactive list. Philadelphia is without DeVonta Smith, Dontayvion Wicks, center Jake Majors, Jonathan Jones and Jihaad Campbell. Washington is without Daron Payne, Isaac Yiadom, Fabian Moreau, Tanoa Togiai and backup quarterback Athan Kaliakmanis. Terry McLaurin is out for the season with a torn patellar tendon.\n\nThe Over is the easy half. This is the one where every scoring opinion agrees. The posted 40.5 is low for two defenses that have allowed 175 and 172 points. The Formula's number is well above that, and my final adds up to 46. Two leaky defenses on a Sunday night should clear it.\n\nEvery scoring opinion is on the Over and the Eagles. The Formula has Commanders 25, Eagles 22. Letdown Watch and In The Trenches both have Commanders 23, Eagles 21. Next Man Up has the Eagles winning outright, Eagles 23, Commanders 22. Follow The Money is the one dissent: it sides with Washington.\n\nWashington moved thousands of marathon runners across closed bridges on schedule Saturday. Moving 6 points past a division rival is harder: two teams with three wins between them, every scoring opinion inside four points, and 6 on the board. Give me the Eagles.\n\nCommanders 24, Eagles 22. Eagles cover the 6. Over 40.5.",
+    "fanatic_score_line": "Projected: Washington Commanders 24, Philadelphia Eagles 22 (46 combined points)",
     "market": {
      "score_line": "Market: Washington Commanders 23, Philadelphia Eagles 17 (Total 40)",
-     "spread": "Washington Commanders −5.5",
+     "spread": "Washington Commanders −6",
      "total": "40.5",
-     "source": "Consensus line as of Oct 28, 6:49 PM ET",
+     "source": "Line as of Nov 1, 7:23 PM ET (DraftKings via ESPN)",
      "note": "The market’s own numbers, shown for comparison only."
     }
    },
-   "gambler_story": "Eagles vs Commanders prediction, pick against the spread and over/under: Washington spent Saturday running the fifty-first Marine Corps Marathon with the Key and Memorial bridges closed, and on Sunday night a 1-4-1 Commanders team with no road wins is laying 5.5. That's too many points for this record, even rested, even at home, so I'm taking the Eagles.\n\nNBC has the 8:20 p.m. Eastern kickoff from Northwest Stadium in Landover. The consensus has Washington −5.5 with a total of 40.5 as of Oct 28, 6:49 p.m. ET. My card: Philadelphia Eagles +5.5, Over 40.5, final Commanders 23, Eagles 22.\n\nThe Eagles side is about what Washington hasn't done, because Washington is 1-1-1 at home and has scored 132 points while allowing 172 in six games. That's not a team that wins by six.\n\nThe Formula: Net ratings Washington Commanders −6.0, Philadelphia Eagles −8.0 (nflverse play-by-play, Oct 28, 2026).\n\nIts card has Commanders 25, Eagles 22. I have it closer than that, a one-point game, and 5.5 gives me plenty of room.\n\nWashington's run game is the strongest thing on the field: 4.8 yards a carry against a Philadelphia defense allowing 4.3. That's how the Commanders win. But Philadelphia's defense hasn't been gashed everywhere, and the Eagles run for 3.9 against a Washington defense allowing 4.2, enough to stay balanced.\n\nThe two things that could burn me: the schedule and the rush. Washington last played in Week 6 at San Francisco and comes in with thirteen days of rest. Philadelphia comes in on six days of rest after hosting Dallas. And the Eagles' rush has been nearly silent, getting a sack about once every thirty-one and a half dropbacks, while Philadelphia's own quarterbacks go down about once every fourteen. Washington allows a sack about once every fifteen and gets one about once every twenty-one. Tanner McKee started the Eagles' last game, and Jayden Daniels started Washington's last game. On Wednesday's official injury report, Daniels was a full participant, Stefon Diggs sat out Washington's practice, Saquon Barkley and DeVonta Smith were listed as non-participants on Philadelphia's estimated report from a walkthrough, and there are no game statuses yet. Terry McLaurin is out for the season with a torn patellar tendon.\n\nThe Over is the easy half. This is the one where every scoring opinion agrees. The posted 40.5 is low for two defenses that have allowed 175 and 172 points. The Formula's number is well above that, and my final adds up to 45. Two leaky defenses on a Sunday night should clear it.\n\nEvery scoring opinion is on the Over and the Eagles. The Formula has Commanders 25, Eagles 22. Letdown Watch and In The Trenches both have Commanders 23, Eagles 21. Next Man Up has the Eagles winning outright, Eagles 23, Commanders 22. Follow The Money is the one dissent: it sides with Washington.\n\nWashington moved thousands of marathon runners across closed bridges on schedule Saturday. Moving 5.5 points past a division rival is harder: two teams with three wins between them, every scoring opinion inside a field goal, and 5.5 on the board. Give me the Eagles.\n\nCommanders 23, Eagles 22. Eagles cover the 5.5. Over 40.5.",
-   "fanatic_story": "Philadelphia Eagles vs Washington Commanders on Sunday Night Football in Week 8 comes one day after the fifty-first Marine Corps Marathon shut down the Key and Memorial bridges, and Claire Benton, who thinks structure beats talent every time, spent Saturday admiring how Washington moves thousands of runners on schedule. Ray Donnelly, who explains every Eagles result by watching the guards, drove down I-95 from Philadelphia muttering that nobody ever won a marathon or a football game without somebody big clearing the road.\n\nClaire: Mile markers, water stations, bridge closures timed to the minute. That's coaching, Ray. Joe Gibbs won three Super Bowls here, XVII, XXII and XXVI, with exactly that kind of plan.\n\nRay: Super Bowl LIX, forty to twenty-two against Kansas City. The guards won that game, and I'm the only one who wrote it down.\n\nThe trophy talk went both ways. Ray has Super Bowls LII and LIX and three NFL championships before the merger; Claire has two pre-merger titles and the Gibbs years. She offered Sammy Baugh, Cliff Battles, George Allen and Bobby Beathard. He offered Chuck Bednarik, Reggie White, Steve Van Buren, Pete Pihos and Bob Brown, and pointed out that every one of them was large.\n\nClaire: Of course you'd go with the big men.\n\nRay: Of course I would. I won't take a quarterback opinion as a substitute for watching the guards.\n\nClaire: And I won't pretend one quarterback saves a franchise without a structure around him.\n\nNeither of them is enjoying the fall. Philadelphia is 2-5, 1-3 at home and 1-2 on the road, with 127 points scored and 175 allowed. Washington is 1-4-1, 1-1-1 at home and 0-3 away, with 132 scored and 172 allowed in six games. Tanner McKee started the Eagles' last game, at home against Dallas. Jayden Daniels started the Commanders' last game, at San Francisco in Week 6.\n\nClaire: Thirteen days of rest. Dan Quinn had two weeks to rebuild the structure.\n\nRay: Six days for us. My guards are tired and yours are fresh. Somebody in this city just ran twenty-six miles, and he's probably less sore than my left guard.\n\nBoth defenses set up in a 3-4 base. Nick Sirianni runs Philadelphia, with Vic Fangio on defense and Sean Mannion calling the offense. Quinn has Daronte Jones on defense and David Blough on offense. Washington runs for 4.8 yards a carry against an Eagles defense allowing 4.3; Philadelphia runs for 3.9 against a Commanders defense allowing 4.2.\n\nThat 3.9 is what bothers Ray, and the pocket doesn't comfort him. The Eagles' rush has been the quietest in the building, a sack about once every thirty-one and a half dropbacks, and Philadelphia's quarterbacks go down about once every fourteen. Washington's blockers allow one about once every fifteen, and its rush gets home about once every twenty-one.\n\nRay: Jalen Carter and Jordan Davis are due. They've been due for weeks.\n\nClaire: Daron Payne and Frankie Luvu are due too. Jayden Daniels is always due.\n\nRay: Saquon Barkley and DeVonta Smith, hamstrings permitting. And Quinyon Mitchell will be glued to Stefon Diggs if he plays.\n\nClaire: Jacory Croskey-Merritt. Say it three times fast and he's already in the end zone.\n\nThe official practice sheet from Wednesday was lopsided. Philadelphia, after a walkthrough, listed nineteen players on an estimated report, with Barkley and Smith among those who would not have practiced. Washington had Daniels practicing fully and Stefon Diggs sitting out, with no game statuses yet, and Terry McLaurin is out for the season with a torn patellar tendon. Claire wants Diggs back for the structure; Ray wants the structure tested without him.\n\nRay: If we win, the game ball goes to a guard.\n\nClaire: If we win, it goes to the play sheet. Laminated, like a marathon course map.\n\nRay: The runners got the bridges Saturday. Sunday night, whoever wins up front gets the city.\n\nMy call: Commanders 23, Eagles 22.",
-   "fanatic_final_sentence": "Commanders 23, Eagles 22.",
+   "gambler_story": "Eagles vs Commanders prediction, pick against the spread and over/under: Washington spent Saturday running the fifty-first Marine Corps Marathon with the Key and Memorial bridges closed, and on Sunday night a 1-4-1 Commanders team with no road wins is laying 6. That's too many points for this record, even rested, even at home, so I'm taking the Eagles.\n\nNBC has the 8:20 p.m. Eastern kickoff from Northwest Stadium in Landover. DraftKings has Washington −6 with a total of 40.5 as of Nov 1, 7:23 p.m. ET. My card: Philadelphia Eagles +6, Over 40.5, final Commanders 24, Eagles 22.\n\nThe Eagles side is about what Washington hasn't done, because Washington is 1-1-1 at home and has scored 132 points while allowing 172 in six games. That's not a team that wins by seven.\n\nThe Formula: Net ratings Washington Commanders −6.0, Philadelphia Eagles −8.0 (nflverse play-by-play, Oct 28, 2026).\n\nIts card has Commanders 25, Eagles 22. I have it closer than that, a two-point game, and 6 gives me plenty of room.\n\nWashington's run game is the strongest thing on the field: 4.8 yards a carry against a Philadelphia defense allowing 4.3. That's how the Commanders win. But Philadelphia's defense hasn't been gashed everywhere, and the Eagles run for 3.9 against a Washington defense allowing 4.2, enough to stay balanced.\n\nThe two things that could burn me: the schedule and the rush. Washington last played in Week 6 at San Francisco and comes in with thirteen days of rest. Philadelphia comes in on six days of rest after hosting Dallas. And the Eagles' rush has been nearly silent, getting a sack about once every thirty-one and a half dropbacks, while Philadelphia's own quarterbacks go down about once every fourteen. Washington allows a sack about once every fifteen and gets one about once every twenty-one. Tanner McKee started the Eagles' last game, and Jayden Daniels started Washington's last game. Hurts and Daniels are both off Sunday's inactive list. Philadelphia is without DeVonta Smith, Dontayvion Wicks, center Jake Majors, Jonathan Jones and Jihaad Campbell. Washington is without Daron Payne, Isaac Yiadom, Fabian Moreau, Tanoa Togiai and backup quarterback Athan Kaliakmanis. Terry McLaurin is out for the season with a torn patellar tendon.\n\nThe Over is the easy half. This is the one where every scoring opinion agrees. The posted 40.5 is low for two defenses that have allowed 175 and 172 points. The Formula's number is well above that, and my final adds up to 46. Two leaky defenses on a Sunday night should clear it.\n\nEvery scoring opinion is on the Over and the Eagles. The Formula has Commanders 25, Eagles 22. Letdown Watch and In The Trenches both have Commanders 23, Eagles 21. Next Man Up has the Eagles winning outright, Eagles 23, Commanders 22. Follow The Money is the one dissent: it sides with Washington.\n\nWashington moved thousands of marathon runners across closed bridges on schedule Saturday. Moving 6 points past a division rival is harder: two teams with three wins between them, every scoring opinion inside four points, and 6 on the board. Give me the Eagles.\n\nCommanders 24, Eagles 22. Eagles cover the 6. Over 40.5.",
+   "fanatic_story": "Philadelphia Eagles vs Washington Commanders on Sunday Night Football in Week 8 comes one day after the fifty-first Marine Corps Marathon shut down the Key and Memorial bridges, and Claire Benton, who thinks structure beats talent every time, spent Saturday admiring how Washington moves thousands of runners on schedule. Ray Donnelly, who explains every Eagles result by watching the guards, drove down I-95 from Philadelphia muttering that nobody ever won a marathon or a football game without somebody big clearing the road.\n\nClaire: Mile markers, water stations, bridge closures timed to the minute. That's coaching, Ray. Joe Gibbs won three Super Bowls here, XVII, XXII and XXVI, with exactly that kind of plan.\n\nRay: Super Bowl LIX, forty to twenty-two against Kansas City. The guards won that game, and I'm the only one who wrote it down.\n\nThe trophy talk went both ways. Ray has Super Bowls LII and LIX and three NFL championships before the merger; Claire has two pre-merger titles and the Gibbs years. She offered Sammy Baugh, Cliff Battles, George Allen and Bobby Beathard. He offered Chuck Bednarik, Reggie White, Steve Van Buren, Pete Pihos and Bob Brown, and pointed out that every one of them was large.\n\nClaire: Of course you'd go with the big men.\n\nRay: Of course I would. I won't take a quarterback opinion as a substitute for watching the guards.\n\nClaire: And I won't pretend one quarterback saves a franchise without a structure around him.\n\nNeither of them is enjoying the fall. Philadelphia is 2-5, 1-3 at home and 1-2 on the road, with 127 points scored and 175 allowed. Washington is 1-4-1, 1-1-1 at home and 0-3 away, with 132 scored and 172 allowed in six games. Tanner McKee started the Eagles' last game, at home against Dallas. Jayden Daniels started the Commanders' last game, at San Francisco in Week 6.\n\nClaire: Thirteen days of rest. Dan Quinn had two weeks to rebuild the structure.\n\nRay: Six days for us. My guards are tired and yours are fresh. Somebody in this city just ran twenty-six miles, and he's probably less sore than my left guard.\n\nBoth defenses set up in a 3-4 base. Nick Sirianni runs Philadelphia, with Vic Fangio on defense and Sean Mannion calling the offense. Quinn has Daronte Jones on defense and David Blough on offense. Washington runs for 4.8 yards a carry against an Eagles defense allowing 4.3; Philadelphia runs for 3.9 against a Commanders defense allowing 4.2.\n\nThat 3.9 is what bothers Ray, and the pocket doesn't comfort him. The Eagles' rush has been the quietest in the building, a sack about once every thirty-one and a half dropbacks, and Philadelphia's quarterbacks go down about once every fourteen. Washington's blockers allow one about once every fifteen, and its rush gets home about once every twenty-one.\n\nRay: Jalen Carter and Jordan Davis are due. They've been due for weeks.\n\nClaire: Daron Payne and Frankie Luvu are due too. Jayden Daniels is always due.\n\nRay: Saquon Barkley and DeVonta Smith, hamstrings permitting. And Quinyon Mitchell will be glued to Stefon Diggs if he plays.\n\nClaire: Jacory Croskey-Merritt. Say it three times fast and he's already in the end zone.\n\nThe official practice sheet from Wednesday was lopsided. Philadelphia, after a walkthrough, listed nineteen players on an estimated report, with Barkley and Smith among those who would not have practiced. Washington had Daniels practicing fully and Stefon Diggs sitting out, with no game statuses yet, and Terry McLaurin is out for the season with a torn patellar tendon. Claire wants Diggs back for the structure; Ray wants the structure tested without him.\n\nRay: If we win, the game ball goes to a guard.\n\nClaire: If we win, it goes to the play sheet. Laminated, like a marathon course map.\n\nRay: The runners got the bridges Saturday. Sunday night, whoever wins up front gets the city.\n\nMy call: Commanders 24, Eagles 22.",
+   "fanatic_final_sentence": "Commanders 24, Eagles 22.",
    "preview_sources": [],
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/phi and https://www.espn.com/nfl/team/_/name/wsh, retrieved Oct 28, 6:49 PM ET"
