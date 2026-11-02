@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "nfl",
- "updated_utc": "2026-11-01T23:01:37Z",
+ "updated_utc": "2026-11-02T00:37:40Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401873026": {
@@ -51,7 +51,24 @@
    "kickoff_utc": "2026-11-01T18:00Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "7KdjkYtdNfU",
+    "title": "2026 Week 8: Lions vs Vikings | Highlights 🎥",
+    "channel": "Detroit Lions",
+    "channel_id": "UCv5J06V-ESk5_1uriG65f3w",
+    "url": "https://www.youtube.com/watch?v=7KdjkYtdNfU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/7KdjkYtdNfU",
+    "thumb": "https://i.ytimg.com/vi/7KdjkYtdNfU/hqdefault.jpg",
+    "duration_s": 491,
+    "uploaded_utc": "2026-11-02T00:13:45Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-02T00:37:34Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401873029": {
    "game_id": "401873029",
