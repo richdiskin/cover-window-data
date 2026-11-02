@@ -4,7 +4,7 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 248,
+  "count": 250,
   "lead_id": "fanatic_team-indiana",
   "articles": [
     {
@@ -2026,6 +2026,196 @@
         {
           "label": "ESPN Chiefs schedule",
           "url": "https://www.espn.com/nfl/team/schedule/_/name/kc/kansas-city-chiefs"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-wsh",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "wsh",
+      "team_ids": [
+        "wsh"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873035",
+      "title": "Washington Commanders vs Philadelphia Eagles Week 8: 27 Straight 27-10",
+      "byline": "",
+      "matchup": "Final: Washington Commanders (2-4-1) 27, Philadelphia Eagles (2-6) 10, Sun., Nov. 1, Northwest Stadium, Landover. Next: vs Los Angeles Rams, Sun., Nov. 8, 1:00 PM ET, Northwest Stadium, Landover",
+      "date": "2026-11-01",
+      "word_count": 353,
+      "text": "Washington Commanders 27, Philadelphia Eagles 10, and the whole DMV can dance tonight. The Washington Ballet opened its 50th season this weekend with Go-Go 50 at the Warner Theatre, ballet set to the heartbeat of D.C. On Sunday Night Football in Landover, our guys found the beat after a rough first quarter and never let Philadelphia score again.\n\nThat start was ugly. Drew Stevens missed from 55, Chig Okonkwo lost a fumble to Andrew Mukuba, and Saquon Barkley took a direct snap in from 3. Philly led 10-0. Then Stevens buried a 56-yarder with 28 seconds left in the quarter, and the comeback had its first note.\n\nJayden Daniels went to work in the second quarter: 11 plays, 89 yards, Treylon Burks grabbing 21 along the way, and an 8-yard touchdown throw to Stefon Diggs to tie it 10-10. Daniels took a hard hit on the last drive of the half and got up slow, but he stayed in, Diggs grabbed a 20-yarder on that drive, and Stevens banked a 39-yarder for 13-10.\n\nThe defense did the rest. Dorance Armstrong stripped Tanner McKee late in the third, Charles Omenihu recovered, and Daniels dropped a 53-yard dime to Burks to set up Stevens from 25. Jake Elliott's 41-yard retry hit the left upright after a Philly illegal formation flag wiped out his make. Stevens hit from 42 for 19-10, Rasul Douglas intercepted McKee on fourth-and-25, and Rachaad White ripped off 33 yards before punching it in from 1. Austin Ekeler ran in the two-point try. Twenty-seven straight points.\n\nDaniels went 16-of-29 for 217 yards and a touchdown with no interceptions, his first win as a starter since he beat the Chargers on Oct. 5, 2025. Burks caught three for 81, Antonio Williams five for 54, and White ran for 55. Stevens went 4-of-5 for 13 points. Five different guys sacked McKee: Armstrong, Omenihu, Shy Tuttle, K'Lavon Chaisson and Odafe Oweh. Nick Cross made nine tackles. We did it without Terry McLaurin, too. At 2-4-1 we're still in the NFC East hunt, and the Rams come to Northwest Stadium next Sunday. Hail to the Commanders.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Washington Commanders 27, Philadelphia Eagles 10, and the whole DMV can dance tonight. The Washington Ballet opened its 50th season this weekend with Go-Go 50 at the Warner Theatre, ballet set to the heartbeat of D.C. On Sunday Night Football in Landover, our guys found the beat after a rough first quarter and never let Philadelphia score again."
+        },
+        {
+          "type": "paragraph",
+          "text": "That start was ugly. Drew Stevens missed from 55, Chig Okonkwo lost a fumble to Andrew Mukuba, and Saquon Barkley took a direct snap in from 3. Philly led 10-0. Then Stevens buried a 56-yarder with 28 seconds left in the quarter, and the comeback had its first note."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jayden Daniels went to work in the second quarter: 11 plays, 89 yards, Treylon Burks grabbing 21 along the way, and an 8-yard touchdown throw to Stefon Diggs to tie it 10-10. Daniels took a hard hit on the last drive of the half and got up slow, but he stayed in, Diggs grabbed a 20-yarder on that drive, and Stevens banked a 39-yarder for 13-10."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense did the rest. Dorance Armstrong stripped Tanner McKee late in the third, Charles Omenihu recovered, and Daniels dropped a 53-yard dime to Burks to set up Stevens from 25. Jake Elliott's 41-yard retry hit the left upright after a Philly illegal formation flag wiped out his make. Stevens hit from 42 for 19-10, Rasul Douglas intercepted McKee on fourth-and-25, and Rachaad White ripped off 33 yards before punching it in from 1. Austin Ekeler ran in the two-point try. Twenty-seven straight points."
+        },
+        {
+          "type": "paragraph",
+          "text": "Daniels went 16-of-29 for 217 yards and a touchdown with no interceptions, his first win as a starter since he beat the Chargers on Oct. 5, 2025. Burks caught three for 81, Antonio Williams five for 54, and White ran for 55. Stevens went 4-of-5 for 13 points. Five different guys sacked McKee: Armstrong, Omenihu, Shy Tuttle, K'Lavon Chaisson and Odafe Oweh. Nick Cross made nine tackles. We did it without Terry McLaurin, too. At 2-4-1 we're still in the NFC East hunt, and the Rams come to Northwest Stadium next Sunday. Hail to the Commanders."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Washington scored 27 straight points after trailing 10-0 to beat Philadelphia 27-10."
+        },
+        {
+          "type": "fact",
+          "text": "Daniels threw for 217 yards and a touchdown for his first win as a starter since Oct. 5, 2025."
+        },
+        {
+          "type": "fact",
+          "text": "Drew Stevens kicked four field goals, and five different defenders sacked McKee."
+        },
+        {
+          "type": "jab",
+          "text": "Philly had the first quarter. We had the other three."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873035"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873035"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873035"
+        },
+        {
+          "label": "AP: Commanders ride defense to 27-10 win over Eagles",
+          "url": "https://apnews.com/article/eagles-commanders-score-ce0ebb456ec4383d001492e499ce3892"
+        },
+        {
+          "label": "ProFootballTalk: Commanders roll to 27-10 victory over Eagles",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-commanders-roll-to-27-10-victory-over-eagles"
+        },
+        {
+          "label": "Sporting News: Jayden Daniels snaps drought with Commanders' win over Eagles",
+          "url": "https://www.sportingnews.com/us/nfl/washington-commanders/news/jayden-daniels-drought-commanders-win-eagles/dfe1aeadd7094c95890dc0c8"
+        },
+        {
+          "label": "The Washington Ballet: Go-Go 50, Oct. 30-Nov. 1, Warner Theatre",
+          "url": "https://www.washingtonballet.org/events/gogo-50/"
+        },
+        {
+          "label": "ESPN Commanders schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/wsh/washington-commanders"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-phi",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "phi",
+      "team_ids": [
+        "phi"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873035",
+      "title": "Philadelphia Eagles vs Washington Commanders Week 8: Skid Hits Six 10-27",
+      "byline": "",
+      "matchup": "Final: Washington Commanders (2-4-1) 27, Philadelphia Eagles (2-6) 10, Sun., Nov. 1, Northwest Stadium, Landover. Next: vs New York Giants, Sun., Nov. 8, 1:00 PM ET, Lincoln Financial Field, Philadelphia",
+      "date": "2026-11-01",
+      "word_count": 339,
+      "text": "Washington Commanders 27, Philadelphia Eagles 10, and I need a minute. On Saturday, folks back home climbed aboard the Rocky Halloween Tour in full costume, because no costume meant no tour. On Sunday Night Football in Landover, our Birds came out swinging like Rocky in round one, went up 10-0, then took 27 straight to the chin.\n\nThat first quarter was pure Philly. Jake Elliott hit from 40. Andrew Mukuba punched the ball out of Chig Okonkwo's hands, Zack Baun fell on it at their 26, and Tanner McKee dropped one in to Saquon Barkley for 24 yards down to the 2. Barkley took the direct snap and walked in from 3. Ten-nothing, Birds.\n\nThen Washington found its feet. Drew Stevens drilled a 56-yarder, Jayden Daniels capped an 11-play, 89-yard drive with an 8-yard touchdown throw to Stefon Diggs, and Stevens hit from 39 with 19 seconds left in the half. Late in the third, Dorance Armstrong stripped McKee, Charles Omenihu recovered, Treylon Burks hauled in a 53-yarder, and Stevens made it 16-10.\n\nHere's the one that hurts. McKee led a 15-play, 57-yard march that chewed up 7:35. Elliott made a 36-yarder, but Jordan Mailata was flagged for illegal formation, and the retry from 41 clanged off the left upright. Stevens answered from 42 for 19-10. On fourth-and-25, Rasul Douglas intercepted McKee, Rachaad White ripped off 33 yards and then scored from 1, and Austin Ekeler ran in the two-point try.\n\nMcKee, in his third start for the injured Jalen Hurts, went 23-of-34 for 212 yards and an interception and got sacked five times. Barkley had 30 yards on 13 carries. Makai Lemon caught six for 57 and Eli Stowers three for 53. Jeremiah Trotter Jr. made 10 tackles, Mukuba nine, and Jalen Carter and Nolan Smith Jr. each got a sack. Jaydon Blue returned six kicks for 144 yards. That's six straight losses and 2-6, a start this franchise hasn't seen since 1999. The Giants come to the Linc next Sunday. Rocky got knocked down too. Get up.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Washington Commanders 27, Philadelphia Eagles 10, and I need a minute. On Saturday, folks back home climbed aboard the Rocky Halloween Tour in full costume, because no costume meant no tour. On Sunday Night Football in Landover, our Birds came out swinging like Rocky in round one, went up 10-0, then took 27 straight to the chin."
+        },
+        {
+          "type": "paragraph",
+          "text": "That first quarter was pure Philly. Jake Elliott hit from 40. Andrew Mukuba punched the ball out of Chig Okonkwo's hands, Zack Baun fell on it at their 26, and Tanner McKee dropped one in to Saquon Barkley for 24 yards down to the 2. Barkley took the direct snap and walked in from 3. Ten-nothing, Birds."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Washington found its feet. Drew Stevens drilled a 56-yarder, Jayden Daniels capped an 11-play, 89-yard drive with an 8-yard touchdown throw to Stefon Diggs, and Stevens hit from 39 with 19 seconds left in the half. Late in the third, Dorance Armstrong stripped McKee, Charles Omenihu recovered, Treylon Burks hauled in a 53-yarder, and Stevens made it 16-10."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's the one that hurts. McKee led a 15-play, 57-yard march that chewed up 7:35. Elliott made a 36-yarder, but Jordan Mailata was flagged for illegal formation, and the retry from 41 clanged off the left upright. Stevens answered from 42 for 19-10. On fourth-and-25, Rasul Douglas intercepted McKee, Rachaad White ripped off 33 yards and then scored from 1, and Austin Ekeler ran in the two-point try."
+        },
+        {
+          "type": "paragraph",
+          "text": "McKee, in his third start for the injured Jalen Hurts, went 23-of-34 for 212 yards and an interception and got sacked five times. Barkley had 30 yards on 13 carries. Makai Lemon caught six for 57 and Eli Stowers three for 53. Jeremiah Trotter Jr. made 10 tackles, Mukuba nine, and Jalen Carter and Nolan Smith Jr. each got a sack. Jaydon Blue returned six kicks for 144 yards. That's six straight losses and 2-6, a start this franchise hasn't seen since 1999. The Giants come to the Linc next Sunday. Rocky got knocked down too. Get up."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Philadelphia led 10-0 in the first quarter, then gave up 27 straight points in a 27-10 loss."
+        },
+        {
+          "type": "fact",
+          "text": "Jake Elliott's 36-yard make was wiped out by an illegal formation flag, and his 41-yard retry hit the left upright."
+        },
+        {
+          "type": "fact",
+          "text": "McKee was sacked five times and intercepted once; the Eagles have lost six straight."
+        },
+        {
+          "type": "jab",
+          "text": "Ten points in the first quarter, then the gloves came off the wrong guys."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873035"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873035"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873035"
+        },
+        {
+          "label": "AP: Commanders ride defense to 27-10 win over Eagles",
+          "url": "https://apnews.com/article/eagles-commanders-score-ce0ebb456ec4383d001492e499ce3892"
+        },
+        {
+          "label": "ProFootballTalk: Commanders roll to 27-10 victory over Eagles",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-commanders-roll-to-27-10-victory-over-eagles"
+        },
+        {
+          "label": "Philadelphia Inquirer: Eagles' offense stifled again in 27-10 loss to Commanders",
+          "url": "https://www.inquirer.com/eagles/week-8-loss-commanders-tanner-mckee-jayden-daniels-nick-sirianni-20261101.html"
+        },
+        {
+          "label": "Billy Penn: Philly weekly events calendar, Oct. 26 to Nov. 1 (Rocky Halloween Tour)",
+          "url": "https://billypenn.com/2026/10/27/philly-weekly-events-calendar-october-26-to-november-1/"
+        },
+        {
+          "label": "ESPN Eagles schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/phi/philadelphia-eagles"
         }
       ],
       "sources_display": "button",
