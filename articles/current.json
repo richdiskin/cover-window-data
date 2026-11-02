@@ -4,7 +4,7 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 244,
+  "count": 248,
   "lead_id": "fanatic_team-indiana",
   "articles": [
     {
@@ -1658,6 +1658,374 @@
         {
           "label": "ESPN Raiders schedule (next game: at San Francisco 49ers, Sun., Nov. 8, 4:25 PM ET, Levi's Stadium, Santa Clara)",
           "url": "https://www.espn.com/nfl/team/schedule/_/name/lv/las-vegas-raiders"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-mia",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "mia",
+      "team_ids": [
+        "mia"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873034",
+      "title": "Miami Dolphins vs New England Patriots Week 8: Washed Out 19-24",
+      "byline": "",
+      "matchup": "Final: New England Patriots (5-3) 24, Miami Dolphins (1-6) 19, Sun., Nov. 1, Hard Rock Stadium, Miami Gardens. Next: vs Detroit Lions, Sun., Nov. 8, 1:00 PM ET, Hard Rock Stadium, Miami Gardens",
+      "date": "2026-11-01",
+      "word_count": 340,
+      "text": "New England Patriots 24, Miami Dolphins 19, and Biscayne Bay has company. On Saturday, Red Bull Flugtag teams launched homemade flying machines off a deck at Bayfront Park and splashed into the water. On Sunday, in a steady rain at Hard Rock Stadium, our guys built something that flew beautifully for a half before it hit the drink.\n\nThat first half was everything Jeff Hafley has been selling. Jacob Rodriguez forced an Efton Chism fumble, JuJu Brents jumped on it at their 19, and Zane Gonzalez kicked a 31-yarder. Gonzalez then banked a 52-yarder off the left upright, and Chop Robinson sacked Drake Maye twice. Malik Willis capped it with an 11-play, 70-yard drive, and Malik Washington, who had gone down after a hit from Christian Elliss, came back and caught the 1-yard touchdown with eight seconds left. Miami 13, New England 3.\n\nThen New England took the third quarter from us. Mike Vrabel won a challenge that turned an incompletion into Kyle Williams' 43-yard touchdown. Ollie Gordon drew an unsportsmanlike flag, and Hafley sat him a play. The Patriots went 73 yards in 13 plays, replay upheld a fourth-down catch by DeMario Douglas, and Maye ran in from 2. Just like that, 17-13.\n\nWillis's next big throw caromed off DaQuan Jones into Kevin Byard's hands, and Douglas beat us deep for 48 yards one play later. Gonzalez missed from 43. Willis still had fight, finding rookie Kevin Coleman Jr. for a 35-yard touchdown with 2:04 left, but the two-point try fell incomplete and Rhamondre Stevenson pulled in the onside kick.\n\nWillis threw for 211 yards, two touchdowns and an interception and got sacked five times. Gordon ran 19 times for 69, Washington caught five for 40, Greg Dulcich four for 43, and Coleman three for 46. Jordyn Brooks made 11 tackles, and Josh Uche added a sack. We're 1-6, but the last team in this league to run the table was ours, and the kid at quarterback keeps getting up. Detroit comes to Miami Gardens next Sunday. Fins up.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "New England Patriots 24, Miami Dolphins 19, and Biscayne Bay has company. On Saturday, Red Bull Flugtag teams launched homemade flying machines off a deck at Bayfront Park and splashed into the water. On Sunday, in a steady rain at Hard Rock Stadium, our guys built something that flew beautifully for a half before it hit the drink."
+        },
+        {
+          "type": "paragraph",
+          "text": "That first half was everything Jeff Hafley has been selling. Jacob Rodriguez forced an Efton Chism fumble, JuJu Brents jumped on it at their 19, and Zane Gonzalez kicked a 31-yarder. Gonzalez then banked a 52-yarder off the left upright, and Chop Robinson sacked Drake Maye twice. Malik Willis capped it with an 11-play, 70-yard drive, and Malik Washington, who had gone down after a hit from Christian Elliss, came back and caught the 1-yard touchdown with eight seconds left. Miami 13, New England 3."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then New England took the third quarter from us. Mike Vrabel won a challenge that turned an incompletion into Kyle Williams' 43-yard touchdown. Ollie Gordon drew an unsportsmanlike flag, and Hafley sat him a play. The Patriots went 73 yards in 13 plays, replay upheld a fourth-down catch by DeMario Douglas, and Maye ran in from 2. Just like that, 17-13."
+        },
+        {
+          "type": "paragraph",
+          "text": "Willis's next big throw caromed off DaQuan Jones into Kevin Byard's hands, and Douglas beat us deep for 48 yards one play later. Gonzalez missed from 43. Willis still had fight, finding rookie Kevin Coleman Jr. for a 35-yard touchdown with 2:04 left, but the two-point try fell incomplete and Rhamondre Stevenson pulled in the onside kick."
+        },
+        {
+          "type": "paragraph",
+          "text": "Willis threw for 211 yards, two touchdowns and an interception and got sacked five times. Gordon ran 19 times for 69, Washington caught five for 40, Greg Dulcich four for 43, and Coleman three for 46. Jordyn Brooks made 11 tackles, and Josh Uche added a sack. We're 1-6, but the last team in this league to run the table was ours, and the kid at quarterback keeps getting up. Detroit comes to Miami Gardens next Sunday. Fins up."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Miami led 13-3 at halftime and lost 24-19 to New England."
+        },
+        {
+          "type": "fact",
+          "text": "Willis threw touchdowns to Malik Washington and Kevin Coleman Jr. but was sacked five times."
+        },
+        {
+          "type": "fact",
+          "text": "Chop Robinson had two sacks, and Jordyn Brooks made 11 tackles."
+        },
+        {
+          "type": "jab",
+          "text": "Thirteen points in the first half, then the rain got into the playbook."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873034"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873034"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873034"
+        },
+        {
+          "label": "AP: Patriots vs. Dolphins",
+          "url": "https://apnews.com/article/patriots-dolphins-score-maye-18dfaf07511fa8580907f763554a65d4"
+        },
+        {
+          "label": "ProFootballTalk: Patriots rally in second half for 24-19 win in Miami",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-rally-in-second-half-for-24-19-win-in-miami"
+        },
+        {
+          "label": "The Miami Lookout: Things to do in Miami this weekend, Oct. 31-Nov. 1 (Red Bull Flugtag, Bayfront Park)",
+          "url": "https://miamilookout.com/article/things-to-do-miami-weekend-october-31-november-1-2026"
+        },
+        {
+          "label": "ESPN Dolphins schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/mia/miami-dolphins"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ne",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "ne",
+      "team_ids": [
+        "ne"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873034",
+      "title": "New England Patriots vs Miami Dolphins Week 8: Rain Check 24-19",
+      "byline": "",
+      "matchup": "Final: New England Patriots (5-3) 24, Miami Dolphins (1-6) 19, Sun., Nov. 1, Hard Rock Stadium, Miami Gardens. Next: vs Green Bay Packers, Sun., Nov. 8, 4:25 PM ET, Gillette Stadium, Foxborough",
+      "date": "2026-11-01",
+      "word_count": 356,
+      "text": "New England Patriots 24, Miami Dolphins 19, and I'll take a soaked jersey every week if it ends like this. Salem closed out Haunted Happenings on Halloween night with a drone show over the North River. On Sunday our guys flew south into a downpour at Hard Rock Stadium and spent a half looking like they'd stayed up for it.\n\nThe first half was ugly. Andy Borregales opened with a 34-yard field goal, but Jacob Rodriguez punched the ball loose from Efton Chism and Miami turned it into three. Zane Gonzalez banked a 52-yarder off the left upright, Borregales missed from 40, and Malik Willis drove Miami 70 yards in 11 plays for Malik Washington's 1-yard touchdown catch with eight seconds left. We trailed 13-3 and got sacked twice by Chop Robinson along the way.\n\nThen Drake Maye found his feet in the wet. Mike Vrabel threw the red flag on a ruled incompletion, and the replay gave Kyle Williams a 43-yard touchdown. Next came a 13-play, 73-yard grind, kept alive when replay upheld DeMario Douglas on fourth down, and Maye faked the pitch and ran it in from 2 for a 17-13 lead. Maye completed his first eight throws of the half.\n\nKevin Byard sealed the swing early in the fourth. Willis's throw caromed off DaQuan Jones, and Byard grabbed his first interception as a Patriot. One play later, Maye hit Douglas deep for a 48-yard touchdown and 24-13. Gonzalez missed from 43, rookie Kevin Coleman Jr. scored from 35 with 2:04 left, the two-point try failed, and Rhamondre Stevenson pulled in the onside kick. Kneel, kneel, ballgame.\n\nMaye went 16-of-20 for 199 yards and two touchdowns, ran for another, and has accounted for at least three touchdowns in five straight games. Stevenson ran 19 times for 82, and Douglas caught three for 76. The defense sacked Willis five times, with Cory Durden and Gabe Jacas getting a sack and a half each, and Christian Elliss made nine tackles. We were down 13-3 and won without A.J. Brown and TreVeyon Henderson. Green Bay is next at Gillette. Six banners hang in Foxborough for a reason.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "New England Patriots 24, Miami Dolphins 19, and I'll take a soaked jersey every week if it ends like this. Salem closed out Haunted Happenings on Halloween night with a drone show over the North River. On Sunday our guys flew south into a downpour at Hard Rock Stadium and spent a half looking like they'd stayed up for it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half was ugly. Andy Borregales opened with a 34-yard field goal, but Jacob Rodriguez punched the ball loose from Efton Chism and Miami turned it into three. Zane Gonzalez banked a 52-yarder off the left upright, Borregales missed from 40, and Malik Willis drove Miami 70 yards in 11 plays for Malik Washington's 1-yard touchdown catch with eight seconds left. We trailed 13-3 and got sacked twice by Chop Robinson along the way."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Drake Maye found his feet in the wet. Mike Vrabel threw the red flag on a ruled incompletion, and the replay gave Kyle Williams a 43-yard touchdown. Next came a 13-play, 73-yard grind, kept alive when replay upheld DeMario Douglas on fourth down, and Maye faked the pitch and ran it in from 2 for a 17-13 lead. Maye completed his first eight throws of the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kevin Byard sealed the swing early in the fourth. Willis's throw caromed off DaQuan Jones, and Byard grabbed his first interception as a Patriot. One play later, Maye hit Douglas deep for a 48-yard touchdown and 24-13. Gonzalez missed from 43, rookie Kevin Coleman Jr. scored from 35 with 2:04 left, the two-point try failed, and Rhamondre Stevenson pulled in the onside kick. Kneel, kneel, ballgame."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maye went 16-of-20 for 199 yards and two touchdowns, ran for another, and has accounted for at least three touchdowns in five straight games. Stevenson ran 19 times for 82, and Douglas caught three for 76. The defense sacked Willis five times, with Cory Durden and Gabe Jacas getting a sack and a half each, and Christian Elliss made nine tackles. We were down 13-3 and won without A.J. Brown and TreVeyon Henderson. Green Bay is next at Gillette. Six banners hang in Foxborough for a reason."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "New England scored 21 straight points in the second half to beat Miami 24-19."
+        },
+        {
+          "type": "fact",
+          "text": "Maye went 16-of-20 for 199 yards with two touchdown throws and one rushing touchdown."
+        },
+        {
+          "type": "fact",
+          "text": "Kevin Byard's first interception as a Patriot set up Douglas's 48-yard touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "Miami brought the rain. We brought the second half."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873034"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873034"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873034"
+        },
+        {
+          "label": "AP: Patriots vs. Dolphins",
+          "url": "https://apnews.com/article/patriots-dolphins-score-maye-18dfaf07511fa8580907f763554a65d4"
+        },
+        {
+          "label": "ProFootballTalk: Patriots rally in second half for 24-19 win in Miami",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-rally-in-second-half-for-24-19-win-in-miami"
+        },
+        {
+          "label": "Patriots On SI: 6 instant takeaways from soaking-wet win over Dolphins",
+          "url": "https://www.si.com/nfl/patriots/onsi/6-instant-takeaways-from-patriots-soaking-wet-24-19-win-over-dolphins"
+        },
+        {
+          "label": "Salem Haunted Happenings: Halloween Night Finale & Drone Show, Oct. 31",
+          "url": "https://www.hauntedhappenings.org/event/halloween-night-finale-2026/"
+        },
+        {
+          "label": "ESPN Patriots schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/ne/new-england-patriots"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-den",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "den",
+      "team_ids": [
+        "den"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873033",
+      "title": "Denver Broncos vs Kansas City Chiefs Week 8: Mile High Stand 28-24",
+      "byline": "",
+      "matchup": "Final: Kansas City Chiefs (5-2) 24, Denver Broncos (6-2) 28, Sun., Nov. 1, Empower Field at Mile High, Denver. Next: at Carolina Panthers, Sun., Nov. 8, 1:00 PM ET, Bank of America Stadium, Charlotte",
+      "date": "2026-11-01",
+      "word_count": 346,
+      "text": "Denver Broncos 28, Kansas City Chiefs 24, and we're sitting alone atop the AFC West. Across town, the Denver Coliseum spent Sunday on its Día de Muertos Festival, a community altar, folkloric dancing and music from 11 in the morning until 8 at night. At Empower Field at Mile High, 76,831 of us watched this team claw back from a grave of its own.\n\nWil Lutz opened with field goals from 39 and 45, but Patrick Mahomes hit Rashee Rice for a score and then rookie Emmett Johnson for 73 yards from their own 5. The second quarter's best moment was ours, though. Bo Nix and the offense got stuffed at the Kansas City 1 on three straight snaps, and on fourth down Nix found Jaylen Waddle for the touchdown. Harrison Butker's 45-yarder after a 38-yard Johnson catch made it 17-13 at the half.\n\nThe third quarter tested every one of us. Three straight three-and-outs, boos raining down, and Noah Gray's 4-yard touchdown catch made it 24-13. Mile High doesn't quit at 5,280 feet, and neither did Nix.\n\nNix took us 80 yards in nine plays, Marvin Mims Jr. ripped off a 14-yard run to the 4, and Nate Adkins caught the touchdown before Nix hit Waddle for two. Singleton sacked Mahomes on the next drive, Butker missed from 54, and Nix fired a strike to Jonah Coleman for 51 yards. Coleman punched it in from the 5 with 1:56 left. Then the stand. Kansas City reached our 1 with 35 seconds left. JL Skinner stuffed Kenneth Walker III, the Chiefs got flagged for a false start, and Malcolm Roach sacked Mahomes as time ran out.\n\nNix finished 20-of-32 for 222 yards, two touchdowns and no turnovers. Coleman ran 11 times for 41 and caught four for 63, and Courtland Sutton grabbed four for 53. Alex Singleton made 14 tackles, Pat Surtain II had eight and Zach Allen hit Mahomes three times. We went 3-for-3 in the red zone. Sean Payton is now unbeaten at home against Kansas City, and Carolina is next. Orange crush forever.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Denver Broncos 28, Kansas City Chiefs 24, and we're sitting alone atop the AFC West. Across town, the Denver Coliseum spent Sunday on its Día de Muertos Festival, a community altar, folkloric dancing and music from 11 in the morning until 8 at night. At Empower Field at Mile High, 76,831 of us watched this team claw back from a grave of its own."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wil Lutz opened with field goals from 39 and 45, but Patrick Mahomes hit Rashee Rice for a score and then rookie Emmett Johnson for 73 yards from their own 5. The second quarter's best moment was ours, though. Bo Nix and the offense got stuffed at the Kansas City 1 on three straight snaps, and on fourth down Nix found Jaylen Waddle for the touchdown. Harrison Butker's 45-yarder after a 38-yard Johnson catch made it 17-13 at the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter tested every one of us. Three straight three-and-outs, boos raining down, and Noah Gray's 4-yard touchdown catch made it 24-13. Mile High doesn't quit at 5,280 feet, and neither did Nix."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nix took us 80 yards in nine plays, Marvin Mims Jr. ripped off a 14-yard run to the 4, and Nate Adkins caught the touchdown before Nix hit Waddle for two. Singleton sacked Mahomes on the next drive, Butker missed from 54, and Nix fired a strike to Jonah Coleman for 51 yards. Coleman punched it in from the 5 with 1:56 left. Then the stand. Kansas City reached our 1 with 35 seconds left. JL Skinner stuffed Kenneth Walker III, the Chiefs got flagged for a false start, and Malcolm Roach sacked Mahomes as time ran out."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nix finished 20-of-32 for 222 yards, two touchdowns and no turnovers. Coleman ran 11 times for 41 and caught four for 63, and Courtland Sutton grabbed four for 53. Alex Singleton made 14 tackles, Pat Surtain II had eight and Zach Allen hit Mahomes three times. We went 3-for-3 in the red zone. Sean Payton is now unbeaten at home against Kansas City, and Carolina is next. Orange crush forever."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Denver beat Kansas City 28-24 after trailing 24-13 in the third quarter."
+        },
+        {
+          "type": "fact",
+          "text": "Jonah Coleman scored the winner with 1:56 left after a 51-yard catch."
+        },
+        {
+          "type": "fact",
+          "text": "The defense stopped the Chiefs at the Denver 1 in the final seconds."
+        },
+        {
+          "type": "jab",
+          "text": "Kansas City had first-and-goal at the 1 and left with a sack. Welcome to altitude."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873033"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873033"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873033"
+        },
+        {
+          "label": "Mile High Report: Broncos vs. Chiefs second-quarter recap",
+          "url": "https://www.milehighreport.com/denver-broncos-news/190653/broncos-vs-chiefs-second-quarter-recap"
+        },
+        {
+          "label": "DenverBroncos.com: Broncos relish home-field advantage ahead of Week 8 matchup with Chiefs",
+          "url": "https://www.denverbroncos.com/news/in-a-game-like-this-it-s-significant-broncos-relish-home-field-advantage-ahead-of-week-8-matchup-with-chiefs"
+        },
+        {
+          "label": "Denver Coliseum: Día de Muertos Festival, Nov. 1",
+          "url": "https://www.denvercoliseum.com/events/detail/dia-de-muertos-festival-day-of-the-dead-festival-1666244"
+        },
+        {
+          "label": "ESPN Broncos schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/den/denver-broncos"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-kc",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "kc",
+      "team_ids": [
+        "kc"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873033",
+      "title": "Kansas City Chiefs vs Denver Broncos Week 8: One Yard Short 24-28",
+      "byline": "",
+      "matchup": "Final: Kansas City Chiefs (5-2) 24, Denver Broncos (6-2) 28, Sun., Nov. 1, Empower Field at Mile High, Denver. Next: vs New York Jets, Sun., Nov. 8, 1:00 PM ET, Arrowhead Stadium, Kansas City",
+      "date": "2026-11-01",
+      "word_count": 367,
+      "text": "Denver Broncos 28, Kansas City Chiefs 24, and I'm still staring at the ceiling. On Halloween night, the West Bottoms threw a free party on the Rock Island Bridge, music and costumes for all ages. Twenty-four hours later, we went up to Mile High looking to sweep the team we handled at Arrowhead in Week 1. Patrick Mahomes gave us every reason to believe.\n\nWil Lutz kicked two early field goals, but Mahomes hit Rashee Rice for an 11-yard score, and then came the throw of the day. Pinned at our own 5, Mahomes found rookie Emmett Johnson for a 73-yard touchdown and a 14-6 lead. Denver got stuffed at our 1 three straight times before Bo Nix hit Jaylen Waddle on fourth down, but Johnson's 38-yard catch set up Harrison Butker's 45-yarder. We led 17-13 at the half.\n\nThe third quarter was pure Andy Reid. Denver went three-and-out on its first three drives, the home crowd booed, and Mahomes marched us 63 yards in 11 plays, finishing with a 4-yard throw to Noah Gray. That's 24-13, and you could hear Mile High go quiet.\n\nThen it slipped. Nix ran 80 yards in nine plays, found Nate Adkins for the score and hit Waddle on the two-point try. Our answer stalled when Alex Singleton sacked Mahomes, and Butker's 54-yard try sailed wide right with 2:36 left. One snap later Nix hit Jonah Coleman for 51 yards, and Coleman ran it in from the 5. Johnson ripped off a 44-yard kickoff return, Travis Kelce caught a 32-yarder, and Kenneth Walker III, our Super Bowl LX MVP, got us to the 1 with 35 seconds left. An incompletion. Walker stuffed by JL Skinner. A false start. Malcolm Roach sacked Mahomes as time ran out.\n\nMahomes went 30-of-41 for 321 yards, three touchdowns and no interceptions. Johnson caught five for 128, Rice seven for 53, Kelce five for 67, and Walker ran 21 times for 69. Nick Bolton made nine tackles and George Karlaftis had a strip-sack. Eleven penalties for 105 yards is the stat I can't shake. That's two straight losses and second place in the AFC West. The Jets come to Arrowhead next Sunday. Chiefs Kingdom rides on.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Denver Broncos 28, Kansas City Chiefs 24, and I'm still staring at the ceiling. On Halloween night, the West Bottoms threw a free party on the Rock Island Bridge, music and costumes for all ages. Twenty-four hours later, we went up to Mile High looking to sweep the team we handled at Arrowhead in Week 1. Patrick Mahomes gave us every reason to believe."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wil Lutz kicked two early field goals, but Mahomes hit Rashee Rice for an 11-yard score, and then came the throw of the day. Pinned at our own 5, Mahomes found rookie Emmett Johnson for a 73-yard touchdown and a 14-6 lead. Denver got stuffed at our 1 three straight times before Bo Nix hit Jaylen Waddle on fourth down, but Johnson's 38-yard catch set up Harrison Butker's 45-yarder. We led 17-13 at the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter was pure Andy Reid. Denver went three-and-out on its first three drives, the home crowd booed, and Mahomes marched us 63 yards in 11 plays, finishing with a 4-yard throw to Noah Gray. That's 24-13, and you could hear Mile High go quiet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then it slipped. Nix ran 80 yards in nine plays, found Nate Adkins for the score and hit Waddle on the two-point try. Our answer stalled when Alex Singleton sacked Mahomes, and Butker's 54-yard try sailed wide right with 2:36 left. One snap later Nix hit Jonah Coleman for 51 yards, and Coleman ran it in from the 5. Johnson ripped off a 44-yard kickoff return, Travis Kelce caught a 32-yarder, and Kenneth Walker III, our Super Bowl LX MVP, got us to the 1 with 35 seconds left. An incompletion. Walker stuffed by JL Skinner. A false start. Malcolm Roach sacked Mahomes as time ran out."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mahomes went 30-of-41 for 321 yards, three touchdowns and no interceptions. Johnson caught five for 128, Rice seven for 53, Kelce five for 67, and Walker ran 21 times for 69. Nick Bolton made nine tackles and George Karlaftis had a strip-sack. Eleven penalties for 105 yards is the stat I can't shake. That's two straight losses and second place in the AFC West. The Jets come to Arrowhead next Sunday. Chiefs Kingdom rides on."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Denver scored the final 15 points to beat Kansas City 28-24."
+        },
+        {
+          "type": "fact",
+          "text": "Mahomes threw for 321 yards and three touchdowns; Emmett Johnson caught five for 128."
+        },
+        {
+          "type": "fact",
+          "text": "The Chiefs reached the Denver 1 with 35 seconds left and didn't score."
+        },
+        {
+          "type": "jab",
+          "text": "Denver needed four tries from the 1 too. They just got theirs in before halftime."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873033"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873033"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873033"
+        },
+        {
+          "label": "Chiefs Wire: Mahomes, Emmett Johnson touchdown vs. Broncos",
+          "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/11/01/patrick-mahomes-emmett-johnson-touchdown-kansas-city-chiefs-denver-broncos-nfl-week-8/92510731007/"
+        },
+        {
+          "label": "Mile High Report: Broncos vs. Chiefs third-quarter recap",
+          "url": "https://www.milehighreport.com/denver-broncos-news/190656/broncos-vs-chiefs-third-quarter-recap"
+        },
+        {
+          "label": "IN Kansas City: This Weekend in Kansas City, Oct. 30-Nov. 1 (Rock Island Bridge Halloween)",
+          "url": "https://www.inkansascity.com/events-photos/this-week/this-weekend-in-kansas-city-october-30-november-1/"
+        },
+        {
+          "label": "ESPN Chiefs schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/kc/kansas-city-chiefs"
         }
       ],
       "sources_display": "button",
