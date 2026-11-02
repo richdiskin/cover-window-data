@@ -4,9 +4,1469 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 220,
+  "count": 242,
   "lead_id": "fanatic_team-indiana",
   "articles": [
+    {
+      "id": "fanatic_team-pit",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "pit",
+      "team_ids": [
+        "pit"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873027",
+      "title": "Pittsburgh Steelers vs Cleveland Browns Week 8: Steel Rolls 27-6",
+      "byline": "",
+      "matchup": "Final: Cleveland Browns (5-3) 6, Pittsburgh Steelers (6-2) 27, Sun., Nov. 1, Acrisure Stadium, Pittsburgh. Next: bye week, then at Cincinnati Bengals, Sun., Nov. 15, 8:20 PM ET, Paycor Stadium, Cincinnati",
+      "date": "2026-11-01",
+      "word_count": 401,
+      "text": "Pittsburgh Steelers 27, Cleveland Browns 6. Sunday afternoon, along the Mon, the old Carrie Blast Furnaces lit up for Samhain, a fire festival running from 3 to 9 PM inside the old mill. Down at Acrisure Stadium, another old Pittsburgh furnace was running hot. That made 23 straight regular-season home wins over Cleveland, tying the NFL record.\n\nIt started like it always does against these guys. Cleveland went backward. Daylen Everette ripped the ball from Harold Fannin Jr. on the opening drive, and Pittsburgh won the challenge to get it. Chris Boswell missed from 57, so Patrick Queen and Cameron Heyward went and got it back, splitting a sack of Deshaun Watson as Queen jarred the ball loose and Keeanu Benton fell on it. Five plays later, Rico Dowdle ran 9 yards for a 7-0 lead. The Browns finished the first quarter with minus-1 yard.\n\nJaylen Warren set the tone on a third-and-13, bursting 51 yards up the middle, and Boswell added two field goals. Andre Szmyt kept Cleveland close with kicks from 32 and 49, and it was 13-6 with 45 seconds left in the half. Then Warren went 23 yards, Pat Freiermuth caught one for 28, Germie Bernard got us to the 1, and with no timeouts left Mike McCarthy skipped the chip shot. Direct snap to Freiermuth, touchdown, 20-6 with one second showing.\n\nEarly in the third, Heyward blew up Quinshon Judkins on a third-and-1. Next time we had it, Aaron Rodgers found Darnell Washington for 58 yards to the 1, and Warren punched it in for 27-6. Warren finished with 143 yards on 17 carries. Washington had a career-high 94 on three catches.\n\nThe defense did the rest. Eight sacks, the most since 2021. T.J. Watt had two, giving him 20.5 against Cleveland, the most by any player against the Browns in NFL history. Queen made 12 tackles with 1.5 sacks. Nick Herbig and Kevin Jobity Jr. got one each, Jobity's first in the league. Cleveland went 0 for 3 in the red zone and turned it over on downs twice.\n\nRodgers threw an interception to Denzel Ward and we lost a fumble, so it was not a clean sheet. It was still our fourth straight win. We are 6-2, alone in first in the AFC North, and 4-0 at home under McCarthy. After the bye, it is Cincinnati on a Sunday night. Same furnace. Different fuel.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pittsburgh Steelers 27, Cleveland Browns 6. Sunday afternoon, along the Mon, the old Carrie Blast Furnaces lit up for Samhain, a fire festival running from 3 to 9 PM inside the old mill. Down at Acrisure Stadium, another old Pittsburgh furnace was running hot. That made 23 straight regular-season home wins over Cleveland, tying the NFL record."
+        },
+        {
+          "type": "paragraph",
+          "text": "It started like it always does against these guys. Cleveland went backward. Daylen Everette ripped the ball from Harold Fannin Jr. on the opening drive, and Pittsburgh won the challenge to get it. Chris Boswell missed from 57, so Patrick Queen and Cameron Heyward went and got it back, splitting a sack of Deshaun Watson as Queen jarred the ball loose and Keeanu Benton fell on it. Five plays later, Rico Dowdle ran 9 yards for a 7-0 lead. The Browns finished the first quarter with minus-1 yard."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jaylen Warren set the tone on a third-and-13, bursting 51 yards up the middle, and Boswell added two field goals. Andre Szmyt kept Cleveland close with kicks from 32 and 49, and it was 13-6 with 45 seconds left in the half. Then Warren went 23 yards, Pat Freiermuth caught one for 28, Germie Bernard got us to the 1, and with no timeouts left Mike McCarthy skipped the chip shot. Direct snap to Freiermuth, touchdown, 20-6 with one second showing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Early in the third, Heyward blew up Quinshon Judkins on a third-and-1. Next time we had it, Aaron Rodgers found Darnell Washington for 58 yards to the 1, and Warren punched it in for 27-6. Warren finished with 143 yards on 17 carries. Washington had a career-high 94 on three catches."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense did the rest. Eight sacks, the most since 2021. T.J. Watt had two, giving him 20.5 against Cleveland, the most by any player against the Browns in NFL history. Queen made 12 tackles with 1.5 sacks. Nick Herbig and Kevin Jobity Jr. got one each, Jobity's first in the league. Cleveland went 0 for 3 in the red zone and turned it over on downs twice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rodgers threw an interception to Denzel Ward and we lost a fumble, so it was not a clean sheet. It was still our fourth straight win. We are 6-2, alone in first in the AFC North, and 4-0 at home under McCarthy. After the bye, it is Cincinnati on a Sunday night. Same furnace. Different fuel."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Pittsburgh Steelers beat the Cleveland Browns 27-6 on Sunday, Nov. 1, at Acrisure Stadium in Week 8 for their fourth straight win. Pittsburgh is 6-2 and alone in first in the AFC North."
+        },
+        {
+          "type": "fact",
+          "text": "Pittsburgh sacked Deshaun Watson eight times. T.J. Watt had two, giving him 20.5 against Cleveland."
+        },
+        {
+          "type": "fact",
+          "text": "Jaylen Warren ran for 143 yards and a touchdown, and Pat Freiermuth scored on a direct snap with one second left in the half."
+        },
+        {
+          "type": "jab",
+          "text": "Cleveland went minus-1 yard in the first quarter. Some things never change around here."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Steelers 27, Browns 6 (Nov. 1, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873027"
+        },
+        {
+          "label": "ESPN game recap, Browns at Steelers",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873027"
+        },
+        {
+          "label": "ESPN play-by-play, Browns at Steelers",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873027"
+        },
+        {
+          "label": "Steelers.com: Steelers roll past Browns, 27-6",
+          "url": "https://www.steelers.com/news/steelers-roll-past-browns-27-6"
+        },
+        {
+          "label": "NEXTpittsburgh: 13 events for celebrating Halloweekend in Pittsburgh (Samhain at the Carrie Blast Furnaces)",
+          "url": "https://nextpittsburgh.com/events/13-events-for-celebrating-halloweekend-in-pittsburgh/"
+        },
+        {
+          "label": "ESPN Pittsburgh Steelers schedule (next game: at Cincinnati Bengals, Sun., Nov. 15, 8:20 PM ET, Paycor Stadium, Cincinnati)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/pit/pittsburgh-steelers"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-cle",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "cle",
+      "team_ids": [
+        "cle"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873027",
+      "title": "Cleveland Browns vs Pittsburgh Steelers Week 8: Browns Fall 27-6",
+      "byline": "",
+      "matchup": "Final: Cleveland Browns (5-3) 6, Pittsburgh Steelers (6-2) 27, Sun., Nov. 1, Acrisure Stadium, Pittsburgh. Next: at New Orleans Saints, Sun., Nov. 8, 1:00 PM ET, Caesars Superdome, New Orleans",
+      "date": "2026-11-01",
+      "word_count": 339,
+      "text": "Pittsburgh Steelers 27, Cleveland Browns 6. All weekend, Jurassic Quest filled the Huntington Convention Center downtown with life-size dinosaurs and a costume contest for the kids. Sunday in Pittsburgh, our offense played like one of those dinosaurs: huge, slow, and getting knocked over by a meteor every few minutes. Eight sacks. Six points. Kids, look away.\n\nThe trouble started on the opening drive. Deshaun Watson got hurt on a roughing call, Shedeur Sanders came in, and Harold Fannin Jr. had the ball stripped at our 42. Pittsburgh won the challenge. Two drives later, Patrick Queen knocked it out of Watson's hands and Pittsburgh scored five plays later. We had minus-1 yard after one quarter.\n\nGive the defense credit for keeping it a game. Carson Schwesinger made 10 tackles, and Adin Huntington sacked Aaron Rodgers on a third-and-goal to force a field goal. Andre Szmyt hit from 32 and 49, and it was 13-6 with 45 seconds left in the half.\n\nThen the dam broke. Pittsburgh went 69 yards in six plays, and Pat Freiermuth took a direct snap in from the 1 with one second left. Early in the third, Darnell Washington rumbled 58 yards to the 1 and Jaylen Warren scored for 27-6. Warren ran for 143 yards. We ran for 34 as a team, our lowest of the season.\n\nWatson still threw for 324 yards, his most in a game as a Brown, going 27 of 39. Fannin caught 10 for a career-high 154 yards, the second-most ever by a Browns tight end in one game. Denzel Ward intercepted a deep throw meant for DK Metcalf in the third quarter, his third of the season, tying his career high. Corey Bojorquez dropped three punts inside the 20.\n\nBut zero for 3 in the red zone, zero for 2 on fourth down, and no touchdowns for the first time all season. We are 5-3 and the season series is split. New Orleans is next on Nov. 8. Somebody find this offense a helmet before the next meteor hits.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pittsburgh Steelers 27, Cleveland Browns 6. All weekend, Jurassic Quest filled the Huntington Convention Center downtown with life-size dinosaurs and a costume contest for the kids. Sunday in Pittsburgh, our offense played like one of those dinosaurs: huge, slow, and getting knocked over by a meteor every few minutes. Eight sacks. Six points. Kids, look away."
+        },
+        {
+          "type": "paragraph",
+          "text": "The trouble started on the opening drive. Deshaun Watson got hurt on a roughing call, Shedeur Sanders came in, and Harold Fannin Jr. had the ball stripped at our 42. Pittsburgh won the challenge. Two drives later, Patrick Queen knocked it out of Watson's hands and Pittsburgh scored five plays later. We had minus-1 yard after one quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Give the defense credit for keeping it a game. Carson Schwesinger made 10 tackles, and Adin Huntington sacked Aaron Rodgers on a third-and-goal to force a field goal. Andre Szmyt hit from 32 and 49, and it was 13-6 with 45 seconds left in the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the dam broke. Pittsburgh went 69 yards in six plays, and Pat Freiermuth took a direct snap in from the 1 with one second left. Early in the third, Darnell Washington rumbled 58 yards to the 1 and Jaylen Warren scored for 27-6. Warren ran for 143 yards. We ran for 34 as a team, our lowest of the season."
+        },
+        {
+          "type": "paragraph",
+          "text": "Watson still threw for 324 yards, his most in a game as a Brown, going 27 of 39. Fannin caught 10 for a career-high 154 yards, the second-most ever by a Browns tight end in one game. Denzel Ward intercepted a deep throw meant for DK Metcalf in the third quarter, his third of the season, tying his career high. Corey Bojorquez dropped three punts inside the 20."
+        },
+        {
+          "type": "paragraph",
+          "text": "But zero for 3 in the red zone, zero for 2 on fourth down, and no touchdowns for the first time all season. We are 5-3 and the season series is split. New Orleans is next on Nov. 8. Somebody find this offense a helmet before the next meteor hits."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Cleveland Browns lost 27-6 to the Pittsburgh Steelers on Sunday, Nov. 1, at Acrisure Stadium in Week 8. Cleveland is 5-3."
+        },
+        {
+          "type": "fact",
+          "text": "Deshaun Watson threw for 324 yards, his most as a Brown, and Harold Fannin Jr. caught 10 balls for a career-high 154 yards."
+        },
+        {
+          "type": "fact",
+          "text": "Cleveland was sacked eight times, ran for 34 yards and failed to score a touchdown for the first time this season."
+        },
+        {
+          "type": "jab",
+          "text": "Minus-1 yard in the first quarter. The dinosaurs downtown moved faster."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Steelers 27, Browns 6 (Nov. 1, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873027"
+        },
+        {
+          "label": "ESPN game recap, Browns at Steelers",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873027"
+        },
+        {
+          "label": "ESPN play-by-play, Browns at Steelers",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873027"
+        },
+        {
+          "label": "ClevelandBrowns.com: Harold Fannin Jr. records career-high 154 receiving yards, by the numbers",
+          "url": "https://www.clevelandbrowns.com/news/harold-fannin-jr-records-career-high-154-receiving-yards-by-the-numbers"
+        },
+        {
+          "label": "Destination Cleveland: Jurassic Quest, Huntington Convention Center",
+          "url": "https://www.thisiscleveland.com/events/event-calendar/jurassic-quest-cleveland-oh-2026"
+        },
+        {
+          "label": "ESPN Cleveland Browns schedule (next game: at New Orleans Saints, Sun., Nov. 8, 1:00 PM ET, Caesars Superdome, New Orleans)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/cle/cleveland-browns"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-lar",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "lar",
+      "team_ids": [
+        "lar"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873032",
+      "title": "Los Angeles Rams vs Los Angeles Chargers Week 8: Derby Rally 24-9",
+      "byline": "",
+      "matchup": "Final: Los Angeles Chargers (0-7) 9, Los Angeles Rams (4-4) 24, Sun., Nov. 1, SoFi Stadium, Inglewood. Next: at Washington Commanders, Sun., Nov. 8, 1:00 PM ET, Northwest Stadium, Landover",
+      "date": "2026-11-01",
+      "word_count": 383,
+      "text": "Los Angeles Rams 24, Los Angeles Chargers 9, and the family is back at .500. Downtown, Grand Park's Día de los Muertos was closing out with Noche de los Muertos on Sunday afternoon, a whole city honoring the people who came before. Out in Inglewood, we spent the first half looking like we'd forgotten our own family name. Then we remembered it.\n\nQuentin Lake did his part early, intercepting Justin Herbert and running it back 45 yards to the Chargers' 19, and Brandon McManus kicked a 30-yard field goal. That was nearly all we had for a long while. We went without a first down on our first five drives, a first in Sean McVay's career, and managed 24 yards on our first 15 plays. Cameron Dicker kicked three field goals, and we trailed 9-3.\n\nThen the trunk of the tree held. Matthew Stafford found Tutu Atwell for 40 yards, our first first down of the day, and Kyren Williams walked in untouched from a yard out with 19 seconds left in the half. Herbert answered with a 54-yarder to Ladd McConkey down to our 1, but the clock ran out on them. We led 10-9 at halftime.\n\nBlake Corum owned the opening drive of the second half, piling up 55 yards on eight plays and finishing it himself on a 23-yard touchdown run. Trent McDuffie intercepted Herbert and brought it back 26 yards to their 22, and two plays later Puka Nacua took a screen 18 yards for the score and a 24-9 lead. Nacua finished with 11 catches for 80 yards. Stafford went 17-of-25 for 157 yards, a touchdown and an interception. Corum ran 11 times for 73, and Williams 16 times for 56.\n\nThe defense closed it. Oronde Gadsden caught one a yard short on fourth-and-8 at our 17 with 6:39 left, and we ran 12 plays to bleed out the clock. McDuffie made nine tackles, Nate Landman eight, Josaiah Stewart got a sack and Wesley Bailey forced a strip-sack. Ethan Evans averaged 49.2 yards on five punts. We've won two of three LA derbies and back-to-back games for the first time this season, and we did it without Davante Adams. Jaylen Watson left with a shoulder injury. Super Bowls XXXIV and LVI run through this family. Washington is next.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Los Angeles Rams 24, Los Angeles Chargers 9, and the family is back at .500. Downtown, Grand Park's Día de los Muertos was closing out with Noche de los Muertos on Sunday afternoon, a whole city honoring the people who came before. Out in Inglewood, we spent the first half looking like we'd forgotten our own family name. Then we remembered it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quentin Lake did his part early, intercepting Justin Herbert and running it back 45 yards to the Chargers' 19, and Brandon McManus kicked a 30-yard field goal. That was nearly all we had for a long while. We went without a first down on our first five drives, a first in Sean McVay's career, and managed 24 yards on our first 15 plays. Cameron Dicker kicked three field goals, and we trailed 9-3."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the trunk of the tree held. Matthew Stafford found Tutu Atwell for 40 yards, our first first down of the day, and Kyren Williams walked in untouched from a yard out with 19 seconds left in the half. Herbert answered with a 54-yarder to Ladd McConkey down to our 1, but the clock ran out on them. We led 10-9 at halftime."
+        },
+        {
+          "type": "paragraph",
+          "text": "Blake Corum owned the opening drive of the second half, piling up 55 yards on eight plays and finishing it himself on a 23-yard touchdown run. Trent McDuffie intercepted Herbert and brought it back 26 yards to their 22, and two plays later Puka Nacua took a screen 18 yards for the score and a 24-9 lead. Nacua finished with 11 catches for 80 yards. Stafford went 17-of-25 for 157 yards, a touchdown and an interception. Corum ran 11 times for 73, and Williams 16 times for 56."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense closed it. Oronde Gadsden caught one a yard short on fourth-and-8 at our 17 with 6:39 left, and we ran 12 plays to bleed out the clock. McDuffie made nine tackles, Nate Landman eight, Josaiah Stewart got a sack and Wesley Bailey forced a strip-sack. Ethan Evans averaged 49.2 yards on five punts. We've won two of three LA derbies and back-to-back games for the first time this season, and we did it without Davante Adams. Jaylen Watson left with a shoulder injury. Super Bowls XXXIV and LVI run through this family. Washington is next."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Rams beat the Chargers 24-9 after trailing 9-3 late in the first half."
+        },
+        {
+          "type": "fact",
+          "text": "Corum ran for 73 yards and a touchdown; Nacua caught 11 balls for 80 and a score."
+        },
+        {
+          "type": "fact",
+          "text": "The Rams are 4-4 with back-to-back wins for the first time this season."
+        },
+        {
+          "type": "jab",
+          "text": "Our roommates are 0-7. We'll keep the porch light on for them."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873032"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873032"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873032"
+        },
+        {
+          "label": "Gloria Molina Grand Park: Downtown Día de los Muertos 2026 (Noche de los Muertos, Nov. 1)",
+          "url": "https://grandparkla.org/diadelosmuertos/"
+        },
+        {
+          "label": "ESPN Rams schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/lar/los-angeles-rams"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-lac",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "lac",
+      "team_ids": [
+        "lac"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873032",
+      "title": "Los Angeles Chargers vs Los Angeles Rams Week 8: Film Room 9-24",
+      "byline": "",
+      "matchup": "Final: Los Angeles Chargers (0-7) 9, Los Angeles Rams (4-4) 24, Sun., Nov. 1, SoFi Stadium, Inglewood. Next: vs Houston Texans, Sun., Nov. 8, 4:05 PM ET, SoFi Stadium, Inglewood",
+      "date": "2026-11-01",
+      "word_count": 383,
+      "text": "Los Angeles Rams 24, Los Angeles Chargers 9, and I'm taking this one straight to the film room, because I refuse to file it under that tired old phrase. On Saturday, El Segundo, where this team goes to work every week, threw its Halloween Frolic on Main Street with bounce houses, games and music. On Sunday at SoFi Stadium, we held our roommates without a first down for five straight drives and still walked out 0-7.\n\nClue one came early. Justin Herbert's short throw got intercepted by Quentin Lake, who brought it back 45 yards to our 19, and Brandon McManus kicked a 30-yard field goal. Cameron Dicker answered from 34, 46 and 41 yards, and Mike McDaniel dialed up back-to-back flea-flickers in the second quarter that actually worked. The Rams had 24 yards on their first 15 plays. We led 9-3.\n\nClue two is where the case cracks. Matthew Stafford finally found Tutu Atwell for 40 yards, the Rams' first first down of the day, and Kyren Williams walked in from a yard out with 19 seconds left in the half. Herbert hit Ladd McConkey for 54 yards down to the 1 as the clock ran out. Nine points where there should have been 16, and a 10-9 deficit at the break.\n\nThe second half opened with Blake Corum carrying the Rams 55 yards on an eight-play drive that ended with his 23-yard touchdown run. Then Trent McDuffie intercepted Herbert and ran it back 26 yards to our 22, and two plays later Puka Nacua took a screen 18 yards for 24-9. Our last real shot ended at their 17 with 6:39 left, when Oronde Gadsden caught one a yard short on fourth-and-8. The Rams ran out the clock from there.\n\nHerbert finished 24-of-32 for 257 yards with two interceptions, and he's thrown one in all seven games. McConkey caught four for 86, Gadsden five for 52 and Quentin Johnston four for 37. The run game is the evidence nobody can explain away: 25 carries, 64 yards, with Omarion Hampton at nine for 20 and Kimani Vidal at eight for 23. Tuli Tuipulotu had a sack, and Dicker went 3-for-3. We're the only winless team left, and Derwin James went on injured reserve Saturday. Houston visits next Sunday. Back to the tape.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Los Angeles Rams 24, Los Angeles Chargers 9, and I'm taking this one straight to the film room, because I refuse to file it under that tired old phrase. On Saturday, El Segundo, where this team goes to work every week, threw its Halloween Frolic on Main Street with bounce houses, games and music. On Sunday at SoFi Stadium, we held our roommates without a first down for five straight drives and still walked out 0-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "Clue one came early. Justin Herbert's short throw got intercepted by Quentin Lake, who brought it back 45 yards to our 19, and Brandon McManus kicked a 30-yard field goal. Cameron Dicker answered from 34, 46 and 41 yards, and Mike McDaniel dialed up back-to-back flea-flickers in the second quarter that actually worked. The Rams had 24 yards on their first 15 plays. We led 9-3."
+        },
+        {
+          "type": "paragraph",
+          "text": "Clue two is where the case cracks. Matthew Stafford finally found Tutu Atwell for 40 yards, the Rams' first first down of the day, and Kyren Williams walked in from a yard out with 19 seconds left in the half. Herbert hit Ladd McConkey for 54 yards down to the 1 as the clock ran out. Nine points where there should have been 16, and a 10-9 deficit at the break."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half opened with Blake Corum carrying the Rams 55 yards on an eight-play drive that ended with his 23-yard touchdown run. Then Trent McDuffie intercepted Herbert and ran it back 26 yards to our 22, and two plays later Puka Nacua took a screen 18 yards for 24-9. Our last real shot ended at their 17 with 6:39 left, when Oronde Gadsden caught one a yard short on fourth-and-8. The Rams ran out the clock from there."
+        },
+        {
+          "type": "paragraph",
+          "text": "Herbert finished 24-of-32 for 257 yards with two interceptions, and he's thrown one in all seven games. McConkey caught four for 86, Gadsden five for 52 and Quentin Johnston four for 37. The run game is the evidence nobody can explain away: 25 carries, 64 yards, with Omarion Hampton at nine for 20 and Kimani Vidal at eight for 23. Tuli Tuipulotu had a sack, and Dicker went 3-for-3. We're the only winless team left, and Derwin James went on injured reserve Saturday. Houston visits next Sunday. Back to the tape."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Rams beat the Chargers 24-9 at SoFi Stadium."
+        },
+        {
+          "type": "fact",
+          "text": "Herbert threw for 257 yards with two interceptions, both leading to Rams points."
+        },
+        {
+          "type": "fact",
+          "text": "The Chargers ran 25 times for 64 yards and fell to 0-7."
+        },
+        {
+          "type": "jab",
+          "text": "Five straight drives without a Rams first down, and we still lost by 15. Case not closed."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873032"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873032"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873032"
+        },
+        {
+          "label": "Chargers.com: Game Recap, Rams Week 8",
+          "url": "https://www.chargers.com/news/game-recap-rams-week-8-justin-herbert"
+        },
+        {
+          "label": "El Segundo City News, October 2026 (Halloween Frolic, Oct. 31)",
+          "url": "https://content.govdelivery.com/accounts/CAELSEGUNDO/bulletins/42c5c17"
+        },
+        {
+          "label": "ESPN Chargers schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/lac/los-angeles-chargers"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-dal",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "dal",
+      "team_ids": [
+        "dal"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873024",
+      "title": "Dallas Cowboys vs Arizona Cardinals Week 8: A Lead Slips Away 33-30",
+      "byline": "",
+      "matchup": "Final (OT): Arizona Cardinals (3-5) 33, Dallas Cowboys (3-5) 30, Sun., Nov. 1, AT&T Stadium, Arlington. Next: at Indianapolis Colts, Sun., Nov. 8, 1:00 PM ET, Lucas Oil Stadium, Indianapolis",
+      "date": "2026-11-01",
+      "word_count": 384,
+      "text": "Arizona Cardinals 33, Dallas Cowboys 30 in overtime. Downtown at Levitt Pavilion, Shakespeare LIVE spent Halloween weekend staging a free Macbeth, the story of a man undone after three witches promise him everything. Across town on Sunday, the Cowboys had a 14-point lead in the fourth quarter and watched it fall apart.\n\nI keep the business of this franchise and the football in separate boxes, and for 50 minutes the football was good. Mack Wilson Sr. stopped us on fourth-and-1 early, but the defense answered by stuffing Jeremiyah Love on fourth-and-goal at our 1. Shemar James intercepted Jacoby Brissett and returned it 33 yards, and James Mitchell recovered a fumble in the end zone for the first touchdown. Dak Prescott found Ryan Flournoy from 9. Brandon Aubrey added a field goal, and Prescott scrambled 5 yards for a 24-10 lead with 14:20 left.\n\nThe rush up front was real. Quinnen Williams had two sacks, James Houston, Von Miller and Donovan Ezeiruaku got one each, and Brissett was gone by the fourth quarter. DeMarvion Overshown forced a fumble before the half. The offense did not turn the ball over once.\n\nThen Gardner Minshew happened. Tyler Allgeier ran 63 yards for one score and caught another. Aubrey kicked from 35 and 41 to keep us ahead 30-24, but a Rashan Gary roughing penalty extended an Arizona drive that ended in a Trey McBride touchdown. With 65 seconds left, Minshew went 80 yards in eight plays, and Michael Wilson caught the tying score with six seconds to go. Chad Ryland missed the extra point, and we still could not finish it.\n\nIn overtime, Williams sacked Minshew to start an Arizona three-and-out. Josh Sweat sacked Prescott right back. Arizona then fed Allgeier until Ryland hit a 42-yarder.\n\nThe honest part: Dallas ran 39 times for 93 yards, 2.4 per carry, and got outgained 467-261. Prescott went 19 of 29 for 195 yards and was sacked four times. CeeDee Lamb caught seven for 58. The run defense gave up 202 yards. And this is now five straight losses to Arizona, who has never lost in this building. We didn't trail until the final kick, and 3-5 is where that leaves us.\n\nCaleb Downs left with a concussion and Jake Ferguson hurt an ankle. Next is a trip to Indianapolis.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Arizona Cardinals 33, Dallas Cowboys 30 in overtime. Downtown at Levitt Pavilion, Shakespeare LIVE spent Halloween weekend staging a free Macbeth, the story of a man undone after three witches promise him everything. Across town on Sunday, the Cowboys had a 14-point lead in the fourth quarter and watched it fall apart."
+        },
+        {
+          "type": "paragraph",
+          "text": "I keep the business of this franchise and the football in separate boxes, and for 50 minutes the football was good. Mack Wilson Sr. stopped us on fourth-and-1 early, but the defense answered by stuffing Jeremiyah Love on fourth-and-goal at our 1. Shemar James intercepted Jacoby Brissett and returned it 33 yards, and James Mitchell recovered a fumble in the end zone for the first touchdown. Dak Prescott found Ryan Flournoy from 9. Brandon Aubrey added a field goal, and Prescott scrambled 5 yards for a 24-10 lead with 14:20 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "The rush up front was real. Quinnen Williams had two sacks, James Houston, Von Miller and Donovan Ezeiruaku got one each, and Brissett was gone by the fourth quarter. DeMarvion Overshown forced a fumble before the half. The offense did not turn the ball over once."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Gardner Minshew happened. Tyler Allgeier ran 63 yards for one score and caught another. Aubrey kicked from 35 and 41 to keep us ahead 30-24, but a Rashan Gary roughing penalty extended an Arizona drive that ended in a Trey McBride touchdown. With 65 seconds left, Minshew went 80 yards in eight plays, and Michael Wilson caught the tying score with six seconds to go. Chad Ryland missed the extra point, and we still could not finish it."
+        },
+        {
+          "type": "paragraph",
+          "text": "In overtime, Williams sacked Minshew to start an Arizona three-and-out. Josh Sweat sacked Prescott right back. Arizona then fed Allgeier until Ryland hit a 42-yarder."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: Dallas ran 39 times for 93 yards, 2.4 per carry, and got outgained 467-261. Prescott went 19 of 29 for 195 yards and was sacked four times. CeeDee Lamb caught seven for 58. The run defense gave up 202 yards. And this is now five straight losses to Arizona, who has never lost in this building. We didn't trail until the final kick, and 3-5 is where that leaves us."
+        },
+        {
+          "type": "paragraph",
+          "text": "Caleb Downs left with a concussion and Jake Ferguson hurt an ankle. Next is a trip to Indianapolis."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Cardinals beat the Cowboys 33-30 in overtime at AT&T Stadium; Dallas led 24-10 early in the fourth quarter and falls to 3-5."
+        },
+        {
+          "type": "fact",
+          "text": "Quinnen Williams had two sacks and Shemar James intercepted Jacoby Brissett, but Dallas was outgained 467-261."
+        },
+        {
+          "type": "fact",
+          "text": "Arizona has beaten Dallas five straight times and is 5-0 all-time at AT&T Stadium."
+        },
+        {
+          "type": "jab",
+          "text": "A 14-point fourth-quarter lead, a missed extra point to save us, and we still lost in overtime."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Cardinals 33, Cowboys 30 (OT)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873024"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873024"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873024"
+        },
+        {
+          "label": "DallasCowboys.com: Game recap, Dallas shocked in OT, 33-30",
+          "url": "https://www.dallascowboys.com/news/game-recap-dallas-shocked-in-ot-33-30"
+        },
+        {
+          "label": "City of Arlington: Free Macbeth at Levitt Pavilion, Oct. 29-31",
+          "url": "https://www.arlingtontx.gov/News-Articles/2026/October/Free-Fun-Events-in-Arlington-October-29-November-4-2026"
+        },
+        {
+          "label": "ESPN Cowboys schedule (next game: at Colts, Sun., Nov. 8)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/dal/dallas-cowboys"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ari",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "ari",
+      "team_ids": [
+        "ari"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873024",
+      "title": "Arizona Cardinals vs Dallas Cowboys Week 8: Minshew Steals One 33-30",
+      "byline": "",
+      "matchup": "Final (OT): Arizona Cardinals (3-5) 33, Dallas Cowboys (3-5) 30, Sun., Nov. 1, AT&T Stadium, Arlington. Next: at Seattle Seahawks, Sun., Nov. 8, 4:25 PM ET, Lumen Field, Seattle",
+      "date": "2026-11-01",
+      "word_count": 402,
+      "text": "Arizona Cardinals 33, Dallas Cowboys 30 in overtime. Two nights earlier, 1,200 drones lit up the sky over State Farm Stadium for the Harry Potter DroneArt Show. On Sunday in Arlington, the Cardinals pulled off a trick nobody in our building will forget, and for three quarters it looked like there would be no magic at all.\n\nMy measuring stick is still the 2008 team that reached the Super Bowl, and the first half came nowhere near it. Jeremiyah Love got stuffed on fourth-and-goal at the Dallas 1. Shemar James intercepted Jacoby Brissett and ran it back to our 5, and Dallas fell on its own fumble in the end zone for a touchdown. Dak Prescott hit Ryan Flournoy from 9 yards. Chad Ryland's 37-yarder made it 14-3 at the half.\n\nBrissett was sacked four times and finished 10 of 23. Then Gardner Minshew came in, and the afternoon flipped. On his first drive, Tyler Allgeier went 63 yards up the middle for a touchdown. Prescott's scramble made it 24-10, but Allgeier ripped off 52 more and caught a 5-yard score from Minshew.\n\nDallas kicked its way to 30-24 with Brandon Aubrey field goals, and when a Rashan Gary roughing call kept a drive alive, Minshew found Trey McBride for a 14-yard touchdown. The onside kick failed. Down six with 65 seconds left, Minshew went 80 yards in eight plays, hitting Michael Wilson for 21 and 27, then for 13 and the tying touchdown with six seconds left. Ryland pushed the extra point wide left.\n\nHe got another shot. Both teams went three-and-out to start overtime, Josh Sweat sacking Prescott on third down. Wilson ran for 17, Allgeier pounded the middle, and Ryland drilled a 42-yarder to win it.\n\nThe numbers: Minshew 17 of 23 for 188 yards, three touchdown throws and no interceptions. Allgeier ran 11 times for 147 yards and caught five for 44. Wilson caught eight for 111, McBride seven for 72. We outgained Dallas 467-261 and ran for 202 yards.\n\nThe honest part: the first half was ugly, the injuries piled up until Allgeier was the only running back we had left, with Love and Bam Knight both out and receivers Kendrick Bourne and Reggie Virgil gone too, and this team is still 3-5. That 2008 bar is a long way off. Still, it is five straight wins over Dallas and 5-0 at this stadium. Seattle is next.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Arizona Cardinals 33, Dallas Cowboys 30 in overtime. Two nights earlier, 1,200 drones lit up the sky over State Farm Stadium for the Harry Potter DroneArt Show. On Sunday in Arlington, the Cardinals pulled off a trick nobody in our building will forget, and for three quarters it looked like there would be no magic at all."
+        },
+        {
+          "type": "paragraph",
+          "text": "My measuring stick is still the 2008 team that reached the Super Bowl, and the first half came nowhere near it. Jeremiyah Love got stuffed on fourth-and-goal at the Dallas 1. Shemar James intercepted Jacoby Brissett and ran it back to our 5, and Dallas fell on its own fumble in the end zone for a touchdown. Dak Prescott hit Ryan Flournoy from 9 yards. Chad Ryland's 37-yarder made it 14-3 at the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brissett was sacked four times and finished 10 of 23. Then Gardner Minshew came in, and the afternoon flipped. On his first drive, Tyler Allgeier went 63 yards up the middle for a touchdown. Prescott's scramble made it 24-10, but Allgeier ripped off 52 more and caught a 5-yard score from Minshew."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dallas kicked its way to 30-24 with Brandon Aubrey field goals, and when a Rashan Gary roughing call kept a drive alive, Minshew found Trey McBride for a 14-yard touchdown. The onside kick failed. Down six with 65 seconds left, Minshew went 80 yards in eight plays, hitting Michael Wilson for 21 and 27, then for 13 and the tying touchdown with six seconds left. Ryland pushed the extra point wide left."
+        },
+        {
+          "type": "paragraph",
+          "text": "He got another shot. Both teams went three-and-out to start overtime, Josh Sweat sacking Prescott on third down. Wilson ran for 17, Allgeier pounded the middle, and Ryland drilled a 42-yarder to win it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The numbers: Minshew 17 of 23 for 188 yards, three touchdown throws and no interceptions. Allgeier ran 11 times for 147 yards and caught five for 44. Wilson caught eight for 111, McBride seven for 72. We outgained Dallas 467-261 and ran for 202 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: the first half was ugly, the injuries piled up until Allgeier was the only running back we had left, with Love and Bam Knight both out and receivers Kendrick Bourne and Reggie Virgil gone too, and this team is still 3-5. That 2008 bar is a long way off. Still, it is five straight wins over Dallas and 5-0 at this stadium. Seattle is next."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Cardinals beat the Cowboys 33-30 in overtime at AT&T Stadium after trailing 24-10 early in the fourth quarter."
+        },
+        {
+          "type": "fact",
+          "text": "Gardner Minshew replaced Jacoby Brissett and threw three touchdowns, the last to Michael Wilson with six seconds left."
+        },
+        {
+          "type": "fact",
+          "text": "Tyler Allgeier ran for 147 yards, including a 63-yard touchdown, and Chad Ryland kicked the 42-yard winner after missing the extra point."
+        },
+        {
+          "type": "jab",
+          "text": "Arizona is now 5-0 at AT&T Stadium. Jerry might want to start charging us rent."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Cardinals 33, Cowboys 30 (OT)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873024"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873024"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873024"
+        },
+        {
+          "label": "AZCardinals.com: Cardinals use Minshew magic to steal victory in Dallas",
+          "url": "https://www.azcardinals.com/news/cardinals-cowboys-overtime-minshew-magic-33-30-victory"
+        },
+        {
+          "label": "Visit Phoenix: Harry Potter DroneArt Show at State Farm Stadium, Oct. 30-31",
+          "url": "https://www.visitphoenix.com/stories/post/things-to-do-for-halloween-in-phoenix/"
+        },
+        {
+          "label": "ESPN Cardinals schedule (next game: at Seahawks, Sun., Nov. 8)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/ari/arizona-cardinals"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-jax",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "jax",
+      "team_ids": [
+        "jax"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873028",
+      "title": "Jacksonville Jaguars vs Indianapolis Colts Week 8: Duval Rout 42-7",
+      "byline": "",
+      "matchup": "Final: Indianapolis Colts (2-6) 7, Jacksonville Jaguars (5-2) 42, Sun., Nov. 1, EverBank Stadium, Jacksonville. Next: at Baltimore Ravens, Thu., Nov. 5, 8:15 PM ET, M&T Bank Stadium, Baltimore",
+      "date": "2026-11-01",
+      "word_count": 348,
+      "text": "Jacksonville Jaguars 42, Indianapolis Colts 7, and Duval finally got its team back. WOKV billed this as the Jaguars' first home game in more than a month, and the city warmed up Saturday afternoon with Treats at the Plaza down at Riverfront Plaza on the St. Johns. Sunday, in the rain at EverBank Stadium, the treats were all ours. We're 5-2.\n\nOff the bye and wearing the new Bold City rivalry uniforms, we went 98 yards in 12 plays on the opening drive. Brenton Strange caught a 46-yarder, and Trevor Lawrence found Brian Thomas Jr. alone for a 12-yard touchdown. That's how you walk back into your own house.\n\nThe second quarter was the record book's kind of quarter. Bryan Thomas Jr. came up with Jonathan Taylor's fumble on a busted trick play at midfield, and rookie Nate Boerkircher scored on a 31-yard catch. Bhayshul Tuten broke three tackles on a 39-yard touchdown run. Lawrence got strip-sacked and the Colts took over at our 31, and Rayuan Lane III answered by intercepting Daniel Jones and going 92 yards with 10 seconds left. It was 28-0 at halftime.\n\nArik Armstead and Josh Hines-Allen split a fourth-down sack early in the third, and Chris Rodriguez Jr. ran 28 yards for a score. The Colts got one back, then Tuten took a screen 25 yards as the third quarter ended for 42-7. Lawrence went 10-of-14 for 210 yards and three touchdowns and watched the fourth. Tuten finished with 104 rushing yards and 55 receiving, both career highs. We ran for 183 and averaged 6.9 yards a play. Foyesade Oluokun made nine tackles and a sack, and Branson Combs added an interception.\n\nNow the splits, because they matter. That's 12 straight home wins over the Colts, who last won here in 2014. It's seven straight regular-season home wins, and we've outscored those visitors 271-75. The three-game AFC South lead puts us in a spot this franchise hasn't seen since 1999. The cost was DaVon Hamilton, who left with what looked like a season-ending knee injury. Baltimore comes up fast on Thursday night.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Jacksonville Jaguars 42, Indianapolis Colts 7, and Duval finally got its team back. WOKV billed this as the Jaguars' first home game in more than a month, and the city warmed up Saturday afternoon with Treats at the Plaza down at Riverfront Plaza on the St. Johns. Sunday, in the rain at EverBank Stadium, the treats were all ours. We're 5-2."
+        },
+        {
+          "type": "paragraph",
+          "text": "Off the bye and wearing the new Bold City rivalry uniforms, we went 98 yards in 12 plays on the opening drive. Brenton Strange caught a 46-yarder, and Trevor Lawrence found Brian Thomas Jr. alone for a 12-yard touchdown. That's how you walk back into your own house."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second quarter was the record book's kind of quarter. Bryan Thomas Jr. came up with Jonathan Taylor's fumble on a busted trick play at midfield, and rookie Nate Boerkircher scored on a 31-yard catch. Bhayshul Tuten broke three tackles on a 39-yard touchdown run. Lawrence got strip-sacked and the Colts took over at our 31, and Rayuan Lane III answered by intercepting Daniel Jones and going 92 yards with 10 seconds left. It was 28-0 at halftime."
+        },
+        {
+          "type": "paragraph",
+          "text": "Arik Armstead and Josh Hines-Allen split a fourth-down sack early in the third, and Chris Rodriguez Jr. ran 28 yards for a score. The Colts got one back, then Tuten took a screen 25 yards as the third quarter ended for 42-7. Lawrence went 10-of-14 for 210 yards and three touchdowns and watched the fourth. Tuten finished with 104 rushing yards and 55 receiving, both career highs. We ran for 183 and averaged 6.9 yards a play. Foyesade Oluokun made nine tackles and a sack, and Branson Combs added an interception."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the splits, because they matter. That's 12 straight home wins over the Colts, who last won here in 2014. It's seven straight regular-season home wins, and we've outscored those visitors 271-75. The three-game AFC South lead puts us in a spot this franchise hasn't seen since 1999. The cost was DaVon Hamilton, who left with what looked like a season-ending knee injury. Baltimore comes up fast on Thursday night."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Jacksonville beat Indianapolis 42-7; Lawrence threw three touchdowns on 10-of-14."
+        },
+        {
+          "type": "fact",
+          "text": "Tuten set career highs with 104 rushing and 55 receiving yards."
+        },
+        {
+          "type": "fact",
+          "text": "Jacksonville has won 12 straight home games against Indianapolis."
+        },
+        {
+          "type": "jab",
+          "text": "Indianapolis last won in Jacksonville in 2014. Keep the streak rolling."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873028"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873028"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873028"
+        },
+        {
+          "label": "Jaguars.com: Game Report, Jaguars 42, Colts 7",
+          "url": "https://www.jaguars.com/news/game-report-2026-week-8-jaguars-42-colts-7"
+        },
+        {
+          "label": "WOKV: Halloween weekend events, Jaguars back home (Treats at the Plaza, Oct. 31)",
+          "url": "https://www.wokv.com/news/local/events-halloween-weekend-jaguars-back-home-first-time-more-than-month/XY5NPW3VTBDO3AQECPVMHCBUWI/"
+        },
+        {
+          "label": "ESPN Jaguars schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/jax/jacksonville-jaguars"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ind",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "ind",
+      "team_ids": [
+        "ind"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873028",
+      "title": "Indianapolis Colts vs Jacksonville Jaguars Week 8: Smashed 7-42",
+      "byline": "",
+      "matchup": "Final: Indianapolis Colts (2-6) 7, Jacksonville Jaguars (5-2) 42, Sun., Nov. 1, EverBank Stadium, Jacksonville. Next: vs Dallas Cowboys, Sun., Nov. 8, 1:00 PM ET, Lucas Oil Stadium, Indianapolis",
+      "date": "2026-11-01",
+      "word_count": 382,
+      "text": "Jacksonville Jaguars 42, Indianapolis Colts 7, and I've been counting this franchise's history since the Baltimore days, so believe me when I say this one goes near the bottom of the pile. Back home, the Indianapolis Zoo had its elephants scheduled to stomp giant pumpkins at 4:30 Sunday afternoon to close out ZooBoo. Down in Jacksonville, in the rain, we got stomped first. We're 2-6.\n\nThe tone got set on the opening possession. The Jaguars went 98 yards in 12 plays, with Brenton Strange grabbing a 46-yarder along the way and Brian Thomas Jr. catching a 12-yard touchdown from Trevor Lawrence. We trailed 7-0 after one quarter, and that was the last time this game felt close.\n\nThe second quarter is the one I'll be counting for years. A trick play went wrong, Jonathan Taylor lost the ball, and Jacksonville took over at midfield. Rookie Nate Boerkircher scored from 31 yards out. Bhayshul Tuten broke three tackles on a 39-yard touchdown run. Then we finally caught a break when Jaylahn Tuimoloau strip-sacked Lawrence and we took over at the Jacksonville 31. Then Rayuan Lane III intercepted Daniel Jones and ran it back 92 yards with 10 seconds left in the half. It was 28-0 at the break.\n\nJacksonville sacked Jones on fourth down early in the third, and Chris Rodriguez Jr. ran 28 yards for another score. Our only points came on Jones' 6-yard touchdown throw to Josh Downs, making it 35-7, before Tuten took a screen 25 yards to end the quarter at 42-7. Jones finished 19-of-28 for 144 yards with a touchdown and two interceptions, and Anthony Richardson replaced him in the fourth. Taylor managed 23 yards on eight carries. Keenan Allen caught seven balls for 67 yards, and DJ Giddens ran six times for 43.\n\nCJ Allen made 10 tackles and a sack, and Laiatu Latu dropped Lawrence for a 15-yard loss. Seth McGowan returned four kickoffs for 103 yards. The rest was nine penalties, 3-of-11 on third down and 0-for-2 on fourth, five days after we traded DeForest Buckner and Quenton Nelson. We haven't won in Jacksonville since 2014, and we've lost four straight. This franchise owns the 1958 title and Super Bowls V and XLI. Dallas comes to Lucas Oil next Sunday, and the count begins again.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Jacksonville Jaguars 42, Indianapolis Colts 7, and I've been counting this franchise's history since the Baltimore days, so believe me when I say this one goes near the bottom of the pile. Back home, the Indianapolis Zoo had its elephants scheduled to stomp giant pumpkins at 4:30 Sunday afternoon to close out ZooBoo. Down in Jacksonville, in the rain, we got stomped first. We're 2-6."
+        },
+        {
+          "type": "paragraph",
+          "text": "The tone got set on the opening possession. The Jaguars went 98 yards in 12 plays, with Brenton Strange grabbing a 46-yarder along the way and Brian Thomas Jr. catching a 12-yard touchdown from Trevor Lawrence. We trailed 7-0 after one quarter, and that was the last time this game felt close."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second quarter is the one I'll be counting for years. A trick play went wrong, Jonathan Taylor lost the ball, and Jacksonville took over at midfield. Rookie Nate Boerkircher scored from 31 yards out. Bhayshul Tuten broke three tackles on a 39-yard touchdown run. Then we finally caught a break when Jaylahn Tuimoloau strip-sacked Lawrence and we took over at the Jacksonville 31. Then Rayuan Lane III intercepted Daniel Jones and ran it back 92 yards with 10 seconds left in the half. It was 28-0 at the break."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jacksonville sacked Jones on fourth down early in the third, and Chris Rodriguez Jr. ran 28 yards for another score. Our only points came on Jones' 6-yard touchdown throw to Josh Downs, making it 35-7, before Tuten took a screen 25 yards to end the quarter at 42-7. Jones finished 19-of-28 for 144 yards with a touchdown and two interceptions, and Anthony Richardson replaced him in the fourth. Taylor managed 23 yards on eight carries. Keenan Allen caught seven balls for 67 yards, and DJ Giddens ran six times for 43."
+        },
+        {
+          "type": "paragraph",
+          "text": "CJ Allen made 10 tackles and a sack, and Laiatu Latu dropped Lawrence for a 15-yard loss. Seth McGowan returned four kickoffs for 103 yards. The rest was nine penalties, 3-of-11 on third down and 0-for-2 on fourth, five days after we traded DeForest Buckner and Quenton Nelson. We haven't won in Jacksonville since 2014, and we've lost four straight. This franchise owns the 1958 title and Super Bowls V and XLI. Dallas comes to Lucas Oil next Sunday, and the count begins again."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Jacksonville won 42-7 after leading 28-0 at halftime."
+        },
+        {
+          "type": "fact",
+          "text": "Jones threw two interceptions and was replaced by Richardson in the fourth."
+        },
+        {
+          "type": "fact",
+          "text": "Indianapolis has lost four straight and falls to 2-6."
+        },
+        {
+          "type": "jab",
+          "text": "The zoo booked one pumpkin smash for Sunday. Jacksonville threw in a second one for free."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873028"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873028"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873028"
+        },
+        {
+          "label": "Colts.com: Colts dismantled by Jaguars in Week 8 loss",
+          "url": "https://www.colts.com/news/colts-dismantled-by-jaguars-in-week-8-loss"
+        },
+        {
+          "label": "Indianapolis Zoo: Elephant Pumpkin Smash, Nov. 1, 4:30 PM",
+          "url": "https://www.indianapoliszoo.com/event/elephant-pumpkin-smash/2026-11-01/"
+        },
+        {
+          "label": "ESPN Colts schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/ind/indianapolis-colts"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-det",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "det",
+      "team_ids": [
+        "det"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873030",
+      "title": "Detroit Lions vs Minnesota Vikings Week 8: Unbeaten No More 19-15",
+      "byline": "",
+      "matchup": "Final: Minnesota Vikings (6-1) 15, Detroit Lions (5-2) 19, Sun., Nov. 1, Ford Field, Detroit. Next: at Miami Dolphins, Sun., Nov. 8, 1:00 PM ET, Hard Rock Stadium, Miami Gardens",
+      "date": "2026-11-01",
+      "word_count": 417,
+      "text": "Detroit Lions 19, Minnesota Vikings 15. On Sunday afternoon the Detroit Riverfront hosted its Día de los Muertos celebration at Robert C. Valade Park, with ballet folklórico, Mariachi Mexico de Detroit and a community ofrenda by the water. Up at Ford Field, Detroit Lions vs Minnesota Vikings turned into a four-quarter street fight, and the Vikings walked out with their first loss of the season.\n\nIt did not start clean. Amon-Ra St. Brown and Jameson Williams drew taunting flags on our first two drives, and a touchdown grab by St. Brown got overturned on review. Jake Bates bailed us out from 25 yards. Kyler Murray answered early in the second quarter with a 1-yard touchdown throw to Justin Jefferson, and Andrew Van Ginkel spent the half chasing Jared Goff around the pocket.\n\nThen D.J. Reed dove in front of Jordan Addison for an interception late in the half, and Bates drilled a 37-yarder with two seconds left. Vikings 7, Lions 6 at the break, and our running game had barely cleared its throat.\n\nThe second half belonged to the backs. Jahmyr Gibbs ripped off a 30-yard touchdown run late in the third for a 12-7 lead. It was his 10th touchdown of the season, and only Gibbs and Barry Sanders have reached 10 in four straight seasons for this franchise. Murray fought back with an 8-yard touchdown to T.J. Hockenson and a two-point throw to Addison, and Minnesota led 15-12 with 8:44 to go.\n\nSo we ran it right at them. Gibbs for 17. Sione Vaki for 5, 12 and 10. Gibbs for 9, then 9 more. Goff found Williams in the back of the end zone from 7 yards with 4:35 left, the defense forced a three-and-out, and we ran out the clock.\n\nWe finished with 230 rushing yards, 164 of them after halftime. Gibbs had 153 on 23 carries and Vaki 65 on 11. Goff went 18 of 25 for 176 yards and his first interception of the season, and he has now thrown a touchdown in 29 straight games. The defense allowed 266 yards and 15 points, our fewest all season, and Minnesota went 3 of 10 on third down.\n\nNobody partied, though. Jack Campbell was carted off in the fourth quarter and taken to a hospital with a neck injury. Detroit is praying for him tonight.\n\nThree straight wins, 5-2, unbeaten in the division, and Miami is next on Nov. 8. This window does not stay open forever. Today we kicked it wider.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Detroit Lions 19, Minnesota Vikings 15. On Sunday afternoon the Detroit Riverfront hosted its Día de los Muertos celebration at Robert C. Valade Park, with ballet folklórico, Mariachi Mexico de Detroit and a community ofrenda by the water. Up at Ford Field, Detroit Lions vs Minnesota Vikings turned into a four-quarter street fight, and the Vikings walked out with their first loss of the season."
+        },
+        {
+          "type": "paragraph",
+          "text": "It did not start clean. Amon-Ra St. Brown and Jameson Williams drew taunting flags on our first two drives, and a touchdown grab by St. Brown got overturned on review. Jake Bates bailed us out from 25 yards. Kyler Murray answered early in the second quarter with a 1-yard touchdown throw to Justin Jefferson, and Andrew Van Ginkel spent the half chasing Jared Goff around the pocket."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then D.J. Reed dove in front of Jordan Addison for an interception late in the half, and Bates drilled a 37-yarder with two seconds left. Vikings 7, Lions 6 at the break, and our running game had barely cleared its throat."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half belonged to the backs. Jahmyr Gibbs ripped off a 30-yard touchdown run late in the third for a 12-7 lead. It was his 10th touchdown of the season, and only Gibbs and Barry Sanders have reached 10 in four straight seasons for this franchise. Murray fought back with an 8-yard touchdown to T.J. Hockenson and a two-point throw to Addison, and Minnesota led 15-12 with 8:44 to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "So we ran it right at them. Gibbs for 17. Sione Vaki for 5, 12 and 10. Gibbs for 9, then 9 more. Goff found Williams in the back of the end zone from 7 yards with 4:35 left, the defense forced a three-and-out, and we ran out the clock."
+        },
+        {
+          "type": "paragraph",
+          "text": "We finished with 230 rushing yards, 164 of them after halftime. Gibbs had 153 on 23 carries and Vaki 65 on 11. Goff went 18 of 25 for 176 yards and his first interception of the season, and he has now thrown a touchdown in 29 straight games. The defense allowed 266 yards and 15 points, our fewest all season, and Minnesota went 3 of 10 on third down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nobody partied, though. Jack Campbell was carted off in the fourth quarter and taken to a hospital with a neck injury. Detroit is praying for him tonight."
+        },
+        {
+          "type": "paragraph",
+          "text": "Three straight wins, 5-2, unbeaten in the division, and Miami is next on Nov. 8. This window does not stay open forever. Today we kicked it wider."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Detroit Lions beat the Minnesota Vikings 19-15 on Sunday, Nov. 1, at Ford Field in Week 8, handing Minnesota its first loss. Detroit is 5-2."
+        },
+        {
+          "type": "fact",
+          "text": "Jahmyr Gibbs ran for 153 yards and a 30-yard touchdown, and the Lions ran for 230 yards, 164 in the second half."
+        },
+        {
+          "type": "fact",
+          "text": "Jared Goff threw the go-ahead 7-yard touchdown to Jameson Williams with 4:35 left."
+        },
+        {
+          "type": "jab",
+          "text": "Six wins in a row is a nice streak. Ours is three, and it is the one still going."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Lions 19, Vikings 15 (Nov. 1, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873030"
+        },
+        {
+          "label": "ESPN game recap, Vikings at Lions",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873030"
+        },
+        {
+          "label": "ESPN play-by-play, Vikings at Lions",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873030"
+        },
+        {
+          "label": "DetroitLions.com: Recap, Lions vs. Vikings",
+          "url": "https://www.detroitlions.com/news/recap-lions-vs-vikings-gibbs-goff-williams"
+        },
+        {
+          "label": "Detroit Riverfront Conservancy: Día de los Muertos, Nov. 1, 2026, Robert C. Valade Park",
+          "url": "https://www.detroitriverfront.org/events/calendar/2026/11/01/da-de-los-muertos"
+        },
+        {
+          "label": "ESPN Detroit Lions schedule (next game: at Miami Dolphins, Sun., Nov. 8, 1:00 PM ET, Hard Rock Stadium, Miami Gardens)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/det/detroit-lions"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-min",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "min",
+      "team_ids": [
+        "min"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873030",
+      "title": "Minnesota Vikings vs Detroit Lions Week 8: Perfect Run Ends 19-15",
+      "byline": "",
+      "matchup": "Final: Minnesota Vikings (6-1) 15, Detroit Lions (5-2) 19, Sun., Nov. 1, Ford Field, Detroit. Next: vs. Buffalo Bills, Mon., Nov. 9, 8:15 PM ET, U.S. Bank Stadium, Minneapolis",
+      "date": "2026-11-01",
+      "word_count": 420,
+      "text": "Detroit Lions 19, Minnesota Vikings 15. I spent six weeks telling everyone that 6-0 was a rumor, and on Sunday at Ford Field, Minnesota Vikings vs Detroit Lions proved me right in the worst way. Back home, the BareBones Halloween Extravaganza was set for its final night in Powderhorn Park, a puppet show about the cycles of living and dying. Fitting. The undefeated part of our season just finished its cycle.\n\nFor a half, the purple held. Detroit drew two taunting flags on its first two drives and lost a touchdown to replay. Kyler Murray lofted a 1-yard throw early in the second quarter, and Justin Jefferson caught it for a 7-3 lead. Andrew Van Ginkel was a menace, with a career-high 2.5 sacks. D.J. Reed's diving interception in front of Jordan Addison set up a Detroit field goal right before the half, and we still went in up 7-6.\n\nThen the ground gave way. Detroit ran for 66 yards in the first half and 164 in the second. Jahmyr Gibbs went 30 yards for a touchdown late in the third. Murray answered with the drive of the day, an 8-yard touchdown to T.J. Hockenson and a two-point throw to Addison, and we led 15-12 with 8:44 left.\n\nWe held that lead for a little over four minutes. Detroit ran six straight times, Gibbs and Sione Vaki taking turns, and Jared Goff hit Jameson Williams from 7 yards with 4:35 left. Our offense went three-and-out, Kevin O'Connell chose to punt on fourth-and-5 from our 33, and we never saw the ball again.\n\nMurray went 17 of 29 for 210 yards, two touchdowns and an interception, and he ran for 35. Addison caught three balls for 66, including a 51-yarder. Hockenson had four for 58, and Jefferson had five for 33. We ran for 81 yards and went 3 of 10 on third down, and Detroit held the ball for 35:43. Joshua Metellus made 13 tackles, Eric Wilson had 11 and a sack, and Byron Murphy Jr. and Blake Cashman made 10 apiece.\n\nOur whole section went quiet when Jack Campbell was carted off in the fourth quarter. Some things matter more than a division game.\n\nWe are 6-1 and still first in the NFC North. The last loss before this one came on Nov. 30, 2025, at Seattle. Buffalo visits U.S. Bank Stadium on Monday night, Nov. 9, and we get an extra day to get ready. I will not panic in November. I will not celebrate in it, either.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Detroit Lions 19, Minnesota Vikings 15. I spent six weeks telling everyone that 6-0 was a rumor, and on Sunday at Ford Field, Minnesota Vikings vs Detroit Lions proved me right in the worst way. Back home, the BareBones Halloween Extravaganza was set for its final night in Powderhorn Park, a puppet show about the cycles of living and dying. Fitting. The undefeated part of our season just finished its cycle."
+        },
+        {
+          "type": "paragraph",
+          "text": "For a half, the purple held. Detroit drew two taunting flags on its first two drives and lost a touchdown to replay. Kyler Murray lofted a 1-yard throw early in the second quarter, and Justin Jefferson caught it for a 7-3 lead. Andrew Van Ginkel was a menace, with a career-high 2.5 sacks. D.J. Reed's diving interception in front of Jordan Addison set up a Detroit field goal right before the half, and we still went in up 7-6."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the ground gave way. Detroit ran for 66 yards in the first half and 164 in the second. Jahmyr Gibbs went 30 yards for a touchdown late in the third. Murray answered with the drive of the day, an 8-yard touchdown to T.J. Hockenson and a two-point throw to Addison, and we led 15-12 with 8:44 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "We held that lead for a little over four minutes. Detroit ran six straight times, Gibbs and Sione Vaki taking turns, and Jared Goff hit Jameson Williams from 7 yards with 4:35 left. Our offense went three-and-out, Kevin O'Connell chose to punt on fourth-and-5 from our 33, and we never saw the ball again."
+        },
+        {
+          "type": "paragraph",
+          "text": "Murray went 17 of 29 for 210 yards, two touchdowns and an interception, and he ran for 35. Addison caught three balls for 66, including a 51-yarder. Hockenson had four for 58, and Jefferson had five for 33. We ran for 81 yards and went 3 of 10 on third down, and Detroit held the ball for 35:43. Joshua Metellus made 13 tackles, Eric Wilson had 11 and a sack, and Byron Murphy Jr. and Blake Cashman made 10 apiece."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our whole section went quiet when Jack Campbell was carted off in the fourth quarter. Some things matter more than a division game."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are 6-1 and still first in the NFC North. The last loss before this one came on Nov. 30, 2025, at Seattle. Buffalo visits U.S. Bank Stadium on Monday night, Nov. 9, and we get an extra day to get ready. I will not panic in November. I will not celebrate in it, either."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Minnesota Vikings lost 19-15 to the Detroit Lions on Sunday, Nov. 1, at Ford Field in Week 8, their first loss of the season. Minnesota is 6-1."
+        },
+        {
+          "type": "fact",
+          "text": "Kyler Murray threw touchdowns to Justin Jefferson and T.J. Hockenson and a two-point throw to Jordan Addison for a 15-12 fourth-quarter lead."
+        },
+        {
+          "type": "fact",
+          "text": "Andrew Van Ginkel had a career-high 2.5 sacks, but Detroit ran for 164 yards in the second half."
+        },
+        {
+          "type": "jab",
+          "text": "Detroit can have one Sunday. We still own first place."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Lions 19, Vikings 15 (Nov. 1, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873030"
+        },
+        {
+          "label": "ESPN game recap, Vikings at Lions",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873030"
+        },
+        {
+          "label": "ESPN play-by-play, Vikings at Lions",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873030"
+        },
+        {
+          "label": "Vikings.com: Vikings Defense Laments Final 2 Drives by Lions",
+          "url": "https://www.vikings.com/news/defense-laments-final-2-drives-by-lions-week-8"
+        },
+        {
+          "label": "BareBones Puppets: 2026 Halloween Extravaganza, Oct. 29-31 and Nov. 1, Powderhorn Park",
+          "url": "https://barebonespuppets.org/2026-show/"
+        },
+        {
+          "label": "ESPN Minnesota Vikings schedule (next game: vs. Buffalo Bills, Mon., Nov. 9, 8:15 PM ET, U.S. Bank Stadium, Minneapolis)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/min/minnesota-vikings"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-cin",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "cin",
+      "team_ids": [
+        "cin"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873031",
+      "title": "Cincinnati Bengals vs Tennessee Titans Week 8: Burrow Ends It 43-36",
+      "byline": "",
+      "matchup": "Final (OT): Tennessee Titans (1-7) 36, Cincinnati Bengals (5-2) 43, Sun., Nov. 1, Paycor Stadium, Cincinnati. Next: at Atlanta Falcons, Sun., Nov. 8, 9:30 AM ET, Santiago Bernabéu, Madrid",
+      "date": "2026-11-01",
+      "word_count": 389,
+      "text": "Cincinnati Bengals 43, Tennessee Titans 36 in overtime. While the Cincinnati Zoo ran HallZOOween on Sunday afternoon, the crowd at Paycor Stadium got a Halloween scare of its own, and it started early.\n\nEvery question with this team is a quarterback question, and for one quarter the answer was ugly. Joe Burrow threw deep for Ja'Marr Chase and Amani Hooker intercepted it at the Tennessee 9. Tony Pollard went 40 yards for a touchdown. Joey Slye kicked two field goals. It was 13-0 Titans after the first quarter.\n\nThen Burrow went to work. A holding call wiped out a Chase Brown touchdown, so on third-and-18 he put it on Chase from 30 yards out. DJ Turner forced a Wan'Dale Robinson fumble that Josh Newton recovered, and Burrow hit Jack Endries from 1 yard with 20 seconds left in the half for a 14-13 lead. Boye Mafe opened the third quarter with a strip-sack of Cam Ward, Dexter Lawrence II recovered, and on the next snap Tee Higgins caught a 17-yard touchdown.\n\nIt was never comfortable. Hooker intercepted Burrow twice more, three in all. Tennessee tied it 21-21, Demetrius Knight Jr. and Lawrence dropped Pollard in the end zone for a safety, and the fourth quarter brought three lead changes and a tie. Mike Gesicki's 25-yard touchdown made it 29-28, his fifth straight game with a score. Ward answered with a touchdown and a two-point throw for 36-29.\n\nSo there it was, 3:46 left, down seven. Burrow drove us down and found Higgins from 18 yards with 1:17 to go. We got the ball first in overtime, and he finished a five-play, 70-yard drive by scrambling nine yards into the end zone himself. Lawrence had sacked Ward with 32 seconds left in regulation, and the defense closed it with a fourth-down stop on the final Tennessee snap.\n\nThe numbers: Burrow 38 of 48 for 462 yards, five touchdown throws and the winning run. Higgins caught 10 for 155 and two scores, Chase 11 for 141, and the offense went 7 of 10 on third down. The honest part: three interceptions, a Brown fumble that led to a Titans score, and 440 yards allowed to a 1-7 team. That has to get cleaned up.\n\nThree straight wins and 5-2 for the first time since 2021. Next stop is Madrid against Atlanta.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Cincinnati Bengals 43, Tennessee Titans 36 in overtime. While the Cincinnati Zoo ran HallZOOween on Sunday afternoon, the crowd at Paycor Stadium got a Halloween scare of its own, and it started early."
+        },
+        {
+          "type": "paragraph",
+          "text": "Every question with this team is a quarterback question, and for one quarter the answer was ugly. Joe Burrow threw deep for Ja'Marr Chase and Amani Hooker intercepted it at the Tennessee 9. Tony Pollard went 40 yards for a touchdown. Joey Slye kicked two field goals. It was 13-0 Titans after the first quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Burrow went to work. A holding call wiped out a Chase Brown touchdown, so on third-and-18 he put it on Chase from 30 yards out. DJ Turner forced a Wan'Dale Robinson fumble that Josh Newton recovered, and Burrow hit Jack Endries from 1 yard with 20 seconds left in the half for a 14-13 lead. Boye Mafe opened the third quarter with a strip-sack of Cam Ward, Dexter Lawrence II recovered, and on the next snap Tee Higgins caught a 17-yard touchdown."
+        },
+        {
+          "type": "paragraph",
+          "text": "It was never comfortable. Hooker intercepted Burrow twice more, three in all. Tennessee tied it 21-21, Demetrius Knight Jr. and Lawrence dropped Pollard in the end zone for a safety, and the fourth quarter brought three lead changes and a tie. Mike Gesicki's 25-yard touchdown made it 29-28, his fifth straight game with a score. Ward answered with a touchdown and a two-point throw for 36-29."
+        },
+        {
+          "type": "paragraph",
+          "text": "So there it was, 3:46 left, down seven. Burrow drove us down and found Higgins from 18 yards with 1:17 to go. We got the ball first in overtime, and he finished a five-play, 70-yard drive by scrambling nine yards into the end zone himself. Lawrence had sacked Ward with 32 seconds left in regulation, and the defense closed it with a fourth-down stop on the final Tennessee snap."
+        },
+        {
+          "type": "paragraph",
+          "text": "The numbers: Burrow 38 of 48 for 462 yards, five touchdown throws and the winning run. Higgins caught 10 for 155 and two scores, Chase 11 for 141, and the offense went 7 of 10 on third down. The honest part: three interceptions, a Brown fumble that led to a Titans score, and 440 yards allowed to a 1-7 team. That has to get cleaned up."
+        },
+        {
+          "type": "paragraph",
+          "text": "Three straight wins and 5-2 for the first time since 2021. Next stop is Madrid against Atlanta."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Bengals beat the Titans 43-36 in overtime at Paycor Stadium after trailing 13-0 in the first quarter; Cincinnati is 5-2."
+        },
+        {
+          "type": "fact",
+          "text": "Joe Burrow threw for 462 yards and five touchdowns and ran in the winner from nine yards in overtime."
+        },
+        {
+          "type": "fact",
+          "text": "Tee Higgins caught 10 passes for 155 yards and two touchdowns, including the tying score with 1:17 left."
+        },
+        {
+          "type": "jab",
+          "text": "Tennessee intercepted Burrow three times and still flew home 1-7."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Bengals 43, Titans 36 (OT)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873031"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873031"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873031"
+        },
+        {
+          "label": "Bengals.com: Bengals-Titans final score and game recap",
+          "url": "https://www.bengals.com/news/bengals-titans-recap-postgame-notes-quotes-stats-week-8-2026"
+        },
+        {
+          "label": "Spectrum News 1 weekend guide: HallZOOween at the Cincinnati Zoo, Nov. 1",
+          "url": "https://spectrumnews1.com/ky/louisville/news/2026/10/28/weekend-pass"
+        },
+        {
+          "label": "ESPN Bengals schedule (next game: Falcons in Madrid, Sun., Nov. 8)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/cin/cincinnati-bengals"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ten",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "ten",
+      "team_ids": [
+        "ten"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873031",
+      "title": "Tennessee Titans vs Cincinnati Bengals Week 8: So Close in OT 43-36",
+      "byline": "",
+      "matchup": "Final (OT): Tennessee Titans (1-7) 36, Cincinnati Bengals (5-2) 43, Sun., Nov. 1, Paycor Stadium, Cincinnati. Next: bye week, then Jacksonville Jaguars, Sun., Nov. 15, 1:00 PM ET, Nissan Stadium, Nashville",
+      "date": "2026-11-01",
+      "word_count": 410,
+      "text": "Cincinnati Bengals 43, Tennessee Titans 36 in overtime. On Halloween night the Five Points corner of East Nashville filled up for All Hallows East, costumes and live music until 10. The next afternoon, the Titans walked into Paycor Stadium and gave Cincinnati a first quarter to remember for all the wrong reasons.\n\nI grade this season on growth, and Sunday gave me a lot of it before it gave me the loss. Joey Slye hit from 46. Tony Pollard broke a 40-yard touchdown run. Amani Hooker read Joe Burrow deep for Ja'Marr Chase and intercepted it at our 9, and Slye added a 29-yarder. It was 13-0 after one quarter.\n\nHooker was not finished. He intercepted Burrow again on the opening drive of the third quarter and a third time at our 5 late in that quarter. That made him the first Titan with three interceptions in a game since Kevin Byard in 2016. Jacob Martin added three sacks, including a 15-yard loss on fourth-and-2 at our 5 before the half. Anthony Hill Jr. made 14 tackles.\n\nThen there is Cam Ward. He went 26 of 40 for 304 yards, two touchdown throws and no interceptions, the first 300-yard game of his career. After a Boye Mafe strip-sack put us behind, Ward led an 80-yard answer, Pollard scored from the 1 and Ward ran in the two-point try himself for a 21-21 tie. When Alontae Taylor punched the ball away from Chase Brown, Ward hit Chimere Dike for an 11-yard score and a 28-23 lead. Down 29-28 late, he found Gunnar Helm for 25 on third down, then Wan'Dale Robinson for 15 and a touchdown, then Helm for two. 36-29 with 3:46 to go.\n\nThe honest part is the end. Burrow found Tee Higgins from 18 yards with 1:17 left. Cincinnati got the ball first in overtime and went 70 yards in five plays, Burrow running the last nine himself. Our answer died on fourth-and-3 at our 35 with a throw to Elic Ayomanor that fell incomplete. The defense gave up 510 yards, and a safety on Pollard in our own end zone cost two points we needed.\n\nPollard ran 21 times for 117 yards and two scores. Dike caught five for 71 and returned six kickoffs for 160. Tennessee is 1-7, which hurts. The kid looked like a franchise quarterback for four quarters, which counts.\n\nThe bye comes at the right time. Jacksonville visits Nissan Stadium on Nov. 15.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Cincinnati Bengals 43, Tennessee Titans 36 in overtime. On Halloween night the Five Points corner of East Nashville filled up for All Hallows East, costumes and live music until 10. The next afternoon, the Titans walked into Paycor Stadium and gave Cincinnati a first quarter to remember for all the wrong reasons."
+        },
+        {
+          "type": "paragraph",
+          "text": "I grade this season on growth, and Sunday gave me a lot of it before it gave me the loss. Joey Slye hit from 46. Tony Pollard broke a 40-yard touchdown run. Amani Hooker read Joe Burrow deep for Ja'Marr Chase and intercepted it at our 9, and Slye added a 29-yarder. It was 13-0 after one quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hooker was not finished. He intercepted Burrow again on the opening drive of the third quarter and a third time at our 5 late in that quarter. That made him the first Titan with three interceptions in a game since Kevin Byard in 2016. Jacob Martin added three sacks, including a 15-yard loss on fourth-and-2 at our 5 before the half. Anthony Hill Jr. made 14 tackles."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then there is Cam Ward. He went 26 of 40 for 304 yards, two touchdown throws and no interceptions, the first 300-yard game of his career. After a Boye Mafe strip-sack put us behind, Ward led an 80-yard answer, Pollard scored from the 1 and Ward ran in the two-point try himself for a 21-21 tie. When Alontae Taylor punched the ball away from Chase Brown, Ward hit Chimere Dike for an 11-yard score and a 28-23 lead. Down 29-28 late, he found Gunnar Helm for 25 on third down, then Wan'Dale Robinson for 15 and a touchdown, then Helm for two. 36-29 with 3:46 to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part is the end. Burrow found Tee Higgins from 18 yards with 1:17 left. Cincinnati got the ball first in overtime and went 70 yards in five plays, Burrow running the last nine himself. Our answer died on fourth-and-3 at our 35 with a throw to Elic Ayomanor that fell incomplete. The defense gave up 510 yards, and a safety on Pollard in our own end zone cost two points we needed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pollard ran 21 times for 117 yards and two scores. Dike caught five for 71 and returned six kickoffs for 160. Tennessee is 1-7, which hurts. The kid looked like a franchise quarterback for four quarters, which counts."
+        },
+        {
+          "type": "paragraph",
+          "text": "The bye comes at the right time. Jacksonville visits Nissan Stadium on Nov. 15."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Bengals beat the Titans 43-36 in overtime at Paycor Stadium; Tennessee falls to 1-7."
+        },
+        {
+          "type": "fact",
+          "text": "Cam Ward threw for 304 yards, two touchdowns and no interceptions, his first 300-yard game, and ran in a two-point try."
+        },
+        {
+          "type": "fact",
+          "text": "Amani Hooker intercepted Joe Burrow three times, the first Titan to do it since Kevin Byard in 2016."
+        },
+        {
+          "type": "jab",
+          "text": "Three interceptions of Joe Burrow, and he still walked into the end zone to end it."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Bengals 43, Titans 36 (OT)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873031"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873031"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873031"
+        },
+        {
+          "label": "WSMV: Titans fall 43-36 in overtime against Cincinnati",
+          "url": "https://www.wsmv.com/2026/11/01/titans-fall-43-36-overtime-offensive-shootout-cincinnati/"
+        },
+        {
+          "label": "Nashville Moms: All Hallows East in Five Points, Oct. 31",
+          "url": "https://nashvillemoms.com/the-ultimate-nashville-halloween-weekend-a-spooktacular-itinerary/"
+        },
+        {
+          "label": "ESPN Titans schedule (next game: Jaguars, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/ten/tennessee-titans"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-tb",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "tb",
+      "team_ids": [
+        "tb"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873025",
+      "title": "Tampa Bay Buccaneers vs Atlanta Falcons Week 8: Mud Run 16-0",
+      "byline": "",
+      "matchup": "Final: Atlanta Falcons (3-5) 0, Tampa Bay Buccaneers (3-5) 16, Sun., Nov. 1, Raymond James Stadium, Tampa. Next: at Chicago Bears, Sun., Nov. 8, 8:20 PM ET, Soldier Field, Chicago",
+      "date": "2026-11-01",
+      "word_count": 378,
+      "text": "Tampa Bay Buccaneers 16, Atlanta Falcons 0, and we own this one from the first handoff to the last. Busch Gardens closed out Howl-O-Scream on Saturday night, but the real scare in this town came Sunday afternoon in driving rain at Raymond James Stadium. It belonged to Atlanta. We're 3-5, and we've won three of four since that 0-4 hole.\n\nThe Falcons blinked first when Nick Folk pushed a 53-yarder wide left on their opening drive. Chase McLaughlin made them pay with field goals of 46 and 34 yards in the first quarter and 42 in the second, and he's now 19 for 19 this season. We should have had more. Alex Anzalone intercepted Michael Penix Jr., a roughness flag set us up at the Atlanta 18, and then Bucky Irving lost the ball at the 1 out of the end zone. That one's on us, and we own it.\n\nThen the ground game took the deed to the place. Baker Mayfield, in his second game back from a fractured thumb, handed off 52 times. We ran it 56 times for 324 yards, a franchise record, topping the 283 we put up at Philadelphia in 2015. Irving carried 27 times for 170 yards and scored on a 4-yard run late in the third quarter for the 16-0 cushion. Kenny Gainwell added 140 on 25 carries, then ran it seven straight times at the end to close the door. Mayfield went 0-for-3 through the air. No team had gone a full game without a completion since Buffalo in 1974.\n\nThe defense owned the rest. Penix went 8-of-24 with four interceptions: two from Anzalone, one from Zyon McCollum and one from Jacob Parrish on fourth-and-6 at our 32. Parrish and Antoine Winfield Jr. each made seven tackles. Atlanta went 0-for-12 on third down. Jahan Dotson got loose for 76 yards in the fourth quarter, and we held at the 14 anyway on fourth-and-2.\n\nRiley Dixon punted six times for a 44.8 average and kept the field tilted all day. The one gut punch was Yaya Diaby leaving with a knee injury in the first quarter. We sit a half-game behind Carolina in the NFC South, and next comes Chicago at Soldier Field on Sunday night. Bring the rain gear again.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Tampa Bay Buccaneers 16, Atlanta Falcons 0, and we own this one from the first handoff to the last. Busch Gardens closed out Howl-O-Scream on Saturday night, but the real scare in this town came Sunday afternoon in driving rain at Raymond James Stadium. It belonged to Atlanta. We're 3-5, and we've won three of four since that 0-4 hole."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Falcons blinked first when Nick Folk pushed a 53-yarder wide left on their opening drive. Chase McLaughlin made them pay with field goals of 46 and 34 yards in the first quarter and 42 in the second, and he's now 19 for 19 this season. We should have had more. Alex Anzalone intercepted Michael Penix Jr., a roughness flag set us up at the Atlanta 18, and then Bucky Irving lost the ball at the 1 out of the end zone. That one's on us, and we own it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the ground game took the deed to the place. Baker Mayfield, in his second game back from a fractured thumb, handed off 52 times. We ran it 56 times for 324 yards, a franchise record, topping the 283 we put up at Philadelphia in 2015. Irving carried 27 times for 170 yards and scored on a 4-yard run late in the third quarter for the 16-0 cushion. Kenny Gainwell added 140 on 25 carries, then ran it seven straight times at the end to close the door. Mayfield went 0-for-3 through the air. No team had gone a full game without a completion since Buffalo in 1974."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense owned the rest. Penix went 8-of-24 with four interceptions: two from Anzalone, one from Zyon McCollum and one from Jacob Parrish on fourth-and-6 at our 32. Parrish and Antoine Winfield Jr. each made seven tackles. Atlanta went 0-for-12 on third down. Jahan Dotson got loose for 76 yards in the fourth quarter, and we held at the 14 anyway on fourth-and-2."
+        },
+        {
+          "type": "paragraph",
+          "text": "Riley Dixon punted six times for a 44.8 average and kept the field tilted all day. The one gut punch was Yaya Diaby leaving with a knee injury in the first quarter. We sit a half-game behind Carolina in the NFC South, and next comes Chicago at Soldier Field on Sunday night. Bring the rain gear again."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Tampa Bay beat Atlanta 16-0 with a franchise-record 324 rushing yards."
+        },
+        {
+          "type": "fact",
+          "text": "Irving ran for 170 yards and the only touchdown; Gainwell added 140."
+        },
+        {
+          "type": "fact",
+          "text": "Four interceptions of Penix, two by Anzalone, sealed the shutout."
+        },
+        {
+          "type": "jab",
+          "text": "Howl-O-Scream closed Saturday. Atlanta's offense never showed up to haunt anybody Sunday."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873025"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873025"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873025"
+        },
+        {
+          "label": "Buccaneers.com: Bucs 16, Falcons 0",
+          "url": "https://www.buccaneers.com/news/bucs-win-atlanta-falcons-week-8-2026-score-16-0"
+        },
+        {
+          "label": "Tampa Halloween events 2026, Howl-O-Scream through Oct. 31 (Tampa Bay Tourism)",
+          "url": "https://www.tampabaytourism.org/tampa-halloween-events/"
+        },
+        {
+          "label": "ESPN Buccaneers schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/tb/tampa-bay-buccaneers"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-atl",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "atl",
+      "team_ids": [
+        "atl"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873025",
+      "title": "Atlanta Falcons vs Tampa Bay Buccaneers Week 8: Blanked 0-16",
+      "byline": "",
+      "matchup": "Final: Atlanta Falcons (3-5) 0, Tampa Bay Buccaneers (3-5) 16, Sun., Nov. 1, Raymond James Stadium, Tampa. Next: vs Cincinnati Bengals, Sun., Nov. 8, 9:30 AM ET, Santiago Bernabéu, Madrid",
+      "date": "2026-11-01",
+      "word_count": 392,
+      "text": "Tampa Bay Buccaneers 16, Atlanta Falcons 0, and the NFC South race got a little harder to watch from where we sit. On Saturday, Mercedes-Benz Stadium was packed for Georgia's win over Florida, our building rocking with somebody else's noise. On Sunday, we went south into a Tampa downpour and never put a single point on the board. We're 3-5, level with the Bucs, and every division game we drop like this one costs double.\n\nIt went sideways early. Nick Folk's 53-yard try on our opening drive drifted wide left, and Chase McLaughlin answered with field goals from 46 and 34 yards in the first quarter and 42 more in the second. Down 9-0, we caught one break when Jessie Bates punched the ball loose from Bucky Irving at our 1 and it bounced out of the end zone for a touchback. That trip only happened because Alex Anzalone intercepted Michael Penix Jr. and a 15-yard unnecessary roughness flag on Drake London handed Tampa the ball at our 18. Then Bijan Robinson got stuffed on fourth-and-1 at their 36 with 1:30 left in the half.\n\nTampa barely threw. Baker Mayfield went 0-for-3, and the Bucs simply ran it at us 56 times for 324 yards. Irving had 170 and the only touchdown, a 4-yard run late in the third quarter, and Kenny Gainwell added 140. Kendal Daniels made 13 tackles, Xavier Watts made nine, and Harold Perkins Jr. got a sack, but we never got them off the field long enough.\n\nOur offense is the part that stings. Penix finished 8-of-24 for 125 yards with four interceptions, two by Anzalone. We went 0-for-12 on third down with eight first downs and 224 yards. Robinson ran 19 times for 76, and London caught one ball for 8 yards on six targets. The best shot came in the fourth quarter, when Jahan Dotson hauled in a 76-yarder from our own 2 to the Tampa 22. That drive died at the 14 on a fourth-and-2 throw to Olamide Zaccheaus that fell incomplete.\n\nJake Bailey punted four times for a 48.3 average, which tells you plenty. Zachariah Branch and Samson Ebukam both left with hamstring injuries. Next up is Cincinnati in Madrid at the Santiago Bernabéu, with us as the home team. The NFC South doesn't care what country we play in. We need that one.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Tampa Bay Buccaneers 16, Atlanta Falcons 0, and the NFC South race got a little harder to watch from where we sit. On Saturday, Mercedes-Benz Stadium was packed for Georgia's win over Florida, our building rocking with somebody else's noise. On Sunday, we went south into a Tampa downpour and never put a single point on the board. We're 3-5, level with the Bucs, and every division game we drop like this one costs double."
+        },
+        {
+          "type": "paragraph",
+          "text": "It went sideways early. Nick Folk's 53-yard try on our opening drive drifted wide left, and Chase McLaughlin answered with field goals from 46 and 34 yards in the first quarter and 42 more in the second. Down 9-0, we caught one break when Jessie Bates punched the ball loose from Bucky Irving at our 1 and it bounced out of the end zone for a touchback. That trip only happened because Alex Anzalone intercepted Michael Penix Jr. and a 15-yard unnecessary roughness flag on Drake London handed Tampa the ball at our 18. Then Bijan Robinson got stuffed on fourth-and-1 at their 36 with 1:30 left in the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tampa barely threw. Baker Mayfield went 0-for-3, and the Bucs simply ran it at us 56 times for 324 yards. Irving had 170 and the only touchdown, a 4-yard run late in the third quarter, and Kenny Gainwell added 140. Kendal Daniels made 13 tackles, Xavier Watts made nine, and Harold Perkins Jr. got a sack, but we never got them off the field long enough."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our offense is the part that stings. Penix finished 8-of-24 for 125 yards with four interceptions, two by Anzalone. We went 0-for-12 on third down with eight first downs and 224 yards. Robinson ran 19 times for 76, and London caught one ball for 8 yards on six targets. The best shot came in the fourth quarter, when Jahan Dotson hauled in a 76-yarder from our own 2 to the Tampa 22. That drive died at the 14 on a fourth-and-2 throw to Olamide Zaccheaus that fell incomplete."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jake Bailey punted four times for a 48.3 average, which tells you plenty. Zachariah Branch and Samson Ebukam both left with hamstring injuries. Next up is Cincinnati in Madrid at the Santiago Bernabéu, with us as the home team. The NFC South doesn't care what country we play in. We need that one."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Tampa Bay shut out Atlanta 16-0 as Penix threw four interceptions."
+        },
+        {
+          "type": "fact",
+          "text": "Tampa ran for 324 yards on 56 carries while completing zero throws."
+        },
+        {
+          "type": "fact",
+          "text": "Atlanta drops to 3-5 and faces Cincinnati in Madrid on Nov. 8."
+        },
+        {
+          "type": "jab",
+          "text": "Our building had a party Saturday. We brought nothing to Tampa on Sunday."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873025"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873025"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873025"
+        },
+        {
+          "label": "Georgia 27, Florida 8 at Mercedes-Benz Stadium, Oct. 31 (ESPN)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856734"
+        },
+        {
+          "label": "ESPN Falcons schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/atl/atlanta-falcons"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-buf",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "buf",
+      "team_ids": [
+        "buf"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873026",
+      "title": "Buffalo Bills vs Baltimore Ravens Week 8: Bills Bury Baltimore 36-10",
+      "byline": "",
+      "matchup": "Final: Baltimore Ravens (4-4) 10, Buffalo Bills (6-1) 36, Sun., Nov. 1, Highmark Stadium, Orchard Park. Next: at Minnesota Vikings, Mon., Nov. 9, 8:15 PM ET, U.S. Bank Stadium, Minneapolis",
+      "date": "2026-11-01",
+      "word_count": 387,
+      "text": "Buffalo Bills 36, Baltimore Ravens 10. Across town on Sunday, the Scarecrow Trail at the Buffalo Botanical Gardens had dozens of straw figures and ghosts tucked among the mums. In Orchard Park, the Baltimore offense looked about as dangerous as any of them by the fourth quarter.\n\nI don't hand out trophies for October. I judge this team by January, and what matters from this one is how it got done. The first drive told you plenty: Josh Allen kept the ball on fourth-and-goal from the 1 and walked in. Tyler Bass followed with a 56-yard field goal, and it was 10-0 before most of the stadium sat down.\n\nAllen gave one back, an interception at our own 17 that turned into a Derrick Henry score, and it sat at 10-7 for too long. The defense took over from there. Cole Bishop sacked Tyler Huntley and forced a fumble that Kaleb Elarms-Orr pounced on. Davison Igbinosun intercepted rookie Joe Fagnano. Tyler Bass turned both gifts into points, the second from 51 yards with nine seconds left in the half. He went 3 for 3 and now has 21 straight makes, a franchise record.\n\nThe second half was Allen with the ball and receivers running free. A 49-yard strike to DJ Moore set up James Cook's 5-yard run. A 40-yard catch by Dalton Kincaid set up Moore's 11-yard touchdown. Then Allen found Kincaid for 23 yards and the 36-10 final. Allen finished 21 of 34 for 289 yards, two touchdown throws and a rushing score. Cook carried 21 times for 80 yards, and Khalil Shakir caught five for 64.\n\nBaltimore got 144 yards all day. Landon Jackson, Greg Rousseau, Bishop and TJ Parker each got a sack, and the Ravens went 3 of 13 on third down.\n\nNow the honest part, because January doesn't care about the scoreboard in Week 8. Ten penalties for 87 yards is sloppy. Moore lost a fumble at the Baltimore 18 when Roquan Smith ripped it out. The Allen interception was a bad read. Joshua Palmer left with a hamstring injury. Against a Ravens team down to its third quarterback, none of it cost us. In a playoff game it would.\n\nStill, 6-1 is 6-1, and the Bills went 4 of 5 on fourth down. Next is a Monday night trip to Minnesota.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Buffalo Bills 36, Baltimore Ravens 10. Across town on Sunday, the Scarecrow Trail at the Buffalo Botanical Gardens had dozens of straw figures and ghosts tucked among the mums. In Orchard Park, the Baltimore offense looked about as dangerous as any of them by the fourth quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "I don't hand out trophies for October. I judge this team by January, and what matters from this one is how it got done. The first drive told you plenty: Josh Allen kept the ball on fourth-and-goal from the 1 and walked in. Tyler Bass followed with a 56-yard field goal, and it was 10-0 before most of the stadium sat down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Allen gave one back, an interception at our own 17 that turned into a Derrick Henry score, and it sat at 10-7 for too long. The defense took over from there. Cole Bishop sacked Tyler Huntley and forced a fumble that Kaleb Elarms-Orr pounced on. Davison Igbinosun intercepted rookie Joe Fagnano. Tyler Bass turned both gifts into points, the second from 51 yards with nine seconds left in the half. He went 3 for 3 and now has 21 straight makes, a franchise record."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half was Allen with the ball and receivers running free. A 49-yard strike to DJ Moore set up James Cook's 5-yard run. A 40-yard catch by Dalton Kincaid set up Moore's 11-yard touchdown. Then Allen found Kincaid for 23 yards and the 36-10 final. Allen finished 21 of 34 for 289 yards, two touchdown throws and a rushing score. Cook carried 21 times for 80 yards, and Khalil Shakir caught five for 64."
+        },
+        {
+          "type": "paragraph",
+          "text": "Baltimore got 144 yards all day. Landon Jackson, Greg Rousseau, Bishop and TJ Parker each got a sack, and the Ravens went 3 of 13 on third down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the honest part, because January doesn't care about the scoreboard in Week 8. Ten penalties for 87 yards is sloppy. Moore lost a fumble at the Baltimore 18 when Roquan Smith ripped it out. The Allen interception was a bad read. Joshua Palmer left with a hamstring injury. Against a Ravens team down to its third quarterback, none of it cost us. In a playoff game it would."
+        },
+        {
+          "type": "paragraph",
+          "text": "Still, 6-1 is 6-1, and the Bills went 4 of 5 on fourth down. Next is a Monday night trip to Minnesota."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Bills beat the Ravens 36-10 at Highmark Stadium; Buffalo is 6-1."
+        },
+        {
+          "type": "fact",
+          "text": "Josh Allen threw for 289 yards and two touchdowns and ran for another; Dalton Kincaid and DJ Moore caught the scoring throws."
+        },
+        {
+          "type": "fact",
+          "text": "Tyler Bass made all three field goals, including a 56-yarder, and has 21 straight makes, a Bills record."
+        },
+        {
+          "type": "jab",
+          "text": "Baltimore brought three quarterbacks and still couldn't reach 150 yards."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Bills 36, Ravens 10",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873026"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873026"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873026"
+        },
+        {
+          "label": "BuffaloBills.com: Bills 36, Ravens 10 recap",
+          "url": "https://www.buffalobills.com/news/bills-36-ravens-10-final-score-recap-highlights"
+        },
+        {
+          "label": "Kids Out and About Buffalo: Scarecrow Trail at the Botanical Gardens, Nov. 1",
+          "url": "https://buffalo.kidsoutandabout.com/content/things-do-weekend-and-around-buffalo"
+        },
+        {
+          "label": "ESPN Bills schedule (next game: at Vikings, Mon., Nov. 9)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/buf/buffalo-bills"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-bal",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "bal",
+      "team_ids": [
+        "bal"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873026",
+      "title": "Baltimore Ravens vs Buffalo Bills Week 8: Three QBs, One Rout 36-10",
+      "byline": "",
+      "matchup": "Final: Baltimore Ravens (4-4) 10, Buffalo Bills (6-1) 36, Sun., Nov. 1, Highmark Stadium, Orchard Park. Next: Jacksonville Jaguars, Thu., Nov. 5, 8:15 PM ET, M&T Bank Stadium, Baltimore",
+      "date": "2026-11-01",
+      "word_count": 392,
+      "text": "Buffalo Bills 36, Baltimore Ravens 10. Back home on Sunday morning, families hauled their old jack-o'-lanterns up to the roof of the Maryland Science Center for the Pumpkin Smash and sent them flying for compost. By late afternoon in Orchard Park, the whole season felt like it had been tossed off a roof with them.\n\nIt went wrong on the first snap. Lamar Jackson's throwing hand hit Greg Rousseau's arm on an incomplete throw, he hurt his right thumb, and he did not come back. Tyler Huntley came in, got sacked by Cole Bishop, lost the ball, which Buffalo recovered at our 20, and limped off with a toe injury. That handed the game to Joe Fagnano, an undrafted rookie from UConn making his NFL debut on the road in Buffalo.\n\nGive the kid credit for standing in there. He went 10 of 21 for 91 yards with an interception, and nobody expected more. Josh Allen's 1-yard keeper on fourth-and-goal opened the scoring, Tyler Bass hit from 56, and Broderick Washington Jr. intercepted Allen at the Buffalo 17 to give Derrick Henry a 2-yard score. At 10-7 we were breathing.\n\nThen the mistakes stacked up. Davison Igbinosun intercepted Fagnano late in the half and Bass drilled a 51-yarder with nine seconds left. Tyler Loop clanged a 34-yarder off the left upright. Henry ran one in from 10 in the third quarter and Ronnie Stanley's holding flag erased it. Loop's 26-yarder made it 16-10, and that was the last time this felt like a game.\n\nThe honest part: 144 yards of offense, 10 first downs, 3 of 13 on third down, three turnovers and four sacks taken. Buffalo kept the ball for more than 37 minutes. The defense I always judge first held up for a half and then wore down, giving up 426 yards by the end.\n\nThere were still Ravens worth naming. Roquan Smith made 11 tackles and punched the ball loose from DJ Moore. Malaki Starks added 10 tackles. Rasheen Ali brought back five kickoffs for 147 yards, one for 59. Henry's touchdown was the 136th of his career from scrimmage, tying Marshall Faulk for fourth all time.\n\nThat is three losses in a row, and the Jaguars come to M&T Bank Stadium on Thursday night with four days to get a quarterback healthy. Baltimore has to find one fast.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Buffalo Bills 36, Baltimore Ravens 10. Back home on Sunday morning, families hauled their old jack-o'-lanterns up to the roof of the Maryland Science Center for the Pumpkin Smash and sent them flying for compost. By late afternoon in Orchard Park, the whole season felt like it had been tossed off a roof with them."
+        },
+        {
+          "type": "paragraph",
+          "text": "It went wrong on the first snap. Lamar Jackson's throwing hand hit Greg Rousseau's arm on an incomplete throw, he hurt his right thumb, and he did not come back. Tyler Huntley came in, got sacked by Cole Bishop, lost the ball, which Buffalo recovered at our 20, and limped off with a toe injury. That handed the game to Joe Fagnano, an undrafted rookie from UConn making his NFL debut on the road in Buffalo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Give the kid credit for standing in there. He went 10 of 21 for 91 yards with an interception, and nobody expected more. Josh Allen's 1-yard keeper on fourth-and-goal opened the scoring, Tyler Bass hit from 56, and Broderick Washington Jr. intercepted Allen at the Buffalo 17 to give Derrick Henry a 2-yard score. At 10-7 we were breathing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the mistakes stacked up. Davison Igbinosun intercepted Fagnano late in the half and Bass drilled a 51-yarder with nine seconds left. Tyler Loop clanged a 34-yarder off the left upright. Henry ran one in from 10 in the third quarter and Ronnie Stanley's holding flag erased it. Loop's 26-yarder made it 16-10, and that was the last time this felt like a game."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: 144 yards of offense, 10 first downs, 3 of 13 on third down, three turnovers and four sacks taken. Buffalo kept the ball for more than 37 minutes. The defense I always judge first held up for a half and then wore down, giving up 426 yards by the end."
+        },
+        {
+          "type": "paragraph",
+          "text": "There were still Ravens worth naming. Roquan Smith made 11 tackles and punched the ball loose from DJ Moore. Malaki Starks added 10 tackles. Rasheen Ali brought back five kickoffs for 147 yards, one for 59. Henry's touchdown was the 136th of his career from scrimmage, tying Marshall Faulk for fourth all time."
+        },
+        {
+          "type": "paragraph",
+          "text": "That is three losses in a row, and the Jaguars come to M&T Bank Stadium on Thursday night with four days to get a quarterback healthy. Baltimore has to find one fast."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Bills beat the Ravens 36-10 at Highmark Stadium; Baltimore falls to 4-4 with a third straight loss."
+        },
+        {
+          "type": "fact",
+          "text": "Lamar Jackson hurt his right thumb on the first snap and Tyler Huntley left with a toe injury, leaving undrafted rookie Joe Fagnano to play in his NFL debut."
+        },
+        {
+          "type": "fact",
+          "text": "Derrick Henry's 2-yard score was his 136th touchdown from scrimmage, tying Marshall Faulk for fourth all time."
+        },
+        {
+          "type": "jab",
+          "text": "Ten points, three quarterbacks, one very long bus ride to the airport."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Bills 36, Ravens 10",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873026"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873026"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873026"
+        },
+        {
+          "label": "BaltimoreRavens.com game recap",
+          "url": "https://www.baltimoreravens.com/news/ravens-bills-blowout-week-8-lamar-jackson-tyler-huntley-joe-fagnano-injuries"
+        },
+        {
+          "label": "Baltimore's Child: Pumpkin Smash at the Maryland Science Center, Nov. 1",
+          "url": "https://www.baltimoreschild.com/weekend-events-oct-31-nov-1/"
+        },
+        {
+          "label": "ESPN Ravens schedule (next game: Jaguars, Thu., Nov. 5)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/bal/baltimore-ravens"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
     {
       "id": "fanatic_team-florida-international-2026-10-31",
       "kind": "fanatic_team",
@@ -7888,6 +9348,540 @@
         {
           "label": "ESPN Washington schedule (next game: vs. Penn State, Sat., Nov. 7)",
           "url": "https://www.espn.com/college-football/team/schedule/_/id/264"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-fresno-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "fresno-state",
+      "team_ids": [
+        "fresno-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860924",
+      "title": "Fresno State vs Oregon State: Mandal Spooks the Beavers 38-22",
+      "byline": "",
+      "matchup": "Final: Fresno State (5-3) 38, Oregon State (5-3) 22, Sat., Oct. 31, Valley Children's Stadium, Fresno. Next: at Utah State, Sat., Nov. 7, Maverik Stadium, Logan",
+      "date": "2026-10-31",
+      "word_count": 362,
+      "text": "Fresno State 38, Oregon State 22, and the Valley is buzzing like a raisin shed at harvest. The Red & White Lot turned into a Trunk or Treat for Halloween night, the Bulldogs went with a Blackout theme, and the visitors from Corvallis rolled in on a five-game win streak. They rolled out without it.\n\nIt didn't start pretty. Jayden Mandal got intercepted on our second snap, and Oregon State drove inside our 10. Our defense held, a false start wiped out a Beaver touchdown, and they turned it over on downs. After their 54-yard field goal, Mandal went to work: eight plays, 75 yards, and a 15-yard touchdown run. 7-3.\n\nBryson Donelson made the next statement. After Rayshon Luke ripped off 12 yards, Donelson broke loose for a 63-yard touchdown, 45 seconds after an Oregon State field goal. He finished with 108 yards on 16 carries. Mandal then hit Josiah Freeman for a 26-yard score, and with 18 seconds left in the half, Dylan Hampsten strip-sacked Braden Atkinson and Mordecai Hines fell on it at our 17. 21-9 at the break.\n\nThe third quarter was a full harvest: 17 points. Manaki Watanabe hit a 30-yard field goal. On the very next snap, Martin Owusu strip-sacked Atkinson and Maverick Noonan recovered at the Oregon State 19. Mandal ran it in from 3. After a Beaver touchdown, Mandal found Freeman again from 31, and it was 38-16.\n\nMandal finished 11 of 17 for 202 yards with two touchdowns and ran for two more. Freeman caught six balls for 88 yards and both scores, and Jahlil McClain had a 48-yard grab. Hampsten had two sacks and seven tackles. Ethan Tierney and Deijon Laffitte added back-to-back sacks, Owusu got one, and the defense finished with five. Tytus Khajavi led us with eight tackles.\n\nHonest note: Atkinson threw for 373 yards on 59 attempts, and Oregon State piled up 450 yards to our 392. But the Beavers ran for 77, went 2 for 5 on fourth down, and we recovered the late onside kick. We're 5-3, 2-2 in the Pac-12 and 3-1 at home. Next up is Utah State in Logan on Nov. 7. Go 'Dogs!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fresno State 38, Oregon State 22, and the Valley is buzzing like a raisin shed at harvest. The Red & White Lot turned into a Trunk or Treat for Halloween night, the Bulldogs went with a Blackout theme, and the visitors from Corvallis rolled in on a five-game win streak. They rolled out without it."
+        },
+        {
+          "type": "paragraph",
+          "text": "It didn't start pretty. Jayden Mandal got intercepted on our second snap, and Oregon State drove inside our 10. Our defense held, a false start wiped out a Beaver touchdown, and they turned it over on downs. After their 54-yard field goal, Mandal went to work: eight plays, 75 yards, and a 15-yard touchdown run. 7-3."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bryson Donelson made the next statement. After Rayshon Luke ripped off 12 yards, Donelson broke loose for a 63-yard touchdown, 45 seconds after an Oregon State field goal. He finished with 108 yards on 16 carries. Mandal then hit Josiah Freeman for a 26-yard score, and with 18 seconds left in the half, Dylan Hampsten strip-sacked Braden Atkinson and Mordecai Hines fell on it at our 17. 21-9 at the break."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter was a full harvest: 17 points. Manaki Watanabe hit a 30-yard field goal. On the very next snap, Martin Owusu strip-sacked Atkinson and Maverick Noonan recovered at the Oregon State 19. Mandal ran it in from 3. After a Beaver touchdown, Mandal found Freeman again from 31, and it was 38-16."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mandal finished 11 of 17 for 202 yards with two touchdowns and ran for two more. Freeman caught six balls for 88 yards and both scores, and Jahlil McClain had a 48-yard grab. Hampsten had two sacks and seven tackles. Ethan Tierney and Deijon Laffitte added back-to-back sacks, Owusu got one, and the defense finished with five. Tytus Khajavi led us with eight tackles."
+        },
+        {
+          "type": "paragraph",
+          "text": "Honest note: Atkinson threw for 373 yards on 59 attempts, and Oregon State piled up 450 yards to our 392. But the Beavers ran for 77, went 2 for 5 on fourth down, and we recovered the late onside kick. We're 5-3, 2-2 in the Pac-12 and 3-1 at home. Next up is Utah State in Logan on Nov. 7. Go 'Dogs!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Fresno State beat Oregon State 38-22 on Halloween night at Valley Children's Stadium. The Bulldogs are 5-3 and 2-2 in the Pac-12."
+        },
+        {
+          "type": "fact",
+          "text": "Jayden Mandal threw two touchdowns to Josiah Freeman and ran for two more."
+        },
+        {
+          "type": "fact",
+          "text": "Fresno State's defense had five sacks and forced two fumbles, and Bryson Donelson ran for 108 yards, including a 63-yard touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "Oregon State came in on a five-game streak. The Valley kept it."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Fresno State 38, Oregon State 22 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860924"
+        },
+        {
+          "label": "ESPN play-by-play, Oregon State at Fresno State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860924"
+        },
+        {
+          "label": "Fresno State Athletics: Bulldogs spook Beavers in Halloween Night win",
+          "url": "https://gobulldogs.com/news/2026/10/31/football-bulldogs-spook-beavers-in-halloween-night-win"
+        },
+        {
+          "label": "Fresno State Athletics: Red & White Lot Trunk or Treat sign-up, Sat., Oct. 31 vs. Oregon State",
+          "url": "https://app.gobulldogs.com/LP=117"
+        },
+        {
+          "label": "Fresno State Athletics preview: Bulldogs host Oregon State on Halloween Night (Blackout theme)",
+          "url": "https://gobulldogs.com/news/2026/10/26/football-bulldogs-host-oregon-state-on-halloween-night"
+        },
+        {
+          "label": "ESPN Fresno State schedule (next game: at Utah State, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/278"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-oregon-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "oregon-state",
+      "team_ids": [
+        "oregon-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860924",
+      "title": "Oregon State vs Fresno State: Fumbles Fell Beavers' Streak 38-22",
+      "byline": "",
+      "matchup": "Final: Fresno State (5-3) 38, Oregon State (5-3) 22, Sat., Oct. 31, Valley Children's Stadium, Fresno. Next: vs. Texas State, Sat., Nov. 7, Reser Stadium, Corvallis",
+      "date": "2026-10-31",
+      "word_count": 393,
+      "text": "Fresno State 38, Oregon State 22, and our five-game win streak got felled like an old Douglas fir in a windstorm. Back home, the Downtown Corvallis Organization ran Halloween on the Waterfront and Downtown Trick-or-Treat that afternoon, planning for 800 to 1,200 kids. By the time those kids were sorting candy, the Beavers were in Fresno learning a hard lesson about loose bark.\n\nIt started like a good growing season. Sailasa Vadrawale III intercepted Jayden Mandal on Fresno's second snap. We drove inside the Fresno 10, had a touchdown wiped out by a false start and turned it over on downs. Caleb Ojeda put us up 3-0 with a 54-yard field goal, a career long and our longest since Nov. 23, 2024. He made all three of his kicks.\n\nThen the roots came loose. Mandal ran in from 15. Ojeda's 28-yarder made it 7-6, and 45 seconds later Bryson Donelson ran 63 yards for a touchdown. Ojeda hit from 29, but Mandal found Josiah Freeman for a 26-yard score. We reached the Fresno 17 before the half, and Dylan Hampsten strip-sacked Braden Atkinson with 18 seconds left. 21-9.\n\nThe third quarter is the stump I can't get past. Right after a Fresno field goal, Martin Owusu strip-sacked Atkinson on our first snap, and Fresno recovered at our 19. Mandal scored from 3 for 31-9. Cornell Hatcher Jr. answered with a 5-yard touchdown run, but Mandal hit Freeman from 31 and it was 38-16. Two lost fumbles: one killed a scoring chance before the half, and one handed Fresno a touchdown.\n\nCredit where the sap runs true. Atkinson went 33 of 59 for 373 yards with no interceptions. That's his eighth straight 300-yard game, which breaks Sean Mannion's school record of seven. DeCorion Temple caught six balls for a career-high 97 yards, the most by an Oregon State tight end since 2013. Eric Olsen caught seven for 71, including a 9-yard touchdown with 1:45 left, and has caught a ball in 23 straight games. Jesse Legree added seven for 70.\n\nBut we ran for 77 yards, went 2 for 5 on fourth down and turned it over on downs twice in the fourth. Fresno ran for 190. We're 5-3 and still 3-1 in the Pac-12. Texas State comes to Reser Stadium next Saturday. Measure the damage, sharpen the saw and get back to work.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fresno State 38, Oregon State 22, and our five-game win streak got felled like an old Douglas fir in a windstorm. Back home, the Downtown Corvallis Organization ran Halloween on the Waterfront and Downtown Trick-or-Treat that afternoon, planning for 800 to 1,200 kids. By the time those kids were sorting candy, the Beavers were in Fresno learning a hard lesson about loose bark."
+        },
+        {
+          "type": "paragraph",
+          "text": "It started like a good growing season. Sailasa Vadrawale III intercepted Jayden Mandal on Fresno's second snap. We drove inside the Fresno 10, had a touchdown wiped out by a false start and turned it over on downs. Caleb Ojeda put us up 3-0 with a 54-yard field goal, a career long and our longest since Nov. 23, 2024. He made all three of his kicks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the roots came loose. Mandal ran in from 15. Ojeda's 28-yarder made it 7-6, and 45 seconds later Bryson Donelson ran 63 yards for a touchdown. Ojeda hit from 29, but Mandal found Josiah Freeman for a 26-yard score. We reached the Fresno 17 before the half, and Dylan Hampsten strip-sacked Braden Atkinson with 18 seconds left. 21-9."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter is the stump I can't get past. Right after a Fresno field goal, Martin Owusu strip-sacked Atkinson on our first snap, and Fresno recovered at our 19. Mandal scored from 3 for 31-9. Cornell Hatcher Jr. answered with a 5-yard touchdown run, but Mandal hit Freeman from 31 and it was 38-16. Two lost fumbles: one killed a scoring chance before the half, and one handed Fresno a touchdown."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit where the sap runs true. Atkinson went 33 of 59 for 373 yards with no interceptions. That's his eighth straight 300-yard game, which breaks Sean Mannion's school record of seven. DeCorion Temple caught six balls for a career-high 97 yards, the most by an Oregon State tight end since 2013. Eric Olsen caught seven for 71, including a 9-yard touchdown with 1:45 left, and has caught a ball in 23 straight games. Jesse Legree added seven for 70."
+        },
+        {
+          "type": "paragraph",
+          "text": "But we ran for 77 yards, went 2 for 5 on fourth down and turned it over on downs twice in the fourth. Fresno ran for 190. We're 5-3 and still 3-1 in the Pac-12. Texas State comes to Reser Stadium next Saturday. Measure the damage, sharpen the saw and get back to work."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Fresno State beat Oregon State 38-22 on Saturday, Oct. 31, at Valley Children's Stadium, ending the Beavers' five-game win streak. Oregon State is 5-3 and 3-1 in the Pac-12."
+        },
+        {
+          "type": "fact",
+          "text": "Braden Atkinson threw for 373 yards, his eighth straight 300-yard game, breaking Sean Mannion's school record of seven."
+        },
+        {
+          "type": "fact",
+          "text": "Caleb Ojeda made all three field goals, including a career-long 54-yarder, and DeCorion Temple caught six balls for a career-high 97 yards."
+        },
+        {
+          "type": "jab",
+          "text": "We threw for 373 yards and ran for 77. A tree needs both roots and branches."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Fresno State 38, Oregon State 22 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860924"
+        },
+        {
+          "label": "ESPN play-by-play, Oregon State at Fresno State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860924"
+        },
+        {
+          "label": "Oregon State Athletics: Temple, Ojeda Lead OSU In Loss At Fresno State",
+          "url": "https://osubeavers.com/news/2026/11/1/football-temple-ojeda-lead-osu-in-loss-at-fresno-state"
+        },
+        {
+          "label": "Downtown Corvallis Organization: Halloween on the Waterfront & Downtown Trick-or-Treat, Oct. 31, 2026",
+          "url": "https://www.downtown-corvallis.org/events-1-1/downtown-trick-or-treat"
+        },
+        {
+          "label": "ESPN Oregon State schedule (next game: vs. Texas State, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/204"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-unlv",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "unlv",
+      "team_ids": [
+        "unlv"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864530",
+      "title": "UNLV vs Northern Illinois: Arnold Steals the Halloween Show 31-24",
+      "byline": "",
+      "matchup": "Final: UNLV (5-3) 31, Northern Illinois (0-8) 24, Sat., Oct. 31, Allegiant Stadium, Paradise. Next: vs. Wyoming, Sat., Nov. 7, Allegiant Stadium, Paradise",
+      "date": "2026-10-31",
+      "word_count": 400,
+      "text": "UNLV 31, Northern Illinois 24, and the Rebels finally took a bow on Halloween night. October 31 is also Nevada Day, the day the Silver State joined the Union in 1864, and UNLV dressed the game up as Nevada Day & Halloween at Allegiant Stadium. The result was the program's first Halloween win since 1992 and the first win over NIU in six tries.\n\nWhat an opening act. On the first snap of the night, Jackson Arnold dropped a 75-yard touchdown on Kayden McGee. Seventy-five yards, eleven seconds, curtain up. McGee finished with five catches for 112 yards, his first career 100-yard game.\n\nThen the show wobbled. NIU answered with Telly Johnson Jr.'s 20-yard run. Ramon Villela's 20-yard field goal put us up 10-7, but Taron Dickens hit DeAree Rogers for a 12-yard score. Brady Kerperin intercepted Arnold to open the second quarter, and NIU kicked its way to a 17-10 lead.\n\nArnold doesn't do understudy nights. He found Keyan Burnett for a 31-yard touchdown to tie it. After NIU missed from 47, he went 71 yards in 11 plays, ran for 18 on the way and hit Taeshaun Lyons from 2 with 20 seconds left. That made it 24-17 at the half. Arnold went 20 of 30 for 269 yards and three touchdowns and ran 13 times for 86 yards. He also threw two interceptions, and I won't pretend those were part of the choreography.\n\nEarly in the third, Jai'Den Thomas delivered the move of the night: a 60-yard touchdown run for 31-17. He finished with 114 yards on 16 carries. NIU hit back with a 61-yard touchdown from Dickens to George Dimopoulos, and then the defense took over. Mumu Bin-Wahad intercepted Dickens at our 10 with 12:52 left and returned it 53 yards. It was his fourth interception of the season, and he added eight tackles. NIU's 54-yard field goal try missed at 2:06, Arnold ripped off a 27-yard run, and we knelt it out.\n\nI'll be honest: NIU outgained us 493 yards to 473 and kept the ball for 35:09. But the Huskies didn't score for the final 24:31. Tony-Louis Nkuba made nine tackles, Elias Rudolph had a sack and Matt Choules averaged 51.7 yards on three punts.\n\nWe're 5-3, 3-1 in the Mountain West and 3-1 at home. Wyoming comes to Allegiant on Saturday, Nov. 7. Keep the lights on, Rebel fans. And that's a wrap!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "UNLV 31, Northern Illinois 24, and the Rebels finally took a bow on Halloween night. October 31 is also Nevada Day, the day the Silver State joined the Union in 1864, and UNLV dressed the game up as Nevada Day & Halloween at Allegiant Stadium. The result was the program's first Halloween win since 1992 and the first win over NIU in six tries."
+        },
+        {
+          "type": "paragraph",
+          "text": "What an opening act. On the first snap of the night, Jackson Arnold dropped a 75-yard touchdown on Kayden McGee. Seventy-five yards, eleven seconds, curtain up. McGee finished with five catches for 112 yards, his first career 100-yard game."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the show wobbled. NIU answered with Telly Johnson Jr.'s 20-yard run. Ramon Villela's 20-yard field goal put us up 10-7, but Taron Dickens hit DeAree Rogers for a 12-yard score. Brady Kerperin intercepted Arnold to open the second quarter, and NIU kicked its way to a 17-10 lead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Arnold doesn't do understudy nights. He found Keyan Burnett for a 31-yard touchdown to tie it. After NIU missed from 47, he went 71 yards in 11 plays, ran for 18 on the way and hit Taeshaun Lyons from 2 with 20 seconds left. That made it 24-17 at the half. Arnold went 20 of 30 for 269 yards and three touchdowns and ran 13 times for 86 yards. He also threw two interceptions, and I won't pretend those were part of the choreography."
+        },
+        {
+          "type": "paragraph",
+          "text": "Early in the third, Jai'Den Thomas delivered the move of the night: a 60-yard touchdown run for 31-17. He finished with 114 yards on 16 carries. NIU hit back with a 61-yard touchdown from Dickens to George Dimopoulos, and then the defense took over. Mumu Bin-Wahad intercepted Dickens at our 10 with 12:52 left and returned it 53 yards. It was his fourth interception of the season, and he added eight tackles. NIU's 54-yard field goal try missed at 2:06, Arnold ripped off a 27-yard run, and we knelt it out."
+        },
+        {
+          "type": "paragraph",
+          "text": "I'll be honest: NIU outgained us 493 yards to 473 and kept the ball for 35:09. But the Huskies didn't score for the final 24:31. Tony-Louis Nkuba made nine tackles, Elias Rudolph had a sack and Matt Choules averaged 51.7 yards on three punts."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 5-3, 3-1 in the Mountain West and 3-1 at home. Wyoming comes to Allegiant on Saturday, Nov. 7. Keep the lights on, Rebel fans. And that's a wrap!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "UNLV beat Northern Illinois 31-24 on Halloween night at Allegiant Stadium. The Rebels are 5-3 and 3-1 in the Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "Jackson Arnold threw three first-half touchdowns, including a 75-yarder to Kayden McGee on the first snap of the game."
+        },
+        {
+          "type": "fact",
+          "text": "Jai'Den Thomas ran for 114 yards, including a 60-yard touchdown, and Mumu Bin-Wahad intercepted Dickens in the fourth quarter."
+        },
+        {
+          "type": "jab",
+          "text": "NIU won the yardage. We won the night, the holiday and the state birthday."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, UNLV 31, Northern Illinois 24 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864530"
+        },
+        {
+          "label": "ESPN play-by-play, Northern Illinois at UNLV",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864530"
+        },
+        {
+          "label": "UNLV Athletics: Rebel Football Scares Up Halloween Win Over NIU",
+          "url": "https://unlvrebels.com/news/2026/11/1/rebel-football-scares-up-halloween-win-over-niu"
+        },
+        {
+          "label": "UNLV Athletics 2026 football schedule (vs. NIU: Nevada Day & Halloween)",
+          "url": "https://unlvrebels.com/sports/football/schedule"
+        },
+        {
+          "label": "ESPN UNLV schedule (next game: vs. Wyoming, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2439"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-northern-illinois-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "northern-illinois",
+      "team_ids": [
+        "northern-illinois"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864530",
+      "title": "Northern Illinois vs UNLV: Huskies Take Rebels to the Wire 31-24",
+      "byline": "",
+      "matchup": "Final: UNLV (5-3) 31, Northern Illinois (0-8) 24, Sat., Oct. 31, Allegiant Stadium, Paradise. Next: at San José State, Sat., Nov. 7, CEFCU Stadium, San Jose",
+      "date": "2026-10-31",
+      "word_count": 393,
+      "text": "UNLV 31, Northern Illinois 24, and this one stings like a hailstorm a week before harvest. Back in DeKalb, the city's official trick-or-treat hours ran 4 to 7 p.m. on Halloween. By the time the porch lights went off at home, our Huskies were out in the desert going toe to toe with UNLV, and we walked out of Allegiant Stadium still looking for the first win.\n\nThe night opened rough. Jackson Arnold hit Kayden McGee for a 75-yard touchdown on the very first snap. We didn't flinch. A 10-play, 75-yard drive ended with Telly Johnson Jr. bouncing outside on third-and-1 for a 20-yard score. Our defense made three stops inside the 5 to hold UNLV to a field goal, then Taron Dickens found DeAree Rogers for a 12-yard touchdown at 0:53 of the first. Brady Kerperin intercepted Arnold to open the second quarter, and JJ Schlenhardt's 27-yard field goal made it 17-10, Huskies.\n\nThen the weeds crept in. Arnold tied it with a 31-yard throw to Keyan Burnett. Schlenhardt missed from 47, and UNLV went 71 yards to score on a 2-yard catch by Taeshaun Lyons with 20 seconds left. Jai'Den Thomas broke a 60-yard touchdown run early in the third for 31-17.\n\nWe answered fast. Dickens hit George Dimopoulos for a 61-yard touchdown at 9:31, and it was 31-24. Late in the third, Champ Smith III went up and intercepted Arnold at our 1. That's the kind of play you plant a whole season around.\n\nThe fourth quarter is the part I'll be staring at for a while. We had the ball, we had the clock, and we came up empty. Mumu Bin-Wahad intercepted Dickens at the UNLV 10 with 12:52 left. Schlenhardt's 54-yard try missed at 2:06. UNLV knelt it out.\n\nHere's what the soil says. We outgained them 493 yards to 473, ran for 240 and held the ball for 35:09. Elijah Porter ran for a career-high 113 yards on 21 carries. Dimopoulos had a career-high 127 on seven catches, and Rogers added 96. Jack Murray and Jashawn Nelson made nine tackles each, and Amari Washington had a sack. Missed kicks and two late empty drives were the difference.\n\nWe're 0-8 and 0-4 in the Mountain West, and this team is still growing. San José State is next on Saturday, Nov. 7. Patience, Huskie fans. The crop is coming.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "UNLV 31, Northern Illinois 24, and this one stings like a hailstorm a week before harvest. Back in DeKalb, the city's official trick-or-treat hours ran 4 to 7 p.m. on Halloween. By the time the porch lights went off at home, our Huskies were out in the desert going toe to toe with UNLV, and we walked out of Allegiant Stadium still looking for the first win."
+        },
+        {
+          "type": "paragraph",
+          "text": "The night opened rough. Jackson Arnold hit Kayden McGee for a 75-yard touchdown on the very first snap. We didn't flinch. A 10-play, 75-yard drive ended with Telly Johnson Jr. bouncing outside on third-and-1 for a 20-yard score. Our defense made three stops inside the 5 to hold UNLV to a field goal, then Taron Dickens found DeAree Rogers for a 12-yard touchdown at 0:53 of the first. Brady Kerperin intercepted Arnold to open the second quarter, and JJ Schlenhardt's 27-yard field goal made it 17-10, Huskies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the weeds crept in. Arnold tied it with a 31-yard throw to Keyan Burnett. Schlenhardt missed from 47, and UNLV went 71 yards to score on a 2-yard catch by Taeshaun Lyons with 20 seconds left. Jai'Den Thomas broke a 60-yard touchdown run early in the third for 31-17."
+        },
+        {
+          "type": "paragraph",
+          "text": "We answered fast. Dickens hit George Dimopoulos for a 61-yard touchdown at 9:31, and it was 31-24. Late in the third, Champ Smith III went up and intercepted Arnold at our 1. That's the kind of play you plant a whole season around."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fourth quarter is the part I'll be staring at for a while. We had the ball, we had the clock, and we came up empty. Mumu Bin-Wahad intercepted Dickens at the UNLV 10 with 12:52 left. Schlenhardt's 54-yard try missed at 2:06. UNLV knelt it out."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's what the soil says. We outgained them 493 yards to 473, ran for 240 and held the ball for 35:09. Elijah Porter ran for a career-high 113 yards on 21 carries. Dimopoulos had a career-high 127 on seven catches, and Rogers added 96. Jack Murray and Jashawn Nelson made nine tackles each, and Amari Washington had a sack. Missed kicks and two late empty drives were the difference."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 0-8 and 0-4 in the Mountain West, and this team is still growing. San José State is next on Saturday, Nov. 7. Patience, Huskie fans. The crop is coming."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "UNLV beat Northern Illinois 31-24 on Saturday, Oct. 31, at Allegiant Stadium. The Huskies are 0-8 and 0-4 in the Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "NIU outgained UNLV 493 yards to 473, ran for 240 yards and held the ball for 35:09."
+        },
+        {
+          "type": "fact",
+          "text": "Elijah Porter ran for a career-high 113 yards, and George Dimopoulos caught seven balls for a career-high 127 yards and a 61-yard touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "We won the yardage fight and the clock. Next time, we take the scoreboard too."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, UNLV 31, Northern Illinois 24 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864530"
+        },
+        {
+          "label": "ESPN play-by-play, Northern Illinois at UNLV",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864530"
+        },
+        {
+          "label": "NIU Athletics: Huskies Take UNLV To The Wire, Fall 31-24",
+          "url": "https://niuhuskies.com/news/2026/11/1/football-huskies-take-unlv-to-the-wire-fall-31-24.aspx"
+        },
+        {
+          "label": "DeKalb Life: Official trick-or-treating hours in DeKalb, Oct. 31, 2026",
+          "url": "https://dekalblife.com/events/official-trick-or-treating-hours/"
+        },
+        {
+          "label": "ESPN Northern Illinois schedule (next game: at San José State, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2459"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-boise-state-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "boise-state",
+      "team_ids": [
+        "boise-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860908",
+      "title": "Boise State vs Texas State: Cutforth Saves Halloween Night 46-45",
+      "byline": "",
+      "matchup": "Final: Boise State (7-1) 46, Texas State (4-4) 45, Sat., Oct. 31, Albertsons Stadium, Boise. Next: at Colorado State, Sat., Nov. 7, Canvas Stadium, Fort Collins",
+      "date": "2026-10-31",
+      "word_count": 369,
+      "text": "Boise State 46, Texas State 45, and my blue car needed a full lap of the lot before my heart rate came down. It was the first Blue After Dark game, Halloween night, with trunk-or-treat in the tailgate lots and Kellen Moore back on The Blue for the unveiling of his 11-foot bronze statue at halftime. By the fourth quarter, the scariest thing in the stadium was the scoreboard.\n\nThe first half was pure Bronco football. A 13-play, 83-yard opening drive ended with Maddux Madsen running in from 6. Dylan Riley scored from 5, Madsen added a 1-yard run, and freshman Rasean Jones caught a 12-yard touchdown with four seconds left. It was 28-3 at the break, and the statue had a perfect view.\n\nThen we fell asleep at the griddle. Brad Jackson hit Chris Dawn Jr. for 67 yards. Harry Stewart III fumbled, and Texas State turned it into a touchdown and a two-point run. Jackson ran 35 yards for another. He opened the fourth with a 44-yard strike to Beau Sparks, and at 8:58 Jayden Bradley intercepted Madsen and ran it 20 yards for a score. Thirty-six straight points, 39-28. I set my fork down.\n\nEnter Max Cutforth. He hit Jones from 9 at 6:15. Mana Tuioti grabbed his first career interception and returned it to the Texas State 11, and on fourth down Cutforth found Jones again. 40-39. Texas State answered with a 72-yard bomb to Zechariah Sample. Cutforth went right back to Jones for 44 yards on the first snap, and six plays and 1:07 later he hit Akeem Wright for an 18-yard touchdown with 2:40 left. 46-45.\n\nJaden Mickey sealed it by breaking up a fourth-down throw at 1:55. Jones finished with nine catches for 117 yards and three touchdowns. He's the second Bronco freshman in the FBS era to catch three in one game. Wright had eight for 116, Cutforth went 8 of 13 for 131 yards and three scores, Riley ran 25 times for 86, and Boen Phelps made eight tackles.\n\nWe're 7-1, 4-0 in the Pac-12 and 4-0 at home, with seven straight wins. Next Saturday it's Colorado State in Fort Collins. Pancakes are on me, Bronco Nation. Keep it blue!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Boise State 46, Texas State 45, and my blue car needed a full lap of the lot before my heart rate came down. It was the first Blue After Dark game, Halloween night, with trunk-or-treat in the tailgate lots and Kellen Moore back on The Blue for the unveiling of his 11-foot bronze statue at halftime. By the fourth quarter, the scariest thing in the stadium was the scoreboard."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half was pure Bronco football. A 13-play, 83-yard opening drive ended with Maddux Madsen running in from 6. Dylan Riley scored from 5, Madsen added a 1-yard run, and freshman Rasean Jones caught a 12-yard touchdown with four seconds left. It was 28-3 at the break, and the statue had a perfect view."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then we fell asleep at the griddle. Brad Jackson hit Chris Dawn Jr. for 67 yards. Harry Stewart III fumbled, and Texas State turned it into a touchdown and a two-point run. Jackson ran 35 yards for another. He opened the fourth with a 44-yard strike to Beau Sparks, and at 8:58 Jayden Bradley intercepted Madsen and ran it 20 yards for a score. Thirty-six straight points, 39-28. I set my fork down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Enter Max Cutforth. He hit Jones from 9 at 6:15. Mana Tuioti grabbed his first career interception and returned it to the Texas State 11, and on fourth down Cutforth found Jones again. 40-39. Texas State answered with a 72-yard bomb to Zechariah Sample. Cutforth went right back to Jones for 44 yards on the first snap, and six plays and 1:07 later he hit Akeem Wright for an 18-yard touchdown with 2:40 left. 46-45."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jaden Mickey sealed it by breaking up a fourth-down throw at 1:55. Jones finished with nine catches for 117 yards and three touchdowns. He's the second Bronco freshman in the FBS era to catch three in one game. Wright had eight for 116, Cutforth went 8 of 13 for 131 yards and three scores, Riley ran 25 times for 86, and Boen Phelps made eight tackles."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 7-1, 4-0 in the Pac-12 and 4-0 at home, with seven straight wins. Next Saturday it's Colorado State in Fort Collins. Pancakes are on me, Bronco Nation. Keep it blue!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Boise State beat Texas State 46-45 on Halloween night at Albertsons Stadium. The Broncos are 7-1 and 4-0 in the Pac-12."
+        },
+        {
+          "type": "fact",
+          "text": "Max Cutforth came on in the fourth quarter and threw three touchdowns, the last an 18-yarder to Akeem Wright with 2:40 left."
+        },
+        {
+          "type": "fact",
+          "text": "Freshman Rasean Jones caught nine balls for 117 yards and three touchdowns."
+        },
+        {
+          "type": "jab",
+          "text": "Texas State scored 36 straight. We only needed the last word."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Boise State 46, Texas State 45 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860908"
+        },
+        {
+          "label": "ESPN play-by-play, Texas State at Boise State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860908"
+        },
+        {
+          "label": "Boise State Athletics: No. 20/22 Broncos Prevail in After Dark Thriller",
+          "url": "https://broncosports.com/news/2026/11/1/football-no-20-22-broncos-prevail-in-after-dark-thriller"
+        },
+        {
+          "label": "Boise State Athletics: Halloween on The Blue, trunk-or-treat and Kellen Moore statue unveiling",
+          "url": "https://broncosports.com/news/2026/10/26/general-boise-state-invites-bronco-nation-to-celebrate-halloween-on-the-blue"
+        },
+        {
+          "label": "ESPN Boise State schedule (next game: at Colorado State, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/68"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-texas-state-2026-10-31",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "texas-state",
+      "team_ids": [
+        "texas-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860908",
+      "title": "Texas State vs Boise State: 36-Point Run Falls Short 46-45",
+      "byline": "",
+      "matchup": "Final: Boise State (7-1) 46, Texas State (4-4) 45, Sat., Oct. 31, Albertsons Stadium, Boise. Next: at Oregon State, Sat., Nov. 7, Reser Stadium, Corvallis",
+      "date": "2026-10-31",
+      "word_count": 412,
+      "text": "Boise State 46, Texas State 45, and I have been floating in a daze ever since. Back home in San Marcos, Wonder World Cave & Adventure Park threw Boo Fest on Halloween afternoon, with kids trick-or-treating through Texas' only earthquake-formed cave. Up in Boise that night, our Bobcats threw the scariest second half on the schedule and still came home one point short.\n\nThe ugly part first, because this river doesn't run uphill. Boise held the ball for 37:01 and went 3 for 3 on fourth down. Maddux Madsen ran in from 6 yards and from 1, Dylan Riley scored from 5, and Rasean Jones caught a 12-yard touchdown with four seconds left in the half. Jacob Bonilla's 31-yard field goal was all we had. It was 28-3 at the break, and I was ready to drift off.\n\nThen Brad Jackson went off. He hit Chris Dawn Jr. for a 67-yard touchdown at 9:21 of the third. Michael Patterson III forced a Harry Stewart III fumble, Cole Nilles fell on it, and Jackson found Ty Stamey from 3 before Beau Sparks ran in the two-point try. Then Jackson took off himself, 35 yards to the end zone. That made it 28-25, and the third quarter went to us 22-0.\n\nSeventy-two seconds into the fourth, Jackson dropped a 44-yard touchdown on Sparks for a 32-28 lead. At 8:58, Jayden Bradley intercepted Madsen at the Boise 20 and took it back for six. That was 39-28, and 36 straight points. The Cats were eating.\n\nThen it slipped away. Max Cutforth took over for Boise and hit Jones from 9. Mana Tuioti intercepted a Tucker Cusano throw and returned it to our 11, and Cutforth found Jones on fourth down for a 40-39 Boise lead. Jackson answered two plays later with a 72-yard strike to Zechariah Sample, 45-40 with 3:46 left. Boise needed 1:07 to go 75 yards, and Cutforth hit Akeem Wright from 18. On our last shot, fourth down at 1:55, Jaden Mickey broke up the throw to Dawn.\n\nJackson finished 23 of 38 for 327 yards and four touchdowns, plus 54 yards on the ground. Sample turned two catches into 89 yards. Patterson made 10 tackles, Bradley made nine, and Tymere Jackson had a sack. We're 4-4, 2-2 in the Pac-12 and 0-3 on the road, with a trip to Oregon State next Saturday. Going with the flow nearly stole one in Boise. Next week, we paddle harder. Eat 'em up, Cats!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Boise State 46, Texas State 45, and I have been floating in a daze ever since. Back home in San Marcos, Wonder World Cave & Adventure Park threw Boo Fest on Halloween afternoon, with kids trick-or-treating through Texas' only earthquake-formed cave. Up in Boise that night, our Bobcats threw the scariest second half on the schedule and still came home one point short."
+        },
+        {
+          "type": "paragraph",
+          "text": "The ugly part first, because this river doesn't run uphill. Boise held the ball for 37:01 and went 3 for 3 on fourth down. Maddux Madsen ran in from 6 yards and from 1, Dylan Riley scored from 5, and Rasean Jones caught a 12-yard touchdown with four seconds left in the half. Jacob Bonilla's 31-yard field goal was all we had. It was 28-3 at the break, and I was ready to drift off."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Brad Jackson went off. He hit Chris Dawn Jr. for a 67-yard touchdown at 9:21 of the third. Michael Patterson III forced a Harry Stewart III fumble, Cole Nilles fell on it, and Jackson found Ty Stamey from 3 before Beau Sparks ran in the two-point try. Then Jackson took off himself, 35 yards to the end zone. That made it 28-25, and the third quarter went to us 22-0."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seventy-two seconds into the fourth, Jackson dropped a 44-yard touchdown on Sparks for a 32-28 lead. At 8:58, Jayden Bradley intercepted Madsen at the Boise 20 and took it back for six. That was 39-28, and 36 straight points. The Cats were eating."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then it slipped away. Max Cutforth took over for Boise and hit Jones from 9. Mana Tuioti intercepted a Tucker Cusano throw and returned it to our 11, and Cutforth found Jones on fourth down for a 40-39 Boise lead. Jackson answered two plays later with a 72-yard strike to Zechariah Sample, 45-40 with 3:46 left. Boise needed 1:07 to go 75 yards, and Cutforth hit Akeem Wright from 18. On our last shot, fourth down at 1:55, Jaden Mickey broke up the throw to Dawn."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jackson finished 23 of 38 for 327 yards and four touchdowns, plus 54 yards on the ground. Sample turned two catches into 89 yards. Patterson made 10 tackles, Bradley made nine, and Tymere Jackson had a sack. We're 4-4, 2-2 in the Pac-12 and 0-3 on the road, with a trip to Oregon State next Saturday. Going with the flow nearly stole one in Boise. Next week, we paddle harder. Eat 'em up, Cats!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Boise State beat Texas State 46-45 on Saturday, Oct. 31, at Albertsons Stadium. The Bobcats are 4-4 and 2-2 in the Pac-12."
+        },
+        {
+          "type": "fact",
+          "text": "Texas State trailed 28-3 at halftime, then scored 36 straight points to lead 39-28, capped by Jayden Bradley's 20-yard interception return."
+        },
+        {
+          "type": "fact",
+          "text": "Brad Jackson threw for 327 yards and four touchdowns and ran 35 yards for another score."
+        },
+        {
+          "type": "jab",
+          "text": "We gave Boise the scare of its Halloween. The Broncos just got the last treat."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Boise State 46, Texas State 45 (Oct. 31, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860908"
+        },
+        {
+          "label": "ESPN play-by-play, Texas State at Boise State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860908"
+        },
+        {
+          "label": "Texas State Athletics box score, Texas State at Boise State",
+          "url": "https://txst.com/sports/football/stats/2026/boise-state/boxscore/11177"
+        },
+        {
+          "label": "Wonder World Cave & Adventure Park: Boo Fest, San Marcos, Oct. 31, 2026",
+          "url": "https://www.wonderworldpark.com/boo-fest-2026"
+        },
+        {
+          "label": "ESPN Texas State schedule (next game: at Oregon State, Sat., Nov. 7)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/326"
         }
       ],
       "sources_display": "button",
