@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "game_id": "401873036",
+    "league": "nfl",
+    "handicapper": "In The Trenches",
+    "market": "side",
+    "original": {
+      "pick": "Chicago Bears",
+      "line": 3.0,
+      "made_at": "2026-10-28T22:49:22Z"
+    },
+    "final": {
+      "pick": "No pick",
+      "line": null
+    },
+    "changed_at": "2026-11-02T14:35:00Z",
+    "kickoff": "2026-11-03T01:15Z",
+    "reason": {
+      "type": "injury",
+      "detail": "Saturday's final NFL.com Week 8 injury report lists Seattle Seahawks left tackle Charles Cross out (ankle, did not participate all week); Cross started at left tackle for Seattle this season and Mike Macdonald said Josh Jones will start in his place, so the In The Trenches trench-out rule applies and the card makes no pick on this game.",
+      "source": "Saturday's final NFL.com Week 8 injury report (https://www.nfl.com/injuries/league/2026/reg8, checked Nov 2, 9:17 AM ET); Seahawks.com Week 8 injury report and Macdonald update (https://www.seahawks.com/news/zach-charbonnet-is-back-other-seahawks-injury-updates-ahead-of-monday-night-s-game-vs-chicago, checked Nov 2, 9:19 AM ET)",
+      "source_url": "https://www.nfl.com/injuries/league/2026/reg8"
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401873036",
+    "league": "nfl",
+    "handicapper": "In The Trenches",
+    "market": "total",
+    "original": {
+      "pick": "Under",
+      "line": 46.5,
+      "made_at": "2026-10-28T22:49:22Z"
+    },
+    "final": {
+      "pick": "No pick",
+      "line": null
+    },
+    "changed_at": "2026-11-02T14:35:00Z",
+    "kickoff": "2026-11-03T01:15Z",
+    "reason": {
+      "type": "injury",
+      "detail": "Saturday's final NFL.com Week 8 injury report lists Seattle Seahawks left tackle Charles Cross out (ankle, did not participate all week); Cross started at left tackle for Seattle this season and Mike Macdonald said Josh Jones will start in his place, so the In The Trenches trench-out rule applies and the card makes no pick on this game.",
+      "source": "Saturday's final NFL.com Week 8 injury report (https://www.nfl.com/injuries/league/2026/reg8, checked Nov 2, 9:17 AM ET); Seahawks.com Week 8 injury report and Macdonald update (https://www.seahawks.com/news/zach-charbonnet-is-back-other-seahawks-injury-updates-ahead-of-monday-night-s-game-vs-chicago, checked Nov 2, 9:19 AM ET)",
+      "source_url": "https://www.nfl.com/injuries/league/2026/reg8"
+    },
+    "status": "final"
+  }
+]
