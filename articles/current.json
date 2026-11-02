@@ -4,7 +4,7 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 242,
+  "count": 244,
   "lead_id": "fanatic_team-indiana",
   "articles": [
     {
@@ -1460,6 +1460,204 @@
         {
           "label": "ESPN Ravens schedule (next game: Jaguars, Thu., Nov. 5)",
           "url": "https://www.espn.com/nfl/team/schedule/_/name/bal/baltimore-ravens"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-nyj",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "nyj",
+      "team_ids": [
+        "nyj"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873029",
+      "title": "New York Jets vs Raiders Week 8: Late Rally Sinks Jets 38-33",
+      "byline": "",
+      "matchup": "Final: Raiders (4-4) 38, New York Jets (2-6) 33, Sun., Nov. 1, MetLife Stadium, East Rutherford. Next: at Kansas City Chiefs, Sun., Nov. 8, 1:00 PM ET, Arrowhead Stadium, Kansas City",
+      "date": "2026-11-01",
+      "word_count": 406,
+      "text": "Raiders 38, New York Jets 33. Sunday morning, on the 50th anniversary of the five-borough course, Sweden's Andreas Almgren ran his first marathon ever and won the New York City Marathon, pulling away in Central Park to win by 13 seconds. A few hours later at MetLife Stadium, the Jets ran the first half like Almgren and lost the race by five points.\n\nAnd what a first half. We scored on our first six possessions for the first time since 2008. Garrett Wilson caught a 31-yarder on the first play, and Jason Sanders kicked field goals from 21 and 36. Geno Smith threw 18 yards to Isaiah Williams for a 13-7 lead.\n\nThen Dylan Laube, a kid from Westhampton, took the kickoff back 95 yards. We answered anyway. Smith found Adonai Mitchell for a 12-yard touchdown and 20-14, and Sanders hit a 39-yarder with nine seconds left. Under Aaron Glenn the Jets had been outscored 107-6 in the final two minutes of first halves, and those were our first points in that window this season. Jets 23, Raiders 14 at the half.\n\nBraelon Allen ran 21 yards around the left end for 30-21 in the third, part of a career-high 147 yards on 21 carries. Mitchell finished with seven catches for a career-high 142. We outgained the Raiders 439 yards to 333.\n\nEverybody says yards do not win games. I hate when everybody is right. Kirk Cousins sneaked in from the 1, we punted for the first time all day late in the third, Ashton Jeanty turned a short throw into 45 yards, and Jalen Nailor caught a 2-yard touchdown for 35-30 with 11:33 left. Smith hit Mitchell for 47 to get us inside the 20, we stalled at the 13, and Sanders made it 35-33 with his fourth field goal.\n\nThe Raiders ran the clock down, and Matt Gay hit from 53. Smith's last throw to the end zone was intercepted by Jeremy Chinn.\n\nSmith went 20 of 32 for 290 yards, two touchdowns and that interception. Wilson caught six for 83. Jamien Sherwood made 14 tackles, and Will McDonald IV sacked Cousins once. We were 2 of 6 in the red zone, and that is the game in one number.\n\nThree straight losses, and we are 2-6. Next Sunday we go to Arrowhead to face Kansas City, and every expert alive already knows how that ends. Experts knew how Super Bowl III ended, too.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Raiders 38, New York Jets 33. Sunday morning, on the 50th anniversary of the five-borough course, Sweden's Andreas Almgren ran his first marathon ever and won the New York City Marathon, pulling away in Central Park to win by 13 seconds. A few hours later at MetLife Stadium, the Jets ran the first half like Almgren and lost the race by five points."
+        },
+        {
+          "type": "paragraph",
+          "text": "And what a first half. We scored on our first six possessions for the first time since 2008. Garrett Wilson caught a 31-yarder on the first play, and Jason Sanders kicked field goals from 21 and 36. Geno Smith threw 18 yards to Isaiah Williams for a 13-7 lead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Dylan Laube, a kid from Westhampton, took the kickoff back 95 yards. We answered anyway. Smith found Adonai Mitchell for a 12-yard touchdown and 20-14, and Sanders hit a 39-yarder with nine seconds left. Under Aaron Glenn the Jets had been outscored 107-6 in the final two minutes of first halves, and those were our first points in that window this season. Jets 23, Raiders 14 at the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "Braelon Allen ran 21 yards around the left end for 30-21 in the third, part of a career-high 147 yards on 21 carries. Mitchell finished with seven catches for a career-high 142. We outgained the Raiders 439 yards to 333."
+        },
+        {
+          "type": "paragraph",
+          "text": "Everybody says yards do not win games. I hate when everybody is right. Kirk Cousins sneaked in from the 1, we punted for the first time all day late in the third, Ashton Jeanty turned a short throw into 45 yards, and Jalen Nailor caught a 2-yard touchdown for 35-30 with 11:33 left. Smith hit Mitchell for 47 to get us inside the 20, we stalled at the 13, and Sanders made it 35-33 with his fourth field goal."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Raiders ran the clock down, and Matt Gay hit from 53. Smith's last throw to the end zone was intercepted by Jeremy Chinn."
+        },
+        {
+          "type": "paragraph",
+          "text": "Smith went 20 of 32 for 290 yards, two touchdowns and that interception. Wilson caught six for 83. Jamien Sherwood made 14 tackles, and Will McDonald IV sacked Cousins once. We were 2 of 6 in the red zone, and that is the game in one number."
+        },
+        {
+          "type": "paragraph",
+          "text": "Three straight losses, and we are 2-6. Next Sunday we go to Arrowhead to face Kansas City, and every expert alive already knows how that ends. Experts knew how Super Bowl III ended, too."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The New York Jets lost 38-33 to the Raiders on Sunday, Nov. 1, at MetLife Stadium in Week 8. The Jets are 2-6 and have lost three straight."
+        },
+        {
+          "type": "fact",
+          "text": "Braelon Allen ran for a career-high 147 yards and Adonai Mitchell caught seven passes for a career-high 142 yards."
+        },
+        {
+          "type": "fact",
+          "text": "The Jets scored on their first six possessions and led 23-14 at halftime, then went 2 of 6 in the red zone."
+        },
+        {
+          "type": "jab",
+          "text": "Six straight scoring drives and a loss. Only the Jets."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Raiders 38, Jets 33 (Nov. 1, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873029"
+        },
+        {
+          "label": "ESPN game recap, Raiders at Jets",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873029"
+        },
+        {
+          "label": "ESPN play-by-play, Raiders at Jets",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873029"
+        },
+        {
+          "label": "NewYorkJets.com: Jets vs. Raiders NFL Game Recap, Week 8",
+          "url": "https://www.newyorkjets.com/news/jets-raiders-nfl-game-recap-11-1-2026"
+        },
+        {
+          "label": "World Athletics: New York City Marathon 2026 report, Almgren and Chepkirui win",
+          "url": "https://worldathletics.org/news/report/new-york-city-marathon-2026-almgren-chepkirui"
+        },
+        {
+          "label": "ESPN New York Jets schedule (next game: at Kansas City Chiefs, Sun., Nov. 8, 1:00 PM ET, Arrowhead Stadium, Kansas City)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/nyj/new-york-jets"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-lv",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "lv",
+      "team_ids": [
+        "lv"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873029",
+      "title": "Raiders vs New York Jets Week 8: Comeback Snaps Skid 38-33",
+      "byline": "",
+      "matchup": "Final: Raiders (4-4) 38, New York Jets (2-6) 33, Sun., Nov. 1, MetLife Stadium, East Rutherford. Next: at San Francisco 49ers, Sun., Nov. 8, 4:25 PM ET, Levi's Stadium, Santa Clara",
+      "date": "2026-11-01",
+      "word_count": 444,
+      "text": "Raiders 38, New York Jets 33. Back home, VIVA Taco Fest filled Craig Ranch Regional Park on Sunday with lucha libre matches to crown a festival champion. Our Raiders spent the same afternoon at MetLife Stadium getting slammed around the ring for a half, then climbing off the mat to take the belt.\n\nI judge a game by who is standing across from us, and I did not circle the Jets. I was wrong. They scored on their first six possessions. Kirk Cousins answered the opening field goal with a 12-yard touchdown throw to Brock Bowers, but New York came right back with a field goal and an 18-yard Geno Smith touchdown to Isaiah Williams.\n\nThen Dylan Laube took the next kickoff 95 yards for a touchdown and a 14-13 lead. It was the first kickoff-return touchdown in the NFL this season and the Raiders' first since Jacoby Ford in 2011. Laube grew up in Westhampton, New York, and he picked the Jets to do it against.\n\nThe rest of the half went to New York. Smith hit Adonai Mitchell for a 12-yard touchdown, Connor Heyward got stuffed on a fourth-down tush push, and Jason Sanders kicked a 39-yarder with nine seconds left. Down 23-14 at halftime, with Braelon Allen already at 121 rushing yards.\n\nCousins came out firing. Bowers caught a 2-yard touchdown to make it 23-21. Allen ran 21 yards for 30-21, and Cousins answered with a 1-yard sneak, his first rushing touchdown of the year. We forced the Jets' first punt of the day, Ashton Jeanty took a short throw 45 yards to the 13 on the first snap of the fourth, and Cousins found Jalen Nailor from 2 yards out for a 35-30 lead with 11:33 left. It was Nailor's first touchdown as a Raider.\n\nSanders cut it to 35-33 with his fourth field goal. We ground down the clock, Matt Gay drilled a 53-yarder, and Jeremy Chinn got both feet down in the end zone to intercept Smith's last heave.\n\nCousins went 19 of 26 for 247 yards with three touchdown throws, the first Raiders quarterback since Derek Carr in 2020 with multiple touchdown throws and a rushing score in one game. Bowers caught seven for 92 and two scores and passed Mike Ditka for the most receiving yards by a non-wide receiver in his first 35 games. Mike Washington Jr. carried 25 times for 83. We went 4 for 4 in the red zone.\n\nHonest film: the defense gave up 439 yards, and Allen ran for 147. The four-game skid is over and we are 4-4. San Francisco is next on Nov. 8. That one I am circling.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Raiders 38, New York Jets 33. Back home, VIVA Taco Fest filled Craig Ranch Regional Park on Sunday with lucha libre matches to crown a festival champion. Our Raiders spent the same afternoon at MetLife Stadium getting slammed around the ring for a half, then climbing off the mat to take the belt."
+        },
+        {
+          "type": "paragraph",
+          "text": "I judge a game by who is standing across from us, and I did not circle the Jets. I was wrong. They scored on their first six possessions. Kirk Cousins answered the opening field goal with a 12-yard touchdown throw to Brock Bowers, but New York came right back with a field goal and an 18-yard Geno Smith touchdown to Isaiah Williams."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Dylan Laube took the next kickoff 95 yards for a touchdown and a 14-13 lead. It was the first kickoff-return touchdown in the NFL this season and the Raiders' first since Jacoby Ford in 2011. Laube grew up in Westhampton, New York, and he picked the Jets to do it against."
+        },
+        {
+          "type": "paragraph",
+          "text": "The rest of the half went to New York. Smith hit Adonai Mitchell for a 12-yard touchdown, Connor Heyward got stuffed on a fourth-down tush push, and Jason Sanders kicked a 39-yarder with nine seconds left. Down 23-14 at halftime, with Braelon Allen already at 121 rushing yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cousins came out firing. Bowers caught a 2-yard touchdown to make it 23-21. Allen ran 21 yards for 30-21, and Cousins answered with a 1-yard sneak, his first rushing touchdown of the year. We forced the Jets' first punt of the day, Ashton Jeanty took a short throw 45 yards to the 13 on the first snap of the fourth, and Cousins found Jalen Nailor from 2 yards out for a 35-30 lead with 11:33 left. It was Nailor's first touchdown as a Raider."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sanders cut it to 35-33 with his fourth field goal. We ground down the clock, Matt Gay drilled a 53-yarder, and Jeremy Chinn got both feet down in the end zone to intercept Smith's last heave."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cousins went 19 of 26 for 247 yards with three touchdown throws, the first Raiders quarterback since Derek Carr in 2020 with multiple touchdown throws and a rushing score in one game. Bowers caught seven for 92 and two scores and passed Mike Ditka for the most receiving yards by a non-wide receiver in his first 35 games. Mike Washington Jr. carried 25 times for 83. We went 4 for 4 in the red zone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Honest film: the defense gave up 439 yards, and Allen ran for 147. The four-game skid is over and we are 4-4. San Francisco is next on Nov. 8. That one I am circling."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Raiders beat the New York Jets 38-33 on Sunday, Nov. 1, at MetLife Stadium in Week 8, snapping a four-game skid. The Raiders are 4-4."
+        },
+        {
+          "type": "fact",
+          "text": "Dylan Laube returned a kickoff 95 yards for a touchdown, the NFL's first kickoff-return touchdown this season."
+        },
+        {
+          "type": "fact",
+          "text": "Kirk Cousins threw three touchdowns and ran for another, and Jeremy Chinn sealed it with an end-zone interception."
+        },
+        {
+          "type": "jab",
+          "text": "The Jets scored on six straight drives and still went home losers."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Raiders 38, Jets 33 (Nov. 1, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873029"
+        },
+        {
+          "label": "ESPN game recap, Raiders at Jets",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873029"
+        },
+        {
+          "label": "ESPN play-by-play, Raiders at Jets",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873029"
+        },
+        {
+          "label": "Raiders.com: Game Recap, Raiders come from behind in second half against Jets",
+          "url": "https://www.raiders.com/news/game-recap-raiders-come-from-behind-second-half-against-jets-end-four-game-skid-nfl-2026"
+        },
+        {
+          "label": "City newsroom: Things to do this weekend, Oct. 30-Nov. 1 (VIVA Taco Fest, Craig Ranch Regional Park)",
+          "url": "https://lasvegasnewsroom.com/2026/10/29/things-to-do-in-las-vegas-this-weekend-october-30-november-1/"
+        },
+        {
+          "label": "ESPN Raiders schedule (next game: at San Francisco 49ers, Sun., Nov. 8, 4:25 PM ET, Levi's Stadium, Santa Clara)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/lv/las-vegas-raiders"
         }
       ],
       "sources_display": "button",
