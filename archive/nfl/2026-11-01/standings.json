@@ -1,0 +1,11 @@
+{
+ "schema_version": 1,
+ "edition": "gambler",
+ "status": "empty",
+ "title": "Standings",
+ "updated_at_utc": "2026-10-21T11:04:17Z",
+ "as_of_text": "",
+ "rows": [],
+ "empty_text": "No standings are published.",
+ "source": "archive/nfl/*/results.json (2026-10-18)"
+}
