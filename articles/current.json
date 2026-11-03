@@ -4,9 +4,215 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 250,
+  "count": 252,
   "lead_id": "fanatic_team-indiana",
   "articles": [
+    {
+      "id": "fanatic_team-sea",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "sea",
+      "team_ids": [
+        "sea"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873036",
+      "title": "Seattle Seahawks vs Chicago Bears Week 8: No Encore Tonight 17-34",
+      "byline": "",
+      "matchup": "Final: Chicago Bears (6-2) 34, Seattle Seahawks (4-4) 17, Mon., Nov. 2, Lumen Field, Seattle. Next: vs Arizona Cardinals, Sun., Nov. 8, 4:25 PM ET, Lumen Field, Seattle",
+      "date": "2026-11-02",
+      "word_count": 366,
+      "text": "Chicago Bears 34, Seattle Seahawks 17, and the 12s walked out of Lumen Field into a long, quiet Monday night. Across town at Easy Street Records in West Seattle, Pearl Jam's Jeff Ament and his brother Barry were talking through Since Forever, their book of black-and-white photos from the band's early years. Classic Seattle sound. Down on Occidental, the champs could not find a note.\n\nIt started badly and never really turned. Chicago held the ball for 17 plays and 8:32 on its first drive and scored. Without left tackle Charles Cross, out with an ankle injury, Sam Darnold was under fire all night, and Jeffery Simmons sacked him on our first snap after that score. The run game, with Zach Charbonnet back from a torn ACL, Jadarian Price off injured reserve and Quenton Nelson making his Seattle debut, managed 81 yards.\n\nThere were sparks. Darnold found Jaxon Smith-Njigba for 43 yards and a touchdown with 30 seconds left in the half, but Jason Myers pushed the extra point wide left and we trailed 13-9. Down 20-9, Myers had a 33-yarder blocked by Austin Booker. Then DeMarcus Lawrence ripped the ball from Colston Loveland and fell on it, Darnold hit Cooper Kupp from 7, and Tory Horton caught the two-point try. It was 20-17, and the comeback was right there.\n\nChicago answered in six plays, with Kalif Raymond tearing off 39 yards before D'Andre Swift scored. James Lynch intercepted Darnold at our 22 and returned it to the 6, and Swift scored his third short touchdown. Our last drive died at the Chicago 7 on fourth down.\n\nDarnold went 17 of 34 for 188 yards with two touchdowns, an interception and three sacks. We went 1 of 11 on third down. Smith-Njigba caught six for 118 and kept fighting. Ernest Jones IV made 13 tackles, Devon Witherspoon eight, and Michael Dickson boomed five punts for 259 yards. George Holani brought back six kicks for 144. Leonard Williams left with a stinger. That snapped a 30-game run of never losing by more than four points, and it's three losses in four games. At 4-4, Arizona comes to Lumen on Sunday. Get loud, get Cross back, get right.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Chicago Bears 34, Seattle Seahawks 17, and the 12s walked out of Lumen Field into a long, quiet Monday night. Across town at Easy Street Records in West Seattle, Pearl Jam's Jeff Ament and his brother Barry were talking through Since Forever, their book of black-and-white photos from the band's early years. Classic Seattle sound. Down on Occidental, the champs could not find a note."
+        },
+        {
+          "type": "paragraph",
+          "text": "It started badly and never really turned. Chicago held the ball for 17 plays and 8:32 on its first drive and scored. Without left tackle Charles Cross, out with an ankle injury, Sam Darnold was under fire all night, and Jeffery Simmons sacked him on our first snap after that score. The run game, with Zach Charbonnet back from a torn ACL, Jadarian Price off injured reserve and Quenton Nelson making his Seattle debut, managed 81 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "There were sparks. Darnold found Jaxon Smith-Njigba for 43 yards and a touchdown with 30 seconds left in the half, but Jason Myers pushed the extra point wide left and we trailed 13-9. Down 20-9, Myers had a 33-yarder blocked by Austin Booker. Then DeMarcus Lawrence ripped the ball from Colston Loveland and fell on it, Darnold hit Cooper Kupp from 7, and Tory Horton caught the two-point try. It was 20-17, and the comeback was right there."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chicago answered in six plays, with Kalif Raymond tearing off 39 yards before D'Andre Swift scored. James Lynch intercepted Darnold at our 22 and returned it to the 6, and Swift scored his third short touchdown. Our last drive died at the Chicago 7 on fourth down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Darnold went 17 of 34 for 188 yards with two touchdowns, an interception and three sacks. We went 1 of 11 on third down. Smith-Njigba caught six for 118 and kept fighting. Ernest Jones IV made 13 tackles, Devon Witherspoon eight, and Michael Dickson boomed five punts for 259 yards. George Holani brought back six kicks for 144. Leonard Williams left with a stinger. That snapped a 30-game run of never losing by more than four points, and it's three losses in four games. At 4-4, Arizona comes to Lumen on Sunday. Get loud, get Cross back, get right."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Seattle trailed from Chicago's opening drive and lost 34-17 at Lumen Field."
+        },
+        {
+          "type": "fact",
+          "text": "Jason Myers missed an extra point and had a 33-yard field goal blocked; Seattle went 1 of 11 on third down."
+        },
+        {
+          "type": "fact",
+          "text": "Jaxon Smith-Njigba caught six throws for 118 yards, including a 43-yard touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "We got the comeback to 20-17 and then forgot the second verse."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873036"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873036"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873036"
+        },
+        {
+          "label": "AP: Caleb Williams, Jeffery Simmons lead Bears past Seahawks 34-17",
+          "url": "https://apnews.com/article/bears-seahawks-score-db6943d180ef1a25f4b5031eda3c963f"
+        },
+        {
+          "label": "ProFootballTalk: Jeffery Simmons, Caleb Williams lead Bears to 34-17 rout of Seahawks",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-jeffery-simmons-caleb-williams-lead-bears-to-34-17-rout-of-seahawks"
+        },
+        {
+          "label": "NFL.com: What we learned from Chicago's 34-17 win",
+          "url": "https://www.nfl.com/news/bears-seahawks-on-monday-night-football-what-we-learned-from-chicago-s-34-17-win"
+        },
+        {
+          "label": "Seahawks.com: Week 8 inactives vs. Bears (Charles Cross out, ankle)",
+          "url": "https://www.seahawks.com/news/jadarian-price-zach-charbonnet-active-as-expected-for-seahawks-week-8-game-vs-bears"
+        },
+        {
+          "label": "Showout: Jeff Ament & Barry Ament 'Since Forever' book talk, Easy Street Records, Nov. 2",
+          "url": "https://showout.ai/events/jeff-ament-and-barry-ament-since-forever-book-talk-easy-street-records-and-cafe-2026-11-02-52270"
+        },
+        {
+          "label": "uDiscover Music: Jeff and Barry Ament 'Since Forever' book events",
+          "url": "https://www.udiscovermusic.com/news/jeff-ament-barry-ament-since-forever-book/"
+        },
+        {
+          "label": "ESPN Seahawks schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/sea/seattle-seahawks"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-chi",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "chi",
+      "team_ids": [
+        "chi"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873036",
+      "title": "Chicago Bears vs Seattle Seahawks Week 8: Champs Toppled 34-17",
+      "byline": "",
+      "matchup": "Final: Chicago Bears (6-2) 34, Seattle Seahawks (4-4) 17, Mon., Nov. 2, Lumen Field, Seattle. Next: vs Tampa Bay Buccaneers, Sun., Nov. 8, 8:20 PM ET, Soldier Field, Chicago",
+      "date": "2026-11-02",
+      "word_count": 418,
+      "text": "Chicago Bears 34, Seattle Seahawks 17, and we just walked into the champs' house and led from the first drive to the last snap. All weekend, 26th Street in Little Village threw Xempasúchil, the street fest named for the marigold, with more than 50 businesses joining in and ofrendas honoring loved ones inside the shops. Monday night in Seattle, the Monsters of the Midway found their own way home: straight through the defending Super Bowl champions.\n\nThe tone got set on our very first drive. Seventeen plays, 80 yards, 8:32 off the clock, and Caleb Williams flipped a 1-yard touchdown throw to Luther Burden III. Lumen Field went quiet. Then Jeffery Simmons, a Bear for about four days after the trade from Tennessee, swam past his man and planted Sam Darnold on Seattle's very next snap. Welcome to Chicago, big man.\n\nCairo Santos hit from 44 and 38. Seattle snuck a 43-yard strike to Jaxon Smith-Njigba in with 30 seconds left in the half, but Jason Myers pushed the extra point wide left and we went in up 13-9. Out of the break, Rome Odunze ran past people for catches of 23 and 22 yards, and D'Andre Swift plowed in from 1 for 20-9.\n\nHere's where a real contender shows up. Austin Booker got a hand on Myers' 33-yard try in the first minute of the fourth quarter. Then Colston Loveland got stripped, Seattle punched in a 7-yarder to Cooper Kupp, hit the two-pointer, and it was 20-17. No panic. Kalif Raymond ripped off 39 yards to the 5, Swift scored again, 27-17. James Lynch intercepted Darnold over the middle and rumbled 16 yards to the 6, and Swift finished it off from 5 with 4:41 left. Seattle's last gasp died at our 7 on fourth down.\n\nWilliams went 24 of 34 for 247 yards with a touchdown, no turnovers and one sack against a defense that had not let anybody throw for more than 176 yards all year. Swift carried 27 times for 69 yards and three touchdowns. Odunze caught four for 87, Loveland seven for 65 and Burden seven for 56. Simmons had six tackles, a sack and two tackles for loss. Montez Sweat added a sack and three hits on Darnold, Devin Bush got one too, and Seattle went 1 of 11 on third down with 252 yards. Last week we beat the AFC champs. This week the Super Bowl champs. We're 6-2, and Tampa Bay comes to Soldier Field on Sunday night. Bear down.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Chicago Bears 34, Seattle Seahawks 17, and we just walked into the champs' house and led from the first drive to the last snap. All weekend, 26th Street in Little Village threw Xempasúchil, the street fest named for the marigold, with more than 50 businesses joining in and ofrendas honoring loved ones inside the shops. Monday night in Seattle, the Monsters of the Midway found their own way home: straight through the defending Super Bowl champions."
+        },
+        {
+          "type": "paragraph",
+          "text": "The tone got set on our very first drive. Seventeen plays, 80 yards, 8:32 off the clock, and Caleb Williams flipped a 1-yard touchdown throw to Luther Burden III. Lumen Field went quiet. Then Jeffery Simmons, a Bear for about four days after the trade from Tennessee, swam past his man and planted Sam Darnold on Seattle's very next snap. Welcome to Chicago, big man."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cairo Santos hit from 44 and 38. Seattle snuck a 43-yard strike to Jaxon Smith-Njigba in with 30 seconds left in the half, but Jason Myers pushed the extra point wide left and we went in up 13-9. Out of the break, Rome Odunze ran past people for catches of 23 and 22 yards, and D'Andre Swift plowed in from 1 for 20-9."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's where a real contender shows up. Austin Booker got a hand on Myers' 33-yard try in the first minute of the fourth quarter. Then Colston Loveland got stripped, Seattle punched in a 7-yarder to Cooper Kupp, hit the two-pointer, and it was 20-17. No panic. Kalif Raymond ripped off 39 yards to the 5, Swift scored again, 27-17. James Lynch intercepted Darnold over the middle and rumbled 16 yards to the 6, and Swift finished it off from 5 with 4:41 left. Seattle's last gasp died at our 7 on fourth down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Williams went 24 of 34 for 247 yards with a touchdown, no turnovers and one sack against a defense that had not let anybody throw for more than 176 yards all year. Swift carried 27 times for 69 yards and three touchdowns. Odunze caught four for 87, Loveland seven for 65 and Burden seven for 56. Simmons had six tackles, a sack and two tackles for loss. Montez Sweat added a sack and three hits on Darnold, Devin Bush got one too, and Seattle went 1 of 11 on third down with 252 yards. Last week we beat the AFC champs. This week the Super Bowl champs. We're 6-2, and Tampa Bay comes to Soldier Field on Sunday night. Bear down."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Chicago led from its opening 17-play, 80-yard drive to the final whistle in a 34-17 win at Lumen Field."
+        },
+        {
+          "type": "fact",
+          "text": "D'Andre Swift ran for three touchdowns, and Caleb Williams threw for 247 yards with no turnovers."
+        },
+        {
+          "type": "fact",
+          "text": "Jeffery Simmons had a sack and two tackles for loss in his Bears debut; Austin Booker blocked a 33-yard field goal."
+        },
+        {
+          "type": "jab",
+          "text": "The champs' house got real quiet, real fast."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873036"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873036"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873036"
+        },
+        {
+          "label": "AP: Caleb Williams, Jeffery Simmons lead Bears past Seahawks 34-17",
+          "url": "https://apnews.com/article/bears-seahawks-score-db6943d180ef1a25f4b5031eda3c963f"
+        },
+        {
+          "label": "ProFootballTalk: Jeffery Simmons, Caleb Williams lead Bears to 34-17 rout of Seahawks",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-jeffery-simmons-caleb-williams-lead-bears-to-34-17-rout-of-seahawks"
+        },
+        {
+          "label": "NFL.com: What we learned from Chicago's 34-17 win",
+          "url": "https://www.nfl.com/news/bears-seahawks-on-monday-night-football-what-we-learned-from-chicago-s-34-17-win"
+        },
+        {
+          "label": "Seahawks.com: Week 8 inactives vs. Bears (Charles Cross out, ankle)",
+          "url": "https://www.seahawks.com/news/jadarian-price-zach-charbonnet-active-as-expected-for-seahawks-week-8-game-vs-bears"
+        },
+        {
+          "label": "Visit Little Village: Xempasúchil, Oct. 31-Nov. 1, 26th Street",
+          "url": "https://visitlittlevillage.com/event/xempasuchil/"
+        },
+        {
+          "label": "Chicago Sun-Times: 10 ways to celebrate Día de Muertos in Chicago in 2026",
+          "url": "https://chicago.suntimes.com/things-to-do/2026/10/29/dia-de-muertos-day-of-dead-chicago-little-village-pilsen-events"
+        },
+        {
+          "label": "ESPN Bears schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/chi/chicago-bears"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
     {
       "id": "fanatic_team-pit",
       "kind": "fanatic_team",
