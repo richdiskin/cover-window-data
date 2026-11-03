@@ -3,94 +3,21 @@
  "feature": "Lock It Up",
  "league": "nfl",
  "season": 2026,
- "week": 8,
- "slate": "Monday, Nov 2, 2026",
+ "week": 9,
+ "slate": "Sunday, Nov 8, 2026",
  "edition": "gambler",
  "gambler_only": true,
- "inputs_as_of": "9:16-9:21 AM ET Mon Nov 2, 2026",
- "published_at": "2026-11-02T14:24Z",
- "headline": "Cross Is Out, the Trenches Walk, and Seattle Still Lays Three",
- "dek": "Monday morning conference call, five handicappers, one game left on the Week 8 board. Letdown Watch dialed in from a parked car. Follow The Money froze with his mouth open before anyone said hello.",
- "body_markdown": "**THE FORMULA:** \"Money, you're frozen again. Same face you make when the line doesn't move.\"\n\n**Who's holding**\n- The Formula: sticking with Seattle Seahawks −3 and Under 46.5.\n- Next Man Up: sticking with Chicago Bears +3 and Under 46.5.\n- Letdown Watch: sticking with Seattle Seahawks −3 and Under 46.5.\n- In The Trenches: two changes, both on this game (see below).\n- Follow The Money: still no call on this game. Shows the market; not in the score average.\n\n**Bears at Seahawks: the left tackle who moved a card without playing a snap**\n\n**IN THE TRENCHES:** \"News first. Saturday's NFL.com injury report lists Seattle left tackle Charles Cross out with an ankle injury. He didn't practice all week, and Mike Macdonald says Josh Jones starts at left tackle. My card doesn't price a game once a starting lineman it counted on is ruled out. So I'm off this one, side and total.\"\n\n**NEXT MAN UP:** \"You're walking away from Bears plus a field goal? I finally had company on that ticket.\"\n\n**LETDOWN WATCH:** *(on mute, then)* \"...can you hear me now? I said, Seattle traded for Quenton Nelson this week and still managed to lose a guy off your card.\"\n\n**THE FORMULA:** \"Go ahead.\" **NEXT MAN UP:** \"No, you go.\" **THE FORMULA:** \"Fine. Trenches is the only guy on this call who got sacked on a Monday morning.\"\n\n**IN THE TRENCHES:** \"Original pick stays on record: Chicago Bears +3. Final pick: No pick. Original pick stays on record: Under 46.5. Final pick: No pick.\"\n\n**Everybody else: sticking**\n- Quarterbacks: Drew Lock is questionable with a right elbow injury, but Seattle's depth chart has Sam Darnold first, and Caleb Williams isn't on Chicago's report. Next Man Up ran it back with Darnold under center and is sticking with Chicago Bears +3.\n- The number: Action Network consensus is still Seattle −3, total 46.5, as of 9:16 AM ET, the same number the cards were written against. Follow The Money: *(echo)* \"...nothing moved. ...nothing moved.\"\n- Weather: NWS has 51 degrees, cloudy, 1 mph wind at kickoff in Seattle. Nobody's ticket blows away in that.\n- The Cover Writer: with In The Trenches off the board, the remaining three cards still land on Seattle and the Under. Sticking with Seattle Seahawks −3 and Under 46.5.\n\n**Closing button:** One left tackle out, one card off the table, zero flips. Next real input: tonight's inactives, 90 minutes before kickoff. Everybody unmute.\n",
+ "inputs_as_of": null,
+ "published_at": null,
+ "headline": "",
+ "dek": "",
+ "body_markdown": "",
  "changes_file": "nfl/pick_changes.json",
- "change_count": 2,
- "game_ids": [
-  "401873036"
- ],
+ "change_count": 0,
+ "game_ids": [],
  "magazine_file": "magazine/lockitup.json",
- "sources": [
-  {
-   "label": "NFL.com, 2026 Week 8 injury report (final game designations)",
-   "urls": [
-    "https://www.nfl.com/injuries/league/2026/reg8"
-   ],
-   "checked_et": "9:17 AM ET Nov 2, 2026",
-   "note": null
-  },
-  {
-   "label": "Seahawks.com, Week 8 Injury Report: Bears at Seahawks",
-   "urls": [
-    "https://www.seahawks.com/news/week-8-injury-report-bears-at-seahawks"
-   ],
-   "checked_et": "9:18 AM ET Nov 2, 2026",
-   "note": null
-  },
-  {
-   "label": "Seahawks.com, Zach Charbonnet Is Back and other injury updates (Macdonald: Josh Jones will play left tackle)",
-   "urls": [
-    "https://www.seahawks.com/news/zach-charbonnet-is-back-other-seahawks-injury-updates-ahead-of-monday-night-s-game-vs-chicago"
-   ],
-   "checked_et": "9:19 AM ET Nov 2, 2026",
-   "note": null
-  },
-  {
-   "label": "Seahawks.com depth chart (QB: Sam Darnold, Drew Lock, Jalen Milroe)",
-   "urls": [
-    "https://www.seahawks.com/team/depth-chart"
-   ],
-   "checked_et": "9:19 AM ET Nov 2, 2026",
-   "note": null
-  },
-  {
-   "label": "Chicago Bears injury report",
-   "urls": [
-    "https://www.chicagobears.com/team/injury-report/"
-   ],
-   "checked_et": "9:18 AM ET Nov 2, 2026",
-   "note": null
-  },
-  {
-   "label": "Action Network NFL odds, consensus (Seattle −3, total 46.5)",
-   "urls": [
-    "https://www.actionnetwork.com/nfl/odds"
-   ],
-   "checked_et": "9:16 AM ET Nov 2, 2026",
-   "note": null
-  },
-  {
-   "label": "National Weather Service hourly forecast, Seattle (Lumen Field)",
-   "urls": [
-    "https://api.weather.gov/gridpoints/SEW/125,67/forecast/hourly"
-   ],
-   "checked_et": "9:19 AM ET Nov 2, 2026",
-   "note": null
-  },
-  {
-   "label": "KOMO News, Macdonald's final update before Bears game (Cross out, Josh Jones at left tackle)",
-   "urls": [
-    "https://komonews.com/sports/nikos-sports-zone/monday-night-matchup-what-mike-macdonald-is-saying-about-hawks-showdown-with-bears"
-   ],
-   "checked_et": "9:19 AM ET Nov 2, 2026",
-   "note": null
-  },
-  {
-   "label": "CBS Sports, Seahawks' Drew Lock: Questionable for MNF",
-   "urls": [
-    "https://www.cbssports.com/fantasy/football/news/seahawks-drew-lock-questionable-for-mnf/"
-   ],
-   "checked_et": "9:19 AM ET Nov 2, 2026",
-   "note": null
-  }
- ],
- "sponsor": null
+ "sources": [],
+ "sponsor": null,
+ "status": "not_posted",
+ "note": "NFL Week 9 Lock It Up is not posted yet. Headline, dek and body are empty, so the app treats this file as empty and hides the Lock It Up entry; no Week 8 content shows next to the Week 9 cards."
 }
