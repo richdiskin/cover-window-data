@@ -1,0 +1,119 @@
+{
+ "schema": 1,
+ "feature": "Lock It Up",
+ "league": "college",
+ "season": 2026,
+ "slate": "Tuesday, Nov 3, 2026",
+ "edition": "gambler",
+ "gambler_only": true,
+ "inputs_as_of": "9:10-9:16 AM ET Tue Nov 3, 2026",
+ "published_at": "2026-11-03T14:19Z",
+ "headline": "Two MAC Games, Two Line Moves, Zero Flips",
+ "dek": "Tuesday morning conference call, five handicappers, two MACtion games on the board tonight. Letdown Watch dialed in from a parked car again. Next Man Up joined with his camera pointed at the ceiling fan.",
+ "body_markdown": "**THE FORMULA:** \"Man Up, we can see your ceiling. Nobody asked for the ceiling.\"\n\n**Who's holding**\n- The Formula: sticking with Akron Zips +12.5 and Over 50.5; sticking with Buffalo Bulls +6.5 and Over 44.5.\n- Next Man Up: sticking with Akron Zips +12.5 and Over 50.5; sticking with Miami (OH) RedHawks −6.5 and Over 44.5.\n- In The Trenches: sticking with Akron Zips +12.5 and Buffalo Bulls +6.5. Sides only, same as the cards.\n- Letdown Watch: no score this week, nothing to change.\n- Follow The Money: the published cards read: \"Follow The Money is still waiting on a consensus spread, so its side is pending, and it has no total pick.\" Its window opened when Monday night's game ended, and this morning's read has no side on either game. On Ohio at Akron the consensus total went from 50.5 to 51.5, so it shows the Over there. On Buffalo at Miami the total sat at 44.5, so no total either. Not in the score average.\n\n**Ohio at Akron: the number climbed, the call didn't**\n\n**THE FORMULA:** \"Consensus has Ohio −14 now, total 51.5. The open was 13.5 and 49.5, and our cards went out at 12.5 and 50.5. We have Ohio by 11 and 53 points. Akron at +14 is an even better seat than +12.5, and 53 is still over 51.5.\"\n\n**NEXT MAN UP:** \"Quarterbacks. Nick Poulos is set to start for Ohio, and Akron has gone with Brayden Roggow since Cibastian Broughton got hurt at Minnesota. Akron's own game notes list Broughton day to day. Nobody has named him the starter, so I'm pricing Roggow, same as Sunday.\"\n\n**LETDOWN WATCH:** *(on mute, then)* \"...can you hear me? I said if Broughton walks out there tonight, call me back.\"\n\n**NEXT MAN UP:** \"That's the one I'm watching. The MAC availability report comes out before kickoff.\"\n\n**Buffalo at Miami (OH): half a point, nobody blinks**\n\n**THE FORMULA:** \"Miami went from −6.5 to −6, total still 44.5. I'm on Buffalo +6.5 with Miami by 5, and that still holds at +6.\"\n\n**NEXT MAN UP:** \"And I'm on Miami by 8. A half point doesn't change that. Caleb Heavner makes his fifth start for Miami with Thomas Gotkowski and David McComb both out for the year, and Jason Wright starts for Buffalo. That's what I priced. Nothing new.\"\n\n**IN THE TRENCHES:** \"Neither team has played since my numbers were pulled. Buffalo still runs it better than Miami stops it. Buffalo +6.5, done.\"\n\n**THE FORMULA:** \"Go ahead.\" **NEXT MAN UP:** \"No, you go.\" **THE FORMULA:** \"Fine. Fix your camera.\"\n\n**Everybody else: sticking**\n- Quarterbacks: Poulos for Ohio, Roggow for Akron with Broughton day to day, Heavner for Miami, Wright for Buffalo. ESPN's game pages list no injuries for either game this morning, and the MAC availability reports aren't posted yet.\n- The number: Action Network consensus has Ohio −14, total 51.5, and Miami −6, total 44.5, as of 9:10 AM ET. Both moves are small, and neither one flips a side or a total.\n- Weather: the National Weather Service has 65 degrees, mostly clear, south wind at 7 mph for the 7 PM kickoff in Akron, and 65 degrees, mostly cloudy, south wind at 8 mph for the 8 PM kickoff in Oxford. Nobody's ticket blows away in that.\n- The Cover Writer: sticking with Ohio Bobcats 32, Akron Zips 21, Akron Zips +12.5 and Over 50.5. Sticking with Miami (OH) RedHawks 29, Buffalo Bulls 22, Miami (OH) RedHawks −6.5 and Over 44.5.\n\n**Closing button:** Two games, two line moves, zero flips. Next real input is the MAC availability report before kickoff, and Letdown Watch needs to find a charger. Everybody unmute.\n\n**Changes**\nNone recorded. No entries in college/pick_changes.json for the Tuesday, Nov 3, 2026 college games as of 9:20 AM ET.\n",
+ "changes_file": "college/pick_changes.json",
+ "change_count": 0,
+ "game_ids": [
+  "401866453",
+  "401866454"
+ ],
+ "sources": [
+  {
+   "label": "Action Network college football odds, consensus and open (Ohio −14 total 51.5, open −13.5 and 49.5; Miami −6 total 44.5, open −6.5)",
+   "urls": [
+    "https://api.actionnetwork.com/web/v2/scoreboard/ncaaf?bookIds=15,30&date=20261103&division=FBS"
+   ],
+   "checked_et": "Nov 3, 2026, 9:10 AM ET",
+   "note": null
+  },
+  {
+   "label": "Action Network consensus line history since Monday night (Ohio at Akron)",
+   "urls": [
+    "https://api.actionnetwork.com/web/v2/markets/event/289820/history?bookIds=15"
+   ],
+   "checked_et": "Nov 3, 2026, 9:12 AM ET",
+   "note": null
+  },
+  {
+   "label": "Action Network consensus line history since Monday night (Buffalo at Miami)",
+   "urls": [
+    "https://api.actionnetwork.com/web/v2/markets/event/289821/history?bookIds=15"
+   ],
+   "checked_et": "Nov 3, 2026, 9:12 AM ET",
+   "note": null
+  },
+  {
+   "label": "ESPN game summary, Ohio at Akron (DraftKings Ohio −14, total 51.5; no injuries listed)",
+   "urls": [
+    "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401866453"
+   ],
+   "checked_et": "Nov 3, 2026, 9:10 AM ET",
+   "note": null
+  },
+  {
+   "label": "ESPN game summary, Buffalo at Miami (OH) (DraftKings Miami −6, total 44.5; no injuries listed)",
+   "urls": [
+    "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401866454"
+   ],
+   "checked_et": "Nov 3, 2026, 9:10 AM ET",
+   "note": null
+  },
+  {
+   "label": "ESPN Football Power Index",
+   "urls": [
+    "https://site.web.api.espn.com/apis/fitt/v3/sports/football/college-football/powerindex?season=2026&limit=200"
+   ],
+   "checked_et": "Nov 3, 2026, 9:12 AM ET",
+   "note": null
+  },
+  {
+   "label": "Akron Football Game Notes vs Ohio (Roggow at quarterback, Broughton day to day)",
+   "urls": [
+    "https://ohiobobcats.com/documents/download/2026/11/2/Akron_Football_Notes.pdf"
+   ],
+   "checked_et": "Nov 3, 2026, 9:16 AM ET",
+   "note": null
+  },
+  {
+   "label": "By The Belt, Ohio at Akron preview (Poulos the Ohio starter)",
+   "urls": [
+    "https://www.bythebelt.com/ohio-bobcats-at-akron-zips-mac-football-game-preview-how-to-watch-listen-stream-predictions-weeknight-maction-2026/"
+   ],
+   "checked_et": "Nov 3, 2026, 9:16 AM ET",
+   "note": null
+  },
+  {
+   "label": "Journal-News, Miami hosts Buffalo (Heavner fifth start; Gotkowski and McComb out for the season)",
+   "urls": [
+    "https://www.journal-news.com/sports/miami-football-redhawks-put-three-game-winning-streak-on-line-against-buffalo-in-pivotal-mac/article_1138e62f-bf21-5ce2-96fb-144c00acccb7.html"
+   ],
+   "checked_et": "Nov 3, 2026, 9:16 AM ET",
+   "note": null
+  },
+  {
+   "label": "Kickoff Status, Buffalo at Miami (OH) availability page (MAC report not yet posted; Holmes out for the season, Wright starting for Buffalo)",
+   "urls": [
+    "https://kickoffstatus.com/games/2026-11-03-buffalo-at-miami-oh/"
+   ],
+   "checked_et": "Nov 3, 2026, 9:16 AM ET",
+   "note": null
+  },
+  {
+   "label": "National Weather Service hourly forecast, Akron (InfoCision Stadium)",
+   "urls": [
+    "https://api.weather.gov/gridpoints/CLE/92,46/forecast/hourly"
+   ],
+   "checked_et": "Nov 3, 2026, 9:15 AM ET",
+   "note": null
+  },
+  {
+   "label": "National Weather Service hourly forecast, Oxford (Yager Stadium)",
+   "urls": [
+    "https://api.weather.gov/gridpoints/ILN/26,56/forecast/hourly"
+   ],
+   "checked_et": "Nov 3, 2026, 9:15 AM ET",
+   "note": null
+  }
+ ],
+ "sponsor": null
+}
