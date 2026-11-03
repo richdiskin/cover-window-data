@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "nfl",
- "updated_utc": "2026-11-02T01:47:26Z",
+ "updated_utc": "2026-11-03T01:05:53Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401873026": {
@@ -124,7 +124,24 @@
    "kickoff_utc": "2026-11-01T21:25Z",
    "first_seen_utc": "2026-10-31T21:34:13Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "jE-kjdmj2qM",
+    "title": "Patriots at Dolphins | Condensed replay",
+    "channel": "NFL",
+    "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+    "url": "https://www.youtube.com/watch?v=jE-kjdmj2qM",
+    "embed_url": "https://www.youtube-nocookie.com/embed/jE-kjdmj2qM",
+    "thumb": "https://i.ytimg.com/vi/jE-kjdmj2qM/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2554-07-21T23:34:33Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-03T01:05:37Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401873035": {
    "game_id": "401873035",
