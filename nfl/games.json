@@ -5490,13 +5490,13 @@
        "team": "Chicago Bears",
        "label": "Share as a Bears fan",
        "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/chicago-bears-at-seattle-seahawks__gambler__chicago-bears.png",
-       "caption": "Our final: Seahawks 25, Bears 20. Curt Warner and Lofa Tatupu are not walking through that door; Warner made three Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/chicago-bears-at-seattle-seahawks"
+       "caption": "Our final: Seahawks 25, Bears 19. Curt Warner and Lofa Tatupu are not walking through that door; Warner made three Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/chicago-bears-at-seattle-seahawks"
       },
       {
        "team": "Seattle Seahawks",
        "label": "Share as a Seahawks fan",
        "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/chicago-bears-at-seattle-seahawks__gambler__seattle-seahawks.png",
-       "caption": "Our final: Seahawks 25, Bears 20. Matt Forte and Jay Hilgenberg are not walking through that door; Hilgenberg was a 2-time first-team All-Pro: https://www.thecoverwindow.com/nfl/gambler/chicago-bears-at-seattle-seahawks"
+       "caption": "Our final: Seahawks 25, Bears 19. Matt Forte and Jay Hilgenberg are not walking through that door; Hilgenberg was a 2-time first-team All-Pro: https://www.thecoverwindow.com/nfl/gambler/chicago-bears-at-seattle-seahawks"
       }
      ]
     }
@@ -5532,8 +5532,8 @@
     "detail": "11/2 - 8:15 PM EST",
     "away_score": "0",
     "home_score": "0",
-    "source": "ESPN scoreboard",
-    "fetched_at_utc": "2026-10-28T22:49:17Z"
+    "source": "ESPN game summary",
+    "fetched_at_utc": "2026-11-02T23:55:15Z"
    },
    "market_lines": {
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
@@ -5546,30 +5546,150 @@
     "open_home_line": -4.5,
     "open_total": 47.5,
     "spread_display": "Seattle Seahawks −3",
-    "open_timestamp": ""
+    "open_timestamp": "",
+    "current_source": "DraftKings via ESPN pickcenter (summary?event=401873036)",
+    "current_fetched_at_utc": "2026-11-02T23:55:15Z",
+    "current_home_line": -3.0,
+    "current_total": 46.5,
+    "an_consensus_home_line_now": -3.5,
+    "an_consensus_fetched_at_utc": "2026-11-02T23:55:16Z"
    },
    "injuries": {
-    "source": "NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg8 (Chicago Bears and Seattle Seahawks: no injuries reported; fetched Oct 28, 6:49 PM ET)",
-    "as_of_utc": "2026-10-28T22:49:36Z",
-    "away": [],
-    "home": []
+    "source": "Official inactive lists (Seahawks.com and ESPN game summary, event 401873036), fetched Nov 2, 7:06 PM ET",
+    "as_of_utc": "2026-11-03T00:06:00Z",
+    "away": [
+     {
+      "team": "CHI",
+      "player": "Kyle Monangai",
+      "position": "RB",
+      "injury": "Thumb",
+      "practice_status": "",
+      "game_status": "Inactive"
+     },
+     {
+      "team": "CHI",
+      "player": "Jordan van den Berg",
+      "position": "DT",
+      "injury": "",
+      "practice_status": "",
+      "game_status": "Inactive"
+     },
+     {
+      "team": "CHI",
+      "player": "Jayden Loving",
+      "position": "DT",
+      "injury": "",
+      "practice_status": "",
+      "game_status": "Inactive"
+     },
+     {
+      "team": "CHI",
+      "player": "Jordan McFadden",
+      "position": "G",
+      "injury": "",
+      "practice_status": "",
+      "game_status": "Inactive"
+     },
+     {
+      "team": "CHI",
+      "player": "Case Keenum",
+      "position": "QB",
+      "injury": "",
+      "practice_status": "",
+      "game_status": "Inactive"
+     },
+     {
+      "team": "CHI",
+      "player": "Coby Bryant",
+      "position": "S",
+      "injury": "Knee",
+      "practice_status": "",
+      "game_status": "Injured Reserve"
+     },
+     {
+      "team": "CHI",
+      "player": "Cole Kmet",
+      "position": "TE",
+      "injury": "Knee",
+      "practice_status": "",
+      "game_status": "Injured Reserve"
+     }
+    ],
+    "home": [
+     {
+      "team": "SEA",
+      "player": "Charles Cross",
+      "position": "OT",
+      "injury": "Ankle",
+      "practice_status": "",
+      "game_status": "Inactive"
+     },
+     {
+      "team": "SEA",
+      "player": "Uchenna Nwosu",
+      "position": "LB",
+      "injury": "Ankle",
+      "practice_status": "",
+      "game_status": "Inactive"
+     },
+     {
+      "team": "SEA",
+      "player": "Rashid Shaheed",
+      "position": "WR",
+      "injury": "Knee",
+      "practice_status": "",
+      "game_status": "Inactive"
+     },
+     {
+      "team": "SEA",
+      "player": "Velus Jones Jr.",
+      "position": "RB",
+      "injury": "Hamstring",
+      "practice_status": "",
+      "game_status": "Inactive"
+     },
+     {
+      "team": "SEA",
+      "player": "Drew Lock",
+      "position": "QB",
+      "injury": "Elbow",
+      "practice_status": "",
+      "game_status": "Inactive (emergency third quarterback)"
+     },
+     {
+      "team": "SEA",
+      "player": "Brandon Pili",
+      "position": "NT",
+      "injury": "Back",
+      "practice_status": "",
+      "game_status": "Inactive"
+     },
+     {
+      "team": "SEA",
+      "player": "Beau Stephens",
+      "position": "G",
+      "injury": "",
+      "practice_status": "",
+      "game_status": "Inactive"
+     }
+    ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261102",
    "spread": "Seattle Seahawks −3",
-   "story_text": "Seahawks 25, Bears 20. Seahawks cover the 3. Under 46.5.",
+   "story_text": "Seahawks 25, Bears 19. Seahawks cover the 3. Under 46.5.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "line_used": {
-    "home_line": -3,
+    "home_line": -3.0,
     "total": 46.5,
-    "source": "Consensus line as of Oct 28, 6:49 PM ET",
-    "as_of_utc": "2026-10-28T22:49:22Z"
+    "source": "Line as of Nov 2, 6:55 PM ET (DraftKings via ESPN)",
+    "as_of_utc": "2026-11-02T23:55:15Z"
    },
    "total_line": 46.5,
    "prediction": {
-    "away_score": 20,
+    "away_score": 19,
     "home_score": 25,
     "winner": "Seattle Seahawks",
     "covers": "Seattle Seahawks −3"
@@ -5583,7 +5703,7 @@
     },
     {
      "id": "H2",
-     "public_case": "With the players available: projected points Seahawks 22.7, Bears 21.5. Availability: expected starting quarterbacks Sam Darnold (SEA) and Caleb Williams (CHI). NFL.com official Week 8 injury report (fetched Oct 28, 6:49 PM ET): these teams are not on it yet, so no quarterback is ruled out; each team’s expected starter is the one who started its last game unless the team has named a different starter, or its main starter is on the report and not ruled out. Sam Darnold is not SEA’s main starter this season (Drew Lock).",
+     "public_case": "With the players available: projected points Seahawks 22.7, Bears 21.5. Availability: expected starting quarterbacks Sam Darnold (SEA) and Caleb Williams (CHI). Official inactive lists (fetched Nov 2, 7:06 PM ET): neither starting quarterback is out; Seattle backup Drew Lock is inactive and is the emergency third quarterback.",
      "market": "spread",
      "best_bet": false
     },
@@ -5595,13 +5715,13 @@
     },
     {
      "id": "H4",
-     "public_case": "This week’s first consensus spread was Seattle Seahawks −3.5 (Oct 27, 7:44 AM ET) and it is Seattle Seahawks −3 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 12:55 PM ET), then total 46.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "This week’s first consensus spread was Seattle Seahawks −3.5 (Oct 27, 7:44 AM ET) and it is Seattle Seahawks −3.5 now (Action Network consensus, Nov 2, 6:55 PM ET). This week’s first consensus total was 46.5 (Oct 27, 12:55 PM ET), and it is 46.5 now (Action Network consensus, Nov 2, 6:55 PM ET). The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
     {
      "id": "H5",
-     "public_case": "Line-of-scrimmage read: each offense against this defense, 2026 through Week 7. Projected points: Seahawks 22.2, Bears 20.",
+     "public_case": "Seattle left tackle Charles Cross is inactive for this game (Seahawks official inactive list, Nov 2), and the season line-of-scrimmage numbers were built with Cross on the field, so this card makes no pick for this game.",
      "market": "spread",
      "best_bet": false
     }
@@ -5612,10 +5732,10 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Oct 28, 6:49 PM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Oct 28, 6:49 PM ET.",
+    "Lines: DraftKings via ESPN, as of Nov 2, 6:55 PM ET; checked against the Action Network consensus at 6:55 PM ET.",
     "The Formula ratings: nflverse play-by-play as of Oct 28, 6:49 PM ET, Weeks 1–7 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–7 finals.",
-    "Injuries: NFL.com official Week 8 injury report, fetched Oct 28, 6:49 PM ET (quarterback status used by Next Man Up).",
+    "Injuries: official inactive lists (Seahawks.com and ESPN), fetched Nov 2, 7:06 PM ET (quarterback status used by Next Man Up).",
     "Follow The Money: move from the first consensus line at or after Oct 27, 12:15 AM ET (Action Network line history).",
     "Records and points: ESPN team pages, as of Oct 28, 6:49 PM ET.",
     "Next Man Up: nflverse game results and play-by-play, the NFL.com Week 8 injury report and team announcements.",
@@ -5627,14 +5747,14 @@
    "writer_total": {
     "label": "",
     "source": "Cover Writer",
-    "projected_total": 45,
+    "projected_total": 44,
     "market_total": 46.5,
     "pick": "Under",
     "text": "Under 46.5"
    },
    "display": {
     "writer": {
-     "score_line": "Projected: Seattle Seahawks 25, Chicago Bears 20 (Total 45)",
+     "score_line": "Projected: Seattle Seahawks 25, Chicago Bears 19 (Total 44)",
      "side": "Seattle Seahawks −3",
      "ou": "Under 46.5",
      "label": ""
@@ -5655,10 +5775,10 @@
       "side_line": "Side: Chicago Bears +3",
       "ou_line": "O/U: Under 46.5",
       "score_line": "Projected: Seattle Seahawks 23, Chicago Bears 22 (Total 45)",
-      "basis_line": "With the players available: projected points Seahawks 22.7, Bears 21.5. Availability: expected starting quarterbacks Sam Darnold (SEA) and Caleb Williams (CHI). NFL.com official Week 8 injury report (fetched Oct 28, 6:49 PM ET): these teams are not on it yet, so no quarterback is ruled out; each team’s expected starter is the one who started its last game unless the team has named a different starter, or its main starter is on the report and not ruled out. Sam Darnold is not SEA’s main starter this season (Drew Lock).",
+      "basis_line": "With the players available: projected points Seahawks 22.7, Bears 21.5. Availability: expected starting quarterbacks Sam Darnold (SEA) and Caleb Williams (CHI). Official inactive lists (fetched Nov 2, 7:06 PM ET): neither starting quarterback is out; Seattle backup Drew Lock is inactive and is the emergency third quarterback.",
       "independent": true,
-      "distance_from_spread": 2.0,
-      "distance_from_total": 1.5
+      "distance_from_spread": 1.8,
+      "distance_from_total": 2.3
      },
      {
       "name": "Letdown Watch",
@@ -5668,43 +5788,43 @@
       "basis_line": "Rest and travel read: Chicago Bears: 11 days since its last game, travels 1734 miles; Seattle Seahawks: 8 days since its last game, plays at home. Projected: Seahawks by 5. Projected total: 45.9.",
       "independent": true,
       "distance_from_spread": 2.0,
-      "distance_from_total": 1.5
+      "distance_from_total": 0.6
      },
      {
       "name": "Follow The Money",
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "This week’s first consensus spread was Seattle Seahawks −3.5 (Oct 27, 7:44 AM ET) and it is Seattle Seahawks −3 now (Oct 28, 6:49 PM ET). This week’s first consensus total was 46.5 (Oct 27, 12:55 PM ET), then total 46.5 (Action Network consensus, Oct 28, 2026, 6:49 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "This week’s first consensus spread was Seattle Seahawks −3.5 (Oct 27, 7:44 AM ET) and it is Seattle Seahawks −3.5 now (Action Network consensus, Nov 2, 6:55 PM ET). This week’s first consensus total was 46.5 (Oct 27, 12:55 PM ET), and it is 46.5 now (Action Network consensus, Nov 2, 6:55 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.0,
-      "distance_from_total": 0.5
+      "distance_from_total": 0.0
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Chicago Bears +3",
-      "ou_line": "O/U: Under 46.5 · Likes this total",
-      "score_line": "Projected: Seattle Seahawks 22, Chicago Bears 20 (Total 42)",
-      "basis_line": "Line-of-scrimmage read: each offense against this defense, 2026 through Week 7. Projected points: Seahawks 22.2, Bears 20.",
-      "independent": true,
-      "distance_from_spread": 1.0,
-      "distance_from_total": 4.5
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
+      "score_line": "No score this week.",
+      "basis_line": "Seattle left tackle Charles Cross is inactive for this game (Seahawks official inactive list, Nov 2), and the season line-of-scrimmage numbers were built with Cross on the field, so this card makes no pick for this game.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
      }
     ],
     "best_bets": [],
-    "story_text": "Bears vs Seahawks prediction, pick against the spread and over/under for Monday night: Seattle Center's Día de Muertos festival wraps up Sunday, and twenty-four hours later the defending champions host a 5-2 Chicago team, rested and laying a field goal. It's a real game, but Seattle is the right side, and I'm laying the 3.\n\nESPN has it Monday, Nov. 2, at 8:15 p.m. Eastern from Lumen Field. The consensus has Seattle −3 with a total of 46.5 as of Oct 28, 6:49 p.m. ET. My card: Seattle Seahawks −3, Under 46.5, final Seahawks 25, Bears 20.\n\nThe Seattle case is that the record undersells the team. The Seahawks have scored 168 and allowed only 125 in seven games, and they're 3-1 at home.\n\nThe Formula: Net ratings Seattle Seahawks 5.1, Chicago Bears −5.3 (nflverse play-by-play, Oct 28, 2026).\n\nIts card has Seahawks 28, Bears 16. I'm not going that far, but a five-point Seattle win is a comfortable place to stand when the number is 3.\n\nThe Seattle run defense is the other reason. The Seahawks allow only 3.5 yards a carry, the stingiest number in this game. Seattle runs for 4.0 against a Chicago defense allowing 4.4.\n\nWhat keeps this from being easy: Chicago is good, and it can run. The Bears are 5-2, they've scored 180 points, and they run for 4.4 yards a carry, a real number against that Seattle front. Chicago's rush gets a sack about once every eleven dropbacks, and Seattle's protection allows one exactly once every fifteen. Seattle's rush gets home about once every thirteen dropbacks, and Chicago's quarterbacks go down about once every fifteen and a half. Caleb Williams started Chicago's last game against New England, and Sam Darnold started Seattle's last game against Kansas City. Neither team has a name on Wednesday's official injury report, so those are the quarterbacks. Chicago also comes in on eleven days of rest, three more than Seattle.\n\nThe Under comes from that Seattle defense. My final adds up to 45, and the Formula's number is 44. Seattle has allowed 125 points in seven games, and two rushes this active stall drives. The posted 46.5 is a point and a half too high.\n\nThe room agrees on the Under and splits on the side. The Formula has Seahawks 28, Bears 16, and Letdown Watch has Seahawks 25, Bears 20, both laying the 3. Next Man Up has Seahawks 23, Bears 22, and In The Trenches has Seahawks 22, Bears 20, both taking Chicago and the points. Follow The Money has no pick.\n\nSeattle Center's festival wraps up the night before, and Monday belongs to the champs at home, a run defense allowing 3.5 a carry, and a five-point final. I'll lay the field goal.\n\nSeahawks 25, Bears 20. Seahawks cover the 3. Under 46.5.",
-    "fanatic_score_line": "Projected: Seattle Seahawks 25, Chicago Bears 20 (45 combined points)",
+    "story_text": "Bears vs Seahawks prediction, pick against the spread and over/under for Monday night: Seattle Center's Día de Muertos festival wraps up Sunday, and twenty-four hours later the defending champions host a 5-2 Chicago team, rested and laying a field goal. It's a real game, but Seattle is the right side, and I'm laying the 3.\n\nESPN has it Monday, Nov. 2, at 8:15 p.m. Eastern from Lumen Field. DraftKings has Seattle −3 with a total of 46.5 as of Nov 2, 6:55 p.m. ET. My card: Seattle Seahawks −3, Under 46.5, final Seahawks 25, Bears 19.\n\nThe Seattle case is that the record undersells the team. The Seahawks have scored 168 and allowed only 125 in seven games, and they're 3-1 at home.\n\nThe Formula: Net ratings Seattle Seahawks 5.1, Chicago Bears −5.3 (nflverse play-by-play, Oct 28, 2026).\n\nIts card has Seahawks 28, Bears 16. I'm not going that far, but a six-point Seattle win is a comfortable place to stand when the number is 3.\n\nThe Seattle run defense is the other reason. The Seahawks allow only 3.5 yards a carry, the stingiest number in this game. Seattle runs for 4.0 against a Chicago defense allowing 4.4.\n\nWhat keeps this from being easy: Chicago is good, and it can run. The Bears are 5-2, they've scored 180 points, and they run for 4.4 yards a carry, a real number against that Seattle front. Chicago's rush gets a sack about once every eleven dropbacks, and Seattle's protection allows one exactly once every fifteen. Seattle's rush gets home about once every thirteen dropbacks, and Chicago's quarterbacks go down about once every fifteen and a half. Caleb Williams started Chicago's last game against New England, and Sam Darnold started Seattle's last game against Kansas City. Neither starting quarterback is on ESPN's game-day list. Seattle is without left tackle Charles Cross, Uchenna Nwosu, Rashid Shaheed and Velus Jones Jr., and backup Drew Lock is inactive. Chicago is without Kyle Monangai, and Cole Kmet and Coby Bryant are on injured reserve. Chicago also comes in on eleven days of rest, three more than Seattle.\n\nThe Under comes from that Seattle defense. My final adds up to 44, the same number the Formula has. Seattle has allowed 125 points in seven games, and two rushes this active stall drives. The posted 46.5 is two and a half points too high.\n\nEvery scoring opinion is on the Under, and the side is two against one. The Formula has Seahawks 28, Bears 16, and Letdown Watch has Seahawks 25, Bears 20, both laying the 3. Next Man Up has Seahawks 23, Bears 22 and takes Chicago and the points. In The Trenches has no pick: Seattle left tackle Charles Cross is out, and its season numbers were built with him on the field. Follow The Money has no pick.\n\nSeattle Center's festival wraps up the night before, and Monday belongs to the champs at home, a run defense allowing 3.5 a carry, and a six-point final. I'll lay the field goal.\n\nSeahawks 25, Bears 19. Seahawks cover the 3. Under 46.5.",
+    "fanatic_score_line": "Projected: Seattle Seahawks 25, Chicago Bears 19 (44 combined points)",
     "market": {
      "score_line": "Market: Seattle Seahawks 25, Chicago Bears 22 (Total 47)",
      "spread": "Seattle Seahawks −3",
      "total": "46.5",
-     "source": "Consensus line as of Oct 28, 6:49 PM ET",
+     "source": "Line as of Nov 2, 6:55 PM ET (DraftKings via ESPN)",
      "note": "The market’s own numbers, shown for comparison only."
     }
    },
-   "gambler_story": "Bears vs Seahawks prediction, pick against the spread and over/under for Monday night: Seattle Center's Día de Muertos festival wraps up Sunday, and twenty-four hours later the defending champions host a 5-2 Chicago team, rested and laying a field goal. It's a real game, but Seattle is the right side, and I'm laying the 3.\n\nESPN has it Monday, Nov. 2, at 8:15 p.m. Eastern from Lumen Field. The consensus has Seattle −3 with a total of 46.5 as of Oct 28, 6:49 p.m. ET. My card: Seattle Seahawks −3, Under 46.5, final Seahawks 25, Bears 20.\n\nThe Seattle case is that the record undersells the team. The Seahawks have scored 168 and allowed only 125 in seven games, and they're 3-1 at home.\n\nThe Formula: Net ratings Seattle Seahawks 5.1, Chicago Bears −5.3 (nflverse play-by-play, Oct 28, 2026).\n\nIts card has Seahawks 28, Bears 16. I'm not going that far, but a five-point Seattle win is a comfortable place to stand when the number is 3.\n\nThe Seattle run defense is the other reason. The Seahawks allow only 3.5 yards a carry, the stingiest number in this game. Seattle runs for 4.0 against a Chicago defense allowing 4.4.\n\nWhat keeps this from being easy: Chicago is good, and it can run. The Bears are 5-2, they've scored 180 points, and they run for 4.4 yards a carry, a real number against that Seattle front. Chicago's rush gets a sack about once every eleven dropbacks, and Seattle's protection allows one exactly once every fifteen. Seattle's rush gets home about once every thirteen dropbacks, and Chicago's quarterbacks go down about once every fifteen and a half. Caleb Williams started Chicago's last game against New England, and Sam Darnold started Seattle's last game against Kansas City. Neither team has a name on Wednesday's official injury report, so those are the quarterbacks. Chicago also comes in on eleven days of rest, three more than Seattle.\n\nThe Under comes from that Seattle defense. My final adds up to 45, and the Formula's number is 44. Seattle has allowed 125 points in seven games, and two rushes this active stall drives. The posted 46.5 is a point and a half too high.\n\nThe room agrees on the Under and splits on the side. The Formula has Seahawks 28, Bears 16, and Letdown Watch has Seahawks 25, Bears 20, both laying the 3. Next Man Up has Seahawks 23, Bears 22, and In The Trenches has Seahawks 22, Bears 20, both taking Chicago and the points. Follow The Money has no pick.\n\nSeattle Center's festival wraps up the night before, and Monday belongs to the champs at home, a run defense allowing 3.5 a carry, and a five-point final. I'll lay the field goal.\n\nSeahawks 25, Bears 20. Seahawks cover the 3. Under 46.5.",
-   "fanatic_story": "Chicago Bears vs Seattle Seahawks on Monday Night Football closes Week 8 at Lumen Field, Caleb Williams and Ben Johnson against Sam Darnold, Mike Macdonald and the defending Super Bowl champions, the night after Seattle Center finishes its two-day Día de Muertos festival. Walt Brenner, who reminds everyone that professional football started with the Bears, walked through the ofrendas on Sunday and announced that Chicago's ancestors could fill every altar in the building, while Kara Holm, who knows that defending a title is harder than winning one, told him altars are for remembering, not for winning in November.\n\nWalt: Eight NFL championships before the merger, Kara. Bronko Nagurski. Red Grange. We were winning titles before most franchises had a mascot.\n\nKara: And we won the last one. Super Bowl LX, twenty-nine to thirteen against New England. Every team on our schedule has circled us since.\n\nWalt left a Chicago weekend that started with Boo with SUE at the Field Museum, trick-or-treating around SUE the T. rex, and he wanted it known that his franchise has its own fossils.\n\nWalt: Super Bowl XX. And I won't let anybody tell me that team is the whole story. We were here first.\n\nKara: XLVIII and LX for us. Steve Largent. Mike McCormack.\n\nWalt: Devin Hester. Steve McMichael. Jared Allen.\n\nKara: You have more Hall of Famers. We have the most recent trophy.\n\nWalt: For now.\n\nKara: Exactly. Champions get hunted. I'm not assuming we repeat. Nobody should.\n\nChicago is 5-2, 3-1 at home and 2-1 on the road, with 180 points scored and 143 allowed. Seattle is 4-3, 3-1 at home and 1-2 away, with 168 scored and only 125 allowed. Williams started the Bears' last game, at home against New England. Darnold started the Seahawks' last game, at home against Kansas City.\n\nWalt: Eleven days of rest. Ben Johnson had time to draw up something special.\n\nKara: Macdonald had eight. He only needs one.\n\nJohnson has Dennis Allen calling a 4-3 defense and Press Taylor running the offense. Macdonald has Aden Durde calling a 3-4 and Brian Fleury on offense. The toughest group here is Seattle's run defense, allowing only 3.5 yards a carry, and Chicago runs for 4.4 into it. Seattle runs for 4.0 against a Bears defense allowing 4.4.\n\nBoth rushes have been busy. Chicago's gets a sack about once every eleven dropbacks, and Seattle's blockers allow one exactly once every fifteen. Seattle's rush gets home about once every thirteen dropbacks, and Chicago's quarterbacks go down about once every fifteen and a half.\n\nWalt: Grady Jarrett and T.J. Edwards will find Darnold, and Jaylon Johnson waits downfield.\n\nKara: DeMarcus Lawrence and Leonard Williams find Caleb first. Devon Witherspoon will be waiting on Rome Odunze.\n\nWalt: Colston Loveland and D'Andre Swift. We have weapons.\n\nKara: Jaxon Smith-Njigba would like to meet your secondary.\n\nWednesday's official practice sheet carried no names at all from either club, which left a Monday night with nothing to hide behind.\n\nWalt: What does a champion owe the rest of the league?\n\nKara: Nothing. The league thinks we owe it a rematch every week. That's what being hunted means.\n\nWalt: Sunday your city honored everybody who came before. Monday it gets reminded who came first.\n\nKara: Then remember it from the visitors' side. The marigolds come down Monday morning. By kickoff this whole neighborhood is navy and action green.\n\nMy call: Seahawks 25, Bears 20.",
-   "fanatic_final_sentence": "Seahawks 25, Bears 20.",
+   "gambler_story": "Bears vs Seahawks prediction, pick against the spread and over/under for Monday night: Seattle Center's Día de Muertos festival wraps up Sunday, and twenty-four hours later the defending champions host a 5-2 Chicago team, rested and laying a field goal. It's a real game, but Seattle is the right side, and I'm laying the 3.\n\nESPN has it Monday, Nov. 2, at 8:15 p.m. Eastern from Lumen Field. DraftKings has Seattle −3 with a total of 46.5 as of Nov 2, 6:55 p.m. ET. My card: Seattle Seahawks −3, Under 46.5, final Seahawks 25, Bears 19.\n\nThe Seattle case is that the record undersells the team. The Seahawks have scored 168 and allowed only 125 in seven games, and they're 3-1 at home.\n\nThe Formula: Net ratings Seattle Seahawks 5.1, Chicago Bears −5.3 (nflverse play-by-play, Oct 28, 2026).\n\nIts card has Seahawks 28, Bears 16. I'm not going that far, but a six-point Seattle win is a comfortable place to stand when the number is 3.\n\nThe Seattle run defense is the other reason. The Seahawks allow only 3.5 yards a carry, the stingiest number in this game. Seattle runs for 4.0 against a Chicago defense allowing 4.4.\n\nWhat keeps this from being easy: Chicago is good, and it can run. The Bears are 5-2, they've scored 180 points, and they run for 4.4 yards a carry, a real number against that Seattle front. Chicago's rush gets a sack about once every eleven dropbacks, and Seattle's protection allows one exactly once every fifteen. Seattle's rush gets home about once every thirteen dropbacks, and Chicago's quarterbacks go down about once every fifteen and a half. Caleb Williams started Chicago's last game against New England, and Sam Darnold started Seattle's last game against Kansas City. Neither starting quarterback is on ESPN's game-day list. Seattle is without left tackle Charles Cross, Uchenna Nwosu, Rashid Shaheed and Velus Jones Jr., and backup Drew Lock is inactive. Chicago is without Kyle Monangai, and Cole Kmet and Coby Bryant are on injured reserve. Chicago also comes in on eleven days of rest, three more than Seattle.\n\nThe Under comes from that Seattle defense. My final adds up to 44, the same number the Formula has. Seattle has allowed 125 points in seven games, and two rushes this active stall drives. The posted 46.5 is two and a half points too high.\n\nEvery scoring opinion is on the Under, and the side is two against one. The Formula has Seahawks 28, Bears 16, and Letdown Watch has Seahawks 25, Bears 20, both laying the 3. Next Man Up has Seahawks 23, Bears 22 and takes Chicago and the points. In The Trenches has no pick: Seattle left tackle Charles Cross is out, and its season numbers were built with him on the field. Follow The Money has no pick.\n\nSeattle Center's festival wraps up the night before, and Monday belongs to the champs at home, a run defense allowing 3.5 a carry, and a six-point final. I'll lay the field goal.\n\nSeahawks 25, Bears 19. Seahawks cover the 3. Under 46.5.",
+   "fanatic_story": "Chicago Bears vs Seattle Seahawks on Monday Night Football closes Week 8 at Lumen Field, Caleb Williams and Ben Johnson against Sam Darnold, Mike Macdonald and the defending Super Bowl champions, the night after Seattle Center finishes its two-day Día de Muertos festival. Walt Brenner, who reminds everyone that professional football started with the Bears, walked through the ofrendas on Sunday and announced that Chicago's ancestors could fill every altar in the building, while Kara Holm, who knows that defending a title is harder than winning one, told him altars are for remembering, not for winning in November.\n\nWalt: Eight NFL championships before the merger, Kara. Bronko Nagurski. Red Grange. We were winning titles before most franchises had a mascot.\n\nKara: And we won the last one. Super Bowl LX, twenty-nine to thirteen against New England. Every team on our schedule has circled us since.\n\nWalt left a Chicago weekend that started with Boo with SUE at the Field Museum, trick-or-treating around SUE the T. rex, and he wanted it known that his franchise has its own fossils.\n\nWalt: Super Bowl XX. And I won't let anybody tell me that team is the whole story. We were here first.\n\nKara: XLVIII and LX for us. Steve Largent. Mike McCormack.\n\nWalt: Devin Hester. Steve McMichael. Jared Allen.\n\nKara: You have more Hall of Famers. We have the most recent trophy.\n\nWalt: For now.\n\nKara: Exactly. Champions get hunted. I'm not assuming we repeat. Nobody should.\n\nChicago is 5-2, 3-1 at home and 2-1 on the road, with 180 points scored and 143 allowed. Seattle is 4-3, 3-1 at home and 1-2 away, with 168 scored and only 125 allowed. Williams started the Bears' last game, at home against New England. Darnold started the Seahawks' last game, at home against Kansas City.\n\nWalt: Eleven days of rest. Ben Johnson had time to draw up something special.\n\nKara: Macdonald had eight. He only needs one.\n\nJohnson has Dennis Allen calling a 4-3 defense and Press Taylor running the offense. Macdonald has Aden Durde calling a 3-4 and Brian Fleury on offense. The toughest group here is Seattle's run defense, allowing only 3.5 yards a carry, and Chicago runs for 4.4 into it. Seattle runs for 4.0 against a Bears defense allowing 4.4.\n\nBoth rushes have been busy. Chicago's gets a sack about once every eleven dropbacks, and Seattle's blockers allow one exactly once every fifteen. Seattle's rush gets home about once every thirteen dropbacks, and Chicago's quarterbacks go down about once every fifteen and a half.\n\nWalt: Grady Jarrett and T.J. Edwards will find Darnold, and Jaylon Johnson waits downfield.\n\nKara: DeMarcus Lawrence and Leonard Williams find Caleb first. Devon Witherspoon will be waiting on Rome Odunze.\n\nWalt: Colston Loveland and D'Andre Swift. We have weapons.\n\nKara: Jaxon Smith-Njigba would like to meet your secondary.\n\nBy Monday night Seattle was without left tackle Charles Cross and Rashid Shaheed, and Chicago was without Kyle Monangai, with Cole Kmet on injured reserve. Nobody is hiding behind a clean sheet now.\n\nWalt: What does a champion owe the rest of the league?\n\nKara: Nothing. The league thinks we owe it a rematch every week. That's what being hunted means.\n\nWalt: Sunday your city honored everybody who came before. Monday it gets reminded who came first.\n\nKara: Then remember it from the visitors' side. The marigolds come down Monday morning. By kickoff this whole neighborhood is navy and action green.\n\nMy call: Seahawks 25, Bears 19.",
+   "fanatic_final_sentence": "Seahawks 25, Bears 19.",
    "preview_sources": [],
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/chi and https://www.espn.com/nfl/team/_/name/sea, retrieved Oct 28, 6:49 PM ET"
