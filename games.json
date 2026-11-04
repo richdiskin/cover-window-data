@@ -1920,13 +1920,13 @@
     "ball-state",
     "massachusetts"
    ],
-   "spread": "Massachusetts Minutemen −3.5",
-   "total_line": 49.5,
+   "spread": "Massachusetts Minutemen −2.5",
+   "total_line": 48.5,
    "prediction": {
     "away_score": 22,
     "home_score": 31,
     "winner": "Massachusetts Minutemen",
-    "covers": "Massachusetts Minutemen −3.5"
+    "covers": "Massachusetts Minutemen −2.5"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -1935,65 +1935,172 @@
    "display": {
     "writer": {
      "score_line": "Projected: Massachusetts Minutemen 31, Ball State Cardinals 22 (Total 53)",
-     "side": "Massachusetts Minutemen −3.5",
-     "ou": "Over 49.5",
+     "side": "Massachusetts Minutemen −2.5",
+     "ou": "Over 48.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Massachusetts Minutemen −3.5 · Likes this side",
-      "ou_line": "O/U: Over 49.5 · Likes this total",
+      "side_line": "Side: Massachusetts Minutemen −2.5 · Likes this side",
+      "ou_line": "O/U: Over 48.5 · Likes this total",
       "score_line": "Projected: Massachusetts Minutemen 30, Ball State Cardinals 23 (Total 53)",
-      "basis_line": "Net ratings Ball State Cardinals −20.0, Massachusetts Minutemen −14.7 (ESPN Football Power Index, Nov 2, 2026)",
+      "basis_line": "Net ratings Ball State Cardinals −20.0, Massachusetts Minutemen −14.7 (ESPN Football Power Index, Nov 4, 2026)",
       "independent": true,
-      "distance_from_spread": 3.5,
-      "distance_from_total": 3.5
+      "distance_from_spread": 4.5,
+      "distance_from_total": 4.5
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Massachusetts Minutemen −3.5 · Likes this side",
-      "ou_line": "O/U: Over 49.5 · Likes this total",
+      "side_line": "Side: Massachusetts Minutemen −2.5 · Likes this side",
+      "ou_line": "O/U: Over 48.5 · Likes this total",
       "score_line": "Projected: Massachusetts Minutemen 31, Ball State Cardinals 21 (Total 52)",
-      "basis_line": "With the players available: projected points Ball State Cardinals 20.6, Massachusetts Minutemen 31.5. Availability: no official conference availability report covers this game, so no quarterback adjustment is made.",
+      "basis_line": "With the players available: projected points Ball State Cardinals 20.6, Massachusetts Minutemen 31.5. Availability: the MAC availability report lists Massachusetts Minutemen running back Jordan Washington out, Massachusetts Minutemen wide receiver Dallas Elliott out, Massachusetts Minutemen defensive lineman Zachary Betts out, Massachusetts Minutemen tight end Matt Ogunniyi out, Massachusetts Minutemen offensive lineman Greg Klingensmith out, Ball State Cardinals defensive back Tobi Adewoyin out, Ball State Cardinals defensive back Cedric Franklin II out, Ball State Cardinals offensive lineman Blake Scriber out, Ball State Cardinals offensive lineman Ryan Eldridge out, Ball State Cardinals offensive lineman Zach Bandy out, Ball State Cardinals wide receiver Derion Talbert out, Ball State Cardinals tight end Mason Riggins out, Ball State Cardinals tight end Cole Coonrod out, Ball State Cardinals tight end Sean Ward out and Ball State Cardinals dt Kendrick Gilbert out.",
       "independent": true,
-      "distance_from_spread": 6.5,
-      "distance_from_total": 2.5
+      "distance_from_spread": 7.5,
+      "distance_from_total": 3.5
      },
      {
       "name": "Follow The Money",
       "side_line": "Side: no pick",
-      "ou_line": "O/U: no pick",
+      "ou_line": "O/U: Under 48.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Consensus spread opened Massachusetts Minutemen −3 (Nov 3, 12:11 AM ET) and is −3.5 now. Follow The Money has no side pick. Consensus total opened 49.5 (Nov 3, 10:05 PM ET) and is 49.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 3, 10:34 PM ET; the open is the first consensus line posted after the Monday night game ended (Nov 2, 11:23 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Massachusetts Minutemen −3 (Nov 3, 12:11 AM ET) and is −2.5 now. Follow The Money has no side pick. Consensus total opened 49.5 (Nov 3, 10:05 PM ET) and is 48.5 now, a 1-point move: Under. The total pick quotes the consensus total now (48.5). Lines are the Action Network consensus as of Nov 4, 6:05 PM ET; the open is the first consensus line posted after the Monday night game ended (Nov 2, 11:23 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Ball State Cardinals +3.5 · Likes this side",
+      "side_line": "Side: Ball State Cardinals +2.5 · Likes this side",
       "ou_line": "O/U: this card reads sides only",
       "score_line": "No score this week.",
-      "basis_line": "This read points to a side only. Ball State Cardinals 4.3 ypc vs Massachusetts Minutemen allowing 3.9; Massachusetts Minutemen 4.5 ypc vs Ball State Cardinals allowing 5.1 (2026 season). Massachusetts Minutemen run game 0.6 ypc below what the opponent allows, which favours Ball State Cardinals. Side: Ball State Cardinals +3.5.",
+      "basis_line": "This read points to a side only. Ball State Cardinals 4.3 ypc vs Massachusetts Minutemen allowing 3.9; Massachusetts Minutemen 4.5 ypc vs Ball State Cardinals allowing 5.1 (2026 season). Massachusetts Minutemen run game 0.6 ypc below what the opponent allows, which favours Ball State Cardinals. Side: Ball State Cardinals +2.5.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      }
     ],
-    "story_text": "Ball State vs UMass prediction, pick against the spread and over/under for Wednesday night in Amherst: I'm on Massachusetts Minutemen −3.5 and Over 49.5, with a final of Massachusetts Minutemen 31, Ball State Cardinals 22. McGuirk Alumni Stadium opens its MAC slate on a Wednesday night built around Salute to Service and Faculty & Staff Appreciation, so the bleachers will be full of professors grading film instead of midterms.\n\nAbner Kettleworth, the Pioneer Valley farmer who grinds tape between harvests, has the case for the hosts. \"We dropped four in a row, 14-38 to Eastern Michigan, 19-20 to Miami (OH), 18-25 in overtime at Buffalo and 16-35 at UConn. Fine. But we still score 26.5 a game and allow 21.1. Ball State gives up 35.2. You don't need a roll call to see who brought more men.\"\n\nGus Ponder drove in from Muncie with his punt chart rolled up like a diploma. \"We won two straight, Abner. Bowling Green 32-31 in overtime, then Sacramento State 34-17. TJ Horton has 425 yards and 9 touchdowns on the ground. Garfield hates Mondays. Good thing this is a Wednesday.\"\n\nThe side begins with the quarterbacks. William Watson III has thrown 8 touchdowns against 2 interceptions. Keldric Luster has 9 touchdowns but 6 interceptions, and the hosts bring a front with William DePaepe at 3 sacks and Timmy Hinspeter running down 72 tackles. Both teams played Sacramento State. UMass won 35-6 on the road. Ball State won 34-17 at home. That gap is the margin I want, and my final has UMass by 9, clear of the 3.5.\n\nOn the over/under, Ball State's defense is the reason. The Cardinals surrendered 56 to Ohio State, 51 to Liberty and 45 to Northwestern, and even the Kent State and Toledo nights went 26 and 39 against them. DraftKings opened 48.5 and moved to 49.5. My 31-22 lands at 53.\n\nThe room splits on the side. The Formula has Massachusetts 30-23 and likes both the Minutemen −3.5 and the Over. Next Man Up has Massachusetts 31-21 and likes the same two. In The Trenches reads sides only, has no score this week and likes Ball State Cardinals +3.5, so the ground game has Gus smiling. Follow The Money has no side pick and no total pick. The consensus spread opened Massachusetts −3 and is −3.5 now, and the total opened 49.5 and is 49.5 now. Letdown Watch has no score this week.\n\nNext Man Up: \"Thirty-one to twenty-one, Trenches. Bring a sweater to Amherst.\"\n\nIn The Trenches: \"Bring a punt chart. Gus did.\"\n\nAbner rings a tiny colonial bell as the veterans are honored before kickoff. Gus unrolls the chart, finds the Garfield doodle in the corner and grins anyway.\n\nMassachusetts Minutemen 31, Ball State Cardinals 22. Massachusetts Minutemen cover the 3.5. Over 49.5.",
+    "story_text": "Ball State vs UMass prediction, pick against the spread and over/under for Wednesday night in Amherst: I'm on Massachusetts Minutemen −2.5 and Over 48.5, with a final of Massachusetts Minutemen 31, Ball State Cardinals 22. McGuirk Alumni Stadium opens its MAC slate on a Wednesday night built around Salute to Service and Faculty & Staff Appreciation, so the bleachers will be full of professors grading film instead of midterms.\n\nAbner Kettleworth, the Pioneer Valley farmer who grinds tape between harvests, has the case for the hosts. \"We dropped four in a row, 14-38 to Eastern Michigan, 19-20 to Miami (OH), 18-25 in overtime at Buffalo and 16-35 at UConn. Fine. But we still score 26.5 a game and allow 21.1. Ball State gives up 35.2. You don't need a roll call to see who brought more men.\"\n\nGus Ponder drove in from Muncie with his punt chart rolled up like a diploma. \"We won two straight, Abner. Bowling Green 32-31 in overtime, then Sacramento State 34-17. TJ Horton has 425 yards and 9 touchdowns on the ground. Garfield hates Mondays. Good thing this is a Wednesday.\"\n\nThe side begins with the quarterbacks. William Watson III has thrown 8 touchdowns against 2 interceptions. Keldric Luster has 9 touchdowns but 6 interceptions, and the hosts bring a front with William DePaepe at 3 sacks and Timmy Hinspeter running down 72 tackles. Both teams played Sacramento State. UMass won 35-6 on the road. Ball State won 34-17 at home. That gap is the margin I want, and my final has UMass by 9, clear of the 2.5.\n\nOn the over/under, Ball State's defense is the reason. The Cardinals surrendered 56 to Ohio State, 51 to Liberty and 45 to Northwestern, and even the Kent State and Toledo nights went 26 and 39 against them. DraftKings opened 48.5, moved to 49.5 and is back at 48.5. My 31-22 lands at 53.\n\nMost of the room is with me on the side: The Formula and Next Man Up back UMass −2.5, and In The Trenches takes Ball State +2.5. The Formula has Massachusetts 30-23 and likes both the Minutemen −2.5 and the Over. Next Man Up has Massachusetts 31-21 and likes the same two. In The Trenches reads sides only, has no score this week and likes Ball State Cardinals +2.5, so the ground game has Gus smiling. Follow The Money has no side pick and takes the Under 48.5. The consensus spread opened Massachusetts −3 and is −2.5 now, and the total opened 49.5 and is 48.5 now. Letdown Watch has no score this week.\n\nNext Man Up: \"Thirty-one to twenty-one, Trenches. Bring a sweater to Amherst.\"\n\nIn The Trenches: \"Bring a punt chart. Gus did.\"\n\nAbner rings a tiny colonial bell as the veterans are honored before kickoff. Gus unrolls the chart, finds the Garfield doodle in the corner and grins anyway.\n\nMassachusetts Minutemen 31, Ball State Cardinals 22. Massachusetts Minutemen cover the 2.5. Over 48.5.",
     "fanatic_score_line": "Projected: Massachusetts Minutemen 31, Ball State Cardinals 22 (53 combined points)",
     "line_used": {
-     "home_line": "Massachusetts Minutemen −3.5",
-     "total": "49.5",
-     "source": "ESPN game page odds (DraftKings), Nov 3, 2026, 10:34 PM ET",
-     "fetched_at_utc": "2026-11-04T03:34Z"
+     "home_line": "Massachusetts Minutemen −2.5",
+     "total": "48.5",
+     "source": "ESPN game page odds (DraftKings), Nov 4, 2026, 6:05 PM ET",
+     "fetched_at_utc": "2026-11-04T23:05Z"
     },
     "injuries": {
-     "away": [],
-     "home": [],
-     "source": "Not posted yet: the official conference availability report for this game",
-     "fetched_at_utc": "2026-11-04T03:34Z"
+     "away": [
+      {
+       "player": "Tobi Adewoyin",
+       "position": "DB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Cedric Franklin II",
+       "position": "DB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Blake Scriber",
+       "position": "OL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Ryan Eldridge",
+       "position": "OL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Zach Bandy",
+       "position": "OL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Derion Talbert",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Mason Riggins",
+       "position": "TE",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Cole Coonrod",
+       "position": "TE",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Sean Ward",
+       "position": "TE",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Kendrick Gilbert",
+       "position": "DT",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      }
+     ],
+     "home": [
+      {
+       "player": "Jordan Washington",
+       "position": "RB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Dallas Elliott",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Zachary Betts",
+       "position": "DL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Matt Ogunniyi",
+       "position": "TE",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Greg Klingensmith",
+       "position": "OL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      }
+     ],
+     "source": "MAC availability report (Game Day, posted Nov 4, 6:00 PM ET; fetched Nov 4, 6:05 PM ET from https://app.hdintelligence.com/?source=MAC&sport=Football&conf=MAC&type=report)",
+     "fetched_at_utc": "2026-11-04T23:05Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -2002,20 +2109,21 @@
      "Market moves: Action Network consensus line history (actionnetwork.com)",
      "Trench stats: ESPN team stats for Ball State (espn.com)",
      "Trench stats: ESPN team stats for Massachusetts (espn.com)",
-     "Schedule history: collegefootballdata.com 2018–2025"
+     "Schedule history: collegefootballdata.com 2018–2025",
+     "Availability: MAC availability report (hdintelligence.com)"
     ],
     "fanatic_story": "Ball State Cardinals vs UMass Minutemen prediction for Wednesday night, November 4, at McGuirk Alumni Stadium: it's Salute to Service and Faculty & Staff Appreciation night in Amherst, and Abner Kettleworth is already saluting anyone in a uniform or a tweed jacket. Gus Ponder rolled in from Muncie with a whiteboard under one arm and a Garfield tie in his glovebox, just in case.\n\nWednesday football in the Pioneer Valley is its own animal. University Drive closes to southbound traffic at 2:30 in the afternoon, kids 12 and under get in for $5, and the folks who teach organic chemistry all day are going to spend the night yelling at third-down calls. Abner calls it the best faculty meeting of the year.\n\n\"You know what I love about tonight, Gus?\" Abner says, adjusting his specs. \"The professors grade us, we grade them back. One if by run, two if by throw. And Ball State had better bring both lanterns.\"\n\nGus pats his whiteboard. \"Abner, I brought a punt chart, a thermos and a joke. Why did the Cardinal sit on the scoreboard? He heard the Minutemen were short on fans up high.\" He waits. Nothing. \"Tough crowd. Jim Davis went to Ball State, you know. Garfield hates Mondays. Lucky for me, it's a Wednesday.\"\n\nThe history is short and even. These two have met four times, and the series sits 2-2. UMass won the first one 26-10 in 1984. Ball State won the last one 20-10 back in 2015 in Muncie. Abner remembers the first. Gus remembers the last. Neither of them will admit to remembering the other.\n\n\"Here's my worry,\" Abner says, and the deadpan cracks just a hair. \"We've dropped four in a row. Eastern Michigan rolled us 38-14 right here. Miami (OH) beat us 20-19. Buffalo got us 25-18 in overtime. UConn won 35-16. If I plant one more tree for a loss, the Valley is going to be a forest.\"\n\n\"And I've got the opposite problem,\" Gus says. \"We finally remembered how to win. Bowling Green, 32-31 in overtime. Sacramento State, 34-17. Two in a row, Abner. In Muncie we call that a parade.\"\n\nThe Minutemen have more than hope, though, and Abner knows every name on the roster card. William Watson III has thrown for 1,025 yards with 8 touchdowns and only 2 interceptions. He went 19 of 22 for 197 yards and 3 touchdowns in the opener at Rutgers, a 37-21 win that Abner still replays at the kitchen table. T.Y. Harding leads the receivers with 28 catches for 327 yards. Elijah Faulkner carries it on the ground with 376 yards.\n\n\"Watson doesn't give the ball away,\" Abner says. \"He treats it like heirloom seed.\"\n\nOn the other side of the field, the Massachusetts defense has a heartbeat named Timmy Hinspeter, who has 72 tackles, and a front with William DePaepe and his 3 sacks. That group held Sacred Heart to 10 and Stonehill to 14 and went to Sacramento State and allowed 6.\n\nGus is not backing down. Keldric Luster has thrown for 1,300 yards with 9 touchdowns, and when he gets hot he can make a defense look silly. He was 27 of 32 for 256 yards and 3 touchdowns against Stony Brook. TJ Horton is the battering ram in the backfield, 425 yards and 9 touchdowns, and Donovan Hamilton leads the receivers with 310 yards. Kaleb Stewart anchors the Cardinals defense with 37 tackles and 2.5 sacks.\n\n\"Horton runs like Garfield going after lasagna,\" Gus says. \"Straight ahead, no apologies, and you are not getting it back.\"\n\nAbner nods slowly. \"Fair. But your defense has given up 56 to Ohio State, 51 to Liberty and 45 to Northwestern. Those are big schools. We are not a big school. We are a stubborn school.\"\n\n\"Stubborn,\" Gus says, \"is my whole punt chart.\"\n\nHere's the part that makes this one fun. Both teams played Sacramento State this year. The Minutemen won 35-6 out in California. The Cardinals won 34-17 at home. Abner has that written on an index card in his pocket and keeps patting it like it's a pocket watch.\n\nSo here is how it plays out under the lights in Amherst. Watson keeps the ball clean, Harding wins on third down, and Faulkner grinds the clock. Ball State hangs around because Horton is real and Luster can hurt you, and Gus gets at least two reasons to stand up and wave the whiteboard. But the Minutemen defense makes one more play when it counts, the veterans in the crowd get a proper Wednesday win to cheer, and the faculty go home with a good grade for the home side.\n\nAbner rings his tiny colonial bell. Gus loosens the Garfield tie and says it sounds like a Monday after all.\n\nMy call: Massachusetts Minutemen 31, Ball State Cardinals 22.",
     "market": {
-     "score_line": "Market: Massachusetts Minutemen 27, Ball State Cardinals 23 (Total 50)",
-     "spread": "Massachusetts Minutemen −3.5",
-     "total": "49.5",
-     "source": "ESPN game page odds (DraftKings), Nov 3, 2026, 10:34 PM ET",
+     "score_line": "Market: Massachusetts Minutemen 26, Ball State Cardinals 23 (Total 49)",
+     "spread": "Massachusetts Minutemen −2.5",
+     "total": "48.5",
+     "source": "ESPN game page odds (DraftKings), Nov 4, 2026, 6:05 PM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
-    "gambler_headline": "UMass Lays 3.5 to Ball State on a Wednesday Night in Amherst",
+    "gambler_headline": "UMass Lays 2.5 to Ball State on a Wednesday Night in Amherst",
     "fanatic_headline": "Salute to Service in Amherst: UMass Hosts Ball State on Wednesday"
    },
-   "gambler_story": "Ball State vs UMass prediction, pick against the spread and over/under for Wednesday night in Amherst: I'm on Massachusetts Minutemen −3.5 and Over 49.5, with a final of Massachusetts Minutemen 31, Ball State Cardinals 22. McGuirk Alumni Stadium opens its MAC slate on a Wednesday night built around Salute to Service and Faculty & Staff Appreciation, so the bleachers will be full of professors grading film instead of midterms.\n\nAbner Kettleworth, the Pioneer Valley farmer who grinds tape between harvests, has the case for the hosts. \"We dropped four in a row, 14-38 to Eastern Michigan, 19-20 to Miami (OH), 18-25 in overtime at Buffalo and 16-35 at UConn. Fine. But we still score 26.5 a game and allow 21.1. Ball State gives up 35.2. You don't need a roll call to see who brought more men.\"\n\nGus Ponder drove in from Muncie with his punt chart rolled up like a diploma. \"We won two straight, Abner. Bowling Green 32-31 in overtime, then Sacramento State 34-17. TJ Horton has 425 yards and 9 touchdowns on the ground. Garfield hates Mondays. Good thing this is a Wednesday.\"\n\nThe side begins with the quarterbacks. William Watson III has thrown 8 touchdowns against 2 interceptions. Keldric Luster has 9 touchdowns but 6 interceptions, and the hosts bring a front with William DePaepe at 3 sacks and Timmy Hinspeter running down 72 tackles. Both teams played Sacramento State. UMass won 35-6 on the road. Ball State won 34-17 at home. That gap is the margin I want, and my final has UMass by 9, clear of the 3.5.\n\nOn the over/under, Ball State's defense is the reason. The Cardinals surrendered 56 to Ohio State, 51 to Liberty and 45 to Northwestern, and even the Kent State and Toledo nights went 26 and 39 against them. DraftKings opened 48.5 and moved to 49.5. My 31-22 lands at 53.\n\nThe room splits on the side. The Formula has Massachusetts 30-23 and likes both the Minutemen −3.5 and the Over. Next Man Up has Massachusetts 31-21 and likes the same two. In The Trenches reads sides only, has no score this week and likes Ball State Cardinals +3.5, so the ground game has Gus smiling. Follow The Money has no side pick and no total pick. The consensus spread opened Massachusetts −3 and is −3.5 now, and the total opened 49.5 and is 49.5 now. Letdown Watch has no score this week.\n\nNext Man Up: \"Thirty-one to twenty-one, Trenches. Bring a sweater to Amherst.\"\n\nIn The Trenches: \"Bring a punt chart. Gus did.\"\n\nAbner rings a tiny colonial bell as the veterans are honored before kickoff. Gus unrolls the chart, finds the Garfield doodle in the corner and grins anyway.\n\nMassachusetts Minutemen 31, Ball State Cardinals 22. Massachusetts Minutemen cover the 3.5. Over 49.5.",
+   "gambler_story": "Ball State vs UMass prediction, pick against the spread and over/under for Wednesday night in Amherst: I'm on Massachusetts Minutemen −2.5 and Over 48.5, with a final of Massachusetts Minutemen 31, Ball State Cardinals 22. McGuirk Alumni Stadium opens its MAC slate on a Wednesday night built around Salute to Service and Faculty & Staff Appreciation, so the bleachers will be full of professors grading film instead of midterms.\n\nAbner Kettleworth, the Pioneer Valley farmer who grinds tape between harvests, has the case for the hosts. \"We dropped four in a row, 14-38 to Eastern Michigan, 19-20 to Miami (OH), 18-25 in overtime at Buffalo and 16-35 at UConn. Fine. But we still score 26.5 a game and allow 21.1. Ball State gives up 35.2. You don't need a roll call to see who brought more men.\"\n\nGus Ponder drove in from Muncie with his punt chart rolled up like a diploma. \"We won two straight, Abner. Bowling Green 32-31 in overtime, then Sacramento State 34-17. TJ Horton has 425 yards and 9 touchdowns on the ground. Garfield hates Mondays. Good thing this is a Wednesday.\"\n\nThe side begins with the quarterbacks. William Watson III has thrown 8 touchdowns against 2 interceptions. Keldric Luster has 9 touchdowns but 6 interceptions, and the hosts bring a front with William DePaepe at 3 sacks and Timmy Hinspeter running down 72 tackles. Both teams played Sacramento State. UMass won 35-6 on the road. Ball State won 34-17 at home. That gap is the margin I want, and my final has UMass by 9, clear of the 2.5.\n\nOn the over/under, Ball State's defense is the reason. The Cardinals surrendered 56 to Ohio State, 51 to Liberty and 45 to Northwestern, and even the Kent State and Toledo nights went 26 and 39 against them. DraftKings opened 48.5, moved to 49.5 and is back at 48.5. My 31-22 lands at 53.\n\nMost of the room is with me on the side: The Formula and Next Man Up back UMass −2.5, and In The Trenches takes Ball State +2.5. The Formula has Massachusetts 30-23 and likes both the Minutemen −2.5 and the Over. Next Man Up has Massachusetts 31-21 and likes the same two. In The Trenches reads sides only, has no score this week and likes Ball State Cardinals +2.5, so the ground game has Gus smiling. Follow The Money has no side pick and takes the Under 48.5. The consensus spread opened Massachusetts −3 and is −2.5 now, and the total opened 49.5 and is 48.5 now. Letdown Watch has no score this week.\n\nNext Man Up: \"Thirty-one to twenty-one, Trenches. Bring a sweater to Amherst.\"\n\nIn The Trenches: \"Bring a punt chart. Gus did.\"\n\nAbner rings a tiny colonial bell as the veterans are honored before kickoff. Gus unrolls the chart, finds the Garfield doodle in the corner and grins anyway.\n\nMassachusetts Minutemen 31, Ball State Cardinals 22. Massachusetts Minutemen cover the 2.5. Over 48.5.",
    "videos": [
     {
      "youtube_id": "lCA02j1ASls",
