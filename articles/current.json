@@ -4,9 +4,377 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 252,
+  "count": 256,
   "lead_id": "fanatic_team-indiana",
   "articles": [
+    {
+      "id": "fanatic_team-miami-oh-2026-11-03",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "miami-oh",
+      "team_ids": [
+        "miami-oh"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866454",
+      "title": "Miami (OH) vs Buffalo: RedHawks Blow a 15-Point Lead, Lose in OT",
+      "byline": "Cordelia Van Doren, The Miami (OH) Fanatic",
+      "matchup": "Final (OT): Buffalo Bulls (6-3) 34, Miami (OH) RedHawks (5-4) 31, Tue., Nov. 3, Yager Stadium, Oxford. Next: vs Ohio, Tue., Nov. 10, 8:00 PM ET, Yager Stadium, Oxford",
+      "date": "2026-11-03",
+      "word_count": 386,
+      "text": "Buffalo 34, Miami (OH) 31 in overtime, and that one is going to sit in my stomach all week. We led by 15 with 12 minutes left at Yager Stadium. We wore the special Myaamia helmets and jerseys. We had the night set up. Then we handed it away.\n\nThere was plenty to like for three quarters. Caleb Heavner hit Braylon Isom for a 21-yard touchdown, Rodney Nelson ran one in from 10, and it was 14-3. Jermaine Agee blocked a Buffalo punt and we scored on it to open the second half. Toney Coleman Jr. intercepted Jason Wright at our own 1, and CJ Young grabbed another one minutes later. Scoop Smith ran it in from 6 at 12:01 of the fourth. 31-16. Lights out, right?\n\nWrong. Buffalo converted a fourth-and-6 and a fourth-and-1 on the next drive, Chance Morrow scored and added the two-point try, and it was 31-24. Then came the drive that will haunt me. Buffalo went 80 yards in 12 plays, and we helped with two interference flags, including one that put the ball at our 2. Wright ran it in at 1:35. 31-31.\n\nOvertime was a mess. Buffalo kicked a 27-yarder. We ran three plays, then a false start on fourth down pushed Kellan McLaughlin back to 45, and the kick was no good. McLaughlin came in with eight straight field goals made and went 1 of 3 on the night, missing from 42 in the third quarter too.\n\nGame ball: D'Shawntae Jones, 112 yards on 17 carries. Isom had 7 catches for 89 yards. Malcolm McCain made 11 tackles, and we didn't turn it over once. Goat: discipline. Thirteen penalties for 104 yards is how you lose a game you led by two scores. And Morrow caught 12 balls for 199 yards against us. Nobody had an answer.\n\nOur three-game win streak is over, and according to our own series history this is Buffalo's first win in Oxford since Oct. 29, 2015. We're 5-4 and 3-2 in the MAC. Buffalo won the fourth quarter 15-7, and that tells you everything.\n\nNext: Ohio comes to Yager Stadium on Tuesday, Nov. 10, 8 PM ET on ESPN2. Battle of the Bricks, and the Bobcats are 5-0 in the league. Clean it up, play all four quarters, and send them home mad.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Buffalo 34, Miami (OH) 31 in overtime, and that one is going to sit in my stomach all week. We led by 15 with 12 minutes left at Yager Stadium. We wore the special Myaamia helmets and jerseys. We had the night set up. Then we handed it away."
+        },
+        {
+          "type": "paragraph",
+          "text": "There was plenty to like for three quarters. Caleb Heavner hit Braylon Isom for a 21-yard touchdown, Rodney Nelson ran one in from 10, and it was 14-3. Jermaine Agee blocked a Buffalo punt and we scored on it to open the second half. Toney Coleman Jr. intercepted Jason Wright at our own 1, and CJ Young grabbed another one minutes later. Scoop Smith ran it in from 6 at 12:01 of the fourth. 31-16. Lights out, right?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Wrong. Buffalo converted a fourth-and-6 and a fourth-and-1 on the next drive, Chance Morrow scored and added the two-point try, and it was 31-24. Then came the drive that will haunt me. Buffalo went 80 yards in 12 plays, and we helped with two interference flags, including one that put the ball at our 2. Wright ran it in at 1:35. 31-31."
+        },
+        {
+          "type": "paragraph",
+          "text": "Overtime was a mess. Buffalo kicked a 27-yarder. We ran three plays, then a false start on fourth down pushed Kellan McLaughlin back to 45, and the kick was no good. McLaughlin came in with eight straight field goals made and went 1 of 3 on the night, missing from 42 in the third quarter too."
+        },
+        {
+          "type": "paragraph",
+          "text": "Game ball: D'Shawntae Jones, 112 yards on 17 carries. Isom had 7 catches for 89 yards. Malcolm McCain made 11 tackles, and we didn't turn it over once. Goat: discipline. Thirteen penalties for 104 yards is how you lose a game you led by two scores. And Morrow caught 12 balls for 199 yards against us. Nobody had an answer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our three-game win streak is over, and according to our own series history this is Buffalo's first win in Oxford since Oct. 29, 2015. We're 5-4 and 3-2 in the MAC. Buffalo won the fourth quarter 15-7, and that tells you everything."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next: Ohio comes to Yager Stadium on Tuesday, Nov. 10, 8 PM ET on ESPN2. Battle of the Bricks, and the Bobcats are 5-0 in the league. Clean it up, play all four quarters, and send them home mad."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Miami (OH) lost to Buffalo 34-31 in overtime on Tuesday, Nov. 3, at Yager Stadium after leading 31-16 with 12:01 left. The RedHawks are 5-4 and 3-2 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "D'Shawntae Jones ran for 112 yards, Braylon Isom caught a 21-yard touchdown, and Kellan McLaughlin missed field goals from 42 and 45 yards, the second one in overtime."
+        },
+        {
+          "type": "jab",
+          "text": "Thirteen penalties for 104 yards. The flags got more work than our kicker."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Ohio, Tuesday, Nov. 10, 8 PM ET, Yager Stadium, on ESPN2."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Buffalo 34, Miami (OH) 31, OT (Nov. 3, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866454"
+        },
+        {
+          "label": "ESPN play-by-play, Buffalo at Miami (OH)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866454"
+        },
+        {
+          "label": "Miami RedHawks official box score and play-by-play, Buffalo 34, Miami 31",
+          "url": "https://miamiredhawks.com/sports/football/stats/2026/buffalo/boxscore/20844"
+        },
+        {
+          "label": "Miami RedHawks: Buffalo game preview and notes (Oct. 29, 2026)",
+          "url": "https://miamiredhawks.com/news/2026/10/29/football-redhawks-put-win-streak-on-the-line-versus-buffalo-on-tuesday"
+        },
+        {
+          "label": "Miami RedHawks: football history vs. Buffalo",
+          "url": "https://miamiredhawks.com/sports/football/opponent-history/buffalo/18"
+        },
+        {
+          "label": "Miami RedHawks: Nov. 10 contest versus Ohio moved to 8 PM",
+          "url": "https://miamiredhawks.com/news/2026/10/31/football-time-change-nov-10-contest-versus-ohio-moved-to-8-pm"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-buffalo-2026-11-03",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "buffalo",
+      "team_ids": [
+        "buffalo"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866454",
+      "title": "Buffalo vs Miami (OH): Bulls Erase 15-Point Hole, Win in OT",
+      "byline": "Kendra Woolcott, The Buffalo Fanatic",
+      "matchup": "Final (OT): Buffalo Bulls (6-3) 34, Miami (OH) RedHawks (5-4) 31, Tue., Nov. 3, Yager Stadium, Oxford. Next: at Ball State, date and time TBD, Scheumann Stadium, Muncie",
+      "date": "2026-11-03",
+      "word_count": 375,
+      "text": "Buffalo 34, Miami (OH) 31 in overtime, and I don't care how many times we nearly threw it away. Down 15 with 12 minutes left in Oxford, we came all the way back. Weather report from the official box: 66 degrees and cloudy. Shorts weather. Earned it.\n\nLet's be honest about the first three quarters. Miami blocked an Ethan Stumpf punt and scored on it on the first series of the second half. Jason Wright threw an interception at the Miami 1, then another one four minutes later. Oliver Hautanen missed an extra point. When Scoop Smith ran it in from 6 at 12:01 of the fourth, it was 31-16 and the RedHawks were already planning the party.\n\nThen Chance Morrow took over. On fourth-and-6, Wright found him for 28 yards. On fourth-and-1, Wright ran it himself. Morrow caught a 4-yarder for the score and converted the two-point try. 31-24 with 8:56 left.\n\nThe defense did its part. Will Clark sacked Caleb Heavner on third down and Miami had to punt it away. Then Wright went 80 yards in 12 plays. Dwayne Early Jr. caught balls for 14 and 19, Miami drew two interference flags, and Wright ran it in from 2 on third-and-goal. 31-31 with 1:35 left. Clark sacked Heavner again on the next series for good measure.\n\nOvertime, we had it first. Third-and-10, Wright hit Early for 12. Hautanen, who missed that extra point, came back and drilled a 27-yarder. Miami went nowhere, committed a false start on fourth down, and Kellan McLaughlin's 45-yard try sailed no good. Ballgame.\n\nGame ball: Morrow, 12 catches, 199 yards, 2 touchdowns. Wright threw for 358 yards, ran for two scores and never blinked after those interceptions. Clark had 2 sacks, Sedrick Vessah had 1.5, and Ronnell Davis led us with 9 tackles. Goat: the two interceptions, one of them at the Miami 1, and the blocked punt that handed Miami seven free points.\n\nWe won the fourth quarter 15-7. We're 6-3 and 4-1 in the MAC, and according to Miami's own series history this is Buffalo's first win in Oxford since Oct. 29, 2015.\n\nNext: at Ball State in Muncie. ESPN still lists the date and kickoff as TBD. Bring a parka and a big blitz.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Buffalo 34, Miami (OH) 31 in overtime, and I don't care how many times we nearly threw it away. Down 15 with 12 minutes left in Oxford, we came all the way back. Weather report from the official box: 66 degrees and cloudy. Shorts weather. Earned it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let's be honest about the first three quarters. Miami blocked an Ethan Stumpf punt and scored on it on the first series of the second half. Jason Wright threw an interception at the Miami 1, then another one four minutes later. Oliver Hautanen missed an extra point. When Scoop Smith ran it in from 6 at 12:01 of the fourth, it was 31-16 and the RedHawks were already planning the party."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Chance Morrow took over. On fourth-and-6, Wright found him for 28 yards. On fourth-and-1, Wright ran it himself. Morrow caught a 4-yarder for the score and converted the two-point try. 31-24 with 8:56 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense did its part. Will Clark sacked Caleb Heavner on third down and Miami had to punt it away. Then Wright went 80 yards in 12 plays. Dwayne Early Jr. caught balls for 14 and 19, Miami drew two interference flags, and Wright ran it in from 2 on third-and-goal. 31-31 with 1:35 left. Clark sacked Heavner again on the next series for good measure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Overtime, we had it first. Third-and-10, Wright hit Early for 12. Hautanen, who missed that extra point, came back and drilled a 27-yarder. Miami went nowhere, committed a false start on fourth down, and Kellan McLaughlin's 45-yard try sailed no good. Ballgame."
+        },
+        {
+          "type": "paragraph",
+          "text": "Game ball: Morrow, 12 catches, 199 yards, 2 touchdowns. Wright threw for 358 yards, ran for two scores and never blinked after those interceptions. Clark had 2 sacks, Sedrick Vessah had 1.5, and Ronnell Davis led us with 9 tackles. Goat: the two interceptions, one of them at the Miami 1, and the blocked punt that handed Miami seven free points."
+        },
+        {
+          "type": "paragraph",
+          "text": "We won the fourth quarter 15-7. We're 6-3 and 4-1 in the MAC, and according to Miami's own series history this is Buffalo's first win in Oxford since Oct. 29, 2015."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next: at Ball State in Muncie. ESPN still lists the date and kickoff as TBD. Bring a parka and a big blitz."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Buffalo beat Miami (OH) 34-31 in overtime on Tuesday, Nov. 3, at Yager Stadium. The Bulls are 6-3 and 4-1 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Buffalo trailed 31-16 with 12:01 left. Chance Morrow caught 12 balls for 199 yards and 2 touchdowns, Jason Wright tied it with a 2-yard run at 1:35, and Oliver Hautanen won it with a 27-yard field goal in overtime."
+        },
+        {
+          "type": "jab",
+          "text": "Miami had 13 penalties for 104 yards, including a false start on fourth down in overtime. Kendra appreciates the hospitality."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Ball State, Scheumann Stadium, Muncie. Date and kickoff TBD on ESPN's schedule."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Buffalo 34, Miami (OH) 31, OT (Nov. 3, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866454"
+        },
+        {
+          "label": "ESPN play-by-play, Buffalo at Miami (OH)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866454"
+        },
+        {
+          "label": "Miami RedHawks official box score and play-by-play, Buffalo 34, Miami 31",
+          "url": "https://miamiredhawks.com/sports/football/stats/2026/buffalo/boxscore/20844"
+        },
+        {
+          "label": "Miami RedHawks: football history vs. Buffalo",
+          "url": "https://miamiredhawks.com/sports/football/opponent-history/buffalo/18"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-akron-2026-11-03",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "akron",
+      "team_ids": [
+        "akron"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866453",
+      "title": "Akron vs Ohio: Zips Outgain the MAC Leaders, Lose to Big Plays",
+      "byline": "Hollister 'Zip' Grubbs, The Akron Fanatic",
+      "matchup": "Final: Ohio Bobcats (7-2) 28, Akron Zips (1-8) 20, Tue., Nov. 3, InfoCision Stadium, Akron. Next: vs Western Michigan, Tue., Nov. 10, 7:00 PM ET, InfoCision Stadium, Akron",
+      "date": "2026-11-03",
+      "word_count": 358,
+      "text": "Ohio 28, Akron 20. We had the MAC leaders on the ropes Tuesday night at InfoCision Stadium, and three big plays knocked us back down. We're 1-8 and 0-5 in the league, and this one stings worse than most of them.\n\nLook at the sheet. We ran 79 plays, piled up 392 yards, had 26 first downs to Ohio's 12 and held the ball for 35:46. Cibastian Broughton made his first start since getting hurt at Minnesota on Sept. 19 and went 22 of 34 for 232 yards. Jordan Gant ran for 112 yards on 16 carries. That's a team that came to fight.\n\nAnd then the tires blew. DJ Walker jumped a Broughton throw and went 45 yards for a score with nine seconds left in the first quarter. That was Ohio's only first-half touchdown, and our offense gave it to them.\n\nThe defense kept us alive. Donelius Johnson recovered a Nick Poulos fumble at the Ohio 32, and Aidan Stire turned it into a 24-yard field goal for a 9-7 lead. Stire was 4 of 5 on the night, good from 42, 47, 24 and 43.\n\nThe fourth quarter is where this one hurts. Down 14-9, we went 77 yards in 12 plays, Gant punched it in from a yard out and Broughton hit Marcel Williams for two. Akron 17-14 with 9:35 left. The place was rocking. Thirteen seconds later Poulos hit Dom Dorwart for 60 yards, and it was 21-17 Ohio.\n\nWe answered again, 57 yards to the Ohio 9. Fourth down came up short, turnover on downs at 4:11. Next snap, Duncan Brune went 91 yards. Two plays, two drives, two gut punches. 28-17.\n\nGame ball to Gant, who keeps running hard every week. Johnson had 9 tackles and 2 tackles for loss and set up points with that fumble recovery. Goat: the big play, again. Ohio scored on plays of 45, 60 and 91 yards. Take those away and we're talking about something else this morning.\n\nNext: Western Michigan comes to InfoCision Stadium on Tuesday, Nov. 10, 7 PM ET on CBS Sports Network. Same plan, fewer leaks. Check the tread and roll.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ohio 28, Akron 20. We had the MAC leaders on the ropes Tuesday night at InfoCision Stadium, and three big plays knocked us back down. We're 1-8 and 0-5 in the league, and this one stings worse than most of them."
+        },
+        {
+          "type": "paragraph",
+          "text": "Look at the sheet. We ran 79 plays, piled up 392 yards, had 26 first downs to Ohio's 12 and held the ball for 35:46. Cibastian Broughton made his first start since getting hurt at Minnesota on Sept. 19 and went 22 of 34 for 232 yards. Jordan Gant ran for 112 yards on 16 carries. That's a team that came to fight."
+        },
+        {
+          "type": "paragraph",
+          "text": "And then the tires blew. DJ Walker jumped a Broughton throw and went 45 yards for a score with nine seconds left in the first quarter. That was Ohio's only first-half touchdown, and our offense gave it to them."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense kept us alive. Donelius Johnson recovered a Nick Poulos fumble at the Ohio 32, and Aidan Stire turned it into a 24-yard field goal for a 9-7 lead. Stire was 4 of 5 on the night, good from 42, 47, 24 and 43."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fourth quarter is where this one hurts. Down 14-9, we went 77 yards in 12 plays, Gant punched it in from a yard out and Broughton hit Marcel Williams for two. Akron 17-14 with 9:35 left. The place was rocking. Thirteen seconds later Poulos hit Dom Dorwart for 60 yards, and it was 21-17 Ohio."
+        },
+        {
+          "type": "paragraph",
+          "text": "We answered again, 57 yards to the Ohio 9. Fourth down came up short, turnover on downs at 4:11. Next snap, Duncan Brune went 91 yards. Two plays, two drives, two gut punches. 28-17."
+        },
+        {
+          "type": "paragraph",
+          "text": "Game ball to Gant, who keeps running hard every week. Johnson had 9 tackles and 2 tackles for loss and set up points with that fumble recovery. Goat: the big play, again. Ohio scored on plays of 45, 60 and 91 yards. Take those away and we're talking about something else this morning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next: Western Michigan comes to InfoCision Stadium on Tuesday, Nov. 10, 7 PM ET on CBS Sports Network. Same plan, fewer leaks. Check the tread and roll."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Akron lost to Ohio 28-20 on Tuesday, Nov. 3, at InfoCision Stadium and fell to 1-8, 0-5 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Jordan Gant ran for 112 yards and a touchdown, Cibastian Broughton threw for 232 yards in his first start since Sept. 19, and Aidan Stire made 4 of 5 field goals."
+        },
+        {
+          "type": "jab",
+          "text": "Akron had 26 first downs to Ohio's 12. Ohio just needed three plays of 45, 60 and 91 yards. Efficient. Annoying."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Western Michigan, Tuesday, Nov. 10, 7 PM ET, InfoCision Stadium, on CBS Sports Network."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Ohio 28, Akron 20 (Nov. 3, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866453"
+        },
+        {
+          "label": "ESPN game recap (AP): Duncan Brune's 91-yard touchdown rallies Ohio over Akron 28-20",
+          "url": "https://www.espn.com/college-football/recap?gameId=401866453"
+        },
+        {
+          "label": "Akron Athletics: Akron Pushes MAC-Leading Ohio Before Falling 28-20 on Tuesday Night",
+          "url": "https://gozips.com/news/2026/11/3/football-akron-pushes-mac-leading-ohio-before-falling-28-20-on-tuesday-night"
+        },
+        {
+          "label": "AP: Ohio answers Akron rally, 28-20",
+          "url": "https://apnews.com/article/ohio-akron-score-59508397a99665748b2db5284bff1477"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ohio-2026-11-03",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "ohio",
+      "team_ids": [
+        "ohio"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866453",
+      "title": "Ohio vs Akron: Brune Goes 91 and the Bobcats Hit 5-0 in the MAC",
+      "byline": "Penny Trautman, The Ohio Fanatic",
+      "matchup": "Final: Ohio Bobcats (7-2) 28, Akron Zips (1-8) 20, Tue., Nov. 3, InfoCision Stadium, Akron. Next: at Miami (OH), Tue., Nov. 10, 8:00 PM ET, Yager Stadium, Oxford",
+      "date": "2026-11-03",
+      "word_count": 383,
+      "text": "Ohio 28, Akron 20, and we are 5-0 in the MAC. Ohio Athletics says that is the first 5-0 start in league play since 1997. Tuesday night at InfoCision Stadium was a slog for three quarters, then it turned into a track meet, and we won the race.\n\nThe first half was ugly. Akron's Aidan Stire hit from 42 and 47, and our offense did nothing. The only points we had came from DJ Walker, who jumped a Cibastian Broughton throw and took it 45 yards to the house with nine seconds left in the first quarter. That made it 7-3, and we went to the locker room up 7-6. Lucky to be there.\n\nIt got worse before it got better. Nick Poulos got sacked and fumbled, Donelius Johnson fell on it at our 32, and Stire made it 9-7 Akron. Poulos answered like a grown man: a 36-yard strike to Dom Dorwart, then a 5-yard run of his own. 14-9.\n\nThen came the stretch that wins conference titles. Akron marched 77 yards in 12 plays, Jordan Gant scored from a yard out, Broughton hit Marcel Williams for two, and the Zips led 17-14 with 9:35 left. That lead lasted 13 seconds. First snap after the kickoff, Poulos hit Dorwart over the middle and he took it 60 yards to the house. 21-17. Gone.\n\nAkron kept coming, all the way to our 9, and the defense stuffed them on fourth down with 4:11 left. Next snap, Duncan Brune went 91 yards up the middle. Ninety-one. Ohio Athletics calls it the fourth-longest touchdown in school history. 28-17, ballgame. Stire's 43-yarder at 1:56 only changed the final.\n\nGame ball goes to Brune, 111 yards on 10 carries. Dorwart had 4 catches for 108. Michael Molnar was everywhere with 16 tackles and a sack, and Jack Fries added 10.\n\nNow the hard truth. We converted 3-9 on third down, took 8 penalties for 88 yards, and Akron had the ball for 35:46 with 26 first downs to our 12. You don't get away with that every week, and next week is not Akron.\n\nNext up: Miami (OH) in Oxford, Tuesday, Nov. 10, 8 PM ET on ESPN2. Battle of the Bricks. We are 7-2 and sitting alone at the top of the MAC. Bring the noise.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ohio 28, Akron 20, and we are 5-0 in the MAC. Ohio Athletics says that is the first 5-0 start in league play since 1997. Tuesday night at InfoCision Stadium was a slog for three quarters, then it turned into a track meet, and we won the race."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half was ugly. Akron's Aidan Stire hit from 42 and 47, and our offense did nothing. The only points we had came from DJ Walker, who jumped a Cibastian Broughton throw and took it 45 yards to the house with nine seconds left in the first quarter. That made it 7-3, and we went to the locker room up 7-6. Lucky to be there."
+        },
+        {
+          "type": "paragraph",
+          "text": "It got worse before it got better. Nick Poulos got sacked and fumbled, Donelius Johnson fell on it at our 32, and Stire made it 9-7 Akron. Poulos answered like a grown man: a 36-yard strike to Dom Dorwart, then a 5-yard run of his own. 14-9."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the stretch that wins conference titles. Akron marched 77 yards in 12 plays, Jordan Gant scored from a yard out, Broughton hit Marcel Williams for two, and the Zips led 17-14 with 9:35 left. That lead lasted 13 seconds. First snap after the kickoff, Poulos hit Dorwart over the middle and he took it 60 yards to the house. 21-17. Gone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akron kept coming, all the way to our 9, and the defense stuffed them on fourth down with 4:11 left. Next snap, Duncan Brune went 91 yards up the middle. Ninety-one. Ohio Athletics calls it the fourth-longest touchdown in school history. 28-17, ballgame. Stire's 43-yarder at 1:56 only changed the final."
+        },
+        {
+          "type": "paragraph",
+          "text": "Game ball goes to Brune, 111 yards on 10 carries. Dorwart had 4 catches for 108. Michael Molnar was everywhere with 16 tackles and a sack, and Jack Fries added 10."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the hard truth. We converted 3-9 on third down, took 8 penalties for 88 yards, and Akron had the ball for 35:46 with 26 first downs to our 12. You don't get away with that every week, and next week is not Akron."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: Miami (OH) in Oxford, Tuesday, Nov. 10, 8 PM ET on ESPN2. Battle of the Bricks. We are 7-2 and sitting alone at the top of the MAC. Bring the noise."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Ohio beat Akron 28-20 on Tuesday, Nov. 3, at InfoCision Stadium. The Bobcats are 7-2 and 5-0 in the MAC, their first 5-0 league start since 1997."
+        },
+        {
+          "type": "fact",
+          "text": "Duncan Brune ran for 111 yards on 10 carries, including a 91-yard touchdown with 3:57 left, and Dom Dorwart caught a 60-yard touchdown 13 seconds after Akron took a 17-14 lead."
+        },
+        {
+          "type": "jab",
+          "text": "Akron led for exactly 13 seconds in the fourth quarter. That's not a lead. That's a rumor."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Miami (OH), Tuesday, Nov. 10, 8 PM ET, Yager Stadium, on ESPN2."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Ohio 28, Akron 20 (Nov. 3, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866453"
+        },
+        {
+          "label": "ESPN game recap (AP): Duncan Brune's 91-yard touchdown rallies Ohio over Akron 28-20",
+          "url": "https://www.espn.com/college-football/recap?gameId=401866453"
+        },
+        {
+          "label": "Ohio Athletics: Ohio Football Wins on the Road at Akron",
+          "url": "https://ohiobobcats.com/news/2026/11/3/ohio-football-wins-on-the-road-at-akron"
+        },
+        {
+          "label": "AP: Ohio answers Akron rally, 28-20",
+          "url": "https://apnews.com/article/ohio-akron-score-59508397a99665748b2db5284bff1477"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
     {
       "id": "fanatic_team-sea",
       "kind": "fanatic_team",
