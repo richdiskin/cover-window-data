@@ -252,7 +252,57 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/jax and https://www.espn.com/nfl/team/_/name/bal, retrieved Nov 3, 12:15 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Jacksonville Jaguars",
+     "player": "Trevor Lawrence",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873037"
+    },
+    {
+     "team": "Jacksonville Jaguars",
+     "player": "Bhayshul Tuten",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873037"
+    },
+    {
+     "team": "Baltimore Ravens",
+     "player": "Lamar Jackson",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873037"
+    },
+    {
+     "team": "Baltimore Ravens",
+     "player": "Derrick Henry",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873037"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "mmCcATwekBI",
+     "title": "King Henry things #ravens #nfl #highlights",
+     "label": "Derrick Henry highlights",
+     "channel": "Baltimore Ravens",
+     "channel_id": "UCbpj2JAUMb8G_oQQFPeGrhg",
+     "published": "2026-10-04",
+     "duration_s": 15,
+     "thumb": "https://i.ytimg.com/vi/mmCcATwekBI/hqdefault.jpg",
+     "kind": "player",
+     "player": "Derrick Henry",
+     "team": "Baltimore Ravens",
+     "player_basis": "ESPN season leader, rushing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873038",
@@ -498,7 +548,38 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/cin and https://www.espn.com/nfl/team/_/name/atl, retrieved Nov 3, 12:15 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Cincinnati Bengals",
+     "player": "Joe Burrow",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873038"
+    },
+    {
+     "team": "Cincinnati Bengals",
+     "player": "Tee Higgins",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873038"
+    },
+    {
+     "team": "Atlanta Falcons",
+     "player": "Michael Penix Jr.",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873038"
+    },
+    {
+     "team": "Atlanta Falcons",
+     "player": "Bijan Robinson",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873038"
+    }
+   ],
+   "videos": []
   },
   {
    "game_id": "401873040",
@@ -744,7 +825,38 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/dal and https://www.espn.com/nfl/team/_/name/ind, retrieved Nov 3, 12:15 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Dallas Cowboys",
+     "player": "Dak Prescott",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873040"
+    },
+    {
+     "team": "Dallas Cowboys",
+     "player": "CeeDee Lamb",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873040"
+    },
+    {
+     "team": "Indianapolis Colts",
+     "player": "Daniel Jones",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873040"
+    },
+    {
+     "team": "Indianapolis Colts",
+     "player": "Jonathan Taylor",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873040"
+    }
+   ],
+   "videos": []
   },
   {
    "game_id": "401873045",
@@ -990,7 +1102,57 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/nyj and https://www.espn.com/nfl/team/_/name/kc, retrieved Nov 3, 12:15 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "New York Jets",
+     "player": "Geno Smith",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873045"
+    },
+    {
+     "team": "New York Jets",
+     "player": "Braelon Allen",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873045"
+    },
+    {
+     "team": "Kansas City Chiefs",
+     "player": "Patrick Mahomes",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873045"
+    },
+    {
+     "team": "Kansas City Chiefs",
+     "player": "Kenneth Walker III",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873045"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "RhZtLXr3fBA",
+     "title": "321 YARDS & 3 TDs FOR GENO SMITH  | Best Plays vs. Lions",
+     "label": "Geno Smith highlights",
+     "channel": "New York Jets",
+     "channel_id": "UCROj9vBjc4ZW3AL4cd_BjHg",
+     "published": "2026-09-28",
+     "duration_s": 224,
+     "thumb": "https://i.ytimg.com/vi/RhZtLXr3fBA/hqdefault.jpg",
+     "kind": "player",
+     "player": "Geno Smith",
+     "team": "New York Jets",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873042",
@@ -1236,7 +1398,38 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/det and https://www.espn.com/nfl/team/_/name/mia, retrieved Nov 3, 12:15 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Detroit Lions",
+     "player": "Jared Goff",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873042"
+    },
+    {
+     "team": "Detroit Lions",
+     "player": "Jahmyr Gibbs",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873042"
+    },
+    {
+     "team": "Miami Dolphins",
+     "player": "Malik Willis",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873042"
+    },
+    {
+     "team": "Miami Dolphins",
+     "player": "Ollie Gordon II",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873042"
+    }
+   ],
+   "videos": []
   },
   {
    "game_id": "401873039",
@@ -1482,7 +1675,75 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/cle and https://www.espn.com/nfl/team/_/name/no, retrieved Nov 3, 12:15 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Cleveland Browns",
+     "player": "Deshaun Watson",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873039"
+    },
+    {
+     "team": "Cleveland Browns",
+     "player": "Harold Fannin Jr.",
+     "position": "TE",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873039"
+    },
+    {
+     "team": "New Orleans Saints",
+     "player": "Tyler Shough",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873039"
+    },
+    {
+     "team": "New Orleans Saints",
+     "player": "Chris Olave",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873039"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "E0n5ZXHuFk4",
+     "title": "Saints Highlights vs. Steelers | 2026 NFL Paris Game",
+     "label": "Saints's last game: vs. Steelers",
+     "channel": "New Orleans Saints",
+     "channel_id": "UCwuddf1JrodMlc5fYpVlrQA",
+     "published": "2026-10-25",
+     "duration_s": 175,
+     "thumb": "https://i.ytimg.com/vi/E0n5ZXHuFk4/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "New Orleans Saints",
+     "opponent": "Pittsburgh Steelers",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "4ODKECvx5DA",
+     "title": "Chris Olave on Kellen Moore's TD Play Call vs. Ravens",
+     "label": "Chris Olave highlights",
+     "channel": "New Orleans Saints",
+     "channel_id": "UCwuddf1JrodMlc5fYpVlrQA",
+     "published": "2026-09-20",
+     "duration_s": 17,
+     "thumb": "https://i.ytimg.com/vi/4ODKECvx5DA/hqdefault.jpg",
+     "kind": "player",
+     "player": "Chris Olave",
+     "team": "New Orleans Saints",
+     "player_basis": "ESPN season leader, receiving yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873044",
@@ -1728,7 +1989,72 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/nyg and https://www.espn.com/nfl/team/_/name/phi, retrieved Nov 3, 12:15 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "New York Giants",
+     "player": "Jameis Winston",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873044"
+    },
+    {
+     "team": "New York Giants",
+     "player": "Malik Nabers",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873044"
+    },
+    {
+     "team": "Philadelphia Eagles",
+     "player": "Jalen Hurts",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873044"
+    },
+    {
+     "team": "Philadelphia Eagles",
+     "player": "DeVonta Smith",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873044"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "WR4QN40pDoM",
+     "title": "Giants vs Eagles | 2023 Week 16 Highlights",
+     "label": "Last meeting: Giants vs. Eagles",
+     "channel": "Philadelphia Eagles",
+     "channel_id": "UCaogx6OHpsGg0zuGRKsjbtQ",
+     "published": "2023-12-25",
+     "duration_s": 492,
+     "thumb": "https://i.ytimg.com/vi/WR4QN40pDoM/hqdefault.jpg",
+     "kind": "matchup",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "62gG36TVMsY",
+     "title": "TOP Highlights from OT WIN over Texans ‼️ #shorts #highlights #nygiants #giants #nfl",
+     "label": "Giants's last game: vs. Texans",
+     "channel": "New York Giants",
+     "channel_id": "UCk2FqoG8dN5EAz5WU3A0D7A",
+     "published": "2026-10-25",
+     "duration_s": 68,
+     "thumb": "https://i.ytimg.com/vi/62gG36TVMsY/hqdefault.jpg",
+     "kind": "team_recent",
+     "team": "New York Giants",
+     "opponent": "Houston Texans",
+     "game_date": "2026-10-25",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873043",
@@ -1974,7 +2300,38 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/lar and https://www.espn.com/nfl/team/_/name/wsh, retrieved Nov 3, 12:15 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Los Angeles Rams",
+     "player": "Matthew Stafford",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873043"
+    },
+    {
+     "team": "Los Angeles Rams",
+     "player": "Puka Nacua",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873043"
+    },
+    {
+     "team": "Washington Commanders",
+     "player": "Jayden Daniels",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873043"
+    },
+    {
+     "team": "Washington Commanders",
+     "player": "Antonio Williams",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873043"
+    }
+   ],
+   "videos": []
   },
   {
    "game_id": "401873041",
@@ -2220,7 +2577,75 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/den and https://www.espn.com/nfl/team/_/name/car, retrieved Nov 3, 12:15 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Denver Broncos",
+     "player": "Bo Nix",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873041"
+    },
+    {
+     "team": "Denver Broncos",
+     "player": "Jaylen Waddle",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873041"
+    },
+    {
+     "team": "Carolina Panthers",
+     "player": "Bryce Young",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873041"
+    },
+    {
+     "team": "Carolina Panthers",
+     "player": "Tetairoa McMillan",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873041"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "od2EofGLEtI",
+     "title": "Bullet Bo on the move 💨 #nfl #broncos #bonix #mariokart #highlight",
+     "label": "Bo Nix highlights",
+     "channel": "Denver Broncos",
+     "channel_id": "UCDGdBexlDZA8T7hnweWWyow",
+     "published": "2026-10-27",
+     "duration_s": 13,
+     "thumb": "https://i.ytimg.com/vi/od2EofGLEtI/hqdefault.jpg",
+     "kind": "player",
+     "player": "Bo Nix",
+     "team": "Denver Broncos",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "QED39BpC6UM",
+     "title": "Tetairoa McMillan: 'If You See This Face, That Means I Scored' | Carolina Panthers",
+     "label": "Tetairoa McMillan highlights",
+     "channel": "Carolina Panthers",
+     "channel_id": "UC6vl4XAyO5mZLczhFC8MgpA",
+     "published": "2026-10-04",
+     "duration_s": 470,
+     "thumb": "https://i.ytimg.com/vi/QED39BpC6UM/hqdefault.jpg",
+     "kind": "player",
+     "player": "Tetairoa McMillan",
+     "team": "Carolina Panthers",
+     "player_basis": "ESPN season leader, receiving yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873046",
@@ -2466,7 +2891,31 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/hou and https://www.espn.com/nfl/team/_/name/lac, retrieved Nov 3, 12:15 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Houston Texans",
+     "player": "C.J. Stroud",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873046"
+    },
+    {
+     "team": "Los Angeles Chargers",
+     "player": "Justin Herbert",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873046"
+    },
+    {
+     "team": "Los Angeles Chargers",
+     "player": "Omarion Hampton",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873046"
+    }
+   ],
+   "videos": []
   },
   {
    "game_id": "401873049",
@@ -2712,7 +3161,57 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/gb and https://www.espn.com/nfl/team/_/name/ne, retrieved Nov 3, 12:15 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Green Bay Packers",
+     "player": "Jordan Love",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873049"
+    },
+    {
+     "team": "Green Bay Packers",
+     "player": "Christian Watson",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873049"
+    },
+    {
+     "team": "New England Patriots",
+     "player": "Drake Maye",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873049"
+    },
+    {
+     "team": "New England Patriots",
+     "player": "Rhamondre Stevenson",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873049"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "0KV7pAHXWZU",
+     "title": "Jordan Love Throws 3 TDs as Packers top Panthers on Thursday Night Football",
+     "label": "Jordan Love highlights",
+     "channel": "CBS Sports",
+     "channel_id": "UCja8sZ2T4ylIqjggA1Zuukg",
+     "published": "2026-10-29",
+     "duration_s": 976,
+     "thumb": "https://i.ytimg.com/vi/0KV7pAHXWZU/hqdefault.jpg",
+     "kind": "player",
+     "player": "Jordan Love",
+     "team": "Green Bay Packers",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873047",
@@ -2958,7 +3457,38 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/lv and https://www.espn.com/nfl/team/_/name/sf, retrieved Nov 3, 12:15 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Las Vegas Raiders",
+     "player": "Kirk Cousins",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873047"
+    },
+    {
+     "team": "Las Vegas Raiders",
+     "player": "Brock Bowers",
+     "position": "TE",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873047"
+    },
+    {
+     "team": "San Francisco 49ers",
+     "player": "Brock Purdy",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873047"
+    },
+    {
+     "team": "San Francisco 49ers",
+     "player": "George Kittle",
+     "position": "TE",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873047"
+    }
+   ],
+   "videos": []
   },
   {
    "game_id": "401873048",
@@ -3204,7 +3734,38 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/ari and https://www.espn.com/nfl/team/_/name/sea, retrieved Nov 3, 12:15 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Arizona Cardinals",
+     "player": "Jacoby Brissett",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873048"
+    },
+    {
+     "team": "Arizona Cardinals",
+     "player": "Trey McBride",
+     "position": "TE",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873048"
+    },
+    {
+     "team": "Seattle Seahawks",
+     "player": "Sam Darnold",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873048"
+    },
+    {
+     "team": "Seattle Seahawks",
+     "player": "Jaxon Smith-Njigba",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873048"
+    }
+   ],
+   "videos": []
   },
   {
    "game_id": "401873050",
@@ -3450,7 +4011,57 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/tb and https://www.espn.com/nfl/team/_/name/chi, retrieved Nov 3, 12:15 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Tampa Bay Buccaneers",
+     "player": "Baker Mayfield",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873050"
+    },
+    {
+     "team": "Tampa Bay Buccaneers",
+     "player": "Bucky Irving",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873050"
+    },
+    {
+     "team": "Chicago Bears",
+     "player": "Caleb Williams",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873050"
+    },
+    {
+     "team": "Chicago Bears",
+     "player": "Luther Burden III",
+     "position": "WR",
+     "basis": "ESPN season leader, receiving yards",
+     "source": "ESPN game summary, event 401873050"
+    }
+   ],
+   "videos": [
+    {
+     "youtube_id": "w2MxMoV0VAc",
+     "title": "Tampa Terrence & Baker Mayfield would run the pong table 😮‍💨🏓🎉: Bud Light #bakermayfield",
+     "label": "Baker Mayfield highlights",
+     "channel": "Tampa Bay Buccaneers",
+     "channel_id": "UC0Wwu7r1ybaaR09ANhudTzA",
+     "published": "2026-10-31",
+     "duration_s": 45,
+     "thumb": "https://i.ytimg.com/vi/w2MxMoV0VAc/hqdefault.jpg",
+     "kind": "player",
+     "player": "Baker Mayfield",
+     "team": "Tampa Bay Buccaneers",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873051",
@@ -3697,7 +4308,38 @@
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/buf and https://www.espn.com/nfl/team/_/name/min, retrieved Nov 3, 12:15 PM ET"
    ],
-   "locked": false
+   "locked": false,
+   "key_players": [
+    {
+     "team": "Buffalo Bills",
+     "player": "Josh Allen",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873051"
+    },
+    {
+     "team": "Buffalo Bills",
+     "player": "James Cook III",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873051"
+    },
+    {
+     "team": "Minnesota Vikings",
+     "player": "Kyler Murray",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401873051"
+    },
+    {
+     "team": "Minnesota Vikings",
+     "player": "Aaron Jones Sr.",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401873051"
+    }
+   ],
+   "videos": []
   }
  ],
  "variant": "A"
