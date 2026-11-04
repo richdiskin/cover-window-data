@@ -1955,7 +1955,7 @@
       "side_line": "Side: Massachusetts Minutemen −2.5 · Likes this side",
       "ou_line": "O/U: Over 48.5 · Likes this total",
       "score_line": "Projected: Massachusetts Minutemen 31, Ball State Cardinals 21 (Total 52)",
-      "basis_line": "With the players available: projected points Ball State Cardinals 20.6, Massachusetts Minutemen 31.5. Availability: the MAC availability report lists Massachusetts Minutemen running back Jordan Washington out, Massachusetts Minutemen wide receiver Dallas Elliott out, Massachusetts Minutemen defensive lineman Zachary Betts out, Massachusetts Minutemen tight end Matt Ogunniyi out, Massachusetts Minutemen offensive lineman Greg Klingensmith out, Ball State Cardinals defensive back Tobi Adewoyin out, Ball State Cardinals defensive back Cedric Franklin II out, Ball State Cardinals offensive lineman Blake Scriber out, Ball State Cardinals offensive lineman Ryan Eldridge out, Ball State Cardinals offensive lineman Zach Bandy out, Ball State Cardinals wide receiver Derion Talbert out, Ball State Cardinals tight end Mason Riggins out, Ball State Cardinals tight end Cole Coonrod out, Ball State Cardinals tight end Sean Ward out and Ball State Cardinals dt Kendrick Gilbert out.",
+      "basis_line": "With the players available: projected points Ball State Cardinals 20.6, Massachusetts Minutemen 31.5. Availability: the MAC availability report lists Massachusetts Minutemen running back Jordan Washington out, Massachusetts Minutemen wide receiver Dallas Elliott out, Massachusetts Minutemen defensive lineman Zachary Betts out, Massachusetts Minutemen tight end Matt Ogunniyi out, Massachusetts Minutemen offensive lineman Greg Klingensmith out, Ball State Cardinals defensive back Tobi Adewoyin out, Ball State Cardinals defensive back Cedric Franklin II out, Ball State Cardinals offensive lineman Blake Scriber out, Ball State Cardinals offensive lineman Ryan Eldridge out, Ball State Cardinals offensive lineman Zach Bandy out, Ball State Cardinals wide receiver Derion Talbert out, Ball State Cardinals tight end Mason Riggins out, Ball State Cardinals tight end Cole Coonrod out, Ball State Cardinals tight end Sean Ward out and Ball State Cardinals dt Kendrick Gilbert out. No quarterback is listed out, so no quarterback adjustment is made.",
       "independent": true,
       "distance_from_spread": 7.5,
       "distance_from_total": 3.5
@@ -1986,8 +1986,8 @@
     "line_used": {
      "home_line": "Massachusetts Minutemen −2.5",
      "total": "48.5",
-     "source": "ESPN game page odds (DraftKings), Nov 4, 2026, 6:05 PM ET",
-     "fetched_at_utc": "2026-11-04T23:05Z"
+     "source": "ESPN game page odds (DraftKings), Nov 4, 2026, 6:20 PM ET",
+     "fetched_at_utc": "2026-11-04T23:20Z"
     },
     "injuries": {
      "away": [
@@ -2099,8 +2099,8 @@
        "game_status": "Out"
       }
      ],
-     "source": "MAC availability report (Game Day, posted Nov 4, 6:00 PM ET; fetched Nov 4, 6:05 PM ET from https://app.hdintelligence.com/?source=MAC&sport=Football&conf=MAC&type=report)",
-     "fetched_at_utc": "2026-11-04T23:05Z"
+     "source": "MAC availability report (Game Day, posted Nov 4, 6:00 PM ET; fetched Nov 4, 6:20 PM ET from https://app.hdintelligence.com/?source=MAC&sport=Football&conf=MAC&type=report)",
+     "fetched_at_utc": "2026-11-04T23:20Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -2117,7 +2117,7 @@
      "score_line": "Market: Massachusetts Minutemen 26, Ball State Cardinals 23 (Total 49)",
      "spread": "Massachusetts Minutemen −2.5",
      "total": "48.5",
-     "source": "ESPN game page odds (DraftKings), Nov 4, 2026, 6:05 PM ET",
+     "source": "ESPN game page odds (DraftKings), Nov 4, 2026, 6:20 PM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "UMass Lays 2.5 to Ball State on a Wednesday Night in Amherst",
