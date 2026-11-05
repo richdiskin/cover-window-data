@@ -707,7 +707,7 @@
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "Net ratings Atlanta Falcons −2.2, Cincinnati Bengals −2.0 (nflverse play-by-play, Nov 4, 2026)",
+     "public_case": "Net grades Atlanta Falcons −2.2, Cincinnati Bengals −2 (nflverse play-by-play, Nov 4, 2026)",
      "market": "spread",
      "best_bet": false
     },
@@ -775,7 +775,7 @@
       "side_line": "Side: Atlanta Falcons +3 · Likes this side",
       "ou_line": "O/U: Under 52.5 · Likes this total",
       "score_line": "Projected: Atlanta Falcons 25, Cincinnati Bengals 24 (Total 49)",
-      "basis_line": "Net ratings Atlanta Falcons −2.2, Cincinnati Bengals −2.0 (nflverse play-by-play, Nov 4, 2026)",
+      "basis_line": "Net grades Atlanta Falcons −2.2, Cincinnati Bengals −2 (nflverse play-by-play, Nov 4, 2026)",
       "independent": true,
       "distance_from_spread": 4.0,
       "distance_from_total": 3.5
@@ -5201,7 +5201,7 @@
     "Letdown Watch: rest, travel and back-to-back road trips from nflverse schedules and results.",
     "In The Trenches: nflverse play-by-play, 2026 through Week 8 plus last season (expected points per play, success rate, designed-run yards per carry, sack rate)."
    ],
-   "page_note": "Quarterback update, Nov 4: Sam Darnold is out (quad); Drew Lock is expected to start for Seattle, with Jalen Milroe the backup. Arizona starts Gardner Minshew, with Jacoby Brissett third string.",
+   "page_note": "Quarterback update, Nov 4: Sam Darnold is out (quad); veteran quarterback Drew, the former Denver Broncos starter, is expected to start for Seattle, with Jalen Milroe the backup. Arizona starts Gardner Minshew; ESPN's Adam Schefter reported the Cardinals are trading Jacoby Brissett to Baltimore.",
    "rule_version": "170",
    "writer_total": {
     "label": "",
