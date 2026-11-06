@@ -3403,13 +3403,13 @@
     "james-madison",
     "southern-miss"
    ],
-   "spread": "James Madison Dukes −14.5",
-   "total_line": 57.5,
+   "spread": "James Madison Dukes −13.5",
+   "total_line": 58.5,
    "prediction": {
     "away_score": 36,
     "home_score": 23,
     "winner": "James Madison Dukes",
-    "covers": "Southern Miss Golden Eagles +14.5"
+    "covers": "Southern Miss Golden Eagles +13.5"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -3418,37 +3418,37 @@
    "display": {
     "writer": {
      "score_line": "Projected: James Madison Dukes 36, Southern Miss Golden Eagles 23 (Total 59)",
-     "side": "Southern Miss Golden Eagles +14.5",
-     "ou": "Over 57.5",
+     "side": "Southern Miss Golden Eagles +13.5",
+     "ou": "Over 58.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Southern Miss Golden Eagles +14.5",
-      "ou_line": "O/U: Over 57.5",
+      "side_line": "Side: Southern Miss Golden Eagles +13.5",
+      "ou_line": "O/U: Under 58.5",
       "score_line": "Projected: James Madison Dukes 35, Southern Miss Golden Eagles 23 (Total 58)",
-      "basis_line": "Net ratings James Madison Dukes 3.7, Southern Miss Golden Eagles −13.1 (ESPN Football Power Index, Nov 4, 2026)",
+      "basis_line": "Net ratings James Madison Dukes 3.7, Southern Miss Golden Eagles −13.1 (ESPN Football Power Index, Nov 5, 2026)",
       "independent": true,
-      "distance_from_spread": 2.5,
+      "distance_from_spread": 1.5,
       "distance_from_total": 0.5
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Southern Miss Golden Eagles +14.5",
-      "ou_line": "O/U: Over 57.5 · Likes this total",
-      "score_line": "Projected: James Madison Dukes 37, Southern Miss Golden Eagles 24 (Total 61)",
-      "basis_line": "With the players available: projected points James Madison Dukes 37.4, Southern Miss Golden Eagles 23.9. Availability: the Sun Belt availability report lists Southern Miss Golden Eagles offensive lineman Dante Devine probable, Southern Miss Golden Eagles defensive lineman Will Smith probable, Southern Miss Golden Eagles offensive lineman Luke Rogers probable, Southern Miss Golden Eagles offensive lineman Greg Nunnery probable, Southern Miss Golden Eagles linebacker Caleb Triplett probable, Southern Miss Golden Eagles wide receiver Jaylen Himes out, Southern Miss Golden Eagles offensive lineman Jahmir Davis out for season, Southern Miss Golden Eagles defensive back Jordan Pride out for season, Southern Miss Golden Eagles linebacker Ricky Harding out for season, Southern Miss Golden Eagles defensive lineman Jeffery Rush out for season, Southern Miss Golden Eagles running back Robert Briggs out for season, Southern Miss Golden Eagles defensive back Jeremiah Dillon out for season, James Madison Dukes wide receiver Noah Grevious questionable, James Madison Dukes defensive back Jayon Harvey out, James Madison Dukes tight end KD Mosley out, James Madison Dukes running back George Pettaway out and James Madison Dukes quarterback Tanner Vibabul out. This card makes no availability adjustment for college games, so the projection is unchanged.",
+      "side_line": "Side: James Madison Dukes −13.5",
+      "ou_line": "O/U: Over 58.5 · Likes this total",
+      "score_line": "Projected: James Madison Dukes 38, Southern Miss Golden Eagles 24 (Total 62)",
+      "basis_line": "With the players available: projected points James Madison Dukes 37.4, Southern Miss Golden Eagles 23.9. Availability: the Sun Belt availability report lists Southern Miss Golden Eagles wide receiver Jaylen Himes out, Southern Miss Golden Eagles offensive lineman Jahmir Davis out for season, Southern Miss Golden Eagles defensive back Jordan Pride out for season, Southern Miss Golden Eagles linebacker Ricky Harding out for season, Southern Miss Golden Eagles defensive lineman Jeffery Rush out for season, Southern Miss Golden Eagles running back Robert Briggs out for season, Southern Miss Golden Eagles defensive back Jeremiah Dillon out for season, James Madison Dukes defensive back Jayon Harvey out, James Madison Dukes tight end KD Mosley out, James Madison Dukes running back George Pettaway out and James Madison Dukes quarterback Tanner Vibabul out.",
       "independent": true,
-      "distance_from_spread": 1.5,
+      "distance_from_spread": 0.5,
       "distance_from_total": 3.5
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick",
-      "ou_line": "O/U: Under 57.5 · Likes this total",
+      "side_line": "Side: Southern Miss Golden Eagles +13.5 · Likes this side",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Consensus spread opened Southern Miss Golden Eagles +14.5 (Nov 3, 12:07 AM ET) and is +14.5 now. Follow The Money has no side pick. Consensus total opened 58.5 (Nov 3, 11:40 AM ET) and is 57.5 now, a 1-point move: Under. The total pick quotes the consensus total now (57.5). Lines are the Action Network consensus as of Nov 4, 10:24 PM ET; the open is the first consensus line posted after the Monday night game ended (Nov 2, 11:23 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Southern Miss Golden Eagles +14.5 (Nov 3, 12:07 AM ET) and is +13.5 now, a 1-point move. The side pick quotes the consensus spread now (Southern Miss Golden Eagles +13.5). Consensus total opened 58.5 (Nov 3, 11:40 AM ET) and is 58.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 5, 7:24 PM ET; the open is the first consensus line posted after the Monday night game ended (Nov 2, 11:23 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -3464,23 +3464,16 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "James Madison vs Southern Miss prediction, spread and over/under for Thursday: I have Southern Miss Golden Eagles +14.5 and Over 57.5, with James Madison Dukes 36, Southern Miss Golden Eagles 23 as my final. Kickoff is 8:00 PM ET at M. M. Roberts Stadium, and Hattiesburg spends the day with a photography exhibit on the Southern Miss campus before kickoff.\n\nLila Shenandoah still talks like the cheer captain she was. \"James Madison is 7-2, first in the Sun Belt East, and we score 39.1 points a game. Camden Coleman has 16 touchdown throws. Two overtime losses don't change who we are.\"\n\nDee Broussard keeps her clipboard close. \"Two overtime losses in a row, Lila. App State 34-31 and Troy 24-21. Meanwhile we won our last two, 35-31 over Louisiana and 35-21 at UL Monroe, and Steven Robinson ran for 151 yards in Monroe. We're rolling into a home night.\"\n\nHere is why I take the points. James Madison has not won since October 17. The Dukes allow just 18.9 a game, which is why they win, but the offense has gone cold late, with Coleman throwing two interceptions against Troy. Southern Miss runs the ball with Robinson, who has 728 yards and 9 touchdowns, and that shortens the night enough to keep the margin inside two scores. My 36-23 is a 13-point Dukes win, under the 14.5.\n\nThe risk is real. James Madison beat Southern Miss 32-15 in 2024, and the Golden Eagles lost 8-43 at Auburn and 20-48 to UConn this fall. A JMU defense led by Nakian Jackson, with 66 tackles, can turn this into a runaway if Landry Lyddy turns it over.\n\nOn the over/under, DraftKings opened at 56.5 and it is up to 57.5. Southern Miss gives up 31.0 a game, and George Pettaway has 824 rushing yards for the Dukes. My 36 and 23 make 59, clear of 57.5 by a point and a half.\n\nThe Formula and Next Man Up are with me on Southern Miss +14.5 and the Over, and In The Trenches has no side. The Formula has James Madison 35-23 and takes Southern Miss +14.5 with the Over. Next Man Up has James Madison 37-24, takes the Golden Eagles +14.5, and likes the Over. In The Trenches sees split run-game reads, so no side, and it reads sides only with no score this week. Follow The Money has no side pick and takes the Under 57.5. The consensus spread opened Southern Miss +14.5 and is +14.5 now, and the total opened 58.5 and is 57.5 now. Letdown Watch has no score this week.\n\nNext Man Up: \"Thirteen points, partner. Same as the column. Somebody check who's copying.\"\n\nThe Formula: \"Twelve, actually. Check the photograph before you frame it.\"\n\nLila stops at the gallery to look at the old prints. Dee tells her to enjoy the pictures, because Thursday night in Hattiesburg is not going to look the way the Dukes planned it.\n\nJames Madison Dukes 36, Southern Miss Golden Eagles 23. Southern Miss Golden Eagles cover the 14.5. Over 57.5.",
+    "story_text": "James Madison vs Southern Miss prediction, spread and over/under for Thursday: I have Southern Miss Golden Eagles +13.5 and Over 58.5, with James Madison Dukes 36, Southern Miss Golden Eagles 23 as my final. Kickoff is 8:00 PM ET at M. M. Roberts Stadium, and Hattiesburg spends the day with a photography exhibit on the Southern Miss campus before kickoff.\n\nLila Shenandoah still talks like the cheer captain she was. \"James Madison is 7-2, first in the Sun Belt East, and we score 39.1 points a game. Camden Coleman has 16 touchdown throws. Two overtime losses don't change who we are.\"\n\nDee Broussard keeps her clipboard close. \"Two overtime losses in a row, Lila. App State 34-31 and Troy 24-21. Meanwhile we won our last two, 35-31 over Louisiana and 35-21 at UL Monroe, and Steven Robinson ran for 151 yards in Monroe. We're rolling into a home night.\"\n\nHere is why I take the points. James Madison has not won since October 17. The Dukes allow just 18.9 a game, which is why they win, but the offense has gone cold late, with Coleman throwing two interceptions against Troy. Southern Miss runs the ball with Robinson, who has 728 yards and 9 touchdowns, and that shortens the night enough to keep the margin inside two scores. My 36-23 is a 13-point Dukes win, under the 13.5.\n\nThe risk is real. James Madison beat Southern Miss 32-15 in 2024, and the Golden Eagles lost 8-43 at Auburn and 20-48 to UConn this fall. A JMU defense led by Nakian Jackson, with 66 tackles, can turn this into a runaway if Landry Lyddy turns it over.\n\nOn the over/under, DraftKings opened at 56.5 and it is up to 58.5. Southern Miss gives up 31.0 a game, and George Pettaway has 824 rushing yards for the Dukes. My 36 and 23 make 59, clear of 58.5 by a half.\n\nThe room splits hard. The Formula is with me on Southern Miss +13.5 and takes the Under. Next Man Up lays James Madison −13.5 and likes the Over. In The Trenches has no side. The Formula has James Madison 35-23 and takes Southern Miss +13.5 with the Under. Next Man Up has James Madison 38-24, takes the Dukes −13.5, and likes the Over. In The Trenches sees split run-game reads, so no side, and it reads sides only with no score this week. Follow The Money likes Southern Miss +13.5 and has no total pick. The consensus spread opened Southern Miss +14.5 and is +13.5 now, and the total opened 58.5 and is 58.5 now. Letdown Watch has no score this week.\n\nNext Man Up: \"Fourteen points. I'm laying them with the Dukes.\"\n\nThe Formula: \"Twelve, and under the total. Different photograph.\"\n\nLila stops at the gallery to look at the old prints. Dee tells her to enjoy the pictures, because Thursday night in Hattiesburg is not going to look the way the Dukes planned it.\n\nJames Madison Dukes 36, Southern Miss Golden Eagles 23. Southern Miss Golden Eagles cover the 13.5. Over 58.5.",
     "fanatic_score_line": "Projected: James Madison Dukes 36, Southern Miss Golden Eagles 23 (59 combined points)",
     "line_used": {
-     "home_line": "Southern Miss Golden Eagles +14.5",
-     "total": "57.5",
-     "source": "ESPN game page odds (DraftKings), Nov 4, 2026, 10:24 PM ET",
-     "fetched_at_utc": "2026-11-05T03:24Z"
+     "home_line": "Southern Miss Golden Eagles +13.5",
+     "total": "58.5",
+     "source": "ESPN game page odds (DraftKings), Nov 5, 2026, 7:24 PM ET",
+     "fetched_at_utc": "2026-11-06T00:24Z"
     },
     "injuries": {
      "away": [
-      {
-       "player": "Noah Grevious",
-       "position": "WR",
-       "injury": "",
-       "practice_status": "",
-       "game_status": "Questionable"
-      },
       {
        "player": "Jayon Harvey",
        "position": "DB",
@@ -3511,41 +3504,6 @@
       }
      ],
      "home": [
-      {
-       "player": "Dante Devine",
-       "position": "OL",
-       "injury": "",
-       "practice_status": "",
-       "game_status": "Probable"
-      },
-      {
-       "player": "Will Smith",
-       "position": "DL",
-       "injury": "",
-       "practice_status": "",
-       "game_status": "Probable"
-      },
-      {
-       "player": "Luke Rogers",
-       "position": "OL",
-       "injury": "",
-       "practice_status": "",
-       "game_status": "Probable"
-      },
-      {
-       "player": "Greg Nunnery",
-       "position": "OL",
-       "injury": "",
-       "practice_status": "",
-       "game_status": "Probable"
-      },
-      {
-       "player": "Caleb Triplett",
-       "position": "ILB",
-       "injury": "",
-       "practice_status": "",
-       "game_status": "Probable"
-      },
       {
        "player": "Jaylen Himes",
        "position": "WR",
@@ -3596,8 +3554,8 @@
        "game_status": "Out for Season"
       }
      ],
-     "source": "Sun Belt availability report (Initial Report, posted Nov 3, 12:17 AM ET; fetched Nov 4, 10:25 PM ET from https://sunbeltsports.org/news/2025/8/11/football-availability-report-new.aspx)",
-     "fetched_at_utc": "2026-11-05T03:25Z"
+     "source": "Sun Belt availability report (Game Day Report, posted Nov 5, 10:33 AM ET; fetched Nov 5, 7:24 PM ET from https://sunbeltsports.org/news/2025/8/11/football-availability-report-new.aspx)",
+     "fetched_at_utc": "2026-11-06T00:24Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -3611,16 +3569,16 @@
     ],
     "fanatic_story": "James Madison Dukes vs Southern Miss Golden Eagles prediction for Thursday, November 5: Hattiesburg has a photography show hanging on Pearl Street, and Lila Shenandoah walked through it before dinner. Dee Broussard met her at the door, because if a Duke is going to spend a day on the Southern Miss campus, a Golden Eagle is going to give the tour.\n\nThe exhibit is called Two Photographers: Don Norris and Betty Press, at the Gallery of Art and Design in the George Hurst Building. Frozen moments, every one of them. Dee thinks that is exactly how James Madison should be remembered after Thursday night: a nice picture of a team that used to be rolling.\n\n\"Look at this one,\" Dee says, pointing at a print. \"That's the Dukes in October. Pretty. In the past.\"\n\nLila laughs, the cheer-captain laugh that carries to the top row. \"Dee, we're 7-2. We're first in the Sun Belt East. We beat Wagner 87-3. Our defense gives up 18.9 points a game. You want a photograph? Frame the scoreboard.\"\n\nDee has an answer ready. \"Two straight overtime losses, Lila. App State got you 34-31. Troy got you 24-21 in your own house. You've been staring at overtime coin flips for two weeks.\"\n\nThat one lands, and Lila knows it. Camden Coleman has been the steady hand all fall, with 1,742 yards, 16 touchdown throws and only four interceptions. But he threw two against Troy, and the Dukes needed Seth Cromwell's 135 rushing yards just to get to extra time.\n\n\"Camden's fine,\" Lila says. \"And George Pettaway is better than fine. Eight hundred twenty-four yards. Eight touchdowns. He runs like the Blue Ridge, all climb and no quit.\"\n\nSouthern Miss has its own snapshot to show off. The Golden Eagles won their last two, 35-31 over Louisiana and 35-21 at UL Monroe, and Steven Robinson carried 21 times for 151 yards in Monroe. He has 728 yards and nine touchdowns on the year. Mario Sanders leads the receivers with 44 catches for 600 yards, and Landry Lyddy has thrown for 1,326.\n\n\"Robinson is the whole show,\" Dee says. \"You can hang him in this gallery. Title it 'Gone.'\"\n\nThe defense in Hattiesburg is the question. Southern Miss gives up 31.0 points a game, and Auburn and UConn both ran away from the Golden Eagles in September. Mathis Haygood leads the team with 70 tackles and has been everywhere, but the Eagles need Jameer Lewis and his four sacks to get after Coleman early.\n\n\"If Jameer gets home twice,\" Dee says, \"Lila does her cheers in a whisper.\"\n\n\"If Jameer gets home twice,\" Lila says, \"Nakian Jackson gets home three times. Sixty-six tackles, Dee. He's going to be in Lyddy's backfield so often your kids will think he's family.\"\n\nThe history is short and it belongs to the Dukes. James Madison beat Southern Miss 32-15 in 2024, the only regular-season meeting in recent years.\n\n\"One photograph,\" Dee says. \"One. I don't hang a whole wall on one picture.\"\n\n\"You should,\" Lila says. \"It's a good one.\"\n\nFriday night, the Mannoni Performing Arts Center opens Natasha, Pierre and the Great Comet of 1812. Dee says Thursday will be its own comet, the Golden Eagles flying across the sky. Lila says comets burn up when they get too close.\n\nHere is how it shakes out. Robinson makes the home crowd loud early, and Southern Miss stays in it longer than anyone in Harrisonburg wants. But Coleman cleans it up, Pettaway wears down the Golden Eagles in the second half, and the James Madison defense gets the stops it needs. The Dukes break their two-game skid without needing another overtime.\n\nDee says she will be back at the gallery next week to choose a new print. Lila says she already has one: the final scoreboard.\n\nMy call: James Madison Dukes 36, Southern Miss Golden Eagles 23.",
     "market": {
-     "score_line": "Market: James Madison Dukes 36, Southern Miss Golden Eagles 22 (Total 58)",
-     "spread": "James Madison Dukes −14.5",
-     "total": "57.5",
-     "source": "ESPN game page odds (DraftKings), Nov 4, 2026, 10:24 PM ET",
+     "score_line": "Market: James Madison Dukes 36, Southern Miss Golden Eagles 23 (Total 59)",
+     "spread": "James Madison Dukes −13.5",
+     "total": "58.5",
+     "source": "ESPN game page odds (DraftKings), Nov 5, 2026, 7:24 PM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
-    "gambler_headline": "Southern Miss Takes 14.5 From James Madison on a Thursday Night",
+    "gambler_headline": "Southern Miss Takes 13.5 From James Madison on a Thursday Night",
     "fanatic_headline": "James Madison Invades Hattiesburg on Thursday Night to Face Southern Miss"
    },
-   "gambler_story": "James Madison vs Southern Miss prediction, spread and over/under for Thursday: I have Southern Miss Golden Eagles +14.5 and Over 57.5, with James Madison Dukes 36, Southern Miss Golden Eagles 23 as my final. Kickoff is 8:00 PM ET at M. M. Roberts Stadium, and Hattiesburg spends the day with a photography exhibit on the Southern Miss campus before kickoff.\n\nLila Shenandoah still talks like the cheer captain she was. \"James Madison is 7-2, first in the Sun Belt East, and we score 39.1 points a game. Camden Coleman has 16 touchdown throws. Two overtime losses don't change who we are.\"\n\nDee Broussard keeps her clipboard close. \"Two overtime losses in a row, Lila. App State 34-31 and Troy 24-21. Meanwhile we won our last two, 35-31 over Louisiana and 35-21 at UL Monroe, and Steven Robinson ran for 151 yards in Monroe. We're rolling into a home night.\"\n\nHere is why I take the points. James Madison has not won since October 17. The Dukes allow just 18.9 a game, which is why they win, but the offense has gone cold late, with Coleman throwing two interceptions against Troy. Southern Miss runs the ball with Robinson, who has 728 yards and 9 touchdowns, and that shortens the night enough to keep the margin inside two scores. My 36-23 is a 13-point Dukes win, under the 14.5.\n\nThe risk is real. James Madison beat Southern Miss 32-15 in 2024, and the Golden Eagles lost 8-43 at Auburn and 20-48 to UConn this fall. A JMU defense led by Nakian Jackson, with 66 tackles, can turn this into a runaway if Landry Lyddy turns it over.\n\nOn the over/under, DraftKings opened at 56.5 and it is up to 57.5. Southern Miss gives up 31.0 a game, and George Pettaway has 824 rushing yards for the Dukes. My 36 and 23 make 59, clear of 57.5 by a point and a half.\n\nThe Formula and Next Man Up are with me on Southern Miss +14.5 and the Over, and In The Trenches has no side. The Formula has James Madison 35-23 and takes Southern Miss +14.5 with the Over. Next Man Up has James Madison 37-24, takes the Golden Eagles +14.5, and likes the Over. In The Trenches sees split run-game reads, so no side, and it reads sides only with no score this week. Follow The Money has no side pick and takes the Under 57.5. The consensus spread opened Southern Miss +14.5 and is +14.5 now, and the total opened 58.5 and is 57.5 now. Letdown Watch has no score this week.\n\nNext Man Up: \"Thirteen points, partner. Same as the column. Somebody check who's copying.\"\n\nThe Formula: \"Twelve, actually. Check the photograph before you frame it.\"\n\nLila stops at the gallery to look at the old prints. Dee tells her to enjoy the pictures, because Thursday night in Hattiesburg is not going to look the way the Dukes planned it.\n\nJames Madison Dukes 36, Southern Miss Golden Eagles 23. Southern Miss Golden Eagles cover the 14.5. Over 57.5.",
+   "gambler_story": "James Madison vs Southern Miss prediction, spread and over/under for Thursday: I have Southern Miss Golden Eagles +13.5 and Over 58.5, with James Madison Dukes 36, Southern Miss Golden Eagles 23 as my final. Kickoff is 8:00 PM ET at M. M. Roberts Stadium, and Hattiesburg spends the day with a photography exhibit on the Southern Miss campus before kickoff.\n\nLila Shenandoah still talks like the cheer captain she was. \"James Madison is 7-2, first in the Sun Belt East, and we score 39.1 points a game. Camden Coleman has 16 touchdown throws. Two overtime losses don't change who we are.\"\n\nDee Broussard keeps her clipboard close. \"Two overtime losses in a row, Lila. App State 34-31 and Troy 24-21. Meanwhile we won our last two, 35-31 over Louisiana and 35-21 at UL Monroe, and Steven Robinson ran for 151 yards in Monroe. We're rolling into a home night.\"\n\nHere is why I take the points. James Madison has not won since October 17. The Dukes allow just 18.9 a game, which is why they win, but the offense has gone cold late, with Coleman throwing two interceptions against Troy. Southern Miss runs the ball with Robinson, who has 728 yards and 9 touchdowns, and that shortens the night enough to keep the margin inside two scores. My 36-23 is a 13-point Dukes win, under the 13.5.\n\nThe risk is real. James Madison beat Southern Miss 32-15 in 2024, and the Golden Eagles lost 8-43 at Auburn and 20-48 to UConn this fall. A JMU defense led by Nakian Jackson, with 66 tackles, can turn this into a runaway if Landry Lyddy turns it over.\n\nOn the over/under, DraftKings opened at 56.5 and it is up to 58.5. Southern Miss gives up 31.0 a game, and George Pettaway has 824 rushing yards for the Dukes. My 36 and 23 make 59, clear of 58.5 by a half.\n\nThe room splits hard. The Formula is with me on Southern Miss +13.5 and takes the Under. Next Man Up lays James Madison −13.5 and likes the Over. In The Trenches has no side. The Formula has James Madison 35-23 and takes Southern Miss +13.5 with the Under. Next Man Up has James Madison 38-24, takes the Dukes −13.5, and likes the Over. In The Trenches sees split run-game reads, so no side, and it reads sides only with no score this week. Follow The Money likes Southern Miss +13.5 and has no total pick. The consensus spread opened Southern Miss +14.5 and is +13.5 now, and the total opened 58.5 and is 58.5 now. Letdown Watch has no score this week.\n\nNext Man Up: \"Fourteen points. I'm laying them with the Dukes.\"\n\nThe Formula: \"Twelve, and under the total. Different photograph.\"\n\nLila stops at the gallery to look at the old prints. Dee tells her to enjoy the pictures, because Thursday night in Hattiesburg is not going to look the way the Dukes planned it.\n\nJames Madison Dukes 36, Southern Miss Golden Eagles 23. Southern Miss Golden Eagles cover the 13.5. Over 58.5.",
    "key_players": [
     {
      "team": "James Madison Dukes",
