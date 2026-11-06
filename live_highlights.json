@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-03T01:02:36Z",
+ "updated_utc": "2026-11-06T01:08:59Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -1063,6 +1063,121 @@
    "matchup": "Buffalo Bulls at Miami (OH) RedHawks",
    "kickoff_utc": "2026-11-04T01:00Z",
    "first_seen_utc": "2026-11-03T01:02:34Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401866455": {
+   "game_id": "401866455",
+   "matchup": "Ball State Cardinals at Massachusetts Minutemen",
+   "kickoff_utc": "2026-11-05T00:00Z",
+   "first_seen_utc": "2026-11-06T01:07:40Z",
+   "first_seen_status": "STATUS_FINAL Q5 0:00",
+   "halftime_eligible": false,
+   "final": {
+    "youtube_id": "4jWzSk9o63U",
+    "title": "Ball State Cardinals vs. Massachusetts Minutemen | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=4jWzSk9o63U",
+    "embed_url": "https://www.youtube-nocookie.com/embed/4jWzSk9o63U",
+    "thumb": "https://i.ytimg.com/vi/4jWzSk9o63U/hqdefault.jpg",
+    "duration_s": 1100,
+    "uploaded_utc": "2026-11-05T03:37:11Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-06T01:08:52Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
+  },
+  "401866457": {
+   "game_id": "401866457",
+   "matchup": "Toledo Rockets at Sacramento State Hornets",
+   "kickoff_utc": "2026-11-05T00:00Z",
+   "first_seen_utc": "2026-11-06T01:07:40Z",
+   "first_seen_status": "STATUS_FINAL Q4 0:00",
+   "halftime_eligible": false,
+   "final": {
+    "youtube_id": "xcgvCsGjzus",
+    "title": "Toledo vs. Sacramento State College Football Highlights | Week 10 Condensed Game",
+    "channel": "CBS Sports College Football",
+    "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+    "url": "https://www.youtube.com/watch?v=xcgvCsGjzus",
+    "embed_url": "https://www.youtube-nocookie.com/embed/xcgvCsGjzus",
+    "thumb": "https://i.ytimg.com/vi/xcgvCsGjzus/hqdefault.jpg",
+    "duration_s": 1040,
+    "uploaded_utc": "2026-11-05T03:40:11Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-06T01:08:52Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
+  },
+  "401866456": {
+   "game_id": "401866456",
+   "matchup": "Central Michigan Chippewas at Eastern Michigan Eagles",
+   "kickoff_utc": "2026-11-05T00:30Z",
+   "first_seen_utc": "2026-11-06T01:07:40Z",
+   "first_seen_status": "STATUS_FINAL Q4 0:00",
+   "halftime_eligible": false,
+   "final": {
+    "youtube_id": "E45EPhG8dwk",
+    "title": "Motor City MACtion 🔥 Central Michigan vs. Eastern Michigan | Full Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=E45EPhG8dwk",
+    "embed_url": "https://www.youtube-nocookie.com/embed/E45EPhG8dwk",
+    "thumb": "https://i.ytimg.com/vi/E45EPhG8dwk/hqdefault.jpg",
+    "duration_s": 921,
+    "uploaded_utc": "2026-11-05T05:08:19Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-06T01:08:59Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
+  },
+  "401862817": {
+   "game_id": "401862817",
+   "matchup": "UTSA Roadrunners at Florida Atlantic Owls",
+   "kickoff_utc": "2026-11-06T00:30Z",
+   "first_seen_utc": "2026-11-06T01:07:40Z",
+   "first_seen_status": "STATUS_IN_PROGRESS Q1 5:31",
+   "halftime_eligible": true
+  },
+  "401869964": {
+   "game_id": "401869964",
+   "matchup": "James Madison Dukes at Southern Miss Golden Eagles",
+   "kickoff_utc": "2026-11-06T01:00Z",
+   "first_seen_utc": "2026-11-06T01:07:40Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
+   "halftime_eligible": true
+  },
+  "401858288": {
+   "game_id": "401858288",
+   "matchup": "Virginia Tech Hokies at SMU Mustangs",
+   "kickoff_utc": "2026-11-07T00:00Z",
+   "first_seen_utc": "2026-11-06T01:07:40Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401862818": {
+   "game_id": "401862818",
+   "matchup": "South Florida Bulls at East Carolina Pirates",
+   "kickoff_utc": "2026-11-07T00:30Z",
+   "first_seen_utc": "2026-11-06T01:07:40Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401858510": {
+   "game_id": "401858510",
+   "matchup": "Nebraska Cornhuskers at Illinois Fighting Illini",
+   "kickoff_utc": "2026-11-07T01:00Z",
+   "first_seen_utc": "2026-11-06T01:07:40Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
    "halftime_eligible": true
   }
