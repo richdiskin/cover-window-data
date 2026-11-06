@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-06T02:05:02Z",
+ "updated_utc": "2026-11-06T03:34:03Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -1186,6 +1186,14 @@
    "matchup": "New Mexico Lobos at Nevada Wolf Pack",
    "kickoff_utc": "2026-11-07T02:00Z",
    "first_seen_utc": "2026-11-06T02:05:00Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401856855": {
+   "game_id": "401856855",
+   "matchup": "TCU Horned Frogs at Arizona Wildcats",
+   "kickoff_utc": "2026-11-07T03:15Z",
+   "first_seen_utc": "2026-11-06T03:32:40Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
    "halftime_eligible": true
   }
