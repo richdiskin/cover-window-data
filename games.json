@@ -3438,7 +3438,7 @@
       "side_line": "Side: James Madison Dukes −13.5",
       "ou_line": "O/U: Over 58.5 · Likes this total",
       "score_line": "Projected: James Madison Dukes 38, Southern Miss Golden Eagles 24 (Total 62)",
-      "basis_line": "With the players available: projected points James Madison Dukes 37.4, Southern Miss Golden Eagles 23.9. Availability: the Sun Belt availability report lists Southern Miss Golden Eagles wide receiver Jaylen Himes out, Southern Miss Golden Eagles offensive lineman Jahmir Davis out for season, Southern Miss Golden Eagles defensive back Jordan Pride out for season, Southern Miss Golden Eagles linebacker Ricky Harding out for season, Southern Miss Golden Eagles defensive lineman Jeffery Rush out for season, Southern Miss Golden Eagles running back Robert Briggs out for season, Southern Miss Golden Eagles defensive back Jeremiah Dillon out for season, James Madison Dukes defensive back Jayon Harvey out, James Madison Dukes tight end KD Mosley out, James Madison Dukes running back George Pettaway out and James Madison Dukes quarterback Tanner Vibabul out.",
+      "basis_line": "With the players available: projected points James Madison Dukes 37.4, Southern Miss Golden Eagles 23.9. Availability: the Sun Belt availability report lists Southern Miss Golden Eagles wide receiver Jaylen Himes out, Southern Miss Golden Eagles offensive lineman Jahmir Davis out for season, Southern Miss Golden Eagles defensive back Jordan Pride out for season, Southern Miss Golden Eagles linebacker Ricky Harding out for season, Southern Miss Golden Eagles defensive lineman Jeffery Rush out for season, Southern Miss Golden Eagles running back Robert Briggs out for season, Southern Miss Golden Eagles defensive back Jeremiah Dillon out for season, James Madison Dukes defensive back Jayon Harvey out, James Madison Dukes tight end KD Mosley out, James Madison Dukes running back George Pettaway out and James Madison Dukes quarterback Tanner Vibabul out. This card makes no availability adjustment for college games, so the projection is unchanged.",
       "independent": true,
       "distance_from_spread": 0.5,
       "distance_from_total": 3.5
@@ -3448,7 +3448,7 @@
       "side_line": "Side: Southern Miss Golden Eagles +13.5 · Likes this side",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Consensus spread opened Southern Miss Golden Eagles +14.5 (Nov 3, 12:07 AM ET) and is +13.5 now, a 1-point move. The side pick quotes the consensus spread now (Southern Miss Golden Eagles +13.5). Consensus total opened 58.5 (Nov 3, 11:40 AM ET) and is 58.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 5, 7:24 PM ET; the open is the first consensus line posted after the Monday night game ended (Nov 2, 11:23 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Southern Miss Golden Eagles +14.5 (Nov 3, 12:07 AM ET) and is +13.5 now, a 1-point move. The side pick quotes the consensus spread now (Southern Miss Golden Eagles +13.5). Consensus total opened 58.5 (Nov 3, 11:40 AM ET) and is 58.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 5, 7:46 PM ET; the open is the first consensus line posted after the Monday night game ended (Nov 2, 11:23 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
@@ -3469,8 +3469,8 @@
     "line_used": {
      "home_line": "Southern Miss Golden Eagles +13.5",
      "total": "58.5",
-     "source": "ESPN game page odds (DraftKings), Nov 5, 2026, 7:24 PM ET",
-     "fetched_at_utc": "2026-11-06T00:24Z"
+     "source": "ESPN game page odds (DraftKings), Nov 5, 2026, 7:46 PM ET",
+     "fetched_at_utc": "2026-11-06T00:46Z"
     },
     "injuries": {
      "away": [
@@ -3554,8 +3554,8 @@
        "game_status": "Out for Season"
       }
      ],
-     "source": "Sun Belt availability report (Game Day Report, posted Nov 5, 10:33 AM ET; fetched Nov 5, 7:24 PM ET from https://sunbeltsports.org/news/2025/8/11/football-availability-report-new.aspx)",
-     "fetched_at_utc": "2026-11-06T00:24Z"
+     "source": "Sun Belt availability report (Game Day Report, posted Nov 5, 10:33 AM ET; fetched Nov 5, 7:46 PM ET from https://sunbeltsports.org/news/2025/8/11/football-availability-report-new.aspx)",
+     "fetched_at_utc": "2026-11-06T00:46Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -3572,7 +3572,7 @@
      "score_line": "Market: James Madison Dukes 36, Southern Miss Golden Eagles 23 (Total 59)",
      "spread": "James Madison Dukes −13.5",
      "total": "58.5",
-     "source": "ESPN game page odds (DraftKings), Nov 5, 2026, 7:24 PM ET",
+     "source": "ESPN game page odds (DraftKings), Nov 5, 2026, 7:46 PM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "Southern Miss Takes 13.5 From James Madison on a Thursday Night",
