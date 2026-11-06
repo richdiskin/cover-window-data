@@ -1638,6 +1638,24 @@
      "oembed": 200,
      "official": true,
      "gambling_language": false
+    },
+    {
+     "youtube_id": "yXsJOzmWM-0",
+     "title": "BRAELON ALLEN TOUCHDOWN🔥👏 #jets #nfl #football",
+     "label": "Braelon Allen highlights",
+     "channel": "New York Jets",
+     "channel_id": "UCROj9vBjc4ZW3AL4cd_BjHg",
+     "published": "2026-10-11",
+     "duration_s": 14,
+     "thumb": "https://i.ytimg.com/vi/yXsJOzmWM-0/hqdefault.jpg",
+     "kind": "player",
+     "player": "Braelon Allen",
+     "team": "New York Jets",
+     "player_basis": "ESPN season leader, rushing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
     }
    ]
   },
@@ -2495,24 +2513,6 @@
      "oembed": 200,
      "official": true,
      "gambling_language": false
-    },
-    {
-     "youtube_id": "4ODKECvx5DA",
-     "title": "Chris Olave on Kellen Moore's TD Play Call vs. Ravens",
-     "label": "Chris Olave highlights",
-     "channel": "New Orleans Saints",
-     "channel_id": "UCwuddf1JrodMlc5fYpVlrQA",
-     "published": "2026-09-20",
-     "duration_s": 17,
-     "thumb": "https://i.ytimg.com/vi/4ODKECvx5DA/hqdefault.jpg",
-     "kind": "player",
-     "player": "Chris Olave",
-     "team": "New Orleans Saints",
-     "player_basis": "ESPN season leader, receiving yards",
-     "embeddable": true,
-     "oembed": 200,
-     "official": true,
-     "gambling_language": false
     }
    ]
   },
@@ -2990,21 +2990,6 @@
     }
    ],
    "videos": [
-    {
-     "youtube_id": "WR4QN40pDoM",
-     "title": "Giants vs Eagles | 2023 Week 16 Highlights",
-     "label": "Last meeting: Giants vs. Eagles",
-     "channel": "Philadelphia Eagles",
-     "channel_id": "UCaogx6OHpsGg0zuGRKsjbtQ",
-     "published": "2023-12-25",
-     "duration_s": 492,
-     "thumb": "https://i.ytimg.com/vi/WR4QN40pDoM/hqdefault.jpg",
-     "kind": "matchup",
-     "embeddable": true,
-     "oembed": 200,
-     "official": true,
-     "gambling_language": false
-    },
     {
      "youtube_id": "62gG36TVMsY",
      "title": "TOP Highlights from OT WIN over Texans ‼️ #shorts #highlights #nygiants #giants #nfl",
@@ -3699,24 +3684,6 @@
     }
    ],
    "videos": [
-    {
-     "youtube_id": "od2EofGLEtI",
-     "title": "Bullet Bo on the move 💨 #nfl #broncos #bonix #mariokart #highlight",
-     "label": "Bo Nix highlights",
-     "channel": "Denver Broncos",
-     "channel_id": "UCDGdBexlDZA8T7hnweWWyow",
-     "published": "2026-10-27",
-     "duration_s": 13,
-     "thumb": "https://i.ytimg.com/vi/od2EofGLEtI/hqdefault.jpg",
-     "kind": "player",
-     "player": "Bo Nix",
-     "team": "Denver Broncos",
-     "player_basis": "ESPN season leader, passing yards",
-     "embeddable": true,
-     "oembed": 200,
-     "official": true,
-     "gambling_language": false
-    },
     {
      "youtube_id": "QED39BpC6UM",
      "title": "Tetairoa McMillan: 'If You See This Face, That Means I Scored' | Carolina Panthers",
@@ -4509,26 +4476,7 @@
      "source": "ESPN game summary, event 401873049"
     }
    ],
-   "videos": [
-    {
-     "youtube_id": "0KV7pAHXWZU",
-     "title": "Jordan Love Throws 3 TDs as Packers top Panthers on Thursday Night Football",
-     "label": "Jordan Love highlights",
-     "channel": "CBS Sports",
-     "channel_id": "UCja8sZ2T4ylIqjggA1Zuukg",
-     "published": "2026-10-29",
-     "duration_s": 976,
-     "thumb": "https://i.ytimg.com/vi/0KV7pAHXWZU/hqdefault.jpg",
-     "kind": "player",
-     "player": "Jordan Love",
-     "team": "Green Bay Packers",
-     "player_basis": "ESPN season leader, passing yards",
-     "embeddable": true,
-     "oembed": 200,
-     "official": true,
-     "gambling_language": false
-    }
-   ]
+   "videos": []
   },
   {
    "game_id": "401873047",
@@ -5487,26 +5435,7 @@
      "source": "ESPN game summary, event 401873050"
     }
    ],
-   "videos": [
-    {
-     "youtube_id": "w2MxMoV0VAc",
-     "title": "Tampa Terrence & Baker Mayfield would run the pong table 😮‍💨🏓🎉: Bud Light #bakermayfield",
-     "label": "Baker Mayfield highlights",
-     "channel": "Tampa Bay Buccaneers",
-     "channel_id": "UC0Wwu7r1ybaaR09ANhudTzA",
-     "published": "2026-10-31",
-     "duration_s": 45,
-     "thumb": "https://i.ytimg.com/vi/w2MxMoV0VAc/hqdefault.jpg",
-     "kind": "player",
-     "player": "Baker Mayfield",
-     "team": "Tampa Bay Buccaneers",
-     "player_basis": "ESPN season leader, passing yards",
-     "embeddable": true,
-     "oembed": 200,
-     "official": true,
-     "gambling_language": false
-    }
-   ]
+   "videos": []
   },
   {
    "game_id": "401873051",
