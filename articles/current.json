@@ -4,9 +4,515 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 262,
+  "count": 268,
   "lead_id": "fanatic_team-indiana",
   "articles": [
+    {
+      "id": "fanatic_team-bal-2026-11-05",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "bal",
+      "team_ids": [
+        "bal"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873037",
+      "title": "Baltimore Ravens vs Jacksonville Jaguars: Fourth Straight Loss, 10-33 at Home",
+      "byline": "",
+      "matchup": "Final: Jacksonville Jaguars (6-2) 33, Baltimore Ravens (4-5) 10, Thu., Nov. 5, M&T Bank Stadium, Baltimore. Next: vs Los Angeles Chargers, Mon., Nov. 16, 8:15 PM ET, M&T Bank Stadium, Baltimore",
+      "date": "2026-11-05",
+      "word_count": 327,
+      "text": "Baltimore Ravens 10, Jacksonville Jaguars 33. Fourth straight loss, at home, in the rain, with a rookie at quarterback making his first start. Across town at Soundstage, Grayscale had Manual Override on the calendar. Inside M&T Bank Stadium, there was nothing left to override. We're 4-5, and the boos found the field in the third quarter for a reason.\n\nJoe Fagnano went 10 of 18 for 60 yards with two interceptions. Lamar Jackson and Tyler Huntley are both on injured reserve. Jacoby Brissett is supposedly on the way. Until then, this is the hand we were dealt, and we did not play it. Derrick Henry took direct snaps in Wildcat looks and finished with 57 yards on 17 carries. Justice Hill ripped a 65-yard touchdown run late to make it 33-10. That was the only time we found the end zone.\n\nJacksonville scored on the opening drive, Bhayshul Tuten from the 1. Jake Moody answered from 53. Then Trevor Lawrence hit Parker Washington for 50 right before the half, and it was 17-3. Montaric Brown picked Fagnano to open the third. Jourdan Lewis got him again in the fourth. We also lost a kickoff fumble that turned into a Chris Rodriguez Jr. score. Three turnovers. Zero red-zone trips. Fifty-five net yards through the air. That's how you lose by 23 at home.\n\nRoquan Smith led us with eight tackles. Mark Andrews caught two for 19. Moody was perfect on his only field-goal try. The run game still had life: 172 yards as a team, Hill with 85 on nine carries. None of it mattered when the quarterback room is this short-handed and the ball keeps changing hands. The crowd let us hear it after we failed on downs at midfield in the third. Fair.\n\nLos Angeles Chargers come to M&T on Monday night, Nov. 16, 8:15 PM ET. Get Brissett in the building, protect the football and remember what this place is supposed to sound like. Ravens.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Baltimore Ravens 10, Jacksonville Jaguars 33. Fourth straight loss, at home, in the rain, with a rookie at quarterback making his first start. Across town at Soundstage, Grayscale had Manual Override on the calendar. Inside M&T Bank Stadium, there was nothing left to override. We're 4-5, and the boos found the field in the third quarter for a reason."
+        },
+        {
+          "type": "paragraph",
+          "text": "Joe Fagnano went 10 of 18 for 60 yards with two interceptions. Lamar Jackson and Tyler Huntley are both on injured reserve. Jacoby Brissett is supposedly on the way. Until then, this is the hand we were dealt, and we did not play it. Derrick Henry took direct snaps in Wildcat looks and finished with 57 yards on 17 carries. Justice Hill ripped a 65-yard touchdown run late to make it 33-10. That was the only time we found the end zone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jacksonville scored on the opening drive, Bhayshul Tuten from the 1. Jake Moody answered from 53. Then Trevor Lawrence hit Parker Washington for 50 right before the half, and it was 17-3. Montaric Brown picked Fagnano to open the third. Jourdan Lewis got him again in the fourth. We also lost a kickoff fumble that turned into a Chris Rodriguez Jr. score. Three turnovers. Zero red-zone trips. Fifty-five net yards through the air. That's how you lose by 23 at home."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roquan Smith led us with eight tackles. Mark Andrews caught two for 19. Moody was perfect on his only field-goal try. The run game still had life: 172 yards as a team, Hill with 85 on nine carries. None of it mattered when the quarterback room is this short-handed and the ball keeps changing hands. The crowd let us hear it after we failed on downs at midfield in the third. Fair."
+        },
+        {
+          "type": "paragraph",
+          "text": "Los Angeles Chargers come to M&T on Monday night, Nov. 16, 8:15 PM ET. Get Brissett in the building, protect the football and remember what this place is supposed to sound like. Ravens."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Baltimore lost its fourth straight game, falling 33-10 to Jacksonville on Thursday, Nov. 5, at M&T Bank Stadium. The Ravens are 4-5."
+        },
+        {
+          "type": "fact",
+          "text": "Joe Fagnano threw for 60 yards with two interceptions in his first NFL start; Justice Hill had a 65-yard touchdown run."
+        },
+        {
+          "type": "jab",
+          "text": "Three turnovers, 55 net yards through the air and a home crowd that started booing before the fourth. Earned."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Los Angeles Chargers, Monday, Nov. 16, 8:15 PM ET, M&T Bank Stadium, Baltimore."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Jaguars 33, Ravens 10 (Nov. 5, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873037"
+        },
+        {
+          "label": "ESPN play-by-play, Jaguars at Ravens (Nov. 5, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873037"
+        },
+        {
+          "label": "ESPN game recap: Jaguars thrash the depleted Ravens 33-10",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873037"
+        },
+        {
+          "label": "CBS Baltimore: Ravens fall to Jaguars 33-10 in fourth straight loss",
+          "url": "https://www.cbsnews.com/baltimore/news/baltimore-ravens-jacksonville-jaguars-football-joe-fagnano/"
+        },
+        {
+          "label": "NFL.com: What we learned from Jacksonville's 33-10 win",
+          "url": "https://www.nfl.com/news/jaguars-ravens-on-thursday-night-football-what-we-learned-from-jacksonville-s-33-10-win"
+        },
+        {
+          "label": "City Emprise: Grayscale at Baltimore Soundstage, Nov. 5, 2026",
+          "url": "https://cityemprise.com/baltimore/events/2026-11-05-grayscale-manual-override"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-jax-2026-11-05",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "jax",
+      "team_ids": [
+        "jax"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873037",
+      "title": "Jacksonville Jaguars vs Baltimore Ravens: Rain, Little and a 33-10 Road Statement",
+      "byline": "",
+      "matchup": "Final: Jacksonville Jaguars (6-2) 33, Baltimore Ravens (4-5) 10, Thu., Nov. 5, M&T Bank Stadium, Baltimore. Next: at Tennessee Titans, Sun., Nov. 15, 1:00 PM ET, Nissan Stadium, Nashville",
+      "date": "2026-11-05",
+      "word_count": 304,
+      "text": "Jacksonville Jaguars 33, Baltimore Ravens 10, and we just walked into M&T Bank Stadium on a rainy Thursday and never trailed. Back home, JJ Grey and Mofro were opening the new JAX Amphitheater at the Jacksonville Fair. Up in Baltimore, Trevor Lawrence and Cam Little put on the louder show. First Thursday-night win in three seasons. Six and two. AFC South in a headlock.\n\nIt started on the opening drive. Seventy-seven yards, finished by Bhayshul Tuten from the 1 after Lawrence dropped a 52-yard dart to Nate Boerkircher. Jake Moody answered with a 53-yarder for Baltimore, and then Little went to work: 36 from the first quarter, 45 after Montaric Brown's interception to open the second half, 47 early in the fourth, 33 after Jourdan Lewis picked Joe Fagnano. Four field goals, all good. Career-high night from the toe.\n\nThe dagger before the half was pure Lawrence. Fifty yards to Parker Washington with 58 seconds left, and we went into the locker room up 17-3. Washington finished with two catches for 61. Jakobi Meyers led us with four for 65. Foyesade Oluokun had the lone sack and seven tackles. We forced three turnovers: two interceptions and a kickoff fumble that Jalen McLeod fell on, which set up Chris Rodriguez Jr. from the 2 for 33-3.\n\nLawrence finished 16 of 26 for 242 yards and that one score, zero interceptions, zero sacks taken. We held Baltimore to 55 net yards through the air and 227 yards of offense. Allowed 10 or fewer points for the second straight game. Rain, road, depleted Ravens, whatever. Complementary football on a wet road. That's five wins in six and a 3 1/2-game lead in the division.\n\nTennessee at Nissan Stadium on Sunday, Nov. 15, 1 PM ET. Keep the ball clean, keep Little automatic, keep this defense nasty. Duval.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Jacksonville Jaguars 33, Baltimore Ravens 10, and we just walked into M&T Bank Stadium on a rainy Thursday and never trailed. Back home, JJ Grey and Mofro were opening the new JAX Amphitheater at the Jacksonville Fair. Up in Baltimore, Trevor Lawrence and Cam Little put on the louder show. First Thursday-night win in three seasons. Six and two. AFC South in a headlock."
+        },
+        {
+          "type": "paragraph",
+          "text": "It started on the opening drive. Seventy-seven yards, finished by Bhayshul Tuten from the 1 after Lawrence dropped a 52-yard dart to Nate Boerkircher. Jake Moody answered with a 53-yarder for Baltimore, and then Little went to work: 36 from the first quarter, 45 after Montaric Brown's interception to open the second half, 47 early in the fourth, 33 after Jourdan Lewis picked Joe Fagnano. Four field goals, all good. Career-high night from the toe."
+        },
+        {
+          "type": "paragraph",
+          "text": "The dagger before the half was pure Lawrence. Fifty yards to Parker Washington with 58 seconds left, and we went into the locker room up 17-3. Washington finished with two catches for 61. Jakobi Meyers led us with four for 65. Foyesade Oluokun had the lone sack and seven tackles. We forced three turnovers: two interceptions and a kickoff fumble that Jalen McLeod fell on, which set up Chris Rodriguez Jr. from the 2 for 33-3."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lawrence finished 16 of 26 for 242 yards and that one score, zero interceptions, zero sacks taken. We held Baltimore to 55 net yards through the air and 227 yards of offense. Allowed 10 or fewer points for the second straight game. Rain, road, depleted Ravens, whatever. Complementary football on a wet road. That's five wins in six and a 3 1/2-game lead in the division."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tennessee at Nissan Stadium on Sunday, Nov. 15, 1 PM ET. Keep the ball clean, keep Little automatic, keep this defense nasty. Duval."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Jacksonville beat Baltimore 33-10 on Thursday, Nov. 5, at M&T Bank Stadium and never trailed. The Jaguars are 6-2."
+        },
+        {
+          "type": "fact",
+          "text": "Trevor Lawrence threw for 242 yards and a touchdown; Cam Little made four field goals; the defense forced three turnovers."
+        },
+        {
+          "type": "jab",
+          "text": "Joe Fagnano's first NFL start: 60 yards, two interceptions, and a quiet building by the fourth."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Tennessee Titans, Sunday, Nov. 15, 1:00 PM ET, Nissan Stadium, Nashville."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Jaguars 33, Ravens 10 (Nov. 5, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873037"
+        },
+        {
+          "label": "ESPN play-by-play, Jaguars at Ravens (Nov. 5, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873037"
+        },
+        {
+          "label": "ESPN game recap: Jaguars thrash the depleted Ravens 33-10",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873037"
+        },
+        {
+          "label": "Jaguars.com: Game Report, Week 9 — Jaguars 33, Ravens 10",
+          "url": "https://www.jaguars.com/news/game-report-2026-week-9-jaguars-33-ravens-10"
+        },
+        {
+          "label": "NFL.com: What we learned from Jacksonville's 33-10 win",
+          "url": "https://www.nfl.com/news/jaguars-ravens-on-thursday-night-football-what-we-learned-from-jacksonville-s-33-10-win"
+        },
+        {
+          "label": "On at 8: JJ Grey & Mofro open the new JAX Amphitheater at the Jacksonville Fair",
+          "url": "https://onat8.com/article/jacksonville-jj-grey-mofro-open-the-new-jax-amphitheater-at-the-jacksonville-fair"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-southern-miss-2026-11-05",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "southern-miss",
+      "team_ids": [
+        "southern-miss"
+      ],
+      "tab_id": "sunbelt",
+      "game_id": "401869964",
+      "title": "Southern Miss vs James Madison: A 54-23 Night That Got Away at The Rock",
+      "byline": "Delphine 'Dee' Broussard, The Southern Miss Fanatic",
+      "matchup": "Final: James Madison Dukes (8-2) 54, Southern Miss Golden Eagles (3-6) 23, Thu., Nov. 5, M. M. Roberts Stadium, Hattiesburg. Next: at Louisiana Tech, Sat., Nov. 14, 5:00 PM ET, Joe Aillet Stadium, Ruston",
+      "date": "2026-11-05",
+      "word_count": 303,
+      "text": "Southern Miss Golden Eagles 23, James Madison Dukes 54. Final score 54-23. Primetime at The Rock, and we got steamrolled after hanging around for a half. We're 3-6, 2-3 in the Sun Belt, and Main Street UMC's Family Fall Festival hits Hattiesburg this weekend while this one sits in the stomach like a bad meal.\n\nFor two quarters, this was a real fight. John White scored from 3 early in the second to cut it to 10-7. Steven Robinson punched in from the 2 with 37 seconds left before the half, and we actually led 14-13. Then Morgan Suarez drilled a 40-yarder at the gun, and the whole building flipped. We never led again. Never even sniffed it.\n\nJC Evans, back at quarterback for James Madison after missing eight starts, ran for three touchdowns and threw for another. He went 19 of 26 for 251. Jackson McCarter ripped a 30-yarder. Camden Coleman checked in and hit Michael Scott from 26. They put up 54 and 498 yards. JT Hooten sacked us three times. That's the difference between a home dogfight and a home demolition.\n\nOur bright spots? John White went 22 of 35 for 266 yards with a scoring throw to Mario Sanders and that early rushing score. Kaden Saunders caught six for 122. Mathis Haygood flew around for 13 tackles. Creighton Wilbanks hit a 29-yard field goal late. We just went 3 of 14 on third down, managed 88 rushing yards and watched Evans own the whole second half. Zero turnovers and we still lost by 31. Explain that without pointing at the third-down chart.\n\nLouisiana Tech on Nov. 14 at Joe Aillet Stadium in Ruston, 5 PM ET. Fix the run defense, win third down and stop letting one quarterback own a whole half of football. Southern Miss. Get it right.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Southern Miss Golden Eagles 23, James Madison Dukes 54. Final score 54-23. Primetime at The Rock, and we got steamrolled after hanging around for a half. We're 3-6, 2-3 in the Sun Belt, and Main Street UMC's Family Fall Festival hits Hattiesburg this weekend while this one sits in the stomach like a bad meal."
+        },
+        {
+          "type": "paragraph",
+          "text": "For two quarters, this was a real fight. John White scored from 3 early in the second to cut it to 10-7. Steven Robinson punched in from the 2 with 37 seconds left before the half, and we actually led 14-13. Then Morgan Suarez drilled a 40-yarder at the gun, and the whole building flipped. We never led again. Never even sniffed it."
+        },
+        {
+          "type": "paragraph",
+          "text": "JC Evans, back at quarterback for James Madison after missing eight starts, ran for three touchdowns and threw for another. He went 19 of 26 for 251. Jackson McCarter ripped a 30-yarder. Camden Coleman checked in and hit Michael Scott from 26. They put up 54 and 498 yards. JT Hooten sacked us three times. That's the difference between a home dogfight and a home demolition."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our bright spots? John White went 22 of 35 for 266 yards with a scoring throw to Mario Sanders and that early rushing score. Kaden Saunders caught six for 122. Mathis Haygood flew around for 13 tackles. Creighton Wilbanks hit a 29-yard field goal late. We just went 3 of 14 on third down, managed 88 rushing yards and watched Evans own the whole second half. Zero turnovers and we still lost by 31. Explain that without pointing at the third-down chart."
+        },
+        {
+          "type": "paragraph",
+          "text": "Louisiana Tech on Nov. 14 at Joe Aillet Stadium in Ruston, 5 PM ET. Fix the run defense, win third down and stop letting one quarterback own a whole half of football. Southern Miss. Get it right."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Southern Miss lost 54-23 to James Madison on Thursday, Nov. 5, at M. M. Roberts Stadium. The Golden Eagles are 3-6, 2-3 in the Sun Belt."
+        },
+        {
+          "type": "fact",
+          "text": "John White threw for 266 yards and a touchdown and ran for another; Kaden Saunders had 122 receiving yards."
+        },
+        {
+          "type": "jab",
+          "text": "Led 14-13 with 37 seconds left in the half. Lost by 31. That second-half collapse will age like milk."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Louisiana Tech, Saturday, Nov. 14, 5:00 PM ET, Joe Aillet Stadium, Ruston."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, James Madison 54, Southern Miss 23 (Nov. 5, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401869964"
+        },
+        {
+          "label": "ESPN play-by-play, James Madison at Southern Miss (Nov. 5, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401869964"
+        },
+        {
+          "label": "ESPN game recap (AP): JC Evans has four scores as James Madison beats Southern Miss 54-23",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401869964"
+        },
+        {
+          "label": "Southern Miss Athletics football home",
+          "url": "https://southernmiss.com/sports/football"
+        },
+        {
+          "label": "WDAM: Southern Miss falls to James Madison 54-23 in primetime",
+          "url": "https://www.wdam.com/"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-james-madison-2026-11-05",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "james-madison",
+      "team_ids": [
+        "james-madison"
+      ],
+      "tab_id": "sunbelt",
+      "game_id": "401869964",
+      "title": "James Madison vs Southern Miss: Evans Returns and the Dukes Drop 54 on The Rock",
+      "byline": "Lila Shenandoah, The James Madison Fanatic",
+      "matchup": "Final: James Madison Dukes (8-2) 54, Southern Miss Golden Eagles (3-6) 23, Thu., Nov. 5, M. M. Roberts Stadium, Hattiesburg. Next: at UConn, Sat., Nov. 14, 12:00 PM ET, Pratt & Whitney Stadium, East Hartford",
+      "date": "2026-11-05",
+      "word_count": 313,
+      "text": "James Madison Dukes 54, Southern Miss Golden Eagles 23. Two straight losses? Buried in Hattiesburg. JC Evans made his first start since the Liberty opener, and The Rock found out real quick who runs the Sun Belt East when this offense gets right. We're 8-2, 5-2 in the league, and the skid is dead.\n\nBack in Harrisonburg, the Apple Harvest Festival is firing up this weekend. Down in Mississippi, Evans was the whole show. He went 19 of 26 for 251 yards, ran for three touchdowns and added a 16-yard scoring throw to Seth Cromwell. Three, 16 and 2 on the ground. Four scores from one guy. That's a statement night after watching Camden Coleman start the previous eight.\n\nWe trailed 14-13 late in the half after Steven Robinson punched in from the 2 for Southern Miss. Morgan Suarez answered with a 40-yard field goal as time expired, and we walked into the locker room up 16-14. Then the floodgates opened. Evans scored from 16 and from 2 in the third. Cromwell's catch made it 37-14. Jackson McCarter ripped off a 30-yard touchdown run. Camden Coleman checked in and hit Michael Scott from 26. Suarez finished 4 of 4 on field goals, including from 32, 31, 40 and 34, plus six extra points. Eighteen points from the kicker alone.\n\nCorey Scott caught six for 138 yards. JT Hooten wrecked the pocket with three sacks. TJ McGill and Jakolbi Wilson each had eight tackles. We put up 498 yards, gave the ball away zero times and outscored them 38-9 after that half-ending kick. Southern Miss still got 266 through the air from John White and 122 receiving yards from Kaden Saunders. Fine. We still left town with a 31-point win.\n\nUConn on Nov. 14 at Pratt & Whitney Stadium in East Hartford. Noon kick. Keep him hot, keep Suarez automatic, and keep stacking. Dukes.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "James Madison Dukes 54, Southern Miss Golden Eagles 23. Two straight losses? Buried in Hattiesburg. JC Evans made his first start since the Liberty opener, and The Rock found out real quick who runs the Sun Belt East when this offense gets right. We're 8-2, 5-2 in the league, and the skid is dead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Back in Harrisonburg, the Apple Harvest Festival is firing up this weekend. Down in Mississippi, Evans was the whole show. He went 19 of 26 for 251 yards, ran for three touchdowns and added a 16-yard scoring throw to Seth Cromwell. Three, 16 and 2 on the ground. Four scores from one guy. That's a statement night after watching Camden Coleman start the previous eight."
+        },
+        {
+          "type": "paragraph",
+          "text": "We trailed 14-13 late in the half after Steven Robinson punched in from the 2 for Southern Miss. Morgan Suarez answered with a 40-yard field goal as time expired, and we walked into the locker room up 16-14. Then the floodgates opened. Evans scored from 16 and from 2 in the third. Cromwell's catch made it 37-14. Jackson McCarter ripped off a 30-yard touchdown run. Camden Coleman checked in and hit Michael Scott from 26. Suarez finished 4 of 4 on field goals, including from 32, 31, 40 and 34, plus six extra points. Eighteen points from the kicker alone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Corey Scott caught six for 138 yards. JT Hooten wrecked the pocket with three sacks. TJ McGill and Jakolbi Wilson each had eight tackles. We put up 498 yards, gave the ball away zero times and outscored them 38-9 after that half-ending kick. Southern Miss still got 266 through the air from John White and 122 receiving yards from Kaden Saunders. Fine. We still left town with a 31-point win."
+        },
+        {
+          "type": "paragraph",
+          "text": "UConn on Nov. 14 at Pratt & Whitney Stadium in East Hartford. Noon kick. Keep him hot, keep Suarez automatic, and keep stacking. Dukes."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "James Madison beat Southern Miss 54-23 on Thursday, Nov. 5, at M. M. Roberts Stadium, snapping a two-game skid. The Dukes are 8-2, 5-2 in the Sun Belt."
+        },
+        {
+          "type": "fact",
+          "text": "JC Evans threw for 251 yards with one touchdown and ran for three more in his first start since the Liberty opener."
+        },
+        {
+          "type": "jab",
+          "text": "Down 14-13 late in the half, then 38 unanswered answers before Southern Miss found the end zone again. That's a duking."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at UConn, Saturday, Nov. 14, 12:00 PM ET, Pratt & Whitney Stadium, East Hartford."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, James Madison 54, Southern Miss 23 (Nov. 5, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401869964"
+        },
+        {
+          "label": "ESPN play-by-play, James Madison at Southern Miss (Nov. 5, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401869964"
+        },
+        {
+          "label": "ESPN game recap (AP): JC Evans has four scores as James Madison beats Southern Miss 54-23",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401869964"
+        },
+        {
+          "label": "JMU Athletics game center: Football at Southern Miss, Nov. 5, 2026",
+          "url": "https://jmusports.com/game-center/20920"
+        },
+        {
+          "label": "WDAM: Southern Miss falls to James Madison 54-23 in primetime",
+          "url": "https://www.wdam.com/"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-utsa-2026-11-05",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "utsa",
+      "team_ids": [
+        "utsa"
+      ],
+      "tab_id": "aac",
+      "game_id": "401862817",
+      "title": "UTSA vs Florida Atlantic: First League Loss Hits Hard in a 60-29 Blowout",
+      "byline": "Marisol Ybarra, The UTSA Fanatic",
+      "matchup": "Final: UTSA Roadrunners (7-2) 29, Florida Atlantic Owls (6-3) 60, Thu., Nov. 5, Flagler Credit Union Stadium, Boca Raton. Next: vs North Texas, Sat., Nov. 14, 9:00 PM ET, Alamodome, San Antonio",
+      "date": "2026-11-05",
+      "word_count": 340,
+      "text": "UTSA Roadrunners 29, Florida Atlantic Owls 60. Final score 60-29. First American Conference loss of the year, and it was ugly. We walked into Boca Raton at 4-0 in league play and left 4-1, 7-2 overall. Back home, DiwaliSA lights up San Antonio this weekend. Down here on the coast, the lights went out early and stayed out.\n\nOwen McCown did his job. Twenty of 35 for 265 yards and three touchdowns. Mekhi Anderson was a problem all night: six catches for 117 yards and two scores, including the 20-yarder that tied it 7-7 in the first and a 45-yard strike before the half. A'Marion Peterson ripped a 52-yard touchdown run and finished with 77 yards on six carries. Isaiah Butler-Tanner hauled in a 26-yard score in the third. We put up 425 yards and 24 first downs. None of it mattered when the other side kept answering.\n\nHere's what buried us. Two fumbles lost. FAU never gave the ball away. Caden Veltkamp carved us up for four touchdowns, Easton Messer caught three of them, and Leonard Farrow ran for 126 with a 59-yarder that made it 50-29. They ran for 339 yards as a team. Jonathan Bax dropped 2.5 sacks on us. We went 5 of 16 on third down and watched AJ Johnson walk in twice from the 4. That's a road loss, not a fluke, and it snaps a five-game winning streak the hard way.\n\nMichael Petro drilled a 54-yard field goal as the half expired to make it 35-22, and for a minute you thought we still had a pulse. Then the third quarter turned into a track meet we couldn't win. Darion White led us with nine tackles. Will Henderson III and Brandon Tennison put the ball on the ground. That's the difference between 4-0 and a long flight home.\n\nNorth Texas comes to the Alamodome on Saturday, Nov. 14, at 9 PM ET. Homecoming. Fix the ball security, win third down, and remind everybody who we are when the Dome gets loud. Birds up.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "UTSA Roadrunners 29, Florida Atlantic Owls 60. Final score 60-29. First American Conference loss of the year, and it was ugly. We walked into Boca Raton at 4-0 in league play and left 4-1, 7-2 overall. Back home, DiwaliSA lights up San Antonio this weekend. Down here on the coast, the lights went out early and stayed out."
+        },
+        {
+          "type": "paragraph",
+          "text": "Owen McCown did his job. Twenty of 35 for 265 yards and three touchdowns. Mekhi Anderson was a problem all night: six catches for 117 yards and two scores, including the 20-yarder that tied it 7-7 in the first and a 45-yard strike before the half. A'Marion Peterson ripped a 52-yard touchdown run and finished with 77 yards on six carries. Isaiah Butler-Tanner hauled in a 26-yard score in the third. We put up 425 yards and 24 first downs. None of it mattered when the other side kept answering."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's what buried us. Two fumbles lost. FAU never gave the ball away. Caden Veltkamp carved us up for four touchdowns, Easton Messer caught three of them, and Leonard Farrow ran for 126 with a 59-yarder that made it 50-29. They ran for 339 yards as a team. Jonathan Bax dropped 2.5 sacks on us. We went 5 of 16 on third down and watched AJ Johnson walk in twice from the 4. That's a road loss, not a fluke, and it snaps a five-game winning streak the hard way."
+        },
+        {
+          "type": "paragraph",
+          "text": "Michael Petro drilled a 54-yard field goal as the half expired to make it 35-22, and for a minute you thought we still had a pulse. Then the third quarter turned into a track meet we couldn't win. Darion White led us with nine tackles. Will Henderson III and Brandon Tennison put the ball on the ground. That's the difference between 4-0 and a long flight home."
+        },
+        {
+          "type": "paragraph",
+          "text": "North Texas comes to the Alamodome on Saturday, Nov. 14, at 9 PM ET. Homecoming. Fix the ball security, win third down, and remind everybody who we are when the Dome gets loud. Birds up."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "UTSA lost its first American Conference game of the season, falling 60-29 at Florida Atlantic on Thursday, Nov. 5. The Roadrunners are 7-2, 4-1 in league play."
+        },
+        {
+          "type": "fact",
+          "text": "Owen McCown threw for 265 yards and three touchdowns; Mekhi Anderson had 117 receiving yards and two scores."
+        },
+        {
+          "type": "jab",
+          "text": "Two giveaways and 339 rushing yards allowed. That's how a 4-0 league start ends."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs North Texas, Saturday, Nov. 14, 9:00 PM ET, Alamodome, San Antonio."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Florida Atlantic 60, UTSA 29 (Nov. 5, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862817"
+        },
+        {
+          "label": "ESPN play-by-play, UTSA at Florida Atlantic (Nov. 5, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401862817"
+        },
+        {
+          "label": "ESPN game recap (AP): Veltkamp accounts for four scores as FAU knocks off American Conference leader UTSA 60-29",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401862817"
+        },
+        {
+          "label": "AP: Veltkamp accounts for four scores as FAU knocks off American Conference leader UTSA 60-29",
+          "url": "https://apnews.com/article/utsa-florida-atlantic-football-score-116a36e77e25ee939fe70d642551c22b"
+        },
+        {
+          "label": "UTSA Athletics box score: Football at Florida Atlantic, Nov. 5, 2026",
+          "url": "https://goutsa.com/boxscore/8404"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-florida-atlantic-2026-11-05",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "florida-atlantic",
+      "team_ids": [
+        "florida-atlantic"
+      ],
+      "tab_id": "aac",
+      "game_id": "401862817",
+      "title": "Florida Atlantic vs UTSA: Veltkamp, Messer and a 60-29 Bowl Ticket",
+      "byline": "Kaia Brightwater, The Florida Atlantic Fanatic",
+      "matchup": "Final: UTSA Roadrunners (7-2) 29, Florida Atlantic Owls (6-3) 60, Thu., Nov. 5, Flagler Credit Union Stadium, Boca Raton. Next: at Tulsa, Sat., Nov. 14, 3:30 PM ET, H. A. Chapman Stadium, Tulsa",
+      "date": "2026-11-05",
+      "word_count": 322,
+      "text": "Sixty to twenty-nine. Write it on the wall at Flagler Credit Union Stadium. Florida Atlantic Owls 60, UTSA Roadrunners 29, and we're bowl eligible. Six and three. Three and two in the American. That's the night Boca Raton has been waiting on.\n\nBefore kickoff, SportsCenter on Campus rolled into Publix Paradise Plaza outside the gates, free for anybody who wanted to show up at 5. Then the Owls went out and made the American Conference leader look ordinary. Caden Veltkamp went 17 of 25 for 210 yards and four touchdowns. Easton Messer caught three of them and finished with seven grabs for 85 yards. Messer even flipped a 14-yard score to AJ Johnson himself in the first quarter. Versatile is an understatement.\n\nUTSA answered once early when Owen McCown hit Mekhi Anderson from 20, tying it 7-7. After that, this building belonged to the Owls. Veltkamp found Messer again from 15. AJ Johnson punched in from 4. Veltkamp hit Leonard Farrow from 18 before the half. Out of the break, Johnson scored again from 4 and Veltkamp converted the two-point try. Then Farrow ripped off a 59-yard touchdown run late in the third to make it 50-29. He finished with 126 yards on 12 carries. Ethan Ervin added 92 on 15. Kelby Valsin caught six for 77.\n\nOn defense, Jonathan Bax wrecked the pocket with 2.5 sacks. Leon Hart Jr. led us with eight tackles. Zero turnovers. 563 yards of offense. 339 on the ground. Collin Rogers was perfect on seven extra points, and Alex Grace drilled a 37-yarder in the fourth. We scored in every quarter and never trailed after that early trade.\n\nFirst conference loss of the year for the team that walked in at 4-0 in league play. We just punched the ticket the hard way, against the club sitting alone atop the American. Tulsa on Nov. 14 at Chapman Stadium. Bring the same energy. The Owls are flying.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Sixty to twenty-nine. Write it on the wall at Flagler Credit Union Stadium. Florida Atlantic Owls 60, UTSA Roadrunners 29, and we're bowl eligible. Six and three. Three and two in the American. That's the night Boca Raton has been waiting on."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before kickoff, SportsCenter on Campus rolled into Publix Paradise Plaza outside the gates, free for anybody who wanted to show up at 5. Then the Owls went out and made the American Conference leader look ordinary. Caden Veltkamp went 17 of 25 for 210 yards and four touchdowns. Easton Messer caught three of them and finished with seven grabs for 85 yards. Messer even flipped a 14-yard score to AJ Johnson himself in the first quarter. Versatile is an understatement."
+        },
+        {
+          "type": "paragraph",
+          "text": "UTSA answered once early when Owen McCown hit Mekhi Anderson from 20, tying it 7-7. After that, this building belonged to the Owls. Veltkamp found Messer again from 15. AJ Johnson punched in from 4. Veltkamp hit Leonard Farrow from 18 before the half. Out of the break, Johnson scored again from 4 and Veltkamp converted the two-point try. Then Farrow ripped off a 59-yard touchdown run late in the third to make it 50-29. He finished with 126 yards on 12 carries. Ethan Ervin added 92 on 15. Kelby Valsin caught six for 77."
+        },
+        {
+          "type": "paragraph",
+          "text": "On defense, Jonathan Bax wrecked the pocket with 2.5 sacks. Leon Hart Jr. led us with eight tackles. Zero turnovers. 563 yards of offense. 339 on the ground. Collin Rogers was perfect on seven extra points, and Alex Grace drilled a 37-yarder in the fourth. We scored in every quarter and never trailed after that early trade."
+        },
+        {
+          "type": "paragraph",
+          "text": "First conference loss of the year for the team that walked in at 4-0 in league play. We just punched the ticket the hard way, against the club sitting alone atop the American. Tulsa on Nov. 14 at Chapman Stadium. Bring the same energy. The Owls are flying."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Florida Atlantic beat UTSA 60-29 on Thursday, Nov. 5, at Flagler Credit Union Stadium and became bowl eligible at 6-3, 3-2 in the American."
+        },
+        {
+          "type": "fact",
+          "text": "Caden Veltkamp threw four touchdowns, Easton Messer caught three and Leonard Farrow ran for 126 yards and a score."
+        },
+        {
+          "type": "jab",
+          "text": "The American Conference leader rolled into Boca undefeated in league play. We sent them home 4-1."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Tulsa, Saturday, Nov. 14, 3:30 PM ET, H. A. Chapman Stadium, Tulsa."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Florida Atlantic 60, UTSA 29 (Nov. 5, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862817"
+        },
+        {
+          "label": "ESPN play-by-play, UTSA at Florida Atlantic (Nov. 5, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401862817"
+        },
+        {
+          "label": "ESPN game recap (AP): Veltkamp accounts for four scores as FAU knocks off American Conference leader UTSA 60-29",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401862817"
+        },
+        {
+          "label": "AP: Veltkamp accounts for four scores as FAU knocks off American Conference leader UTSA 60-29",
+          "url": "https://apnews.com/article/utsa-florida-atlantic-football-score-116a36e77e25ee939fe70d642551c22b"
+        },
+        {
+          "label": "FAU Athletics: Owls hosting SportsCenter on Campus before UTSA (Nov. 5 gameday)",
+          "url": "https://fausports.com/news/2026/11/3/football-florida-atlantic-to-host-espns-sportscenter-on-campus-before-thursdays-national-tv-game-vs-utsa"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
     {
       "id": "fanatic_team-eastern-michigan-2026-11-04",
       "kind": "fanatic_team",
