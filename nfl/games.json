@@ -33,13 +33,13 @@
        "team": "Jacksonville Jaguars",
        "label": "Share as a Jaguars fan",
        "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/jacksonville-jaguars-at-baltimore-ravens__gambler__jacksonville-jaguars.png",
-       "caption": "Our final: Jaguars 25, Ravens 21. Matt Stover and Derrick Mason are not walking through that door; Stover lasted until round 12 in 1990: https://www.thecoverwindow.com/nfl/gambler/jacksonville-jaguars-at-baltimore-ravens"
+       "caption": "Our final: Jaguars 25, Ravens 20. Matt Stover and Derrick Mason are not walking through that door; Stover lasted until round 12 in 1990: https://www.thecoverwindow.com/nfl/gambler/jacksonville-jaguars-at-baltimore-ravens"
       },
       {
        "team": "Baltimore Ravens",
        "label": "Share as a Ravens fan",
        "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/jacksonville-jaguars-at-baltimore-ravens__gambler__baltimore-ravens.png",
-       "caption": "Our final: Jaguars 25, Ravens 21. Keenan McCardell and Rashean Mathis are not walking through that door; Mathis won the 2002 Buchanan Award: https://www.thecoverwindow.com/nfl/gambler/jacksonville-jaguars-at-baltimore-ravens"
+       "caption": "Our final: Jaguars 25, Ravens 20. Keenan McCardell and Rashean Mathis are not walking through that door; Mathis won the 2002 Buchanan Award: https://www.thecoverwindow.com/nfl/gambler/jacksonville-jaguars-at-baltimore-ravens"
       }
      ]
     }
@@ -75,245 +75,136 @@
     "detail": "11/5 - 8:15 PM EST",
     "away_score": "0",
     "home_score": "0",
-    "source": "ESPN scoreboard",
-    "fetched_at_utc": "2026-11-04T23:29:27Z"
+    "source": "ESPN game summary",
+    "fetched_at_utc": "2026-11-06T00:00:16Z"
    },
    "market_lines": {
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-04T23:30:00Z",
+    "fetched_at_utc": "2026-11-06T00:00:16Z",
     "action_network_game_id": 290957,
-    "home_line": 10,
+    "home_line": 9.5,
     "total": 39.5,
     "open_home_line": -4.5,
     "open_total": 49.5,
-    "spread_display": "Baltimore Ravens +10",
-    "open_timestamp": ""
+    "spread_display": "Baltimore Ravens +9.5",
+    "open_timestamp": "",
+    "current_source": "DraftKings via ESPN pickcenter (summary?event=401873037)",
+    "current_fetched_at_utc": "2026-11-06T00:00:16Z",
+    "current_home_line": 9.5,
+    "current_total": 39.5,
+    "an_consensus_home_line_now": 9.5,
+    "an_consensus_fetched_at_utc": "2026-11-06T00:00:16Z"
    },
    "injuries": {
-    "source": "NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg9",
-    "fetched_at_utc": "2026-11-04T23:30:26Z",
+    "source": "ESPN game summary injuries and inactives, event 401873037 (fetched Nov 5, 7:00 PM ET)",
+    "as_of_utc": "2026-11-06T00:00:16Z",
+    "fetched_at_utc": "2026-11-06T00:00:16Z",
     "away": [
      {
-      "player": "Ezra Cleveland",
-      "position": "G",
-      "injury": "",
-      "practice_status": "Limited Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Branson Combs",
-      "position": "LB",
-      "injury": "",
-      "practice_status": "Limited Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "DaVon Hamilton",
-      "position": "DT",
-      "injury": "",
-      "practice_status": "Did Not Participate In Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Antonio Johnson",
-      "position": "S",
-      "injury": "",
-      "practice_status": "Limited Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Jarrian Jones",
-      "position": "CB",
-      "injury": "",
-      "practice_status": "Limited Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Jakobi Meyers",
-      "position": "WR",
-      "injury": "",
-      "practice_status": "Limited Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Eric Murray",
-      "position": "S",
-      "injury": "",
-      "practice_status": "Did Not Participate In Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Chris Rodriguez Jr.",
-      "position": "RB",
-      "injury": "",
-      "practice_status": "Limited Participation in Practice",
-      "game_status": ""
-     },
-     {
+      "team": "JAX",
       "player": "Bhayshul Tuten",
       "position": "RB",
-      "injury": "Ankle, Foot",
-      "practice_status": "Did Not Participate In Practice",
+      "injury": "Ankle",
+      "practice_status": "",
       "game_status": "Questionable"
      },
      {
-      "player": "Travon Walker",
-      "position": "DE",
-      "injury": "Rib",
-      "practice_status": "Limited Participation in Practice",
-      "game_status": "Questionable"
+      "team": "JAX",
+      "player": "Eric Murray",
+      "position": "S",
+      "injury": "Elbow",
+      "practice_status": "",
+      "game_status": "Injured Reserve"
+     },
+     {
+      "team": "JAX",
+      "player": "DaVon Hamilton",
+      "position": "DT",
+      "injury": "Knee",
+      "practice_status": "",
+      "game_status": "Injured Reserve"
+     },
+     {
+      "team": "JAX",
+      "player": "Anton Harrison",
+      "position": "OT",
+      "injury": "Knee",
+      "practice_status": "",
+      "game_status": "Injured Reserve"
+     },
+     {
+      "team": "JAX",
+      "player": "Caleb Ransaw",
+      "position": "S",
+      "injury": "Knee",
+      "practice_status": "",
+      "game_status": "Injured Reserve"
      }
     ],
     "home": [
      {
-      "player": "Mark Andrews",
-      "position": "TE",
-      "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Calais Campbell",
-      "position": "DT",
-      "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Joe Fagnano",
-      "position": "QB",
-      "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Jaylinn Hawkins",
-      "position": "S",
-      "injury": "Knee",
-      "practice_status": "Did Not Participate In Practice",
-      "game_status": "Out"
-     },
-     {
-      "player": "Trey Hendrickson",
-      "position": "LB",
-      "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Matthew Hibner",
-      "position": "TE",
-      "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Justice Hill",
-      "position": "RB",
-      "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Tyler Huntley",
-      "position": "QB",
-      "injury": "Toe",
-      "practice_status": "Did Not Participate In Practice",
-      "game_status": "Out"
-     },
-     {
-      "player": "Olaivavega Ioane",
-      "position": "G",
-      "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Lamar Jackson",
-      "position": "QB",
-      "injury": "Thumb",
-      "practice_status": "Did Not Participate In Practice",
-      "game_status": "Out"
-     },
-     {
-      "player": "John Jenkins",
-      "position": "DT",
-      "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Tyler Loop",
-      "position": "K",
-      "injury": "",
-      "practice_status": "Did Not Participate In Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Adam Randall",
-      "position": "RB",
-      "injury": "Neck",
-      "practice_status": "Full Participation in Practice",
-      "game_status": "Questionable"
-     },
-     {
-      "player": "Roger Rosengarten",
-      "position": "T",
-      "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "John Simpson",
-      "position": "G",
-      "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Roquan Smith",
-      "position": "LB",
-      "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
-     },
-     {
-      "player": "Ronnie Stanley",
-      "position": "T",
-      "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
-     },
-     {
+      "team": "BAL",
       "player": "Nate Wiggins",
       "position": "CB",
-      "injury": "Stinger, Illness",
-      "practice_status": "Did Not Participate In Practice",
-      "game_status": "Questionable"
+      "injury": "Illness",
+      "practice_status": "",
+      "game_status": "Out"
+     },
+     {
+      "team": "BAL",
+      "player": "Elijah Sarratt",
+      "position": "WR",
+      "injury": "Coach's Decision",
+      "practice_status": "",
+      "game_status": "Out"
+     },
+     {
+      "team": "BAL",
+      "player": "Kedon Slovis",
+      "position": "QB",
+      "injury": "Coach's Decision",
+      "practice_status": "",
+      "game_status": "Out"
+     },
+     {
+      "team": "BAL",
+      "player": "Emery Jones Jr.",
+      "position": "OT",
+      "injury": "Coach's Decision",
+      "practice_status": "",
+      "game_status": "Out"
+     },
+     {
+      "team": "BAL",
+      "player": "Aeneas Peebles",
+      "position": "DT",
+      "injury": "Coach's Decision",
+      "practice_status": "",
+      "game_status": "Out"
      }
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261105",
-   "spread": "Baltimore Ravens +10",
-   "story_text": "Jaguars 25, Ravens 21. Ravens cover the 10. Over 39.5. The Formula projects Jacksonville by 4.5 against a 10-point line.",
+   "spread": "Baltimore Ravens +9.5",
+   "story_text": "Jaguars 25, Ravens 20. Ravens cover the 9.5. Over 39.5. The Formula projects Jacksonville by 4.5 against a 9.5-point line.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
    "line_used": {
-    "home_line": 10,
+    "home_line": 9.5,
     "total": 39.5,
-    "source": "Consensus line as of Nov 4, 6:30 PM ET",
-    "as_of_utc": "2026-11-04T23:30:00Z"
+    "source": "Line as of Nov 5, 7:00 PM ET (DraftKings via ESPN)",
+    "as_of_utc": "2026-11-06T00:00:16Z"
    },
    "total_line": 39.5,
    "prediction": {
     "away_score": 25,
-    "home_score": 21,
+    "home_score": 20,
     "winner": "Jacksonville Jaguars",
-    "covers": "Baltimore Ravens +10"
+    "covers": "Baltimore Ravens +9.5"
    },
    "handicappers": [
     {
@@ -324,7 +215,7 @@
     },
     {
      "id": "H2",
-     "public_case": "Projected points: Baltimore Ravens 18.6, Jacksonville Jaguars 26. Availability: expected starting quarterbacks Joe Fagnano (BAL) and Trevor Lawrence (JAX). NFL.com official Week 9 injury report (fetched Nov 4, 6:30 PM ET): quarterbacks ruled out: Lamar Jackson (BAL, Out), Tyler Huntley (BAL, Out). Lamar Jackson (right thumb, going on injured reserve) and Tyler Huntley (toe) are ruled out for Thursday, so Joe Fagnano is the expected Ravens starter (coach Jesse Minter, ESPN, Nov 2); Joe Fagnano is not BAL’s main starter this season (Lamar Jackson).",
+     "public_case": "Projected points: Baltimore Ravens 18.6, Jacksonville Jaguars 26. Availability: expected starting quarterbacks Joe Fagnano (BAL) and Trevor Lawrence (JAX). ESPN injury and inactive list (fetched Nov 5, 7:00 PM ET): Lamar Jackson is on injured reserve; Joe Fagnano is the Ravens starter. Neither Trevor Lawrence nor Joe Fagnano is out. Baltimore inactives include Nate Wiggins, Elijah Sarratt, Kedon Slovis, Emery Jones Jr. and Aeneas Peebles. Jacksonville lists Bhayshul Tuten as questionable; Anton Harrison, DaVon Hamilton, Eric Murray and Caleb Ransaw are on injured reserve.",
      "market": "spread",
      "best_bet": false
     },
@@ -336,13 +227,13 @@
     },
     {
      "id": "H4",
-     "public_case": "Market: Jacksonville Jaguars −10, total 39.5 (Nov 4, 6:30 PM ET). Starting quarterback news needs a post-news baseline that is not sourced, so no move is measured, and the bets-versus-money split is not included.",
+     "public_case": "Spread opened Baltimore Ravens +10 (Nov 4, 6:30 PM ET) and is Baltimore Ravens +9.5 now (Action Network consensus, Nov 5, 7:00 PM ET), a 0.5-point move, under the 1-point cutoff. Total opened 39.5 (Nov 4, 6:30 PM ET) and is 39.5 now, a 0-point move, under the 1-point cutoff. Action Network consensus. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
     {
      "id": "H5",
-     "public_case": "Line-of-scrimmage matchup (nflverse play-by-play through Week 8). Projected points: Baltimore Ravens 20.9, Jacksonville Jaguars 26.2.",
+     "public_case": "Baltimore tackle Emery Jones Jr. is inactive for this game (ESPN, fetched Nov 5, 7:00 PM ET), and the season line-of-scrimmage numbers were built with Jones on the field, so this card makes no pick for this game.",
      "market": "spread",
      "best_bet": false
     }
@@ -353,11 +244,11 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 4, 6:29 PM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 4, 6:30 PM ET.",
+    "Lines: DraftKings via ESPN, as of Nov 5, 7:00 PM ET; checked against the Action Network consensus at 7:00 PM ET.",
     "The Formula ratings: nflverse play-by-play as of Nov 4, 6:30 PM ET, Weeks 1–8 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–8 finals.",
-    "Injuries: NFL.com official Week 9 injury report, fetched Nov 4, 6:30 PM ET (quarterback status used by Next Man Up).",
-    "Follow The Money: no move measured yet; opening reference is the first consensus line after Nov 3, 12:15 AM ET.",
+    "Injuries: ESPN injury and inactive list, fetched Nov 5, 7:00 PM ET (quarterback status used by Next Man Up).",
+    "Follow The Money: post-news consensus Nov 4, 6:30 PM ET (Baltimore Ravens +10 / 39.5) to Nov 5, 7:00 PM ET Action Network consensus (Baltimore Ravens +9.5 / 39.5); move under 1 point on both.",
     "Records and points: ESPN team pages, as of Nov 4, 6:29 PM ET.",
     "Next Man Up: 2026 game scores (nflverse game results); expected starting quarterbacks from nflverse play-by-play, the NFL.com Week 9 injury report and team announcements.",
     "Letdown Watch: rest, travel and back-to-back road trips from nflverse schedules and results.",
@@ -368,84 +259,84 @@
    "writer_total": {
     "label": "",
     "source": "Cover Writer",
-    "projected_total": 46,
+    "projected_total": 45,
     "market_total": 39.5,
     "pick": "Over",
     "text": "Over 39.5"
    },
    "display": {
     "writer": {
-     "score_line": "Projected: Baltimore Ravens 21, Jacksonville Jaguars 25 (Total 46)",
-     "side": "Baltimore Ravens +10",
+     "score_line": "Projected: Baltimore Ravens 20, Jacksonville Jaguars 25 (Total 45)",
+     "side": "Baltimore Ravens +9.5",
      "ou": "Over 39.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Baltimore Ravens +10 · Likes this side",
+      "side_line": "Side: Baltimore Ravens +9.5 · Likes this side",
       "ou_line": "O/U: Over 39.5 · Likes this total",
       "score_line": "Projected: Baltimore Ravens 21, Jacksonville Jaguars 25 (Total 46)",
       "basis_line": "Net ratings Baltimore Ravens −5.5, Jacksonville Jaguars 0.7 (nflverse play-by-play, Nov 4, 2026)",
       "independent": true,
-      "distance_from_spread": 6.0,
-      "distance_from_total": 6.5
+      "distance_from_spread": 5.0,
+      "distance_from_total": 6.3
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Baltimore Ravens +10 · Likes this side",
+      "side_line": "Side: Baltimore Ravens +9.5",
       "ou_line": "O/U: Over 39.5 · Likes this total",
       "score_line": "Projected: Baltimore Ravens 19, Jacksonville Jaguars 26 (Total 45)",
-      "basis_line": "Projected points: Baltimore Ravens 18.6, Jacksonville Jaguars 26. Availability: expected starting quarterbacks Joe Fagnano (BAL) and Trevor Lawrence (JAX). NFL.com official Week 9 injury report (fetched Nov 4, 6:30 PM ET): quarterbacks ruled out: Lamar Jackson (BAL, Out), Tyler Huntley (BAL, Out). Lamar Jackson (right thumb, going on injured reserve) and Tyler Huntley (toe) are ruled out for Thursday, so Joe Fagnano is the expected Ravens starter (coach Jesse Minter, ESPN, Nov 2); Joe Fagnano is not BAL’s main starter this season (Lamar Jackson).",
+      "basis_line": "Projected points: Baltimore Ravens 18.6, Jacksonville Jaguars 26. Availability: expected starting quarterbacks Joe Fagnano (BAL) and Trevor Lawrence (JAX). ESPN injury and inactive list (fetched Nov 5, 7:00 PM ET): Lamar Jackson is on injured reserve; Joe Fagnano is the Ravens starter. Neither Trevor Lawrence nor Joe Fagnano is out. Baltimore inactives include Nate Wiggins, Elijah Sarratt, Kedon Slovis, Emery Jones Jr. and Aeneas Peebles. Jacksonville lists Bhayshul Tuten as questionable; Anton Harrison, DaVon Hamilton, Eric Murray and Caleb Ransaw are on injured reserve.",
       "independent": true,
-      "distance_from_spread": 3.0,
-      "distance_from_total": 5.5
+      "distance_from_spread": 2.1,
+      "distance_from_total": 5.1
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Baltimore Ravens +10 · Likes this side",
+      "side_line": "Side: Baltimore Ravens +9.5 · Likes this side",
       "ou_line": "O/U: Over 39.5 · Likes this total",
       "score_line": "Projected: Baltimore Ravens 22, Jacksonville Jaguars 24 (Total 46)",
       "basis_line": "Rest and travel: Jacksonville Jaguars: 4 days since its last game, travels 681 miles; Baltimore Ravens: 4 days since its last game, plays at home. Projected: Jaguars by 2.5, total 46.1.",
       "independent": true,
-      "distance_from_spread": 8.0,
-      "distance_from_total": 6.5
+      "distance_from_spread": 7.0,
+      "distance_from_total": 6.6
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (no line move measured yet)",
-      "ou_line": "O/U: no pick (no total move measured yet)",
+      "side_line": "Side: no pick (line moved under 1 point)",
+      "ou_line": "O/U: no pick (total moved under 1 point)",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Market: Jacksonville Jaguars −10, total 39.5 (Nov 4, 6:30 PM ET). Starting quarterback news needs a post-news baseline that is not sourced, so no move is measured, and the bets-versus-money split is not included.",
+      "basis_line": "Spread opened Baltimore Ravens +10 (Nov 4, 6:30 PM ET) and is Baltimore Ravens +9.5 now (Action Network consensus, Nov 5, 7:00 PM ET), a 0.5-point move, under the 1-point cutoff. Total opened 39.5 (Nov 4, 6:30 PM ET) and is 39.5 now, a 0-point move, under the 1-point cutoff. Action Network consensus. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.0,
-      "distance_from_total": 0.5
+      "distance_from_spread": 0.5,
+      "distance_from_total": 0.0
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Baltimore Ravens +10 · Likes this side",
-      "ou_line": "O/U: Over 39.5 · Likes this total",
-      "score_line": "Projected: Baltimore Ravens 21, Jacksonville Jaguars 26 (Total 47)",
-      "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 8). Projected points: Baltimore Ravens 20.9, Jacksonville Jaguars 26.2.",
-      "independent": true,
-      "distance_from_spread": 5.0,
-      "distance_from_total": 7.5
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
+      "score_line": "No score this week.",
+      "basis_line": "Baltimore tackle Emery Jones Jr. is inactive for this game (ESPN, fetched Nov 5, 7:00 PM ET), and the season line-of-scrimmage numbers were built with Jones on the field, so this card makes no pick for this game.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
      }
     ],
     "best_bets": [],
-    "story_text": "Baltimore will spend Thursday evening staring at fluorescent posters, and my Jaguars vs Ravens prediction starts in that gallery. MICA's Pinkard Gallery on Mount Royal Avenue opens \"Globe Posters for the People\" from 5 to 7 p.m., a show about the old print shop whose DayGlo cards sold this town its concerts and fight nights, and my call against the 10 is just as loud: Ravens with the points, and the Over 39.5.\n\nThe news first, because it's official now. The NFL.com injury report released Wednesday lists Lamar Jackson (thumb) and Tyler Huntley (toe) as Out. Joe Fagnano is the expected starter, per coach Jesse Minter through ESPN, and Fagnano went 10-of-21 with an interception in relief during the loss in Buffalo. Nobody in Baltimore is pretending that's the same offense.\n\nThe number agrees with them. The consensus as of Wednesday evening is Jacksonville −10 with an over/under of 39.5. On Tuesday it was nine and a half with a total in the low forties. The side crept up half a point and the total dropped hard, which says the market priced Fagnano as a downgrade and a slower game at the same time. I think it priced both too hard.\n\nThe Formula: Net grades Baltimore Ravens −5.5, Jacksonville Jaguars 0.7 (nflverse play-by-play, Nov 4, 2026).\n\nThat's a Jaguars side, but it isn't a 10-point side. Jacksonville is 5-2 and has allowed just 111 points in seven games, and it's 4-1 at home. On the road it's 1-1. Both teams are on 4 days of rest, so nobody gets fresher legs on a short week.\n\nWhat keeps Baltimore inside the number is Derrick Henry and the ground game. The Ravens run for 4.8 yards a carry. Jacksonville allows 3.4, so it won't be pretty, but a backup quarterback's best friend is a team that keeps handing off and keeps the clock moving. Jacksonville has health questions of its own: Bhayshul Tuten is Questionable with ankle and foot injuries, and Travon Walker is Questionable with a rib. Baltimore's secondary is banged up too, with safety Jaylinn Hawkins Out and Nate Wiggins Questionable.\n\nThe total is the bigger call. Jacksonville has scored 196 points in seven games, and Baltimore's defense has given up 203 in eight. Short weeks get sloppy, sloppy games hand out short fields, and short fields turn into points. My final is 46, well clear of 39.5.\n\nThe room is with me. The Formula, Next Man Up, Letdown Watch and In The Trenches all have Baltimore plus the 10 and the Over. Next Man Up is the toughest on the Ravens at Jaguars 26, Ravens 19, and even that lands inside the number. Follow The Money has no call on either, because a starting quarterback change leaves no clean baseline to measure a move against.\n\nJacksonville wins the game. Baltimore, with a backup quarterback and a building that still knows how to get loud, loses it by four.\n\nJaguars 25, Ravens 21. Ravens cover the 10. Over 39.5.",
-    "fanatic_score_line": "Projected: Baltimore Ravens 21, Jacksonville Jaguars 25 (46 combined points)",
+    "story_text": "Baltimore will spend Thursday evening staring at fluorescent posters, and my Jaguars vs Ravens prediction starts in that gallery. MICA's Pinkard Gallery on Mount Royal Avenue opens \"Globe Posters for the People\" from 5 to 7 p.m., a show about the old print shop whose DayGlo cards sold this town its concerts and fight nights, and my call against the 9.5 is just as loud: Ravens with the points, and the Over 39.5.\n\nThe news first, because it's official now. The NFL.com injury report released Wednesday lists Lamar Jackson (thumb) and Tyler Huntley (toe) as Out. Joe Fagnano is the expected starter, per coach Jesse Minter through ESPN, and Fagnano went 10-of-21 with an interception in relief during the loss in Buffalo. Nobody in Baltimore is pretending that's the same offense.\n\nThe number agrees with them. DraftKings via ESPN as of Thursday, 7:00 p.m. ET, has Jacksonville −9.5 with an over/under of 39.5. Wednesday evening's consensus was Jacksonville −10. The side came back half a point toward Baltimore, and the total held at 39.5. I still think the number priced Fagnano too hard.\n\nThe Formula: Net grades Baltimore Ravens −5.5, Jacksonville Jaguars 0.7 (nflverse play-by-play, Nov 4, 2026).\n\nThat's a Jaguars side, but it isn't a 10-point side. Jacksonville is 5-2 and has allowed just 111 points in seven games, and it's 4-1 at home. On the road it's 1-1. Both teams are on 4 days of rest, so nobody gets fresher legs on a short week.\n\nWhat keeps Baltimore inside the number is Derrick Henry and the ground game. The Ravens run for 4.8 yards a carry. Jacksonville allows 3.4, so it won't be pretty, but a backup quarterback's best friend is a team that keeps handing off and keeps the clock moving. Jacksonville has health questions of its own: Bhayshul Tuten is questionable with an ankle. Baltimore's game-day inactives include corner Nate Wiggins, tackle Emery Jones Jr., defensive tackle Aeneas Peebles, receiver Elijah Sarratt and quarterback Kedon Slovis.\n\nThe total is the bigger call. Jacksonville has scored 196 points in seven games, and Baltimore's defense has given up 203 in eight. Short weeks get sloppy, sloppy games hand out short fields, and short fields turn into points. My final is 45, well clear of 39.5.\n\nThe room is with me on the side and the Over. The Formula, Next Man Up and Letdown Watch all have Baltimore plus the 9.5 and the Over. Next Man Up is the toughest on the Ravens at Jaguars 26, Ravens 19, and even that lands inside the number. In The Trenches has no pick: Baltimore tackle Emery Jones Jr. is out, and its season numbers were built with him on the field. Follow The Money has no call: the line moved half a point, under the one-point cutoff.\n\nJacksonville wins the game. Baltimore, with a backup quarterback and a building that still knows how to get loud, loses it by five.\n\nJaguars 25, Ravens 20. Ravens cover the 9.5. Over 39.5.",
+    "fanatic_score_line": "Projected: Baltimore Ravens 20, Jacksonville Jaguars 25 (45 combined points)",
     "market": {
      "score_line": "Market: Baltimore Ravens 15, Jacksonville Jaguars 25 (Total 40)",
-     "spread": "Jacksonville Jaguars −10",
+     "spread": "Jacksonville Jaguars −9.5",
      "total": "39.5",
-     "source": "Consensus line as of Nov 4, 6:30 PM ET",
+     "source": "Line as of Nov 5, 7:00 PM ET (DraftKings via ESPN)",
      "note": "The market’s own numbers, shown for comparison only."
     }
    },
-   "gambler_story": "Baltimore will spend Thursday evening staring at fluorescent posters, and my Jaguars vs Ravens prediction starts in that gallery. MICA's Pinkard Gallery on Mount Royal Avenue opens \"Globe Posters for the People\" from 5 to 7 p.m., a show about the old print shop whose DayGlo cards sold this town its concerts and fight nights, and my call against the 10 is just as loud: Ravens with the points, and the Over 39.5.\n\nThe news first, because it's official now. The NFL.com injury report released Wednesday lists Lamar Jackson (thumb) and Tyler Huntley (toe) as Out. Joe Fagnano is the expected starter, per coach Jesse Minter through ESPN, and Fagnano went 10-of-21 with an interception in relief during the loss in Buffalo. Nobody in Baltimore is pretending that's the same offense.\n\nThe number agrees with them. The consensus as of Wednesday evening is Jacksonville −10 with an over/under of 39.5. On Tuesday it was nine and a half with a total in the low forties. The side crept up half a point and the total dropped hard, which says the market priced Fagnano as a downgrade and a slower game at the same time. I think it priced both too hard.\n\nThe Formula: Net grades Baltimore Ravens −5.5, Jacksonville Jaguars 0.7 (nflverse play-by-play, Nov 4, 2026).\n\nThat's a Jaguars side, but it isn't a 10-point side. Jacksonville is 5-2 and has allowed just 111 points in seven games, and it's 4-1 at home. On the road it's 1-1. Both teams are on 4 days of rest, so nobody gets fresher legs on a short week.\n\nWhat keeps Baltimore inside the number is Derrick Henry and the ground game. The Ravens run for 4.8 yards a carry. Jacksonville allows 3.4, so it won't be pretty, but a backup quarterback's best friend is a team that keeps handing off and keeps the clock moving. Jacksonville has health questions of its own: Bhayshul Tuten is Questionable with ankle and foot injuries, and Travon Walker is Questionable with a rib. Baltimore's secondary is banged up too, with safety Jaylinn Hawkins Out and Nate Wiggins Questionable.\n\nThe total is the bigger call. Jacksonville has scored 196 points in seven games, and Baltimore's defense has given up 203 in eight. Short weeks get sloppy, sloppy games hand out short fields, and short fields turn into points. My final is 46, well clear of 39.5.\n\nThe room is with me. The Formula, Next Man Up, Letdown Watch and In The Trenches all have Baltimore plus the 10 and the Over. Next Man Up is the toughest on the Ravens at Jaguars 26, Ravens 19, and even that lands inside the number. Follow The Money has no call on either, because a starting quarterback change leaves no clean baseline to measure a move against.\n\nJacksonville wins the game. Baltimore, with a backup quarterback and a building that still knows how to get loud, loses it by four.\n\nJaguars 25, Ravens 21. Ravens cover the 10. Over 39.5.",
-   "fanatic_story": "Owen Pratt was pressed against the glass at MICA's Pinkard Gallery on Mount Royal Avenue a full hour before \"Globe Posters for the People\" opened on Thursday. The show celebrates the old Baltimore print shop whose fluorescent posters used to scream fight nights and soul revues off every telephone pole in this town, and Owen wanted one with Joe Fagnano's name on it, in letters big enough to read from the upper deck.\n\nIvy Corcoran, up from Duval in a teal toboggan, read the first poster in the window out loud. \"One Night Only.\" She said that sounded about right for whoever plays quarterback in Baltimore this week.\n\nOwen: Laugh all you want. This town won a Super Bowl with Trent Dilfer.\n\nIvy: This town won a Super Bowl with a defense that ate people, and a quarterback who handed off and got out of the way.\n\nOwen: Exactly. That's the plan for Thursday. Hand off and get out of the way.\n\nOwen grades every Ravens season with one question: who's hitting people? Ray Lewis and Ed Reed are in Canton, and to Owen they're the measuring stick for every defense this town puts on the field. Lamar Jackson hurt his thumb on the first snap in Buffalo and is headed to injured reserve. Tyler Huntley hurt his toe later that same afternoon. The official injury report lists both of them Out. Owen took that news the way his old man took the Mayflower trucks leaving for Indianapolis: in dead silence, then at full volume for about a week.\n\nIvy doesn't do feelings. She does standings, folded in her jacket and pulled out like a badge. Jacksonville is 5-2. The Jaguars have given up 111 points in seven games, which she has circled twice in red marker, and they sit on top of the AFC South. Baltimore is 4-4 and 1-2 at home.\n\nIvy: You want a poster? Print the standings. Big letters. Fluorescent.\n\nOwen: You've been in first place for a month and you act like you invented it.\n\nIvy: I've been waiting since Tony Boselli was a rookie. I earned the attitude.\n\nJacksonville fans sat through the years with tarps on the upper-deck seats. Ivy watched every snap of them, so Ravens history doesn't scare her. She just asks what he's done lately.\n\nWhat Baltimore has lately is Derrick Henry, and Owen will ride that horse until it drops. The Ravens run for 4.8 yards a carry. Ivy fires back that Jacksonville's front gives up only 3.4, and that the Jaguars run for 4.6 against a Baltimore defense that allows 3.8. Thursday turns into a shoving match up front, and neither one wants a track meet.\n\nOwen: Kyle Hamilton is going to play like his hair is on fire. Roquan Smith too. A short week is a street fight, and we're a street-fight town.\n\nIvy: Your secondary is held together with tape. Hawkins is out. Wiggins is questionable.\n\nOwen: So is your guy Walker. Rib. And Tuten. I read the report too.\n\nIvy gave something up to be here, and she wants credit for it. Back home, JJ Grey & Mofro are playing the Jax Amphitheater on Thursday night at the Greater Jacksonville Agricultural Fair, out at the fair's new home on Normandy Boulevard. She traded swamp rock and a fried-everything food row for a cold parking lot on Russell Street and a Ravens fan who wants to talk about Dilfer.\n\nOwen: You'll catch the fair next week. My quarterback might not catch a break all month.\n\nIvy: First honest thing you've said since I landed.\n\nOwen's whole game plan fits on a napkin: feed Henry, let Hamilton hit somebody, and let Fagnano throw only when he has to. Ivy folded the napkin into a paper airplane and sailed it into his lap.\n\nOwen buys a poster before kickoff anyway. It says BALTIMORE in screaming orange, and he swears it'll look even better in January.\n\nMy call: Jaguars 25, Ravens 21.",
-   "fanatic_final_sentence": "Jaguars 25, Ravens 21.",
+   "gambler_story": "Baltimore will spend Thursday evening staring at fluorescent posters, and my Jaguars vs Ravens prediction starts in that gallery. MICA's Pinkard Gallery on Mount Royal Avenue opens \"Globe Posters for the People\" from 5 to 7 p.m., a show about the old print shop whose DayGlo cards sold this town its concerts and fight nights, and my call against the 9.5 is just as loud: Ravens with the points, and the Over 39.5.\n\nThe news first, because it's official now. The NFL.com injury report released Wednesday lists Lamar Jackson (thumb) and Tyler Huntley (toe) as Out. Joe Fagnano is the expected starter, per coach Jesse Minter through ESPN, and Fagnano went 10-of-21 with an interception in relief during the loss in Buffalo. Nobody in Baltimore is pretending that's the same offense.\n\nThe number agrees with them. DraftKings via ESPN as of Thursday, 7:00 p.m. ET, has Jacksonville −9.5 with an over/under of 39.5. Wednesday evening's consensus was Jacksonville −10. The side came back half a point toward Baltimore, and the total held at 39.5. I still think the number priced Fagnano too hard.\n\nThe Formula: Net grades Baltimore Ravens −5.5, Jacksonville Jaguars 0.7 (nflverse play-by-play, Nov 4, 2026).\n\nThat's a Jaguars side, but it isn't a 10-point side. Jacksonville is 5-2 and has allowed just 111 points in seven games, and it's 4-1 at home. On the road it's 1-1. Both teams are on 4 days of rest, so nobody gets fresher legs on a short week.\n\nWhat keeps Baltimore inside the number is Derrick Henry and the ground game. The Ravens run for 4.8 yards a carry. Jacksonville allows 3.4, so it won't be pretty, but a backup quarterback's best friend is a team that keeps handing off and keeps the clock moving. Jacksonville has health questions of its own: Bhayshul Tuten is questionable with an ankle. Baltimore's game-day inactives include corner Nate Wiggins, tackle Emery Jones Jr., defensive tackle Aeneas Peebles, receiver Elijah Sarratt and quarterback Kedon Slovis.\n\nThe total is the bigger call. Jacksonville has scored 196 points in seven games, and Baltimore's defense has given up 203 in eight. Short weeks get sloppy, sloppy games hand out short fields, and short fields turn into points. My final is 45, well clear of 39.5.\n\nThe room is with me on the side and the Over. The Formula, Next Man Up and Letdown Watch all have Baltimore plus the 9.5 and the Over. Next Man Up is the toughest on the Ravens at Jaguars 26, Ravens 19, and even that lands inside the number. In The Trenches has no pick: Baltimore tackle Emery Jones Jr. is out, and its season numbers were built with him on the field. Follow The Money has no call: the line moved half a point, under the one-point cutoff.\n\nJacksonville wins the game. Baltimore, with a backup quarterback and a building that still knows how to get loud, loses it by five.\n\nJaguars 25, Ravens 20. Ravens cover the 9.5. Over 39.5.",
+   "fanatic_story": "Owen Pratt was pressed against the glass at MICA's Pinkard Gallery on Mount Royal Avenue a full hour before \"Globe Posters for the People\" opened on Thursday. The show celebrates the old Baltimore print shop whose fluorescent posters used to scream fight nights and soul revues off every telephone pole in this town, and Owen wanted one with Joe Fagnano's name on it, in letters big enough to read from the upper deck.\n\nIvy Corcoran, up from Duval in a teal toboggan, read the first poster in the window out loud. \"One Night Only.\" She said that sounded about right for whoever plays quarterback in Baltimore this week.\n\nOwen: Laugh all you want. This town won a Super Bowl with Trent Dilfer.\n\nIvy: This town won a Super Bowl with a defense that ate people, and a quarterback who handed off and got out of the way.\n\nOwen: Exactly. That's the plan for Thursday. Hand off and get out of the way.\n\nOwen grades every Ravens season with one question: who's hitting people? Ray Lewis and Ed Reed are in Canton, and to Owen they're the measuring stick for every defense this town puts on the field. Lamar Jackson is on injured reserve with a thumb injury from the first snap in Buffalo. Tyler Huntley is on injured reserve with a toe injury from that same afternoon. Owen took that news the way his old man took the Mayflower trucks leaving for Indianapolis: in dead silence, then at full volume for about a week.\n\nIvy doesn't do feelings. She does standings, folded in her jacket and pulled out like a badge. Jacksonville is 5-2. The Jaguars have given up 111 points in seven games, which she has circled twice in red marker, and they sit on top of the AFC South. Baltimore is 4-4 and 1-2 at home.\n\nIvy: You want a poster? Print the standings. Big letters. Fluorescent.\n\nOwen: You've been in first place for a month and you act like you invented it.\n\nIvy: I've been waiting since Tony Boselli was a rookie. I earned the attitude.\n\nJacksonville fans sat through the years with tarps on the upper-deck seats. Ivy watched every snap of them, so Ravens history doesn't scare her. She just asks what he's done lately.\n\nWhat Baltimore has lately is Derrick Henry, and Owen will ride that horse until it drops. The Ravens run for 4.8 yards a carry. Ivy fires back that Jacksonville's front gives up only 3.4, and that the Jaguars run for 4.6 against a Baltimore defense that allows 3.8. Thursday turns into a shoving match up front, and neither one wants a track meet.\n\nOwen: Kyle Hamilton is going to play like his hair is on fire. Roquan Smith too. A short week is a street fight, and we're a street-fight town.\n\nIvy: Your secondary is held together with tape. Wiggins is out. Jones is inactive up front.\n\nOwen: Tuten is questionable on our side. I read the report too.\n\nIvy gave something up to be here, and she wants credit for it. Back home, JJ Grey & Mofro are playing the Jax Amphitheater on Thursday night at the Greater Jacksonville Agricultural Fair, out at the fair's new home on Normandy Boulevard. She traded swamp rock and a fried-everything food row for a cold parking lot on Russell Street and a Ravens fan who wants to talk about Dilfer.\n\nOwen: You'll catch the fair next week. My quarterback might not catch a break all month.\n\nIvy: First honest thing you've said since I landed.\n\nOwen's whole game plan fits on a napkin: feed Henry, let Hamilton hit somebody, and let Fagnano throw only when he has to. Ivy folded the napkin into a paper airplane and sailed it into his lap.\n\nOwen buys a poster before kickoff anyway. It says BALTIMORE in screaming orange, and he swears it'll look even better in January.\n\nMy call: Jaguars 25, Ravens 20.",
+   "fanatic_final_sentence": "Jaguars 25, Ravens 20.",
    "preview_sources": [],
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/jax and https://www.espn.com/nfl/team/_/name/bal, retrieved Nov 4, 6:29 PM ET"
