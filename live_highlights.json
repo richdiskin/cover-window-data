@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-07T17:01:43Z",
+ "updated_utc": "2026-11-07T20:34:27Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -1329,7 +1329,24 @@
    "kickoff_utc": "2026-11-07T17:00Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "EL3SwJwPhFM",
+    "title": "Clemson Tigers vs. Syracuse Orange | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=EL3SwJwPhFM",
+    "embed_url": "https://www.youtube-nocookie.com/embed/EL3SwJwPhFM",
+    "thumb": "https://i.ytimg.com/vi/EL3SwJwPhFM/hqdefault.jpg",
+    "duration_s": 985,
+    "uploaded_utc": "2026-11-07T20:33:14Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-07T20:34:20Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858289": {
    "game_id": "401858289",
