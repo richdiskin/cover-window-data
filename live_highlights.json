@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-07T22:06:05Z",
+ "updated_utc": "2026-11-07T23:12:28Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -1588,7 +1588,24 @@
    "kickoff_utc": "2026-11-07T18:00Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "Mxh0a_0d8xM",
+    "title": "Old Dominion Monarchs vs Coastal Carolina Chanticleers Highlights | 2026 Sun Belt Conference Footbal",
+    "channel": "Sun Belt Conference",
+    "channel_id": "UCwRkms-Zb61HtMDIjmKofmw",
+    "url": "https://www.youtube.com/watch?v=Mxh0a_0d8xM",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Mxh0a_0d8xM",
+    "thumb": "https://i.ytimg.com/vi/Mxh0a_0d8xM/hqdefault.jpg",
+    "duration_s": 512,
+    "uploaded_utc": "2026-11-07T22:31:47Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-07T23:09:04Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401869927": {
    "game_id": "401869927",
