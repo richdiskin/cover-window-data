@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-06T05:41:31Z",
+ "updated_utc": "2026-11-07T17:01:43Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -1197,7 +1197,24 @@
    "kickoff_utc": "2026-11-07T00:00Z",
    "first_seen_utc": "2026-11-06T01:07:40Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "I5HoGFENiNo",
+    "title": "Virginia Tech Hokies vs. SMU Mustangs | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=I5HoGFENiNo",
+    "embed_url": "https://www.youtube-nocookie.com/embed/I5HoGFENiNo",
+    "thumb": "https://i.ytimg.com/vi/I5HoGFENiNo/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-07T03:36:52Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-07T17:01:26Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401862818": {
    "game_id": "401862818",
@@ -1205,7 +1222,24 @@
    "kickoff_utc": "2026-11-07T00:30Z",
    "first_seen_utc": "2026-11-06T01:07:40Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "O9yCsaju3zY",
+    "title": "South Florida Bulls vs. East Carolina Pirates | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=O9yCsaju3zY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/O9yCsaju3zY",
+    "thumb": "https://i.ytimg.com/vi/O9yCsaju3zY/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-07T04:02:45Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-07T17:01:26Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858510": {
    "game_id": "401858510",
@@ -1213,7 +1247,24 @@
    "kickoff_utc": "2026-11-07T01:00Z",
    "first_seen_utc": "2026-11-06T01:07:40Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "SKEvSr6u84Q",
+    "title": "Nebraska Cornhuskers vs Illinois Fighting Illini Highlights | FOX College Football",
+    "channel": "CFB ON FOX",
+    "channel_id": "UCpwix-O6ceqMgdxhqIynzFA",
+    "url": "https://www.youtube.com/watch?v=SKEvSr6u84Q",
+    "embed_url": "https://www.youtube-nocookie.com/embed/SKEvSr6u84Q",
+    "thumb": "https://i.ytimg.com/vi/SKEvSr6u84Q/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-07T05:03:00Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-07T17:01:26Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401864533": {
    "game_id": "401864533",
@@ -1228,6 +1279,431 @@
    "matchup": "TCU Horned Frogs at Arizona Wildcats",
    "kickoff_utc": "2026-11-07T03:15Z",
    "first_seen_utc": "2026-11-06T03:32:40Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "9SVcD8x-d3M",
+    "title": "TCU vs. #22 Arizona Extended Highlights | 2026 Monster Energy Big 12 Football",
+    "channel": "Big 12 Conference",
+    "channel_id": "UCLnfOCTbfqMy_3ah8OmTHEQ",
+    "url": "https://www.youtube.com/watch?v=9SVcD8x-d3M",
+    "embed_url": "https://www.youtube-nocookie.com/embed/9SVcD8x-d3M",
+    "thumb": "https://i.ytimg.com/vi/9SVcD8x-d3M/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-07T07:56:01Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-07T17:01:43Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
+  },
+  "401856743": {
+   "game_id": "401856743",
+   "matchup": "Texas Longhorns at Missouri Tigers",
+   "kickoff_utc": "2026-11-07T17:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
+   "halftime_eligible": true
+  },
+  "401856849": {
+   "game_id": "401856849",
+   "matchup": "BYU Cougars at Utah Utes",
+   "kickoff_utc": "2026-11-07T17:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
+   "halftime_eligible": true
+  },
+  "401856853": {
+   "game_id": "401856853",
+   "matchup": "Iowa State Cyclones at Baylor Bears",
+   "kickoff_utc": "2026-11-07T17:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
+   "halftime_eligible": true
+  },
+  "401858285": {
+   "game_id": "401858285",
+   "matchup": "Clemson Tigers at Syracuse Orange",
+   "kickoff_utc": "2026-11-07T17:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
+   "halftime_eligible": true
+  },
+  "401858289": {
+   "game_id": "401858289",
+   "matchup": "Florida State Seminoles at Boston College Eagles",
+   "kickoff_utc": "2026-11-07T17:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
+   "halftime_eligible": true
+  },
+  "401858292": {
+   "game_id": "401858292",
+   "matchup": "North Carolina Tar Heels at UConn Huskies",
+   "kickoff_utc": "2026-11-07T17:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
+   "halftime_eligible": true
+  },
+  "401858512": {
+   "game_id": "401858512",
+   "matchup": "UCLA Bruins at Minnesota Golden Gophers",
+   "kickoff_utc": "2026-11-07T17:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
+   "halftime_eligible": true
+  },
+  "401862822": {
+   "game_id": "401862822",
+   "matchup": "Tulsa Golden Hurricane at Tulane Green Wave",
+   "kickoff_utc": "2026-11-07T17:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
+   "halftime_eligible": true
+  },
+  "401858286": {
+   "game_id": "401858286",
+   "matchup": "Duke Blue Devils at NC State Wolfpack",
+   "kickoff_utc": "2026-11-07T17:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401858515": {
+   "game_id": "401858515",
+   "matchup": "Maryland Terrapins at Purdue Boilermakers",
+   "kickoff_utc": "2026-11-07T17:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401856738": {
+   "game_id": "401856738",
+   "matchup": "Arkansas Razorbacks at Auburn Tigers",
+   "kickoff_utc": "2026-11-07T17:45Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401856854": {
+   "game_id": "401856854",
+   "matchup": "Oklahoma State Cowboys at Kansas State Wildcats",
+   "kickoff_utc": "2026-11-07T18:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401869945": {
+   "game_id": "401869945",
+   "matchup": "Old Dominion Monarchs at Coastal Carolina Chanticleers",
+   "kickoff_utc": "2026-11-07T18:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401869927": {
+   "game_id": "401869927",
+   "matchup": "Georgia State Panthers at App State Mountaineers",
+   "kickoff_utc": "2026-11-07T19:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401856744": {
+   "game_id": "401856744",
+   "matchup": "Texas A&M Aggies at South Carolina Gamecocks",
+   "kickoff_utc": "2026-11-07T20:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401869936": {
+   "game_id": "401869936",
+   "matchup": "UL Monroe Warhawks at Arkansas State Red Wolves",
+   "kickoff_utc": "2026-11-07T20:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401871073": {
+   "game_id": "401871073",
+   "matchup": "Delaware Blue Hens at Kennesaw State Owls",
+   "kickoff_utc": "2026-11-07T20:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401856740": {
+   "game_id": "401856740",
+   "matchup": "Alabama Crimson Tide at LSU Tigers",
+   "kickoff_utc": "2026-11-07T20:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401856851": {
+   "game_id": "401856851",
+   "matchup": "Cincinnati Bearcats at Houston Cougars",
+   "kickoff_utc": "2026-11-07T20:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401858290": {
+   "game_id": "401858290",
+   "matchup": "Merrimack Warriors at Wake Forest Demon Deacons",
+   "kickoff_utc": "2026-11-07T20:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401858514": {
+   "game_id": "401858514",
+   "matchup": "Oregon Ducks at Ohio State Buckeyes",
+   "kickoff_utc": "2026-11-07T20:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401858516": {
+   "game_id": "401858516",
+   "matchup": "Penn State Nittany Lions at Washington Huskies",
+   "kickoff_utc": "2026-11-07T20:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401862819": {
+   "game_id": "401862819",
+   "matchup": "Charlotte 49ers at UAB Blazers",
+   "kickoff_utc": "2026-11-07T20:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401862820": {
+   "game_id": "401862820",
+   "matchup": "Temple Owls at Navy Midshipmen",
+   "kickoff_utc": "2026-11-07T20:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401869951": {
+   "game_id": "401869951",
+   "matchup": "Marshall Thundering Herd at Georgia Southern Eagles",
+   "kickoff_utc": "2026-11-07T20:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401871076": {
+   "game_id": "401871076",
+   "matchup": "Western Kentucky Hilltoppers at Middle Tennessee Blue Raiders",
+   "kickoff_utc": "2026-11-07T20:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401856850": {
+   "game_id": "401856850",
+   "matchup": "UCF Knights at Kansas Jayhawks",
+   "kickoff_utc": "2026-11-07T20:45Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401862821": {
+   "game_id": "401862821",
+   "matchup": "Rice Owls at North Texas Mean Green",
+   "kickoff_utc": "2026-11-07T21:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401864534": {
+   "game_id": "401864534",
+   "matchup": "Northern Illinois Huskies at San José State Spartans",
+   "kickoff_utc": "2026-11-07T21:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401871074": {
+   "game_id": "401871074",
+   "matchup": "Missouri State Bears at Florida International Panthers",
+   "kickoff_utc": "2026-11-07T21:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401871098": {
+   "game_id": "401871098",
+   "matchup": "Louisiana Tech Bulldogs at Troy Trojans",
+   "kickoff_utc": "2026-11-07T21:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401856742": {
+   "game_id": "401856742",
+   "matchup": "Vanderbilt Commodores at Mississippi State Bulldogs",
+   "kickoff_utc": "2026-11-07T21:15Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401858517": {
+   "game_id": "401858517",
+   "matchup": "Rutgers Scarlet Knights at Wisconsin Badgers",
+   "kickoff_utc": "2026-11-07T21:15Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401869968": {
+   "game_id": "401869968",
+   "matchup": "South Alabama Jaguars at Louisiana Ragin' Cajuns",
+   "kickoff_utc": "2026-11-07T22:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401860911": {
+   "game_id": "401860911",
+   "matchup": "Boise State Broncos at Colorado State Rams",
+   "kickoff_utc": "2026-11-07T23:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401856745": {
+   "game_id": "401856745",
+   "matchup": "Kentucky Wildcats at Tennessee Volunteers",
+   "kickoff_utc": "2026-11-07T23:15Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401871075": {
+   "game_id": "401871075",
+   "matchup": "Sam Houston Bearkats at Jacksonville State Gamecocks",
+   "kickoff_utc": "2026-11-08T00:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401856741": {
+   "game_id": "401856741",
+   "matchup": "Georgia Bulldogs at Ole Miss Rebels",
+   "kickoff_utc": "2026-11-08T00:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401856852": {
+   "game_id": "401856852",
+   "matchup": "Colorado Buffaloes at Arizona State Sun Devils",
+   "kickoff_utc": "2026-11-08T00:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401858287": {
+   "game_id": "401858287",
+   "matchup": "Louisville Cardinals at Georgia Tech Yellow Jackets",
+   "kickoff_utc": "2026-11-08T00:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401858291": {
+   "game_id": "401858291",
+   "matchup": "Miami Hurricanes at Notre Dame Fighting Irish",
+   "kickoff_utc": "2026-11-08T00:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401858511": {
+   "game_id": "401858511",
+   "matchup": "Michigan State Spartans at Michigan Wolverines",
+   "kickoff_utc": "2026-11-08T00:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401858513": {
+   "game_id": "401858513",
+   "matchup": "Iowa Hawkeyes at Northwestern Wildcats",
+   "kickoff_utc": "2026-11-08T00:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401862823": {
+   "game_id": "401862823",
+   "matchup": "Air Force Falcons at Army Black Knights",
+   "kickoff_utc": "2026-11-08T00:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401856739": {
+   "game_id": "401856739",
+   "matchup": "Oklahoma Sooners at Florida Gators",
+   "kickoff_utc": "2026-11-08T00:45Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401870795": {
+   "game_id": "401870795",
+   "matchup": "Liberty Flames at New Mexico State Aggies",
+   "kickoff_utc": "2026-11-08T01:00Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401856856": {
+   "game_id": "401856856",
+   "matchup": "West Virginia Mountaineers at Texas Tech Red Raiders",
+   "kickoff_utc": "2026-11-08T02:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401860913": {
+   "game_id": "401860913",
+   "matchup": "Fresno State Bulldogs at Utah State Aggies",
+   "kickoff_utc": "2026-11-08T02:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401864532": {
+   "game_id": "401864532",
+   "matchup": "Hawai'i Rainbow Warriors at UTEP Miners",
+   "kickoff_utc": "2026-11-08T02:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401860912": {
+   "game_id": "401860912",
+   "matchup": "Texas State Bobcats at Oregon State Beavers",
+   "kickoff_utc": "2026-11-08T03:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401864535": {
+   "game_id": "401864535",
+   "matchup": "Wyoming Cowboys at UNLV Rebels",
+   "kickoff_utc": "2026-11-08T03:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
    "halftime_eligible": true
   }

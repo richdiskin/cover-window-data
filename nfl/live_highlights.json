@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "nfl",
- "updated_utc": "2026-11-06T01:08:59Z",
+ "updated_utc": "2026-11-07T17:01:43Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401873026": {
@@ -164,6 +164,14 @@
    "matchup": "Jacksonville Jaguars at Baltimore Ravens",
    "kickoff_utc": "2026-11-06T01:15Z",
    "first_seen_utc": "2026-11-06T01:07:40Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873038": {
+   "game_id": "401873038",
+   "matchup": "Cincinnati Bengals at Atlanta Falcons",
+   "kickoff_utc": "2026-11-08T14:30Z",
+   "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
    "halftime_eligible": true
   }
