@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-07T21:31:06Z",
+ "updated_utc": "2026-11-07T22:06:05Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -1538,7 +1538,24 @@
    "kickoff_utc": "2026-11-07T17:45Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "wiwmERSr-mA",
+    "title": "Arkansas Razorbacks vs. Auburn Tigers | Game Highlights | 2026 SEC Football",
+    "channel": "SEC",
+    "channel_id": "UC60q_WUDde_NK-ze3frvtiA",
+    "url": "https://www.youtube.com/watch?v=wiwmERSr-mA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/wiwmERSr-mA",
+    "thumb": "https://i.ytimg.com/vi/wiwmERSr-mA/hqdefault.jpg",
+    "duration_s": 478,
+    "uploaded_utc": "2026-11-07T21:52:22Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-07T22:05:59Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856854": {
    "game_id": "401856854",
@@ -1546,7 +1563,24 @@
    "kickoff_utc": "2026-11-07T18:00Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "DgwfPY49nX0",
+    "title": "Drew Mestemaker Highlights - Oklahoma State vs Kansas State",
+    "channel": "Oklahoma State Athletics",
+    "channel_id": "UCiPbE1TBmEfgUWcQJUztxrQ",
+    "url": "https://www.youtube.com/watch?v=DgwfPY49nX0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/DgwfPY49nX0",
+    "thumb": "https://i.ytimg.com/vi/DgwfPY49nX0/hqdefault.jpg",
+    "duration_s": 408,
+    "uploaded_utc": "2026-11-07T21:58:00Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-07T22:05:59Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401869945": {
    "game_id": "401869945",
