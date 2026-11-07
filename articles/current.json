@@ -4,9 +4,661 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 268,
+  "count": 276,
   "lead_id": "fanatic_team-indiana",
   "articles": [
+    {
+      "id": "fanatic_team-nevada-2026-11-06",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "nevada",
+      "team_ids": [
+        "nevada"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864533",
+      "title": "Nevada vs New Mexico: Blanked After Halftime in a 3-31 Home Loss",
+      "byline": "Ridge Corbell, The Nevada Fanatic",
+      "matchup": "Final: New Mexico Lobos (8-1) 31, Nevada Wolf Pack (3-6) 3, Fri., Nov. 6, Mackay Stadium, Reno. Next: at Northern Illinois, Sat., Nov. 14, 3:30 PM ET, Huskie Stadium, DeKalb",
+      "date": "2026-11-06",
+      "word_count": 303,
+      "text": "Nevada Wolf Pack 3, New Mexico Lobos 31. Final score 31-3 at Mackay Stadium, and it was a long Friday night in Reno. Three and six. Two and three in the Mountain West. We hosted a ranked Lobo team and never got the second half started the way this crowd wanted.\n\nJacob Fernandez hit a 32-yard field goal late in the first half for our only points, cutting it to 14-3 for a minute. That was the highlight. AJ Bianco went 14 of 31 for 106 yards and lost a fumble. We rushed for minus-9 yards as a team. Six first downs. Two of 15 on third down. Ten punts from Ewan Baulch. Ninety-seven yards of offense against a New Mexico defense that sat on us for 38 minutes. Dylan LaBarbera led us with nine tackles and three sacks. The effort was there. The yards were not.\n\nScottre Humphrey ran for 107 and two scores. Kiefer Sibley hit us for a 31-yard touchdown run. Toa Fa'avae found Cade Keith from 25 in the fourth. Nick Romero added a 37-yard field goal. They put up 374 yards and never turned it over. We turned it over once and spent the night in third-and-long. That is how you get blanked after the half on your own field.\n\nThe first half at least had a pulse when Fernandez drilled the 32-yarder. After the break it was Humphrey from 1, Keith from 25, Romero from 37, and the student section checking the exits. Hard night for a home crowd that showed up ready for a fight and got a clinic instead.\n\nNorthern Illinois on the road Saturday, Nov. 14, at 3:30 PM ET. Huskie Stadium in DeKalb. Fix the run game, win third down, and put points on the board before this season slips further. Pack up.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Nevada Wolf Pack 3, New Mexico Lobos 31. Final score 31-3 at Mackay Stadium, and it was a long Friday night in Reno. Three and six. Two and three in the Mountain West. We hosted a ranked Lobo team and never got the second half started the way this crowd wanted."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jacob Fernandez hit a 32-yard field goal late in the first half for our only points, cutting it to 14-3 for a minute. That was the highlight. AJ Bianco went 14 of 31 for 106 yards and lost a fumble. We rushed for minus-9 yards as a team. Six first downs. Two of 15 on third down. Ten punts from Ewan Baulch. Ninety-seven yards of offense against a New Mexico defense that sat on us for 38 minutes. Dylan LaBarbera led us with nine tackles and three sacks. The effort was there. The yards were not."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scottre Humphrey ran for 107 and two scores. Kiefer Sibley hit us for a 31-yard touchdown run. Toa Fa'avae found Cade Keith from 25 in the fourth. Nick Romero added a 37-yard field goal. They put up 374 yards and never turned it over. We turned it over once and spent the night in third-and-long. That is how you get blanked after the half on your own field."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half at least had a pulse when Fernandez drilled the 32-yarder. After the break it was Humphrey from 1, Keith from 25, Romero from 37, and the student section checking the exits. Hard night for a home crowd that showed up ready for a fight and got a clinic instead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Northern Illinois on the road Saturday, Nov. 14, at 3:30 PM ET. Huskie Stadium in DeKalb. Fix the run game, win third down, and put points on the board before this season slips further. Pack up."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Nevada lost to New Mexico 31-3 on Friday, Nov. 6, at Mackay Stadium and fell to 3-6, 2-3 in the Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "Jacob Fernandez's 32-yard field goal was Nevada's only score; the Wolf Pack managed 97 yards and minus-9 rushing."
+        },
+        {
+          "type": "jab",
+          "text": "Six first downs and 10 punts at home. That is not Mackay football."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Northern Illinois, Saturday, Nov. 14, 3:30 PM ET, Huskie Stadium, DeKalb."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, New Mexico 31, Nevada 3 (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864533"
+        },
+        {
+          "label": "ESPN play-by-play, New Mexico at Nevada (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864533"
+        },
+        {
+          "label": "ESPN game recap, New Mexico 31-3 Nevada (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864533"
+        },
+        {
+          "label": "New Mexico Athletics box score: Football at Nevada 11/6/2026",
+          "url": "https://golobos.com/boxscore/12488"
+        },
+        {
+          "label": "Nevada Athletics gameday: Football vs New Mexico",
+          "url": "https://nevadawolfpack.com/gameday/football-vs--22-25-new-mexico/football/4766/"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-new-mexico-2026-11-06",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "new-mexico",
+      "team_ids": [
+        "new-mexico"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864533",
+      "title": "New Mexico vs Nevada: Humphrey, Sibley and a 31-3 Road Statement",
+      "byline": "Paloma Begaye-Ortiz, The New Mexico Fanatic",
+      "matchup": "Final: New Mexico Lobos (8-1) 31, Nevada Wolf Pack (3-6) 3, Fri., Nov. 6, Mackay Stadium, Reno. Next: vs UNLV, Sat., Nov. 14, 7:30 PM ET, University Stadium, Albuquerque",
+      "date": "2026-11-06",
+      "word_count": 301,
+      "text": "Thirty-one to three. Final score 31-3 at Mackay Stadium in Reno, and the Lobos just rolled into town and took the building. New Mexico 31, Nevada 3. Eight and one. Five and oh in the Mountain West. Road win number four. Keep the music on for the flight home to Albuquerque.\n\nScottre Humphrey ran the show on the ground. Seventeen carries for 107 yards and two scores, from 2 yards and from 1. Kiefer Sibley ripped a 31-yard touchdown run and finished with 54 yards on 12 carries. Toa Fa'avae went 14 of 20 for 150 yards and found Cade Keith from 25 in the fourth. Keith caught four for 63. Nick Romero was perfect on four extras and drilled a 37-yard field goal. We put up 374 yards of offense, 213 on the ground, and sat on the ball for 38 minutes and 36 seconds. Zero turnovers. That is Lobo football in November.\n\nNevada managed 97 yards and minus-9 on the ground. AJ Bianco went 14 of 31 for 106 with a fumble lost. Their only points were a 32-yard field goal from Jacob Fernandez late in the first half that made it 14-3. After that it was all turquoise. Jayden Flaker led us with six tackles. Brett Karhu had 1.5 sacks. We were 9 of 16 on third down and never let Mackay get loud for long.\n\nFirst quarter: Humphrey from 2, Sibley from 31, and we were already up 14-0. Third quarter: Humphrey again from 1. Fourth: Keith from 25, then Romero from 37. Clean. Physical. Exactly the kind of road statement a ranked Mountain West leader is supposed to make on a Friday night in Reno.\n\nUNLV comes to University Stadium on Saturday, Nov. 14, at 7:30 PM ET. Home crowd. Same grind. Same identity. Lobos up.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Thirty-one to three. Final score 31-3 at Mackay Stadium in Reno, and the Lobos just rolled into town and took the building. New Mexico 31, Nevada 3. Eight and one. Five and oh in the Mountain West. Road win number four. Keep the music on for the flight home to Albuquerque."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scottre Humphrey ran the show on the ground. Seventeen carries for 107 yards and two scores, from 2 yards and from 1. Kiefer Sibley ripped a 31-yard touchdown run and finished with 54 yards on 12 carries. Toa Fa'avae went 14 of 20 for 150 yards and found Cade Keith from 25 in the fourth. Keith caught four for 63. Nick Romero was perfect on four extras and drilled a 37-yard field goal. We put up 374 yards of offense, 213 on the ground, and sat on the ball for 38 minutes and 36 seconds. Zero turnovers. That is Lobo football in November."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nevada managed 97 yards and minus-9 on the ground. AJ Bianco went 14 of 31 for 106 with a fumble lost. Their only points were a 32-yard field goal from Jacob Fernandez late in the first half that made it 14-3. After that it was all turquoise. Jayden Flaker led us with six tackles. Brett Karhu had 1.5 sacks. We were 9 of 16 on third down and never let Mackay get loud for long."
+        },
+        {
+          "type": "paragraph",
+          "text": "First quarter: Humphrey from 2, Sibley from 31, and we were already up 14-0. Third quarter: Humphrey again from 1. Fourth: Keith from 25, then Romero from 37. Clean. Physical. Exactly the kind of road statement a ranked Mountain West leader is supposed to make on a Friday night in Reno."
+        },
+        {
+          "type": "paragraph",
+          "text": "UNLV comes to University Stadium on Saturday, Nov. 14, at 7:30 PM ET. Home crowd. Same grind. Same identity. Lobos up."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "New Mexico beat Nevada 31-3 on Friday, Nov. 6, at Mackay Stadium and moved to 8-1, 5-0 in the Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "Scottre Humphrey ran for 107 yards and two scores; Kiefer Sibley added a 31-yard touchdown run; Toa Fa'avae threw a touchdown to Cade Keith."
+        },
+        {
+          "type": "jab",
+          "text": "We held them to 97 yards and minus-9 rushing. Mackay never got going."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs UNLV, Saturday, Nov. 14, 7:30 PM ET, University Stadium, Albuquerque."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, New Mexico 31, Nevada 3 (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864533"
+        },
+        {
+          "label": "ESPN play-by-play, New Mexico at Nevada (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864533"
+        },
+        {
+          "label": "ESPN game recap, New Mexico 31-3 Nevada (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864533"
+        },
+        {
+          "label": "New Mexico Athletics box score: Football at Nevada 11/6/2026",
+          "url": "https://golobos.com/boxscore/12488"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-nebraska-2026-11-06",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "nebraska",
+      "team_ids": [
+        "nebraska"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858510",
+      "title": "Nebraska vs Illinois: Fourth Straight Loss, 13-24 in Champaign",
+      "byline": "Darla Rasmussen, The Nebraska Fanatic",
+      "matchup": "Final: Nebraska Cornhuskers (5-4) 13, Illinois Fighting Illini (6-3) 24, Fri., Nov. 6, Gies Memorial Stadium, Champaign. Next: at Rutgers, Sat., Nov. 14, 12:30 PM ET, SHI Stadium, Piscataway",
+      "date": "2026-11-06",
+      "word_count": 311,
+      "text": "Nebraska Cornhuskers 13, Illinois Fighting Illini 24. Final score 24-13 from Champaign, and it is a fourth straight loss. Five and four. Two and four in the Big Ten. We flew into Gies Memorial Stadium with a chance to snap the skid on a Friday night and left watching Illinois celebrate Dads Day.\n\nAnthony Colandrea put up numbers. Thirty-two of 43 for 284 yards and a touchdown. Jacory Barney Jr. caught six for 93, including a 51-yard score in the fourth that cut it to 13-21 before the two-point try failed. Jamal Rule ran for 69. Mekhi Nelson opened the scoring with a 15-yard run. We outgained them in first downs, 25 to 19, and put up 426 yards to their 376. John Hohl missed both of his field goal tries. That will keep you up on the flight home.\n\nIllinois answered every good drive we had. Katin Houser threw three touchdowns. Collin Dixon caught two of them and finished with 129 yards. Their punter, Lars Rau, ran 29 yards on a fake field goal that set up a 5-yard score to Jordan Anderson. Suddenly it was 14-7, then 21-7, then 24-13 after Ethan Moczulski's 21-yard kick. We had zero turnovers and still could not finish. Eleven penalties for 82 yards did not help. Vincent Shavers Jr. led us with seven tackles.\n\nThe fourth quarter had a pulse when Barney went long, but the two-point miss and the missed kicks earlier left us needing miracles. Illinois got the stops. We got the long flight home. Four in a row is a stretch that tests a locker room, and this one was earned the hard way on the road in Champaign.\n\nRutgers on Saturday, Nov. 14, at 12:30 PM ET in Piscataway. SHI Stadium. Make the kicks, clean up the flags, and get a win before Ohio State week. Go Big Red.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Nebraska Cornhuskers 13, Illinois Fighting Illini 24. Final score 24-13 from Champaign, and it is a fourth straight loss. Five and four. Two and four in the Big Ten. We flew into Gies Memorial Stadium with a chance to snap the skid on a Friday night and left watching Illinois celebrate Dads Day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anthony Colandrea put up numbers. Thirty-two of 43 for 284 yards and a touchdown. Jacory Barney Jr. caught six for 93, including a 51-yard score in the fourth that cut it to 13-21 before the two-point try failed. Jamal Rule ran for 69. Mekhi Nelson opened the scoring with a 15-yard run. We outgained them in first downs, 25 to 19, and put up 426 yards to their 376. John Hohl missed both of his field goal tries. That will keep you up on the flight home."
+        },
+        {
+          "type": "paragraph",
+          "text": "Illinois answered every good drive we had. Katin Houser threw three touchdowns. Collin Dixon caught two of them and finished with 129 yards. Their punter, Lars Rau, ran 29 yards on a fake field goal that set up a 5-yard score to Jordan Anderson. Suddenly it was 14-7, then 21-7, then 24-13 after Ethan Moczulski's 21-yard kick. We had zero turnovers and still could not finish. Eleven penalties for 82 yards did not help. Vincent Shavers Jr. led us with seven tackles."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fourth quarter had a pulse when Barney went long, but the two-point miss and the missed kicks earlier left us needing miracles. Illinois got the stops. We got the long flight home. Four in a row is a stretch that tests a locker room, and this one was earned the hard way on the road in Champaign."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rutgers on Saturday, Nov. 14, at 12:30 PM ET in Piscataway. SHI Stadium. Make the kicks, clean up the flags, and get a win before Ohio State week. Go Big Red."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Nebraska lost to Illinois 24-13 on Friday, Nov. 6, at Gies Memorial Stadium and fell to 5-4, 2-4 in the Big Ten."
+        },
+        {
+          "type": "fact",
+          "text": "Anthony Colandrea threw for 284 yards and a touchdown to Jacory Barney Jr.; Mekhi Nelson scored on a 15-yard run."
+        },
+        {
+          "type": "jab",
+          "text": "We had 426 yards and 25 first downs and still lost by 11. Finish the drives."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Rutgers, Saturday, Nov. 14, 12:30 PM ET, SHI Stadium, Piscataway."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Illinois 24, Nebraska 13 (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858510"
+        },
+        {
+          "label": "ESPN play-by-play, Nebraska at Illinois (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858510"
+        },
+        {
+          "label": "ESPN game recap, Illinois 24-13 Nebraska (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858510"
+        },
+        {
+          "label": "Illinois Athletics: Illinois Extends Winning Streak to Four With Home Victory Over Nebraska",
+          "url": "https://fightingillini.com/news/2026/11/6/football-illinois-extends-winning-streak-to-four-with-home-victory-over-nebraska"
+        },
+        {
+          "label": "Nebraska Athletics box score: Football at Illinois 11/6/2026",
+          "url": "https://huskers.com/boxscore/21839"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-illinois-2026-11-06",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "illinois",
+      "team_ids": [
+        "illinois"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858510",
+      "title": "Illinois vs Nebraska: Houser, Dixon, Fake Kick and a 24-13 Dads Day Win",
+      "byline": "Margery Vandermolen, The Illinois Fanatic",
+      "matchup": "Final: Nebraska Cornhuskers (5-4) 13, Illinois Fighting Illini (6-3) 24, Fri., Nov. 6, Gies Memorial Stadium, Champaign. Next: at UCLA, Fri., Nov. 13, 9:00 PM ET, Rose Bowl, Pasadena",
+      "date": "2026-11-06",
+      "word_count": 316,
+      "text": "Twenty-four to thirteen. Final score 24-13. Gies Memorial Stadium under the lights for Dads Day and a Hail to the Blue Out, 58,587 strong, and the Fighting Illini just ran the winning streak to four. Six and three. Four and two in the Big Ten. Champaign is loud again, and bowl talk is not a whisper anymore.\n\nKatin Houser went 22 of 36 for 292 yards and three touchdowns. Collin Dixon was the show: eight catches for 129 yards and two scores, including a 3-yarder before the half that tied it 7-7 and a 6-yarder early in the fourth that made it 21-7. Illinois Athletics says Dixon now owns the program's single-season touchdown receptions record. Hudson Clement added five grabs for 87. And the fake field goal? Lars Rau took it 29 yards on fourth-and-12, setting up Jordan Anderson's 5-yard score for a 14-7 lead. Ethan Moczulski drilled a 21-yarder later. Perfect timing on a Friday night.\n\nNebraska struck first when Mekhi Nelson ran in from 15. Anthony Colandrea threw for 284 and hit Jacory Barney Jr. from 51 in the fourth to make it 13-21 after a failed two-point try. We answered with Moczulski's kick and then got stops. Matthew Bailey led us with 11 tackles. James Kreutz had 10. Zero turnovers both ways. We only ran for 84 yards as a team and still controlled the second half when it counted.\n\nThat fake kick is going straight into the Gies highlight reel. Fourth-and-12 from the Nebraska 32, and Rau just took off. Three plays later Anderson is in the end zone and the place is bouncing. Dixon's record night on top of it. Fourth straight win. Belief is back in orange and blue around Champaign.\n\nNext stop: the Rose Bowl on Friday, Nov. 13, at 9 PM ET against UCLA. Ranked road test. Pack the same Friday night toughness we showed the Huskers. I-L-L.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Twenty-four to thirteen. Final score 24-13. Gies Memorial Stadium under the lights for Dads Day and a Hail to the Blue Out, 58,587 strong, and the Fighting Illini just ran the winning streak to four. Six and three. Four and two in the Big Ten. Champaign is loud again, and bowl talk is not a whisper anymore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Katin Houser went 22 of 36 for 292 yards and three touchdowns. Collin Dixon was the show: eight catches for 129 yards and two scores, including a 3-yarder before the half that tied it 7-7 and a 6-yarder early in the fourth that made it 21-7. Illinois Athletics says Dixon now owns the program's single-season touchdown receptions record. Hudson Clement added five grabs for 87. And the fake field goal? Lars Rau took it 29 yards on fourth-and-12, setting up Jordan Anderson's 5-yard score for a 14-7 lead. Ethan Moczulski drilled a 21-yarder later. Perfect timing on a Friday night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nebraska struck first when Mekhi Nelson ran in from 15. Anthony Colandrea threw for 284 and hit Jacory Barney Jr. from 51 in the fourth to make it 13-21 after a failed two-point try. We answered with Moczulski's kick and then got stops. Matthew Bailey led us with 11 tackles. James Kreutz had 10. Zero turnovers both ways. We only ran for 84 yards as a team and still controlled the second half when it counted."
+        },
+        {
+          "type": "paragraph",
+          "text": "That fake kick is going straight into the Gies highlight reel. Fourth-and-12 from the Nebraska 32, and Rau just took off. Three plays later Anderson is in the end zone and the place is bouncing. Dixon's record night on top of it. Fourth straight win. Belief is back in orange and blue around Champaign."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next stop: the Rose Bowl on Friday, Nov. 13, at 9 PM ET against UCLA. Ranked road test. Pack the same Friday night toughness we showed the Huskers. I-L-L."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Illinois beat Nebraska 24-13 on Friday, Nov. 6, at Gies Memorial Stadium and moved to 6-3, 4-2 in the Big Ten with a fourth straight win."
+        },
+        {
+          "type": "fact",
+          "text": "Katin Houser threw three touchdowns; Collin Dixon caught two and finished with 129 yards; Lars Rau's 29-yard fake field goal set up the go-ahead score."
+        },
+        {
+          "type": "jab",
+          "text": "They scored first. We scored the next 21 and sent Memorial Stadium home happy."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at UCLA, Friday, Nov. 13, 9:00 PM ET, Rose Bowl, Pasadena."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Illinois 24, Nebraska 13 (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858510"
+        },
+        {
+          "label": "ESPN play-by-play, Nebraska at Illinois (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858510"
+        },
+        {
+          "label": "ESPN game recap, Illinois 24-13 Nebraska (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858510"
+        },
+        {
+          "label": "Illinois Athletics: Illinois Extends Winning Streak to Four With Home Victory Over Nebraska",
+          "url": "https://fightingillini.com/news/2026/11/6/football-illinois-extends-winning-streak-to-four-with-home-victory-over-nebraska"
+        },
+        {
+          "label": "News-Gazette: FINAL | Illinois 24, Nebraska 13",
+          "url": "https://www.news-gazette.com/sports/final-illinois-24-nebraska-13/article_e9b6e008-74df-4886-8684-a32bfd292f4f.html"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-south-florida-2026-11-06",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "south-florida",
+      "team_ids": [
+        "south-florida"
+      ],
+      "tab_id": "aac",
+      "game_id": "401862818",
+      "title": "South Florida vs East Carolina: One Kick From Greenville Stings 17-20",
+      "byline": "Reina Valdés-Kowalski, The South Florida Fanatic",
+      "matchup": "Final: South Florida Bulls (6-3) 17, East Carolina Pirates (5-4) 20, Fri., Nov. 6, Dowdy-Ficklen Stadium, Greenville. Next: vs Memphis, Thu., Nov. 12, 8:00 PM ET, Raymond James Stadium, Tampa",
+      "date": "2026-11-06",
+      "word_count": 328,
+      "text": "South Florida Bulls 17, East Carolina Pirates 20. Final score 20-17. A 55-yard kick at the gun in Greenville, and we walk out of Dowdy-Ficklen with a gut punch. Six and three. Two and three in the American. We had this game tied with under 10 minutes left and still flew home empty-handed after a long Friday night.\n\nLuke Kromenhoek did his job in place of the usual starter. Seventeen of 21 for 179 yards and a touchdown, the 26-yarder to Bryson Rodgers that opened the scoring at 7-0. D.J. Crowther ran hard for 111 yards on 17 carries and added three catches for 42. Jason Collins Jr. punched in from a yard out to tie it 17-17 in the fourth. Nico Gramatica was good from 30. We put up 329 yards and never threw an interception. Zero turnovers. On paper that should travel and win you a road game in November.\n\nHere is what killed us. One of 10 on third down. Seven punts. Emory Williams found Landon Sides twice for scores, and Sides finished with 14 catches for 126. Ashton Gray ran for 101. We led 10-3 late in the half, gave up a 15-yard Sides score before the break, then watched an 8-yarder in the third put them ahead 17-10. Grayson Howard led us with 13 tackles and 1.5 sacks. The defense kept answering until it could not answer a 55-yarder from Andrew Conrad.\n\nConrad's kick with two seconds left is going to live rent-free for a while. We had the ball game knotted and the clock on our side of the argument, then one swing of a leg flipped the airport mood. That is a road loss in November, not a fluke of the schedule, and it drops us in the American race.\n\nMemphis comes to Raymond James Stadium on Thursday, Nov. 12, at 8 PM ET. Home night under the lights. Fix third down, finish drives, and make Tampa loud again. Bulls up.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "South Florida Bulls 17, East Carolina Pirates 20. Final score 20-17. A 55-yard kick at the gun in Greenville, and we walk out of Dowdy-Ficklen with a gut punch. Six and three. Two and three in the American. We had this game tied with under 10 minutes left and still flew home empty-handed after a long Friday night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Luke Kromenhoek did his job in place of the usual starter. Seventeen of 21 for 179 yards and a touchdown, the 26-yarder to Bryson Rodgers that opened the scoring at 7-0. D.J. Crowther ran hard for 111 yards on 17 carries and added three catches for 42. Jason Collins Jr. punched in from a yard out to tie it 17-17 in the fourth. Nico Gramatica was good from 30. We put up 329 yards and never threw an interception. Zero turnovers. On paper that should travel and win you a road game in November."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here is what killed us. One of 10 on third down. Seven punts. Emory Williams found Landon Sides twice for scores, and Sides finished with 14 catches for 126. Ashton Gray ran for 101. We led 10-3 late in the half, gave up a 15-yard Sides score before the break, then watched an 8-yarder in the third put them ahead 17-10. Grayson Howard led us with 13 tackles and 1.5 sacks. The defense kept answering until it could not answer a 55-yarder from Andrew Conrad."
+        },
+        {
+          "type": "paragraph",
+          "text": "Conrad's kick with two seconds left is going to live rent-free for a while. We had the ball game knotted and the clock on our side of the argument, then one swing of a leg flipped the airport mood. That is a road loss in November, not a fluke of the schedule, and it drops us in the American race."
+        },
+        {
+          "type": "paragraph",
+          "text": "Memphis comes to Raymond James Stadium on Thursday, Nov. 12, at 8 PM ET. Home night under the lights. Fix third down, finish drives, and make Tampa loud again. Bulls up."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "South Florida lost to East Carolina 20-17 on Friday, Nov. 6, at Dowdy-Ficklen Stadium on a 55-yard field goal as time expired."
+        },
+        {
+          "type": "fact",
+          "text": "Luke Kromenhoek threw for 179 yards and a score; D.J. Crowther ran for 111; Jason Collins Jr. tied it at 17-17 in the fourth."
+        },
+        {
+          "type": "jab",
+          "text": "Zero turnovers and we still lost on the last kick. Third down at 1 of 10 will do that."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Memphis, Thursday, Nov. 12, 8:00 PM ET, Raymond James Stadium, Tampa."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, East Carolina 20, South Florida 17 (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862818"
+        },
+        {
+          "label": "ESPN play-by-play, South Florida at East Carolina (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401862818"
+        },
+        {
+          "label": "ESPN game recap, East Carolina 20-17 South Florida (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401862818"
+        },
+        {
+          "label": "AP: Andrew Conrad's 55-yard FG with 2 seconds left lifts East Carolina over South Florida 20-17",
+          "url": "https://apnews.com/article/south-florida-east-carolina-score-164514d2fe8ac133fd5b09eb3e555e24"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-east-carolina-2026-11-06",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "east-carolina",
+      "team_ids": [
+        "east-carolina"
+      ],
+      "tab_id": "aac",
+      "game_id": "401862818",
+      "title": "East Carolina vs South Florida: Conrad's 55-Yard Stunner Wins It 20-17",
+      "byline": "Bartholomew 'Bart' Quidley, The East Carolina Fanatic",
+      "matchup": "Final: South Florida Bulls (6-3) 17, East Carolina Pirates (5-4) 20, Fri., Nov. 6, Dowdy-Ficklen Stadium, Greenville. Next: at Charlotte, Sat., Nov. 14, 1:00 PM ET, Jerry Richardson Stadium, Charlotte",
+      "date": "2026-11-06",
+      "word_count": 314,
+      "text": "Twenty to seventeen. Dowdy-Ficklen Stadium, 33,708 strong on a Friday night in Greenville, and Andrew Conrad just drilled a 55-yard field goal as time expired. East Carolina Pirates 20, South Florida Bulls 17. Final score 20-17. Five and four. Three and two in the American. One win from bowl eligibility, and the place absolutely lost its mind.\n\nEmory Williams stepped in and delivered when we needed him most. Nineteen of 27 for 175 yards and two touchdowns, both to Landon Sides, who was everywhere: 14 catches for 126 yards, scores from 15 and 8 that flipped the half and then the third quarter. Ashton Gray ran for 101 on 18 carries and kept the chains moving. Noah Perez hit a 44-yarder in the second. We trailed 10-3 late in the half, then Williams found Sides from 15 with 31 seconds left to knot it at 10-10. Out of the break, Sides again from 8 for a 17-10 lead that felt huge in this building.\n\nSouth Florida tied it at 17-17 when Jason Collins Jr. walked in from a yard out in the fourth. Luke Kromenhoek had thrown a 26-yard score to Bryson Rodgers early, and D.J. Crowther ran for 111. Our defense bent but got stops when it mattered. Kamaurri McKinley led us with 11 tackles. We turned one ball over and still found a way to finish the night.\n\nThen the final drive. Conrad, career long, 55 yards, ball through the uprights with two seconds showing. The AP called it a lift. From the student section it looked like a rocket leaving the pad. Mitch Griffis and TJ Engleman Jr. both left earlier; Williams and Gray carried the load anyway and never flinched.\n\nCharlotte on the road Saturday, Nov. 14, at 1 PM ET. Jerry Richardson Stadium. Take this Friday night feeling with us and punch that bowl ticket. Purple and gold forever.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Twenty to seventeen. Dowdy-Ficklen Stadium, 33,708 strong on a Friday night in Greenville, and Andrew Conrad just drilled a 55-yard field goal as time expired. East Carolina Pirates 20, South Florida Bulls 17. Final score 20-17. Five and four. Three and two in the American. One win from bowl eligibility, and the place absolutely lost its mind."
+        },
+        {
+          "type": "paragraph",
+          "text": "Emory Williams stepped in and delivered when we needed him most. Nineteen of 27 for 175 yards and two touchdowns, both to Landon Sides, who was everywhere: 14 catches for 126 yards, scores from 15 and 8 that flipped the half and then the third quarter. Ashton Gray ran for 101 on 18 carries and kept the chains moving. Noah Perez hit a 44-yarder in the second. We trailed 10-3 late in the half, then Williams found Sides from 15 with 31 seconds left to knot it at 10-10. Out of the break, Sides again from 8 for a 17-10 lead that felt huge in this building."
+        },
+        {
+          "type": "paragraph",
+          "text": "South Florida tied it at 17-17 when Jason Collins Jr. walked in from a yard out in the fourth. Luke Kromenhoek had thrown a 26-yard score to Bryson Rodgers early, and D.J. Crowther ran for 111. Our defense bent but got stops when it mattered. Kamaurri McKinley led us with 11 tackles. We turned one ball over and still found a way to finish the night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the final drive. Conrad, career long, 55 yards, ball through the uprights with two seconds showing. The AP called it a lift. From the student section it looked like a rocket leaving the pad. Mitch Griffis and TJ Engleman Jr. both left earlier; Williams and Gray carried the load anyway and never flinched."
+        },
+        {
+          "type": "paragraph",
+          "text": "Charlotte on the road Saturday, Nov. 14, at 1 PM ET. Jerry Richardson Stadium. Take this Friday night feeling with us and punch that bowl ticket. Purple and gold forever."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "East Carolina beat South Florida 20-17 on Friday, Nov. 6, at Dowdy-Ficklen Stadium on Andrew Conrad's 55-yard field goal as time expired."
+        },
+        {
+          "type": "fact",
+          "text": "Emory Williams threw two touchdowns to Landon Sides (14 catches, 126 yards); Ashton Gray ran for 101."
+        },
+        {
+          "type": "jab",
+          "text": "They tied it late. We answered from 55 yards out. That is Pirate football."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Charlotte, Saturday, Nov. 14, 1:00 PM ET, Jerry Richardson Stadium, Charlotte."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, East Carolina 20, South Florida 17 (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862818"
+        },
+        {
+          "label": "ESPN play-by-play, South Florida at East Carolina (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401862818"
+        },
+        {
+          "label": "ESPN game recap, East Carolina 20-17 South Florida (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401862818"
+        },
+        {
+          "label": "AP: Andrew Conrad's 55-yard FG with 2 seconds left lifts East Carolina over South Florida 20-17",
+          "url": "https://apnews.com/article/south-florida-east-carolina-score-164514d2fe8ac133fd5b09eb3e555e24"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-virginia-tech-2026-11-06",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "virginia-tech",
+      "team_ids": [
+        "virginia-tech"
+      ],
+      "tab_id": "acc",
+      "game_id": "401858288",
+      "title": "Virginia Tech vs SMU: Overton Fought, Ford Stadium Did Not Care, 51-28",
+      "byline": "Ruthanne Dellinger, The Virginia Tech Fanatic",
+      "matchup": "Final: Virginia Tech Hokies (6-3) 28, SMU Mustangs (7-2) 51, Fri., Nov. 6, Gerald J. Ford Stadium, Dallas. Next: vs Stanford, Sat., Nov. 14, Lane Stadium, Blacksburg",
+      "date": "2026-11-06",
+      "word_count": 302,
+      "text": "Virginia Tech Hokies 28, SMU Mustangs 51. Final score 51-28 from Dallas, and it stings in a real way. We are 6-3 and 3-3 in the ACC after a Friday night that got away early and never came all the way back. Entering the year with James Franklin, this was supposed to be a measuring-stick road trip. Instead Ford Stadium measured us and kept the ruler.\n\nJeffrey Overton Jr. was the bright spot. Thirteen carries for 123 yards and two touchdowns, including a 22-yard burst that made it 14-20 before the half and a 2-yard plunge in the fourth. Ethan Grunkemeyer went 28 of 38 for 291 yards, ran one in from a yard out, and found Que'Sean Brown from 3 late. Luke Reynolds caught six for 67. Noah Chambers led us with 11 tackles. Brennan Johnson picked one off for 22 yards. We put up 417 yards and 23 first downs. On another night that wins you a road game.\n\nNot this night. Kevin Jennings carved us for 350 yards and four scores. Yamir Knight caught three of them. SMU racked up 569 yards and scored on drive after drive. We lost a fumble that flipped into a 46-yard Knight touchdown. Brendan Baird drilled kicks from 47, 26 and 50. We got blanked in the first quarter, blanked again in the third, and watched the Mustangs answer every punch.\n\nThe fourth quarter had some fight. Overton, then Brown, but Jalen Cooper's 50-yard score made it 51-28 and closed the book. Two turnovers. Too many empty possessions when the game was still in reach. That is a hard flight home.\n\nStanford comes to Lane Stadium on Saturday, Nov. 14. Home cooking. Fix the ball security, stack a full four quarters, and remind everybody who we are when Blacksburg gets loud. Let's go.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Virginia Tech Hokies 28, SMU Mustangs 51. Final score 51-28 from Dallas, and it stings in a real way. We are 6-3 and 3-3 in the ACC after a Friday night that got away early and never came all the way back. Entering the year with James Franklin, this was supposed to be a measuring-stick road trip. Instead Ford Stadium measured us and kept the ruler."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jeffrey Overton Jr. was the bright spot. Thirteen carries for 123 yards and two touchdowns, including a 22-yard burst that made it 14-20 before the half and a 2-yard plunge in the fourth. Ethan Grunkemeyer went 28 of 38 for 291 yards, ran one in from a yard out, and found Que'Sean Brown from 3 late. Luke Reynolds caught six for 67. Noah Chambers led us with 11 tackles. Brennan Johnson picked one off for 22 yards. We put up 417 yards and 23 first downs. On another night that wins you a road game."
+        },
+        {
+          "type": "paragraph",
+          "text": "Not this night. Kevin Jennings carved us for 350 yards and four scores. Yamir Knight caught three of them. SMU racked up 569 yards and scored on drive after drive. We lost a fumble that flipped into a 46-yard Knight touchdown. Brendan Baird drilled kicks from 47, 26 and 50. We got blanked in the first quarter, blanked again in the third, and watched the Mustangs answer every punch."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fourth quarter had some fight. Overton, then Brown, but Jalen Cooper's 50-yard score made it 51-28 and closed the book. Two turnovers. Too many empty possessions when the game was still in reach. That is a hard flight home."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stanford comes to Lane Stadium on Saturday, Nov. 14. Home cooking. Fix the ball security, stack a full four quarters, and remind everybody who we are when Blacksburg gets loud. Let's go."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Virginia Tech lost to SMU 51-28 on Friday, Nov. 6, at Gerald J. Ford Stadium and fell to 6-3, 3-3 in the ACC."
+        },
+        {
+          "type": "fact",
+          "text": "Jeffrey Overton Jr. ran for 123 yards and two scores; Ethan Grunkemeyer threw for 291 yards and a touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "We put up 417 yards on the road and still got outscored by 23. That is on us."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Stanford, Saturday, Nov. 14, Lane Stadium, Blacksburg."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, SMU 51, Virginia Tech 28 (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858288"
+        },
+        {
+          "label": "ESPN play-by-play, Virginia Tech at SMU (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858288"
+        },
+        {
+          "label": "ESPN game recap, SMU 51-28 Virginia Tech (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858288"
+        },
+        {
+          "label": "Virginia Tech Athletics: Tech falls at SMU 51-28 Friday night",
+          "url": "https://hokiesports.com/news/2026/11/7/tech-falls-at-smu-51-28-friday-night"
+        },
+        {
+          "label": "AP: Kevin Jennings throws for 350 yards and four touchdowns as SMU beats Virginia Tech 51-28",
+          "url": "https://apnews.com/article/smu-virginia-tech-score-29411073863437d30eee0e344dfbf5aa"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-smu-2026-11-06",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "smu",
+      "team_ids": [
+        "smu"
+      ],
+      "tab_id": "acc",
+      "game_id": "401858288",
+      "title": "SMU vs Virginia Tech: Jennings, Knight and a 51-28 Friday Night Party",
+      "byline": "Tatum Delacroix-Price, The SMU Fanatic",
+      "matchup": "Final: Virginia Tech Hokies (6-3) 28, SMU Mustangs (7-2) 51, Fri., Nov. 6, Gerald J. Ford Stadium, Dallas. Next: vs Wake Forest, Sat., Nov. 14, 12:00 PM ET, Gerald J. Ford Stadium, Dallas",
+      "date": "2026-11-06",
+      "word_count": 306,
+      "text": "Fifty-one to twenty-eight. Gerald J. Ford Stadium on a clear Friday night, 32,566 of us packed into Dallas, and the Mustangs just hung a 51-28 final on Virginia Tech. Seven and two. Five and two in the ACC. Home fortress still untouched in league play. Write it down, grin, and play it back all weekend.\n\nKevin Jennings was dealing all night. Twenty-four of 32 for 350 yards and four touchdowns. Yamir Knight turned into a highlight reel: six grabs for 103 yards and three scores, including a 46-yard strike that made it 20-7 and later scores from 13 and 5. Jalen Cooper ripped a 50-yard touchdown late to put the stamp on it. Christian Rhodes ran for 92. Kendrick Raphael punched in from 3. Dramekco Green opened the show with a 12-yard run. Brendan Baird was perfect on three field goals from 47, 26 and 50, plus all six extras. Fifteen points from the kicker's foot alone.\n\nWe scored on the first eight drives, per the AP wrap, and piled up 569 yards of offense with 219 on the ground. Alexander Kilgore led us with 10 tackles. Jimmy Wyrick snagged an interception. Marques White fell on a Virginia Tech fumble that set up Knight's long score. The Hokies got Jeffrey Overton Jr. for 123 yards and two scores, and Ethan Grunkemeyer threw for 291, but they never got the Ford Stadium crowd quiet for long.\n\nThird quarter buried them: Raphael from 3, then Knight from 13, and suddenly it was 37-14. Knight again from 5 in the fourth. Cooper's 50-yarder after Virginia Tech scratched back to 28-44. That is how you send a Friday night crowd home happy in Dallas.\n\nWake Forest comes to Dallas on Saturday, Nov. 14, at noon ET. Same building. Same energy. The Mustangs are rolling, and November still belongs to us.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fifty-one to twenty-eight. Gerald J. Ford Stadium on a clear Friday night, 32,566 of us packed into Dallas, and the Mustangs just hung a 51-28 final on Virginia Tech. Seven and two. Five and two in the ACC. Home fortress still untouched in league play. Write it down, grin, and play it back all weekend."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kevin Jennings was dealing all night. Twenty-four of 32 for 350 yards and four touchdowns. Yamir Knight turned into a highlight reel: six grabs for 103 yards and three scores, including a 46-yard strike that made it 20-7 and later scores from 13 and 5. Jalen Cooper ripped a 50-yard touchdown late to put the stamp on it. Christian Rhodes ran for 92. Kendrick Raphael punched in from 3. Dramekco Green opened the show with a 12-yard run. Brendan Baird was perfect on three field goals from 47, 26 and 50, plus all six extras. Fifteen points from the kicker's foot alone."
+        },
+        {
+          "type": "paragraph",
+          "text": "We scored on the first eight drives, per the AP wrap, and piled up 569 yards of offense with 219 on the ground. Alexander Kilgore led us with 10 tackles. Jimmy Wyrick snagged an interception. Marques White fell on a Virginia Tech fumble that set up Knight's long score. The Hokies got Jeffrey Overton Jr. for 123 yards and two scores, and Ethan Grunkemeyer threw for 291, but they never got the Ford Stadium crowd quiet for long."
+        },
+        {
+          "type": "paragraph",
+          "text": "Third quarter buried them: Raphael from 3, then Knight from 13, and suddenly it was 37-14. Knight again from 5 in the fourth. Cooper's 50-yarder after Virginia Tech scratched back to 28-44. That is how you send a Friday night crowd home happy in Dallas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wake Forest comes to Dallas on Saturday, Nov. 14, at noon ET. Same building. Same energy. The Mustangs are rolling, and November still belongs to us."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "SMU beat Virginia Tech 51-28 on Friday, Nov. 6, at Gerald J. Ford Stadium and moved to 7-2, 5-2 in the ACC."
+        },
+        {
+          "type": "fact",
+          "text": "Kevin Jennings threw for 350 yards and four touchdowns; Yamir Knight caught three scores and Brendan Baird made three field goals."
+        },
+        {
+          "type": "jab",
+          "text": "We scored on our first eight drives and put up 569 yards. The Hokies spent the night chasing."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Wake Forest, Saturday, Nov. 14, 12:00 PM ET, Gerald J. Ford Stadium, Dallas."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, SMU 51, Virginia Tech 28 (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858288"
+        },
+        {
+          "label": "ESPN play-by-play, Virginia Tech at SMU (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858288"
+        },
+        {
+          "label": "ESPN game recap, SMU 51-28 Virginia Tech (Nov. 6, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858288"
+        },
+        {
+          "label": "AP: Kevin Jennings throws for 350 yards and four touchdowns as SMU beats Virginia Tech 51-28",
+          "url": "https://apnews.com/article/smu-virginia-tech-score-29411073863437d30eee0e344dfbf5aa"
+        },
+        {
+          "label": "SMU Athletics: Mustangs Roll In Friday Night Win Over Virginia Tech, 51-28",
+          "url": "https://smumustangs.com/news/2026/11/6/football-mustangs-roll-in-friday-night-win-over-virginia-tech-51-28"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
     {
       "id": "fanatic_team-bal-2026-11-05",
       "kind": "fanatic_team",
