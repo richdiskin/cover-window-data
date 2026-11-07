@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-07T20:34:27Z",
+ "updated_utc": "2026-11-07T21:06:58Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -1313,7 +1313,24 @@
    "kickoff_utc": "2026-11-07T17:00Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "yGWvYx1ODls",
+    "title": "#9 BYU vs. #3 Utah Highlights | 2026 Monster Energy Big 12 Football",
+    "channel": "Big 12 Conference",
+    "channel_id": "UCLnfOCTbfqMy_3ah8OmTHEQ",
+    "url": "https://www.youtube.com/watch?v=yGWvYx1ODls",
+    "embed_url": "https://www.youtube-nocookie.com/embed/yGWvYx1ODls",
+    "thumb": "https://i.ytimg.com/vi/yGWvYx1ODls/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-07T20:35:28Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-07T21:06:53Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856853": {
    "game_id": "401856853",
@@ -1321,7 +1338,24 @@
    "kickoff_utc": "2026-11-07T17:00Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "ATxSkaCuvXU",
+    "title": "Baylor Football: Highlights vs. Iowa State | November 7, 2026",
+    "channel": "BaylorAthletics",
+    "channel_id": "UCt1Z0nJWuI6KDozeflRvRWw",
+    "url": "https://www.youtube.com/watch?v=ATxSkaCuvXU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/ATxSkaCuvXU",
+    "thumb": "https://i.ytimg.com/vi/ATxSkaCuvXU/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-07T20:56:48Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-07T21:06:53Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858285": {
    "game_id": "401858285",
@@ -1354,7 +1388,24 @@
    "kickoff_utc": "2026-11-07T17:00Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "X5a6q0o0tl4",
+    "title": "Florida State vs. Boston College Condensed Game | 2026 ACC Football",
+    "channel": "ACC Digital Network",
+    "channel_id": "UC0hy7TcR1gGD8nQBqrF2FaA",
+    "url": "https://www.youtube.com/watch?v=X5a6q0o0tl4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/X5a6q0o0tl4",
+    "thumb": "https://i.ytimg.com/vi/X5a6q0o0tl4/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-07T20:54:44Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-07T21:06:53Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858292": {
    "game_id": "401858292",
@@ -1370,7 +1421,24 @@
    "kickoff_utc": "2026-11-07T17:00Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "klTHvqxu_yA",
+    "title": "Highlights - UCLA Football at Minnesota (Nov. 7, 2026)",
+    "channel": "UCLA Athletics",
+    "channel_id": "UCm3-NocWw8YDQ6lfOb78ehA",
+    "url": "https://www.youtube.com/watch?v=klTHvqxu_yA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/klTHvqxu_yA",
+    "thumb": "https://i.ytimg.com/vi/klTHvqxu_yA/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-07T20:52:55Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-07T21:06:55Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401862822": {
    "game_id": "401862822",
@@ -1386,7 +1454,24 @@
    "kickoff_utc": "2026-11-07T17:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "nU8Wd7FwArs",
+    "title": "Duke Blue Devils vs. NC State Wolfpack | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=nU8Wd7FwArs",
+    "embed_url": "https://www.youtube-nocookie.com/embed/nU8Wd7FwArs",
+    "thumb": "https://i.ytimg.com/vi/nU8Wd7FwArs/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-07T21:02:55Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-07T21:06:56Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858515": {
    "game_id": "401858515",
@@ -1394,7 +1479,24 @@
    "kickoff_utc": "2026-11-07T17:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "a8KWW4SwC-g",
+    "title": "Maryland at Purdue | Highlights | Big Ten Football | 11/07/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=a8KWW4SwC-g",
+    "embed_url": "https://www.youtube-nocookie.com/embed/a8KWW4SwC-g",
+    "thumb": "https://i.ytimg.com/vi/a8KWW4SwC-g/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-07T21:04:46Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-07T21:06:56Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856738": {
    "game_id": "401856738",
