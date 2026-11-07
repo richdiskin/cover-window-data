@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-07T21:06:58Z",
+ "updated_utc": "2026-11-07T21:31:06Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -1305,7 +1305,24 @@
    "kickoff_utc": "2026-11-07T17:00Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "MRO9RbJuZLg",
+    "title": "Texas Longhorns vs. Missouri Tigers | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=MRO9RbJuZLg",
+    "embed_url": "https://www.youtube-nocookie.com/embed/MRO9RbJuZLg",
+    "thumb": "https://i.ytimg.com/vi/MRO9RbJuZLg/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-07T21:15:17Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-07T21:30:48Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856849": {
    "game_id": "401856849",
@@ -1413,7 +1430,24 @@
    "kickoff_utc": "2026-11-07T17:00Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "uh4PgjvFPGw",
+    "title": "North Carolina vs. UConn Game Highlights | 2026 ACC Football",
+    "channel": "ACC Digital Network",
+    "channel_id": "UC0hy7TcR1gGD8nQBqrF2FaA",
+    "url": "https://www.youtube.com/watch?v=uh4PgjvFPGw",
+    "embed_url": "https://www.youtube-nocookie.com/embed/uh4PgjvFPGw",
+    "thumb": "https://i.ytimg.com/vi/uh4PgjvFPGw/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-07T21:08:50Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-07T21:30:48Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858512": {
    "game_id": "401858512",
