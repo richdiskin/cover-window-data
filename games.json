@@ -4933,13 +4933,13 @@
     "tcu",
     "arizona"
    ],
-   "spread": "Arizona Wildcats −7.5",
+   "spread": "Arizona Wildcats −6.5",
    "total_line": 46.5,
    "prediction": {
     "away_score": 16,
     "home_score": 26,
     "winner": "Arizona Wildcats",
-    "covers": "Arizona Wildcats −7.5"
+    "covers": "Arizona Wildcats −6.5"
    },
    "total_pick": "Under",
    "status_at_build": {
@@ -4948,59 +4948,59 @@
    "display": {
     "writer": {
      "score_line": "Projected: Arizona Wildcats 26, TCU Horned Frogs 16 (Total 42)",
-     "side": "Arizona Wildcats −7.5",
+     "side": "Arizona Wildcats −6.5",
      "ou": "Under 46.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: TCU Horned Frogs +7.5",
+      "side_line": "Side: Arizona Wildcats −6.5",
       "ou_line": "O/U: Under 46.5",
       "score_line": "Projected: Arizona Wildcats 26, TCU Horned Frogs 19 (Total 45)",
-      "basis_line": "Net ratings TCU Horned Frogs 7.3, Arizona Wildcats 13.0 (ESPN Football Power Index, Nov 5, 2026)",
+      "basis_line": "Net ratings TCU Horned Frogs 7.2, Arizona Wildcats 13.0 (ESPN Football Power Index, Nov 6, 2026)",
       "independent": true,
       "distance_from_spread": 0.5,
       "distance_from_total": 1.5
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Arizona Wildcats −7.5 · Likes this side",
+      "side_line": "Side: Arizona Wildcats −6.5 · Likes this side",
       "ou_line": "O/U: Under 46.5 · Likes this total",
       "score_line": "Projected: Arizona Wildcats 25, TCU Horned Frogs 13 (Total 38)",
-      "basis_line": "With the players available: projected points TCU Horned Frogs 13.4, Arizona Wildcats 25.2. Availability: the Big 12 availability report lists Arizona Wildcats linebacker Max Harris questionable, Arizona Wildcats cornerback Jay'Vion Cole out, Arizona Wildcats tight end Shane King out, Arizona Wildcats safety Cam Chapa out, Arizona Wildcats running back Ismail Mahdi questionable, Arizona Wildcats defensive lineman Kevin Moorer Jr. out, Arizona Wildcats offensive lineman Grayson Stovall probable, Arizona Wildcats defensive lineman Ezra Funa out, TCU Horned Frogs running back Jon Denman out, TCU Horned Frogs safety Julius Simms out, TCU Horned Frogs wide receiver Terry Shelton out, TCU Horned Frogs cornerback Devondre McGee out, TCU Horned Frogs running back Jeremy Payne probable, TCU Horned Frogs offensive lineman Cade Bennett out, TCU Horned Frogs offensive lineman Cooper Powers probable, TCU Horned Frogs wide receiver Keagan Cunningham out, TCU Horned Frogs wide receiver Cooper Reid out and TCU Horned Frogs tight end Braden Bach out.",
+      "basis_line": "With the players available: projected points TCU Horned Frogs 13.4, Arizona Wildcats 25.2. Availability: the Big 12 availability report lists Arizona Wildcats linebacker Max Harris out, Arizona Wildcats cornerback Jay'Vion Cole out, Arizona Wildcats tight end Shane King out, Arizona Wildcats safety Cam Chapa out, Arizona Wildcats running back Ismail Mahdi out, Arizona Wildcats defensive lineman Kevin Moorer Jr. out, Arizona Wildcats defensive lineman Ezra Funa out, TCU Horned Frogs running back Jon Denman out, TCU Horned Frogs safety Julius Simms out, TCU Horned Frogs wide receiver Terry Shelton out, TCU Horned Frogs cornerback Devondre McGee out, TCU Horned Frogs offensive lineman Cade Bennett out, TCU Horned Frogs wide receiver Keagan Cunningham out, TCU Horned Frogs wide receiver Cooper Reid out and TCU Horned Frogs tight end Braden Bach out.",
       "independent": true,
-      "distance_from_spread": 4.5,
+      "distance_from_spread": 5.5,
       "distance_from_total": 8.5
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: TCU Horned Frogs +7.5 · Likes this side",
+      "side_line": "Side: TCU Horned Frogs +6.5 · Likes this side",
       "ou_line": "O/U: Over 46.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Consensus spread opened Arizona Wildcats −8.5 (Nov 3, 3:06 AM ET) and is −7.5 now, a 1-point move. The side pick quotes the consensus spread now (TCU Horned Frogs +7.5). Consensus total opened 42.5 (Nov 3, 3:06 AM ET) and is 46.5 now, a 4-point move: Over. The total pick quotes the consensus total now (46.5). Lines are the Action Network consensus as of Nov 5, 10:35 PM ET; the open is the first consensus line posted after the Monday night game ended (Nov 2, 11:23 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Arizona Wildcats −8.5 (Nov 3, 3:06 AM ET) and is −6.5 now, a 2-point move. The side pick quotes the consensus spread now (TCU Horned Frogs +6.5). Consensus total opened 42.5 (Nov 3, 3:06 AM ET) and is 46.5 now, a 4-point move: Over. The total pick quotes the consensus total now (46.5). Lines are the Action Network consensus as of Nov 6, 9:43 PM ET; the open is the first consensus line posted after the Monday night game ended (Nov 2, 11:23 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Arizona Wildcats −7.5 · Likes this side",
+      "side_line": "Side: Arizona Wildcats −6.5 · Likes this side",
       "ou_line": "O/U: this card reads sides only",
       "score_line": "No score this week.",
-      "basis_line": "This read points to a side only. TCU Horned Frogs 3.5 ypc vs Arizona Wildcats allowing 3.8; Arizona Wildcats 4.0 ypc vs TCU Horned Frogs allowing 3.2 (2026 season). Arizona Wildcats run game 0.8 ypc above what the opponent allows, which favours Arizona Wildcats. Side: Arizona Wildcats −7.5.",
+      "basis_line": "This read points to a side only. TCU Horned Frogs 3.5 ypc vs Arizona Wildcats allowing 3.8; Arizona Wildcats 4.0 ypc vs TCU Horned Frogs allowing 3.2 (2026 season). Arizona Wildcats run game 0.8 ypc above what the opponent allows, which favours Arizona Wildcats. Side: Arizona Wildcats −6.5.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      }
     ],
-    "story_text": "TCU vs Arizona prediction, spread and over/under for Friday night: I have Arizona Wildcats −7.5 and Under 46.5, with Arizona Wildcats 26, TCU Horned Frogs 16 as my final. Kickoff is 10:15 PM ET at Casino Del Sol Stadium, and downtown Tucson spends Friday at the Greek Festival in Jácome Plaza, with loukoumades at Papou's Cafe.\n\nInez Paloverde plays piccolo in the Arizona band and swears the desert keeps her warm all November. \"Arizona is 6-2 and ranked 24th. Noah Fifita threw for 417 yards at Texas Tech. Isaiah Mizell caught 7 balls for 182. We beat Iowa State 39-3 two weeks ago.\"\n\nRyder Galloway grew up around the Fort Worth Stockyards and now works in finance, so he counts everything. \"TCU allows 14.1 points a game. We beat Kansas 22-16 and Baylor 17-6. And the last time we played, 2024, we beat Arizona 49-28.\"\n\nHere is why I lay it with Arizona. Noah Fifita has 19 touchdown throws and 4 interceptions, and he completed 33 of 45 in Lubbock. Isaiah Mizell caught 7 balls for 182 yards in that game, and Arizona hung 39 on Iowa State two weeks ago. The Wildcats score 34.9 a game. TCU's defense is the best group the Frogs bring to Tucson, but my 26-16 is a ten-point Arizona win, past the 7.5.\n\nThe risk is that TCU defense. The Frogs have allowed more than 21 points only once all year, 24 to West Virginia, and they have held six opponents to 17 or fewer. TCU allows 14.1 points a game. Jaden Craig has thrown for 2,207 yards, and Kari Ashley gives him a tight end to throw to underneath. If TCU gets stops, the 7.5 can look long. Chase Kennedy, with 6 sacks, can make Craig's night hard, too.\n\nOn the over/under, DraftKings opened at 44.5 and the number now sits at 46.5. TCU scores 23.2 a game. Most of the Frogs' recent games have stayed quiet, and the only recent one that did not was the 20-24 loss to West Virginia. My 26 and 16 make 42, Under 46.5.\n\nThe room is split. The Formula has Arizona 26-19, takes TCU +7.5, and goes Under. Next Man Up has Arizona 25-13, likes Arizona −7.5, and likes the Under. In The Trenches likes Arizona −7.5 on the side, and it reads sides only with no score this week. Follow The Money likes TCU Horned Frogs +7.5 and likes the Over. The consensus spread opened Arizona Wildcats −8.5 and is −7.5 now, and the total opened 42.5 and is 46.5 now. Letdown Watch has no score this week.\n\nThe Formula: \"Twelve points, Next Man Up? TCU hasn't lost by more than eight all year.\"\n\nNext Man Up: \"And TCU hasn't been to Tucson this year. Go ask the Trenches.\"\n\nInez takes Ryder to Papou's Cafe for Greek coffee. Ryder says he'll be wide awake for the fourth quarter.\n\nArizona Wildcats 26, TCU Horned Frogs 16. Arizona Wildcats cover the 7.5. Under 46.5.",
+    "story_text": "TCU vs Arizona prediction, spread and over/under for Friday night: I have Arizona Wildcats −6.5 and Under 46.5, with Arizona Wildcats 26, TCU Horned Frogs 16 as my final. Kickoff is 10:15 PM ET at Casino Del Sol Stadium, and downtown Tucson spends Friday at the Greek Festival in Jácome Plaza, with loukoumades at Papou's Cafe.\n\nInez Paloverde plays piccolo in the Arizona band and swears the desert keeps her warm all November. \"Arizona is 6-2 and ranked 24th. Noah Fifita threw for 417 yards at Texas Tech. Isaiah Mizell caught 7 balls for 182. We beat Iowa State 39-3 two weeks ago.\"\n\nRyder Galloway grew up around the Fort Worth Stockyards and now works in finance, so he counts everything. \"TCU allows 14.1 points a game. We beat Kansas 22-16 and Baylor 17-6. And the last time we played, 2024, we beat Arizona 49-28.\"\n\nHere is why I lay it with Arizona. Noah Fifita has 19 touchdown throws and 4 interceptions, and he completed 33 of 45 in Lubbock. Isaiah Mizell caught 7 balls for 182 yards in that game, and Arizona hung 39 on Iowa State two weeks ago. The Wildcats score 34.9 a game. TCU's defense is the best group the Frogs bring to Tucson, but my 26-16 is a ten-point Arizona win, past the 6.5.\n\nThe risk is that TCU defense. The Frogs have allowed more than 21 points only once all year, 24 to West Virginia, and they have held six opponents to 17 or fewer. TCU allows 14.1 points a game. Jaden Craig has thrown for 2,207 yards, and Kari Ashley gives him a tight end to throw to underneath. If TCU gets stops, the 6.5 can look long. Chase Kennedy, with 6 sacks, can make Craig's night hard, too.\n\nOn the over/under, DraftKings opened at 44.5 and the number now sits at 46.5. TCU scores 23.2 a game. Most of the Frogs' recent games have stayed quiet, and the only recent one that did not was the 20-24 loss to West Virginia. My 26 and 16 make 42, Under 46.5.\n\nThe Formula, Next Man Up and In The Trenches back Arizona; Follow The Money takes TCU. The Formula has Arizona 26-19, takes Arizona −6.5, and goes Under. Next Man Up has Arizona 25-13, likes Arizona −6.5, and likes the Under. In The Trenches likes Arizona −6.5 on the side, and it reads sides only with no score this week. Follow The Money likes TCU Horned Frogs +6.5 and likes the Over. The consensus spread opened Arizona Wildcats −8.5 and is −6.5 now, and the total opened 42.5 and is 46.5 now. Letdown Watch has no score this week.\n\nThe Formula: \"Seven points does the job at 6.5. Next Man Up, save those extra five for the Greek coffee bill.\"\n\nNext Man Up: \"And TCU hasn't been to Tucson this year. Go ask the Trenches.\"\n\nInez takes Ryder to Papou's Cafe for Greek coffee. Ryder says he'll be wide awake for the fourth quarter.\n\nArizona Wildcats 26, TCU Horned Frogs 16. Arizona Wildcats cover the 6.5. Under 46.5.",
     "fanatic_score_line": "Projected: Arizona Wildcats 26, TCU Horned Frogs 16 (42 combined points)",
     "line_used": {
-     "home_line": "Arizona Wildcats −7.5",
+     "home_line": "Arizona Wildcats −6.5",
      "total": "46.5",
-     "source": "ESPN game page odds (DraftKings), Nov 5, 2026, 10:34 PM ET",
-     "fetched_at_utc": "2026-11-06T03:34Z"
+     "source": "ESPN game page odds (DraftKings), Nov 6, 2026, 9:43 PM ET",
+     "fetched_at_utc": "2026-11-07T02:43Z"
     },
     "injuries": {
      "away": [
@@ -5033,25 +5033,11 @@
        "game_status": "Out"
       },
       {
-       "player": "Jeremy Payne",
-       "position": "RB",
-       "injury": "",
-       "practice_status": "",
-       "game_status": "Probable"
-      },
-      {
        "player": "Cade Bennett",
        "position": "OL",
        "injury": "",
        "practice_status": "",
        "game_status": "Out"
-      },
-      {
-       "player": "Cooper Powers",
-       "position": "OL",
-       "injury": "",
-       "practice_status": "",
-       "game_status": "Probable"
       },
       {
        "player": "Keagan Cunningham",
@@ -5081,7 +5067,7 @@
        "position": "LB",
        "injury": "",
        "practice_status": "",
-       "game_status": "Questionable"
+       "game_status": "Out"
       },
       {
        "player": "Jay'Vion Cole",
@@ -5109,7 +5095,7 @@
        "position": "RB",
        "injury": "",
        "practice_status": "",
-       "game_status": "Questionable"
+       "game_status": "Out"
       },
       {
        "player": "Kevin Moorer Jr.",
@@ -5119,13 +5105,6 @@
        "game_status": "Out"
       },
       {
-       "player": "Grayson Stovall",
-       "position": "OL",
-       "injury": "",
-       "practice_status": "",
-       "game_status": "Probable"
-      },
-      {
        "player": "Ezra Funa",
        "position": "DL",
        "injury": "",
@@ -5133,8 +5112,8 @@
        "game_status": "Out"
       }
      ],
-     "source": "Big 12 availability report (Update 2, posted Nov 5, 10:00 PM ET; fetched Nov 5, 10:35 PM ET from https://app.hdintelligence.com/?source=B12&sport=Football&conf=B12&type=report)",
-     "fetched_at_utc": "2026-11-06T03:35Z"
+     "source": "Big 12 availability report (Game Day, posted Nov 6, 8:45 PM ET; fetched Nov 6, 9:43 PM ET from https://app.hdintelligence.com/?source=B12&sport=Football&conf=B12&type=report)",
+     "fetched_at_utc": "2026-11-07T02:43Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -5149,15 +5128,15 @@
     "fanatic_story": "TCU Horned Frogs vs Arizona Wildcats prediction for Friday, November 6: downtown Tucson is throwing the Greek Festival in Jácome Plaza that weekend, and Inez Paloverde has a plan. She is taking Ryder Galloway to Papou's Cafe for Greek coffee and loukoumades, the little fried Greek doughnuts, before the late kickoff. She says it is Tucson hospitality. Ryder says it is a dessert trap.\n\nRyder grew up around the Fort Worth Stockyards and now works in finance downtown. He still wears the boots. Inez plays piccolo in the Arizona band and swears it never really gets cold in the desert, even in November.\n\n\"Ryder,\" she says, \"you're going to love it here. Warm night, good food, and a Wildcats win.\"\n\n\"I'll take two out of three,\" Ryder says. \"And I'm not picky about which two.\"\n\nArizona has given Inez plenty to play for. The Wildcats are 6-2 and ranked No. 24. Noah Fifita has 2,481 passing yards, 19 touchdown throws and only four interceptions. Isaiah Mizell caught seven balls for 182 yards at Texas Tech last week. Arizona scores 34.9 points a game and beat Iowa State 39-3 two weeks ago.\n\n\"Noah throws the ball like I play piccolo,\" Inez says. \"High, sharp and right on the note.\"\n\nRyder points to the loss. \"And you still lost 26-34 in Lubbock. Fifita threw for 417 and you lost.\"\n\nTCU does not win pretty, and Ryder doesn't care. The Frogs are 4-4, but they give up just 14.1 points a game. They beat Kansas 22-16 last week and Baylor 17-6 in October, and their four losses came by five, eight, seven and four.\n\n\"We count every point twice in Fort Worth,\" Ryder says. \"Koron Hayward has five and a half sacks. Jamel Johnson has 50 tackles. Nobody runs away from us.\"\n\nJaden Craig has been steady, with 2,207 yards, 11 touchdown throws and six interceptions. He ran for 87 yards against Kansas and trusts Kari Ashley, the tight end, who has 38 catches for 560 yards.\n\n\"Kari Ashley is a tight end who runs like a calf at a rodeo,\" Ryder says. \"You'll see.\"\n\nInez answers with defense of her own. Chase Kennedy has six sacks and Taye Brown has 47 tackles. \"Your quarterback is going to meet Chase so many times Friday he'll want to sit at Yia Yia's House with the grandmas.\"\n\nThe festival has a spot called Yia Yia's House, and a Kids Zone too. Ryder says he might hide in the Kids Zone if the Wildcats get rolling early.\n\nThe history is short. The only recent meeting was in 2024, and TCU won it 49-28.\n\n\"Forty-nine,\" Ryder says. \"On you.\"\n\n\"That was a different Arizona,\" Inez says. \"This one is ranked.\"\n\nThe two teams have one more common thread, and both of them want to talk about it. Arizona went to Morgantown and beat West Virginia 52-31. TCU lost 20-24 to the same Mountaineers at home two weeks later.\n\n\"Fifty-two,\" Inez says, holding up her piccolo like a pointer. \"You scored twenty.\"\n\n\"And BYU beat you by 11 in Provo,\" Ryder says. \"BYU beat us by seven. Same Cougars.\"\n\nInez shrugs. Kedrick Reescano has seven rushing touchdowns, and she says he is the closer when the Wildcats get near the end zone. Ryder says the Frogs have closed doors on better.\n\nHere is how it shakes out. The TCU defense hangs in, Craig makes some plays with his legs, and the Frogs keep it close into the second half. But Fifita finds Mizell for the big plays, Kennedy gets after Craig, and Arizona pulls away just enough in the fourth quarter to send the home crowd out happy.\n\nInez buys Ryder a second plate of loukoumades to soften the blow. Ryder eats them anyway and says Tucson is all right, for a desert.\n\nMy call: Arizona Wildcats 26, TCU Horned Frogs 16.",
     "market": {
      "score_line": "Market: Arizona Wildcats 27, TCU Horned Frogs 20 (Total 47)",
-     "spread": "Arizona Wildcats −7.5",
+     "spread": "Arizona Wildcats −6.5",
      "total": "46.5",
-     "source": "ESPN game page odds (DraftKings), Nov 5, 2026, 10:34 PM ET",
+     "source": "ESPN game page odds (DraftKings), Nov 6, 2026, 9:43 PM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
-    "gambler_headline": "Arizona Lays 7.5 to TCU on Friday Night in Tucson",
+    "gambler_headline": "Arizona Lays 6.5 to TCU on Friday Night in Tucson",
     "fanatic_headline": "Friday Night in the Desert: TCU Heads to Tucson to Face Arizona"
    },
-   "gambler_story": "TCU vs Arizona prediction, spread and over/under for Friday night: I have Arizona Wildcats −7.5 and Under 46.5, with Arizona Wildcats 26, TCU Horned Frogs 16 as my final. Kickoff is 10:15 PM ET at Casino Del Sol Stadium, and downtown Tucson spends Friday at the Greek Festival in Jácome Plaza, with loukoumades at Papou's Cafe.\n\nInez Paloverde plays piccolo in the Arizona band and swears the desert keeps her warm all November. \"Arizona is 6-2 and ranked 24th. Noah Fifita threw for 417 yards at Texas Tech. Isaiah Mizell caught 7 balls for 182. We beat Iowa State 39-3 two weeks ago.\"\n\nRyder Galloway grew up around the Fort Worth Stockyards and now works in finance, so he counts everything. \"TCU allows 14.1 points a game. We beat Kansas 22-16 and Baylor 17-6. And the last time we played, 2024, we beat Arizona 49-28.\"\n\nHere is why I lay it with Arizona. Noah Fifita has 19 touchdown throws and 4 interceptions, and he completed 33 of 45 in Lubbock. Isaiah Mizell caught 7 balls for 182 yards in that game, and Arizona hung 39 on Iowa State two weeks ago. The Wildcats score 34.9 a game. TCU's defense is the best group the Frogs bring to Tucson, but my 26-16 is a ten-point Arizona win, past the 7.5.\n\nThe risk is that TCU defense. The Frogs have allowed more than 21 points only once all year, 24 to West Virginia, and they have held six opponents to 17 or fewer. TCU allows 14.1 points a game. Jaden Craig has thrown for 2,207 yards, and Kari Ashley gives him a tight end to throw to underneath. If TCU gets stops, the 7.5 can look long. Chase Kennedy, with 6 sacks, can make Craig's night hard, too.\n\nOn the over/under, DraftKings opened at 44.5 and the number now sits at 46.5. TCU scores 23.2 a game. Most of the Frogs' recent games have stayed quiet, and the only recent one that did not was the 20-24 loss to West Virginia. My 26 and 16 make 42, Under 46.5.\n\nThe room is split. The Formula has Arizona 26-19, takes TCU +7.5, and goes Under. Next Man Up has Arizona 25-13, likes Arizona −7.5, and likes the Under. In The Trenches likes Arizona −7.5 on the side, and it reads sides only with no score this week. Follow The Money likes TCU Horned Frogs +7.5 and likes the Over. The consensus spread opened Arizona Wildcats −8.5 and is −7.5 now, and the total opened 42.5 and is 46.5 now. Letdown Watch has no score this week.\n\nThe Formula: \"Twelve points, Next Man Up? TCU hasn't lost by more than eight all year.\"\n\nNext Man Up: \"And TCU hasn't been to Tucson this year. Go ask the Trenches.\"\n\nInez takes Ryder to Papou's Cafe for Greek coffee. Ryder says he'll be wide awake for the fourth quarter.\n\nArizona Wildcats 26, TCU Horned Frogs 16. Arizona Wildcats cover the 7.5. Under 46.5.",
+   "gambler_story": "TCU vs Arizona prediction, spread and over/under for Friday night: I have Arizona Wildcats −6.5 and Under 46.5, with Arizona Wildcats 26, TCU Horned Frogs 16 as my final. Kickoff is 10:15 PM ET at Casino Del Sol Stadium, and downtown Tucson spends Friday at the Greek Festival in Jácome Plaza, with loukoumades at Papou's Cafe.\n\nInez Paloverde plays piccolo in the Arizona band and swears the desert keeps her warm all November. \"Arizona is 6-2 and ranked 24th. Noah Fifita threw for 417 yards at Texas Tech. Isaiah Mizell caught 7 balls for 182. We beat Iowa State 39-3 two weeks ago.\"\n\nRyder Galloway grew up around the Fort Worth Stockyards and now works in finance, so he counts everything. \"TCU allows 14.1 points a game. We beat Kansas 22-16 and Baylor 17-6. And the last time we played, 2024, we beat Arizona 49-28.\"\n\nHere is why I lay it with Arizona. Noah Fifita has 19 touchdown throws and 4 interceptions, and he completed 33 of 45 in Lubbock. Isaiah Mizell caught 7 balls for 182 yards in that game, and Arizona hung 39 on Iowa State two weeks ago. The Wildcats score 34.9 a game. TCU's defense is the best group the Frogs bring to Tucson, but my 26-16 is a ten-point Arizona win, past the 6.5.\n\nThe risk is that TCU defense. The Frogs have allowed more than 21 points only once all year, 24 to West Virginia, and they have held six opponents to 17 or fewer. TCU allows 14.1 points a game. Jaden Craig has thrown for 2,207 yards, and Kari Ashley gives him a tight end to throw to underneath. If TCU gets stops, the 6.5 can look long. Chase Kennedy, with 6 sacks, can make Craig's night hard, too.\n\nOn the over/under, DraftKings opened at 44.5 and the number now sits at 46.5. TCU scores 23.2 a game. Most of the Frogs' recent games have stayed quiet, and the only recent one that did not was the 20-24 loss to West Virginia. My 26 and 16 make 42, Under 46.5.\n\nThe Formula, Next Man Up and In The Trenches back Arizona; Follow The Money takes TCU. The Formula has Arizona 26-19, takes Arizona −6.5, and goes Under. Next Man Up has Arizona 25-13, likes Arizona −6.5, and likes the Under. In The Trenches likes Arizona −6.5 on the side, and it reads sides only with no score this week. Follow The Money likes TCU Horned Frogs +6.5 and likes the Over. The consensus spread opened Arizona Wildcats −8.5 and is −6.5 now, and the total opened 42.5 and is 46.5 now. Letdown Watch has no score this week.\n\nThe Formula: \"Seven points does the job at 6.5. Next Man Up, save those extra five for the Greek coffee bill.\"\n\nNext Man Up: \"And TCU hasn't been to Tucson this year. Go ask the Trenches.\"\n\nInez takes Ryder to Papou's Cafe for Greek coffee. Ryder says he'll be wide awake for the fourth quarter.\n\nArizona Wildcats 26, TCU Horned Frogs 16. Arizona Wildcats cover the 6.5. Under 46.5.",
    "videos": [
     {
      "youtube_id": "F2C0kacMZnc",
