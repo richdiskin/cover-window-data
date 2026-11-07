@@ -1638,24 +1638,6 @@
      "oembed": 200,
      "official": true,
      "gambling_language": false
-    },
-    {
-     "youtube_id": "yXsJOzmWM-0",
-     "title": "BRAELON ALLEN TOUCHDOWN🔥👏 #jets #nfl #football",
-     "label": "Braelon Allen highlights",
-     "channel": "New York Jets",
-     "channel_id": "UCROj9vBjc4ZW3AL4cd_BjHg",
-     "published": "2026-10-11",
-     "duration_s": 14,
-     "thumb": "https://i.ytimg.com/vi/yXsJOzmWM-0/hqdefault.jpg",
-     "kind": "player",
-     "player": "Braelon Allen",
-     "team": "New York Jets",
-     "player_basis": "ESPN season leader, rushing yards",
-     "embeddable": true,
-     "oembed": 200,
-     "official": true,
-     "gambling_language": false
     }
    ]
   },
@@ -5131,7 +5113,7 @@
    "key_players": [
     {
      "team": "Arizona Cardinals",
-     "player": "Jacoby Brissett",
+     "player": "Gardner Minshew II",
      "position": "QB",
      "basis": "ESPN season leader, passing yards",
      "source": "ESPN game summary, event 401873048"
