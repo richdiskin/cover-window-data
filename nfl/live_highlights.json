@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "nfl",
- "updated_utc": "2026-11-08T01:41:25Z",
+ "updated_utc": "2026-11-08T21:20:40Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401873026": {
@@ -197,7 +197,24 @@
    "kickoff_utc": "2026-11-08T18:00Z",
    "first_seen_utc": "2026-11-07T18:03:40Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "_jNErgMp2ck",
+    "title": "2026 Week 9: Lions at Dolphins | Highlights 🎥",
+    "channel": "Detroit Lions",
+    "channel_id": "UCv5J06V-ESk5_1uriG65f3w",
+    "url": "https://www.youtube.com/watch?v=_jNErgMp2ck",
+    "embed_url": "https://www.youtube-nocookie.com/embed/_jNErgMp2ck",
+    "thumb": "https://i.ytimg.com/vi/_jNErgMp2ck/hqdefault.jpg",
+    "duration_s": 458,
+    "uploaded_utc": "2026-11-08T20:55:32Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-08T21:20:40Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401873039": {
    "game_id": "401873039",
