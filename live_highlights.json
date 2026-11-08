@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-08T06:42:14Z",
+ "updated_utc": "2026-11-08T15:21:04Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -2360,7 +2360,24 @@
    "kickoff_utc": "2026-11-08T03:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "cPjL328jkOE",
+    "title": "ROAD ROUT Lifts Bobcats to Bounce-Back Win 😼 | Texas State at Oregon State | Highlights",
+    "channel": "Pac-12",
+    "channel_id": "UCtxdtF8iCxZw593FSUIPrxg",
+    "url": "https://www.youtube.com/watch?v=cPjL328jkOE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/cPjL328jkOE",
+    "thumb": "https://i.ytimg.com/vi/cPjL328jkOE/hqdefault.jpg",
+    "duration_s": 300,
+    "uploaded_utc": "2026-11-08T07:30:25Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-08T15:21:03Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401864535": {
    "game_id": "401864535",
@@ -2368,7 +2385,24 @@
    "kickoff_utc": "2026-11-08T03:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "-d__XKxvpaU",
+    "title": "Wyoming Cowboys vs UNLV Rebels College Football Highlights | Week 10 Condensed Game",
+    "channel": "CBS Sports College Football",
+    "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+    "url": "https://www.youtube.com/watch?v=-d__XKxvpaU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/-d__XKxvpaU",
+    "thumb": "https://i.ytimg.com/vi/-d__XKxvpaU/hqdefault.jpg",
+    "duration_s": 1519,
+    "uploaded_utc": "2026-11-08T07:26:55Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-08T15:21:04Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   }
  }
 }
