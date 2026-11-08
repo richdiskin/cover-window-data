@@ -478,25 +478,32 @@
    },
    "injuries": {
     "source": "NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg9",
-    "fetched_at_utc": "2026-11-04T23:30:26Z",
+    "fetched_at_utc": "2026-11-08T07:17:42Z",
     "away": [
      {
       "player": "Jonathan Allen",
       "position": "DT",
       "injury": "",
-      "practice_status": "Did Not Participate In Practice",
+      "practice_status": "Limited Participation in Practice",
       "game_status": ""
      },
      {
       "player": "Jordan Battle",
       "position": "S",
       "injury": "",
-      "practice_status": "Limited Participation in Practice",
+      "practice_status": "Full Participation in Practice",
       "game_status": ""
      },
      {
       "player": "Kyle Dugger",
       "position": "S",
+      "injury": "Quadricep",
+      "practice_status": "Did Not Participate In Practice",
+      "game_status": "Out"
+     },
+     {
+      "player": "B.J. Hill",
+      "position": "DT",
       "injury": "",
       "practice_status": "Did Not Participate In Practice",
       "game_status": ""
@@ -504,6 +511,13 @@
      {
       "player": "Cedric Johnson",
       "position": "DE",
+      "injury": "Ankle, Foot",
+      "practice_status": "Full Participation in Practice",
+      "game_status": "Questionable"
+     },
+     {
+      "player": "Dexter Lawrence",
+      "position": "DT",
       "injury": "",
       "practice_status": "Did Not Participate In Practice",
       "game_status": ""
@@ -512,7 +526,7 @@
       "player": "DJ Turner II",
       "position": "CB",
       "injury": "",
-      "practice_status": "Did Not Participate In Practice",
+      "practice_status": "Full Participation in Practice",
       "game_status": ""
      }
     ],
@@ -520,9 +534,9 @@
      {
       "player": "Yasir Abdullah",
       "position": "DE",
-      "injury": "",
-      "practice_status": "Limited Participation in Practice",
-      "game_status": ""
+      "injury": "Hamstring",
+      "practice_status": "Full Participation in Practice",
+      "game_status": "Questionable"
      },
      {
       "player": "Billy Bowman Jr.",
@@ -534,50 +548,50 @@
      {
       "player": "Zachariah Branch",
       "position": "WR",
-      "injury": "",
+      "injury": "Hamstring",
       "practice_status": "Did Not Participate In Practice",
-      "game_status": ""
+      "game_status": "Out"
      },
      {
       "player": "Beaux Collins",
       "position": "WR",
-      "injury": "",
+      "injury": "Hip",
       "practice_status": "Full Participation in Practice",
-      "game_status": ""
+      "game_status": "Questionable"
      },
      {
       "player": "Divine Deablo",
       "position": "LB",
-      "injury": "",
-      "practice_status": "Limited Participation in Practice",
-      "game_status": ""
+      "injury": "Forearm",
+      "practice_status": "Full Participation in Practice",
+      "game_status": "Questionable"
      },
      {
       "player": "James Pearce Jr.",
       "position": "DE",
-      "injury": "",
-      "practice_status": "Full Participation in Practice",
-      "game_status": ""
+      "injury": "Back",
+      "practice_status": "Limited Participation in Practice",
+      "game_status": "Questionable"
      },
      {
       "player": "Brian Robinson",
       "position": "RB",
-      "injury": "",
+      "injury": "Hamstring",
       "practice_status": "Limited Participation in Practice",
-      "game_status": ""
+      "game_status": "Out"
      },
      {
       "player": "Cameron Williams",
       "position": "T",
-      "injury": "",
+      "injury": "Ankle",
       "practice_status": "Full Participation in Practice",
-      "game_status": ""
+      "game_status": "Out"
      }
     ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261108",
    "spread": "Atlanta Falcons +3",
-   "story_text": "Bengals 25, Falcons 23. Falcons cover the 3. Under 52.5. The Formula projects Atlanta by 0.3 against a 3-point line.",
+   "story_text": "Our desks see it Bengals 25, Falcons 23. The pick: Falcons +3, Under 52.5.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
@@ -598,13 +612,13 @@
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "Net ratings Atlanta Falcons −2.2, Cincinnati Bengals −2.0 (nflverse play-by-play, Nov 4, 2026)",
+     "public_case": "Net ratings Atlanta Falcons −2.2, Cincinnati Bengals −2.5 (nflverse play-by-play, Nov 4, 2026)",
      "market": "spread",
      "best_bet": false
     },
     {
      "id": "H2",
-     "public_case": "Projected points: Atlanta Falcons 23.4, Cincinnati Bengals 25.7. Availability: expected starting quarterbacks Michael Penix Jr. (ATL) and Joe Burrow (CIN). NFL.com official Week 9 injury report (fetched Nov 4, 6:30 PM ET): no quarterback is ruled out.",
+     "public_case": "Projected points: Atlanta Falcons 23.4, Cincinnati Bengals 25.7. Availability: expected starting quarterbacks Michael Penix Jr. (ATL) and Joe Burrow (CIN). NFL.com official Week 9 injury report (fetched Nov 8, 2:17 AM ET): no quarterback is ruled out.",
      "market": "spread",
      "best_bet": false
     },
@@ -622,7 +636,7 @@
     },
     {
      "id": "H5",
-     "public_case": "Line-of-scrimmage matchup (nflverse play-by-play through Week 8). Projected points: Atlanta Falcons 21.4, Cincinnati Bengals 24.5.",
+     "public_case": "Atlanta tackle Cameron Williams is unavailable. Evidence of his season participation is incomplete and does not establish that he contributed to the season sample. In The Trenches withholds its score and pick.",
      "market": "spread",
      "best_bet": false
     }
@@ -636,7 +650,7 @@
     "Lines: Action Network consensus line as of Nov 4, 6:30 PM ET.",
     "The Formula ratings: nflverse play-by-play as of Nov 4, 6:30 PM ET, Weeks 1–8 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–8 finals.",
-    "Injuries: NFL.com official Week 9 injury report, fetched Nov 4, 6:30 PM ET (quarterback status used by Next Man Up).",
+    "Injuries: NFL.com official Week 9 injury report, fetched Nov 8, 2:17 AM ET (quarterback status used by Next Man Up).",
     "Follow The Money: move from the first consensus line at or after Nov 3, 12:15 AM ET (Action Network line history).",
     "Records and points: ESPN team pages, as of Nov 4, 6:29 PM ET.",
     "Next Man Up: 2026 game scores (nflverse game results); expected starting quarterbacks from nflverse play-by-play, the NFL.com Week 9 injury report and team announcements.",
@@ -646,8 +660,8 @@
    "page_note": "",
    "rule_version": "170",
    "writer_total": {
-    "label": "",
-    "source": "Cover Writer",
+    "label": "Average of 3 desk scores",
+    "source": "average of the independent cards",
     "projected_total": 48,
     "market_total": 52.5,
     "pick": "Under",
@@ -658,72 +672,76 @@
      "score_line": "Projected: Atlanta Falcons 23, Cincinnati Bengals 25 (Total 48)",
      "side": "Atlanta Falcons +3",
      "ou": "Under 52.5",
-     "label": ""
+     "label": "Average of 3 desk scores"
     },
     "handicappers": [
      {
       "name": "The Formula",
       "side_line": "Side: Atlanta Falcons +3 · Likes this side",
-      "ou_line": "O/U: Under 52.5 · Likes this total",
-      "score_line": "Projected: Atlanta Falcons 25, Cincinnati Bengals 24 (Total 49)",
-      "basis_line": "Net ratings Atlanta Falcons −2.2, Cincinnati Bengals −2.0 (nflverse play-by-play, Nov 4, 2026)",
+      "ou_line": "O/U: Under 52.5",
+      "score_line": "Projected: Atlanta Falcons 24, Cincinnati Bengals 24 (Total 48)",
+      "basis_line": "Net ratings Atlanta Falcons −2.2, Cincinnati Bengals −2.5 (nflverse play-by-play, Nov 4, 2026)",
       "independent": true,
-      "distance_from_spread": 4.0,
-      "distance_from_total": 3.5
+      "distance_from_spread": 3.0,
+      "distance_from_total": 4.5
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: Atlanta Falcons +3",
-      "ou_line": "O/U: Under 52.5 · Likes this total",
-      "score_line": "Projected: Atlanta Falcons 24, Cincinnati Bengals 26 (Total 50)",
-      "basis_line": "Projected points: Atlanta Falcons 23.4, Cincinnati Bengals 25.7. Availability: expected starting quarterbacks Michael Penix Jr. (ATL) and Joe Burrow (CIN). NFL.com official Week 9 injury report (fetched Nov 4, 6:30 PM ET): no quarterback is ruled out.",
+      "ou_line": "O/U: Under 52.5",
+      "score_line": "Projected: Atlanta Falcons 23, Cincinnati Bengals 26 (Total 49)",
+      "basis_line": "Projected points: Atlanta Falcons 23.4, Cincinnati Bengals 25.7. Availability: expected starting quarterbacks Michael Penix Jr. (ATL) and Joe Burrow (CIN). NFL.com official Week 9 injury report (fetched Nov 8, 2:17 AM ET): no quarterback is ruled out.",
       "independent": true,
-      "distance_from_spread": 1.0,
-      "distance_from_total": 2.5
+      "distance_from_spread": 0.0,
+      "distance_from_total": 3.5,
+      "landed_on_number": [
+       "spread"
+      ]
      },
      {
       "name": "Letdown Watch",
       "side_line": "Side: Cincinnati Bengals −3",
-      "ou_line": "O/U: Under 52.5 · Likes this total",
+      "ou_line": "O/U: Under 52.5",
       "score_line": "Projected: Atlanta Falcons 22, Cincinnati Bengals 26 (Total 48)",
       "basis_line": "Rest and travel: Cincinnati Bengals: 7 days since its last game, travels 4131 miles; Atlanta Falcons: 7 days since its last game, travels 4315 miles, last game was also away from home. Projected: Bengals by 3.9, total 47.3.",
       "independent": true,
       "distance_from_spread": 1.0,
-      "distance_from_total": 4.5
+      "distance_from_total": 4.5,
+      "landed_on_number": []
      },
      {
       "name": "Follow The Money",
       "side_line": "Side: no pick (not enough line movement)",
       "ou_line": "O/U: no pick (not enough total movement)",
-      "score_line": "No score of its own — reads the market (see the market line).",
+      "score_line": "No score of its own.",
       "basis_line": "Spread opened Cincinnati Bengals −3 (Nov 3, 7:08 AM ET) and is Cincinnati Bengals −3 now (Nov 4, 6:30 PM ET), a 0-point move. Total opened 52.5 (Nov 3, 7:08 AM ET) and is 52.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.0,
-      "distance_from_total": 0.5
+      "distance_from_spread": null,
+      "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Cincinnati Bengals −3",
-      "ou_line": "O/U: Under 52.5 · Likes this total",
-      "score_line": "Projected: Atlanta Falcons 21, Cincinnati Bengals 25 (Total 46)",
-      "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 8). Projected points: Atlanta Falcons 21.4, Cincinnati Bengals 24.5.",
-      "independent": true,
-      "distance_from_spread": 1.0,
-      "distance_from_total": 6.5
+      "side_line": "Side: no pick (no trench signal)",
+      "ou_line": "O/U: no pick (no trench signal)",
+      "score_line": "No score this week — not counted in the average.",
+      "basis_line": "Atlanta tackle Cameron Williams is unavailable. Evidence of his season participation is incomplete and does not establish that he contributed to the season sample. In The Trenches withholds its score and pick.",
+      "independent": false,
+      "distance_from_spread": null,
+      "distance_from_total": null
      }
     ],
     "best_bets": [],
-    "story_text": "A Lombardi Trophy sits inside the Casa de las Alhajas this week, next to a ring from every Super Bowl ever played, and the NFL House in Madrid is where my Bengals vs Falcons prediction starts. Sunday at the Bernabéu, I'm taking Atlanta plus the 3 and the Under 52.5.\n\nThe number hasn't moved an inch. The spread and the over/under both opened Cincinnati −3 and 52.5 on Tuesday, and both are still there in the Wednesday evening consensus. Nobody has found a reason to push it, which tells me the market is comfortable calling this a field-goal game. I think it's a little less than that.\n\nThe Formula: Net ratings Atlanta Falcons −2.2, Cincinnati Bengals −2.0 (nflverse play-by-play, Nov 4, 2026).\n\nThose two teams grade out almost dead even, and they're meeting in Madrid, not Atlanta. That's the heart of the case. Cincinnati is the better team on paper at 5-2, with 206 points scored and 158 allowed. Atlanta is 3-5 and has been outscored 189 to 171. But even grades and a three-point number leave the Falcons room to lose and still get paid.\n\nThe last week explains why the Bengals are laying it. Joe Burrow threw five touchdown passes in an overtime shootout win over Tennessee at home. Atlanta got shut out in Tampa, and Michael Penix Jr. threw four interceptions. That's the freshest picture in everybody's head, and it's exactly the kind of picture that props up a favorite for one more week.\n\nLook at how Atlanta wins instead. Bijan Robinson and the Falcons run for 4.8 yards a carry, and Cincinnati's defense allows 5.0. The Bengals run for only 3.8 against an Atlanta defense that gives up 4.6, so Burrow is carrying the offense with Tee Higgins outside. If Atlanta keeps feeding Robinson, it shortens the game and keeps Burrow on the sideline.\n\nThat's also the case for the Under. Both teams have spent a week getting across an ocean, both had to adjust their body clocks, and the first quarter in an international game often looks like it. My final adds up to 48, four and a half points under the number.\n\nThe room is split on the side and together on the total. The Formula likes Atlanta and has the Falcons winning outright, Falcons 25, Bengals 24. Next Man Up also takes the points with a two-point Bengals win. Letdown Watch and In The Trenches lay it with Cincinnati, both at four-point margins. All four with a total call are on the Under. Follow The Money has nothing to say, since neither the spread nor the total has budged since the open.\n\nTwo of the four cards keep Cincinnati short of the 3, and my final has the Bengals by two. That's where I land.\n\nManuel Turizo plays the halftime show, the crowd will be half curious and half confused, and Cincinnati escapes Madrid with a win that doesn't quite reach the number.\n\nBengals 25, Falcons 23. Falcons cover the 3. Under 52.5.",
+    "story_text": "A Lombardi Trophy sits inside the Casa de las Alhajas this week, next to a ring from every Super Bowl ever played, and the NFL House in Madrid is where my Bengals vs Falcons prediction starts. Sunday at the Bernabéu, I'm taking Atlanta plus the 3 and the Under 52.5.\n\nThe number hasn't moved an inch. The spread and the over/under both opened Cincinnati −3 and 52.5 on Tuesday, and both are still there in the Wednesday evening consensus. Nobody has found a reason to push it, which tells me the market is comfortable calling this a field-goal game. I think it's a little less than that.\n\nThe Formula sees a rounded tie, Falcons 24, Bengals 24.\n\nThat is about as close as it gets, and they're meeting in Madrid, not Atlanta. That's the heart of the case. Cincinnati is the better team on paper at 5-2, with 206 points scored and 158 allowed. Atlanta is 3-5 and has been outscored 189 to 171. But a close game and a three-point number leave the Falcons room to lose and still get paid.\n\nThe last week explains why the Bengals are laying it. Joe Burrow threw five touchdown passes in an overtime shootout win over Tennessee at home. Atlanta got shut out in Tampa, and Michael Penix Jr. threw four interceptions. That's the freshest picture in everybody's head, and it's exactly the kind of picture that props up a favorite for one more week.\n\nLook at how Atlanta wins instead. Bijan Robinson and the Falcons run for 4.8 yards a carry, and Cincinnati's defense allows 5.0. The Bengals run for only 3.8 against an Atlanta defense that gives up 4.6, so Burrow is carrying the offense with Tee Higgins outside. If Atlanta keeps feeding Robinson, it shortens the game and keeps Burrow on the sideline.\n\nThat's also the case for the Under. Both teams have spent a week getting across an ocean, both had to adjust their body clocks, and the first quarter in an international game often looks like it. My final adds up to 48, four and a half points under the number.\n\nThe three scoring desks split on the side and agree on the Under. The Formula takes Atlanta with its rounded 24-24 tie. Next Man Up also takes the points, showing Bengals 26, Falcons 23. Letdown Watch lays it with Cincinnati at Bengals 26, Falcons 22. In The Trenches has no score or pick. Cameron Williams is unavailable, and the evidence of his season participation is incomplete; it does not establish that he contributed to the season sample. Follow The Money has no pick and contributes no score.\n\nTwo of the three scoring desks take Atlanta plus the 3, and the final average has the Bengals by two. That's where I land.\n\nManuel Turizo plays the halftime show, the crowd will be half curious and half confused, and Cincinnati escapes Madrid with a win that doesn't quite reach the number.\n\nOur desks see it Bengals 25, Falcons 23. The pick: Falcons +3, Under 52.5.",
     "fanatic_score_line": "Projected: Atlanta Falcons 23, Cincinnati Bengals 25 (48 combined points)",
     "market": {
-     "score_line": "Market: Atlanta Falcons 25, Cincinnati Bengals 28 (Total 53)",
+     "score_line": "",
      "spread": "Cincinnati Bengals −3",
      "total": "52.5",
      "source": "Consensus line as of Nov 4, 6:30 PM ET",
      "note": "The market’s own numbers, shown for comparison only."
     }
    },
-   "gambler_story": "A Lombardi Trophy sits inside the Casa de las Alhajas this week, next to a ring from every Super Bowl ever played, and the NFL House in Madrid is where my Bengals vs Falcons prediction starts. Sunday at the Bernabéu, I'm taking Atlanta plus the 3 and the Under 52.5.\n\nThe number hasn't moved an inch. The spread and the over/under both opened Cincinnati −3 and 52.5 on Tuesday, and both are still there in the Wednesday evening consensus. Nobody has found a reason to push it, which tells me the market is comfortable calling this a field-goal game. I think it's a little less than that.\n\nThe Formula: Net ratings Atlanta Falcons −2.2, Cincinnati Bengals −2.0 (nflverse play-by-play, Nov 4, 2026).\n\nThose two teams grade out almost dead even, and they're meeting in Madrid, not Atlanta. That's the heart of the case. Cincinnati is the better team on paper at 5-2, with 206 points scored and 158 allowed. Atlanta is 3-5 and has been outscored 189 to 171. But even grades and a three-point number leave the Falcons room to lose and still get paid.\n\nThe last week explains why the Bengals are laying it. Joe Burrow threw five touchdown passes in an overtime shootout win over Tennessee at home. Atlanta got shut out in Tampa, and Michael Penix Jr. threw four interceptions. That's the freshest picture in everybody's head, and it's exactly the kind of picture that props up a favorite for one more week.\n\nLook at how Atlanta wins instead. Bijan Robinson and the Falcons run for 4.8 yards a carry, and Cincinnati's defense allows 5.0. The Bengals run for only 3.8 against an Atlanta defense that gives up 4.6, so Burrow is carrying the offense with Tee Higgins outside. If Atlanta keeps feeding Robinson, it shortens the game and keeps Burrow on the sideline.\n\nThat's also the case for the Under. Both teams have spent a week getting across an ocean, both had to adjust their body clocks, and the first quarter in an international game often looks like it. My final adds up to 48, four and a half points under the number.\n\nThe room is split on the side and together on the total. The Formula likes Atlanta and has the Falcons winning outright, Falcons 25, Bengals 24. Next Man Up also takes the points with a two-point Bengals win. Letdown Watch and In The Trenches lay it with Cincinnati, both at four-point margins. All four with a total call are on the Under. Follow The Money has nothing to say, since neither the spread nor the total has budged since the open.\n\nTwo of the four cards keep Cincinnati short of the 3, and my final has the Bengals by two. That's where I land.\n\nManuel Turizo plays the halftime show, the crowd will be half curious and half confused, and Cincinnati escapes Madrid with a win that doesn't quite reach the number.\n\nBengals 25, Falcons 23. Falcons cover the 3. Under 52.5.",
+   "gambler_story": "A Lombardi Trophy sits inside the Casa de las Alhajas this week, next to a ring from every Super Bowl ever played, and the NFL House in Madrid is where my Bengals vs Falcons prediction starts. Sunday at the Bernabéu, I'm taking Atlanta plus the 3 and the Under 52.5.\n\nThe number hasn't moved an inch. The spread and the over/under both opened Cincinnati −3 and 52.5 on Tuesday, and both are still there in the Wednesday evening consensus. Nobody has found a reason to push it, which tells me the market is comfortable calling this a field-goal game. I think it's a little less than that.\n\nThe Formula sees a rounded tie, Falcons 24, Bengals 24.\n\nThat is about as close as it gets, and they're meeting in Madrid, not Atlanta. That's the heart of the case. Cincinnati is the better team on paper at 5-2, with 206 points scored and 158 allowed. Atlanta is 3-5 and has been outscored 189 to 171. But a close game and a three-point number leave the Falcons room to lose and still get paid.\n\nThe last week explains why the Bengals are laying it. Joe Burrow threw five touchdown passes in an overtime shootout win over Tennessee at home. Atlanta got shut out in Tampa, and Michael Penix Jr. threw four interceptions. That's the freshest picture in everybody's head, and it's exactly the kind of picture that props up a favorite for one more week.\n\nLook at how Atlanta wins instead. Bijan Robinson and the Falcons run for 4.8 yards a carry, and Cincinnati's defense allows 5.0. The Bengals run for only 3.8 against an Atlanta defense that gives up 4.6, so Burrow is carrying the offense with Tee Higgins outside. If Atlanta keeps feeding Robinson, it shortens the game and keeps Burrow on the sideline.\n\nThat's also the case for the Under. Both teams have spent a week getting across an ocean, both had to adjust their body clocks, and the first quarter in an international game often looks like it. My final adds up to 48, four and a half points under the number.\n\nThe three scoring desks split on the side and agree on the Under. The Formula takes Atlanta with its rounded 24-24 tie. Next Man Up also takes the points, showing Bengals 26, Falcons 23. Letdown Watch lays it with Cincinnati at Bengals 26, Falcons 22. In The Trenches has no score or pick. Cameron Williams is unavailable, and the evidence of his season participation is incomplete; it does not establish that he contributed to the season sample. Follow The Money has no pick and contributes no score.\n\nTwo of the three scoring desks take Atlanta plus the 3, and the final average has the Bengals by two. That's where I land.\n\nManuel Turizo plays the halftime show, the crowd will be half curious and half confused, and Cincinnati escapes Madrid with a win that doesn't quite reach the number.\n\nOur desks see it Bengals 25, Falcons 23. The pick: Falcons +3, Under 52.5.",
    "fanatic_story": "Russ Amundsen walked the whole Dirty Birds Fan Walk on Sunday, from the Paseo de la Castellana all the way to the Bernabéu, flapping his elbows every hundred yards whether anybody asked him to or not. A Spanish grandfather tried it with him for a block, and Russ said it was the best moment of his trip.\n\nLaura Kessel had spent the morning standing in front of the Bengals Menina, the striped statue the team put up for the Madrid art display, and she was still mad nobody had painted it in more stripes.\n\nLaura: You flew five thousand miles to do a chicken dance in the street.\n\nRuss: The Dirty Bird is a sacred tradition. Jamal Anderson invented it so the whole country could watch us have fun.\n\nLaura: The whole country watched you blow the biggest lead in Super Bowl history.\n\nRuss took off his hat, held it against his chest, and said nothing for ten full seconds. Then he put the hat back on and asked whether Cincinnati had ever won a Super Bowl. Laura stopped smiling.\n\nThis is the problem with two fan bases that have been hurt this badly. Laura has watched her team lose two Super Bowls to San Francisco and one to the Rams, and she doesn't even blink about the old days anymore. Russ grew up on Michael Vick running around entire defenses, and he still won't talk about the second half of that Super Bowl against New England. Neither one gets to act superior, and both of them try anyway.\n\nLaura had the better week back home and she let him know it. Joe Burrow threw five touchdowns in an overtime home win against Tennessee at Paycor Stadium, and the Bengals are 5-2 with a defense that has allowed 158 points. She calls it the most fun she's had since the Ickey Shuffle.\n\nRuss: We had a rough Sunday in Tampa.\n\nLaura: Four interceptions isn't rough. Four interceptions is a career day for my safeties.\n\nRuss won't let one bad day define Michael Penix Jr. He says Penix bounces back from ugly games, and he points to Bijan Robinson like he's pointing at a fire truck. Atlanta runs for 4.8 yards a carry, and Russ figures Robinson gets the ball until the Spaniards learn his name.\n\nLaura admits Cincinnati's run game is a weak spot at 3.8 a carry. She doesn't care. Burrow and Tee Higgins have been playing catch since they were basically kids, and when they get going, she says, it doesn't matter what country you're in.\n\nThen there's the trip itself. Both teams had to fly across an ocean, figure out the time change and practice on a schedule that makes no sense to their bodies. Laura thinks the Bengals handle it better because Burrow doesn't rattle. Russ thinks Atlanta handles it better because nothing could possibly be worse than Atlanta traffic.\n\nThey both went to see the Lombardi Trophy at the NFL House inside the Casa de las Alhajas, where there's a ring from every Super Bowl ever played. Laura pointed out the empty space where a Bengals ring should be. Russ pointed out the empty space where a Falcons ring should be. Then they stood there in silence for a while, two grown adults staring at jewelry they've never owned.\n\nLaura: Next year.\n\nRuss: You've been saying that for my whole life.\n\nManuel Turizo plays at halftime, and neither one of them knew who he was until Saturday. Russ has now learned two of his songs and plans to sing them at full volume. Laura plans to switch seats.\n\nLaura: Who Dey all the way down the Castellana. I'm starting the chant on the walk out.\n\nRuss: You'll be starting it alone. Half this city already thinks the Dirty Bird is their national dance.\n\nLaura didn't fly across an ocean to watch Cincinnati lose in a soccer stadium, and she told half the Castellana so. Russ flapped his elbows at her until she cracked up, and he's counting that as Atlanta's first win of the day.\n\nMy call: Bengals 25, Falcons 23.",
    "fanatic_final_sentence": "Bengals 25, Falcons 23.",
    "preview_sources": [],
