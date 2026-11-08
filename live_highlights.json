@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-08T04:38:46Z",
+ "updated_utc": "2026-11-08T06:15:10Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -2293,7 +2293,24 @@
    "kickoff_utc": "2026-11-08T02:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "Tms85y19bho",
+    "title": "AGGIES STIFLE for Back-to-Back Wins 😤 | Utah State vs. Fresno State | Highlights | Pac-12 Football",
+    "channel": "Pac-12",
+    "channel_id": "UCtxdtF8iCxZw593FSUIPrxg",
+    "url": "https://www.youtube.com/watch?v=Tms85y19bho",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Tms85y19bho",
+    "thumb": "https://i.ytimg.com/vi/Tms85y19bho/hqdefault.jpg",
+    "duration_s": 307,
+    "uploaded_utc": "2026-11-08T06:03:49Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T06:14:19Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401864532": {
    "game_id": "401864532",
