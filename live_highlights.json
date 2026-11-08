@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-08T03:42:29Z",
+ "updated_utc": "2026-11-08T04:14:35Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -2052,7 +2052,24 @@
    "kickoff_utc": "2026-11-08T00:00Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "Yhls_ODsPlQ",
+    "title": "Sam Houston State vs Jacksonville State | Week 10 Condensed Game",
+    "channel": "CBS Sports College Football",
+    "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+    "url": "https://www.youtube.com/watch?v=Yhls_ODsPlQ",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Yhls_ODsPlQ",
+    "thumb": "https://i.ytimg.com/vi/Yhls_ODsPlQ/hqdefault.jpg",
+    "duration_s": 1206,
+    "uploaded_utc": "2026-11-08T03:45:50Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T04:12:49Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856741": {
    "game_id": "401856741",
@@ -2068,7 +2085,24 @@
    "kickoff_utc": "2026-11-08T00:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "7TGK3xcavhU",
+    "title": "Colorado Buffaloes vs. Arizona State Sun Devils | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=7TGK3xcavhU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/7TGK3xcavhU",
+    "thumb": "https://i.ytimg.com/vi/7TGK3xcavhU/hqdefault.jpg",
+    "duration_s": 1034,
+    "uploaded_utc": "2026-11-08T03:59:10Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T04:13:10Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858287": {
    "game_id": "401858287",
@@ -2076,7 +2110,24 @@
    "kickoff_utc": "2026-11-08T00:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "aJw2nfArzik",
+    "title": "Louisville Cardinals vs. Georgia Tech Yellow Jackets | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=aJw2nfArzik",
+    "embed_url": "https://www.youtube-nocookie.com/embed/aJw2nfArzik",
+    "thumb": "https://i.ytimg.com/vi/aJw2nfArzik/hqdefault.jpg",
+    "duration_s": 1003,
+    "uploaded_utc": "2026-11-08T04:02:52Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T04:13:10Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858291": {
    "game_id": "401858291",
@@ -2100,7 +2151,24 @@
    "kickoff_utc": "2026-11-08T00:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "64RI6S4mME8",
+    "title": "Iowa at Northwestern | Highlights | Big Ten Football | 11/07/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=64RI6S4mME8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/64RI6S4mME8",
+    "thumb": "https://i.ytimg.com/vi/64RI6S4mME8/hqdefault.jpg",
+    "duration_s": 190,
+    "uploaded_utc": "2026-11-08T03:57:49Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T04:13:58Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401862823": {
    "game_id": "401862823",
@@ -2108,7 +2176,24 @@
    "kickoff_utc": "2026-11-08T00:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "7yc3Boo4Tb4",
+    "title": "Air Force Falcons vs. Army Black Knights College Football Highlights | Week 10 Condensed Game",
+    "channel": "CBS Sports College Football",
+    "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+    "url": "https://www.youtube.com/watch?v=7yc3Boo4Tb4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/7yc3Boo4Tb4",
+    "thumb": "https://i.ytimg.com/vi/7yc3Boo4Tb4/hqdefault.jpg",
+    "duration_s": 1129,
+    "uploaded_utc": "2026-11-08T04:11:37Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T04:14:05Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856739": {
    "game_id": "401856739",
