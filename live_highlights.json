@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-08T01:41:25Z",
+ "updated_utc": "2026-11-08T02:10:21Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -1795,7 +1795,24 @@
    "kickoff_utc": "2026-11-07T20:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "8Ru1EKlYMXA",
+    "title": "Temple vs. Navy College Football Highlights | Week 10 Condensed Game",
+    "channel": "CBS Sports College Football",
+    "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+    "url": "https://www.youtube.com/watch?v=8Ru1EKlYMXA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/8Ru1EKlYMXA",
+    "thumb": "https://i.ytimg.com/vi/8Ru1EKlYMXA/hqdefault.jpg",
+    "duration_s": 1517,
+    "uploaded_utc": "2026-11-08T01:51:03Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T02:07:26Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401869951": {
    "game_id": "401869951",
@@ -1960,7 +1977,24 @@
    "kickoff_utc": "2026-11-07T22:00Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "-IXA9nWsjSg",
+    "title": "South Alabama Jaguars vs Louisiana Ragin' Cajuns Highlights | 2026 Sun Belt Conference Football",
+    "channel": "Sun Belt Conference",
+    "channel_id": "UCwRkms-Zb61HtMDIjmKofmw",
+    "url": "https://www.youtube.com/watch?v=-IXA9nWsjSg",
+    "embed_url": "https://www.youtube-nocookie.com/embed/-IXA9nWsjSg",
+    "thumb": "https://i.ytimg.com/vi/-IXA9nWsjSg/hqdefault.jpg",
+    "duration_s": 540,
+    "uploaded_utc": "2026-11-08T01:44:06Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T02:09:17Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401860911": {
    "game_id": "401860911",
