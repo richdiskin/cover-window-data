@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-08T06:15:10Z",
+ "updated_utc": "2026-11-08T06:42:14Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -2285,7 +2285,24 @@
    "kickoff_utc": "2026-11-08T02:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "63w29Psfen0",
+    "title": "West Virginia Mountaineers vs. Texas Tech Red Raiders | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=63w29Psfen0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/63w29Psfen0",
+    "thumb": "https://i.ytimg.com/vi/63w29Psfen0/hqdefault.jpg",
+    "duration_s": 1336,
+    "uploaded_utc": "2026-11-08T06:28:46Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T06:41:35Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401860913": {
    "game_id": "401860913",
@@ -2318,7 +2335,24 @@
    "kickoff_utc": "2026-11-08T02:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "24K7ze1rrjo",
+    "title": "Hawai’i Rainbow Warriors vs UTEP Miners Highlights | FOX College Football",
+    "channel": "CFB ON FOX",
+    "channel_id": "UCpwix-O6ceqMgdxhqIynzFA",
+    "url": "https://www.youtube.com/watch?v=24K7ze1rrjo",
+    "embed_url": "https://www.youtube-nocookie.com/embed/24K7ze1rrjo",
+    "thumb": "https://i.ytimg.com/vi/24K7ze1rrjo/hqdefault.jpg",
+    "duration_s": 1039,
+    "uploaded_utc": "2026-11-08T06:14:28Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T06:42:14Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401860912": {
    "game_id": "401860912",
