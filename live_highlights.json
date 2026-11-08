@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-07T23:12:28Z",
+ "updated_utc": "2026-11-08T00:10:28Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -1621,7 +1621,24 @@
    "kickoff_utc": "2026-11-07T20:00Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "64f_AQznd9I",
+    "title": "Texas A&M Aggies vs. South Carolina Gamecocks | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=64f_AQznd9I",
+    "embed_url": "https://www.youtube-nocookie.com/embed/64f_AQznd9I",
+    "thumb": "https://i.ytimg.com/vi/64f_AQznd9I/hqdefault.jpg",
+    "duration_s": 2180,
+    "uploaded_utc": "2026-11-07T23:51:38Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T00:07:41Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401869936": {
    "game_id": "401869936",
