@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-08T00:10:28Z",
+ "updated_utc": "2026-11-08T00:44:29Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -1662,7 +1662,24 @@
    "kickoff_utc": "2026-11-07T20:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "RjFX4QDk8XA",
+    "title": "Alabama Crimson Tide vs. LSU Tigers | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=RjFX4QDk8XA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/RjFX4QDk8XA",
+    "thumb": "https://i.ytimg.com/vi/RjFX4QDk8XA/hqdefault.jpg",
+    "duration_s": 1142,
+    "uploaded_utc": "2026-11-08T00:20:37Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T00:39:56Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856851": {
    "game_id": "401856851",
@@ -1670,7 +1687,24 @@
    "kickoff_utc": "2026-11-07T20:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "OAwFvlx5Nj8",
+    "title": "Cincinnati vs. #17 Houston Highlights | 2026 Monster Energy Big 12 Football",
+    "channel": "Big 12 Conference",
+    "channel_id": "UCLnfOCTbfqMy_3ah8OmTHEQ",
+    "url": "https://www.youtube.com/watch?v=OAwFvlx5Nj8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/OAwFvlx5Nj8",
+    "thumb": "https://i.ytimg.com/vi/OAwFvlx5Nj8/hqdefault.jpg",
+    "duration_s": 280,
+    "uploaded_utc": "2026-11-08T00:27:58Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T00:40:59Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858290": {
    "game_id": "401858290",
@@ -1678,7 +1712,24 @@
    "kickoff_utc": "2026-11-07T20:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "oUYFKlmgCJ8",
+    "title": "Merrimack vs. Wake Forest Condensed Game | 2026 ACC Football",
+    "channel": "ACC Digital Network",
+    "channel_id": "UC0hy7TcR1gGD8nQBqrF2FaA",
+    "url": "https://www.youtube.com/watch?v=oUYFKlmgCJ8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/oUYFKlmgCJ8",
+    "thumb": "https://i.ytimg.com/vi/oUYFKlmgCJ8/hqdefault.jpg",
+    "duration_s": 1505,
+    "uploaded_utc": "2026-11-08T00:38:57Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T00:40:59Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858514": {
    "game_id": "401858514",
@@ -1694,7 +1745,24 @@
    "kickoff_utc": "2026-11-07T20:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "edU0t6mcmF4",
+    "title": "Penn State Nittany Lions vs Washington Huskies Highlights | FOX College Football",
+    "channel": "CFB ON FOX",
+    "channel_id": "UCpwix-O6ceqMgdxhqIynzFA",
+    "url": "https://www.youtube.com/watch?v=edU0t6mcmF4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/edU0t6mcmF4",
+    "thumb": "https://i.ytimg.com/vi/edU0t6mcmF4/hqdefault.jpg",
+    "duration_s": 741,
+    "uploaded_utc": "2026-11-08T00:28:26Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T00:41:38Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401862819": {
    "game_id": "401862819",
@@ -1718,7 +1786,24 @@
    "kickoff_utc": "2026-11-07T20:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "qyihPa57Ccs",
+    "title": "Marshall Thundering Herd vs Georgia Southern Eagles Highlights | 2026 Sun Belt Conference Football",
+    "channel": "Sun Belt Conference",
+    "channel_id": "UCwRkms-Zb61HtMDIjmKofmw",
+    "url": "https://www.youtube.com/watch?v=qyihPa57Ccs",
+    "embed_url": "https://www.youtube-nocookie.com/embed/qyihPa57Ccs",
+    "thumb": "https://i.ytimg.com/vi/qyihPa57Ccs/hqdefault.jpg",
+    "duration_s": 522,
+    "uploaded_utc": "2026-11-08T00:25:57Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T00:42:18Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401871076": {
    "game_id": "401871076",
@@ -1734,7 +1819,24 @@
    "kickoff_utc": "2026-11-07T20:45Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "iIKP9DeIRC0",
+    "title": "UCF vs. Kansas Highlights | 2026 Monster Energy Big 12 Football",
+    "channel": "Big 12 Conference",
+    "channel_id": "UCLnfOCTbfqMy_3ah8OmTHEQ",
+    "url": "https://www.youtube.com/watch?v=iIKP9DeIRC0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/iIKP9DeIRC0",
+    "thumb": "https://i.ytimg.com/vi/iIKP9DeIRC0/hqdefault.jpg",
+    "duration_s": 390,
+    "uploaded_utc": "2026-11-08T00:32:55Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T00:42:40Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401862821": {
    "game_id": "401862821",
@@ -1782,7 +1884,24 @@
    "kickoff_utc": "2026-11-07T21:15Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "ppaCyFHDHPs",
+    "title": "Rutgers at Wisconsin | Highlights | Big Ten Football | 11/07/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=ppaCyFHDHPs",
+    "embed_url": "https://www.youtube-nocookie.com/embed/ppaCyFHDHPs",
+    "thumb": "https://i.ytimg.com/vi/ppaCyFHDHPs/hqdefault.jpg",
+    "duration_s": 299,
+    "uploaded_utc": "2026-11-08T00:37:43Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T00:44:01Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401869968": {
    "game_id": "401869968",
