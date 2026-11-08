@@ -3077,13 +3077,6 @@
      "position": "QB",
      "basis": "ESPN season leader, passing yards",
      "source": "ESPN game summary, event 401873044"
-    },
-    {
-     "team": "Philadelphia Eagles",
-     "player": "DeVonta Smith",
-     "position": "WR",
-     "basis": "ESPN season leader, receiving yards",
-     "source": "ESPN game summary, event 401873044"
     }
    ],
    "videos": [
@@ -4000,6 +3993,24 @@
     }
    ],
    "videos": [
+    {
+     "youtube_id": "od2EofGLEtI",
+     "title": "Bullet Bo on the move 💨 #nfl #broncos #bonix #mariokart #highlight",
+     "label": "Bo Nix highlights",
+     "channel": "Denver Broncos",
+     "channel_id": "UCDGdBexlDZA8T7hnweWWyow",
+     "published": "2026-10-27",
+     "duration_s": 13,
+     "thumb": "https://i.ytimg.com/vi/od2EofGLEtI/hqdefault.jpg",
+     "kind": "player",
+     "player": "Bo Nix",
+     "team": "Denver Broncos",
+     "player_basis": "ESPN season leader, passing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
     {
      "youtube_id": "QED39BpC6UM",
      "title": "Tetairoa McMillan: 'If You See This Face, That Means I Scored' | Carolina Panthers",
@@ -5767,13 +5778,6 @@
     },
     {
      "team": "Seattle Seahawks",
-     "player": "Sam Darnold",
-     "position": "QB",
-     "basis": "ESPN season leader, passing yards",
-     "source": "ESPN game summary, event 401873048"
-    },
-    {
-     "team": "Seattle Seahawks",
      "player": "Jaxon Smith-Njigba",
      "position": "WR",
      "basis": "ESPN season leader, receiving yards",
@@ -6209,7 +6213,44 @@
      "source": "ESPN game summary, event 401873050"
     }
    ],
-   "videos": []
+   "videos": [
+    {
+     "youtube_id": "8D_K5cHdVfQ",
+     "title": "BUC-KY! BUC-KY! BUC-KY! 🗣️📺: #ATLvsTB on FOX #buckyirving #touchdown #buccaneers #nfl",
+     "label": "Bucky Irving highlights",
+     "channel": "Tampa Bay Buccaneers",
+     "channel_id": "UC0Wwu7r1ybaaR09ANhudTzA",
+     "published": "2026-11-01",
+     "duration_s": 21,
+     "thumb": "https://i.ytimg.com/vi/8D_K5cHdVfQ/hqdefault.jpg",
+     "kind": "player",
+     "player": "Bucky Irving",
+     "team": "Tampa Bay Buccaneers",
+     "player_basis": "ESPN season leader, rushing yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    },
+    {
+     "youtube_id": "FMLth14RNs4",
+     "title": "Luther Burden’s gotta have it ‼️ #highlights",
+     "label": "Luther Burden III highlights",
+     "channel": "Chicago Bears",
+     "channel_id": "UCP0Cdc6moLMyDJiO0s-yhbQ",
+     "published": "2026-10-23",
+     "duration_s": 46,
+     "thumb": "https://i.ytimg.com/vi/FMLth14RNs4/hqdefault.jpg",
+     "kind": "player",
+     "player": "Luther Burden III",
+     "team": "Chicago Bears",
+     "player_basis": "ESPN season leader, receiving yards",
+     "embeddable": true,
+     "oembed": 200,
+     "official": true,
+     "gambling_language": false
+    }
+   ]
   },
   {
    "game_id": "401873051",
@@ -6470,13 +6511,6 @@
      "player": "James Cook III",
      "position": "RB",
      "basis": "ESPN season leader, rushing yards",
-     "source": "ESPN game summary, event 401873051"
-    },
-    {
-     "team": "Minnesota Vikings",
-     "player": "Kyler Murray",
-     "position": "QB",
-     "basis": "ESPN season leader, passing yards",
      "source": "ESPN game summary, event 401873051"
     },
     {
