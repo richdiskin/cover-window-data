@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-08T00:44:29Z",
+ "updated_utc": "2026-11-08T01:14:57Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -1737,7 +1737,24 @@
    "kickoff_utc": "2026-11-07T20:30Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "z1QHagYtkEY",
+    "title": "No. 23 Oregon Ducks vs No. 12 Ohio State Buckeyes | Week 10 Full Game Highlights",
+    "channel": "CBS Sports",
+    "channel_id": "UCja8sZ2T4ylIqjggA1Zuukg",
+    "url": "https://www.youtube.com/watch?v=z1QHagYtkEY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/z1QHagYtkEY",
+    "thumb": "https://i.ytimg.com/vi/z1QHagYtkEY/hqdefault.jpg",
+    "duration_s": 672,
+    "uploaded_utc": "2026-11-08T00:46:46Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T01:11:54Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858516": {
    "game_id": "401858516",
@@ -1876,7 +1893,24 @@
    "kickoff_utc": "2026-11-07T21:15Z",
    "first_seen_utc": "2026-11-07T17:01:21Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "BOQKvRcTVFQ",
+    "title": "Vanderbilt Commodores vs. Mississippi State Bulldogs | Game Highlights | 2026 SEC Football",
+    "channel": "SEC",
+    "channel_id": "UC60q_WUDde_NK-ze3frvtiA",
+    "url": "https://www.youtube.com/watch?v=BOQKvRcTVFQ",
+    "embed_url": "https://www.youtube-nocookie.com/embed/BOQKvRcTVFQ",
+    "thumb": "https://i.ytimg.com/vi/BOQKvRcTVFQ/hqdefault.jpg",
+    "duration_s": 483,
+    "uploaded_utc": "2026-11-08T00:50:47Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-08T01:14:21Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858517": {
    "game_id": "401858517",
