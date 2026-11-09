@@ -1,6 +1,15 @@
 {
- "updated_utc": "2026-11-03T14:40:50Z",
+ "updated_utc": "2026-11-09T17:52:56Z",
  "weeks": [
+  {
+   "league": "college",
+   "date": "2026-11-07",
+   "label": "FBS · Week of Tue Nov 3 – Sat Nov 7, 2026",
+   "path": "archive/college/2026-11-07/",
+   "games": "archive/college/2026-11-07/games.json",
+   "results": "archive/college/2026-11-07/results.json",
+   "status": "final"
+  },
   {
    "league": "nfl",
    "date": "2026-11-01",
