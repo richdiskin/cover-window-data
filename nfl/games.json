@@ -6337,10 +6337,236 @@
     "open_timestamp": ""
    },
    "injuries": {
-    "source": "NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg9 (Buffalo Bills and Minnesota Vikings not on the report yet; fetched Nov 4, 6:30 PM ET)",
-    "fetched_at_utc": "2026-11-04T23:30:26Z",
-    "away": null,
-    "home": null
+    "source": "NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg9",
+    "fetched_at_utc": "2026-11-09T11:09:32Z",
+    "away": [
+     {
+      "player": "Alec Anderson",
+      "position": "G",
+      "injury": "Ankle",
+      "practice_status": "Limited Participation in Practice",
+      "game_status": "Questionable"
+     },
+     {
+      "player": "Joe Andreessen",
+      "position": "LB",
+      "injury": "",
+      "practice_status": "Full Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Terrel Bernard",
+      "position": "LB",
+      "injury": "",
+      "practice_status": "Did Not Participate In Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Spencer Brown",
+      "position": "T",
+      "injury": "",
+      "practice_status": "Full Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Bradley Chubb",
+      "position": "LB",
+      "injury": "",
+      "practice_status": "Full Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Keon Coleman",
+      "position": "WR",
+      "injury": "",
+      "practice_status": "Limited Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Dion Dawkins",
+      "position": "T",
+      "injury": "Rib",
+      "practice_status": "Did Not Participate In Practice",
+      "game_status": "Questionable"
+     },
+     {
+      "player": "Dee Alford",
+      "position": "CB",
+      "injury": "",
+      "practice_status": "Full Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Sam Franklin Jr.",
+      "position": "S",
+      "injury": "",
+      "practice_status": "Full Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Greg Gaines",
+      "position": "DT",
+      "injury": "Calf",
+      "practice_status": "Limited Participation in Practice",
+      "game_status": "Questionable"
+     },
+     {
+      "player": "Jordan Hancock",
+      "position": "CB",
+      "injury": "Hamstring",
+      "practice_status": "Limited Participation in Practice",
+      "game_status": "Questionable"
+     },
+     {
+      "player": "Ty Johnson",
+      "position": "RB",
+      "injury": "",
+      "practice_status": "Full Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Dalton Kincaid",
+      "position": "TE",
+      "injury": "",
+      "practice_status": "Full Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "DJ Moore",
+      "position": "WR",
+      "injury": "",
+      "practice_status": "Limited Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Ed Oliver",
+      "position": "DE",
+      "injury": "",
+      "practice_status": "Did Not Participate In Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Josh Palmer",
+      "position": "WR",
+      "injury": "Hamstring",
+      "practice_status": "Did Not Participate In Practice",
+      "game_status": "Out"
+     },
+     {
+      "player": "TJ Parker",
+      "position": "LB",
+      "injury": "",
+      "practice_status": "Full Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Ar'maj Reed-Adams",
+      "position": "G",
+      "injury": "",
+      "practice_status": "Full Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "T.J. Sanders",
+      "position": "DE",
+      "injury": "",
+      "practice_status": "Full Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Khalil Shakir",
+      "position": "WR",
+      "injury": "",
+      "practice_status": "Full Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Tyrell Shavers",
+      "position": "WR",
+      "injury": "Knee",
+      "practice_status": "Full Participation in Practice",
+      "game_status": "Questionable"
+     },
+     {
+      "player": "Deone Walker",
+      "position": "DT",
+      "injury": "",
+      "practice_status": "Full Participation in Practice",
+      "game_status": ""
+     }
+    ],
+    "home": [
+     {
+      "player": "Demond Claiborne",
+      "position": "RB",
+      "injury": "Knee",
+      "practice_status": "Did Not Participate In Practice",
+      "game_status": "Out"
+     },
+     {
+      "player": "Christian Darrisaw",
+      "position": "T",
+      "injury": "",
+      "practice_status": "Did Not Participate In Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Jake Golday",
+      "position": "LB",
+      "injury": "",
+      "practice_status": "Full Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Theo Jackson",
+      "position": "S",
+      "injury": "Quadricep",
+      "practice_status": "Limited Participation in Practice",
+      "game_status": "Questionable"
+     },
+     {
+      "player": "Jauan Jennings",
+      "position": "WR",
+      "injury": "Calf",
+      "practice_status": "Did Not Participate In Practice",
+      "game_status": "Out"
+     },
+     {
+      "player": "Kyler Murray",
+      "position": "QB",
+      "injury": "Hamstring",
+      "practice_status": "Did Not Participate In Practice",
+      "game_status": "Out"
+     },
+     {
+      "player": "Isaiah Rodgers",
+      "position": "CB",
+      "injury": "",
+      "practice_status": "Full Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Harrison Smith",
+      "position": "S",
+      "injury": "",
+      "practice_status": "Limited Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Andrew Van Ginkel",
+      "position": "LB",
+      "injury": "",
+      "practice_status": "Full Participation in Practice",
+      "game_status": ""
+     },
+     {
+      "player": "Jay Ward",
+      "position": "S",
+      "injury": "Knee",
+      "practice_status": "Limited Participation in Practice",
+      "game_status": "Questionable"
+     }
+    ]
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261109",
    "spread": "Minnesota Vikings +3.5",
@@ -6365,13 +6591,13 @@
    "handicappers": [
     {
      "id": "H1",
-     "public_case": "Net ratings Minnesota Vikings −6.3, Buffalo Bills 3.7 (nflverse play-by-play, Nov 4, 2026)",
+     "public_case": "Net ratings Minnesota Vikings −7.8, Buffalo Bills 3.7 (nflverse play-by-play, Nov 4, 2026)",
      "market": "spread",
      "best_bet": false
     },
     {
      "id": "H2",
-     "public_case": "Projected points: Minnesota Vikings 22.7, Buffalo Bills 22.8. Availability: expected starting quarterbacks Kyler Murray (MIN) and Josh Allen (BUF). NFL.com official Week 9 injury report (fetched Nov 4, 6:30 PM ET): these teams are not on it yet, so no quarterback is ruled out.",
+     "public_case": "Projected points: Minnesota Vikings 20.7, Buffalo Bills 22.8. Availability: expected starting quarterbacks Carson Wentz (MIN) and Josh Allen (BUF). NFL.com official Week 9 injury report (fetched Nov 9, 6:09 AM ET): quarterbacks ruled out: Kyler Murray (MIN, Out). Kyler Murray (hamstring) is ruled out for Monday, so Carson Wentz is the announced Vikings starter, with Max Brosmer the backup (Vikings.com, Nov 5; final Vikings report Nov 7, checked Nov 9); Carson Wentz is not MIN’s main starter this season (Kyler Murray).",
      "market": "spread",
      "best_bet": false
     },
@@ -6403,18 +6629,18 @@
     "Lines: Action Network consensus line as of Nov 4, 6:30 PM ET.",
     "The Formula ratings: nflverse play-by-play as of Nov 4, 6:30 PM ET, Weeks 1–8 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–8 finals.",
-    "Injuries: NFL.com official Week 9 injury report, fetched Nov 4, 6:30 PM ET (quarterback status used by Next Man Up).",
+    "Injuries: NFL.com official Week 9 injury report, fetched Nov 9, 6:09 AM ET (quarterback status used by Next Man Up).",
     "Follow The Money: move from the first consensus line at or after Nov 3, 12:15 AM ET (Action Network line history).",
     "Records and points: ESPN team pages, as of Nov 4, 6:29 PM ET.",
     "Next Man Up: 2026 game scores (nflverse game results); expected starting quarterbacks from nflverse play-by-play, the NFL.com Week 9 injury report and team announcements.",
     "Letdown Watch: rest, travel and back-to-back road trips from nflverse schedules and results.",
     "In The Trenches: nflverse play-by-play, 2026 through Week 8 plus last season (expected points per play, success rate, designed-run yards per carry, sack rate)."
    ],
-   "page_note": "Injury note, Nov 4: Kyler Murray has a sore hamstring and is expected to start if healthy.",
+   "page_note": "Injury note, Nov 9: Kyler Murray (hamstring) is Out. Carson Wentz starts.",
    "rule_version": "170",
    "writer_total": {
-    "label": "",
-    "source": "Cover Writer",
+    "label": "Average of 4 desk scores",
+    "source": "average of the independent cards",
     "projected_total": 45,
     "market_total": 45.5,
     "pick": "Under",
@@ -6425,72 +6651,75 @@
      "score_line": "Projected: Minnesota Vikings 21, Buffalo Bills 24 (Total 45)",
      "side": "Minnesota Vikings +3.5",
      "ou": "Under 45.5",
-     "label": ""
+     "label": "Average of 4 desk scores"
     },
     "handicappers": [
      {
       "name": "The Formula",
       "side_line": "Side: Buffalo Bills −3.5 · Likes this side",
       "ou_line": "O/U: Over 45.5",
-      "score_line": "Projected: Minnesota Vikings 19, Buffalo Bills 27 (Total 46)",
-      "basis_line": "Net ratings Minnesota Vikings −6.3, Buffalo Bills 3.7 (nflverse play-by-play, Nov 4, 2026)",
+      "score_line": "Projected: Minnesota Vikings 18, Buffalo Bills 28 (Total 46)",
+      "basis_line": "Net ratings Minnesota Vikings −7.8, Buffalo Bills 3.7 (nflverse play-by-play, Nov 4, 2026)",
       "independent": true,
-      "distance_from_spread": 4.5,
+      "distance_from_spread": 6.5,
       "distance_from_total": 0.5
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Minnesota Vikings +3.5 · Likes this side",
+      "side_line": "Side: Minnesota Vikings +3.5",
       "ou_line": "O/U: Under 45.5",
-      "score_line": "Projected: Minnesota Vikings 22, Buffalo Bills 23 (Total 45)",
-      "basis_line": "Projected points: Minnesota Vikings 22.7, Buffalo Bills 22.8. Availability: expected starting quarterbacks Kyler Murray (MIN) and Josh Allen (BUF). NFL.com official Week 9 injury report (fetched Nov 4, 6:30 PM ET): these teams are not on it yet, so no quarterback is ruled out.",
+      "score_line": "Projected: Minnesota Vikings 21, Buffalo Bills 23 (Total 44)",
+      "basis_line": "Projected points: Minnesota Vikings 20.7, Buffalo Bills 22.8. Availability: expected starting quarterbacks Carson Wentz (MIN) and Josh Allen (BUF). NFL.com official Week 9 injury report (fetched Nov 9, 6:09 AM ET): quarterbacks ruled out: Kyler Murray (MIN, Out). Kyler Murray (hamstring) is ruled out for Monday, so Carson Wentz is the announced Vikings starter, with Max Brosmer the backup (Vikings.com, Nov 5; final Vikings report Nov 7, checked Nov 9); Carson Wentz is not MIN’s main starter this season (Kyler Murray).",
       "independent": true,
-      "distance_from_spread": 2.5,
-      "distance_from_total": 0.5
+      "distance_from_spread": 1.5,
+      "distance_from_total": 1.5,
+      "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
       "side_line": "Side: Minnesota Vikings +3.5 · Likes this side",
-      "ou_line": "O/U: Over 45.5 · Likes this total",
+      "ou_line": "O/U: Over 45.5",
       "score_line": "Projected: Minnesota Vikings 25, Buffalo Bills 24 (Total 49)",
       "basis_line": "Rest and travel: Buffalo Bills: 8 days since its last game, travels 736 miles; Minnesota Vikings: 8 days since its last game, plays at home. Projected: Vikings by 0.3, total 48.9.",
       "independent": true,
       "distance_from_spread": 4.5,
-      "distance_from_total": 3.5
+      "distance_from_total": 3.5,
+      "landed_on_number": []
      },
      {
       "name": "Follow The Money",
       "side_line": "Side: no pick (not enough line movement)",
       "ou_line": "O/U: no pick (not enough total movement)",
-      "score_line": "No score of its own — reads the market (see the market line).",
+      "score_line": "No score of its own.",
       "basis_line": "Spread opened Buffalo Bills −3.5 (Nov 3, 1:46 AM ET) and is Buffalo Bills −3.5 now (Nov 4, 6:30 PM ET), a 0-point move. Total opened 46 (Nov 3, 1:29 AM ET) and is 45.5 now, a 0.5-point move. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 0.5
+      "distance_from_spread": null,
+      "distance_from_total": null
      },
      {
       "name": "In The Trenches",
       "side_line": "Side: Minnesota Vikings +3.5",
-      "ou_line": "O/U: Under 45.5 · Likes this total",
+      "ou_line": "O/U: Under 45.5",
       "score_line": "Projected: Minnesota Vikings 20, Buffalo Bills 22 (Total 42)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 8). Projected points: Minnesota Vikings 19.9, Buffalo Bills 21.6.",
       "independent": true,
       "distance_from_spread": 1.5,
-      "distance_from_total": 3.5
+      "distance_from_total": 3.5,
+      "landed_on_number": []
      }
     ],
     "best_bets": [],
-    "story_text": "The Blind Boys of Alabama play the Dakota in downtown Minneapolis on Monday, a few blocks from U.S. Bank Stadium, and Minneapolis will have a packed night all over town. My Bills vs Vikings prediction is Minnesota plus the 3.5, and the Under 45.5.\n\nThis is two 6-1 teams, both on eight days' rest, and the market hasn't moved on the side. Buffalo opened at −3.5 and is still −3.5 in the Wednesday evening consensus. The over/under slipped from 46 to 45.5.\n\nThe Formula: Net ratings Minnesota Vikings −6.3, Buffalo Bills 3.7 (nflverse play-by-play, Nov 4, 2026).\n\nThis one is strange. Buffalo grades out as the much better team, and the Formula likes the Bills to cover. But Minnesota is 6-1 while grading out below zero, which tells you the Vikings have won close games and relied on defense. They've allowed only 93 points all season, the fewest in this matchup by a long way.\n\nBuffalo is 6-1 and 3-0 on the road, with 233 points scored and 181 allowed. The Bills beat Baltimore 36-10 last time out. Minnesota is 6-1 and 3-0 at home, with 140 scored and 93 allowed. The Vikings' only loss was 19-15 at Detroit.\n\nJosh Allen and James Cook III give Buffalo the better offense. The Bills run for 5.1 yards a carry, and Minnesota allows 4.6. Carson Wentz starts for Minnesota, with Aaron Jones Sr. in the backfield. Kevin O'Connell has ruled Murray out with a hamstring strain and named Wentz the starter. That's one more reason to expect a low game.\n\nI think Buffalo wins. But a Minnesota team that's unbeaten at home and plays defense like this is hard to beat by four. A field goal game is the most likely result, and that's inside the number.\n\nThe Under fits the Vikings. Minnesota has scored only 140 points in seven games, and their games have stayed low. My final is 45, half a point under.\n\nThe cards are split three to one on the side. The Formula is the only card laying the 3.5, with a Bills 27, Vikings 19 final. Next Man Up has Bills 23, Vikings 22. In The Trenches is close too, Bills 22, Vikings 20. Letdown Watch goes all the way to a Minnesota win, Vikings 25, Bills 24.\n\nThe total is split too. Next Man Up and In The Trenches are on the Under. The Formula and Letdown Watch are on the Over. Follow The Money sits it out with nothing moving.\n\nThe Gophers take care of Saturday at Huntington Bank Stadium, and the Dakota takes care of Monday night's music before the game. Minnesota takes care of the cover.\n\nBills 24, Vikings 21. Vikings cover the 3.5. Under 45.5.",
+    "story_text": "The Blind Boys of Alabama play the Dakota in downtown Minneapolis on Monday, a few blocks from U.S. Bank Stadium, and Minneapolis will have a packed night all over town. My Bills vs Vikings prediction is Minnesota plus the 3.5, and the Under 45.5.\n\nThis is two 6-1 teams, both on eight days' rest, and the market hasn't moved on the side. Buffalo opened at −3.5 and is still −3.5 in the Wednesday evening consensus. The over/under slipped from 46 to 45.5.\n\nThe Formula: Net ratings Minnesota Vikings −7.8, Buffalo Bills 3.7 (nflverse play-by-play, Nov 4, 2026).\n\nThis one is strange. Buffalo grades out as the much better team, and the Formula likes the Bills to cover. But Minnesota is 6-1 while grading out below zero, which tells you the Vikings have won close games and relied on defense. They've allowed only 93 points all season, the fewest in this matchup by a long way.\n\nBuffalo is 6-1 and 3-0 on the road, with 233 points scored and 181 allowed. The Bills beat Baltimore 36-10 last time out. Minnesota is 6-1 and 3-0 at home, with 140 scored and 93 allowed. The Vikings' only loss was 19-15 at Detroit.\n\nJosh Allen and James Cook III give Buffalo the better offense. The Bills run for 5.1 yards a carry, and Minnesota allows 4.6. Carson Wentz starts for Minnesota, with Aaron Jones Sr. in the backfield. Kevin O'Connell has ruled Murray out with a hamstring strain and named Wentz the starter. That's one more reason to expect a low game.\n\nI think Buffalo wins. But a Minnesota team that's unbeaten at home and plays defense like this is hard to beat by four. A field goal game is the most likely result, and that's inside the number.\n\nThe Under fits the Vikings. Minnesota has scored only 140 points in seven games, and their games have stayed low. My final is 45, half a point under.\n\nThe cards are split three to one on the side. The Formula is the only card laying the 3.5, with a Bills 28, Vikings 18 final. Next Man Up has Bills 23, Vikings 21. In The Trenches is close too, Bills 22, Vikings 20. Letdown Watch goes all the way to a Minnesota win, Vikings 25, Bills 24.\n\nThe total is split too. Next Man Up and In The Trenches are on the Under. The Formula and Letdown Watch are on the Over. Follow The Money sits it out with nothing moving.\n\nThe Gophers take care of Saturday at Huntington Bank Stadium, and the Dakota takes care of Monday night's music before the game. Minnesota takes care of the cover.\n\nBills 24, Vikings 21. Vikings cover the 3.5. Under 45.5.",
     "fanatic_score_line": "Projected: Minnesota Vikings 21, Buffalo Bills 24 (45 combined points)",
     "market": {
-     "score_line": "Market: Minnesota Vikings 21, Buffalo Bills 25 (Total 46)",
+     "score_line": "",
      "spread": "Buffalo Bills −3.5",
      "total": "45.5",
      "source": "Consensus line as of Nov 4, 6:30 PM ET",
      "note": "The market’s own numbers, shown for comparison only."
     }
    },
-   "gambler_story": "The Blind Boys of Alabama play the Dakota in downtown Minneapolis on Monday, a few blocks from U.S. Bank Stadium, and Minneapolis will have a packed night all over town. My Bills vs Vikings prediction is Minnesota plus the 3.5, and the Under 45.5.\n\nThis is two 6-1 teams, both on eight days' rest, and the market hasn't moved on the side. Buffalo opened at −3.5 and is still −3.5 in the Wednesday evening consensus. The over/under slipped from 46 to 45.5.\n\nThe Formula: Net ratings Minnesota Vikings −6.3, Buffalo Bills 3.7 (nflverse play-by-play, Nov 4, 2026).\n\nThis one is strange. Buffalo grades out as the much better team, and the Formula likes the Bills to cover. But Minnesota is 6-1 while grading out below zero, which tells you the Vikings have won close games and relied on defense. They've allowed only 93 points all season, the fewest in this matchup by a long way.\n\nBuffalo is 6-1 and 3-0 on the road, with 233 points scored and 181 allowed. The Bills beat Baltimore 36-10 last time out. Minnesota is 6-1 and 3-0 at home, with 140 scored and 93 allowed. The Vikings' only loss was 19-15 at Detroit.\n\nJosh Allen and James Cook III give Buffalo the better offense. The Bills run for 5.1 yards a carry, and Minnesota allows 4.6. Carson Wentz starts for Minnesota, with Aaron Jones Sr. in the backfield. Kevin O'Connell has ruled Murray out with a hamstring strain and named Wentz the starter. That's one more reason to expect a low game.\n\nI think Buffalo wins. But a Minnesota team that's unbeaten at home and plays defense like this is hard to beat by four. A field goal game is the most likely result, and that's inside the number.\n\nThe Under fits the Vikings. Minnesota has scored only 140 points in seven games, and their games have stayed low. My final is 45, half a point under.\n\nThe cards are split three to one on the side. The Formula is the only card laying the 3.5, with a Bills 27, Vikings 19 final. Next Man Up has Bills 23, Vikings 22. In The Trenches is close too, Bills 22, Vikings 20. Letdown Watch goes all the way to a Minnesota win, Vikings 25, Bills 24.\n\nThe total is split too. Next Man Up and In The Trenches are on the Under. The Formula and Letdown Watch are on the Over. Follow The Money sits it out with nothing moving.\n\nThe Gophers take care of Saturday at Huntington Bank Stadium, and the Dakota takes care of Monday night's music before the game. Minnesota takes care of the cover.\n\nBills 24, Vikings 21. Vikings cover the 3.5. Under 45.5.",
+   "gambler_story": "The Blind Boys of Alabama play the Dakota in downtown Minneapolis on Monday, a few blocks from U.S. Bank Stadium, and Minneapolis will have a packed night all over town. My Bills vs Vikings prediction is Minnesota plus the 3.5, and the Under 45.5.\n\nThis is two 6-1 teams, both on eight days' rest, and the market hasn't moved on the side. Buffalo opened at −3.5 and is still −3.5 in the Wednesday evening consensus. The over/under slipped from 46 to 45.5.\n\nThe Formula: Net ratings Minnesota Vikings −7.8, Buffalo Bills 3.7 (nflverse play-by-play, Nov 4, 2026).\n\nThis one is strange. Buffalo grades out as the much better team, and the Formula likes the Bills to cover. But Minnesota is 6-1 while grading out below zero, which tells you the Vikings have won close games and relied on defense. They've allowed only 93 points all season, the fewest in this matchup by a long way.\n\nBuffalo is 6-1 and 3-0 on the road, with 233 points scored and 181 allowed. The Bills beat Baltimore 36-10 last time out. Minnesota is 6-1 and 3-0 at home, with 140 scored and 93 allowed. The Vikings' only loss was 19-15 at Detroit.\n\nJosh Allen and James Cook III give Buffalo the better offense. The Bills run for 5.1 yards a carry, and Minnesota allows 4.6. Carson Wentz starts for Minnesota, with Aaron Jones Sr. in the backfield. Kevin O'Connell has ruled Murray out with a hamstring strain and named Wentz the starter. That's one more reason to expect a low game.\n\nI think Buffalo wins. But a Minnesota team that's unbeaten at home and plays defense like this is hard to beat by four. A field goal game is the most likely result, and that's inside the number.\n\nThe Under fits the Vikings. Minnesota has scored only 140 points in seven games, and their games have stayed low. My final is 45, half a point under.\n\nThe cards are split three to one on the side. The Formula is the only card laying the 3.5, with a Bills 28, Vikings 18 final. Next Man Up has Bills 23, Vikings 21. In The Trenches is close too, Bills 22, Vikings 20. Letdown Watch goes all the way to a Minnesota win, Vikings 25, Bills 24.\n\nThe total is split too. Next Man Up and In The Trenches are on the Under. The Formula and Letdown Watch are on the Over. Follow The Money sits it out with nothing moving.\n\nThe Gophers take care of Saturday at Huntington Bank Stadium, and the Dakota takes care of Monday night's music before the game. Minnesota takes care of the cover.\n\nBills 24, Vikings 21. Vikings cover the 3.5. Under 45.5.",
    "fanatic_story": "Erik Dahl painted his face purple for the first time since college on Saturday. It wasn't even for the Vikings. He was at Huntington Bank Stadium watching the Gophers play UCLA on Salute to Service day, and he got carried away. By the second quarter he was leading his whole row in the ROW chant. By halftime his face paint was running down his neck.\n\nEllen Marsh, his sister-in-law from Buffalo, was sitting next to him. She had flown in early for the Monday game, and she spent the whole afternoon trying to pretend she didn't know him.\n\nEllen: You're a grown man.\n\nErik: I'm a grown man with a team that's 6-1.\n\nEllen: So am I. And mine actually scores.\n\nThat's been the fight all week. Erik's Vikings are 6-1 and unbeaten at home. Their only loss was a close one in Detroit, and Erik still hasn't forgiven the refs. He loves this defense. He says it's the best Vikings defense he's seen since the Purple People Eaters, and he says it like he was there for the Purple People Eaters, which he wasn't.\n\nEllen's Bills are 6-1 too, and they just crushed Baltimore. Ellen thinks Josh Allen is the best quarterback in football, and she won't hear any argument. She's been a Bills fan her whole life, through four straight Super Bowl losses in the early nineties, the long playoff drought after that, and all the years of coming close with Allen.\n\nErik: Four Super Bowls. Four losses.\n\nEllen: Four Super Bowls. How many trips has your team made since the seventies?\n\nErik had to think about it. Then he stopped thinking about it and changed the subject.\n\nThe truth is, both fan bases know heartbreak. The Vikings have been to four Super Bowls and lost them all too. Erik knows it. He just doesn't like hearing it from Ellen.\n\nErik's big hope is Carson Wentz, with Kyler Murray ruled out because of a hamstring strain. Murray came to Minnesota and has been everything Erik wanted. Now Erik needs Wentz to keep the offense moving. Erik loves Aaron Jones Sr. almost as much. He says Jones runs like a guy who's angry at the ground.\n\nEllen counters with James Cook III. Cook can turn any carry into a touchdown, and Ellen says he's the best running back the Bills have had since Thurman Thomas. Erik says Ellen says that about every Bills running back.\n\nOn Monday afternoon, before the game, they're going to the Dakota to catch the Blind Boys of Alabama. Ellen's husband bought the tickets months ago. Erik thinks it's a strange way to warm up for a football game. Ellen thinks it's the only way to keep Erik from painting his face again.\n\nThen they'll walk to U.S. Bank Stadium. Erik has his Randy Moss jersey, the one he's had since high school. Ellen has her Allen jersey and a Bills knit hat with the pom-pom on top. She's planning to wear the hat indoors, just to make a point.\n\nErik: It's a dome. You don't need a hat.\n\nEllen: I'm from Buffalo. I always need a hat.\n\nErik wants the dome so loud that Allen can't hear himself think. Ellen says Allen doesn't need to think, he just needs the ball. Erik says that's the dumbest thing he's heard all week, then admits it might be true.\n\nThanksgiving is three weeks out, and they'll both be at the same table. One of them is going to spend the whole meal hearing about Monday night.\n\nMy call: Bills 24, Vikings 21.",
    "fanatic_final_sentence": "Bills 24, Vikings 21.",
    "preview_sources": [],
