@@ -4,7 +4,7 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 395,
+  "count": 405,
   "lead_id": "fanatic_team-indiana",
   "articles": [
     {
@@ -10199,6 +10199,912 @@
         {
           "label": "ESPN Georgia schedule (next game: vs. Missouri, Sat., Nov. 14)",
           "url": "https://www.espn.com/college-football/team/schedule/_/id/61"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-unlv-2026-11-07",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "unlv",
+      "team_ids": [
+        "unlv"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864535",
+      "title": "UNLV vs Wyoming: Rebels' Comeback Show Falls Short, 35-41",
+      "byline": "",
+      "matchup": "Final: Wyoming Cowboys (6-3) 41, UNLV Rebels (5-4) 35, Sat., Nov. 7, Allegiant Stadium, Paradise. Next: at New Mexico, Sat., Nov. 14, 7:30 PM ET, University Stadium (NM), Albuquerque",
+      "date": "2026-11-07",
+      "word_count": 365,
+      "text": "Wyoming 41, UNLV 35. And that's the show, folks, just not the ending we rehearsed. Allegiant Stadium had real legends on the guest list: the UNLV Athletics Hall of Fame class of 2026, seven new members inducted Thursday at the Thomas & Mack Center, was set to be feted at this game. Erick Fedde, Charley Hoffman, Marissa Nichols and the rest earned their bows. Our football team nearly gave them an encore for the ages.\n\nOpening Act review: rough. Wyoming ran for 351 yards, and Samuel Harris and Markell Holman both cleared 100. By the middle of the second quarter it was 24-7, and Ethan Stuhlsatz was living in our backfield on his way to three sacks.\n\nThen the Rebels found the spotlight. Jackson Arnold hit Kayden McGee for a 33-yard touchdown. Denver Harris sacked Tyler Hughes, the ball came loose, and Harris fell on it at the Wyoming 3. Three plays later Arnold found Taz Reddicks from the 8. 24-21 with 1:55 left in the half. Wyoming answered with a touchdown, then a field goal at the gun after an interception, and it was 34-21.\n\nAndre Porter intercepted Landon Sims in the third, and we kept swinging. Down 41-21, Alex Orji came in and scored from the 2 with 22 seconds left in the quarter. Early in the fourth our front stopped Holman on fourth down, and Jai'Den Thomas ran 11 yards for a touchdown at 8:32. 41-35, and I was on my feet.\n\nThe finale didn't land. Orji drove us deep into Wyoming territory, but Tyson Shamsid-Deen intercepted him in the end zone with 1:51 left, and Holman's 49-yard run on the next snap closed the curtain.\n\nThomas ran for 96 yards and two scores. Arnold threw two touchdowns. Peyton Zachary returned four kickoffs for 124 yards with a long of 58. Cam Santee and Mumu Bin-Wahad each made 11 tackles, and Matt Choules punted four times for a 50.0 average. Plenty of Rebels worth applauding.\n\nWe're 5-4 and 3-2 in the Mountain West, 3-2 at home. Next we take the show on the road to New Mexico on Saturday, Nov. 14, at 7:30 PM ET, University Stadium in Albuquerque. Curtain up, Rebels.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Wyoming 41, UNLV 35. And that's the show, folks, just not the ending we rehearsed. Allegiant Stadium had real legends on the guest list: the UNLV Athletics Hall of Fame class of 2026, seven new members inducted Thursday at the Thomas & Mack Center, was set to be feted at this game. Erick Fedde, Charley Hoffman, Marissa Nichols and the rest earned their bows. Our football team nearly gave them an encore for the ages."
+        },
+        {
+          "type": "paragraph",
+          "text": "Opening Act review: rough. Wyoming ran for 351 yards, and Samuel Harris and Markell Holman both cleared 100. By the middle of the second quarter it was 24-7, and Ethan Stuhlsatz was living in our backfield on his way to three sacks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the Rebels found the spotlight. Jackson Arnold hit Kayden McGee for a 33-yard touchdown. Denver Harris sacked Tyler Hughes, the ball came loose, and Harris fell on it at the Wyoming 3. Three plays later Arnold found Taz Reddicks from the 8. 24-21 with 1:55 left in the half. Wyoming answered with a touchdown, then a field goal at the gun after an interception, and it was 34-21."
+        },
+        {
+          "type": "paragraph",
+          "text": "Andre Porter intercepted Landon Sims in the third, and we kept swinging. Down 41-21, Alex Orji came in and scored from the 2 with 22 seconds left in the quarter. Early in the fourth our front stopped Holman on fourth down, and Jai'Den Thomas ran 11 yards for a touchdown at 8:32. 41-35, and I was on my feet."
+        },
+        {
+          "type": "paragraph",
+          "text": "The finale didn't land. Orji drove us deep into Wyoming territory, but Tyson Shamsid-Deen intercepted him in the end zone with 1:51 left, and Holman's 49-yard run on the next snap closed the curtain."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thomas ran for 96 yards and two scores. Arnold threw two touchdowns. Peyton Zachary returned four kickoffs for 124 yards with a long of 58. Cam Santee and Mumu Bin-Wahad each made 11 tackles, and Matt Choules punted four times for a 50.0 average. Plenty of Rebels worth applauding."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 5-4 and 3-2 in the Mountain West, 3-2 at home. Next we take the show on the road to New Mexico on Saturday, Nov. 14, at 7:30 PM ET, University Stadium in Albuquerque. Curtain up, Rebels."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Wyoming beat UNLV 41-35 on Saturday, Nov. 7, at Allegiant Stadium. The Rebels are 5-4 and 3-2 in the Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "UNLV rallied from 41-21 down with touchdowns by Alex Orji and Jai'Den Thomas."
+        },
+        {
+          "type": "fact",
+          "text": "Jackson Arnold threw touchdowns to Kayden McGee and Taz Reddicks, and Jai'Den Thomas ran for 96 yards and two scores."
+        },
+        {
+          "type": "jab",
+          "text": "Hall of Famers in the building and a comeback on the stage. Next time, the last scene is ours."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Wyoming 41, UNLV 35 (Nov. 7, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864535"
+        },
+        {
+          "label": "ESPN play-by-play, Wyoming at UNLV",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864535"
+        },
+        {
+          "label": "ESPN game recap (AP), Wyoming 41, UNLV 35",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864535"
+        },
+        {
+          "label": "UNLV News Center: Athletics Hall of Fame welcomes seven new members (class of 2026)",
+          "url": "https://www.unlv.edu/news/article/unlv-athletics-hall-fame-welcomes-seven-new-members"
+        },
+        {
+          "label": "ESPN UNLV schedule (next game: at New Mexico, Sat., Nov. 14)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2439"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-wyoming-2026-11-07",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "wyoming",
+      "team_ids": [
+        "wyoming"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864535",
+      "title": "Wyoming vs UNLV: Cowboys Ride Out Rebel Rally, 41-35",
+      "byline": "",
+      "matchup": "Final: Wyoming Cowboys (6-3) 41, UNLV Rebels (5-4) 35, Sat., Nov. 7, Allegiant Stadium, Paradise. Next: at UTEP, Sat., Nov. 14, 10:00 PM ET, Sun Bowl, El Paso",
+      "date": "2026-11-07",
+      "word_count": 358,
+      "text": "Wyoming 41, UNLV 35. Yep. Good day for the Brown and Gold. At noon back in Laramie, the Cowgirls blanked Hawai'i at the Madrid Sports Complex and punched their ticket to the Mountain West tournament. Alyssa Glover scored her 10th goal of the season, Izzy Schroder got her first, and Haley Bartel made it stand with her ninth shutout. Then the football team went to the desert and finished the day. Barely.\n\nGround game. We ran 56 times for 351 yards. Samuel Harris had 128 and two scores, including a 42-yarder in the third that made it 41-21. Markell Holman had 110. Tyler Hughes ran for 71 and threw a 13-yard touchdown to Kyle Frendt on the opening drive.\n\nFirst half, we had it rolling. Erik Sandvik hit a 43-yarder, Harris scored from the 1, and Landon Sims threw an 18-yard touchdown to Jake Wilson on a trick play for a 24-7 lead. Then we got loose with the ball. Hughes lost a fumble on a sack at our 3, and UNLV scored twice late in the half. Sims answered with a 13-yard touchdown run, Tyson Shamsid-Deen intercepted Jackson Arnold, and Sandvik hit a 35-yarder at the gun. 34-21.\n\nThen it got tight. Sims threw an interception in the third. After Harris made it 41-21, UNLV scored with 22 seconds left in the third and again at 8:32 of the fourth. 41-35. Ethan Stuhlsatz made 10 tackles with three sacks, and earlier our front had stopped Jai'Den Thomas on fourth down at midfield.\n\nLast threat. UNLV drove deep into our end, and Shamsid-Deen intercepted Alex Orji in the end zone with 1:51 left, his second of the night. Next snap, Holman broke four tackles, reversed field and went 49 yards, and we ran out the clock.\n\nCade Brook had a sack. Steven Perez made seven tackles. Bart Edmiston punted three times for a 55.0 average. My count says this report runs long. Worth it. Good team.\n\nWe're 6-3 and 5-1 in the Mountain West. Next is a trip to UTEP on Saturday, Nov. 14, at 10 PM ET, Sun Bowl in El Paso. Big sky. Thank the Lord.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Wyoming 41, UNLV 35. Yep. Good day for the Brown and Gold. At noon back in Laramie, the Cowgirls blanked Hawai'i at the Madrid Sports Complex and punched their ticket to the Mountain West tournament. Alyssa Glover scored her 10th goal of the season, Izzy Schroder got her first, and Haley Bartel made it stand with her ninth shutout. Then the football team went to the desert and finished the day. Barely."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ground game. We ran 56 times for 351 yards. Samuel Harris had 128 and two scores, including a 42-yarder in the third that made it 41-21. Markell Holman had 110. Tyler Hughes ran for 71 and threw a 13-yard touchdown to Kyle Frendt on the opening drive."
+        },
+        {
+          "type": "paragraph",
+          "text": "First half, we had it rolling. Erik Sandvik hit a 43-yarder, Harris scored from the 1, and Landon Sims threw an 18-yard touchdown to Jake Wilson on a trick play for a 24-7 lead. Then we got loose with the ball. Hughes lost a fumble on a sack at our 3, and UNLV scored twice late in the half. Sims answered with a 13-yard touchdown run, Tyson Shamsid-Deen intercepted Jackson Arnold, and Sandvik hit a 35-yarder at the gun. 34-21."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then it got tight. Sims threw an interception in the third. After Harris made it 41-21, UNLV scored with 22 seconds left in the third and again at 8:32 of the fourth. 41-35. Ethan Stuhlsatz made 10 tackles with three sacks, and earlier our front had stopped Jai'Den Thomas on fourth down at midfield."
+        },
+        {
+          "type": "paragraph",
+          "text": "Last threat. UNLV drove deep into our end, and Shamsid-Deen intercepted Alex Orji in the end zone with 1:51 left, his second of the night. Next snap, Holman broke four tackles, reversed field and went 49 yards, and we ran out the clock."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cade Brook had a sack. Steven Perez made seven tackles. Bart Edmiston punted three times for a 55.0 average. My count says this report runs long. Worth it. Good team."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 6-3 and 5-1 in the Mountain West. Next is a trip to UTEP on Saturday, Nov. 14, at 10 PM ET, Sun Bowl in El Paso. Big sky. Thank the Lord."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Wyoming beat UNLV 41-35 on Saturday, Nov. 7, at Allegiant Stadium and moved to 6-3, 5-1 in the Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "The Cowboys ran for 351 yards. Samuel Harris had 128 and two touchdowns, and Markell Holman had 110."
+        },
+        {
+          "type": "fact",
+          "text": "Tyson Shamsid-Deen intercepted two throws, the second in the end zone with 1:51 left."
+        },
+        {
+          "type": "jab",
+          "text": "Cowgirls posted a shutout. Cowboys posted 41. Busy day at the ranch."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Wyoming 41, UNLV 35 (Nov. 7, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864535"
+        },
+        {
+          "label": "ESPN play-by-play, Wyoming at UNLV",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864535"
+        },
+        {
+          "label": "ESPN game recap (AP), Wyoming 41, UNLV 35",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864535"
+        },
+        {
+          "label": "Wyoming Athletics: Cowgirls soccer beats Hawai'i, clinches Mountain West tournament spot (Nov. 7, 2026)",
+          "url": "https://gowyo.com/news/2026/11/7/womens-soccer-soccer-punches-ticket-to-conference-tournament-with-victory-over-hawai-i"
+        },
+        {
+          "label": "ESPN Wyoming schedule (next game: at UTEP, Sat., Nov. 14)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2751"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-oregon-state-2026-11-07",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "oregon-state",
+      "team_ids": [
+        "oregon-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860912",
+      "title": "Oregon State vs Texas State: Beavers Felled at Reser, 21-42",
+      "byline": "",
+      "matchup": "Final: Texas State Bobcats (5-4) 42, Oregon State Beavers (5-4) 21, Sat., Nov. 7, Reser Stadium, Corvallis. Next: at Boise State, Sat., Nov. 14, 6:00 PM ET, Albertsons Stadium, Boise",
+      "date": "2026-11-07",
+      "word_count": 377,
+      "text": "Texas State 42, Oregon State 21. Measure twice, kick once, and tonight we never got the tape out. Tailgate Town at the CH2M HILL Alumni Center opened at 4:30 with barbecue from Pacific Northwest pitmasters, OSU Cheer and the OSU Marching Band, all to welcome the Bobcats for the first meeting ever between these programs. Beaver Nation wanted a strong first impression. Texas State made it instead.\n\nThis was a clear-cut, and in a forestry family I don't use that word lightly. Texas State ran 62 times for 386 yards. Torrance Burgess Jr. had 196 of them, Davian Jackson scored three times from the 3 or closer, and the Bobcats held the ball for 35:52. Our defense saw plenty of grass and very little of the football.\n\nThere were good branches. Drake Vickers made 12 tackles. Aiden Sullivan made 10 and forced a Davian Jackson fumble, and Gyriece Goodman recovered it, after he'd already intercepted Brad Jackson in the first quarter. TJ Crandall blocked a 28-yard field goal. Takari Hickle had a sack.\n\nThe offense never found its canopy. Braden Atkinson went 20 of 36 for 192 yards, so his run of 300-yard games ended at eight, and Jayden Bradley intercepted him in the first quarter, his first interception since Sept. 26. Jesse Legree still caught eight balls for 99, and AJ Newberry scored from the 9 to make it 14-7. We came up empty on fourth down at the Texas State 15 before halftime and missed a 50-yard field goal in the third.\n\nThen the hinge of the night. Burgess ran 63 yards on the last snap of the third quarter, Brad Jackson ran 23 for a touchdown on the first snap of the fourth, Maalik Murphy came in and got intercepted on the next play, and Zechariah Sample's 28-yard catch made it 42-7. Cornell Hatcher Jr. and Kourdey Glass scored late, the second set up by Goodman's fumble recovery.\n\nCaleb Ojeda made all three kicks after touchdowns, and AJ Winsor pinned three punts inside the 20. We're 5-4 and 3-2 in the Pac-12, 3-2 at home. Next is a trip to Boise State on Saturday, Nov. 14, at 6 PM ET, Albertsons Stadium. A Douglas fir takes a storm and keeps standing. So do we.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Texas State 42, Oregon State 21. Measure twice, kick once, and tonight we never got the tape out. Tailgate Town at the CH2M HILL Alumni Center opened at 4:30 with barbecue from Pacific Northwest pitmasters, OSU Cheer and the OSU Marching Band, all to welcome the Bobcats for the first meeting ever between these programs. Beaver Nation wanted a strong first impression. Texas State made it instead."
+        },
+        {
+          "type": "paragraph",
+          "text": "This was a clear-cut, and in a forestry family I don't use that word lightly. Texas State ran 62 times for 386 yards. Torrance Burgess Jr. had 196 of them, Davian Jackson scored three times from the 3 or closer, and the Bobcats held the ball for 35:52. Our defense saw plenty of grass and very little of the football."
+        },
+        {
+          "type": "paragraph",
+          "text": "There were good branches. Drake Vickers made 12 tackles. Aiden Sullivan made 10 and forced a Davian Jackson fumble, and Gyriece Goodman recovered it, after he'd already intercepted Brad Jackson in the first quarter. TJ Crandall blocked a 28-yard field goal. Takari Hickle had a sack."
+        },
+        {
+          "type": "paragraph",
+          "text": "The offense never found its canopy. Braden Atkinson went 20 of 36 for 192 yards, so his run of 300-yard games ended at eight, and Jayden Bradley intercepted him in the first quarter, his first interception since Sept. 26. Jesse Legree still caught eight balls for 99, and AJ Newberry scored from the 9 to make it 14-7. We came up empty on fourth down at the Texas State 15 before halftime and missed a 50-yard field goal in the third."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the hinge of the night. Burgess ran 63 yards on the last snap of the third quarter, Brad Jackson ran 23 for a touchdown on the first snap of the fourth, Maalik Murphy came in and got intercepted on the next play, and Zechariah Sample's 28-yard catch made it 42-7. Cornell Hatcher Jr. and Kourdey Glass scored late, the second set up by Goodman's fumble recovery."
+        },
+        {
+          "type": "paragraph",
+          "text": "Caleb Ojeda made all three kicks after touchdowns, and AJ Winsor pinned three punts inside the 20. We're 5-4 and 3-2 in the Pac-12, 3-2 at home. Next is a trip to Boise State on Saturday, Nov. 14, at 6 PM ET, Albertsons Stadium. A Douglas fir takes a storm and keeps standing. So do we."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Texas State beat Oregon State 42-21 on Saturday, Nov. 7, at Reser Stadium. The Beavers are 5-4 and 3-2 in the Pac-12."
+        },
+        {
+          "type": "fact",
+          "text": "The Bobcats ran for 386 yards in the first meeting ever between the programs."
+        },
+        {
+          "type": "fact",
+          "text": "Drake Vickers made 12 tackles, and Gyriece Goodman had an interception and a fumble recovery."
+        },
+        {
+          "type": "jab",
+          "text": "They came for barbecue. They left with the whole smoker."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Texas State 42, Oregon State 21 (Nov. 7, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860912"
+        },
+        {
+          "label": "ESPN play-by-play, Texas State at Oregon State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860912"
+        },
+        {
+          "label": "ESPN game recap (AP), Texas State 42, Oregon State 21",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401860912"
+        },
+        {
+          "label": "Oregon State University: OSUAA Tailgate Town, home vs. Texas State (Nov. 7, 2026)",
+          "url": "https://events.oregonstate.edu/event/osuaa-tailgate-town-home-vs-texas-state"
+        },
+        {
+          "label": "Oregon State Athletics: Beavers return home for first-ever meeting with Texas State (game notes)",
+          "url": "https://osubeavers.com/news/2026/11/2/football-beavers-return-home-for-first-ever-meeting-with-texas-state"
+        },
+        {
+          "label": "ESPN Oregon State schedule (next game: at Boise State, Sat., Nov. 14)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/204"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-texas-state-2026-11-07",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "texas-state",
+      "team_ids": [
+        "texas-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860912",
+      "title": "Texas State vs Oregon State: Bobcats Run Wild in Corvallis, 42-21",
+      "byline": "",
+      "matchup": "Final: Texas State Bobcats (5-4) 42, Oregon State Beavers (5-4) 21, Sat., Nov. 7, Reser Stadium, Corvallis. Next: vs. Fresno State, Sat., Nov. 14, 4:00 PM ET, UFCU Stadium, San Marcos",
+      "date": "2026-11-07",
+      "word_count": 377,
+      "text": "Texas State 42, Oregon State 21. Floating on air, y'all! San Marcos kicked off Saturday downtown with the Veterans Day Parade at 10 a.m., kids dressing up their bikes for the Bicycle Brigade on the Hays County Historic Courthouse lawn, and the Texas Capital Air Show opened at San Marcos Regional Airport. Planes above town all day, and by night the Bobcats were flying in Corvallis in the first game these two programs ever played.\n\nMy motto is go with the flow, then run it up the middle, and our offense took that literally. We ran 62 times for 386 yards. Torrance Burgess Jr. carried 28 times for 196 yards and a score. Davian Jackson ran for 107 and three touchdowns, from the 2, the 1 and the 3. Brad Jackson ran for 87 more, including a 23-yard touchdown.\n\nThe opener set the tone, 15 plays and 75 yards in 6:39, with Davian Jackson punching it in. Then the defense jumped in. We blocked a punt, gave the ball right back on an interception, and then Jayden Bradley intercepted Braden Atkinson, setting up Burgess's 1-yard score a few plays later for a 14-0 lead.\n\nDavian's second score made it 21-7 at halftime, and his third made it 28-7 late in the third quarter. Then Burgess broke a 63-yard run on the last snap of the third, and Brad Jackson ran the final 23 on the first snap of the fourth. Craig Royal Jr. intercepted Oregon State on the very next play, and Brad found Zechariah Sample for a 28-yard touchdown. 42-7. The river was running high.\n\nBrad Jackson was close to perfect throwing it, 16 of 20 for 214 yards, and Sample caught three balls for 95. Chris Dawn Jr. caught seven. We went 10 of 15 on third down and held the ball for 35:52. TJ Burkhalter and Jo'Laison Landry each had a sack, and Chase Davis made six tackles.\n\nOregon State scored twice late, and Jesse Legree caught eight balls for 99, so the Beavers get their credit. But the current ran our way all night. We're 5-4 and 3-2 in the Pac-12. Fresno State comes to UFCU Stadium on Saturday, Nov. 14, at 4 PM ET. Grab a tube, San Marcos. We're coming home.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Texas State 42, Oregon State 21. Floating on air, y'all! San Marcos kicked off Saturday downtown with the Veterans Day Parade at 10 a.m., kids dressing up their bikes for the Bicycle Brigade on the Hays County Historic Courthouse lawn, and the Texas Capital Air Show opened at San Marcos Regional Airport. Planes above town all day, and by night the Bobcats were flying in Corvallis in the first game these two programs ever played."
+        },
+        {
+          "type": "paragraph",
+          "text": "My motto is go with the flow, then run it up the middle, and our offense took that literally. We ran 62 times for 386 yards. Torrance Burgess Jr. carried 28 times for 196 yards and a score. Davian Jackson ran for 107 and three touchdowns, from the 2, the 1 and the 3. Brad Jackson ran for 87 more, including a 23-yard touchdown."
+        },
+        {
+          "type": "paragraph",
+          "text": "The opener set the tone, 15 plays and 75 yards in 6:39, with Davian Jackson punching it in. Then the defense jumped in. We blocked a punt, gave the ball right back on an interception, and then Jayden Bradley intercepted Braden Atkinson, setting up Burgess's 1-yard score a few plays later for a 14-0 lead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Davian's second score made it 21-7 at halftime, and his third made it 28-7 late in the third quarter. Then Burgess broke a 63-yard run on the last snap of the third, and Brad Jackson ran the final 23 on the first snap of the fourth. Craig Royal Jr. intercepted Oregon State on the very next play, and Brad found Zechariah Sample for a 28-yard touchdown. 42-7. The river was running high."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brad Jackson was close to perfect throwing it, 16 of 20 for 214 yards, and Sample caught three balls for 95. Chris Dawn Jr. caught seven. We went 10 of 15 on third down and held the ball for 35:52. TJ Burkhalter and Jo'Laison Landry each had a sack, and Chase Davis made six tackles."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oregon State scored twice late, and Jesse Legree caught eight balls for 99, so the Beavers get their credit. But the current ran our way all night. We're 5-4 and 3-2 in the Pac-12. Fresno State comes to UFCU Stadium on Saturday, Nov. 14, at 4 PM ET. Grab a tube, San Marcos. We're coming home."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Texas State beat Oregon State 42-21 on Saturday, Nov. 7, at Reser Stadium and moved to 5-4, 3-2 in the Pac-12."
+        },
+        {
+          "type": "fact",
+          "text": "The Bobcats ran for 386 yards. Torrance Burgess Jr. had 196, and Davian Jackson scored three touchdowns."
+        },
+        {
+          "type": "fact",
+          "text": "Brad Jackson completed 16 of 20 throws for 214 yards and ran for a 23-yard touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "Air show in San Marcos, ground show in Corvallis. Both worth the price of admission."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Texas State 42, Oregon State 21 (Nov. 7, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860912"
+        },
+        {
+          "label": "ESPN play-by-play, Texas State at Oregon State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860912"
+        },
+        {
+          "label": "ESPN game recap (AP), Texas State 42, Oregon State 21",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401860912"
+        },
+        {
+          "label": "San Marcos Daily Record: what's happening this weekend, Nov. 6-8 (Veterans Day Parade, Texas Capital Air Show)",
+          "url": "https://www.sanmarcosrecord.com/features/article_87d80d11-e83c-4cfc-a24a-dfe74b8f99a8.html"
+        },
+        {
+          "label": "City of San Marcos: Veterans Day Parade, Sat., Nov. 7, 2026",
+          "url": "https://www.sanmarcostx.gov/Calendar.aspx?EID=17315"
+        },
+        {
+          "label": "ESPN Texas State schedule (next game: vs. Fresno State, Sat., Nov. 14)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/326"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-utep-2026-11-07",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "utep",
+      "team_ids": [
+        "utep"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864532",
+      "title": "UTEP vs Hawai'i: Miners Come Up Three Short, 14-17",
+      "byline": "",
+      "matchup": "Final: Hawai'i Rainbow Warriors (3-6) 17, UTEP Miners (1-8) 14, Sat., Nov. 7, Sun Bowl, El Paso. Next: vs. Wyoming, Sat., Nov. 14, 10:00 PM ET, Sun Bowl, El Paso",
+      "date": "2026-11-07",
+      "word_count": 354,
+      "text": "Hawai'i 17, UTEP 14. Mild salsa, mi gente, and I can't stand mild. Leis were the giveaway at the Sun Bowl, El Paso Children's Hospital sponsored the night, and it was the first time we'd hosted Hawai'i since 2004. Women's basketball took on Incarnate Word at 1 p.m., and a hoops ticket got you into the football game free. A whole Saturday of Miners, and we came up three points short.\n\nThe effort grade? That's ore worth keeping. Jayden Wilson made 11 tackles and forced a DeVon Rice fumble that Garrett Hawkins recovered. Xavier Smith made nine tackles and intercepted Micah Alejado in the end zone in the final seconds of the half. Kode Lowe had a sack among his seven tackles, and Justin Content made nine stops.\n\nOur first touchdown came fast, three plays and 65 yards in 36 seconds in the second quarter. Carver Cheeks ran for 22, Lamar Sperling ran for 23, and Sperling finished it from the 5. 10-7, and the orange in the stands woke up.\n\nIn the fourth, after Hawai'i went 98 yards, Raymond Moore III answered with a seven-play, 79-yard drive and a 15-yard touchdown throw to Judah Ezinwa. 17-14 with 6:57 left. The crowd of 8,581 found its voice.\n\nThen Hawai'i held the ball for the last 6:57, and we never touched it again. That one burns worse than a ghost pepper. Earlier, a 26-yard Kam Thomas run ended in a fumble, and a fourth-down try at the Hawai'i 32 came up short just before halftime. Those are the plays I'll be chewing on all week.\n\nSperling ran for 63 yards on 11 carries. Moore ran for 41 and threw for 109 and the score. Cheeks caught two for 46. We ran for 179 yards at 5.8 a carry, which tells you the front came to work. Brady Braun punted five times for a 41.6 average, two inside the 20.\n\nWe're 1-8 and 0-5 in the Mountain West. Next is Senior Night against Wyoming at the Sun Bowl on Saturday, Nov. 14, at 10 PM ET. Bring the green chile, El Paso. Let's make it Hatch-hot.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Hawai'i 17, UTEP 14. Mild salsa, mi gente, and I can't stand mild. Leis were the giveaway at the Sun Bowl, El Paso Children's Hospital sponsored the night, and it was the first time we'd hosted Hawai'i since 2004. Women's basketball took on Incarnate Word at 1 p.m., and a hoops ticket got you into the football game free. A whole Saturday of Miners, and we came up three points short."
+        },
+        {
+          "type": "paragraph",
+          "text": "The effort grade? That's ore worth keeping. Jayden Wilson made 11 tackles and forced a DeVon Rice fumble that Garrett Hawkins recovered. Xavier Smith made nine tackles and intercepted Micah Alejado in the end zone in the final seconds of the half. Kode Lowe had a sack among his seven tackles, and Justin Content made nine stops."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our first touchdown came fast, three plays and 65 yards in 36 seconds in the second quarter. Carver Cheeks ran for 22, Lamar Sperling ran for 23, and Sperling finished it from the 5. 10-7, and the orange in the stands woke up."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the fourth, after Hawai'i went 98 yards, Raymond Moore III answered with a seven-play, 79-yard drive and a 15-yard touchdown throw to Judah Ezinwa. 17-14 with 6:57 left. The crowd of 8,581 found its voice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Hawai'i held the ball for the last 6:57, and we never touched it again. That one burns worse than a ghost pepper. Earlier, a 26-yard Kam Thomas run ended in a fumble, and a fourth-down try at the Hawai'i 32 came up short just before halftime. Those are the plays I'll be chewing on all week."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sperling ran for 63 yards on 11 carries. Moore ran for 41 and threw for 109 and the score. Cheeks caught two for 46. We ran for 179 yards at 5.8 a carry, which tells you the front came to work. Brady Braun punted five times for a 41.6 average, two inside the 20."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 1-8 and 0-5 in the Mountain West. Next is Senior Night against Wyoming at the Sun Bowl on Saturday, Nov. 14, at 10 PM ET. Bring the green chile, El Paso. Let's make it Hatch-hot."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Hawai'i beat UTEP 17-14 on Saturday, Nov. 7, at the Sun Bowl. The Miners are 1-8 and 0-5 in the Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "Raymond Moore III threw a 15-yard touchdown to Judah Ezinwa with 6:57 left to make it 17-14."
+        },
+        {
+          "type": "fact",
+          "text": "Jayden Wilson made 11 tackles and forced a fumble, and Xavier Smith intercepted a throw in the end zone."
+        },
+        {
+          "type": "jab",
+          "text": "We handed out leis. Hawai'i handed us 6:57 of watching."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Hawai'i 17, UTEP 14 (Nov. 7, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864532"
+        },
+        {
+          "label": "ESPN play-by-play, Hawai'i at UTEP",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864532"
+        },
+        {
+          "label": "ESPN game recap (AP), Hawai'i 17, UTEP 14",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864532"
+        },
+        {
+          "label": "UTEP Athletics: UTEP hosts Hawai'i for the first time in 22 years (leis giveaway)",
+          "url": "https://utepminers.com/news/2026/11/5/football-utep-hosts-hawai-i-for-the-first-time-in-22-years-saturday-night.aspx"
+        },
+        {
+          "label": "ESPN UTEP schedule (next game: vs. Wyoming, Sat., Nov. 14)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2638"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-hawai-i-2026-11-07",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "hawai-i",
+      "team_ids": [
+        "hawai-i"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864532",
+      "title": "Hawai'i vs UTEP: Rainbow Warriors Ride It Out, 17-14",
+      "byline": "",
+      "matchup": "Final: Hawai'i Rainbow Warriors (3-6) 17, UTEP Miners (1-8) 14, Sat., Nov. 7, Sun Bowl, El Paso. Next: vs. North Dakota State, Sat., Nov. 14, 11:00 PM ET, Clarence T.C. Ching Athletics Complex, Honolulu",
+      "date": "2026-11-07",
+      "word_count": 362,
+      "text": "Hawai'i 17, UTEP 14. Shoots! Time-zone math first, because somebody has to do it: kickoff at the Sun Bowl was 7:30 in El Paso, 4:30 in the afternoon back home in Honolulu. And Saturday night at Bankoh Arena at Stan Sheriff Center, the Rainbow Wahine swept Nevada in front of 6,306 and clinched at least a share of the Mountain West regular-season title. Miliana Sylvester had 13 kills and six blocks. Big day for the islands.\n\nOur guys did their part on the mainland. Micah Alejado threw for 303 yards, and Titan Lacaden was everywhere: 11 catches, 109 yards and a 20-yard touchdown in the first quarter, both career highs. Audric Harris added four catches for 101.\n\nThe drive I'll be surfing in my sleep came early in the fourth. We were pinned at our own 2 and went 98 yards in 12 plays. Sitani Mikaele ripped off 23, Lacaden caught one for 18 and another for 23 to the 6, and Mikaele scored from the 6 at 10:08. 17-7.\n\nIt didn't come easy, though. Sean Olvera-Harle missed from 42 before hitting a 20-yarder to finish an 18-play, 91-yard march for a 10-0 lead. A throw in the final seconds of the half got intercepted in the end zone, and DeVon Rice lost a fumble in the third. UTEP answered our big drive with a 79-yard march of its own, and it was 17-14 with 6:57 to go.\n\nThen came the closer. Thirteen plays, 40 yards, all 6:57 of clock. Alejado kept the chains moving with short throws to Lacaden and Kainoa Carvalho, Mikaele and Cam Barfield ground out the rest, UTEP spent its timeouts, and Alejado took three knees. Island time, finally working for us.\n\nThe defense earned its plate lunch. Jamih Otis made 10 tackles with 1.5 for loss. Elijah Palmer made nine and forced two fumbles, and Matagi Thompson recovered the first one, which set up Lacaden's score. UTEP went 2 of 10 on third down.\n\nWe're 3-6 and 2-4 in the Mountain West. North Dakota State comes to the Clarence T.C. Ching Athletics Complex on Saturday, Nov. 14, at 11 PM ET. Home break, Warriors. Paddle out early.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Hawai'i 17, UTEP 14. Shoots! Time-zone math first, because somebody has to do it: kickoff at the Sun Bowl was 7:30 in El Paso, 4:30 in the afternoon back home in Honolulu. And Saturday night at Bankoh Arena at Stan Sheriff Center, the Rainbow Wahine swept Nevada in front of 6,306 and clinched at least a share of the Mountain West regular-season title. Miliana Sylvester had 13 kills and six blocks. Big day for the islands."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our guys did their part on the mainland. Micah Alejado threw for 303 yards, and Titan Lacaden was everywhere: 11 catches, 109 yards and a 20-yard touchdown in the first quarter, both career highs. Audric Harris added four catches for 101."
+        },
+        {
+          "type": "paragraph",
+          "text": "The drive I'll be surfing in my sleep came early in the fourth. We were pinned at our own 2 and went 98 yards in 12 plays. Sitani Mikaele ripped off 23, Lacaden caught one for 18 and another for 23 to the 6, and Mikaele scored from the 6 at 10:08. 17-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "It didn't come easy, though. Sean Olvera-Harle missed from 42 before hitting a 20-yarder to finish an 18-play, 91-yard march for a 10-0 lead. A throw in the final seconds of the half got intercepted in the end zone, and DeVon Rice lost a fumble in the third. UTEP answered our big drive with a 79-yard march of its own, and it was 17-14 with 6:57 to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the closer. Thirteen plays, 40 yards, all 6:57 of clock. Alejado kept the chains moving with short throws to Lacaden and Kainoa Carvalho, Mikaele and Cam Barfield ground out the rest, UTEP spent its timeouts, and Alejado took three knees. Island time, finally working for us."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense earned its plate lunch. Jamih Otis made 10 tackles with 1.5 for loss. Elijah Palmer made nine and forced two fumbles, and Matagi Thompson recovered the first one, which set up Lacaden's score. UTEP went 2 of 10 on third down."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 3-6 and 2-4 in the Mountain West. North Dakota State comes to the Clarence T.C. Ching Athletics Complex on Saturday, Nov. 14, at 11 PM ET. Home break, Warriors. Paddle out early."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Hawai'i beat UTEP 17-14 on Saturday, Nov. 7, at the Sun Bowl and moved to 3-6, 2-4 in the Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "Titan Lacaden had career highs with 11 catches and 109 yards, plus a touchdown."
+        },
+        {
+          "type": "fact",
+          "text": "The Rainbow Warriors went 98 yards for the deciding touchdown and ran out the final 6:57."
+        },
+        {
+          "type": "jab",
+          "text": "UTEP gave us leis. We gave them a 6:57 lesson in island time."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Hawai'i 17, UTEP 14 (Nov. 7, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864532"
+        },
+        {
+          "label": "ESPN play-by-play, Hawai'i at UTEP",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864532"
+        },
+        {
+          "label": "ESPN game recap (AP), Hawai'i 17, UTEP 14",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864532"
+        },
+        {
+          "label": "Honolulu daily newspaper report: Rainbow Wahine sweep Nevada, clinch share of Mountain West title (Nov. 7, 2026)",
+          "url": "https://www.staradvertiser.com/2026/11/07/sports/sports-breaking/rainbow-wahine-lock-up-share-of-mwc-title-with-sweep-of-nevada/"
+        },
+        {
+          "label": "ESPN Hawai'i schedule (next game: vs. North Dakota State, Sat., Nov. 14)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/62"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-utah-state-2026-11-07",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "utah-state",
+      "team_ids": [
+        "utah-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860913",
+      "title": "Utah State vs Fresno State: Aggies Hold the Fort in Logan, 17-10",
+      "byline": "",
+      "matchup": "Final: Utah State Aggies (4-5) 17, Fresno State Bulldogs (5-4) 10, Sat., Nov. 7, Maverik Stadium, Logan. Next: at San Diego State, Sat., Nov. 14, 9:30 PM ET, Snapdragon Stadium, San Diego",
+      "date": "2026-11-07",
+      "word_count": 361,
+      "text": "Utah State 17, Fresno State 10. Well, neighbors, that one was worth staying up for. It was Salute to Service night at Maverik Stadium, Military Appreciation, with Operation Hat Trick gear raising support for the Rocky Mountain Veterans Center. And Cache Valley's first responders had free seats, the same folks who fought the Canyon Road Fire south of campus this summer.\n\nOur defense gave them a proper thank-you. Fresno State ran 27 times for 16 yards. That's it. Ronnie Mageo had 1.5 sacks and three tackles for loss. Asher Cunningham had eight tackles, two for loss and three quarterback hurries. Brevin Hamblin made nine stops. And Bronson Olevao Jr., who went down to thank the Logan police and firefighters in person back in September, dropped Josiah Freeman for a 10-yard loss late in the fourth.\n\nThe offense waited out a scoreless first quarter the way a cow waits on the morning milking, then went 80 yards in three plays across the break. McCae Hillstead hit Anthony Garcia for 37 and ran for 12, Fresno State kept drawing flags, and Sesi Vailahi scored from the 2. Hillstead scored from the 3 at 9:47 of the second, and it was 14-0 at halftime.\n\nThe second half was patience. Fresno State drove 66 yards for a field goal, 14-3. Early in the fourth they reached our 18, and our front stuffed Julius Gillick on fourth down. Kian Afrookhteh hit a 43-yard field goal with 4:21 left to make it 17-3. Fresno scored late, Kaina Watson fell on the onside kick, and Hillstead took a knee.\n\nHillstead went 9 of 14 for 117 yards without an interception and ran 12 times for 56 and a score. Javen Jacobs ran for 36 and returned three punts for 30. Will Evans punted five times and pinned three of them inside the 20. Zero turnovers for the good guys.\n\nWe're 4-5 and 3-2 in the Pac-12, 4-1 at home. Next is a trip to San Diego State on Saturday, Nov. 14, at 9:30 PM ET, Snapdragon Stadium. I'll have my double scoop of Aggie Ice Cream either way, but this week I'm asking for extra fudge. Udderly earned.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Utah State 17, Fresno State 10. Well, neighbors, that one was worth staying up for. It was Salute to Service night at Maverik Stadium, Military Appreciation, with Operation Hat Trick gear raising support for the Rocky Mountain Veterans Center. And Cache Valley's first responders had free seats, the same folks who fought the Canyon Road Fire south of campus this summer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our defense gave them a proper thank-you. Fresno State ran 27 times for 16 yards. That's it. Ronnie Mageo had 1.5 sacks and three tackles for loss. Asher Cunningham had eight tackles, two for loss and three quarterback hurries. Brevin Hamblin made nine stops. And Bronson Olevao Jr., who went down to thank the Logan police and firefighters in person back in September, dropped Josiah Freeman for a 10-yard loss late in the fourth."
+        },
+        {
+          "type": "paragraph",
+          "text": "The offense waited out a scoreless first quarter the way a cow waits on the morning milking, then went 80 yards in three plays across the break. McCae Hillstead hit Anthony Garcia for 37 and ran for 12, Fresno State kept drawing flags, and Sesi Vailahi scored from the 2. Hillstead scored from the 3 at 9:47 of the second, and it was 14-0 at halftime."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half was patience. Fresno State drove 66 yards for a field goal, 14-3. Early in the fourth they reached our 18, and our front stuffed Julius Gillick on fourth down. Kian Afrookhteh hit a 43-yard field goal with 4:21 left to make it 17-3. Fresno scored late, Kaina Watson fell on the onside kick, and Hillstead took a knee."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hillstead went 9 of 14 for 117 yards without an interception and ran 12 times for 56 and a score. Javen Jacobs ran for 36 and returned three punts for 30. Will Evans punted five times and pinned three of them inside the 20. Zero turnovers for the good guys."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 4-5 and 3-2 in the Pac-12, 4-1 at home. Next is a trip to San Diego State on Saturday, Nov. 14, at 9:30 PM ET, Snapdragon Stadium. I'll have my double scoop of Aggie Ice Cream either way, but this week I'm asking for extra fudge. Udderly earned."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Utah State beat Fresno State 17-10 on Saturday, Nov. 7, at Maverik Stadium and moved to 4-5, 3-2 in the Pac-12."
+        },
+        {
+          "type": "fact",
+          "text": "The Aggies held Fresno State to 16 rushing yards on 27 carries."
+        },
+        {
+          "type": "fact",
+          "text": "Sesi Vailahi and McCae Hillstead ran for second-quarter touchdowns, and Kian Afrookhteh added a 43-yard field goal."
+        },
+        {
+          "type": "jab",
+          "text": "Fresno State came for the Valley. Found out it was the wrong valley."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Utah State 17, Fresno State 10 (Nov. 7, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860913"
+        },
+        {
+          "label": "ESPN play-by-play, Fresno State at Utah State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860913"
+        },
+        {
+          "label": "ESPN game recap (AP), Utah State 17, Fresno State 10",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401860913"
+        },
+        {
+          "label": "USU: Salute to Service / Military Appreciation, USU vs. Fresno State, Nov. 7, 2026",
+          "url": "https://www.usu.edu/umac/brand-innovation/activation/2026-salute-to-service/"
+        },
+        {
+          "label": "Cache Valley Daily: free tickets for Cache Valley first responders",
+          "url": "https://www.cachevalleydaily.com/news/utah-state-football-offers-free-tickets-to-cache-valley-first-responders/article_86cff6bf-7a9b-44b0-b303-fea9ca6b1eb7.html"
+        },
+        {
+          "label": "ESPN Utah State schedule (next game: at San Diego State, Sat., Nov. 14)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/328"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-fresno-state-2026-11-07",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "fresno-state",
+      "team_ids": [
+        "fresno-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860913",
+      "title": "Fresno State vs Utah State: Bulldogs Run Dry in Logan, 10-17",
+      "byline": "",
+      "matchup": "Final: Utah State Aggies (4-5) 17, Fresno State Bulldogs (5-4) 10, Sat., Nov. 7, Maverik Stadium, Logan. Next: at Texas State, Sat., Nov. 14, 4:00 PM ET, UFCU Stadium, San Marcos",
+      "date": "2026-11-07",
+      "word_count": 376,
+      "text": "Utah State 17, Fresno State 10. Not that valley, and not that ending. Saturday morning on our campus, Arte Américas brought Bilingual Storytime to Fresno State, stories in English and Spanish with hands-on art for the kids, sponsored by Valley Children's Health, the same name that's on our stadium. By night our Bulldogs were up in Cache Valley writing a story nobody wants read twice.\n\nHere's the chapter that stings: 16 rushing yards on 27 carries. Sixteen. Bryson Donelson had 15 of them on six tries, and Jayden Mandal got sacked and chased until his own run column read minus 10. You can't farm without water, and you can't win in Logan without a ground game.\n\nThe first quarter ended scoreless, and Nick Verdugo kept flipping the field, seven punts on the night for a 40.1 average, three inside the 20. Then a 37-yard catch by Anthony Garcia and two Bulldog penalties handed Utah State a three-play, 80-yard drive, and Sesi Vailahi scored from the 2 one snap into the second quarter. McCae Hillstead ran in from the 3 at 9:47, and it was 14-0.\n\nWe had chances. Mandal led a 14-play, 66-yard drive in the third that ended with Manaki Watanabe's 32-yard field goal, 14-3. Early in the fourth we reached the Utah State 18 and came away empty when Julius Gillick was stopped on fourth down. Kian Afrookhteh's 43-yard kick made it 17-3 with 4:21 left.\n\nThen the Bulldogs finally found some fight. Mandal went 75 yards in 11 plays, hitting Jake Appleget for 31 and Ezekiel Avit for the 12-yard touchdown with 1:30 left. 17-10. Our onside kick went 14 yards, Utah State fell on it, and the book closed.\n\nMandal threw for 262 yards, 22 of 39, with no interceptions. Josiah Freeman caught eight balls for 114, and Appleget four for 75. Gerayas Grimes made seven tackles, and Dylan Hampsten and Jahzon Jacks each had a sack. We never gave the ball away, which makes those empty trips hurt worse.\n\nWe're 5-4 and 2-3 in the Pac-12. Next we're at Texas State on Saturday, Nov. 14, at 4 PM ET, UFCU Stadium in San Marcos. Grapes need a hot week in the sun to become raisins, Bulldogs. Consider this our hot week.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Utah State 17, Fresno State 10. Not that valley, and not that ending. Saturday morning on our campus, Arte Américas brought Bilingual Storytime to Fresno State, stories in English and Spanish with hands-on art for the kids, sponsored by Valley Children's Health, the same name that's on our stadium. By night our Bulldogs were up in Cache Valley writing a story nobody wants read twice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's the chapter that stings: 16 rushing yards on 27 carries. Sixteen. Bryson Donelson had 15 of them on six tries, and Jayden Mandal got sacked and chased until his own run column read minus 10. You can't farm without water, and you can't win in Logan without a ground game."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first quarter ended scoreless, and Nick Verdugo kept flipping the field, seven punts on the night for a 40.1 average, three inside the 20. Then a 37-yard catch by Anthony Garcia and two Bulldog penalties handed Utah State a three-play, 80-yard drive, and Sesi Vailahi scored from the 2 one snap into the second quarter. McCae Hillstead ran in from the 3 at 9:47, and it was 14-0."
+        },
+        {
+          "type": "paragraph",
+          "text": "We had chances. Mandal led a 14-play, 66-yard drive in the third that ended with Manaki Watanabe's 32-yard field goal, 14-3. Early in the fourth we reached the Utah State 18 and came away empty when Julius Gillick was stopped on fourth down. Kian Afrookhteh's 43-yard kick made it 17-3 with 4:21 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the Bulldogs finally found some fight. Mandal went 75 yards in 11 plays, hitting Jake Appleget for 31 and Ezekiel Avit for the 12-yard touchdown with 1:30 left. 17-10. Our onside kick went 14 yards, Utah State fell on it, and the book closed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mandal threw for 262 yards, 22 of 39, with no interceptions. Josiah Freeman caught eight balls for 114, and Appleget four for 75. Gerayas Grimes made seven tackles, and Dylan Hampsten and Jahzon Jacks each had a sack. We never gave the ball away, which makes those empty trips hurt worse."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 5-4 and 2-3 in the Pac-12. Next we're at Texas State on Saturday, Nov. 14, at 4 PM ET, UFCU Stadium in San Marcos. Grapes need a hot week in the sun to become raisins, Bulldogs. Consider this our hot week."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Utah State beat Fresno State 17-10 on Saturday, Nov. 7, at Maverik Stadium. The Bulldogs are 5-4 and 2-3 in the Pac-12."
+        },
+        {
+          "type": "fact",
+          "text": "Fresno State ran 27 times for 16 yards."
+        },
+        {
+          "type": "fact",
+          "text": "Jayden Mandal threw for 262 yards and a 12-yard touchdown to Ezekiel Avit, and Josiah Freeman caught eight balls for 114 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Sixteen rushing yards. The raisins on the porch moved farther than that."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Utah State 17, Fresno State 10 (Nov. 7, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860913"
+        },
+        {
+          "label": "ESPN play-by-play, Fresno State at Utah State",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860913"
+        },
+        {
+          "label": "ESPN game recap (AP), Utah State 17, Fresno State 10",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401860913"
+        },
+        {
+          "label": "HeyFresno: Bilingual Storytime at Fresno State, Sat., Nov. 7, 2026",
+          "url": "https://heyfresno.com/events/2026-11-07-bilingual-storytime-at-fresno-state/"
+        },
+        {
+          "label": "ESPN Fresno State schedule (next game: at Texas State, Sat., Nov. 14)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/278"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-texas-tech-2026-11-07",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "texas-tech",
+      "team_ids": [
+        "texas-tech"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856856",
+      "title": "Texas Tech vs West Virginia: Castellanos Saves Blackout, 53-48",
+      "byline": "",
+      "matchup": "Final: Texas Tech Red Raiders (8-1) 53, West Virginia Mountaineers (5-4) 48, Sat., Nov. 7, Galaxy Stadium, Lubbock. Next: at Oklahoma State, Sat., Nov. 14, 9:30 PM ET, Boone Pickens Stadium, Stillwater",
+      "date": "2026-11-07",
+      "word_count": 375,
+      "text": "Texas Tech 53, West Virginia 48. Close. It was the annual blackout game at Galaxy Stadium, an 8:30 kickoff, our latest home kick since 2003. Forty-five thousand LED wristbands at the gates. Two drone shows on the program, one before kickoff and one after the third quarter. Truth is, that second show lit up the sky above a ballgame I didn't like one bit.\n\nThe first half was ours. Thomas Castellanos threw two touchdowns to Terrance Carter Jr., one to Jett Carpenter from the 1 and a 38-yarder to Kenny Johnson. J'Koby Williams went 75 yards on one carry. Quinten Joyner scored from the 1, and Matt Ludwig ran in the two-point try. Forty-one points by halftime. 41-27. Loud.\n\nThen the wind turned. We punted on our first four drives of the second half. West Virginia ran off 21 straight points, and a 74-yard punt return set one of them up. 48-41 after three. I took my hat off and held it.\n\nStone Harrington hit a 46-yard field goal at the end of a 15-play drive. Then the defense stuffed Cam Cook on third-and-1, and West Virginia punted. Castellanos went to work. Fourth-and-3, he floated one to Micah Hudson for 26. He ran 16 more to the 7, and two plays later he found Johnson from the 5 with 2:44 left. 51-48. Guns up. Quiet.\n\nTrey White closed it. He sacked Michael Hawkins Jr. for 11 yards on fourth down, our offense came up empty at the 5, and White was credited with the safety on the very next snap. Two sacks and 2.5 tackles for loss for White. Austin Romaine made 15 tackles. Mean.\n\nCastellanos finished 18 of 27 for 362 yards, five touchdowns and no interceptions, and ran for 102 more. Williams ran for 160 and caught a 43-yarder. Johnson caught five for 84 and two scores, Carter four for 81 and two. We piled up 638 yards with zero turnovers. The defense gave up 279 on the ground, and that gets fixed this week. Plain as a fence post.\n\nWe're 8-1 and 5-1 in the Big 12, 6-0 at home. Next is a trip to Oklahoma State on Saturday, Nov. 14, at 9:30 PM ET, Boone Pickens Stadium in Stillwater. Wind's up.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Texas Tech 53, West Virginia 48. Close. It was the annual blackout game at Galaxy Stadium, an 8:30 kickoff, our latest home kick since 2003. Forty-five thousand LED wristbands at the gates. Two drone shows on the program, one before kickoff and one after the third quarter. Truth is, that second show lit up the sky above a ballgame I didn't like one bit."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half was ours. Thomas Castellanos threw two touchdowns to Terrance Carter Jr., one to Jett Carpenter from the 1 and a 38-yarder to Kenny Johnson. J'Koby Williams went 75 yards on one carry. Quinten Joyner scored from the 1, and Matt Ludwig ran in the two-point try. Forty-one points by halftime. 41-27. Loud."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the wind turned. We punted on our first four drives of the second half. West Virginia ran off 21 straight points, and a 74-yard punt return set one of them up. 48-41 after three. I took my hat off and held it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stone Harrington hit a 46-yard field goal at the end of a 15-play drive. Then the defense stuffed Cam Cook on third-and-1, and West Virginia punted. Castellanos went to work. Fourth-and-3, he floated one to Micah Hudson for 26. He ran 16 more to the 7, and two plays later he found Johnson from the 5 with 2:44 left. 51-48. Guns up. Quiet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trey White closed it. He sacked Michael Hawkins Jr. for 11 yards on fourth down, our offense came up empty at the 5, and White was credited with the safety on the very next snap. Two sacks and 2.5 tackles for loss for White. Austin Romaine made 15 tackles. Mean."
+        },
+        {
+          "type": "paragraph",
+          "text": "Castellanos finished 18 of 27 for 362 yards, five touchdowns and no interceptions, and ran for 102 more. Williams ran for 160 and caught a 43-yarder. Johnson caught five for 84 and two scores, Carter four for 81 and two. We piled up 638 yards with zero turnovers. The defense gave up 279 on the ground, and that gets fixed this week. Plain as a fence post."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 8-1 and 5-1 in the Big 12, 6-0 at home. Next is a trip to Oklahoma State on Saturday, Nov. 14, at 9:30 PM ET, Boone Pickens Stadium in Stillwater. Wind's up."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Texas Tech beat West Virginia 53-48 on Saturday, Nov. 7, at Galaxy Stadium and moved to 8-1, 5-1 in the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "Thomas Castellanos threw for 362 yards and five touchdowns, the go-ahead score to Kenny Johnson with 2:44 left."
+        },
+        {
+          "type": "fact",
+          "text": "Trey White had two sacks, including a fourth-down sack, and was credited with the safety that sealed it."
+        },
+        {
+          "type": "jab",
+          "text": "Blackout night. West Virginia nearly turned out the lights on us. Nearly."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Texas Tech 53, West Virginia 48 (Nov. 7, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856856"
+        },
+        {
+          "label": "ESPN play-by-play, West Virginia at Texas Tech",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856856"
+        },
+        {
+          "label": "ESPN game recap (AP), Texas Tech 53, West Virginia 48",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856856"
+        },
+        {
+          "label": "Daily Lubbock: Texas Tech's late kickoff, blackout game, wristbands and drone shows",
+          "url": "https://dailylubbock.com/tx/lubbock/news/2026-11-08/late-night-kickoff"
+        },
+        {
+          "label": "ESPN Texas Tech schedule (next game: at Oklahoma State, Sat., Nov. 14)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2641"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-west-virginia-2026-11-07",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "west-virginia",
+      "team_ids": [
+        "west-virginia"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856856",
+      "title": "West Virginia vs Texas Tech: Hawkins Rally Falls Short, 48-53",
+      "byline": "",
+      "matchup": "Final: Texas Tech Red Raiders (8-1) 53, West Virginia Mountaineers (5-4) 48, Sat., Nov. 7, Galaxy Stadium, Lubbock. Next: vs. Kansas, Sat., Nov. 14, 5:30 PM ET, Milan Puskar Stadium, Morgantown",
+      "date": "2026-11-07",
+      "word_count": 416,
+      "text": "Texas Tech 53, West Virginia 48. I'm counting to ten out loud, slow, like I'm reloading. Back home in Morgantown, WVUp All Night had the Mountainlair open from 10 p.m. to 2 a.m. with free bowling and inflatable axe throwing, and our kickoff in Lubbock came at 9:30 Eastern. Any student who bowled straight through this one got the whole ride, because the Mountaineers played past midnight and lost a heartbreaker by five.\n\nThe first half was a track meet. Thomas Castellanos threw four touchdowns before the break, J'Koby Williams broke a 75-yard run, and we went to halftime down 41-27. Our offense kept swinging back, though. Amari Latimer scored from the 3, Michael Hawkins Jr. from the 3, and TaRon Francis took a 73-yard catch the distance to put us up 24-21.\n\nThen came the third quarter, and I'd like it framed. KJ Henson sacked Castellanos for 15 yards on Tech's first snap after our opening score of the half, and Tech never found the end zone in the quarter. Hawkins ran one in from the 2. Francis hauled in a 75-yarder to the Tech 4, and Cam Cook punched it in from the 2. Matt Sieg returned a punt 74 yards to the 6, and Hawkins scored from the 3. Twenty-one straight points. 48-41 after three.\n\nThe fourth went cold. Stone Harrington hit a 46-yard field goal to make it 48-44. On our next series, Cook got stopped for no gain on third-and-1 at our own 34, we punted, and Tech went 69 yards in nine plays. Castellanos found Micah Hudson for 26 on fourth-and-3 and Kenny Johnson for the 5-yard go-ahead score with 2:44 left. Trey White sacked Hawkins on fourth down, our defense held Tech at the 5, and then Hawkins went down in our own end zone for a safety.\n\nHawkins threw for 303 yards on just 11 completions and ran for 88 and three scores. Cook ran for 149 on 23 carries. Francis caught three balls for 169. We rolled up 582 yards with zero turnovers, Jack Cassidy made both field goals and all six kicks after touchdowns, and Kameron Reddic made 11 tackles. My pepperoni-roll tally stayed at zero, because Tech never put the ball on the ground either. Hungry night.\n\nWe're 5-4 and 2-4 in the Big 12. Kansas comes to Milan Puskar Stadium on Saturday, Nov. 14, at 5:30 PM ET. Bring your voice, Morgantown, and let's sing the old song at the end of that one.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Texas Tech 53, West Virginia 48. I'm counting to ten out loud, slow, like I'm reloading. Back home in Morgantown, WVUp All Night had the Mountainlair open from 10 p.m. to 2 a.m. with free bowling and inflatable axe throwing, and our kickoff in Lubbock came at 9:30 Eastern. Any student who bowled straight through this one got the whole ride, because the Mountaineers played past midnight and lost a heartbreaker by five."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half was a track meet. Thomas Castellanos threw four touchdowns before the break, J'Koby Williams broke a 75-yard run, and we went to halftime down 41-27. Our offense kept swinging back, though. Amari Latimer scored from the 3, Michael Hawkins Jr. from the 3, and TaRon Francis took a 73-yard catch the distance to put us up 24-21."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the third quarter, and I'd like it framed. KJ Henson sacked Castellanos for 15 yards on Tech's first snap after our opening score of the half, and Tech never found the end zone in the quarter. Hawkins ran one in from the 2. Francis hauled in a 75-yarder to the Tech 4, and Cam Cook punched it in from the 2. Matt Sieg returned a punt 74 yards to the 6, and Hawkins scored from the 3. Twenty-one straight points. 48-41 after three."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fourth went cold. Stone Harrington hit a 46-yard field goal to make it 48-44. On our next series, Cook got stopped for no gain on third-and-1 at our own 34, we punted, and Tech went 69 yards in nine plays. Castellanos found Micah Hudson for 26 on fourth-and-3 and Kenny Johnson for the 5-yard go-ahead score with 2:44 left. Trey White sacked Hawkins on fourth down, our defense held Tech at the 5, and then Hawkins went down in our own end zone for a safety."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hawkins threw for 303 yards on just 11 completions and ran for 88 and three scores. Cook ran for 149 on 23 carries. Francis caught three balls for 169. We rolled up 582 yards with zero turnovers, Jack Cassidy made both field goals and all six kicks after touchdowns, and Kameron Reddic made 11 tackles. My pepperoni-roll tally stayed at zero, because Tech never put the ball on the ground either. Hungry night."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 5-4 and 2-4 in the Big 12. Kansas comes to Milan Puskar Stadium on Saturday, Nov. 14, at 5:30 PM ET. Bring your voice, Morgantown, and let's sing the old song at the end of that one."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Texas Tech beat West Virginia 53-48 on Saturday, Nov. 7, at Galaxy Stadium. The Mountaineers are 5-4 and 2-4 in the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "West Virginia scored 21 straight points in the third quarter to lead 48-41."
+        },
+        {
+          "type": "fact",
+          "text": "Michael Hawkins Jr. threw for 303 yards and ran for three touchdowns, and TaRon Francis caught three balls for 169 yards."
+        },
+        {
+          "type": "jab",
+          "text": "We bowled, we threw axes, we led after three. Tech still got the last word."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Texas Tech 53, West Virginia 48 (Nov. 7, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856856"
+        },
+        {
+          "label": "ESPN play-by-play, West Virginia at Texas Tech",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856856"
+        },
+        {
+          "label": "ESPN game recap (AP), Texas Tech 53, West Virginia 48",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856856"
+        },
+        {
+          "label": "WVU events calendar, Nov. 7, 2026 (WVUp All Night at the Mountainlair)",
+          "url": "https://cal.wvu.edu/calendar/day/2026/11/7"
+        },
+        {
+          "label": "ESPN West Virginia schedule (next game: vs. Kansas, Sat., Nov. 14)",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/277"
         }
       ],
       "sources_display": "button",
