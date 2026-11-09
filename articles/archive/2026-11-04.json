@@ -1,0 +1,561 @@
+{
+  "schema": 1,
+  "date": "2026-11-04",
+  "theme": "mmqb",
+  "theme_label": "Monday Morning Quarterback",
+  "published_at": "2026-10-26T11:53:04Z",
+  "count": 6,
+  "lead_id": "fanatic_team-eastern-michigan-2026-11-04",
+  "articles": [
+    {
+      "id": "fanatic_team-eastern-michigan-2026-11-04",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "eastern-michigan",
+      "team_ids": [
+        "eastern-michigan"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866456",
+      "title": "Eastern Michigan vs Central Michigan: Eagles Get Steamrolled 35-7 at Ford Field",
+      "byline": "Imogen Tremblay, The Eastern Michigan Fanatic",
+      "matchup": "Final: Central Michigan Chippewas (4-5) 35, Eastern Michigan Eagles (4-6) 7, Wed., Nov. 4, Ford Field, Detroit. Next: at Western Michigan, Tue., Nov. 17, 7:00 PM ET, Waldo Stadium, Kalamazoo",
+      "date": "2026-11-04",
+      "word_count": 327,
+      "text": "I'm not going to dress this one up. Central Michigan 35, Eastern Michigan 7, Wednesday night at Ford Field, in a game where we were the home team. We did the Eagle Walk at Brush Street and Adams Avenue, we brought the buses down from Ypsilanti, we tried to turn Detroit green. Then the Chippewas took the ball and kept it.\n\nHere's the damage, straight off the stat sheet. Nine first downs. 177 yards of offense. 74 yards rushing on 21 carries. We went 1-10 on third down. We had the ball for 19:04 while they had it for 40:56. Mitten Football noted we didn't get our second first down until about 10 minutes were left in the game. That's not a slump. That's a stall.\n\nBrogan McCaughey took the first snap and went 12 of 17 for 59 yards with an interception. Amareon Blue had 42 yards on 8 carries. Nobody could get going, and the guys up front got whipped all night.\n\nMeanwhile CMU's Nick Woodford ran for three scores, and their third-quarter drive went 16 plays and 90 yards and ate 8:39. I watched our defense stand on that field so long they needed a change of address.\n\nCredit where it's due. Bryce Llewellyn fought like crazy with 10 tackles, a sack and a tackle for loss. Bryce Eliuk made 10 tackles too. Daniel Hull boomed five punts for a 49.2 average, which tells you how often he was out there. Harold Mack caught a 6-yard touchdown with 10 seconds left to wreck the shutout, and good for him.\n\nBut we fell to 4-6, 3-3 in the MAC, and the math is simple now. Two games left, at Western Michigan and home against Kent State. Win both, get to six wins, go bowling. Lose either, and it's wait till next year.\n\nKalamazoo, Tuesday, Nov. 17, 7 PM ET. It's Western. If that doesn't light a fire in this locker room, we have bigger problems.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I'm not going to dress this one up. Central Michigan 35, Eastern Michigan 7, Wednesday night at Ford Field, in a game where we were the home team. We did the Eagle Walk at Brush Street and Adams Avenue, we brought the buses down from Ypsilanti, we tried to turn Detroit green. Then the Chippewas took the ball and kept it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's the damage, straight off the stat sheet. Nine first downs. 177 yards of offense. 74 yards rushing on 21 carries. We went 1-10 on third down. We had the ball for 19:04 while they had it for 40:56. Mitten Football noted we didn't get our second first down until about 10 minutes were left in the game. That's not a slump. That's a stall."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brogan McCaughey took the first snap and went 12 of 17 for 59 yards with an interception. Amareon Blue had 42 yards on 8 carries. Nobody could get going, and the guys up front got whipped all night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Meanwhile CMU's Nick Woodford ran for three scores, and their third-quarter drive went 16 plays and 90 yards and ate 8:39. I watched our defense stand on that field so long they needed a change of address."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit where it's due. Bryce Llewellyn fought like crazy with 10 tackles, a sack and a tackle for loss. Bryce Eliuk made 10 tackles too. Daniel Hull boomed five punts for a 49.2 average, which tells you how often he was out there. Harold Mack caught a 6-yard touchdown with 10 seconds left to wreck the shutout, and good for him."
+        },
+        {
+          "type": "paragraph",
+          "text": "But we fell to 4-6, 3-3 in the MAC, and the math is simple now. Two games left, at Western Michigan and home against Kent State. Win both, get to six wins, go bowling. Lose either, and it's wait till next year."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kalamazoo, Tuesday, Nov. 17, 7 PM ET. It's Western. If that doesn't light a fire in this locker room, we have bigger problems."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Eastern Michigan lost 35-7 to Central Michigan on Wednesday, Nov. 4, at Ford Field in Detroit as the designated home team. The Eagles are 4-6, 3-3 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "EMU was held to 177 yards and 9 first downs and had the ball for 19:04; Bryce Llewellyn and Bryce Eliuk each made 10 tackles."
+        },
+        {
+          "type": "jab",
+          "text": "We had a 49.2-yard punting average. When your punter is the best story of the night, it was a bad night."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Western Michigan, Tuesday, Nov. 17, 7 PM ET, Waldo Stadium, Kalamazoo."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Central Michigan 35, Eastern Michigan 7 (Nov. 4, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866456"
+        },
+        {
+          "label": "ESPN play-by-play, Central Michigan vs Eastern Michigan at Ford Field (Nov. 4, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866456"
+        },
+        {
+          "label": "ESPN game recap (AP): Nick Woodford scores 3 times and Central Michigan defeats Eastern Michigan 35-7 in Detroit",
+          "url": "https://www.espn.com/college-football/recap?gameId=401866456"
+        },
+        {
+          "label": "Eastern Michigan Athletics: Know Before You Go, Eastern Michigan takes over Ford Field",
+          "url": "https://emueagles.com/news/2026/11/2/football-know-before-you-go-motor-city-maction-special-edition-as-eastern-michigan-takes-over-ford-field"
+        },
+        {
+          "label": "Mitten Football: Recap, Central Michigan thrashing Eastern Michigan, 35-7, at Ford Field",
+          "url": "https://www.mittenfootball.com/live-updates-eastern-michigan-central-michigan-meet-for-maction-at-ford-field/"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-central-michigan-2026-11-04",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "central-michigan",
+      "team_ids": [
+        "central-michigan"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866456",
+      "title": "Central Michigan vs Eastern Michigan: Woodford Scores Three as the Chips Run Through the Eagles in Detroit",
+      "byline": "Brynn Haverkamp, The Central Michigan Fanatic",
+      "matchup": "Final: Central Michigan Chippewas (4-5) 35, Eastern Michigan Eagles (4-6) 7, Wed., Nov. 4, Ford Field, Detroit. Next: vs Sacramento State, Wed., Nov. 11, 7:30 PM ET, Mount Pleasant",
+      "date": "2026-11-04",
+      "word_count": 334,
+      "text": "Forty minutes and 56 seconds. That's how long Central Michigan had the football Wednesday night at Ford Field. Eastern Michigan got the other 19 and change and went nowhere with it. Central Michigan 35, Eastern Michigan 7. Three-game losing streak, gone. We're 4-5, 2-3 in the MAC, and the in-state bragging rights ride back up to Mount Pleasant.\n\nThis was a beatdown from the opening drive. Jadyn Glasser hit Justin Ruffin Jr. for 34 to get us rolling, then found Nasir Williams from 8 yards out. 7-0 before the Eagles touched it. Glasser finished 14 of 19 for 175, and he didn't throw one away to them. Neither did anybody else. Zero giveaways.\n\nThen it was Nick Woodford's night. Woodford from 11 to cap a 12-play, 86-yard march. Woodford from 2 right before the half, 21-0. Woodford from 1 in the third, one snap after he ran 12 yards to the doorstep. Three scores, 123 yards on 21 carries. Bell cow.\n\nThat third-quarter drive was the knockout. Sixteen plays, 90 yards, 8:39 off the clock. Eastern stood there and watched. We went 5-5 on fourth down and 7-15 on third. When you convert like that, the other team's offense becomes spectators.\n\nAnd the defense? Nasty. Eastern finished with 177 yards and 9 first downs. Jaion Jackson intercepted Brogan McCaughey in the second quarter. Mayson Hitchens stuffed them on a fourth down in the fourth. We outgained them 418-177 and ran for 235. The shutout died with 10 seconds left, and I'm still annoyed about it.\n\nOne gripe: we left points on the field early with a missed 52-yarder. That's it. That's the whole list.\n\nThis was our second straight win against Eastern, and the Chippewas' 12th game ever at Ford Field, per CMU Athletics. Next Wednesday, Sacramento State comes to Mount Pleasant at 7:30 PM ET. Two more wins gets us to six. Keep running the ball down people's throats and let's go get them.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Forty minutes and 56 seconds. That's how long Central Michigan had the football Wednesday night at Ford Field. Eastern Michigan got the other 19 and change and went nowhere with it. Central Michigan 35, Eastern Michigan 7. Three-game losing streak, gone. We're 4-5, 2-3 in the MAC, and the in-state bragging rights ride back up to Mount Pleasant."
+        },
+        {
+          "type": "paragraph",
+          "text": "This was a beatdown from the opening drive. Jadyn Glasser hit Justin Ruffin Jr. for 34 to get us rolling, then found Nasir Williams from 8 yards out. 7-0 before the Eagles touched it. Glasser finished 14 of 19 for 175, and he didn't throw one away to them. Neither did anybody else. Zero giveaways."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then it was Nick Woodford's night. Woodford from 11 to cap a 12-play, 86-yard march. Woodford from 2 right before the half, 21-0. Woodford from 1 in the third, one snap after he ran 12 yards to the doorstep. Three scores, 123 yards on 21 carries. Bell cow."
+        },
+        {
+          "type": "paragraph",
+          "text": "That third-quarter drive was the knockout. Sixteen plays, 90 yards, 8:39 off the clock. Eastern stood there and watched. We went 5-5 on fourth down and 7-15 on third. When you convert like that, the other team's offense becomes spectators."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the defense? Nasty. Eastern finished with 177 yards and 9 first downs. Jaion Jackson intercepted Brogan McCaughey in the second quarter. Mayson Hitchens stuffed them on a fourth down in the fourth. We outgained them 418-177 and ran for 235. The shutout died with 10 seconds left, and I'm still annoyed about it."
+        },
+        {
+          "type": "paragraph",
+          "text": "One gripe: we left points on the field early with a missed 52-yarder. That's it. That's the whole list."
+        },
+        {
+          "type": "paragraph",
+          "text": "This was our second straight win against Eastern, and the Chippewas' 12th game ever at Ford Field, per CMU Athletics. Next Wednesday, Sacramento State comes to Mount Pleasant at 7:30 PM ET. Two more wins gets us to six. Keep running the ball down people's throats and let's go get them."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Central Michigan beat Eastern Michigan 35-7 on Wednesday, Nov. 4, at Ford Field in Detroit, snapping a three-game losing streak. The Chippewas are 4-5, 2-3 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Nick Woodford ran for 123 yards and three touchdowns, Jadyn Glasser went 14 of 19 for 175 yards and a touchdown, and CMU held the ball for 40:56."
+        },
+        {
+          "type": "jab",
+          "text": "Eastern Michigan was the home team on paper. On the field they were guests who got stuck in the hallway."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Sacramento State, Wednesday, Nov. 11, 7:30 PM ET, Mount Pleasant."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Central Michigan 35, Eastern Michigan 7 (Nov. 4, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866456"
+        },
+        {
+          "label": "ESPN play-by-play, Central Michigan vs Eastern Michigan at Ford Field (Nov. 4, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866456"
+        },
+        {
+          "label": "ESPN game recap (AP): Nick Woodford scores 3 times and Central Michigan defeats Eastern Michigan 35-7 in Detroit",
+          "url": "https://www.espn.com/college-football/recap?gameId=401866456"
+        },
+        {
+          "label": "Central Michigan Athletics: News & Notes, Motor City game at Ford Field vs Eastern Michigan",
+          "url": "https://cmuchippewas.com/news/2026/10/31/football-news-notes-motor-city-maction-wednesday-night-versus-eastern-michigan-at-ford-field"
+        },
+        {
+          "label": "AP: Nick Woodford scores 3 times and Central Michigan defeats Eastern Michigan 35-7 in Detroit",
+          "url": "https://apnews.com/article/central-michigan-eastern-michigan-score-3deb6f036ccc2c8aa47b192c197ef141"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-sacramento-state-2026-11-04",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "sacramento-state",
+      "team_ids": [
+        "sacramento-state"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866457",
+      "title": "Sacramento State vs Toledo: Hornets Push MAC Contender to the Final Snap, Fall 20-17",
+      "byline": "Mateo Villaseñor, The Sacramento State Fanatic",
+      "matchup": "Final: Toledo Rockets (7-2) 20, Sacramento State Hornets (2-8) 17, Wed., Nov. 4, Hornet Stadium, Sacramento. Next: at Central Michigan, Wed., Nov. 11, 7:30 PM ET, Mount Pleasant",
+      "date": "2026-11-04",
+      "word_count": 331,
+      "text": "Fourth-and-14, 55 seconds to work with, the ball in Brian Salazar Jr.'s hands, and it got knocked to the turf. That's how the home season ended for the Hornets. Toledo 20, Sacramento State 17. We're 2-8, 1-6 in the MAC, and I'm proud and ticked off in equal parts.\n\nProud first. Toledo is 7-2 and tied for second in this league, and we had them down 10-7 at halftime. Jackson Sharman went 8 of 15 for 113 and hit Matt Coleman from 2 yards out to cap a 10-play drive. Raiden Brown went up and got a 59-yard ball that bounced off a Toledo defender, which set up Grant Meadors from 38. Brown finished with 5 catches for 108.\n\nThe defense hit people too. Boogsie Silvera intercepted John Alan Richter in the first quarter, and Toledo threw for 60 yards the whole night. Tim Thomas had 7 tackles, a sack and two tackles for loss. Fata Puloka made 8 stops.\n\nNow the ticked-off part. We ran it 31 times for eight yards. Eight. You can't win a football game like that against anybody, let alone a team that rams the ball down your throat for 230. Their two backs both topped 100. We gave Toledo a short field on our first possession with a strip-sack at our own 32, and they scored five plays later.\n\nAnd the guys still didn't quit. Down 20-10 with 7:51 left, Jamar Curtis capped a 12-play, 75-yard drive from the 3 with 2:20 to go. The defense got the ball back. We just ran out of room from our own 16.\n\nCredit to the seniors who played their last game in Sacramento, and to the new uniforms and hand-painted helmets made with the Wilton Rancheria tribe for Native American Heritage Month. Sharp look, and the effort matched it.\n\nNext Wednesday it's a flight across the country to Mount Pleasant to face Central Michigan, 7:30 PM ET. Find a running game somewhere between here and Michigan, boys.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fourth-and-14, 55 seconds to work with, the ball in Brian Salazar Jr.'s hands, and it got knocked to the turf. That's how the home season ended for the Hornets. Toledo 20, Sacramento State 17. We're 2-8, 1-6 in the MAC, and I'm proud and ticked off in equal parts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Proud first. Toledo is 7-2 and tied for second in this league, and we had them down 10-7 at halftime. Jackson Sharman went 8 of 15 for 113 and hit Matt Coleman from 2 yards out to cap a 10-play drive. Raiden Brown went up and got a 59-yard ball that bounced off a Toledo defender, which set up Grant Meadors from 38. Brown finished with 5 catches for 108."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense hit people too. Boogsie Silvera intercepted John Alan Richter in the first quarter, and Toledo threw for 60 yards the whole night. Tim Thomas had 7 tackles, a sack and two tackles for loss. Fata Puloka made 8 stops."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the ticked-off part. We ran it 31 times for eight yards. Eight. You can't win a football game like that against anybody, let alone a team that rams the ball down your throat for 230. Their two backs both topped 100. We gave Toledo a short field on our first possession with a strip-sack at our own 32, and they scored five plays later."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the guys still didn't quit. Down 20-10 with 7:51 left, Jamar Curtis capped a 12-play, 75-yard drive from the 3 with 2:20 to go. The defense got the ball back. We just ran out of room from our own 16."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit to the seniors who played their last game in Sacramento, and to the new uniforms and hand-painted helmets made with the Wilton Rancheria tribe for Native American Heritage Month. Sharp look, and the effort matched it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next Wednesday it's a flight across the country to Mount Pleasant to face Central Michigan, 7:30 PM ET. Find a running game somewhere between here and Michigan, boys."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Sacramento State lost 20-17 to Toledo on Wednesday, Nov. 4, at Hornet Stadium in its final home game of the season. The Hornets are 2-8, 1-6 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Raiden Brown caught 5 balls for 108 yards, Jamar Curtis scored on a 3-yard run with 2:20 left, and Boogsie Silvera intercepted John Alan Richter."
+        },
+        {
+          "type": "jab",
+          "text": "Toledo threw for 60 yards all night. We were one fourth-down catch away from making them pay for it."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Central Michigan, Wednesday, Nov. 11, 7:30 PM ET, Mount Pleasant."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Toledo 20, Sacramento State 17 (Nov. 4, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866457"
+        },
+        {
+          "label": "ESPN play-by-play, Toledo at Sacramento State (Nov. 4, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866457"
+        },
+        {
+          "label": "ESPN game recap (AP): Miller, Ison lead ground game and Toledo slips past Sacramento State 20-17",
+          "url": "https://www.espn.com/college-football/recap?gameId=401866457"
+        },
+        {
+          "label": "Sacramento State Athletics: Five Facts for Football vs. Toledo",
+          "url": "https://hornetsports.com/news/2026/11/4/football-five-facts-for-football-vs-toledo.aspx"
+        },
+        {
+          "label": "AP: Miller, Ison lead ground game and Toledo slips past Sacramento State 20-17",
+          "url": "https://apnews.com/article/toledosacramento-st-score-895fc186fc760d81fc2ec1ad00717ba0"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-toledo-2026-11-04",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "toledo",
+      "team_ids": [
+        "toledo"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866457",
+      "title": "Toledo vs Sacramento State: Miller and Ison Grind Out 20-17 and Keep the MAC Race Alive",
+      "byline": "Rocco Szczepanski, The Toledo Fanatic",
+      "matchup": "Final: Toledo Rockets (7-2) 20, Sacramento State Hornets (2-8) 17, Wed., Nov. 4, Hornet Stadium, Sacramento. Next: vs Massachusetts, Wed., Nov. 11, time TBA, Glass Bowl, Toledo",
+      "date": "2026-11-04",
+      "word_count": 336,
+      "text": "Eight yards. Sacramento State ran the ball 31 times Wednesday night and gained eight yards. Toledo Athletics says that's the fewest any Rocket opponent has managed since 2015. That's the story of Toledo 20, Sacramento State 17, and it's why we're flying home from California at 7-2 and 4-1 in the MAC.\n\nDon't let the final fool you. This was not pretty. It wasn't. We trailed 10-7 at the half. John Alan Richter threw for 60 yards all night and threw an interception. Ugly. We went 5-15 on third down. Ugly again.\n\nSo we did what Toledo does. We handed it to CJ Miller and Autavius Ison and told them to go get it. Miller carried 27 times for 135 yards. Ison went for 101 on 15 carries, and his 19-yard run late in the third put us up 17-10 for good. Two backs, two hundreds, 230 yards on the ground. That's grown-man football.\n\nThe defense set the tone from the first series. Andrew Zock strip-sacked Jackson Sharman, Nathaniel Chandler fell on it at their 32, and five plays later Richter found Anthony Simpson for an 18-yard score. Toledo Athletics counted 12 tackles for loss and five sacks. Isaac Zay made 11 tackles. Chandler had a sack, two tackles for loss and the recovery.\n\nSpecial teams pulled their weight too. Markus Meincke pinned them inside their own 5 to open the second half, we got the ball back at midfield, and Reice Griffith tied it from 34. He added a 40-yarder for 20-10 with 7:51 left.\n\nI'll admit the last two minutes made me sweat. The Hornets went 75 yards for a touchdown with 2:20 left, then got it back at their own 16. Then our guys sacked Salazar, and on fourth-and-14 the throw got knocked down. Ballgame.\n\nToledo Athletics says we're tied with Western Michigan and Buffalo for second in the MAC with three to play. Next Wednesday, UMass comes into the Glass Bowl. Same recipe: feed the backs, squeeze the throat, go home happy.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Eight yards. Sacramento State ran the ball 31 times Wednesday night and gained eight yards. Toledo Athletics says that's the fewest any Rocket opponent has managed since 2015. That's the story of Toledo 20, Sacramento State 17, and it's why we're flying home from California at 7-2 and 4-1 in the MAC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Don't let the final fool you. This was not pretty. It wasn't. We trailed 10-7 at the half. John Alan Richter threw for 60 yards all night and threw an interception. Ugly. We went 5-15 on third down. Ugly again."
+        },
+        {
+          "type": "paragraph",
+          "text": "So we did what Toledo does. We handed it to CJ Miller and Autavius Ison and told them to go get it. Miller carried 27 times for 135 yards. Ison went for 101 on 15 carries, and his 19-yard run late in the third put us up 17-10 for good. Two backs, two hundreds, 230 yards on the ground. That's grown-man football."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense set the tone from the first series. Andrew Zock strip-sacked Jackson Sharman, Nathaniel Chandler fell on it at their 32, and five plays later Richter found Anthony Simpson for an 18-yard score. Toledo Athletics counted 12 tackles for loss and five sacks. Isaac Zay made 11 tackles. Chandler had a sack, two tackles for loss and the recovery."
+        },
+        {
+          "type": "paragraph",
+          "text": "Special teams pulled their weight too. Markus Meincke pinned them inside their own 5 to open the second half, we got the ball back at midfield, and Reice Griffith tied it from 34. He added a 40-yarder for 20-10 with 7:51 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "I'll admit the last two minutes made me sweat. The Hornets went 75 yards for a touchdown with 2:20 left, then got it back at their own 16. Then our guys sacked Salazar, and on fourth-and-14 the throw got knocked down. Ballgame."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toledo Athletics says we're tied with Western Michigan and Buffalo for second in the MAC with three to play. Next Wednesday, UMass comes into the Glass Bowl. Same recipe: feed the backs, squeeze the throat, go home happy."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Toledo beat Sacramento State 20-17 on Wednesday, Nov. 4, at Hornet Stadium to improve to 7-2, 4-1 in the MAC, tied for second in the league."
+        },
+        {
+          "type": "fact",
+          "text": "CJ Miller ran for 135 yards and Autavius Ison added 101 and a touchdown; the Rockets held Sacramento State to eight rushing yards on 31 carries."
+        },
+        {
+          "type": "jab",
+          "text": "Eight rushing yards. We've seen kickoff returns go farther than the Hornets' whole ground game."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Massachusetts, Wednesday, Nov. 11, Glass Bowl, time TBA."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Toledo 20, Sacramento State 17 (Nov. 4, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866457"
+        },
+        {
+          "label": "ESPN play-by-play, Toledo at Sacramento State (Nov. 4, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866457"
+        },
+        {
+          "label": "ESPN game recap (AP): Miller, Ison lead ground game and Toledo slips past Sacramento State 20-17",
+          "url": "https://www.espn.com/college-football/recap?gameId=401866457"
+        },
+        {
+          "label": "Toledo Athletics: Rockets Swarm Hornets for MAC Win in California, 20-17",
+          "url": "https://utrockets.com/news/2026/11/4/football-rockets-swarm-hornets-for-mac-win-in-california-20-17"
+        },
+        {
+          "label": "AP: Miller, Ison lead ground game and Toledo slips past Sacramento State 20-17",
+          "url": "https://apnews.com/article/toledosacramento-st-score-895fc186fc760d81fc2ec1ad00717ba0"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ball-state-2026-11-04",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "ball-state",
+      "team_ids": [
+        "ball-state"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866455",
+      "title": "Ball State vs Massachusetts: One Missed Kick, a 31-30 Loss and a Long Ride Home",
+      "byline": "Gus Ponder, The Ball State Fanatic",
+      "matchup": "Final: Ball State Cardinals (3-6) 30, Massachusetts Minutemen (5-4) 31 (OT), Wed., Nov. 4, Warren McGuirk Alumni Stadium, Amherst. Next: vs Buffalo, Wed., Nov. 11, 7:30 PM ET, Scheumann Stadium, Muncie",
+      "date": "2026-11-04",
+      "word_count": 328,
+      "text": "One kick. We came into Amherst, punched UMass in the mouth for four quarters, scored first in overtime, and then the extra point sailed wide left. Watson ran 13 yards on the other end, they made their kick, and Ball State lost 31-30. We're 3-6, 2-3 in the MAC. I'm still steaming.\n\nHere's what kills me. This was a game we should have won going away. Our guys forced two fumbles, Gabe Aramboles got one and Mikeah Webster got the other, and we didn't give it away once. Zero giveaways on the road and we still lost. Explain that one.\n\nExplanation: flags. Ten penalties for 95 yards, and Ball State Athletics counted eight of them before halftime, including three straight on one UMass drive that handed them 30 yards and the tying score. Then Brody Boehm hits a 22-yarder to put us up 10-7 with 33 seconds left, and our defense gives up 64 yards in two snaps. Fourteen seconds. Brutal.\n\nNow the good stuff, because there was plenty. Jalen Bonds was a grown man out there. 132 yards on 17 carries, a 42-yard touchdown run in the third and the overtime score from the 1. Ball State Athletics says it's the first 100-yard game of his career. It won't be the last.\n\nAnd Keldric Luster, down 24-17 in the fourth with 2:14 left, takes us 75 yards in nine plays and walks in from the 2 with 25 seconds to go. That's a quarterback. He finished 17 of 27 for 182 and a touchdown to Jamarion McDougle, the opener from 20 yards out. Sterling Smith had 9 tackles. Webster had 7 and the strip.\n\nBut UMass threw for 302, outgained us 455 to 350, and we went 6-14 on third down. That's the game right there, plus one kick.\n\nBuffalo comes to Scheumann Stadium next Wednesday, Nov. 11, 7:30 PM ET. Fill the place. Keep the flags in the pocket, and nobody blinks on the extra point.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "One kick. We came into Amherst, punched UMass in the mouth for four quarters, scored first in overtime, and then the extra point sailed wide left. Watson ran 13 yards on the other end, they made their kick, and Ball State lost 31-30. We're 3-6, 2-3 in the MAC. I'm still steaming."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's what kills me. This was a game we should have won going away. Our guys forced two fumbles, Gabe Aramboles got one and Mikeah Webster got the other, and we didn't give it away once. Zero giveaways on the road and we still lost. Explain that one."
+        },
+        {
+          "type": "paragraph",
+          "text": "Explanation: flags. Ten penalties for 95 yards, and Ball State Athletics counted eight of them before halftime, including three straight on one UMass drive that handed them 30 yards and the tying score. Then Brody Boehm hits a 22-yarder to put us up 10-7 with 33 seconds left, and our defense gives up 64 yards in two snaps. Fourteen seconds. Brutal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the good stuff, because there was plenty. Jalen Bonds was a grown man out there. 132 yards on 17 carries, a 42-yard touchdown run in the third and the overtime score from the 1. Ball State Athletics says it's the first 100-yard game of his career. It won't be the last."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Keldric Luster, down 24-17 in the fourth with 2:14 left, takes us 75 yards in nine plays and walks in from the 2 with 25 seconds to go. That's a quarterback. He finished 17 of 27 for 182 and a touchdown to Jamarion McDougle, the opener from 20 yards out. Sterling Smith had 9 tackles. Webster had 7 and the strip."
+        },
+        {
+          "type": "paragraph",
+          "text": "But UMass threw for 302, outgained us 455 to 350, and we went 6-14 on third down. That's the game right there, plus one kick."
+        },
+        {
+          "type": "paragraph",
+          "text": "Buffalo comes to Scheumann Stadium next Wednesday, Nov. 11, 7:30 PM ET. Fill the place. Keep the flags in the pocket, and nobody blinks on the extra point."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Ball State lost 31-30 in overtime at Massachusetts on Wednesday, Nov. 4, after a missed extra point in overtime. The Cardinals are 3-6, 2-3 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Jalen Bonds ran for 132 yards and two touchdowns, the first 100-yard game of his career, and Keldric Luster tied it 24-24 on a 2-yard run with 25 seconds left in regulation."
+        },
+        {
+          "type": "jab",
+          "text": "Zero turnovers, two forced fumbles and a road loss anyway. Ten flags for 95 yards will do that."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Buffalo, Wednesday, Nov. 11, 7:30 PM ET, Scheumann Stadium, Muncie."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Massachusetts 31, Ball State 30 in overtime (Nov. 4, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866455"
+        },
+        {
+          "label": "ESPN play-by-play, Ball State at Massachusetts (Nov. 4, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866455"
+        },
+        {
+          "label": "ESPN game recap (AP): Watson's 13-yard run in overtime lifts UMass over Ball State 31-30",
+          "url": "https://www.espn.com/college-football/recap?gameId=401866455"
+        },
+        {
+          "label": "Ball State Athletics: Ball State Drops Overtime Thriller Against the Minutemen",
+          "url": "https://ballstatesports.com/news/2026/11/4/football-ball-state-drops-overtime-thriller-against-the-minutemen"
+        },
+        {
+          "label": "AP: Watson's 13-yard run in OT lifts UMass over Ball State 31-30",
+          "url": "https://apnews.com/article/ball-state-massachusetts-football-score-0a16523ce36a3670540f05f9c5a2fa64"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-massachusetts-2026-11-04",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "massachusetts",
+      "team_ids": [
+        "massachusetts"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866455",
+      "title": "Massachusetts vs Ball State: Pop Watson Runs It In and the Skid Is Dead",
+      "byline": "Abner Kettleworth, The Massachusetts Fanatic",
+      "matchup": "Final: Ball State Cardinals (3-6) 30, Massachusetts Minutemen (5-4) 31 (OT), Wed., Nov. 4, Warren McGuirk Alumni Stadium, Amherst. Next: at Toledo, Wed., Nov. 11, time TBA, Glass Bowl, Toledo",
+      "date": "2026-11-04",
+      "word_count": 359,
+      "text": "Thirteen yards. That's how far William Watson III had to go in overtime Wednesday night, and he went all of it. Derek Morris put the kick through, and UMass beat Ball State 31-30 at McGuirk. Four straight losses, buried. We're 5-4.\n\nCount the holes we climbed out of. Down 7-0 after one quarter. Down 10-7 with 33 seconds left in the half. Down 17-14 in the third after we coughed up the ball at their end of the field. Every time, this team got back up off the mat. Three deficits, three answers.\n\nThe answer before halftime was the best one. Ball State kicks a field goal, Kezion Dia-Johnson brings the kickoff back 28 yards, and two snaps later Watson drops a 64-yarder on Jabari Lewis. Fourteen seconds, 64 yards, 14-10 at the break. That's how you walk into a locker room.\n\nThen the third quarter. Watson hit Harding for 46 and Dia-Johnson for 47 on back-to-back plays, then ran it in himself from the 1. 21-17. Watson finished 17 of 25 for 302 yards, a career high per UMass Athletics. Dia-Johnson had 3 catches for 97. T.Y. Harding caught 6 for 70.\n\nNow the part I'm not happy about. Harding put the ball on the ground twice, and the second one turned into a 42-yard Jalen Bonds touchdown run. Morris missed from 36 on our first drive. And we went up 24-17 with 2:14 left and still let Keldric Luster go 75 yards to tie it with 25 seconds on the clock. Close the door, fellas.\n\nOvertime, though. Ball State scored first and missed the extra point, wide left. That's the opening. Watson took it 12 yards, then 13 more, and the place went nuts. Curtis Kimmons IV gave us 85 hard yards on 19 carries all night, Zeraun Daniel made 10 tackles, and Joshua Iseah sacked Luster twice.\n\nUMass Athletics says five wins is the most for this program since 2011, and the most since the move to FBS. Read that again. Five.\n\nNext Wednesday it's Toledo at the Glass Bowl, and those guys are 7-2. Hold onto the football, make the kicks, and let Pop cook.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Thirteen yards. That's how far William Watson III had to go in overtime Wednesday night, and he went all of it. Derek Morris put the kick through, and UMass beat Ball State 31-30 at McGuirk. Four straight losses, buried. We're 5-4."
+        },
+        {
+          "type": "paragraph",
+          "text": "Count the holes we climbed out of. Down 7-0 after one quarter. Down 10-7 with 33 seconds left in the half. Down 17-14 in the third after we coughed up the ball at their end of the field. Every time, this team got back up off the mat. Three deficits, three answers."
+        },
+        {
+          "type": "paragraph",
+          "text": "The answer before halftime was the best one. Ball State kicks a field goal, Kezion Dia-Johnson brings the kickoff back 28 yards, and two snaps later Watson drops a 64-yarder on Jabari Lewis. Fourteen seconds, 64 yards, 14-10 at the break. That's how you walk into a locker room."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the third quarter. Watson hit Harding for 46 and Dia-Johnson for 47 on back-to-back plays, then ran it in himself from the 1. 21-17. Watson finished 17 of 25 for 302 yards, a career high per UMass Athletics. Dia-Johnson had 3 catches for 97. T.Y. Harding caught 6 for 70."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the part I'm not happy about. Harding put the ball on the ground twice, and the second one turned into a 42-yard Jalen Bonds touchdown run. Morris missed from 36 on our first drive. And we went up 24-17 with 2:14 left and still let Keldric Luster go 75 yards to tie it with 25 seconds on the clock. Close the door, fellas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Overtime, though. Ball State scored first and missed the extra point, wide left. That's the opening. Watson took it 12 yards, then 13 more, and the place went nuts. Curtis Kimmons IV gave us 85 hard yards on 19 carries all night, Zeraun Daniel made 10 tackles, and Joshua Iseah sacked Luster twice."
+        },
+        {
+          "type": "paragraph",
+          "text": "UMass Athletics says five wins is the most for this program since 2011, and the most since the move to FBS. Read that again. Five."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next Wednesday it's Toledo at the Glass Bowl, and those guys are 7-2. Hold onto the football, make the kicks, and let Pop cook."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Massachusetts beat Ball State 31-30 in overtime on Wednesday, Nov. 4, at McGuirk Alumni Stadium, snapping a four-game losing streak. The Minutemen are 5-4, 2-3 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "William Watson III threw for a career-high 302 yards and ran for two touchdowns, including the 13-yarder that won it in overtime; Kezion Dia-Johnson had 97 receiving yards."
+        },
+        {
+          "type": "jab",
+          "text": "Ball State had one job in overtime: kick it through from close range. Wide left. We'll take it."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Toledo, Wednesday, Nov. 11, Glass Bowl, time TBA."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Massachusetts 31, Ball State 30 in overtime (Nov. 4, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866455"
+        },
+        {
+          "label": "ESPN play-by-play, Ball State at Massachusetts (Nov. 4, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866455"
+        },
+        {
+          "label": "ESPN game recap (AP): Watson's 13-yard run in overtime lifts UMass over Ball State 31-30",
+          "url": "https://www.espn.com/college-football/recap?gameId=401866455"
+        },
+        {
+          "label": "UMass Athletics: Minutemen Outlast Ball State in Overtime Thriller, 31-30",
+          "url": "https://umassathletics.com/news/2026/11/4/football-minutemen-outlast-ball-state-in-overtime-thriller-31-30"
+        },
+        {
+          "label": "AP: Watson's 13-yard run in OT lifts UMass over Ball State 31-30",
+          "url": "https://apnews.com/article/ball-state-massachusetts-football-score-0a16523ce36a3670540f05f9c5a2fa64"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    }
+  ]
+}

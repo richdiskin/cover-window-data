@@ -1,0 +1,2353 @@
+{
+  "schema": 1,
+  "date": "2026-11-08",
+  "theme": "mmqb",
+  "theme_label": "Monday Morning Quarterback",
+  "published_at": "2026-10-26T11:53:04Z",
+  "count": 26,
+  "lead_id": "fanatic_team-no",
+  "articles": [
+    {
+      "id": "fanatic_team-no",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "no",
+      "team_ids": [
+        "no"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873039",
+      "title": "New Orleans Saints vs Cleveland Browns Week 9: OT Stand 23-22",
+      "byline": "",
+      "matchup": "Final (OT): New Orleans Saints (3-5) 23, Cleveland Browns (5-4) 22, Sun., Nov. 8, Caesars Superdome, New Orleans. Next: vs Carolina Panthers, Sun., Nov. 15, 1:00 PM ET, Caesars Superdome, New Orleans",
+      "date": "2026-11-08",
+      "word_count": 376,
+      "text": "New Orleans Saints 23, Cleveland Browns 22 in overtime, and the Superdome finally got its first home win of the year. Uptown on Sunday, the 18th annual Oak Street Po-Boy Festival served more than 100 versions of this city's signature sandwich and invited folks to catch the game right there on Oak Street. Anybody who stayed through overtime got the full plate.\n\nFor 54 minutes neither team found the end zone, and some of that was on us. Barion Brown ripped off a 52-yard catch to the Cleveland 11, and two plays later Jordyn Tyson, in his NFL debut, had the ball punched out by Carson Schwesinger at the 2. Brown later coughed up a punt return at our 19. Cleveland came away empty on that one, because our defense stuffed Quinshon Judkins on fourth-and-goal from the 1.\n\nCharlie Smyth, up from the practice squad this week, kicked from 30, 27 and 48 to put us ahead 9-6. Cleveland went 64 yards for a touchdown on its very next snap. Then Tyler Shough went to work. Chris Olave caught a 33-yarder to the 10, and Audric Estime, claimed off waivers from Cleveland five days earlier, ran it in from the 2 with 58 seconds left. Five days in, and he already knows the way. Cleveland tied it with a 51-yard field goal with eight seconds left.\n\nOvertime belonged to Shough. On the first possession, he floated a 15-yard throw to Juwan Johnson in the right corner of the end zone. Cleveland came back with Harold Fannin Jr. going 39 yards and went for two. Carl Granderson chased Shedeur Sanders to the right, the throw fell incomplete, and the Dome let it rip.\n\nShough went 21 of 35 for 265 yards and a touchdown. Estime ran 15 times for 72. Olave caught seven balls for 98. Granderson had two of our five sacks, and Kaden Elliss added one with 11 tackles. We outgained Cleveland 396 to 355.\n\nThe honest part: two lost fumbles, two touchdowns in five red-zone trips, a missed 52-yarder and a 64-yard bomb allowed on one snap. We're 3-5 and 1-4 at home. But this team just learned how to finish one.\n\nCarolina comes to the Caesars Superdome next Sunday. Save us a po-boy.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "New Orleans Saints 23, Cleveland Browns 22 in overtime, and the Superdome finally got its first home win of the year. Uptown on Sunday, the 18th annual Oak Street Po-Boy Festival served more than 100 versions of this city's signature sandwich and invited folks to catch the game right there on Oak Street. Anybody who stayed through overtime got the full plate."
+        },
+        {
+          "type": "paragraph",
+          "text": "For 54 minutes neither team found the end zone, and some of that was on us. Barion Brown ripped off a 52-yard catch to the Cleveland 11, and two plays later Jordyn Tyson, in his NFL debut, had the ball punched out by Carson Schwesinger at the 2. Brown later coughed up a punt return at our 19. Cleveland came away empty on that one, because our defense stuffed Quinshon Judkins on fourth-and-goal from the 1."
+        },
+        {
+          "type": "paragraph",
+          "text": "Charlie Smyth, up from the practice squad this week, kicked from 30, 27 and 48 to put us ahead 9-6. Cleveland went 64 yards for a touchdown on its very next snap. Then Tyler Shough went to work. Chris Olave caught a 33-yarder to the 10, and Audric Estime, claimed off waivers from Cleveland five days earlier, ran it in from the 2 with 58 seconds left. Five days in, and he already knows the way. Cleveland tied it with a 51-yard field goal with eight seconds left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Overtime belonged to Shough. On the first possession, he floated a 15-yard throw to Juwan Johnson in the right corner of the end zone. Cleveland came back with Harold Fannin Jr. going 39 yards and went for two. Carl Granderson chased Shedeur Sanders to the right, the throw fell incomplete, and the Dome let it rip."
+        },
+        {
+          "type": "paragraph",
+          "text": "Shough went 21 of 35 for 265 yards and a touchdown. Estime ran 15 times for 72. Olave caught seven balls for 98. Granderson had two of our five sacks, and Kaden Elliss added one with 11 tackles. We outgained Cleveland 396 to 355."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: two lost fumbles, two touchdowns in five red-zone trips, a missed 52-yarder and a 64-yard bomb allowed on one snap. We're 3-5 and 1-4 at home. But this team just learned how to finish one."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carolina comes to the Caesars Superdome next Sunday. Save us a po-boy."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Saints beat the Browns 23-22 in overtime at the Caesars Superdome for their first home win of the season."
+        },
+        {
+          "type": "fact",
+          "text": "Tyler Shough threw a 15-yard overtime touchdown to Juwan Johnson, and Carl Granderson's pressure forced the failed two-point try."
+        },
+        {
+          "type": "fact",
+          "text": "Audric Estime, claimed off waivers from Cleveland five days earlier, ran for 72 yards and the late fourth-quarter touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "Cleveland let Estime go. He sent them home with the bill."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Saints 23, Browns 22 (OT)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873039"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873039"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873039"
+        },
+        {
+          "label": "Oak Street Po-Boy Festival: 18th annual festival, Sun., Nov. 8",
+          "url": "https://www.poboyfest.com/event-details/18th-annual-oak-street-po-boy-festival-2026"
+        },
+        {
+          "label": "ESPN Saints schedule (next game: vs Panthers, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/no/new-orleans-saints"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-cle-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "cle",
+      "team_ids": [
+        "cle"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873039",
+      "title": "Cleveland Browns vs New Orleans Saints Week 9: Gone for Two 22-23",
+      "byline": "",
+      "matchup": "Final (OT): New Orleans Saints (3-5) 23, Cleveland Browns (5-4) 22, Sun., Nov. 8, Caesars Superdome, New Orleans. Next: vs Houston Texans, Sun., Nov. 15, 1:00 PM ET, Huntington Bank Field, Cleveland",
+      "date": "2026-11-08",
+      "word_count": 397,
+      "text": "New Orleans Saints 23, Cleveland Browns 22 in overtime, and the Kardiac Kids would have recognized every second of it. Back home on Saturday, Cleveland Public Theatre held its 22nd annual Día de Muertos on Detroit Avenue, with altars, a folk art market and the Skulls & Skeletons procession honoring the people this city remembers. On Sunday in the Superdome, the Browns handed us one more game we'll be remembering for years.\n\nShedeur Sanders, running the offense from the first snap for the first time this season, didn't blink. He went 19 of 31 for 297 yards with two touchdown throws and no interceptions, and he did it while getting sacked five times. Denzel Boston caught six balls for 98, including a 60-yarder to the Saints 3 that somehow became a field goal. Andre Szmyt was perfect, from 41, 30 and 51.\n\nThe defense kept us alive for 54 minutes without a touchdown from either side. Carson Schwesinger made 15 tackles, sacked Tyler Shough twice and punched the ball away from Jordyn Tyson at our 2, where Tyson Campbell fell on it. Adin Huntington ran down Barion Brown on a punt return, Donovan McMillon recovered at the Saints 19, and then Quinshon Judkins got stopped on fourth-and-goal from the 1. That one still stings.\n\nDown 9-6 with 5:38 left, Sanders found KC Concepcion behind the secondary for 64 yards and a 13-9 lead on our very next snap. The Saints answered with Audric Estime, the back we let go five days earlier, running it in from the 2 with 58 seconds left. Sanders hit Jerry Jeudy for 30, and Szmyt banged home the 51-yarder with eight seconds to go. Tied 16-16.\n\nIn overtime the Saints scored first, Juwan Johnson from 15. Harold Fannin Jr. took a short throw, broke tackles and went 39 yards with a minute left. Todd Monken went for two and the win, and Sanders rolled right with Carl Granderson chasing him and threw incomplete. I would make the same call every time.\n\nThe honest part: zero for two in the red zone, zero for two on fourth down, 95 rushing yards on 34 carries, and 10 penalties. You don't win on the road like that, no matter how good the quarterback looks. We're 5-4 with two straight losses.\n\nHouston comes to Huntington Bank Field next Sunday. We'll be there, hearts pounding, like always.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "New Orleans Saints 23, Cleveland Browns 22 in overtime, and the Kardiac Kids would have recognized every second of it. Back home on Saturday, Cleveland Public Theatre held its 22nd annual Día de Muertos on Detroit Avenue, with altars, a folk art market and the Skulls & Skeletons procession honoring the people this city remembers. On Sunday in the Superdome, the Browns handed us one more game we'll be remembering for years."
+        },
+        {
+          "type": "paragraph",
+          "text": "Shedeur Sanders, running the offense from the first snap for the first time this season, didn't blink. He went 19 of 31 for 297 yards with two touchdown throws and no interceptions, and he did it while getting sacked five times. Denzel Boston caught six balls for 98, including a 60-yarder to the Saints 3 that somehow became a field goal. Andre Szmyt was perfect, from 41, 30 and 51."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense kept us alive for 54 minutes without a touchdown from either side. Carson Schwesinger made 15 tackles, sacked Tyler Shough twice and punched the ball away from Jordyn Tyson at our 2, where Tyson Campbell fell on it. Adin Huntington ran down Barion Brown on a punt return, Donovan McMillon recovered at the Saints 19, and then Quinshon Judkins got stopped on fourth-and-goal from the 1. That one still stings."
+        },
+        {
+          "type": "paragraph",
+          "text": "Down 9-6 with 5:38 left, Sanders found KC Concepcion behind the secondary for 64 yards and a 13-9 lead on our very next snap. The Saints answered with Audric Estime, the back we let go five days earlier, running it in from the 2 with 58 seconds left. Sanders hit Jerry Jeudy for 30, and Szmyt banged home the 51-yarder with eight seconds to go. Tied 16-16."
+        },
+        {
+          "type": "paragraph",
+          "text": "In overtime the Saints scored first, Juwan Johnson from 15. Harold Fannin Jr. took a short throw, broke tackles and went 39 yards with a minute left. Todd Monken went for two and the win, and Sanders rolled right with Carl Granderson chasing him and threw incomplete. I would make the same call every time."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: zero for two in the red zone, zero for two on fourth down, 95 rushing yards on 34 carries, and 10 penalties. You don't win on the road like that, no matter how good the quarterback looks. We're 5-4 with two straight losses."
+        },
+        {
+          "type": "paragraph",
+          "text": "Houston comes to Huntington Bank Field next Sunday. We'll be there, hearts pounding, like always."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Browns lost 23-22 to the Saints in overtime at the Caesars Superdome when a two-point try failed with a minute left."
+        },
+        {
+          "type": "fact",
+          "text": "Shedeur Sanders threw for 297 yards and two touchdowns, a 64-yarder to KC Concepcion and a 39-yarder to Harold Fannin Jr."
+        },
+        {
+          "type": "fact",
+          "text": "Andre Szmyt made all three field goals, including a 51-yarder with eight seconds left in regulation, and Carson Schwesinger had 15 tackles and two sacks."
+        },
+        {
+          "type": "jab",
+          "text": "The Saints won it with a back we waived. Only in Cleveland."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Saints 23, Browns 22 (OT)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873039"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873039"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873039"
+        },
+        {
+          "label": "Cleveland Public Theatre: 22nd annual Día de Muertos, Sat., Nov. 7",
+          "url": "https://www.cptonline.org/performances/seasons/2026-2027/dia-de-muertos-10/"
+        },
+        {
+          "label": "ESPN Browns schedule (next game: vs Texans, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/cle/cleveland-browns"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-lac-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "lac",
+      "team_ids": [
+        "lac"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873046",
+      "title": "Los Angeles Chargers vs Houston Texans Week 9: Still Winless 44-22",
+      "byline": "",
+      "matchup": "Final: Houston Texans (3-5) 44, Los Angeles Chargers (0-8) 22, Sun., Nov. 8, SoFi Stadium, Inglewood. Next: at Baltimore Ravens, Mon., Nov. 16, 8:15 PM ET, M&T Bank Stadium, Baltimore",
+      "date": "2026-11-08",
+      "word_count": 330,
+      "text": "Houston Texans 44, Los Angeles Chargers 22. Friday night the Inglewood High Sentinels hung 44 points on undefeated Huntington Beach to win their playoff opener. Two days later, in the same city, somebody put up 44 in Inglewood again. It just was not us.\n\nWe are 0-8. That is 11 straight losses, tying the franchise record set in 2000, and we still have not won at SoFi since last December. The boos came down from the upper levels, and nobody in my section argued with them.\n\nThe first half had a pulse. Daiyan Henley intercepted C.J. Stroud, and Cameron Dicker kicked from 52, 33 and 43 to pull us to 10-9 with 5:11 left in the half. Then Stroud hit Tank Dell for 63 yards two plays later and Kayshon Boutte for 12 with 31 seconds left, and it was 24-9 at the break.\n\nJustin Herbert never got a chance to breathe. He was sacked eight times, a career high, and finished 13 of 23 for 193 yards with an interception to Derek Stingley Jr. Our best drive of the third quarter got a 50-yard catch from KeAndre Lambert-Smith on fourth-and-1, then ended when Keaton Mitchell lost a fumble at the Houston 24. Omarion Hampton gave us some life early in the fourth with a 32-yard run, finishing with 60 yards on 13 carries, and the run game piled up 138 yards.\n\nOne moment to keep: Quentin Johnston caught a 58-yard touchdown from Herbert early in the fourth quarter, our first touchdown since Oct. 11 against Denver, ending a 37-drive drought. Herbert left late with a taped finger, and Derius Davis later caught a 15-yard score on fourth-and-13.\n\nThe honest part: Houston averaged 10 yards a throw and piled up 485 yards. We were 5 of 17 on third down with nine penalties. Next is a Monday night trip to Baltimore.\n\nInglewood High goes to Palos Verdes on Friday. Ride along with them. They know how to win around here.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Houston Texans 44, Los Angeles Chargers 22. Friday night the Inglewood High Sentinels hung 44 points on undefeated Huntington Beach to win their playoff opener. Two days later, in the same city, somebody put up 44 in Inglewood again. It just was not us."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are 0-8. That is 11 straight losses, tying the franchise record set in 2000, and we still have not won at SoFi since last December. The boos came down from the upper levels, and nobody in my section argued with them."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half had a pulse. Daiyan Henley intercepted C.J. Stroud, and Cameron Dicker kicked from 52, 33 and 43 to pull us to 10-9 with 5:11 left in the half. Then Stroud hit Tank Dell for 63 yards two plays later and Kayshon Boutte for 12 with 31 seconds left, and it was 24-9 at the break."
+        },
+        {
+          "type": "paragraph",
+          "text": "Justin Herbert never got a chance to breathe. He was sacked eight times, a career high, and finished 13 of 23 for 193 yards with an interception to Derek Stingley Jr. Our best drive of the third quarter got a 50-yard catch from KeAndre Lambert-Smith on fourth-and-1, then ended when Keaton Mitchell lost a fumble at the Houston 24. Omarion Hampton gave us some life early in the fourth with a 32-yard run, finishing with 60 yards on 13 carries, and the run game piled up 138 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "One moment to keep: Quentin Johnston caught a 58-yard touchdown from Herbert early in the fourth quarter, our first touchdown since Oct. 11 against Denver, ending a 37-drive drought. Herbert left late with a taped finger, and Derius Davis later caught a 15-yard score on fourth-and-13."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: Houston averaged 10 yards a throw and piled up 485 yards. We were 5 of 17 on third down with nine penalties. Next is a Monday night trip to Baltimore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inglewood High goes to Palos Verdes on Friday. Ride along with them. They know how to win around here."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Texans beat the Chargers 44-22 at SoFi Stadium; Los Angeles falls to 0-8 and ties a franchise record with 11 straight losses."
+        },
+        {
+          "type": "fact",
+          "text": "Justin Herbert was sacked a career-high eight times, and Cameron Dicker made field goals from 52, 33 and 43 yards."
+        },
+        {
+          "type": "fact",
+          "text": "Quentin Johnston's 58-yard catch ended a 37-drive touchdown drought dating to Oct. 11."
+        },
+        {
+          "type": "jab",
+          "text": "Inglewood saw 44 points twice this weekend. Only the high school kids scored them for the home side."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Texans 44, Chargers 22",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873046"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873046"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873046"
+        },
+        {
+          "label": "MaxPreps: Inglewood beats Huntington Beach in the playoffs, Fri., Nov. 6",
+          "url": "https://www.maxpreps.com/news/T0qO_YIpL0uGM9YwgCXOfQ/football-recap-huntington-beach-falls-short-of-inglewood-in-the-playoffs--how-to-watch.htm"
+        },
+        {
+          "label": "ESPN Chargers schedule (next game: at Ravens, Mon., Nov. 16)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/lac/los-angeles-chargers"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-hou",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "hou",
+      "team_ids": [
+        "hou"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873046",
+      "title": "Houston Texans vs Los Angeles Chargers Week 9: Stroud Throws Five 44-22",
+      "byline": "",
+      "matchup": "Final: Houston Texans (3-5) 44, Los Angeles Chargers (0-8) 22, Sun., Nov. 8, SoFi Stadium, Inglewood. Next: at Cleveland Browns, Sun., Nov. 15, 1:00 PM ET, Huntington Bank Field, Cleveland",
+      "date": "2026-11-08",
+      "word_count": 359,
+      "text": "Houston Texans 44, Los Angeles Chargers 22. Saturday morning back home, thousands of rubber ducks went racing down Buffalo Bayou in AFA's Bayou City Duck Race. On Sunday in Inglewood, C.J. Stroud sent five touchdown throws floating downstream, and the Chargers spent the afternoon chasing every one of them.\n\nStroud went 21 of 35 for 384 yards with five touchdowns and one interception, one short of the franchise record. Xavier Hutchinson caught the first from 17 on the opening drive. Tank Dell took a 63-yarder to the house for his first touchdown since his 2024 knee injury. Kayshon Boutte caught a 12-yarder with 31 seconds left in the half for a 24-9 lead, Nico Collins added a 13-yard score in the third, and Boutte took another one 63 yards early in the fourth.\n\nBoutte finished with four catches for 125 yards and Dell with four for 105. Dalton Schultz chipped in a 28-yard grab. Ka'imi Fairbairn made all three field goals, including a 56-yarder, and all five extra points. We came off the bye and played like a team that had rested up for exactly this.\n\nThen the defense. Eight sacks of Justin Herbert, a career high for him. Will Anderson Jr., Jadeveon Clowney and Sheldon Rankins had two each, and M.J. Stewart and Logan Hall got one apiece. Clowney's sack on fourth-and-2 ended one drive, Derek Stingley Jr. intercepted Herbert on the first series of the second half, and Calen Bullock fell on a Keaton Mitchell fumble at our 11 to kill another. Azeez Al-Shaair made nine tackles.\n\nThe honest part: the Chargers came in 0-7, so nobody is building a parade float. Stroud threw an interception to Daiyan Henley in the second quarter, we let Los Angeles end a 37-drive touchdown drought on Quentin Johnston's 58-yard catch, and the run defense gave up 138 yards. Woody Marks ran 18 times for 70 yards, and our own run game was ordinary. Stingley got hurt late, and that is the news to watch this week.\n\nStill, we are 3-5 and have won three of four after the 0-4 hole. Cleveland is next on Nov. 15. Somebody tell the ducks.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Houston Texans 44, Los Angeles Chargers 22. Saturday morning back home, thousands of rubber ducks went racing down Buffalo Bayou in AFA's Bayou City Duck Race. On Sunday in Inglewood, C.J. Stroud sent five touchdown throws floating downstream, and the Chargers spent the afternoon chasing every one of them."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stroud went 21 of 35 for 384 yards with five touchdowns and one interception, one short of the franchise record. Xavier Hutchinson caught the first from 17 on the opening drive. Tank Dell took a 63-yarder to the house for his first touchdown since his 2024 knee injury. Kayshon Boutte caught a 12-yarder with 31 seconds left in the half for a 24-9 lead, Nico Collins added a 13-yard score in the third, and Boutte took another one 63 yards early in the fourth."
+        },
+        {
+          "type": "paragraph",
+          "text": "Boutte finished with four catches for 125 yards and Dell with four for 105. Dalton Schultz chipped in a 28-yard grab. Ka'imi Fairbairn made all three field goals, including a 56-yarder, and all five extra points. We came off the bye and played like a team that had rested up for exactly this."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the defense. Eight sacks of Justin Herbert, a career high for him. Will Anderson Jr., Jadeveon Clowney and Sheldon Rankins had two each, and M.J. Stewart and Logan Hall got one apiece. Clowney's sack on fourth-and-2 ended one drive, Derek Stingley Jr. intercepted Herbert on the first series of the second half, and Calen Bullock fell on a Keaton Mitchell fumble at our 11 to kill another. Azeez Al-Shaair made nine tackles."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: the Chargers came in 0-7, so nobody is building a parade float. Stroud threw an interception to Daiyan Henley in the second quarter, we let Los Angeles end a 37-drive touchdown drought on Quentin Johnston's 58-yard catch, and the run defense gave up 138 yards. Woody Marks ran 18 times for 70 yards, and our own run game was ordinary. Stingley got hurt late, and that is the news to watch this week."
+        },
+        {
+          "type": "paragraph",
+          "text": "Still, we are 3-5 and have won three of four after the 0-4 hole. Cleveland is next on Nov. 15. Somebody tell the ducks."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Texans beat the Chargers 44-22 at SoFi Stadium; Houston is 3-5 and has won three of its last four."
+        },
+        {
+          "type": "fact",
+          "text": "C.J. Stroud threw for 384 yards and five touchdowns, including 63-yarders to Tank Dell and Kayshon Boutte."
+        },
+        {
+          "type": "fact",
+          "text": "Houston sacked Justin Herbert eight times, two each by Will Anderson Jr., Jadeveon Clowney and Sheldon Rankins."
+        },
+        {
+          "type": "jab",
+          "text": "Five touchdowns and eight sacks. The ducks on Buffalo Bayou had a closer race."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Texans 44, Chargers 22",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873046"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873046"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873046"
+        },
+        {
+          "label": "The Buzz Magazines: AFA's Bayou City Duck Race on Buffalo Bayou, Sat., Nov. 7",
+          "url": "https://thebuzzmagazines.com/articles/2026/11/weekend-roundup-nov-6-8-2026"
+        },
+        {
+          "label": "ESPN Texans schedule (next game: at Browns, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/hou/houston-texans"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-chi-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "chi",
+      "team_ids": [
+        "chi"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873050",
+      "title": "Chicago Bears vs Tampa Bay Buccaneers Week 9: Santos Saves It 27-24",
+      "byline": "",
+      "matchup": "Final: Chicago Bears (7-2) 27, Tampa Bay Buccaneers (3-6) 24, Sun., Nov. 8, Soldier Field, Chicago. Next (after a bye): vs. Saints, Sun., Nov. 22, 1:00 PM ET, Soldier Field, Chicago",
+      "date": "2026-11-08",
+      "word_count": 383,
+      "text": "Chicago Bears 27, Tampa Bay Buccaneers 24. On Sunday afternoon the Chicago History Museum bid adiós to its Aquí en Chicago exhibition with salsa, Ballet Folklórico de Chicago and a closing program on Clark Street. A few hours later at Soldier Field, the Bears nearly waved adiós to a lead they had held since the first quarter, and then Cairo Santos saved the night.\n\nI learned this game from the Monsters of the Midway, so I'll say it plain: our defense won this one and our quarterback nearly gave it away. The opening was all Chicago had been waiting for. Caleb Williams hit Rome Odunze from 9, then Luther Burden III took a short throw 56 yards to the house. 14-0 in the first quarter, and 60,470 of us were loud.\n\nThen the giveaways. Williams threw four interceptions, a career high per ESPN, two of them to Zyon McCollum. One came on the snap after Devin Bush stuffed Baker Mayfield on fourth-and-1. Cam Lewis intercepted Mayfield right before the half, and Williams gave it back on the very next play. A 17-3 lead became 17-6, and then 17-13 early in the third.\n\nThe defense kept bailing us out. Jaylon Johnson intercepted a Mayfield throw meant for Cade Otton and ran 67 yards for a touchdown, 24-13. Jeffery Simmons, Austin Booker and Shemar Turner each got a sack, Grady Jarrett and Daniel Hardy split another, and Tampa Bay went 2 of 12 on third down. Zavion Thomas even returned a kickoff 91 yards to the 1, only to lose it to a holding call.\n\nThen Burden fumbled at our 19 with 3:48 left, Bucky Irving scored, Mayfield ran in the two-point try, and it was 24-24. That's when Williams finally looked like the guy we believe in. He found Colston Loveland for 38 yards to the Tampa Bay 16, knelt twice, and Santos drilled a 38-yarder as time expired.\n\nWilliams finished 22 of 37 for 279 yards and two touchdown throws. Burden caught seven for 97, Odunze four for 60, Loveland four for 54. The honest part: five turnovers, nine penalties for 74 yards and 72 rushing yards. Against a better team, five giveaways is a loss.\n\nWe're 7-2 and 4-1 at home. The bye comes at the right time, then the Saints visit.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Chicago Bears 27, Tampa Bay Buccaneers 24. On Sunday afternoon the Chicago History Museum bid adiós to its Aquí en Chicago exhibition with salsa, Ballet Folklórico de Chicago and a closing program on Clark Street. A few hours later at Soldier Field, the Bears nearly waved adiós to a lead they had held since the first quarter, and then Cairo Santos saved the night."
+        },
+        {
+          "type": "paragraph",
+          "text": "I learned this game from the Monsters of the Midway, so I'll say it plain: our defense won this one and our quarterback nearly gave it away. The opening was all Chicago had been waiting for. Caleb Williams hit Rome Odunze from 9, then Luther Burden III took a short throw 56 yards to the house. 14-0 in the first quarter, and 60,470 of us were loud."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the giveaways. Williams threw four interceptions, a career high per ESPN, two of them to Zyon McCollum. One came on the snap after Devin Bush stuffed Baker Mayfield on fourth-and-1. Cam Lewis intercepted Mayfield right before the half, and Williams gave it back on the very next play. A 17-3 lead became 17-6, and then 17-13 early in the third."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense kept bailing us out. Jaylon Johnson intercepted a Mayfield throw meant for Cade Otton and ran 67 yards for a touchdown, 24-13. Jeffery Simmons, Austin Booker and Shemar Turner each got a sack, Grady Jarrett and Daniel Hardy split another, and Tampa Bay went 2 of 12 on third down. Zavion Thomas even returned a kickoff 91 yards to the 1, only to lose it to a holding call."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Burden fumbled at our 19 with 3:48 left, Bucky Irving scored, Mayfield ran in the two-point try, and it was 24-24. That's when Williams finally looked like the guy we believe in. He found Colston Loveland for 38 yards to the Tampa Bay 16, knelt twice, and Santos drilled a 38-yarder as time expired."
+        },
+        {
+          "type": "paragraph",
+          "text": "Williams finished 22 of 37 for 279 yards and two touchdown throws. Burden caught seven for 97, Odunze four for 60, Loveland four for 54. The honest part: five turnovers, nine penalties for 74 yards and 72 rushing yards. Against a better team, five giveaways is a loss."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 7-2 and 4-1 at home. The bye comes at the right time, then the Saints visit."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Bears beat the Buccaneers 27-24 at Soldier Field in Week 9 on Cairo Santos' 38-yard field goal as time expired."
+        },
+        {
+          "type": "fact",
+          "text": "Caleb Williams threw two touchdowns, to Rome Odunze and Luther Burden III, but was intercepted a career-high four times."
+        },
+        {
+          "type": "fact",
+          "text": "Jaylon Johnson returned an interception 67 yards for a touchdown, and Colston Loveland's 38-yard catch set up the winning kick."
+        },
+        {
+          "type": "jab",
+          "text": "Tampa Bay caught four of our throws and still went home 3-6. That's Chicago defense."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Bears 27, Buccaneers 24",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873050"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873050"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873050"
+        },
+        {
+          "label": "Chicago History Museum: Aquí en Chicago Closing Program, Sun., Nov. 8",
+          "url": "https://www.chicagohistory.org/event/aqui-en-chicago-closing-program/"
+        },
+        {
+          "label": "ESPN Bears schedule (next game: vs. Saints, Sun., Nov. 22)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/chi/chicago-bears"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-tb-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "tb",
+      "team_ids": [
+        "tb"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873050",
+      "title": "Tampa Bay Buccaneers vs Chicago Bears Week 9: Late Rally Wasted 27-24",
+      "byline": "",
+      "matchup": "Final: Chicago Bears (7-2) 27, Tampa Bay Buccaneers (3-6) 24, Sun., Nov. 8, Soldier Field, Chicago. Next (after a bye): at Detroit Lions, Sun., Nov. 22, 1:00 PM ET, Ford Field, Detroit",
+      "date": "2026-11-08",
+      "word_count": 352,
+      "text": "Chicago Bears 27, Tampa Bay Buccaneers 24. Back home, the 67th annual Gem, Mineral & Jewelry Show filled the Florida State Fairgrounds all weekend. At Soldier Field, our defense dug up four interceptions off Caleb Williams, real gems, and we still flew home with empty pockets.\n\nI sat through the orange-uniform years, so two rings mean I've earned the right to be honest. We were down 14-0 before our offense got going. Williams hit Rome Odunze from 9, then Luther Burden III took a short throw 56 yards. Then Kenny Gainwell caught a 44-yarder, Cade Otton converted a fourth-and-2, and a delay of game on fourth-and-goal pushed us back before Chase McLaughlin kicked a 27-yard field goal.\n\nZyon McCollum was the reason we stayed alive. Tykee Smith intercepted Williams at our 3. After we got stuffed on fourth-and-1, McCollum intercepted Williams on the very next snap, and he got him again just before the half after a replay reversal. Emeka Egbuka caught a 21-yarder and McLaughlin kicked from 21 as time ran out. 17-6.\n\nBaker Mayfield came out of the half swinging. Tez Johnson caught a 58-yarder to the 2, and Bucky Irving punched it in. Alex Anzalone then intercepted Williams, and two plays later Jaylon Johnson intercepted Mayfield and went 67 yards the other way. Instead of a chance to lead, we trailed 24-13.\n\nStill, nobody in this group quits. McLaughlin hit from 35, and Rueben Bain Jr. knocked the ball loose from Burden with 3:48 left. Ifeatu Melifonwu recovered it at the Chicago 21. Irving ran in from 6, Mayfield powered in the two-point try himself, and it was 24-24 with 2:51 to go. Then Williams found Colston Loveland for 38 yards, and Cairo Santos hit a 38-yarder as time expired.\n\nIrving ran 20 times for 97 yards and two scores. McLaughlin went 3 for 3. The honest part: Mayfield went 18 of 32 for 243 yards with two interceptions and four sacks, we went 2 of 12 on third down, and the pre-snap flags piled up. Five takeaways should win any game.\n\nWe're 3-6. After the bye, it's Detroit.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Chicago Bears 27, Tampa Bay Buccaneers 24. Back home, the 67th annual Gem, Mineral & Jewelry Show filled the Florida State Fairgrounds all weekend. At Soldier Field, our defense dug up four interceptions off Caleb Williams, real gems, and we still flew home with empty pockets."
+        },
+        {
+          "type": "paragraph",
+          "text": "I sat through the orange-uniform years, so two rings mean I've earned the right to be honest. We were down 14-0 before our offense got going. Williams hit Rome Odunze from 9, then Luther Burden III took a short throw 56 yards. Then Kenny Gainwell caught a 44-yarder, Cade Otton converted a fourth-and-2, and a delay of game on fourth-and-goal pushed us back before Chase McLaughlin kicked a 27-yard field goal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zyon McCollum was the reason we stayed alive. Tykee Smith intercepted Williams at our 3. After we got stuffed on fourth-and-1, McCollum intercepted Williams on the very next snap, and he got him again just before the half after a replay reversal. Emeka Egbuka caught a 21-yarder and McLaughlin kicked from 21 as time ran out. 17-6."
+        },
+        {
+          "type": "paragraph",
+          "text": "Baker Mayfield came out of the half swinging. Tez Johnson caught a 58-yarder to the 2, and Bucky Irving punched it in. Alex Anzalone then intercepted Williams, and two plays later Jaylon Johnson intercepted Mayfield and went 67 yards the other way. Instead of a chance to lead, we trailed 24-13."
+        },
+        {
+          "type": "paragraph",
+          "text": "Still, nobody in this group quits. McLaughlin hit from 35, and Rueben Bain Jr. knocked the ball loose from Burden with 3:48 left. Ifeatu Melifonwu recovered it at the Chicago 21. Irving ran in from 6, Mayfield powered in the two-point try himself, and it was 24-24 with 2:51 to go. Then Williams found Colston Loveland for 38 yards, and Cairo Santos hit a 38-yarder as time expired."
+        },
+        {
+          "type": "paragraph",
+          "text": "Irving ran 20 times for 97 yards and two scores. McLaughlin went 3 for 3. The honest part: Mayfield went 18 of 32 for 243 yards with two interceptions and four sacks, we went 2 of 12 on third down, and the pre-snap flags piled up. Five takeaways should win any game."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 3-6. After the bye, it's Detroit."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Bears beat the Buccaneers 27-24 on Cairo Santos' 38-yard field goal as time expired at Soldier Field in Week 9."
+        },
+        {
+          "type": "fact",
+          "text": "Tampa Bay intercepted Caleb Williams four times, two by Zyon McCollum, and forced five turnovers."
+        },
+        {
+          "type": "fact",
+          "text": "Bucky Irving ran for 97 yards and two touchdowns, the second tying it 24-24 with 2:51 left after Baker Mayfield's two-point run."
+        },
+        {
+          "type": "jab",
+          "text": "We intercepted their quarterback four times and still lost. Only the Bucs."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Bears 27, Buccaneers 24",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873050"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873050"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873050"
+        },
+        {
+          "label": "Tampa Newsroom: Tampa weekend events, Nov. 6-8, incl. 67th Annual Gem, Mineral & Jewelry Show",
+          "url": "https://tampanewsroom.com/2026/11/04/things-to-do-in-tampa-this-weekend-nov-6-8/"
+        },
+        {
+          "label": "ESPN Buccaneers schedule (next game: at Lions, Sun., Nov. 22)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/tb/tampa-bay-buccaneers"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-mia-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "mia",
+      "team_ids": [
+        "mia"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873042",
+      "title": "Miami Dolphins vs Detroit Lions Week 9: Red Zone Blues 9-19",
+      "byline": "",
+      "matchup": "Final: Detroit Lions (6-2) 19, Miami Dolphins (1-7) 9, Sun., Nov. 8, Hard Rock Stadium, Miami Gardens. Next: at Indianapolis Colts, Sun., Nov. 15, 1:00 PM ET, Lucas Oil Stadium, Indianapolis",
+      "date": "2026-11-08",
+      "word_count": 374,
+      "text": "Detroit Lions 19, Miami Dolphins 9, on a Sunday when the biggest finish in South Florida happened down at Homestead. Ryan Blaney won the NASCAR Cup Series Championship Race at Homestead-Miami Speedway with a move on the next-to-last lap, and Kyle Larson clinched his third Cup title. Up at Hard Rock Stadium, the Dolphins never found a late move of their own.\n\nThe day opened with a heartbreak that didn't count. On Detroit's first drive, Jordyn Brooks scooped up a Jared Goff fumble and ran 72 yards for a touchdown, and replay turned it into an incomplete throw. Josh Uche got home anyway, with a sack and a tip that rookie Chris Johnson intercepted. Zane Gonzalez's 34-yarder made it 3-3.\n\nJeff Hafley's defense did its job. Goff was sacked three times, by Uche, Jacob Rodriguez and Zeek Biggers, and Detroit finished with 270 yards. Brooks made 12 tackles. Gonzalez hit from 52 in the third quarter to make it 9-6, and for a while this felt like another one-score fight.\n\nThen came the fake punt. Bradley Pinion threw 46 yards to Kaytron Allen early in the fourth to put us at the Detroit 18, the best call of the afternoon. Two sacks later, we settled for a 34-yard Gonzalez field goal. That was the whole day in one drive: zero for three in the red zone and no touchdowns.\n\nMalik Willis went 13 of 25 for 128 yards with an interception, a Chuck Clark return that set up a Detroit field goal, and he was sacked three times. Ollie Gordon II carried 16 times for 55 yards. Caleb Douglas caught six balls for 70. We were flagged 11 times, and Gonzalez also clanked a 38-yarder off the right upright at the end of the first half.\n\nThe honest part: Jahmyr Gibbs went in from the 8 on fourth down late in the third, and that was the only touchdown anybody scored. We had come into this game with four straight one-score finishes, and a blueprint gets judged by whether it finally wins one of those. Not yet. We're 1-7 and still winless at home.\n\nNext Sunday we go to Indianapolis. Blaney found his move with a lap to go. We're still looking for ours.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Detroit Lions 19, Miami Dolphins 9, on a Sunday when the biggest finish in South Florida happened down at Homestead. Ryan Blaney won the NASCAR Cup Series Championship Race at Homestead-Miami Speedway with a move on the next-to-last lap, and Kyle Larson clinched his third Cup title. Up at Hard Rock Stadium, the Dolphins never found a late move of their own."
+        },
+        {
+          "type": "paragraph",
+          "text": "The day opened with a heartbreak that didn't count. On Detroit's first drive, Jordyn Brooks scooped up a Jared Goff fumble and ran 72 yards for a touchdown, and replay turned it into an incomplete throw. Josh Uche got home anyway, with a sack and a tip that rookie Chris Johnson intercepted. Zane Gonzalez's 34-yarder made it 3-3."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jeff Hafley's defense did its job. Goff was sacked three times, by Uche, Jacob Rodriguez and Zeek Biggers, and Detroit finished with 270 yards. Brooks made 12 tackles. Gonzalez hit from 52 in the third quarter to make it 9-6, and for a while this felt like another one-score fight."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the fake punt. Bradley Pinion threw 46 yards to Kaytron Allen early in the fourth to put us at the Detroit 18, the best call of the afternoon. Two sacks later, we settled for a 34-yard Gonzalez field goal. That was the whole day in one drive: zero for three in the red zone and no touchdowns."
+        },
+        {
+          "type": "paragraph",
+          "text": "Malik Willis went 13 of 25 for 128 yards with an interception, a Chuck Clark return that set up a Detroit field goal, and he was sacked three times. Ollie Gordon II carried 16 times for 55 yards. Caleb Douglas caught six balls for 70. We were flagged 11 times, and Gonzalez also clanked a 38-yarder off the right upright at the end of the first half."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: Jahmyr Gibbs went in from the 8 on fourth down late in the third, and that was the only touchdown anybody scored. We had come into this game with four straight one-score finishes, and a blueprint gets judged by whether it finally wins one of those. Not yet. We're 1-7 and still winless at home."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next Sunday we go to Indianapolis. Blaney found his move with a lap to go. We're still looking for ours."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Dolphins lost 19-9 to the Lions at Hard Rock Stadium and fell to 1-7, still winless at home."
+        },
+        {
+          "type": "fact",
+          "text": "Miami went zero for three in the red zone, and Zane Gonzalez kicked all three field goals, from 34, 52 and 34 yards."
+        },
+        {
+          "type": "fact",
+          "text": "Bradley Pinion's 46-yard fake-punt throw to Kaytron Allen set up a field goal; a Jordyn Brooks touchdown return was overturned."
+        },
+        {
+          "type": "jab",
+          "text": "Our punter had the longest completion of the day. Let that sink in."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Lions 19, Dolphins 9",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873042"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873042"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873042"
+        },
+        {
+          "label": "NASCAR.com: Blaney wins finale at Homestead, Larson clinches title, Nov. 8",
+          "url": "https://www.nascar.com/news-media/2026/11/08/cup-series-2026-homestead-miami-championship-race-results-recap/"
+        },
+        {
+          "label": "ESPN Dolphins schedule (next game: at Colts, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/mia/miami-dolphins"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-det-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "det",
+      "team_ids": [
+        "det"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873042",
+      "title": "Detroit Lions vs Miami Dolphins Week 9: Bates Kicks, Lions Grind 19-9",
+      "byline": "",
+      "matchup": "Final: Detroit Lions (6-2) 19, Miami Dolphins (1-7) 9, Sun., Nov. 8, Hard Rock Stadium, Miami Gardens. Next: vs New England Patriots, Sun., Nov. 15, 9:30 AM ET, FC Bayern Munich Stadium, Munich",
+      "date": "2026-11-08",
+      "word_count": 403,
+      "text": "Detroit Lions 19, Miami Dolphins 9, and this one was for No. 46. Back home on Saturday, Arboretum Detroit handed out free trees to city residents who pitched in to plant and care for its nursery. On Sunday at Hard Rock Stadium, the Lions did the same kind of work: no fireworks, just dig, plant and repeat until Miami ran out of daylight.\n\nThe whole week was about Jack Campbell, who went on injured reserve after the neck injury he suffered against Minnesota. Our guys walked into the stadium wearing his No. 46, his jersey hung in his locker, and fans held up Campbell Strong signs. You could see it in how this team tackled.\n\nThe offense was not pretty. On our first drive, Jordyn Brooks returned a Jared Goff fumble 72 yards for a touchdown before replay turned it into an incomplete throw. Chris Johnson intercepted a tipped ball later in the first quarter, and Goff was sacked three times. But Jake Bates kept planting kicks: 28 yards, 40, 33, and finally a 43-yarder with 4:28 left for a 19-9 lead.\n\nThe one touchdown was worth the wait. Up 9-6 late in the third, Goff hit Jameson Williams for 31 yards, our longest play of the day, and Jahmyr Gibbs took it in from the 8 on fourth down for 16-6. That was his 11th scrimmage touchdown of the season. Earlier, Jack Fox faked a punt and threw 11 yards to Tay Martin, and we went four for four on fourth down.\n\nThe defense won it. Chuck Clark intercepted Malik Willis on Miami's first drive of the second half and returned it 34 yards, setting up a Bates kick. Derrick Moore had two sacks, Alim McNeill added one, and Miami went zero for three in the red zone. Willis finished 13 of 25 for 128 yards.\n\nThe honest part: 270 yards for an offense that came in averaging 395.4 a game is not who we are. Gibbs needed 20 carries to get 74 yards. Amon-Ra St. Brown caught eight balls for 86, and Goff went 17 of 25 for 170 with no touchdown throws. We also gave up a 46-yard fake punt in the fourth that led to Miami's last field goal.\n\nStill, we're 6-2 with four straight wins, and Dan Campbell now has 54 regular-season wins, second in franchise history. Next Sunday it's New England in Munich. Somebody pack Jack's jersey.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Detroit Lions 19, Miami Dolphins 9, and this one was for No. 46. Back home on Saturday, Arboretum Detroit handed out free trees to city residents who pitched in to plant and care for its nursery. On Sunday at Hard Rock Stadium, the Lions did the same kind of work: no fireworks, just dig, plant and repeat until Miami ran out of daylight."
+        },
+        {
+          "type": "paragraph",
+          "text": "The whole week was about Jack Campbell, who went on injured reserve after the neck injury he suffered against Minnesota. Our guys walked into the stadium wearing his No. 46, his jersey hung in his locker, and fans held up Campbell Strong signs. You could see it in how this team tackled."
+        },
+        {
+          "type": "paragraph",
+          "text": "The offense was not pretty. On our first drive, Jordyn Brooks returned a Jared Goff fumble 72 yards for a touchdown before replay turned it into an incomplete throw. Chris Johnson intercepted a tipped ball later in the first quarter, and Goff was sacked three times. But Jake Bates kept planting kicks: 28 yards, 40, 33, and finally a 43-yarder with 4:28 left for a 19-9 lead."
+        },
+        {
+          "type": "paragraph",
+          "text": "The one touchdown was worth the wait. Up 9-6 late in the third, Goff hit Jameson Williams for 31 yards, our longest play of the day, and Jahmyr Gibbs took it in from the 8 on fourth down for 16-6. That was his 11th scrimmage touchdown of the season. Earlier, Jack Fox faked a punt and threw 11 yards to Tay Martin, and we went four for four on fourth down."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense won it. Chuck Clark intercepted Malik Willis on Miami's first drive of the second half and returned it 34 yards, setting up a Bates kick. Derrick Moore had two sacks, Alim McNeill added one, and Miami went zero for three in the red zone. Willis finished 13 of 25 for 128 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: 270 yards for an offense that came in averaging 395.4 a game is not who we are. Gibbs needed 20 carries to get 74 yards. Amon-Ra St. Brown caught eight balls for 86, and Goff went 17 of 25 for 170 with no touchdown throws. We also gave up a 46-yard fake punt in the fourth that led to Miami's last field goal."
+        },
+        {
+          "type": "paragraph",
+          "text": "Still, we're 6-2 with four straight wins, and Dan Campbell now has 54 regular-season wins, second in franchise history. Next Sunday it's New England in Munich. Somebody pack Jack's jersey."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Lions beat the Dolphins 19-9 at Hard Rock Stadium for their fourth straight win, playing for injured linebacker Jack Campbell."
+        },
+        {
+          "type": "fact",
+          "text": "Jake Bates made all four field goals, from 28, 40, 33 and 43 yards, and Jahmyr Gibbs scored the only touchdown on fourth down."
+        },
+        {
+          "type": "fact",
+          "text": "Detroit held Miami to zero touchdowns in three red-zone trips, with two sacks from Derrick Moore and an interception by Chuck Clark."
+        },
+        {
+          "type": "jab",
+          "text": "Miami ran a fake punt to the 18 and still came away with three points. That's our defense."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Lions 19, Dolphins 9",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873042"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873042"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873042"
+        },
+        {
+          "label": "Axios Detroit: Metro Detroit weekend guide, Nov. 6-8 (Arboretum Detroit free trees)",
+          "url": "https://www.axios.com/local/detroit/2026/11/05/things-to-do-in-metro-detroit-this-weekend-nov-6-8"
+        },
+        {
+          "label": "ESPN Lions schedule (next game: vs Patriots in Munich, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/det/detroit-lions"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-car-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "car",
+      "team_ids": [
+        "car"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873041",
+      "title": "Carolina Panthers vs Denver Broncos Week 9: Flagged at the 1 26-21",
+      "byline": "",
+      "matchup": "Final: Denver Broncos (7-2) 26, Carolina Panthers (3-5) 21, Sun., Nov. 8, Bank of America Stadium, Charlotte. Next: at Saints, Sun., Nov. 15, 1:00 PM ET, Caesars Superdome",
+      "date": "2026-11-08",
+      "word_count": 360,
+      "text": "Denver Broncos 26, Carolina Panthers 21. Up in Huntersville this weekend, the Carolina Renaissance Festival had knights riding in Tournament Jousting, where everybody knows the rules before the horses charge. At Bank of America Stadium on Sunday, we lost a game on a rule most of us had never seen used.\n\nBryce Young was good. He went 28 of 39 for 276 yards with three touchdown throws: 10 yards to Tommy Tremble before the half, 15 to Darren Waller for a 14-13 lead early in the third, and 4 to Tetairoa McMillan late. Waller caught eight for 90. Chuba Hubbard ran 16 times for 79 yards, including a 23-yard burst on fourth-and-1 that set up the first score.\n\nThen came the third quarter. We drove 87 yards to first-and-goal at the Denver 1. Young threw to the corner for Tremble, and it was ruled incomplete. We ran the next play. Then the officials stopped everybody and said Sean Payton had thrown his red flag before that snap. On review, Devon Key caught the ball after it came off Tremble's hand. Interception. Instead of going up eight, we watched Denver drive 80 yards the other way for a Jonah Coleman touchdown.\n\nPat Bryant's 26-yard score made it 26-14. Young answered with a 25-yard strike to John Metchie III on fourth-and-18, then found McMillan with 3:05 left. The defense got the ball back when a Bo Nix pitch got away for an 18-yard loss. At the Denver 36 with 1:24 left, Nik Bonitto came around the corner, stripped Young and recovered it himself. Denver ran out the clock.\n\nThe honest part: we committed 13 penalties for 119 yards, Ryan Fitzgerald missed a field goal in the second quarter, and a secondary playing without its top four cornerbacks drew interference flags all afternoon. Corey Thornton, one of the corners called up this week, still intercepted Nix at our 5, and Patrick Jones II had a sack. We were 3 of 3 on fourth down and 3 of 10 on third.\n\nThree straight losses, 3-5, and somehow still tied for first in the NFC South. Next is a trip to the Superdome. Keep Pounding.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Denver Broncos 26, Carolina Panthers 21. Up in Huntersville this weekend, the Carolina Renaissance Festival had knights riding in Tournament Jousting, where everybody knows the rules before the horses charge. At Bank of America Stadium on Sunday, we lost a game on a rule most of us had never seen used."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bryce Young was good. He went 28 of 39 for 276 yards with three touchdown throws: 10 yards to Tommy Tremble before the half, 15 to Darren Waller for a 14-13 lead early in the third, and 4 to Tetairoa McMillan late. Waller caught eight for 90. Chuba Hubbard ran 16 times for 79 yards, including a 23-yard burst on fourth-and-1 that set up the first score."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the third quarter. We drove 87 yards to first-and-goal at the Denver 1. Young threw to the corner for Tremble, and it was ruled incomplete. We ran the next play. Then the officials stopped everybody and said Sean Payton had thrown his red flag before that snap. On review, Devon Key caught the ball after it came off Tremble's hand. Interception. Instead of going up eight, we watched Denver drive 80 yards the other way for a Jonah Coleman touchdown."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pat Bryant's 26-yard score made it 26-14. Young answered with a 25-yard strike to John Metchie III on fourth-and-18, then found McMillan with 3:05 left. The defense got the ball back when a Bo Nix pitch got away for an 18-yard loss. At the Denver 36 with 1:24 left, Nik Bonitto came around the corner, stripped Young and recovered it himself. Denver ran out the clock."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: we committed 13 penalties for 119 yards, Ryan Fitzgerald missed a field goal in the second quarter, and a secondary playing without its top four cornerbacks drew interference flags all afternoon. Corey Thornton, one of the corners called up this week, still intercepted Nix at our 5, and Patrick Jones II had a sack. We were 3 of 3 on fourth down and 3 of 10 on third."
+        },
+        {
+          "type": "paragraph",
+          "text": "Three straight losses, 3-5, and somehow still tied for first in the NFC South. Next is a trip to the Superdome. Keep Pounding."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Broncos beat the Panthers 26-21 at Bank of America Stadium; Carolina falls to 3-5 with a third straight loss."
+        },
+        {
+          "type": "fact",
+          "text": "Bryce Young threw for 276 yards and three touchdowns, and Darren Waller caught eight balls for 90 yards."
+        },
+        {
+          "type": "fact",
+          "text": "A Denver challenge turned an incomplete throw at the 1 into a Devon Key interception, and Nik Bonitto's strip-sack with 1:24 left ended the last drive."
+        },
+        {
+          "type": "jab",
+          "text": "At the Renaissance Festival, at least you see the lance coming."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Broncos 26, Panthers 21",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873041"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873041"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873041"
+        },
+        {
+          "label": "Carolina Renaissance Festival: Fast Facts, weekends Oct. 3-Nov. 22, Huntersville",
+          "url": "https://www.carolina.renfestinfo.com/fastfacts"
+        },
+        {
+          "label": "ESPN Panthers schedule (next game: at Saints, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/car/carolina-panthers"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-den-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "den",
+      "team_ids": [
+        "den"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873041",
+      "title": "Denver Broncos vs Carolina Panthers Week 9: Bonitto Seals It 26-21",
+      "byline": "",
+      "matchup": "Final: Denver Broncos (7-2) 26, Carolina Panthers (3-5) 21, Sun., Nov. 8, Bank of America Stadium, Charlotte. Next: Raiders, Sun., Nov. 22, 4:25 PM ET, Empower Field at Mile High, Denver",
+      "date": "2026-11-08",
+      "word_count": 402,
+      "text": "Denver Broncos 26, Carolina Panthers 21, and that is five straight wins. Saturday was free day and night at the museums for Denver Arts Week, and the Denver Museum of Nature & Science has Mythic Creatures: Dragons, Unicorns & Mermaids on display. Somebody should add a case for this team. We have now won 16 straight one-score games, and on Sunday in Charlotte we found a way again.\n\nBo Nix went right at a Carolina secondary playing without its top four cornerbacks, and the flags piled up. Courtland Sutton caught a 3-yard touchdown, and Wil Lutz kicked from 26 and 48 for a 13-7 halftime lead. Nix finished 25 of 37 for 237 yards and two touchdowns.\n\nThe game turned on a flag of our own. Carolina was up 14-13 after Darren Waller's 15-yard catch and had first-and-goal at our 1 late in the third. Bryce Young threw to the corner, it was ruled incomplete, and the Panthers ran another play. Then the officials ruled that Sean Payton had thrown his red challenge flag before that snap. On review, Devon Key had caught the ball off Tommy Tremble's hand. Interception, our ball at the 20.\n\nFrom there we went 80 yards in 14 plays, and Jonah Coleman took it in from 9 to make it 19-14 with 10:17 left. The two-point throw fell incomplete. Next time out, Nix found Pat Bryant wide open down the seam for a 26-yard touchdown and a 26-14 lead.\n\nWe nearly handed it back. Young converted a fourth-and-18 with a 25-yard throw to John Metchie III and hit Tetairoa McMillan for a 4-yard score with 3:05 left. Then a Nix pitch got away from Coleman for an 18-yard loss and a punt. Enter Nik Bonitto. With 1:24 left he came around the corner, stripped Young and fell on the ball himself. Nix got the last first down on a third-down sneak.\n\nThe honest part: Carolina outgained us by 41 yards, Nix threw an interception at the Carolina 5, and we ran 27 times for 82 yards. Ja'Quan McMillian had a sack and two tackles for loss, and Jahdae Barron made eight tackles. This team keeps winning close, and some week the close ones will turn. Not this week.\n\nWe are 7-2 and alone atop the AFC West. Bye week, then the Raiders at Mile High on Nov. 22. The museum can keep its dragons. We have Bonitto.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Denver Broncos 26, Carolina Panthers 21, and that is five straight wins. Saturday was free day and night at the museums for Denver Arts Week, and the Denver Museum of Nature & Science has Mythic Creatures: Dragons, Unicorns & Mermaids on display. Somebody should add a case for this team. We have now won 16 straight one-score games, and on Sunday in Charlotte we found a way again."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bo Nix went right at a Carolina secondary playing without its top four cornerbacks, and the flags piled up. Courtland Sutton caught a 3-yard touchdown, and Wil Lutz kicked from 26 and 48 for a 13-7 halftime lead. Nix finished 25 of 37 for 237 yards and two touchdowns."
+        },
+        {
+          "type": "paragraph",
+          "text": "The game turned on a flag of our own. Carolina was up 14-13 after Darren Waller's 15-yard catch and had first-and-goal at our 1 late in the third. Bryce Young threw to the corner, it was ruled incomplete, and the Panthers ran another play. Then the officials ruled that Sean Payton had thrown his red challenge flag before that snap. On review, Devon Key had caught the ball off Tommy Tremble's hand. Interception, our ball at the 20."
+        },
+        {
+          "type": "paragraph",
+          "text": "From there we went 80 yards in 14 plays, and Jonah Coleman took it in from 9 to make it 19-14 with 10:17 left. The two-point throw fell incomplete. Next time out, Nix found Pat Bryant wide open down the seam for a 26-yard touchdown and a 26-14 lead."
+        },
+        {
+          "type": "paragraph",
+          "text": "We nearly handed it back. Young converted a fourth-and-18 with a 25-yard throw to John Metchie III and hit Tetairoa McMillan for a 4-yard score with 3:05 left. Then a Nix pitch got away from Coleman for an 18-yard loss and a punt. Enter Nik Bonitto. With 1:24 left he came around the corner, stripped Young and fell on the ball himself. Nix got the last first down on a third-down sneak."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: Carolina outgained us by 41 yards, Nix threw an interception at the Carolina 5, and we ran 27 times for 82 yards. Ja'Quan McMillian had a sack and two tackles for loss, and Jahdae Barron made eight tackles. This team keeps winning close, and some week the close ones will turn. Not this week."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are 7-2 and alone atop the AFC West. Bye week, then the Raiders at Mile High on Nov. 22. The museum can keep its dragons. We have Bonitto."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Broncos beat the Panthers 26-21 at Bank of America Stadium for their fifth straight win and go into the bye at 7-2."
+        },
+        {
+          "type": "fact",
+          "text": "A Sean Payton challenge turned a Carolina first-and-goal at the Denver 1 into a Devon Key interception, and Denver scored the next two touchdowns."
+        },
+        {
+          "type": "fact",
+          "text": "Nik Bonitto's strip-sack and recovery with 1:24 left sealed Denver's 16th straight one-score win."
+        },
+        {
+          "type": "jab",
+          "text": "Carolina had the ball at our 1 and a call in its favor. We had a red flag and better timing."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Broncos 26, Panthers 21",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873041"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873041"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873041"
+        },
+        {
+          "label": "Denverite: Denver Arts Week free museum day and night, Mythic Creatures at the Denver Museum of Nature & Science, Nov. 6-8",
+          "url": "https://denverite.com/2026/11/06/things-to-do-in-denver-this-weekend-nov-6-8-2026/"
+        },
+        {
+          "label": "ESPN Broncos schedule (next game: Raiders, Sun., Nov. 22)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/den/denver-broncos"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-kc-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "kc",
+      "team_ids": [
+        "kc"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873045",
+      "title": "Kansas City Chiefs vs New York Jets Week 9: Walker Runs Wild 35-12",
+      "byline": "",
+      "matchup": "Final: Kansas City Chiefs (6-2) 35, New York Jets (2-7) 12, Sun., Nov. 8, Arrowhead Stadium, Kansas City. Next: at Atlanta Falcons, Sun., Nov. 15, 1:00 PM ET, Mercedes-Benz Stadium, Atlanta",
+      "date": "2026-11-08",
+      "word_count": 443,
+      "text": "Kansas City Chiefs 35, New York Jets 12, and it was a weekend for second halves in this town. On Saturday at CPKC Stadium on the riverfront, the KC Current needed extra time and Michelle Cooper's 96th-minute penalty kick to beat Angel City FC and reach the NWSL semifinals for the third time. On Sunday at Arrowhead Stadium, the Chiefs went to the locker room up two points and came out and buried the Jets.\n\nThe first half had me pacing. Jason Sanders kicked four field goals before the break, from 23, 48, 49 and 54. Justin Fields lost a fumble on a third-and-1 sneak. Harrison Butker hit the right upright from 56, got a second try thanks to an offside flag, and missed from 51. Worst of all, David Bailey strip-sacked Patrick Mahomes twice in three plays, and Mahomes walked off holding his right arm. For a minute, all of Arrowhead held its breath.\n\nThen he flexed the elbow, made a few warmup throws and went right back in. Kenneth Walker III had already caught a 7-yarder to open the second quarter, and after Nick Bolton punched the ball away from Braelon Allen and Alohi Gilman recovered, Walker took a screen 25 yards for a score. That was the 14-12 halftime lead.\n\nThe third quarter settled it. Walker carried most of a 60-yard opening drive, and on fourth-and-goal at the 1, Mahomes flipped it to Travis Kelce, who walked in for 21-12. After a 69-yard punt return got wiped out by a flag, Walker carried six times on an 82-yard march and scored from the 2 for 28-12. The Jets finished that quarter with minus-9 yards. Emmett Johnson added a 6-yard run in the fourth.\n\nMahomes went 23 of 31 for 242 yards and two touchdown throws. Walker ran 18 times for 102 yards, caught four balls for 41 and scored three times, the third three-touchdown game of his career. Kelce caught four for 72, and he and Mahomes now have 9,365 yards together, the most ever by a quarterback and tight end, moving past Philip Rivers and Antonio Gates. George Karlaftis and Chris Jones each had two sacks, Ashton Gillotte got one, and Geno Smith went down five times. We went four for four in the red zone.\n\nThe honest part: two lost fumbles, another Butker miss, and a first half where a 2-7 team kicked its way to a lead. Xavier Worthy also left late with a left hamstring injury, and Mahomes was getting more tests on the elbow after the game. We're 6-2, still perfect at Arrowhead, and the two-game skid is done. Next Sunday we head to Atlanta.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Kansas City Chiefs 35, New York Jets 12, and it was a weekend for second halves in this town. On Saturday at CPKC Stadium on the riverfront, the KC Current needed extra time and Michelle Cooper's 96th-minute penalty kick to beat Angel City FC and reach the NWSL semifinals for the third time. On Sunday at Arrowhead Stadium, the Chiefs went to the locker room up two points and came out and buried the Jets."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half had me pacing. Jason Sanders kicked four field goals before the break, from 23, 48, 49 and 54. Justin Fields lost a fumble on a third-and-1 sneak. Harrison Butker hit the right upright from 56, got a second try thanks to an offside flag, and missed from 51. Worst of all, David Bailey strip-sacked Patrick Mahomes twice in three plays, and Mahomes walked off holding his right arm. For a minute, all of Arrowhead held its breath."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then he flexed the elbow, made a few warmup throws and went right back in. Kenneth Walker III had already caught a 7-yarder to open the second quarter, and after Nick Bolton punched the ball away from Braelon Allen and Alohi Gilman recovered, Walker took a screen 25 yards for a score. That was the 14-12 halftime lead."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter settled it. Walker carried most of a 60-yard opening drive, and on fourth-and-goal at the 1, Mahomes flipped it to Travis Kelce, who walked in for 21-12. After a 69-yard punt return got wiped out by a flag, Walker carried six times on an 82-yard march and scored from the 2 for 28-12. The Jets finished that quarter with minus-9 yards. Emmett Johnson added a 6-yard run in the fourth."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mahomes went 23 of 31 for 242 yards and two touchdown throws. Walker ran 18 times for 102 yards, caught four balls for 41 and scored three times, the third three-touchdown game of his career. Kelce caught four for 72, and he and Mahomes now have 9,365 yards together, the most ever by a quarterback and tight end, moving past Philip Rivers and Antonio Gates. George Karlaftis and Chris Jones each had two sacks, Ashton Gillotte got one, and Geno Smith went down five times. We went four for four in the red zone."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: two lost fumbles, another Butker miss, and a first half where a 2-7 team kicked its way to a lead. Xavier Worthy also left late with a left hamstring injury, and Mahomes was getting more tests on the elbow after the game. We're 6-2, still perfect at Arrowhead, and the two-game skid is done. Next Sunday we head to Atlanta."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Chiefs beat the Jets 35-12 at Arrowhead Stadium, snapping a two-game skid and moving to 6-2."
+        },
+        {
+          "type": "fact",
+          "text": "Kenneth Walker III ran for 102 yards and scored three touchdowns, two on catches from Patrick Mahomes."
+        },
+        {
+          "type": "fact",
+          "text": "Travis Kelce and Mahomes reached 9,365 yards together, the most by a quarterback and tight end in NFL history."
+        },
+        {
+          "type": "jab",
+          "text": "The Jets kicked four field goals and still lost by 23. The Current only needed one kick."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Chiefs 35, Jets 12",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873045"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873045"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873045"
+        },
+        {
+          "label": "KC Current: Current beats Angel City FC in NWSL quarterfinal at CPKC Stadium, Nov. 7",
+          "url": "https://www.kansascitycurrent.com/news/match-recap-kansas-city-current-bests-angel-city-fc-1-0-in-n"
+        },
+        {
+          "label": "ESPN Chiefs schedule (next game: at Falcons, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/kc/kansas-city-chiefs"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-nyj-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "nyj",
+      "team_ids": [
+        "nyj"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873045",
+      "title": "New York Jets vs Kansas City Chiefs Week 9: No End Zone 12-35",
+      "byline": "",
+      "matchup": "Final: Kansas City Chiefs (6-2) 35, New York Jets (2-7) 12, Sun., Nov. 8, Arrowhead Stadium, Kansas City. Next: vs Buffalo Bills, Sun., Nov. 15, 1:00 PM ET, MetLife Stadium, East Rutherford",
+      "date": "2026-11-08",
+      "word_count": 430,
+      "text": "Kansas City Chiefs 35, New York Jets 12, and the best performers from our corner of Jersey this weekend wore band uniforms. On Saturday the USBands Open Class Championships filled MetLife Stadium from 9 in the morning until almost 11 at night, and the bands from West Milford and Edison won their divisions in our building. On Sunday at Arrowhead Stadium, the Jets marched up and down the field and never once reached the end zone.\n\nFor one half, I believed. Jason Sanders kicked field goals from 23, 48, 49 and 54 yards, four in the first half alone, one week after he made four against the Raiders. David Bailey was a wrecking ball, strip-sacking Patrick Mahomes twice in three plays, and Will McDonald IV recovered the second one at the Kansas City 30. We also won a challenge that turned a Justin Fields sneak into a takeaway, and we went to the locker room down only 14-12.\n\nHere's the part that hurts. That takeaway at the 30 turned into a face mask penalty, a Chris Jones sack and a 53-yard miss wide left. Points left on the field right before halftime. And the end zone never came. We were zero for one in the red zone, two for 12 on third down and zero for two on fourth down.\n\nThen the second half hit us like a bad Turnpike merge. Kansas City scored on its first drive, Travis Kelce taking a flip from Mahomes in from the 1 on fourth-and-goal, and Kenneth Walker III ran in from the 2 later in the third for 28-12. We finished that quarter with minus-9 yards. Emmett Johnson added a 6-yard run in the fourth.\n\nGeno Smith went 18 of 32 for 165 yards with no interceptions, but he was sacked five times for 42 yards. Breece Hall, back from his quad injury for the first time in five games, ran 15 times for 61 yards, and Braelon Allen added 33. Omar Cooper Jr. caught eight balls for 58 yards, and Kenyon Sadiq caught four for 49. We finished with 229 yards. Bailey had nine tackles, two sacks and three tackles for loss.\n\nThe honest part: Walker ran for 102 yards and scored three times, Mahomes went 23 of 31, and Kansas City went four for four in the red zone. We are 2-7, losers of four straight, and the Chiefs have now beaten us three meetings in a row.\n\nBuffalo comes to MetLife Stadium next Sunday. The bands got to finish their show in our house. We need to finish one drive.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Kansas City Chiefs 35, New York Jets 12, and the best performers from our corner of Jersey this weekend wore band uniforms. On Saturday the USBands Open Class Championships filled MetLife Stadium from 9 in the morning until almost 11 at night, and the bands from West Milford and Edison won their divisions in our building. On Sunday at Arrowhead Stadium, the Jets marched up and down the field and never once reached the end zone."
+        },
+        {
+          "type": "paragraph",
+          "text": "For one half, I believed. Jason Sanders kicked field goals from 23, 48, 49 and 54 yards, four in the first half alone, one week after he made four against the Raiders. David Bailey was a wrecking ball, strip-sacking Patrick Mahomes twice in three plays, and Will McDonald IV recovered the second one at the Kansas City 30. We also won a challenge that turned a Justin Fields sneak into a takeaway, and we went to the locker room down only 14-12."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's the part that hurts. That takeaway at the 30 turned into a face mask penalty, a Chris Jones sack and a 53-yard miss wide left. Points left on the field right before halftime. And the end zone never came. We were zero for one in the red zone, two for 12 on third down and zero for two on fourth down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the second half hit us like a bad Turnpike merge. Kansas City scored on its first drive, Travis Kelce taking a flip from Mahomes in from the 1 on fourth-and-goal, and Kenneth Walker III ran in from the 2 later in the third for 28-12. We finished that quarter with minus-9 yards. Emmett Johnson added a 6-yard run in the fourth."
+        },
+        {
+          "type": "paragraph",
+          "text": "Geno Smith went 18 of 32 for 165 yards with no interceptions, but he was sacked five times for 42 yards. Breece Hall, back from his quad injury for the first time in five games, ran 15 times for 61 yards, and Braelon Allen added 33. Omar Cooper Jr. caught eight balls for 58 yards, and Kenyon Sadiq caught four for 49. We finished with 229 yards. Bailey had nine tackles, two sacks and three tackles for loss."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: Walker ran for 102 yards and scored three times, Mahomes went 23 of 31, and Kansas City went four for four in the red zone. We are 2-7, losers of four straight, and the Chiefs have now beaten us three meetings in a row."
+        },
+        {
+          "type": "paragraph",
+          "text": "Buffalo comes to MetLife Stadium next Sunday. The bands got to finish their show in our house. We need to finish one drive."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Jets lost 35-12 to the Chiefs at Arrowhead Stadium and fell to 2-7 with a fourth straight loss."
+        },
+        {
+          "type": "fact",
+          "text": "Jason Sanders kicked four first-half field goals, from 23, 48, 49 and 54 yards, for all of New York's points."
+        },
+        {
+          "type": "fact",
+          "text": "David Bailey had two sacks, both strip-sacks of Patrick Mahomes, but Geno Smith was sacked five times."
+        },
+        {
+          "type": "jab",
+          "text": "Four field goals, zero touchdowns. The marching bands found the end zone more often than we did."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Chiefs 35, Jets 12",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873045"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873045"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873045"
+        },
+        {
+          "label": "USBands: Open Class Championships at MetLife Stadium, Nov. 7, schedule and results",
+          "url": "https://usbands.org/events/details.php?ID=1451"
+        },
+        {
+          "label": "ESPN Jets schedule (next game: vs Bills, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/nyj/new-york-jets"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-sea-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "sea",
+      "team_ids": [
+        "sea"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873048",
+      "title": "Seattle Seahawks vs Arizona Cardinals Week 9: Barner Does It All 17-3",
+      "byline": "",
+      "matchup": "Final: Seattle Seahawks (5-4) 17, Arizona Cardinals (3-6) 3, Sun., Nov. 8, Lumen Field, Seattle. Next: at Raiders, Sun., Nov. 15, 4:05 PM ET, Allegiant Stadium",
+      "date": "2026-11-08",
+      "word_count": 380,
+      "text": "Seattle Seahawks 17, Arizona Cardinals 3. Up the road in Ballard, the Seattle Sauna Festival filled the National Nordic Museum all weekend, saunas on one side and cold plunges on the other. At Lumen Field, our backup quarterback gave us the same treatment: a little heat, a little ice, and a win we needed after Monday night.\n\nI still have the Super Bowl parade confetti in a jar in my garage, and I'm not apologizing for checking on it after a 34-17 loss to Chicago. With Sam Darnold out, it was on Darnold's fill-in, the veteran who already beat Arizona in Week 2. He went 19 of 28 for 175 yards, a touchdown, no interceptions and no sacks, and ESPN says he hurt his oblique during the game. He went into the medical tent in the third quarter and never left the game.\n\nAJ Barner was the story. Arizona kicked a field goal on its opening drive, and Barner took a direct snap and dove in from 1 early in the second quarter. Then with 32 seconds left in the half, Jaxon Smith-Njigba drew a 29-yard interference call, caught an 18-yarder, and the fill-in found Barner from 7 with 15 seconds left. The catch survived review. Those were his first two touchdowns this season.\n\nSmith-Njigba caught seven for 51, and ESPN says he's the first receiver in the NFL to reach 1,000 yards this season, joining Steve Largent and Tyler Lockett as the only Seahawks with three straight 1,000-yard years. Zach Charbonnet ran 16 times for 77. Jason Myers hit a 45-yarder in the third for the 17-3 final.\n\nThe defense did the rest. Arizona got 198 yards. Byron Murphy II, DeMarcus Lawrence and Dante Fowler Jr. each had a sack, and Derick Hall made three tackles for loss. The big one came with 4:39 left: fourth-and-goal from our 2, Gardner Minshew looked for Trey McBride, and Nick Emmanwori broke it up.\n\nThe honest part: nine penalties for 83 yards, holding calls that wiped out gains, including a 14-yard Jadarian Price run, and a roughness flag that erased a 25-yard catch. We scored three points after halftime. Against a better team, that's a problem.\n\nThat's 11 straight wins against Arizona, and we're 5-4. Next is a trip to the Raiders.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Seattle Seahawks 17, Arizona Cardinals 3. Up the road in Ballard, the Seattle Sauna Festival filled the National Nordic Museum all weekend, saunas on one side and cold plunges on the other. At Lumen Field, our backup quarterback gave us the same treatment: a little heat, a little ice, and a win we needed after Monday night."
+        },
+        {
+          "type": "paragraph",
+          "text": "I still have the Super Bowl parade confetti in a jar in my garage, and I'm not apologizing for checking on it after a 34-17 loss to Chicago. With Sam Darnold out, it was on Darnold's fill-in, the veteran who already beat Arizona in Week 2. He went 19 of 28 for 175 yards, a touchdown, no interceptions and no sacks, and ESPN says he hurt his oblique during the game. He went into the medical tent in the third quarter and never left the game."
+        },
+        {
+          "type": "paragraph",
+          "text": "AJ Barner was the story. Arizona kicked a field goal on its opening drive, and Barner took a direct snap and dove in from 1 early in the second quarter. Then with 32 seconds left in the half, Jaxon Smith-Njigba drew a 29-yard interference call, caught an 18-yarder, and the fill-in found Barner from 7 with 15 seconds left. The catch survived review. Those were his first two touchdowns this season."
+        },
+        {
+          "type": "paragraph",
+          "text": "Smith-Njigba caught seven for 51, and ESPN says he's the first receiver in the NFL to reach 1,000 yards this season, joining Steve Largent and Tyler Lockett as the only Seahawks with three straight 1,000-yard years. Zach Charbonnet ran 16 times for 77. Jason Myers hit a 45-yarder in the third for the 17-3 final."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense did the rest. Arizona got 198 yards. Byron Murphy II, DeMarcus Lawrence and Dante Fowler Jr. each had a sack, and Derick Hall made three tackles for loss. The big one came with 4:39 left: fourth-and-goal from our 2, Gardner Minshew looked for Trey McBride, and Nick Emmanwori broke it up."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: nine penalties for 83 yards, holding calls that wiped out gains, including a 14-yard Jadarian Price run, and a roughness flag that erased a 25-yard catch. We scored three points after halftime. Against a better team, that's a problem."
+        },
+        {
+          "type": "paragraph",
+          "text": "That's 11 straight wins against Arizona, and we're 5-4. Next is a trip to the Raiders."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Seahawks beat the Cardinals 17-3 at Lumen Field in Week 9 without Sam Darnold and are 5-4."
+        },
+        {
+          "type": "fact",
+          "text": "AJ Barner ran for a 1-yard touchdown and caught a 7-yard touchdown, his first two scores this season."
+        },
+        {
+          "type": "fact",
+          "text": "Seattle held Arizona to 198 yards and stopped a fourth-and-goal from the 2; it's 11 straight wins against the Cardinals."
+        },
+        {
+          "type": "jab",
+          "text": "Arizona brought a new quarterback. We brought our backup and the same old result."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Seahawks 17, Cardinals 3",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873048"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873048"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873048"
+        },
+        {
+          "label": "Seattle Sauna Festival, National Nordic Museum, Nov. 7-8, 2026",
+          "url": "https://www.seattlesaunafestival.com/"
+        },
+        {
+          "label": "ESPN Seahawks schedule (next game: at Raiders, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/sea/seattle-seahawks"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ari-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "ari",
+      "team_ids": [
+        "ari"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873048",
+      "title": "Arizona Cardinals vs Seattle Seahawks Week 9: No Magic in Seattle 17-3",
+      "byline": "",
+      "matchup": "Final: Seattle Seahawks (5-4) 17, Arizona Cardinals (3-6) 3, Sun., Nov. 8, Lumen Field, Seattle. Next: vs. Los Angeles Rams, Sun., Nov. 15, 4:05 PM ET, State Farm Stadium, Glendale",
+      "date": "2026-11-08",
+      "word_count": 352,
+      "text": "Seattle Seahawks 17, Arizona Cardinals 3. Back in Phoenix, the Desert Botanical Garden spent the weekend on Día de Muertos, marigolds, ofrendas and a Muerte Viva procession honoring the ones who came before. In Seattle, we got a reminder of a streak I'd rather bury: 11 straight losses to the Seahawks.\n\nI was a kid when Larry Fitzgerald nearly carried us to a title, and I've been waiting on that feeling ever since. For one drive it showed up. Seattle pinned us at our own 1, and Gardner Minshew marched us 89 yards anyway. Reggie Virgil caught a 25-yarder on third-and-4 that held up on review, a roughness flag moved us closer, and Chad Ryland kicked a 28-yard field goal for a 3-0 lead.\n\nThat was the last time we scored. Minshew, who Seattle folks still remember from his Washington State days, went 21 of 30 for 166 yards and got sacked three times. Trey McBride caught seven for 54 and Michael Wilson caught six for 60. Tyler Allgeier ground out 46 yards on 17 carries.\n\nThe flags killed us. Nine penalties for 97 yards. Max Melton was flagged for 29 yards of interference with 32 seconds left in the half, Seattle's backup quarterback hit Jaxon Smith-Njigba for 18, and AJ Barner caught a 7-yard touchdown with 15 seconds left. 14-3 at the break instead of 7-3. Another interference flag fed the drive for Jason Myers' 45-yard field goal in the third.\n\nWe had one real chance left. Down 17-3, Minshew put together a 14-play, 76-yard drive, and he hit McBride for 15 yards on fourth-and-1. Then on fourth-and-goal from the 2, he went to McBride again and Nick Emmanwori broke it up. Zero for two in the red zone. That is the game.\n\nThe honest part: no turnovers, and Budda Baker and Andrew Wingard combined for 23 tackles, so the defense held up for most of the afternoon. Roy Lopez hurt a toe early and did not come back. The offense managed 198 yards.\n\nWe're 3-6. The Rams come to State Farm Stadium next Sunday, and Minshew needs a home game.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Seattle Seahawks 17, Arizona Cardinals 3. Back in Phoenix, the Desert Botanical Garden spent the weekend on Día de Muertos, marigolds, ofrendas and a Muerte Viva procession honoring the ones who came before. In Seattle, we got a reminder of a streak I'd rather bury: 11 straight losses to the Seahawks."
+        },
+        {
+          "type": "paragraph",
+          "text": "I was a kid when Larry Fitzgerald nearly carried us to a title, and I've been waiting on that feeling ever since. For one drive it showed up. Seattle pinned us at our own 1, and Gardner Minshew marched us 89 yards anyway. Reggie Virgil caught a 25-yarder on third-and-4 that held up on review, a roughness flag moved us closer, and Chad Ryland kicked a 28-yard field goal for a 3-0 lead."
+        },
+        {
+          "type": "paragraph",
+          "text": "That was the last time we scored. Minshew, who Seattle folks still remember from his Washington State days, went 21 of 30 for 166 yards and got sacked three times. Trey McBride caught seven for 54 and Michael Wilson caught six for 60. Tyler Allgeier ground out 46 yards on 17 carries."
+        },
+        {
+          "type": "paragraph",
+          "text": "The flags killed us. Nine penalties for 97 yards. Max Melton was flagged for 29 yards of interference with 32 seconds left in the half, Seattle's backup quarterback hit Jaxon Smith-Njigba for 18, and AJ Barner caught a 7-yard touchdown with 15 seconds left. 14-3 at the break instead of 7-3. Another interference flag fed the drive for Jason Myers' 45-yard field goal in the third."
+        },
+        {
+          "type": "paragraph",
+          "text": "We had one real chance left. Down 17-3, Minshew put together a 14-play, 76-yard drive, and he hit McBride for 15 yards on fourth-and-1. Then on fourth-and-goal from the 2, he went to McBride again and Nick Emmanwori broke it up. Zero for two in the red zone. That is the game."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: no turnovers, and Budda Baker and Andrew Wingard combined for 23 tackles, so the defense held up for most of the afternoon. Roy Lopez hurt a toe early and did not come back. The offense managed 198 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 3-6. The Rams come to State Farm Stadium next Sunday, and Minshew needs a home game."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Seahawks beat the Cardinals 17-3 at Lumen Field in Week 9, Arizona's 11th straight loss to Seattle."
+        },
+        {
+          "type": "fact",
+          "text": "Gardner Minshew went 21 of 30 for 166 yards in his first game as the No. 1 quarterback; Arizona was 0 for 2 in the red zone."
+        },
+        {
+          "type": "fact",
+          "text": "The Cardinals were stopped on fourth-and-goal from the 2 in the fourth quarter and had nine penalties for 97 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Eleven in a row. At this point Seattle owes us a thank-you card."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Seahawks 17, Cardinals 3",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873048"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873048"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873048"
+        },
+        {
+          "label": "Desert Botanical Garden: Celebrate Día de Muertos at the Garden, Nov. 6-9",
+          "url": "https://dbg.org/blog/celebrate-dia-de-muertos/"
+        },
+        {
+          "label": "ESPN Cardinals schedule (next game: vs. Rams, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/ari/arizona-cardinals"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-wsh-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "wsh",
+      "team_ids": [
+        "wsh"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873043",
+      "title": "Washington Commanders vs Los Angeles Rams Week 9: Late Drives Stall 20-13",
+      "byline": "",
+      "matchup": "Final: Los Angeles Rams (5-4) 20, Washington Commanders (2-5-1) 13, Sun., Nov. 8, Northwest Stadium, Landover. Next: at New York Giants, Thu., Nov. 12, 8:15 PM ET, MetLife Stadium, East Rutherford",
+      "date": "2026-11-08",
+      "word_count": 369,
+      "text": "Los Angeles Rams 20, Washington Commanders 13. Sunday morning the National Veterans Parade 5K went off at 8 on Constitution Avenue, and at noon the parade marched from the National Archives toward the White House. A few hours later in Landover, our offense spent the second half marching too. It just never got all the way there.\n\nThe first half was ours. Drew Stevens hit from 37 on the opening drive. Jayden Daniels dumped it to Rachaad White, who rumbled 45 yards to the Rams 7, and on the next snap Daniels found Van Jefferson for a touchdown and a 10-3 lead. Nick Cross ripped the ball loose from Puka Nacua and came up with it.\n\nThen Myles Garrett showed up. His strip-sack of Daniels set up a Rams field goal at the end of the half, and Blake Corum's 1-yard run on the first drive of the third quarter gave Los Angeles a 13-10 lead. Cross answered by intercepting Matthew Stafford, and Stevens tied it 13-13 from 41. That was the last time we scored. Three points in the final 44 minutes.\n\nNacua was the problem all day: 14 catches, 150 yards and the go-ahead touchdown in the corner early in the fourth. Frankie Luvu made 15 tackles and got a sack, Sonny Styles had 13 tackles, and Cross broke up three throws, but Stafford kept going to the same guy and we never found an answer.\n\nWe had two chances late. With 2:31 left, Garrett sacked Daniels for a 12-yard loss on third down near midfield, and the drive died on fourth. Then, from our own 9 with 52 seconds left, Daniels hit Stefon Diggs for 42 and got us to the Rams 31. The last play was a 20-yard catch by Chig Okonkwo that became a fumble, a White recovery, another fumble and a Rams recovery. That was it.\n\nThe honest part: Daniels was good, 24 of 35 for 274 yards and a touchdown with no interceptions. But four sacks, 60 rushing yards on 19 carries and two lost fumbles will not get it done. We are 2-5-1, and the Giants are waiting at MetLife on Thursday night. Short week. Long walk back up Constitution Avenue.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Los Angeles Rams 20, Washington Commanders 13. Sunday morning the National Veterans Parade 5K went off at 8 on Constitution Avenue, and at noon the parade marched from the National Archives toward the White House. A few hours later in Landover, our offense spent the second half marching too. It just never got all the way there."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half was ours. Drew Stevens hit from 37 on the opening drive. Jayden Daniels dumped it to Rachaad White, who rumbled 45 yards to the Rams 7, and on the next snap Daniels found Van Jefferson for a touchdown and a 10-3 lead. Nick Cross ripped the ball loose from Puka Nacua and came up with it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Myles Garrett showed up. His strip-sack of Daniels set up a Rams field goal at the end of the half, and Blake Corum's 1-yard run on the first drive of the third quarter gave Los Angeles a 13-10 lead. Cross answered by intercepting Matthew Stafford, and Stevens tied it 13-13 from 41. That was the last time we scored. Three points in the final 44 minutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nacua was the problem all day: 14 catches, 150 yards and the go-ahead touchdown in the corner early in the fourth. Frankie Luvu made 15 tackles and got a sack, Sonny Styles had 13 tackles, and Cross broke up three throws, but Stafford kept going to the same guy and we never found an answer."
+        },
+        {
+          "type": "paragraph",
+          "text": "We had two chances late. With 2:31 left, Garrett sacked Daniels for a 12-yard loss on third down near midfield, and the drive died on fourth. Then, from our own 9 with 52 seconds left, Daniels hit Stefon Diggs for 42 and got us to the Rams 31. The last play was a 20-yard catch by Chig Okonkwo that became a fumble, a White recovery, another fumble and a Rams recovery. That was it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: Daniels was good, 24 of 35 for 274 yards and a touchdown with no interceptions. But four sacks, 60 rushing yards on 19 carries and two lost fumbles will not get it done. We are 2-5-1, and the Giants are waiting at MetLife on Thursday night. Short week. Long walk back up Constitution Avenue."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Rams beat the Commanders 20-13 at Northwest Stadium; Washington falls to 2-5-1."
+        },
+        {
+          "type": "fact",
+          "text": "Jayden Daniels threw for 274 yards and a 7-yard touchdown to Van Jefferson, but Washington scored three points in the final 44 minutes."
+        },
+        {
+          "type": "fact",
+          "text": "Myles Garrett had three sacks, including a strip-sack, and Puka Nacua caught 14 balls for 150 yards."
+        },
+        {
+          "type": "jab",
+          "text": "The parade made it all the way to the White House. Our last drive made it to the Rams 31."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Rams 20, Commanders 13",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873043"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873043"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873043"
+        },
+        {
+          "label": "National Veterans Parade: parade and NVP 5K on Constitution Avenue, Sun., Nov. 8",
+          "url": "https://nationalveteransparade.org/"
+        },
+        {
+          "label": "ESPN Commanders schedule (next game: at Giants, Thu., Nov. 12)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/wsh/washington-commanders"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-lar-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "lar",
+      "team_ids": [
+        "lar"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873043",
+      "title": "Los Angeles Rams vs Washington Commanders Week 9: Puka Keeps Score 20-13",
+      "byline": "",
+      "matchup": "Final: Los Angeles Rams (5-4) 20, Washington Commanders (2-5-1) 13, Sun., Nov. 8, Northwest Stadium, Landover. Next: at Arizona Cardinals, Sun., Nov. 15, 4:05 PM ET, State Farm Stadium, Glendale",
+      "date": "2026-11-08",
+      "word_count": 373,
+      "text": "Los Angeles Rams 20, Washington Commanders 13, and that is three wins in a row. Back home Sunday night, Ms. Lauryn Hill and Wyclef Jean had the Hollywood Bowl for the 30th anniversary of The Fugees' The Score. Three time zones east in Landover, Puka Nacua spent the afternoon keeping his own score: 14 catches, 150 yards and the touchdown that won it.\n\nMatthew Stafford looked Puka's way 19 times, and we needed every one. The winner came early in the fourth quarter with the game tied 13-13. Second-and-goal from the 7, Stafford threw it to the corner, Nacua went up through contact and came down with it. That was the last scoring of the day.\n\nThen there is Myles Garrett. First game back since the opener in Australia, seven games lost to a knee, and he had three sacks. One was a strip of Jayden Daniels late in the second quarter that Omar Speights fell on at the Washington 46, and Brandon McManus kicked a 20-yarder as the half ended. Another was a 12-yard loss on third down with 2:31 left that ended Washington's best chance to tie it. Braden Fiske and Shaun Dolac split one more.\n\nBlake Corum gave us our first lead, 13-10, plowing in from the 1 on the opening drive of the third quarter after Jordan Whittington's 29-yard kickoff return. Corum ran 11 times for 58 yards and Kyren Williams 15 times for 45. We were 3 of 3 on fourth down, and Kam Curl made eight tackles.\n\nThe honest part: this was not pretty. Stafford went 26 of 43 for 228 yards with an interception, Nacua lost a fumble, we were 3 of 14 on third down, and 10 penalties cost us 70 yards. Washington got the ball back at its own 9 with 52 seconds left, Daniels hit Stefon Diggs for 42, and the final play turned into a fumble pile that Byron Young came out of holding the ball. Guard Steve Avila left with a hamstring injury.\n\nStill, 5-4 puts us above .500 for the first time all season, and the defense held Washington to a field goal in the last 44 minutes. Arizona is next. Somebody queue up The Score for the flight home.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Los Angeles Rams 20, Washington Commanders 13, and that is three wins in a row. Back home Sunday night, Ms. Lauryn Hill and Wyclef Jean had the Hollywood Bowl for the 30th anniversary of The Fugees' The Score. Three time zones east in Landover, Puka Nacua spent the afternoon keeping his own score: 14 catches, 150 yards and the touchdown that won it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Matthew Stafford looked Puka's way 19 times, and we needed every one. The winner came early in the fourth quarter with the game tied 13-13. Second-and-goal from the 7, Stafford threw it to the corner, Nacua went up through contact and came down with it. That was the last scoring of the day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then there is Myles Garrett. First game back since the opener in Australia, seven games lost to a knee, and he had three sacks. One was a strip of Jayden Daniels late in the second quarter that Omar Speights fell on at the Washington 46, and Brandon McManus kicked a 20-yarder as the half ended. Another was a 12-yard loss on third down with 2:31 left that ended Washington's best chance to tie it. Braden Fiske and Shaun Dolac split one more."
+        },
+        {
+          "type": "paragraph",
+          "text": "Blake Corum gave us our first lead, 13-10, plowing in from the 1 on the opening drive of the third quarter after Jordan Whittington's 29-yard kickoff return. Corum ran 11 times for 58 yards and Kyren Williams 15 times for 45. We were 3 of 3 on fourth down, and Kam Curl made eight tackles."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: this was not pretty. Stafford went 26 of 43 for 228 yards with an interception, Nacua lost a fumble, we were 3 of 14 on third down, and 10 penalties cost us 70 yards. Washington got the ball back at its own 9 with 52 seconds left, Daniels hit Stefon Diggs for 42, and the final play turned into a fumble pile that Byron Young came out of holding the ball. Guard Steve Avila left with a hamstring injury."
+        },
+        {
+          "type": "paragraph",
+          "text": "Still, 5-4 puts us above .500 for the first time all season, and the defense held Washington to a field goal in the last 44 minutes. Arizona is next. Somebody queue up The Score for the flight home."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Rams beat the Commanders 20-13 at Northwest Stadium for their third straight win and moved to 5-4."
+        },
+        {
+          "type": "fact",
+          "text": "Puka Nacua caught 14 balls for 150 yards, including the go-ahead 7-yard touchdown from Matthew Stafford early in the fourth quarter."
+        },
+        {
+          "type": "fact",
+          "text": "Myles Garrett had three sacks and a forced fumble in his first game since the season opener."
+        },
+        {
+          "type": "jab",
+          "text": "Nineteen targets for Puka. Washington knew exactly where the ball was going and still could not stop it."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Rams 20, Commanders 13",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873043"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873043"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873043"
+        },
+        {
+          "label": "Discover Los Angeles: Ms. Lauryn Hill and Wyclef Jean, The Score 30th anniversary, Hollywood Bowl, Nov. 8",
+          "url": "https://www.discoverlosangeles.com/things-to-do/the-best-things-to-do-in-la-this-weekend"
+        },
+        {
+          "label": "ESPN Rams schedule (next game: at Cardinals, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/lar/los-angeles-rams"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ind-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "ind",
+      "team_ids": [
+        "ind"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873040",
+      "title": "Indianapolis Colts vs Dallas Cowboys Week 9: Midnight Strikes 23-27",
+      "byline": "",
+      "matchup": "Final: Dallas Cowboys (4-5) 27, Indianapolis Colts (2-7) 23, Sun., Nov. 8, Lucas Oil Stadium, Indianapolis. Next: vs Miami Dolphins, Sun., Nov. 15, 1:00 PM ET, Lucas Oil Stadium, Indianapolis",
+      "date": "2026-11-08",
+      "word_count": 391,
+      "text": "Dallas Cowboys 27, Indianapolis Colts 23, and the clock struck midnight with 1:08 left. Up at Butler on Sunday afternoon, the Indianapolis Ballet danced the company premiere of Cinderella at Clowes Memorial Hall, with the Indianapolis Symphony Orchestra playing Prokofiev live. Down at Lucas Oil Stadium, our Colts got the glass slipper on for exactly 29 seconds.\n\nFor a team at the bottom of the standings, we brought a fight. Laiatu Latu strip-sacked Dak Prescott, Caden Curry recovered at the Dallas 25, and Seth McGowan punched it in from the 2 for a 7-3 lead. Then Prescott hit Jake Ferguson from 10 and CeeDee Lamb from 44, and the building booed us into halftime down 17-7.\n\nThe second half was pure Hoosier stubbornness. Spencer Shrader hit from 47. Ashton Dulin caught a short throw from Daniel Jones, made two defenders miss and ran 55 yards to make it 20-17. Lamb got up untouched after a 48-yard catch, kept running and coughed it up, and our challenge won the turnover. McGowan ripped off 36 yards, and Shrader tied it from 59. After Brandon Aubrey missed from 50, Shrader drilled a 50-yarder for a 23-20 lead with 1:37 left. Three kicks, three makes, 11 points.\n\nThen the slipper fell off. Prescott found Ryan Flournoy for 46 yards on the next snap. Two penalties later, we let Javonte Williams walk in from the 1 so we would get the ball back with time to work. Jones was flagged for intentional grounding, and Caleb Downs intercepted him in the final minute, with his big brother Josh Downs wearing our colors.\n\nThe honest part: Dallas outgained us 508 to 271. Jones went 20 of 34 for 180 yards. Jonathan Taylor ran 13 times for 46 yards and lost a fumble when Quinnen Williams punched it out at the Dallas 19. We converted three of 13 third downs. Lamb caught 10 balls for 195 yards. Hunter Wohler made 16 tackles, which tells you where the ball spent the day. Dallas got flagged 14 times for 153 yards, and we still couldn't put them away.\n\nOne bright spot: Keenan Allen caught four balls and moved past Tim Brown into eighth place on the league's career receptions list with 1,095. We're 2-7 after five straight losses, and Miami comes to Lucas Oil Stadium next Sunday. Hoosiers still show up.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dallas Cowboys 27, Indianapolis Colts 23, and the clock struck midnight with 1:08 left. Up at Butler on Sunday afternoon, the Indianapolis Ballet danced the company premiere of Cinderella at Clowes Memorial Hall, with the Indianapolis Symphony Orchestra playing Prokofiev live. Down at Lucas Oil Stadium, our Colts got the glass slipper on for exactly 29 seconds."
+        },
+        {
+          "type": "paragraph",
+          "text": "For a team at the bottom of the standings, we brought a fight. Laiatu Latu strip-sacked Dak Prescott, Caden Curry recovered at the Dallas 25, and Seth McGowan punched it in from the 2 for a 7-3 lead. Then Prescott hit Jake Ferguson from 10 and CeeDee Lamb from 44, and the building booed us into halftime down 17-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half was pure Hoosier stubbornness. Spencer Shrader hit from 47. Ashton Dulin caught a short throw from Daniel Jones, made two defenders miss and ran 55 yards to make it 20-17. Lamb got up untouched after a 48-yard catch, kept running and coughed it up, and our challenge won the turnover. McGowan ripped off 36 yards, and Shrader tied it from 59. After Brandon Aubrey missed from 50, Shrader drilled a 50-yarder for a 23-20 lead with 1:37 left. Three kicks, three makes, 11 points."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the slipper fell off. Prescott found Ryan Flournoy for 46 yards on the next snap. Two penalties later, we let Javonte Williams walk in from the 1 so we would get the ball back with time to work. Jones was flagged for intentional grounding, and Caleb Downs intercepted him in the final minute, with his big brother Josh Downs wearing our colors."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: Dallas outgained us 508 to 271. Jones went 20 of 34 for 180 yards. Jonathan Taylor ran 13 times for 46 yards and lost a fumble when Quinnen Williams punched it out at the Dallas 19. We converted three of 13 third downs. Lamb caught 10 balls for 195 yards. Hunter Wohler made 16 tackles, which tells you where the ball spent the day. Dallas got flagged 14 times for 153 yards, and we still couldn't put them away."
+        },
+        {
+          "type": "paragraph",
+          "text": "One bright spot: Keenan Allen caught four balls and moved past Tim Brown into eighth place on the league's career receptions list with 1,095. We're 2-7 after five straight losses, and Miami comes to Lucas Oil Stadium next Sunday. Hoosiers still show up."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Colts lost 27-23 to the Cowboys at Lucas Oil Stadium after taking a 23-20 lead with 1:37 left."
+        },
+        {
+          "type": "fact",
+          "text": "Spencer Shrader made field goals of 47, 59 and 50 yards, and Ashton Dulin scored on a 55-yard catch."
+        },
+        {
+          "type": "fact",
+          "text": "Dallas outgained Indianapolis 508 to 271, and Caleb Downs intercepted Daniel Jones to end it as the Colts fell to 2-7."
+        },
+        {
+          "type": "jab",
+          "text": "Dallas drew 14 flags and still found a way. That says plenty about where we are."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Cowboys 27, Colts 23",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873040"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873040"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873040"
+        },
+        {
+          "label": "Indianapolis Ballet: Cinderella at Clowes Memorial Hall, Nov. 6-8",
+          "url": "https://www.indyballet.org/cinderella"
+        },
+        {
+          "label": "ESPN Colts schedule (next game: vs Dolphins, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/ind/indianapolis-colts"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-dal-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "dal",
+      "team_ids": [
+        "dal"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873040",
+      "title": "Dallas Cowboys vs Indianapolis Colts Week 9: Out of the Jar 27-23",
+      "byline": "",
+      "matchup": "Final: Dallas Cowboys (4-5) 27, Indianapolis Colts (2-7) 23, Sun., Nov. 8, Lucas Oil Stadium, Indianapolis. Next: vs San Francisco 49ers, Sun., Nov. 15, 4:25 PM ET, AT&T Stadium, Arlington",
+      "date": "2026-11-08",
+      "word_count": 425,
+      "text": "Dallas Cowboys 27, Indianapolis Colts 23, and this time we closed it. Back home on Saturday, Arlington threw The Big Dill, billed as the World's Largest Pickle Party, at Globe Life Field and Texas Live!, right down the road from our place. A day later in Indianapolis, the Cowboys spent four quarters putting themselves in a pickle and then climbed out of the jar.\n\nBetween the 20s, this looked like America's Team. Dak Prescott went 21 of 34 for 335 yards and two touchdown throws. CeeDee Lamb caught 10 balls for 195 yards, the second-biggest day of his career, including a 44-yard touchdown with 21 seconds left in the first half for a 17-7 lead. Jake Ferguson caught a 10-yarder earlier in the quarter. Javonte Williams ran 20 times for 101 yards, Tyler Goodson added 77, and we outgained Indy 508 to 271.\n\nNow the jar. Laiatu Latu strip-sacked Prescott at our 16 in the first quarter, and Seth McGowan scored two plays later. Early in the fourth, Lamb hauled in a 48-yarder, realized nobody had touched him, kept going and lost the ball, and an Indy challenge made it a turnover. We were flagged 14 times for 153 yards, the most since 2021.\n\nThe defense held its end for a long while. Quinnen Williams had three tackles for loss and punched the ball away from Jonathan Taylor, and Shemar James recovered at our 19. Rashan Gary and Caleb Downs each got a sack. Then Ashton Dulin turned a short throw into a 55-yard score late in the third, Spencer Shrader tied it from 59, Brandon Aubrey missed from 50 wide left, and Shrader hit from 50 for a 23-20 Colts lead with 1:37 to go.\n\nThis is where last week's ghosts were supposed to show up. They didn't. Prescott found Ryan Flournoy for 46 yards on the very next snap, two Indy penalties put us at the doorstep, and Williams walked in from the 1 with 1:08 left. Downs then intercepted Daniel Jones in the final minute, with his big brother Josh Downs on the other side.\n\nThe honest part: 14 flags, two lost fumbles, a missed kick and Ferguson leaving with a left knee injury in the third quarter. That is not a finished football team. We're 4-5, with two wins in our last five games. But one week after Arizona, we fell behind late and took it right back, and in this house that counts.\n\nSan Francisco comes to AT&T Stadium next Sunday to open a three-game homestand. Somebody bring the brine.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dallas Cowboys 27, Indianapolis Colts 23, and this time we closed it. Back home on Saturday, Arlington threw The Big Dill, billed as the World's Largest Pickle Party, at Globe Life Field and Texas Live!, right down the road from our place. A day later in Indianapolis, the Cowboys spent four quarters putting themselves in a pickle and then climbed out of the jar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Between the 20s, this looked like America's Team. Dak Prescott went 21 of 34 for 335 yards and two touchdown throws. CeeDee Lamb caught 10 balls for 195 yards, the second-biggest day of his career, including a 44-yard touchdown with 21 seconds left in the first half for a 17-7 lead. Jake Ferguson caught a 10-yarder earlier in the quarter. Javonte Williams ran 20 times for 101 yards, Tyler Goodson added 77, and we outgained Indy 508 to 271."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the jar. Laiatu Latu strip-sacked Prescott at our 16 in the first quarter, and Seth McGowan scored two plays later. Early in the fourth, Lamb hauled in a 48-yarder, realized nobody had touched him, kept going and lost the ball, and an Indy challenge made it a turnover. We were flagged 14 times for 153 yards, the most since 2021."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense held its end for a long while. Quinnen Williams had three tackles for loss and punched the ball away from Jonathan Taylor, and Shemar James recovered at our 19. Rashan Gary and Caleb Downs each got a sack. Then Ashton Dulin turned a short throw into a 55-yard score late in the third, Spencer Shrader tied it from 59, Brandon Aubrey missed from 50 wide left, and Shrader hit from 50 for a 23-20 Colts lead with 1:37 to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is where last week's ghosts were supposed to show up. They didn't. Prescott found Ryan Flournoy for 46 yards on the very next snap, two Indy penalties put us at the doorstep, and Williams walked in from the 1 with 1:08 left. Downs then intercepted Daniel Jones in the final minute, with his big brother Josh Downs on the other side."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: 14 flags, two lost fumbles, a missed kick and Ferguson leaving with a left knee injury in the third quarter. That is not a finished football team. We're 4-5, with two wins in our last five games. But one week after Arizona, we fell behind late and took it right back, and in this house that counts."
+        },
+        {
+          "type": "paragraph",
+          "text": "San Francisco comes to AT&T Stadium next Sunday to open a three-game homestand. Somebody bring the brine."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Cowboys beat the Colts 27-23 at Lucas Oil Stadium on Javonte Williams' 1-yard touchdown run with 1:08 left."
+        },
+        {
+          "type": "fact",
+          "text": "CeeDee Lamb caught 10 balls for 195 yards and a touchdown, and Dak Prescott threw for 335 yards."
+        },
+        {
+          "type": "fact",
+          "text": "Dallas outgained Indianapolis 508 to 271 but was flagged 14 times for 153 yards; Caleb Downs intercepted Daniel Jones to seal it."
+        },
+        {
+          "type": "jab",
+          "text": "Fourteen flags and two fumbles, and Indy still couldn't hold a three-point lead for 30 seconds."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Cowboys 27, Colts 23",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873040"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873040"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873040"
+        },
+        {
+          "label": "Globe Life Field: The Big Dill World's Largest Pickle Party, Sat., Nov. 7, Arlington",
+          "url": "https://globelifefield.com/event/the-big-dill-worlds-largest-pickle-party-20261107/"
+        },
+        {
+          "label": "ESPN Cowboys schedule (next game: vs 49ers, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/dal/dallas-cowboys"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-sf",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "sf",
+      "team_ids": [
+        "sf"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873047",
+      "title": "San Francisco 49ers vs Raiders Week 9: Five Takeaways, One Rout 38-17",
+      "byline": "",
+      "matchup": "Final: San Francisco 49ers (7-1) 38, Raiders (4-5) 17, Sun., Nov. 8, Levi's Stadium, Santa Clara. Next: at Dallas Cowboys, Sun., Nov. 15, 4:25 PM ET, AT&T Stadium, Arlington",
+      "date": "2026-11-08",
+      "word_count": 388,
+      "text": "San Francisco 49ers 38, Raiders 17. It was our Salute to Service game at Levi's Stadium, with active-duty service members unfurling a field-sized American flag and the Air Force Singing Sergeants on the anthem. Then our defense spent the second half standing at attention and taking the ball away five times.\n\nI've got Montana, Rice and Young burned into my memory, and I don't hand out comparisons cheap. But the opening of this one was vintage. Three drives, three touchdowns. Christian McCaffrey from 1. Brock Purdy from 1 after his own 18-yard scramble on third-and-15. Then Purdy hit McCaffrey from 12, his 100th career touchdown throw in his 57th game, and 21-7 felt like the warmup.\n\nGeorge Kittle set the tone on the second drive with a 37-yard catch, and Jordan Watkins grabbed 24 on the third. The Raiders hung around at 21-10 at the half, and their return man gave us fits all day.\n\nThen rookie linebacker Jaden Dugger made the play of the day. First snap of the third quarter, he jumped a Kirk Cousins throw and took it 35 yards to the house, his first interception and first touchdown. After Purdy got intercepted, Fred Warner punched the ball out of Brock Bowers' hands and Dre Greenlaw fell on it. Upton Stout ripped one loose from Michael Mayer at the 1, and Warner recovered it in the end zone. Watkins caught a 37-yard touchdown for his first career score, 35-17. Renardo Green intercepted Cousins in the end zone and Malik Mustapha took one away on fourth down. ESPN says it's the first time in 20 years we had five second-half takeaways, and the last time was against the Raiders at Candlestick.\n\nPurdy went 17 of 25 for 232 yards with two touchdown throws and ran for 40 yards and a score. Kaelon Black ran 11 times for 70, and we ran for 190. Nick Bosa was back after five games, and DeForest Buckner played his first game in red and gold since 2019.\n\nThe honest part: Purdy's interception gave them a short field, we got stuffed on a fourth-and-1 sneak, and seven penalties cost 59 yards. Rookie Gracen Halton broke his left ankle and is out for the season, and Green and Deommodore Lenoir both left hurt.\n\nWe're 7-1 and 5-0 at home. Next is Dallas.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "San Francisco 49ers 38, Raiders 17. It was our Salute to Service game at Levi's Stadium, with active-duty service members unfurling a field-sized American flag and the Air Force Singing Sergeants on the anthem. Then our defense spent the second half standing at attention and taking the ball away five times."
+        },
+        {
+          "type": "paragraph",
+          "text": "I've got Montana, Rice and Young burned into my memory, and I don't hand out comparisons cheap. But the opening of this one was vintage. Three drives, three touchdowns. Christian McCaffrey from 1. Brock Purdy from 1 after his own 18-yard scramble on third-and-15. Then Purdy hit McCaffrey from 12, his 100th career touchdown throw in his 57th game, and 21-7 felt like the warmup."
+        },
+        {
+          "type": "paragraph",
+          "text": "George Kittle set the tone on the second drive with a 37-yard catch, and Jordan Watkins grabbed 24 on the third. The Raiders hung around at 21-10 at the half, and their return man gave us fits all day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then rookie linebacker Jaden Dugger made the play of the day. First snap of the third quarter, he jumped a Kirk Cousins throw and took it 35 yards to the house, his first interception and first touchdown. After Purdy got intercepted, Fred Warner punched the ball out of Brock Bowers' hands and Dre Greenlaw fell on it. Upton Stout ripped one loose from Michael Mayer at the 1, and Warner recovered it in the end zone. Watkins caught a 37-yard touchdown for his first career score, 35-17. Renardo Green intercepted Cousins in the end zone and Malik Mustapha took one away on fourth down. ESPN says it's the first time in 20 years we had five second-half takeaways, and the last time was against the Raiders at Candlestick."
+        },
+        {
+          "type": "paragraph",
+          "text": "Purdy went 17 of 25 for 232 yards with two touchdown throws and ran for 40 yards and a score. Kaelon Black ran 11 times for 70, and we ran for 190. Nick Bosa was back after five games, and DeForest Buckner played his first game in red and gold since 2019."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: Purdy's interception gave them a short field, we got stuffed on a fourth-and-1 sneak, and seven penalties cost 59 yards. Rookie Gracen Halton broke his left ankle and is out for the season, and Green and Deommodore Lenoir both left hurt."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 7-1 and 5-0 at home. Next is Dallas."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The 49ers beat the Raiders 38-17 at Levi's Stadium in Week 9 and are 7-1."
+        },
+        {
+          "type": "fact",
+          "text": "San Francisco forced five second-half turnovers, including Jaden Dugger's 35-yard interception return touchdown on the first play of the third quarter."
+        },
+        {
+          "type": "fact",
+          "text": "Brock Purdy threw his 100th career touchdown, to Christian McCaffrey, and Jordan Watkins caught his first career touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "The Raiders finally came back to the Bay. We gave them a proper welcome and kept all five of their footballs."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: 49ers 38, Raiders 17",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873047"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873047"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873047"
+        },
+        {
+          "label": "49ers.com: 49ers defense forces five turnovers in 38-17 win against the Raiders",
+          "url": "https://www.49ers.com/news/49ers-defense-forces-five-turnovers-in-38-17-win-over-raiders-takeaways-from-lvvssf"
+        },
+        {
+          "label": "49ers.com: Week 9 preview, Raiders matchup and Salute to Service game",
+          "url": "https://www.49ers.com/news/5-things-to-know-49ers-week-9-matchup-vs-raiders-salute-to-service"
+        },
+        {
+          "label": "ESPN 49ers schedule (next game: at Cowboys, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/sf/san-francisco-49ers"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-lv-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "lv",
+      "team_ids": [
+        "lv"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873047",
+      "title": "Raiders vs San Francisco 49ers Week 9: Bay Return Turns Ugly 38-17",
+      "byline": "",
+      "matchup": "Final: San Francisco 49ers (7-1) 38, Raiders (4-5) 17, Sun., Nov. 8, Levi's Stadium, Santa Clara. Next: vs. Seattle Seahawks, Sun., Nov. 15, 4:05 PM ET, Allegiant Stadium",
+      "date": "2026-11-08",
+      "word_count": 385,
+      "text": "San Francisco 49ers 38, Raiders 17. Back home in Henderson, Water Street Plaza spent Sunday on music, dance and storytelling at the city's Indigenous American Heritage Celebration. In Santa Clara, the Raiders told the same story we've been telling for six weeks, and I am tired of the ending.\n\nThis was the Raiders' first regular-season game in the Bay Area since the move, and the silver and black showed up in numbers at Levi's Stadium. Some of us grew up in the old Black Hole and never left the Bay. We deserved better than three straight 49ers touchdown drives to open the game, 69 yards, 89 yards, 84 yards, and a 21-7 hole.\n\nThere was fight in the first half. Dylan Laube kept flipping the field on kickoffs, 197 return yards on seven tries with a long of 54. Kirk Cousins ran one in from 2 after Brock Bowers took a short throw 20 yards, and our kicker drilled a 50-yarder. At 21-10, I had my voice back.\n\nThen came the first snap of the third quarter. Rookie linebacker Jaden Dugger stepped in front of a Cousins throw and went 35 yards for a touchdown. Bowers answered with a 21-yard touchdown catch, and Treydan Stukes intercepted Brock Purdy and returned it 26 yards to the 49ers 31. That was the opening. Two plays later, Fred Warner punched the ball out of Bowers' hands.\n\nIt got worse. Michael Mayer caught a 24-yarder and had the ball punched loose at the 1, out of the end zone for a touchback. In the fourth, a Mayer touchdown came back on offensive interference, and Renardo Green intercepted Cousins in the end zone. Malik Mustapha intercepted him on fourth down to end it. Five turnovers in one half.\n\nBowers was the best player in red or black, seven catches for 111 yards. Nakobe Dean made 18 tackles and Maxx Crosby got a sack. The honest part: we ran 15 times for 24 yards, and Ashton Jeanty got six carries. ESPN says we're the fifth team ever to allow 30 points in six straight games in the same season, and we've lost five of six since opening 3-0.\n\nWe're 4-5. Seattle comes to Allegiant Stadium next Sunday, and the defense has a week to remember how to get off the field.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "San Francisco 49ers 38, Raiders 17. Back home in Henderson, Water Street Plaza spent Sunday on music, dance and storytelling at the city's Indigenous American Heritage Celebration. In Santa Clara, the Raiders told the same story we've been telling for six weeks, and I am tired of the ending."
+        },
+        {
+          "type": "paragraph",
+          "text": "This was the Raiders' first regular-season game in the Bay Area since the move, and the silver and black showed up in numbers at Levi's Stadium. Some of us grew up in the old Black Hole and never left the Bay. We deserved better than three straight 49ers touchdown drives to open the game, 69 yards, 89 yards, 84 yards, and a 21-7 hole."
+        },
+        {
+          "type": "paragraph",
+          "text": "There was fight in the first half. Dylan Laube kept flipping the field on kickoffs, 197 return yards on seven tries with a long of 54. Kirk Cousins ran one in from 2 after Brock Bowers took a short throw 20 yards, and our kicker drilled a 50-yarder. At 21-10, I had my voice back."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the first snap of the third quarter. Rookie linebacker Jaden Dugger stepped in front of a Cousins throw and went 35 yards for a touchdown. Bowers answered with a 21-yard touchdown catch, and Treydan Stukes intercepted Brock Purdy and returned it 26 yards to the 49ers 31. That was the opening. Two plays later, Fred Warner punched the ball out of Bowers' hands."
+        },
+        {
+          "type": "paragraph",
+          "text": "It got worse. Michael Mayer caught a 24-yarder and had the ball punched loose at the 1, out of the end zone for a touchback. In the fourth, a Mayer touchdown came back on offensive interference, and Renardo Green intercepted Cousins in the end zone. Malik Mustapha intercepted him on fourth down to end it. Five turnovers in one half."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bowers was the best player in red or black, seven catches for 111 yards. Nakobe Dean made 18 tackles and Maxx Crosby got a sack. The honest part: we ran 15 times for 24 yards, and Ashton Jeanty got six carries. ESPN says we're the fifth team ever to allow 30 points in six straight games in the same season, and we've lost five of six since opening 3-0."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 4-5. Seattle comes to Allegiant Stadium next Sunday, and the defense has a week to remember how to get off the field."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The 49ers beat the Raiders 38-17 at Levi's Stadium in Week 9, the Raiders' first regular-season game in the Bay Area since moving."
+        },
+        {
+          "type": "fact",
+          "text": "The Raiders lost five turnovers in the second half, including a 35-yard interception return touchdown by Jaden Dugger."
+        },
+        {
+          "type": "fact",
+          "text": "Brock Bowers had seven catches for 111 yards and a touchdown; the Raiders fell to 4-5."
+        },
+        {
+          "type": "jab",
+          "text": "We came back to the Bay and handed the 49ers five souvenirs."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: 49ers 38, Raiders 17",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873047"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873047"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873047"
+        },
+        {
+          "label": "CCSD Insider: Henderson's Indigenous American Heritage Celebration, Water Street Plaza, Nov. 8",
+          "url": "https://ccsdinsider.com/articles/las-vegas-events-this-weekend-nov-6-8-2026"
+        },
+        {
+          "label": "ESPN Raiders schedule (next game: vs. Seahawks, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/lv/las-vegas-raiders"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-atl-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "atl",
+      "team_ids": [
+        "atl"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873038",
+      "title": "Atlanta Falcons vs Cincinnati Bengals Week 9: Madrid Misery 17-34",
+      "byline": "",
+      "matchup": "Final: Cincinnati Bengals (6-2) 34, Atlanta Falcons (3-6) 17, Sun., Nov. 8, Santiago Bernabéu, Madrid. Next: vs Kansas City Chiefs, Sun., Nov. 15, 1:00 PM ET, Mercedes-Benz Stadium, Atlanta",
+      "date": "2026-11-08",
+      "word_count": 415,
+      "text": "Cincinnati Bengals 34, Atlanta Falcons 17, and the best moment of our Madrid trip came before kickoff. Roberto Carlos, the Real Madrid and Brazil great, sounded our train horn inside the Santiago Bernabéu, and a crowd of 78,660 heard the Falcons say hello to Spain. By halftime the Bengals owned the building.\n\nThe first drive was Atlanta football the way I draw it up on a napkin. Bijan Robinson ran for 42 yards on three carries, including a 21-yard burst around the left end, and Michael Penix Jr. capped 80 yards with a 1-yard touchdown throw to Charlie Woerner. On the next drive, Penix scrambled for 23 to set up Nick Folk's 31-yard field goal. It was 10-7 Falcons. Then the defense went missing.\n\nCincinnati scored on every trip the rest of the half. Ja'Marr Chase beat us deep for 47 yards. Joe Burrow ran one in from the 1. A defensive holding flag wiped out a sack and kept alive an 88-yard drive that ended with Tee Higgins catching a 4-yarder. Dohnte Meyers got behind us for 42 yards in the last minute, and Evan McPherson hit from 57. It was 24-10 at the break, and Chase already had 142 receiving yards.\n\nGive the guys credit for coming out swinging. Penix found Robinson for 28 yards down the left side, and Robinson finished an 11-play, 76-yard drive with a 1-yard touchdown run to make it 24-17. Cincinnati answered in seven plays, Higgins from 8, and 31-17 was the ballgame. Folk missed a 38-yarder wide left early in the fourth, and Barrett Carter intercepted Penix with about four minutes left.\n\nRobinson ran 19 times for 100 yards and caught six balls for 47. Penix went 20 of 31 for 162 yards with a touchdown and an interception and ran for 50. Drake London caught five for 68. Jessie Bates III made 14 tackles, and LaCale London and Zach Harrison each got to Burrow once.\n\nThe honest part: we ran for 157 yards at 6.5 a carry and still lost by 17, because Burrow completed 24 of 29 and nobody in our secondary had an answer for Chase, who finished with 10 catches for 155 yards. Twelve penalties for 88 yards didn't help either. We're 3-6 after two straight losses, and a long flight home is a bad place to do math.\n\nKansas City comes to Mercedes-Benz Stadium next Sunday. Madrid gave us a horn worth hearing. Home has to give us a defense worth watching.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Cincinnati Bengals 34, Atlanta Falcons 17, and the best moment of our Madrid trip came before kickoff. Roberto Carlos, the Real Madrid and Brazil great, sounded our train horn inside the Santiago Bernabéu, and a crowd of 78,660 heard the Falcons say hello to Spain. By halftime the Bengals owned the building."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first drive was Atlanta football the way I draw it up on a napkin. Bijan Robinson ran for 42 yards on three carries, including a 21-yard burst around the left end, and Michael Penix Jr. capped 80 yards with a 1-yard touchdown throw to Charlie Woerner. On the next drive, Penix scrambled for 23 to set up Nick Folk's 31-yard field goal. It was 10-7 Falcons. Then the defense went missing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cincinnati scored on every trip the rest of the half. Ja'Marr Chase beat us deep for 47 yards. Joe Burrow ran one in from the 1. A defensive holding flag wiped out a sack and kept alive an 88-yard drive that ended with Tee Higgins catching a 4-yarder. Dohnte Meyers got behind us for 42 yards in the last minute, and Evan McPherson hit from 57. It was 24-10 at the break, and Chase already had 142 receiving yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Give the guys credit for coming out swinging. Penix found Robinson for 28 yards down the left side, and Robinson finished an 11-play, 76-yard drive with a 1-yard touchdown run to make it 24-17. Cincinnati answered in seven plays, Higgins from 8, and 31-17 was the ballgame. Folk missed a 38-yarder wide left early in the fourth, and Barrett Carter intercepted Penix with about four minutes left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Robinson ran 19 times for 100 yards and caught six balls for 47. Penix went 20 of 31 for 162 yards with a touchdown and an interception and ran for 50. Drake London caught five for 68. Jessie Bates III made 14 tackles, and LaCale London and Zach Harrison each got to Burrow once."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: we ran for 157 yards at 6.5 a carry and still lost by 17, because Burrow completed 24 of 29 and nobody in our secondary had an answer for Chase, who finished with 10 catches for 155 yards. Twelve penalties for 88 yards didn't help either. We're 3-6 after two straight losses, and a long flight home is a bad place to do math."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kansas City comes to Mercedes-Benz Stadium next Sunday. Madrid gave us a horn worth hearing. Home has to give us a defense worth watching."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Falcons lost 34-17 to the Bengals at the Santiago Bernabéu in Madrid and fell to 3-6."
+        },
+        {
+          "type": "fact",
+          "text": "Bijan Robinson ran for 100 yards and a touchdown, and Michael Penix Jr. threw a touchdown to Charlie Woerner on the opening drive."
+        },
+        {
+          "type": "fact",
+          "text": "Ja'Marr Chase had 10 catches for 155 yards, and Atlanta was flagged 12 times for 88 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Roberto Carlos blew the horn. Our secondary never heard it."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Bengals 34, Falcons 17",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873038"
+        },
+        {
+          "label": "ESPN game recap: Roberto Carlos sounds the Falcons' train horn in Madrid",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873038"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873038"
+        },
+        {
+          "label": "ESPN Falcons schedule (next game: vs Chiefs, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/atl/atlanta-falcons"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-cin-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "cin",
+      "team_ids": [
+        "cin"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873038",
+      "title": "Cincinnati Bengals vs Atlanta Falcons Week 9: Matador Day 34-17",
+      "byline": "",
+      "matchup": "Final: Cincinnati Bengals (6-2) 34, Atlanta Falcons (3-6) 17, Sun., Nov. 8, Santiago Bernabéu, Madrid. Next: vs Pittsburgh Steelers, Sun., Nov. 15, 8:20 PM ET, Paycor Stadium, Cincinnati",
+      "date": "2026-11-08",
+      "word_count": 439,
+      "text": "Cincinnati Bengals 34, Atlanta Falcons 17, and Madrid got the full Who Dey show. All weekend a Bengals-themed Menina stood in Plaza de España, one of those public sculptures modeled on the girls in Velázquez's 1656 painting, dressed in our colors for the NFL Experience. On Sunday at the Santiago Bernabéu, Joe Burrow and Ja'Marr Chase painted the real masterpiece.\n\nIt did not open pretty. Bijan Robinson ran for 42 yards on Atlanta's first three carries, and Michael Penix Jr. finished an 80-yard drive with a 1-yard touchdown throw to Charlie Woerner. Our answer took five plays. Burrow lofted a deep ball to Chase for 47 yards and a 7-7 game, and Chase and Tee Higgins acted out a bullfight in the end zone, Chase swinging the invisible cape, Higgins charging with his hands up for horns.\n\nAfter a Nick Folk field goal put Atlanta up 10-7, we scored on every remaining trip before halftime. Burrow ran it in from the 1 for 14-10. Higgins caught a 4-yarder to finish an 88-yard march for 21-10. With 57 seconds left, Burrow found Dohnte Meyers for 42 yards, and Evan McPherson drilled a 57-yard field goal with 24 seconds to go. It was 24-10 at the half, and Chase already had eight catches for 142 yards.\n\nRobinson punched one in from the 1 in the third quarter to make it 24-17, and our guys didn't blink. Seven plays, 73 yards, and Burrow hit Higgins from 8 for 31-17. Folk pushed a 38-yarder wide left early in the fourth, McPherson hit from 43, and Barrett Carter intercepted Penix to slam the door.\n\nBurrow went 24 of 29 for 271 yards with three touchdown throws, no interceptions and that rushing score. Chase finished with 10 catches for 155 yards. Higgins scored twice. We converted six of 10 third downs, never gave the ball away, and McPherson went 2 for 2 with four extra points.\n\nThe honest part: Atlanta ran for 157 yards at 6.5 a carry, Robinson topped 100, and Penix scrambled for 50 more. That run defense has to get fixed before December. And when the stadium lights went dark on one of our snaps inside the final two minutes, the down had to be replayed, and that was the only snap all day we needed twice.\n\nThis is four straight wins, and 30 or more points in four straight games for the first time since 1997, tying a franchise record. It is also the first international win in team history, after a tie and a loss in London. We're 6-2. Pittsburgh comes to Paycor Stadium next Sunday night. Bring the stripes.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Cincinnati Bengals 34, Atlanta Falcons 17, and Madrid got the full Who Dey show. All weekend a Bengals-themed Menina stood in Plaza de España, one of those public sculptures modeled on the girls in Velázquez's 1656 painting, dressed in our colors for the NFL Experience. On Sunday at the Santiago Bernabéu, Joe Burrow and Ja'Marr Chase painted the real masterpiece."
+        },
+        {
+          "type": "paragraph",
+          "text": "It did not open pretty. Bijan Robinson ran for 42 yards on Atlanta's first three carries, and Michael Penix Jr. finished an 80-yard drive with a 1-yard touchdown throw to Charlie Woerner. Our answer took five plays. Burrow lofted a deep ball to Chase for 47 yards and a 7-7 game, and Chase and Tee Higgins acted out a bullfight in the end zone, Chase swinging the invisible cape, Higgins charging with his hands up for horns."
+        },
+        {
+          "type": "paragraph",
+          "text": "After a Nick Folk field goal put Atlanta up 10-7, we scored on every remaining trip before halftime. Burrow ran it in from the 1 for 14-10. Higgins caught a 4-yarder to finish an 88-yard march for 21-10. With 57 seconds left, Burrow found Dohnte Meyers for 42 yards, and Evan McPherson drilled a 57-yard field goal with 24 seconds to go. It was 24-10 at the half, and Chase already had eight catches for 142 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Robinson punched one in from the 1 in the third quarter to make it 24-17, and our guys didn't blink. Seven plays, 73 yards, and Burrow hit Higgins from 8 for 31-17. Folk pushed a 38-yarder wide left early in the fourth, McPherson hit from 43, and Barrett Carter intercepted Penix to slam the door."
+        },
+        {
+          "type": "paragraph",
+          "text": "Burrow went 24 of 29 for 271 yards with three touchdown throws, no interceptions and that rushing score. Chase finished with 10 catches for 155 yards. Higgins scored twice. We converted six of 10 third downs, never gave the ball away, and McPherson went 2 for 2 with four extra points."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: Atlanta ran for 157 yards at 6.5 a carry, Robinson topped 100, and Penix scrambled for 50 more. That run defense has to get fixed before December. And when the stadium lights went dark on one of our snaps inside the final two minutes, the down had to be replayed, and that was the only snap all day we needed twice."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is four straight wins, and 30 or more points in four straight games for the first time since 1997, tying a franchise record. It is also the first international win in team history, after a tie and a loss in London. We're 6-2. Pittsburgh comes to Paycor Stadium next Sunday night. Bring the stripes."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Bengals beat the Falcons 34-17 at the Santiago Bernabéu in Madrid for their fourth straight win."
+        },
+        {
+          "type": "fact",
+          "text": "Joe Burrow threw for 271 yards and three touchdowns and ran for another; Ja'Marr Chase had 10 catches for 155 yards."
+        },
+        {
+          "type": "fact",
+          "text": "Tee Higgins caught two touchdowns, and Cincinnati scored on every possession after Atlanta's 10-7 lead in the first half."
+        },
+        {
+          "type": "jab",
+          "text": "Atlanta brought a horn to Madrid. We brought the matador."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Bengals 34, Falcons 17",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873038"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873038"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873038"
+        },
+        {
+          "label": "Bengals.com: Bengals in Spain, Bengals Menina at Plaza de España",
+          "url": "https://www.bengals.com/news/bengals-spain-week-fan-events-2026-madrid-game"
+        },
+        {
+          "label": "ESPN Bengals schedule (next game: vs Steelers, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/cin/cincinnati-bengals"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-phi-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "phi",
+      "team_ids": [
+        "phi"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873044",
+      "title": "Philadelphia Eagles vs New York Giants Week 9: Streak Hits Seven 19-11",
+      "byline": "",
+      "matchup": "Final: New York Giants (5-2-1) 19, Philadelphia Eagles (2-7) 11, Sun., Nov. 8, Lincoln Financial Field, Philadelphia. Next: Pittsburgh Steelers, Sun., Nov. 22, 4:25 PM ET, Lincoln Financial Field, Philadelphia",
+      "date": "2026-11-08",
+      "word_count": 413,
+      "text": "New York Giants 19, Philadelphia Eagles 11, and that makes seven straight losses. Down in East Passyunk, the Red Gravy Cookoff was set for Sunday afternoon to settle South Philly's oldest argument: who makes the best Sunday gravy. Up Broad Street at the Linc, there was no argument at all. The Giants were better, and they had not won in our building since October 2013.\n\nJoe Milton got the ball as our No. 1 quarterback, and you could see why the coaches wanted that arm and those legs. He ran nine times for 64 yards, ripped off a 24-yard scramble on the last scoring drive, and did a backflip after his two-point run put us up 8-6 in the first quarter. Saquon Barkley set that up with a 3-yard touchdown, the one bright spot of a 13-carry, 22-yard day.\n\nThen the Giants' front ate him alive. Seven sacks for 41 yards, three by Arvell Reese, one of them a strip at midfield in the second quarter. Milton finished 18 of 34 for 169 yards. Makai Lemon caught six for 61 and Dallas Goedert five for 50, but we went 5 of 18 on third down and 1 of 3 on fourth.\n\nOur defense kept us in it for a long time. Zack Baun had two sacks, and Jordan Davis, Jonathan Greenard, Nolan Smith Jr. and Jalen Carter got one each. Greenard finally has his first sack in midnight green. Jeremiah Trotter Jr. made 11 tackles. New York did not score a touchdown until Jameis Winston, in for an injured J.J. McCarthy, hit Isaiah Likely from 5 yards late in the third quarter to cap a 14-play, 76-yard drive. A relief quarterback beat us. Sit with that.\n\nAfter that it was field goals. Dominic Zvada made four of them, the last from 49 to make it 19-8 with 4:24 left, and Jake Elliott answered from 45. Earlier in the quarter Braden Mann had the snap get away from him on fourth-and-18, and the punt went for minus-2 yards. Mann also boomed one 86 yards, so the man has range.\n\nThe honest part: this is the longest losing streak around here since the eight straight in 2012, and 2-7 is where we live now. We have booed better teams than this and cheered worse ones. We get a week off, then Pittsburgh comes to the Linc on Nov. 22.\n\nSomebody in East Passyunk won a gravy contest Sunday. At least somebody in South Philly won.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "New York Giants 19, Philadelphia Eagles 11, and that makes seven straight losses. Down in East Passyunk, the Red Gravy Cookoff was set for Sunday afternoon to settle South Philly's oldest argument: who makes the best Sunday gravy. Up Broad Street at the Linc, there was no argument at all. The Giants were better, and they had not won in our building since October 2013."
+        },
+        {
+          "type": "paragraph",
+          "text": "Joe Milton got the ball as our No. 1 quarterback, and you could see why the coaches wanted that arm and those legs. He ran nine times for 64 yards, ripped off a 24-yard scramble on the last scoring drive, and did a backflip after his two-point run put us up 8-6 in the first quarter. Saquon Barkley set that up with a 3-yard touchdown, the one bright spot of a 13-carry, 22-yard day."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the Giants' front ate him alive. Seven sacks for 41 yards, three by Arvell Reese, one of them a strip at midfield in the second quarter. Milton finished 18 of 34 for 169 yards. Makai Lemon caught six for 61 and Dallas Goedert five for 50, but we went 5 of 18 on third down and 1 of 3 on fourth."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our defense kept us in it for a long time. Zack Baun had two sacks, and Jordan Davis, Jonathan Greenard, Nolan Smith Jr. and Jalen Carter got one each. Greenard finally has his first sack in midnight green. Jeremiah Trotter Jr. made 11 tackles. New York did not score a touchdown until Jameis Winston, in for an injured J.J. McCarthy, hit Isaiah Likely from 5 yards late in the third quarter to cap a 14-play, 76-yard drive. A relief quarterback beat us. Sit with that."
+        },
+        {
+          "type": "paragraph",
+          "text": "After that it was field goals. Dominic Zvada made four of them, the last from 49 to make it 19-8 with 4:24 left, and Jake Elliott answered from 45. Earlier in the quarter Braden Mann had the snap get away from him on fourth-and-18, and the punt went for minus-2 yards. Mann also boomed one 86 yards, so the man has range."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: this is the longest losing streak around here since the eight straight in 2012, and 2-7 is where we live now. We have booed better teams than this and cheered worse ones. We get a week off, then Pittsburgh comes to the Linc on Nov. 22."
+        },
+        {
+          "type": "paragraph",
+          "text": "Somebody in East Passyunk won a gravy contest Sunday. At least somebody in South Philly won."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Giants beat the Eagles 19-11 at Lincoln Financial Field, Philadelphia's seventh straight loss; the Eagles fall to 2-7."
+        },
+        {
+          "type": "fact",
+          "text": "Joe Milton ran for 64 yards and a two-point conversion but was sacked seven times, three by Arvell Reese."
+        },
+        {
+          "type": "fact",
+          "text": "Saquon Barkley scored the only Eagles touchdown, and Zack Baun had two sacks."
+        },
+        {
+          "type": "jab",
+          "text": "We booed Santa once. Seven straight losses and Giants fans partying at the Linc? Santa got off easy."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Giants 19, Eagles 11",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873044"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873044"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873044"
+        },
+        {
+          "label": "Billy Penn: Red Gravy Cookoff in East Passyunk, Sun., Nov. 8",
+          "url": "https://billypenn.com/2026/11/02/philly-weekly-events-calendar-november-2-to-8/"
+        },
+        {
+          "label": "ESPN Eagles schedule (next game: Steelers, Sun., Nov. 22)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/phi/philadelphia-eagles"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-nyg",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "nyg",
+      "team_ids": [
+        "nyg"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873044",
+      "title": "New York Giants vs Philadelphia Eagles Week 9: Built Can by Can 19-11",
+      "byline": "",
+      "matchup": "Final: New York Giants (5-2-1) 19, Philadelphia Eagles (2-7) 11, Sun., Nov. 8, Lincoln Financial Field, Philadelphia. Next: Washington Commanders, Thu., Nov. 12, 8:15 PM ET, MetLife Stadium, East Rutherford",
+      "date": "2026-11-08",
+      "word_count": 404,
+      "text": "New York Giants 19, Philadelphia Eagles 11, and yes, that happened in South Philadelphia. Down at Brookfield Place this weekend, architecture teams were stacking thousands of cans into giant sculptures for Canstruction, every can headed to City Harvest. On Sunday the Giants built a win the same way, one kick, one stop, one ugly yard at a time, and snapped a run of 13 straight Eagles home wins in this series that went back to October 2013.\n\nDominic Zvada was the whole construction crew early. He hit from 53 and 49 in the first quarter for a 6-0 lead, then added 38 and 49 in the fourth. Four tries, four makes. Jordan Stout punted six times for a 52.3 average and dropped five inside the 20.\n\nPhiladelphia got its only touchdown late in the first quarter when Saquon Barkley, yes, that Saquon Barkley, bulled in from 3 yards. After a Giants penalty on the extra point, Joe Milton ran in a two-point try for an 8-6 Eagles lead. Handing Philly free points never sits right with me.\n\nThen the quarterback merry-go-round kept spinning. J.J. McCarthy hurt his hip in the third quarter with us down 8-6, and Jameis Winston came in and went to work on a 14-play, 76-yard drive that ate 7:56. He hit Darnell Mooney for 27, found Malachi Fields for 14 down to the 3, and two plays later flipped a 5-yard touchdown to Isaiah Likely. That made Winston 6 of 8 for 71 yards. McCarthy came back and finished 12 of 19 for 127, and the kicker handled the rest.\n\nThe defense was the real story. Arvell Reese had three of our seven sacks, 12 tackles and a strip of Milton that Micah McFadden fell on at midfield. McFadden, DJ Reader, Dawuane Smoot and Darius Alexander got a sack each. Philadelphia went 5 of 18 on third down and gained 220 yards all day. The last Eagles drive ended with Alexander dropping Milton on fourth-and-2.\n\nThe honest part: the offense was rough. Devin Singletary ran 21 times for 31 yards, we gave up six sacks, and nine penalties for 86 yards kept handing Philadelphia free real estate. We were 6 of 17 on third down. Nobody is framing this one for the den.\n\nBut 5-2-1 is 5-2-1, and we are the only team in the NFC East with a winning record. Washington comes to MetLife on Thursday night. Bring cans.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "New York Giants 19, Philadelphia Eagles 11, and yes, that happened in South Philadelphia. Down at Brookfield Place this weekend, architecture teams were stacking thousands of cans into giant sculptures for Canstruction, every can headed to City Harvest. On Sunday the Giants built a win the same way, one kick, one stop, one ugly yard at a time, and snapped a run of 13 straight Eagles home wins in this series that went back to October 2013."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dominic Zvada was the whole construction crew early. He hit from 53 and 49 in the first quarter for a 6-0 lead, then added 38 and 49 in the fourth. Four tries, four makes. Jordan Stout punted six times for a 52.3 average and dropped five inside the 20."
+        },
+        {
+          "type": "paragraph",
+          "text": "Philadelphia got its only touchdown late in the first quarter when Saquon Barkley, yes, that Saquon Barkley, bulled in from 3 yards. After a Giants penalty on the extra point, Joe Milton ran in a two-point try for an 8-6 Eagles lead. Handing Philly free points never sits right with me."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the quarterback merry-go-round kept spinning. J.J. McCarthy hurt his hip in the third quarter with us down 8-6, and Jameis Winston came in and went to work on a 14-play, 76-yard drive that ate 7:56. He hit Darnell Mooney for 27, found Malachi Fields for 14 down to the 3, and two plays later flipped a 5-yard touchdown to Isaiah Likely. That made Winston 6 of 8 for 71 yards. McCarthy came back and finished 12 of 19 for 127, and the kicker handled the rest."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense was the real story. Arvell Reese had three of our seven sacks, 12 tackles and a strip of Milton that Micah McFadden fell on at midfield. McFadden, DJ Reader, Dawuane Smoot and Darius Alexander got a sack each. Philadelphia went 5 of 18 on third down and gained 220 yards all day. The last Eagles drive ended with Alexander dropping Milton on fourth-and-2."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: the offense was rough. Devin Singletary ran 21 times for 31 yards, we gave up six sacks, and nine penalties for 86 yards kept handing Philadelphia free real estate. We were 6 of 17 on third down. Nobody is framing this one for the den."
+        },
+        {
+          "type": "paragraph",
+          "text": "But 5-2-1 is 5-2-1, and we are the only team in the NFC East with a winning record. Washington comes to MetLife on Thursday night. Bring cans."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Giants beat the Eagles 19-11 at Lincoln Financial Field for their first win in Philadelphia since October 2013 and moved to 5-2-1."
+        },
+        {
+          "type": "fact",
+          "text": "Dominic Zvada made field goals from 53, 49, 38 and 49 yards, and Jameis Winston came off the bench to throw the go-ahead touchdown to Isaiah Likely."
+        },
+        {
+          "type": "fact",
+          "text": "Arvell Reese had three of the Giants' seven sacks of Joe Milton plus a forced fumble."
+        },
+        {
+          "type": "jab",
+          "text": "Thirteen years we waited to win in that building. Philly can keep the cheesesteaks. We'll take first place."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Giants 19, Eagles 11",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873044"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873044"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873044"
+        },
+        {
+          "label": "Time Out New York: Canstruction at Brookfield Place, Oct. 30-Nov. 9",
+          "url": "https://www.timeout.com/newyork/things-to-do/things-to-do-in-nyc-this-weekend"
+        },
+        {
+          "label": "ESPN Giants schedule (next game: Commanders, Thu., Nov. 12)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/nyg/new-york-giants"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ne-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "ne",
+      "team_ids": [
+        "ne"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873049",
+      "title": "New England Patriots vs Green Bay Packers Week 9: Gronk Glow Fades 45-27",
+      "byline": "",
+      "matchup": "Final: Green Bay Packers (6-3) 45, New England Patriots (5-4) 27, Sun., Nov. 8, Gillette Stadium, Foxborough. Next: at Detroit Lions, Sun., Nov. 15, 9:30 AM ET, FC Bayern Munich Stadium, Munich",
+      "date": "2026-11-08",
+      "word_count": 380,
+      "text": "Green Bay Packers 45, New England Patriots 27. On Saturday, Rob Gronkowski went into the Patriots Hall of Fame on Patriot Place Plaza, the man with 79 touchdown catches and three rings in this uniform. A day later at Gillette Stadium, our defense gave up more points than any Patriots team ever has in that building.\n\nI judge this franchise by receipts I watched get printed, and Sunday printed a bad one. Drake Maye threw into traffic on our second snap, Xavier McKinney intercepted it and returned it to our 14, and Jordan Love scrambled in two plays later. It was 17-0 early in the second quarter, and the crowd that showed up loud for the 2016 team's 10th anniversary had gone quiet.\n\nMaye threw three interceptions in the first half, two of them to McKinney, and two of those turned straight into Green Bay touchdowns. He also threw three touchdowns. Rhamondre Stevenson took a 30-yarder in, and Efton Chism III caught an 8-yarder that made it 24-14 at the half. That was the last time it felt like a game.\n\nThe Packers opened the third quarter with a 70-yard touchdown drive. Then Isaiah McDuffie stripped Stevenson, and Love hit Christian Watson from 39 on the next play. 42-14. Love finished 23 of 29 for 372 yards. Watson had 171 receiving yards and Matthew Golden had 164, and our secondary chased both of them all afternoon. Mack Hollins caught a 22-yard score and Corey Kiner ran one in from 4 late, but the two-point try failed and 45-27 was the final.\n\nSome of it was worth keeping. DeMario Douglas caught five for 102. Kiner returned nine kickoffs for 224 yards and averaged 6.9 a carry. Christian Gonzalez made 10 tackles, Elijah Ponder had 1.5 sacks and Christian Barmore got one.\n\nThe honest part: four turnovers, 21 points allowed off them, and 478 yards given up. ESPN says it was the most points the Patriots have allowed at Gillette Stadium, and the first time they gave up 45 in a regular-season game since 1993. The injuries hurt more. Stevenson left with a knee injury, and Carlton Davis III, Ben Brown and Will Campbell all went down with knee injuries too.\n\nWe're 5-4 and 3-1 at home. Next is Detroit, in Munich.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Green Bay Packers 45, New England Patriots 27. On Saturday, Rob Gronkowski went into the Patriots Hall of Fame on Patriot Place Plaza, the man with 79 touchdown catches and three rings in this uniform. A day later at Gillette Stadium, our defense gave up more points than any Patriots team ever has in that building."
+        },
+        {
+          "type": "paragraph",
+          "text": "I judge this franchise by receipts I watched get printed, and Sunday printed a bad one. Drake Maye threw into traffic on our second snap, Xavier McKinney intercepted it and returned it to our 14, and Jordan Love scrambled in two plays later. It was 17-0 early in the second quarter, and the crowd that showed up loud for the 2016 team's 10th anniversary had gone quiet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maye threw three interceptions in the first half, two of them to McKinney, and two of those turned straight into Green Bay touchdowns. He also threw three touchdowns. Rhamondre Stevenson took a 30-yarder in, and Efton Chism III caught an 8-yarder that made it 24-14 at the half. That was the last time it felt like a game."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Packers opened the third quarter with a 70-yard touchdown drive. Then Isaiah McDuffie stripped Stevenson, and Love hit Christian Watson from 39 on the next play. 42-14. Love finished 23 of 29 for 372 yards. Watson had 171 receiving yards and Matthew Golden had 164, and our secondary chased both of them all afternoon. Mack Hollins caught a 22-yard score and Corey Kiner ran one in from 4 late, but the two-point try failed and 45-27 was the final."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some of it was worth keeping. DeMario Douglas caught five for 102. Kiner returned nine kickoffs for 224 yards and averaged 6.9 a carry. Christian Gonzalez made 10 tackles, Elijah Ponder had 1.5 sacks and Christian Barmore got one."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part: four turnovers, 21 points allowed off them, and 478 yards given up. ESPN says it was the most points the Patriots have allowed at Gillette Stadium, and the first time they gave up 45 in a regular-season game since 1993. The injuries hurt more. Stevenson left with a knee injury, and Carlton Davis III, Ben Brown and Will Campbell all went down with knee injuries too."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 5-4 and 3-1 at home. Next is Detroit, in Munich."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Packers beat the Patriots 45-27 at Gillette Stadium in Week 9, dropping New England to 5-4."
+        },
+        {
+          "type": "fact",
+          "text": "Drake Maye threw for 299 yards and three touchdowns but was intercepted three times, twice by Xavier McKinney."
+        },
+        {
+          "type": "fact",
+          "text": "The 45 points were the most the Patriots have allowed at Gillette Stadium, which opened in 2002."
+        },
+        {
+          "type": "jab",
+          "text": "Gronk got a plaque on Saturday. The defense handed Green Bay one on Sunday."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Packers 45, Patriots 27",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873049"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873049"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873049"
+        },
+        {
+          "label": "Patriot Place: 2026 Patriots Hall of Fame Induction Ceremony, Rob Gronkowski, Nov. 7",
+          "url": "https://www.patriot-place.com/events/patriots-hall-of-fame-induction-ceremony/"
+        },
+        {
+          "label": "ESPN Patriots schedule (next game: at Lions in Munich, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/ne/new-england-patriots"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-gb-2026-11-08",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "gb",
+      "team_ids": [
+        "gb"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873049",
+      "title": "Green Bay Packers vs New England Patriots Week 9: Love Rolls 45-27",
+      "byline": "",
+      "matchup": "Final: Green Bay Packers (6-3) 45, New England Patriots (5-4) 27, Sun., Nov. 8, Gillette Stadium, Foxborough. Next: vs. Minnesota Vikings, Sun., Nov. 15, 1:00 PM ET, Lambeau Field, Green Bay",
+      "date": "2026-11-08",
+      "word_count": 430,
+      "text": "Green Bay Packers 45, New England Patriots 27. Back home, the 19th annual Woodland Indian Art Show & Market spent the weekend in Green Bay with beadwork, quillwork and black ash baskets and the theme \"Art is Medicine.\" Out in Foxborough, Jordan Love put on a craft show of his own, and the Patriots had no answer for the work.\n\nI count our titles out loud, all 13 of them, and I don't add a regular-season win to that list lightly. This one gets a page in the scrapbook. Xavier McKinney intercepted Drake Maye on New England's second snap and ran it back 36 yards to the 14. Two plays later Love scrambled 13 yards for a touchdown. Then Love hit Matthew Golden for 49 yards and found him again from 5. Trey Smack made it 17-0 early in the second quarter.\n\nEvan Williams intercepted Maye, and McKinney got him again. Love answered that second gift with throws of 24 yards to Golden and 43 to Christian Watson, and Kaleb Johnson walked in from 2 for a 24-7 lead. New England got two touchdowns back before the half, and at 24-14 I was pacing the living room.\n\nThen the second half opened with a seven-play, 70-yard drive, Love to Savion Williams from 10. Smack hit from 51. Isaiah McDuffie punched the ball out of Rhamondre Stevenson's hands and recovered it himself at the New England 39, and on the very next snap Love dropped a 39-yard strike to Watson, then ran in the two-point try himself. It was 42-14 with 4:10 left in the third quarter.\n\nThe numbers deserve their own frame. Love went 23 of 29 for 372 yards, three touchdown throws, no interceptions and a rushing score. Watson caught seven for 171 and Golden caught 10 for 164. ESPN says they are the first Packers teammates to each top 150 yards with a touchdown catch since Don Hutson and Andy Uram in 1942, and the first Green Bay team to score 45 with 450 yards since 1962. We piled up 478 yards. Smack went 3 for 3 on field goals. Karl Brooks had two sacks and McDuffie made 10 tackles.\n\nThe honest part, because part owners read the books: we went 4 of 12 on third down, got stopped on a fourth-and-3 before the half, and gave up 27 points. Josh Jacobs left in the first quarter with a broken finger. Four takeaways turned into 21 points, and that hides some of it.\n\nStill, 6-3, five wins in six games, and the Vikings come to Lambeau next Sunday.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Green Bay Packers 45, New England Patriots 27. Back home, the 19th annual Woodland Indian Art Show & Market spent the weekend in Green Bay with beadwork, quillwork and black ash baskets and the theme \"Art is Medicine.\" Out in Foxborough, Jordan Love put on a craft show of his own, and the Patriots had no answer for the work."
+        },
+        {
+          "type": "paragraph",
+          "text": "I count our titles out loud, all 13 of them, and I don't add a regular-season win to that list lightly. This one gets a page in the scrapbook. Xavier McKinney intercepted Drake Maye on New England's second snap and ran it back 36 yards to the 14. Two plays later Love scrambled 13 yards for a touchdown. Then Love hit Matthew Golden for 49 yards and found him again from 5. Trey Smack made it 17-0 early in the second quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Evan Williams intercepted Maye, and McKinney got him again. Love answered that second gift with throws of 24 yards to Golden and 43 to Christian Watson, and Kaleb Johnson walked in from 2 for a 24-7 lead. New England got two touchdowns back before the half, and at 24-14 I was pacing the living room."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the second half opened with a seven-play, 70-yard drive, Love to Savion Williams from 10. Smack hit from 51. Isaiah McDuffie punched the ball out of Rhamondre Stevenson's hands and recovered it himself at the New England 39, and on the very next snap Love dropped a 39-yard strike to Watson, then ran in the two-point try himself. It was 42-14 with 4:10 left in the third quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "The numbers deserve their own frame. Love went 23 of 29 for 372 yards, three touchdown throws, no interceptions and a rushing score. Watson caught seven for 171 and Golden caught 10 for 164. ESPN says they are the first Packers teammates to each top 150 yards with a touchdown catch since Don Hutson and Andy Uram in 1942, and the first Green Bay team to score 45 with 450 yards since 1962. We piled up 478 yards. Smack went 3 for 3 on field goals. Karl Brooks had two sacks and McDuffie made 10 tackles."
+        },
+        {
+          "type": "paragraph",
+          "text": "The honest part, because part owners read the books: we went 4 of 12 on third down, got stopped on a fourth-and-3 before the half, and gave up 27 points. Josh Jacobs left in the first quarter with a broken finger. Four takeaways turned into 21 points, and that hides some of it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Still, 6-3, five wins in six games, and the Vikings come to Lambeau next Sunday."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Packers beat the Patriots 45-27 at Gillette Stadium in Week 9 and are 6-3."
+        },
+        {
+          "type": "fact",
+          "text": "Jordan Love threw for 372 yards and three touchdowns and ran for a fourth; Christian Watson had 171 receiving yards and Matthew Golden had 164."
+        },
+        {
+          "type": "fact",
+          "text": "Xavier McKinney intercepted Drake Maye twice, and Green Bay scored 21 points off four New England turnovers."
+        },
+        {
+          "type": "jab",
+          "text": "Foxborough has six rings worth of banners. Sunday it got a look at what 13 titles of patience produces."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score: Packers 45, Patriots 27",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873049"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873049"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873049"
+        },
+        {
+          "label": "Woodland Indian Art: 19th annual Woodland Indian Art Show & Market, Nov. 7-8, Green Bay",
+          "url": "https://www.woodlandindianart.com/wiasm"
+        },
+        {
+          "label": "ESPN Packers schedule (next game: vs. Vikings, Sun., Nov. 15)",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/gb/green-bay-packers"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    }
+  ]
+}
