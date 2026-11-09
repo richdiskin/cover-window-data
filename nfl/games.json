@@ -6597,7 +6597,7 @@
     },
     {
      "id": "H2",
-     "public_case": "Projected points: Minnesota Vikings 20.7, Buffalo Bills 22.8. Availability: expected starting quarterbacks Carson Wentz (MIN) and Josh Allen (BUF). NFL.com official Week 9 injury report (fetched Nov 9, 6:09 AM ET): quarterbacks ruled out: Kyler Murray (MIN, Out). Kyler Murray (hamstring) is ruled out for Monday, so Carson Wentz is the announced Vikings starter, with Max Brosmer the backup (Vikings.com, Nov 5; final Vikings report Nov 7, checked Nov 9); Carson Wentz is not MIN’s main starter this season (Kyler Murray).",
+     "public_case": "Projected points: Minnesota Vikings 20.7, Buffalo Bills 22.8. Availability: expected starting quarterbacks Carson Wentz (MIN) and Josh Allen (BUF). NFL.com official Week 9 injury report (fetched Nov 9, 6:09 AM ET): quarterbacks ruled out: Kyler Murray (MIN, Out). Kyler Murray (hamstring) is ruled out for Monday, so Carson Wentz is the announced Vikings starter, with Max Brosmer the backup (Vikings.com, Nov 5; final Vikings report Nov 7, checked Nov 9); Kyler Murray (hamstring) is Out; Carson Wentz starts.",
      "market": "spread",
      "best_bet": false
     },
@@ -6669,7 +6669,7 @@
       "side_line": "Side: Minnesota Vikings +3.5",
       "ou_line": "O/U: Under 45.5",
       "score_line": "Projected: Minnesota Vikings 21, Buffalo Bills 23 (Total 44)",
-      "basis_line": "Projected points: Minnesota Vikings 20.7, Buffalo Bills 22.8. Availability: expected starting quarterbacks Carson Wentz (MIN) and Josh Allen (BUF). NFL.com official Week 9 injury report (fetched Nov 9, 6:09 AM ET): quarterbacks ruled out: Kyler Murray (MIN, Out). Kyler Murray (hamstring) is ruled out for Monday, so Carson Wentz is the announced Vikings starter, with Max Brosmer the backup (Vikings.com, Nov 5; final Vikings report Nov 7, checked Nov 9); Carson Wentz is not MIN’s main starter this season (Kyler Murray).",
+      "basis_line": "Projected points: Minnesota Vikings 20.7, Buffalo Bills 22.8. Availability: expected starting quarterbacks Carson Wentz (MIN) and Josh Allen (BUF). NFL.com official Week 9 injury report (fetched Nov 9, 6:09 AM ET): quarterbacks ruled out: Kyler Murray (MIN, Out). Kyler Murray (hamstring) is ruled out for Monday, so Carson Wentz is the announced Vikings starter, with Max Brosmer the backup (Vikings.com, Nov 5; final Vikings report Nov 7, checked Nov 9); Kyler Murray (hamstring) is Out; Carson Wentz starts.",
       "independent": true,
       "distance_from_spread": 1.5,
       "distance_from_total": 1.5,
