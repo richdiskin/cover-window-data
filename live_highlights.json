@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-08T15:21:04Z",
+ "updated_utc": "2026-11-10T01:09:02Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -2403,6 +2403,30 @@
     "oembed": 200,
     "official": true
    }
+  },
+  "401866458": {
+   "game_id": "401866458",
+   "matchup": "Western Michigan Broncos at Akron Zips",
+   "kickoff_utc": "2026-11-11T00:00Z",
+   "first_seen_utc": "2026-11-10T01:09:00Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401866459": {
+   "game_id": "401866459",
+   "matchup": "Kent State Golden Flashes at Bowling Green Falcons",
+   "kickoff_utc": "2026-11-11T00:00Z",
+   "first_seen_utc": "2026-11-10T01:09:00Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401866460": {
+   "game_id": "401866460",
+   "matchup": "Ohio Bobcats at Miami (OH) RedHawks",
+   "kickoff_utc": "2026-11-11T01:00Z",
+   "first_seen_utc": "2026-11-10T01:09:00Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
   }
  }
 }
