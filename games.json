@@ -780,126 +780,99 @@
  ],
  "games": [
   {
-   "game_id": "401866458",
-   "matchup": "Western Michigan Broncos at Akron Zips",
    "away": {
-    "team": "Western Michigan Broncos",
     "conference": "MAC",
+    "rank": null,
     "record": "6-3",
-    "rank": null
+    "team": "Western Michigan Broncos"
    },
-   "home": {
-    "team": "Akron Zips",
-    "conference": "MAC",
-    "record": "1-8",
-    "rank": null
-   },
-   "kickoff_et": "7:00 PM ET Tue Nov 10",
-   "kickoff_utc": "2026-11-11T00:00Z",
-   "tv": [
-    "CBSSN"
-   ],
-   "venue": "InfoCision Stadium",
    "conferences": [
     "MAC"
    ],
-   "team_ids": [
-    "western-michigan",
-    "akron"
-   ],
-   "spread": "Western Michigan Broncos −14",
-   "total_line": 47.5,
-   "prediction": {
-    "away_score": 32,
-    "home_score": 17,
-    "winner": "Western Michigan Broncos",
-    "covers": "Western Michigan Broncos −14"
-   },
-   "total_pick": "Over",
-   "status_at_build": {
-    "state": "pre"
-   },
    "display": {
-    "writer": {
-     "score_line": "Projected: Western Michigan Broncos 32, Akron Zips 17 (Total 49)",
-     "side": "Western Michigan Broncos −14",
-     "ou": "Over 47.5",
-     "label": ""
-    },
+    "fanatic_headline": "Western Michigan vs Akron: Salute the Troops Night in Rubber City",
+    "fanatic_score_line": "Projected: Western Michigan Broncos 32, Akron Zips 17 (49 combined points)",
+    "fanatic_story": "Western Michigan Broncos vs Akron Zips prediction for Tuesday, November 10: Akron calls it Salute the Troops night at InfoCision Stadium, and on the eve of Veterans Day the Rubber City wants to give everyone who served a reason to stand and roar. Corwin Dahlquist rode in from Kalamazoo with a 6-3 team and a notebook full of blocking diagrams, and Hollister \"Zip\" Grubbs is waiting at the gate with a 1-8 team, a flag pin and more bounce than any season like this should allow.\n\n\"Tonight is for the troops first,\" Hollister says. \"Football second. Then the Zips, then everybody else, and I'll argue with you about the order.\"\n\n\"No argument on the first one,\" Corwin says. \"On the third one, I brought film.\"\n\nOver on East Buchtel Avenue, Heartland Marimba plays a concert at Guzzetta Recital Hall the same night. Hollister has thought about this. \"Mallets on wood over there, shoulder pads on shoulder pads over here. Akron is a percussion town tonight.\"\n\n\"Akron is a rubber town,\" Corwin says. \"You told me four times in the parking lot.\"\n\n\"Rubber bounces. Write it down.\"\n\nHere's what Corwin has written down. Western Michigan is 6-3 and 4-1 in the MAC, second in the conference, and the Broncos win with the big guys up front. Jalen Buckley has carried 144 times for 711 yards and 8 touchdowns. Cole Cabana ran 7 times for 110 yards against Bowling Green on Halloween. Broc Lowry runs the show without drama: 1,397 yards, 11 touchdown throws and only 3 interceptions. Aveion Chenault is the deep shot, with 540 yards, and 109 of them came in that Bowling Green win.\n\n\"That's a full stack,\" Corwin says. \"Buttermilk, warm syrup, the works.\"\n\n\"It's a Tuesday,\" Hollister says. \"Nobody eats a full stack on a Tuesday.\"\n\nAkron's year hasn't been kind, and Hollister doesn't pretend otherwise. The Zips beat Robert Morris 45-10 back in September and have lost seven in a row since. But he has a case, and he makes it at full volume. Jordan Gant has 730 rushing yards and 7 touchdowns, and he went for 112 against Ohio last Tuesday. Ohio is 7-2 and sits first in the MAC, and the Zips lost to the Bobcats by eight, 28-20. Donelius Johnson has 80 tackles in the middle of the defense, and Cyrus Durham has 3.5 sacks.\n\n\"Eight points from the top team in the conference,\" Hollister says. \"We are getting grip, Corwin. You can hear it.\"\n\nThe quarterback picture in Akron is a two-name story. Brayden Roggow has 1,343 yards this year, and Cibastian Broughton took the throws against Ohio, going 22 of 34 for 232 yards. Marcel Williams leads the Zips with 37 catches for 417 yards, whoever is throwing to him.\n\n\"Whoever it is,\" Corwin says, \"Austin Alexander has 5 sacks and wants another. Justyce Betts has 65 tackles. Our defense gives up 19.2 a game. Yours gives up 32.2.\"\n\nHollister winces, then rallies. \"Rubber stretches before it snaps back. That's physics. I did a science fair on it.\"\n\n\"You did a science fair on it in seventh grade.\"\n\n\"And I won.\"\n\nHistory sides with Kalamazoo. In the five meetings since 2016, Western Michigan won four. The Broncos won 41-0 in 2016 and 58-13 in 2020, and they beat Akron 34-24 the last time these two met, in 2024. Akron's one win in the stretch was a 14-13 grinder in 2017, and Hollister knows it by heart.\n\n\"Fourteen to thirteen,\" he says. \"One point. A one-point game is a coin flip wearing a helmet.\"\n\n\"That was nine years ago,\" Corwin says.\n\n\"Then we're overdue.\"\n\nHere's how it goes. Akron comes out flying on a night built for big emotion, and Gant finds a crease or two in the first half to keep the student section loud. Then Western Michigan wears them down. Buckley and Cabana take turns, Lowry hits Chenault once over the top, and the Broncos' defense lives in the Akron backfield no matter who is throwing. The Zips earn a late score, the crowd gives it everything, and the band plays for the veterans on the way out.\n\nCorwin packs up his diagrams and pours syrup from an invisible bottle. Hollister salutes the troops one more time, then finds his grin. \"Rubber always bounces back,\" he says. \"Always.\"\n\nMy call: Western Michigan Broncos 32, Akron Zips 17.",
+    "gambler_headline": "Western Michigan vs Akron Pick: Broncos Lay 14 on Troops Night",
     "handicappers": [
      {
-      "name": "The Formula",
-      "side_line": "Side: Akron Zips +14",
-      "ou_line": "O/U: Over 47.5",
-      "score_line": "Projected: Western Michigan Broncos 32, Akron Zips 18 (Total 50)",
-      "basis_line": "Net ratings Western Michigan Broncos −3.7, Akron Zips −22.7 (ESPN Football Power Index, Nov 9, 2026)",
-      "independent": true,
+      "basis_line": "Net ratings Western Michigan Broncos −3.7, Akron Zips −22.9 (ESPN Football Power Index, Nov 9, 2026)",
       "distance_from_spread": 0.0,
-      "distance_from_total": 2.5,
+      "distance_from_total": 0.5,
+      "independent": true,
       "landed_on_number": [
        "spread"
-      ]
+      ],
+      "name": "The Formula",
+      "ou_line": "O/U: Under 48.5",
+      "score_line": "Projected: Western Michigan Broncos 31, Akron Zips 17 (Total 48)",
+      "side_line": "Side: Western Michigan Broncos −14"
      },
      {
-      "name": "Next Man Up",
-      "side_line": "Side: Western Michigan Broncos −14",
-      "ou_line": "O/U: Under 47.5 · Likes this total",
-      "score_line": "Projected: Western Michigan Broncos 30, Akron Zips 14 (Total 44)",
       "basis_line": "With the players available: projected points Western Michigan Broncos 29.5, Akron Zips 14.0.",
-      "independent": true,
       "distance_from_spread": 2.0,
-      "distance_from_total": 3.5,
-      "landed_on_number": []
-     },
-     {
-      "name": "Letdown Watch",
-      "side_line": "Side: Western Michigan Broncos −14 · Likes this side",
-      "ou_line": "O/U: Under 47.5",
-      "score_line": "Projected: Western Michigan Broncos 35, Akron Zips 12 (Total 47)",
-      "basis_line": "Rest and travel read: projected points Western Michigan Broncos 34.8, Akron Zips 11.6.",
+      "distance_from_total": 4.5,
       "independent": true,
-      "distance_from_spread": 9.0,
-      "distance_from_total": 0.5,
-      "landed_on_number": []
+      "landed_on_number": [],
+      "name": "Next Man Up",
+      "ou_line": "O/U: Under 48.5 · Likes this total",
+      "score_line": "Projected: Western Michigan Broncos 30, Akron Zips 14 (Total 44)",
+      "side_line": "Side: Western Michigan Broncos −14"
      },
      {
+      "basis_line": "Rest and travel read: projected points Western Michigan Broncos 34.8, Akron Zips 11.6.",
+      "distance_from_spread": 9.0,
+      "distance_from_total": 1.5,
+      "independent": true,
+      "landed_on_number": [],
+      "name": "Letdown Watch",
+      "ou_line": "O/U: Under 48.5",
+      "score_line": "Projected: Western Michigan Broncos 35, Akron Zips 12 (Total 47)",
+      "side_line": "Side: Western Michigan Broncos −14 · Likes this side"
+     },
+     {
+      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 10:26 PM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "distance_from_spread": null,
+      "distance_from_total": null,
+      "independent": false,
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
       "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
-      "independent": false,
-      "distance_from_spread": null,
-      "distance_from_total": null
+      "side_line": "Side: pending (no consensus spread posted since Monday night yet)"
      },
      {
+      "basis_line": "This read points to a side only. Western Michigan Broncos 4.5 ypc vs Akron Zips allowing 5.8; Akron Zips 4.0 ypc vs Western Michigan Broncos allowing 3.8 (2026 season). Western Michigan Broncos run game 1.4 ypc below what the opponent allows, which favours Akron Zips. Side: Akron Zips +14.",
+      "distance_from_spread": 6.0,
+      "distance_from_total": 5.5,
+      "independent": true,
+      "landed_on_number": [],
       "name": "In The Trenches",
-      "side_line": "Side: Akron Zips +14 · Likes this side",
       "ou_line": "O/U: this card reads sides only",
       "score_line": "Projected: Western Michigan Broncos 31, Akron Zips 23 (Total 54)",
-      "basis_line": "This read points to a side only. Western Michigan Broncos 4.5 ypc vs Akron Zips allowing 5.8; Akron Zips 4.0 ypc vs Western Michigan Broncos allowing 3.8 (2026 season). Western Michigan Broncos run game 1.4 ypc below what the opponent allows, which favours Akron Zips. Side: Akron Zips +14.",
-      "independent": true,
-      "distance_from_spread": 6.0,
-      "distance_from_total": 6.5,
-      "landed_on_number": []
+      "side_line": "Side: Akron Zips +14 · Likes this side"
      }
     ],
-    "story_text": "Western Michigan vs Akron prediction, pick against the spread and over/under for Tuesday night MACtion: I'm laying Western Michigan Broncos −14 at DraftKings and taking the Over 47.5, with my final at Western Michigan Broncos 32, Akron Zips 17. Akron calls this one Salute the Troops night at InfoCision Stadium on the eve of Veterans Day, and the 7:00 PM ET kickoff puts a 6-3 team from Kalamazoo against a 1-8 team that badly wants to give the folks in uniform something to stand up for.\n\nCorwin Dahlquist opens with the ground game, the way Kalamazoo raised him. \"Jalen Buckley has 711 yards and 8 touchdowns. Cole Cabana went for 110 on seven carries against Bowling Green. We push people backward, Zip, and we do it politely.\"\n\nHollister \"Zip\" Grubbs has a flag pin on his collar and a comeback ready. \"Jordan Gant ran for 112 against Ohio last Tuesday, and Ohio leads this conference. We lost 28-20. That's one score, Corwin. Donelius Johnson has 80 tackles. Rubber City bounces.\"\n\nHere's why I lay the 14. Western Michigan is 4-1 in the MAC and sits second in the conference, scoring 26.2 a game and allowing 19.2. Akron has dropped seven in a row since beating Robert Morris and allows 32.2 a game. Broc Lowry doesn't give the ball away, with 11 touchdown throws and 3 interceptions on 194 attempts, while Brayden Roggow has thrown 9 interceptions for Akron, 4 of them at Miami. Austin Alexander has 5 sacks for the Broncos and Justyce Betts has 65 tackles. My final has Western Michigan by 15, one past the number.\n\nAkron's quarterback room is a two-name story. Roggow took the most throws in six straight games, then Cibastian Broughton threw 34 times against Ohio for 232 yards. I'm pricing Broughton, and the Zips still come up short of two scores.\n\nOn the over/under, DraftKings opened at 47.5 and it hasn't budged, while the spread drifted from 13.5 to 14. Western Michigan hung 38 on Toledo and 49 on Monmouth, and Akron has allowed 34 or more six times this year. My 32-17 lands on 49, past the 47.5.\n\nThe room splits on the side. Next Man Up has Western Michigan 30-14, lays the −14 and likes the Under 47.5. Letdown Watch has it 35-12, likes Western Michigan −14 and sits on the Under. The Formula has 32-18, lands right on the 14 and takes Akron Zips +14 with the Over. In The Trenches likes Akron Zips +14 at 31-23 and makes no over/under call. Follow The Money is still waiting on a consensus spread, so its side is pending, and it has no total pick.\n\nNext Man Up: \"Thirty-two to eighteen, parked right on the 14? That's not a read. That's a fence with a chair on it.\"\n\nThe Formula: \"Fences hold up, Next Man Up. You've got Akron scoring 14 on a night this building wants to be loud. Bring earplugs.\"\n\nHollister straightens his flag pin and heads for the student section. Corwin promises himself a full stack of pancakes back in Kalamazoo if the Broncos get to 32.\n\nWestern Michigan Broncos 32, Akron Zips 17. Western Michigan Broncos cover the 14. Over 47.5.",
-    "fanatic_score_line": "Projected: Western Michigan Broncos 32, Akron Zips 17 (49 combined points)",
-    "line_used": {
-     "home_line": "Akron Zips +14",
-     "total": "47.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
-    },
     "injuries": {
      "away": [],
+     "fetched_at_utc": "2026-11-10T03:26Z",
      "home": [],
-     "source": "Not posted yet: the official conference availability report for this game",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "source": "Not posted yet: the official conference availability report for this game"
+    },
+    "line_used": {
+     "fetched_at_utc": "2026-11-10T03:26Z",
+     "home_line": "Akron Zips +14",
+     "source": "ESPN game page odds (DraftKings), Nov 9, 2026, 10:26 PM ET",
+     "total": "48.5"
+    },
+    "market": {
+     "note": "The market’s own numbers, shown for comparison only.",
+     "score_line": "",
+     "source": "ESPN game page odds (DraftKings), Nov 9, 2026, 10:26 PM ET",
+     "spread": "Western Michigan Broncos −14",
+     "total": "48.5"
     },
     "sourced_reasons": [
-     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "Lines: ESPN game page odds (DraftKings, espn.com); kickoff: ESPN scoreboard (espn.com)",
      "ESPN Football Power Index",
      "Points: ESPN team pages for Western Michigan and Akron (espn.com)",
      "Market moves: Action Network consensus line history (actionnetwork.com)",
@@ -907,137 +880,137 @@
      "Trench stats: ESPN team stats for Akron (espn.com)",
      "Schedule history: collegefootballdata.com 2018–2025"
     ],
-    "fanatic_story": "Western Michigan Broncos vs Akron Zips prediction for Tuesday, November 10: Akron calls it Salute the Troops night at InfoCision Stadium, and on the eve of Veterans Day the Rubber City wants to give everyone who served a reason to stand and roar. Corwin Dahlquist rode in from Kalamazoo with a 6-3 team and a notebook full of blocking diagrams, and Hollister \"Zip\" Grubbs is waiting at the gate with a 1-8 team, a flag pin and more bounce than any season like this should allow.\n\n\"Tonight is for the troops first,\" Hollister says. \"Football second. Then the Zips, then everybody else, and I'll argue with you about the order.\"\n\n\"No argument on the first one,\" Corwin says. \"On the third one, I brought film.\"\n\nOver on East Buchtel Avenue, Heartland Marimba plays a concert at Guzzetta Recital Hall the same night. Hollister has thought about this. \"Mallets on wood over there, shoulder pads on shoulder pads over here. Akron is a percussion town tonight.\"\n\n\"Akron is a rubber town,\" Corwin says. \"You told me four times in the parking lot.\"\n\n\"Rubber bounces. Write it down.\"\n\nHere's what Corwin has written down. Western Michigan is 6-3 and 4-1 in the MAC, second in the conference, and the Broncos win with the big guys up front. Jalen Buckley has carried 144 times for 711 yards and 8 touchdowns. Cole Cabana ran 7 times for 110 yards against Bowling Green on Halloween. Broc Lowry runs the show without drama: 1,397 yards, 11 touchdown throws and only 3 interceptions. Aveion Chenault is the deep shot, with 540 yards, and 109 of them came in that Bowling Green win.\n\n\"That's a full stack,\" Corwin says. \"Buttermilk, warm syrup, the works.\"\n\n\"It's a Tuesday,\" Hollister says. \"Nobody eats a full stack on a Tuesday.\"\n\nAkron's year hasn't been kind, and Hollister doesn't pretend otherwise. The Zips beat Robert Morris 45-10 back in September and have lost seven in a row since. But he has a case, and he makes it at full volume. Jordan Gant has 730 rushing yards and 7 touchdowns, and he went for 112 against Ohio last Tuesday. Ohio is 7-2 and sits first in the MAC, and the Zips lost to the Bobcats by eight, 28-20. Donelius Johnson has 80 tackles in the middle of the defense, and Cyrus Durham has 3.5 sacks.\n\n\"Eight points from the top team in the conference,\" Hollister says. \"We are getting grip, Corwin. You can hear it.\"\n\nThe quarterback picture in Akron is a two-name story. Brayden Roggow has 1,343 yards this year, and Cibastian Broughton took the throws against Ohio, going 22 of 34 for 232 yards. Marcel Williams leads the Zips with 37 catches for 417 yards, whoever is throwing to him.\n\n\"Whoever it is,\" Corwin says, \"Austin Alexander has 5 sacks and wants another. Justyce Betts has 65 tackles. Our defense gives up 19.2 a game. Yours gives up 32.2.\"\n\nHollister winces, then rallies. \"Rubber stretches before it snaps back. That's physics. I did a science fair on it.\"\n\n\"You did a science fair on it in seventh grade.\"\n\n\"And I won.\"\n\nHistory sides with Kalamazoo. In the five meetings since 2016, Western Michigan won four. The Broncos won 41-0 in 2016 and 58-13 in 2020, and they beat Akron 34-24 the last time these two met, in 2024. Akron's one win in the stretch was a 14-13 grinder in 2017, and Hollister knows it by heart.\n\n\"Fourteen to thirteen,\" he says. \"One point. A one-point game is a coin flip wearing a helmet.\"\n\n\"That was nine years ago,\" Corwin says.\n\n\"Then we're overdue.\"\n\nHere's how it goes. Akron comes out flying on a night built for big emotion, and Gant finds a crease or two in the first half to keep the student section loud. Then Western Michigan wears them down. Buckley and Cabana take turns, Lowry hits Chenault once over the top, and the Broncos' defense lives in the Akron backfield no matter who is throwing. The Zips earn a late score, the crowd gives it everything, and the band plays for the veterans on the way out.\n\nCorwin packs up his diagrams and pours syrup from an invisible bottle. Hollister salutes the troops one more time, then finds his grin. \"Rubber always bounces back,\" he says. \"Always.\"\n\nMy call: Western Michigan Broncos 32, Akron Zips 17.",
-    "market": {
-     "score_line": "",
-     "spread": "Western Michigan Broncos −14",
-     "total": "47.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "note": "The market’s own numbers, shown for comparison only."
-    },
-    "gambler_headline": "Western Michigan vs Akron Pick: Broncos Lay 14 on Troops Night",
-    "fanatic_headline": "Western Michigan vs Akron: Salute the Troops Night in Rubber City"
+    "story_text": "Western Michigan vs Akron prediction, pick against the spread and over/under for Tuesday night MACtion: I'm laying Western Michigan Broncos −14 at DraftKings and taking the Over 48.5, with my final at Western Michigan Broncos 32, Akron Zips 17. Akron calls this one Salute the Troops night at InfoCision Stadium on the eve of Veterans Day, and the 7:00 PM ET kickoff puts a 6-3 team from Kalamazoo against a 1-8 team that badly wants to give the folks in uniform something to stand up for.\n\nCorwin Dahlquist opens with the ground game, the way Kalamazoo raised him. \"Jalen Buckley has 711 yards and 8 touchdowns. Cole Cabana went for 110 on seven carries against Bowling Green. We push people backward, Zip, and we do it politely.\"\n\nHollister \"Zip\" Grubbs has a flag pin on his collar and a comeback ready. \"Jordan Gant ran for 112 against Ohio last Tuesday, and Ohio leads this conference. We lost 28-20. That's one score, Corwin. Donelius Johnson has 80 tackles. Rubber City bounces.\"\n\nHere's why I lay the 14. Western Michigan is 4-1 in the MAC and sits second in the conference, scoring 26.2 a game and allowing 19.2. Akron has dropped seven in a row since beating Robert Morris and allows 32.2 a game. Broc Lowry doesn't give the ball away, with 11 touchdown throws and 3 interceptions on 194 attempts, while Brayden Roggow has thrown 9 interceptions for Akron, 4 of them at Miami. Austin Alexander has 5 sacks for the Broncos and Justyce Betts has 65 tackles. My final has Western Michigan by 15, one past the number.\n\nAkron's quarterback room is a two-name story. Roggow took the most throws in six straight games, then Cibastian Broughton threw 34 times against Ohio for 232 yards. I'm pricing Broughton, and the Zips still come up short of two scores.\n\nOn the over/under, DraftKings opened at 47.5 and has moved up to 48.5, while the spread drifted from 13.5 to 14. Western Michigan hung 38 on Toledo and 49 on Monmouth, and Akron has allowed 34 or more six times this year. My 32-17 lands on 49, past the 48.5.\n\nThe room splits on the side, and nobody in it joins me on the total. Next Man Up has Western Michigan 30-14, lays the −14 and likes the Under 48.5. Letdown Watch has it 35-12, likes Western Michigan −14 and sits on the Under. The Formula has Western Michigan 31-17, takes Western Michigan Broncos −14 and goes Under 48.5. In The Trenches likes Akron Zips +14 at 31-23 and makes no over/under call. Follow The Money is still waiting on a consensus spread, so its side is pending, and it has no total pick.\n\nNext Man Up: \"Thirty-one to seventeen, and The Formula is on the Under with me. Welcome. Pull up a chair, the quiet side of the room has snacks.\"\n\nThe Formula: \"Quiet side, Next Man Up? You've got Akron scoring 14 on a night this building wants to be loud. I gave them 17. Bring earplugs.\"\n\nHollister straightens his flag pin and heads for the student section. Corwin promises himself a full stack of pancakes back in Kalamazoo if the Broncos get to 32.\n\nWestern Michigan Broncos 32, Akron Zips 17. Western Michigan Broncos cover the 14. Over 48.5.",
+    "writer": {
+     "label": "",
+     "ou": "Over 48.5",
+     "score_line": "Projected: Western Michigan Broncos 32, Akron Zips 17 (Total 49)",
+     "side": "Western Michigan Broncos −14"
+    }
    },
-   "gambler_story": "Western Michigan vs Akron prediction, pick against the spread and over/under for Tuesday night MACtion: I'm laying Western Michigan Broncos −14 at DraftKings and taking the Over 47.5, with my final at Western Michigan Broncos 32, Akron Zips 17. Akron calls this one Salute the Troops night at InfoCision Stadium on the eve of Veterans Day, and the 7:00 PM ET kickoff puts a 6-3 team from Kalamazoo against a 1-8 team that badly wants to give the folks in uniform something to stand up for.\n\nCorwin Dahlquist opens with the ground game, the way Kalamazoo raised him. \"Jalen Buckley has 711 yards and 8 touchdowns. Cole Cabana went for 110 on seven carries against Bowling Green. We push people backward, Zip, and we do it politely.\"\n\nHollister \"Zip\" Grubbs has a flag pin on his collar and a comeback ready. \"Jordan Gant ran for 112 against Ohio last Tuesday, and Ohio leads this conference. We lost 28-20. That's one score, Corwin. Donelius Johnson has 80 tackles. Rubber City bounces.\"\n\nHere's why I lay the 14. Western Michigan is 4-1 in the MAC and sits second in the conference, scoring 26.2 a game and allowing 19.2. Akron has dropped seven in a row since beating Robert Morris and allows 32.2 a game. Broc Lowry doesn't give the ball away, with 11 touchdown throws and 3 interceptions on 194 attempts, while Brayden Roggow has thrown 9 interceptions for Akron, 4 of them at Miami. Austin Alexander has 5 sacks for the Broncos and Justyce Betts has 65 tackles. My final has Western Michigan by 15, one past the number.\n\nAkron's quarterback room is a two-name story. Roggow took the most throws in six straight games, then Cibastian Broughton threw 34 times against Ohio for 232 yards. I'm pricing Broughton, and the Zips still come up short of two scores.\n\nOn the over/under, DraftKings opened at 47.5 and it hasn't budged, while the spread drifted from 13.5 to 14. Western Michigan hung 38 on Toledo and 49 on Monmouth, and Akron has allowed 34 or more six times this year. My 32-17 lands on 49, past the 47.5.\n\nThe room splits on the side. Next Man Up has Western Michigan 30-14, lays the −14 and likes the Under 47.5. Letdown Watch has it 35-12, likes Western Michigan −14 and sits on the Under. The Formula has 32-18, lands right on the 14 and takes Akron Zips +14 with the Over. In The Trenches likes Akron Zips +14 at 31-23 and makes no over/under call. Follow The Money is still waiting on a consensus spread, so its side is pending, and it has no total pick.\n\nNext Man Up: \"Thirty-two to eighteen, parked right on the 14? That's not a read. That's a fence with a chair on it.\"\n\nThe Formula: \"Fences hold up, Next Man Up. You've got Akron scoring 14 on a night this building wants to be loud. Bring earplugs.\"\n\nHollister straightens his flag pin and heads for the student section. Corwin promises himself a full stack of pancakes back in Kalamazoo if the Broncos get to 32.\n\nWestern Michigan Broncos 32, Akron Zips 17. Western Michigan Broncos cover the 14. Over 47.5."
-  },
-  {
-   "game_id": "401866459",
-   "matchup": "Kent State Golden Flashes at Bowling Green Falcons",
-   "away": {
-    "team": "Kent State Golden Flashes",
-    "conference": "MAC",
-    "record": "3-6",
-    "rank": null
-   },
+   "gambler_story": "Western Michigan vs Akron prediction, pick against the spread and over/under for Tuesday night MACtion: I'm laying Western Michigan Broncos −14 at DraftKings and taking the Over 48.5, with my final at Western Michigan Broncos 32, Akron Zips 17. Akron calls this one Salute the Troops night at InfoCision Stadium on the eve of Veterans Day, and the 7:00 PM ET kickoff puts a 6-3 team from Kalamazoo against a 1-8 team that badly wants to give the folks in uniform something to stand up for.\n\nCorwin Dahlquist opens with the ground game, the way Kalamazoo raised him. \"Jalen Buckley has 711 yards and 8 touchdowns. Cole Cabana went for 110 on seven carries against Bowling Green. We push people backward, Zip, and we do it politely.\"\n\nHollister \"Zip\" Grubbs has a flag pin on his collar and a comeback ready. \"Jordan Gant ran for 112 against Ohio last Tuesday, and Ohio leads this conference. We lost 28-20. That's one score, Corwin. Donelius Johnson has 80 tackles. Rubber City bounces.\"\n\nHere's why I lay the 14. Western Michigan is 4-1 in the MAC and sits second in the conference, scoring 26.2 a game and allowing 19.2. Akron has dropped seven in a row since beating Robert Morris and allows 32.2 a game. Broc Lowry doesn't give the ball away, with 11 touchdown throws and 3 interceptions on 194 attempts, while Brayden Roggow has thrown 9 interceptions for Akron, 4 of them at Miami. Austin Alexander has 5 sacks for the Broncos and Justyce Betts has 65 tackles. My final has Western Michigan by 15, one past the number.\n\nAkron's quarterback room is a two-name story. Roggow took the most throws in six straight games, then Cibastian Broughton threw 34 times against Ohio for 232 yards. I'm pricing Broughton, and the Zips still come up short of two scores.\n\nOn the over/under, DraftKings opened at 47.5 and has moved up to 48.5, while the spread drifted from 13.5 to 14. Western Michigan hung 38 on Toledo and 49 on Monmouth, and Akron has allowed 34 or more six times this year. My 32-17 lands on 49, past the 48.5.\n\nThe room splits on the side, and nobody in it joins me on the total. Next Man Up has Western Michigan 30-14, lays the −14 and likes the Under 48.5. Letdown Watch has it 35-12, likes Western Michigan −14 and sits on the Under. The Formula has Western Michigan 31-17, takes Western Michigan Broncos −14 and goes Under 48.5. In The Trenches likes Akron Zips +14 at 31-23 and makes no over/under call. Follow The Money is still waiting on a consensus spread, so its side is pending, and it has no total pick.\n\nNext Man Up: \"Thirty-one to seventeen, and The Formula is on the Under with me. Welcome. Pull up a chair, the quiet side of the room has snacks.\"\n\nThe Formula: \"Quiet side, Next Man Up? You've got Akron scoring 14 on a night this building wants to be loud. I gave them 17. Bring earplugs.\"\n\nHollister straightens his flag pin and heads for the student section. Corwin promises himself a full stack of pancakes back in Kalamazoo if the Broncos get to 32.\n\nWestern Michigan Broncos 32, Akron Zips 17. Western Michigan Broncos cover the 14. Over 48.5.",
+   "game_id": "401866458",
    "home": {
-    "team": "Bowling Green Falcons",
     "conference": "MAC",
-    "record": "2-7",
-    "rank": null
+    "rank": null,
+    "record": "1-8",
+    "team": "Akron Zips"
    },
    "kickoff_et": "7:00 PM ET Tue Nov 10",
    "kickoff_utc": "2026-11-11T00:00Z",
-   "tv": [
-    "ESPNU"
-   ],
-   "venue": "Doyt L. Perry Stadium",
-   "conferences": [
-    "MAC"
-   ],
-   "team_ids": [
-    "kent-state",
-    "bowling-green"
-   ],
-   "spread": "Bowling Green Falcons −6",
-   "total_line": 45.5,
+   "matchup": "Western Michigan Broncos at Akron Zips",
    "prediction": {
-    "away_score": 17,
-    "home_score": 27,
-    "winner": "Bowling Green Falcons",
-    "covers": "Bowling Green Falcons −6"
+    "away_score": 32,
+    "covers": "Western Michigan Broncos −14",
+    "home_score": 17,
+    "winner": "Western Michigan Broncos"
    },
-   "total_pick": "Under",
+   "spread": "Western Michigan Broncos −14",
    "status_at_build": {
     "state": "pre"
    },
+   "team_ids": [
+    "western-michigan",
+    "akron"
+   ],
+   "total_line": 48.5,
+   "total_pick": "Over",
+   "tv": [
+    "CBSSN"
+   ],
+   "venue": "InfoCision Stadium"
+  },
+  {
+   "away": {
+    "conference": "MAC",
+    "rank": null,
+    "record": "3-6",
+    "team": "Kent State Golden Flashes"
+   },
+   "conferences": [
+    "MAC"
+   ],
    "display": {
-    "writer": {
-     "score_line": "Projected: Bowling Green Falcons 27, Kent State Golden Flashes 17 (Total 44)",
-     "side": "Bowling Green Falcons −6",
-     "ou": "Under 45.5",
-     "label": ""
-    },
+    "fanatic_headline": "Kent State vs Bowling Green: Founders Day Fight for the Anniversary Award",
+    "fanatic_score_line": "Projected: Bowling Green Falcons 27, Kent State Golden Flashes 17 (44 combined points)",
+    "fanatic_story": "Bowling Green turns Tuesday night into a birthday party. Kent State Golden Flashes vs Bowling Green Falcons is the Founders Day game at Doyt L. Perry Stadium, and the trophy waiting on the sideline was built for exactly this kind of night: the Anniversary Award, made to honor two schools that were born in the same year, 1910.\n\nDarcy Fenwick has been staring at that trophy since last October, when Kent State kept it with a 24-21 win. Ozzie Brannigan has been staring at the schedule, the weather and the ceiling, because Ozzie expects the worst every week and gets grumpy when he's wrong.\n\n\"Founders Day,\" Darcy says. \"Fan and Student Appreciation Night. Students claim free tickets. The whole campus shows up to celebrate the school's birthday, and you're the guy who brought the present we want back.\"\n\n\"I expected a warm welcome,\" Ozzie says. \"I did not get one. This is fine. This is what I expected.\"\n\nThe history of the thing is wonderful, and both of them know it cold. The Lowry Bill created both schools in 1910. The alumni offices dreamed up the Anniversary Award in 1985 to mark their 75th birthdays, and Bowling Green has won it 27 times to Kent State's 13. Darcy says those numbers like a goalie reading off a save chart. Ozzie counters with the recent stuff, because the recent stuff is the only part he enjoys.\n\n\"We won it five years in a row,\" he says. \"Twenty-eighteen through twenty-twenty-two. Sixty-two points, twice. Then you won it back two straight, then we took it last year. So it's our turn to lose. I've made peace with that.\"\n\n\"You have not made peace with anything,\" Darcy says. \"You're wearing two jackets.\"\n\nHe is wearing two jackets.\n\nHere's the football. Kent State is 3-6 and 2-3 in the MAC, and the Golden Flashes run their offense through Dru DeShields, who has thrown for 1,629 yards with 9 touchdowns and 7 interceptions. Wayne Harris is the guy he looks for first, with 43 catches for 674 yards and 5 scores, and Harris went for 122 yards at Sacramento State on Halloween eve. When DeShields gets time, he can sling it: 294 yards and four touchdowns against Akron in October.\n\nThe trouble has been everywhere else. Kent State scores 14.3 points a game and gives up 30.6. Away from home this year, the Flashes have put up 0 at South Carolina, 3 at Ohio State, 7 at Western Michigan, 2 at South Florida and 10 at Sacramento State.\n\n\"Those were tough rooms,\" Ozzie says. \"I expected them to be tough rooms.\"\n\n\"This is a tough room,\" Darcy says. \"It's my room.\"\n\nBowling Green walks in at 2-7, also 2-3 in the league, and the Falcons have lost three straight by a combined 21 points. That hurts, but it also tells you how close they've been. Ball State beat them 32-31 in overtime. Buffalo won 31-24. Before that, Bowling Green went to Oxford and beat Miami 24-20, then put 38 on Sacramento State.\n\nJay Kastantin has completed 150 of his 225 throws for 1,567 yards and 11 touchdowns. Jeremiah Scoby, the tight end, leads the team with 31 catches, and Austyn Dendy has 371 rushing yards and 4 scores. But Darcy's heart lives on the other side of the ball, where Myles Bradley has 9 sacks and Dorian Pringle has 86 tackles.\n\n\"Nine sacks,\" Darcy says. \"That's a guy who lives in the crease. Ozzie, your quarterback is going to see him in his sleep.\"\n\n\"I already do,\" Ozzie says. \"I expected to.\"\n\nKent State has its own disrupter in Jaihien Roy, who has 5 sacks, and Hayden Dawahare has 50 tackles at linebacker. Ozzie lists them quietly, the way some people list their blessings, then immediately adds that Bowling Green has thrown 8 interceptions and that he will be watching every one of Kastantin's throws like it owes him money.\n\nHere's how the birthday goes. The crowd is louder than a 2-7 team usually earns, because Founders Day crowds don't care about records. Bradley gets home early and DeShields spends the first half running for his life. Harris breaks one deep in the second quarter to keep Kent State close, and Ozzie stands up, then sits back down because he doesn't trust it. Kastantin finds Scoby on the long third downs, Dendy grinds out the clock, and Pringle is in on every tackle that matters. Kent State scores late, but it's too late.\n\nDarcy bangs her stick on the rail like the horn just sounded. Ozzie takes off one of his two jackets, folds it over his arm and stares at the trophy as it heads back across the field.\n\n\"I expected this,\" he says, and for once, he really did.\n\nMy call: Bowling Green Falcons 27, Kent State Golden Flashes 17.",
+    "gambler_headline": "Kent State vs Bowling Green Pick: Falcons −5.5 on Founders Day",
     "handicappers": [
      {
-      "name": "The Formula",
-      "side_line": "Side: Bowling Green Falcons −6",
-      "ou_line": "O/U: Over 45.5",
-      "score_line": "Projected: Bowling Green Falcons 27, Kent State Golden Flashes 20 (Total 47)",
       "basis_line": "Net ratings Kent State Golden Flashes −23.7, Bowling Green Falcons −17.5 (ESPN Football Power Index, Nov 9, 2026)",
-      "independent": true,
-      "distance_from_spread": 1.0,
+      "distance_from_spread": 2.5,
       "distance_from_total": 1.5,
-      "landed_on_number": []
+      "independent": true,
+      "landed_on_number": [],
+      "name": "The Formula",
+      "ou_line": "O/U: Over 44.5",
+      "score_line": "Projected: Bowling Green Falcons 27, Kent State Golden Flashes 19 (Total 46)",
+      "side_line": "Side: Bowling Green Falcons −5.5"
      },
      {
-      "name": "Next Man Up",
-      "side_line": "Side: Bowling Green Falcons −6 · Likes this side",
-      "ou_line": "O/U: Under 45.5 · Likes this total",
-      "score_line": "Projected: Bowling Green Falcons 26, Kent State Golden Flashes 17 (Total 43)",
       "basis_line": "With the players available: projected points Kent State Golden Flashes 16.7, Bowling Green Falcons 25.6.",
+      "distance_from_spread": 3.5,
+      "distance_from_total": 1.5,
       "independent": true,
-      "distance_from_spread": 3.0,
-      "distance_from_total": 2.5,
-      "landed_on_number": []
+      "landed_on_number": [],
+      "name": "Next Man Up",
+      "ou_line": "O/U: Under 44.5",
+      "score_line": "Projected: Bowling Green Falcons 26, Kent State Golden Flashes 17 (Total 43)",
+      "side_line": "Side: Bowling Green Falcons −5.5 · Likes this side"
      },
      {
-      "name": "Letdown Watch",
-      "side_line": "Side: Bowling Green Falcons −6 · Likes this side",
-      "ou_line": "O/U: Under 45.5",
-      "score_line": "Projected: Bowling Green Falcons 29, Kent State Golden Flashes 16 (Total 45)",
       "basis_line": "Rest and travel read: projected points Kent State Golden Flashes 15.9, Bowling Green Falcons 29.5.",
-      "independent": true,
-      "distance_from_spread": 7.0,
+      "distance_from_spread": 7.5,
       "distance_from_total": 0.5,
-      "landed_on_number": []
+      "independent": true,
+      "landed_on_number": [],
+      "name": "Letdown Watch",
+      "ou_line": "O/U: Over 44.5",
+      "score_line": "Projected: Bowling Green Falcons 29, Kent State Golden Flashes 16 (Total 45)",
+      "side_line": "Side: Bowling Green Falcons −5.5 · Likes this side"
      },
      {
+      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 10:26 PM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "distance_from_spread": null,
+      "distance_from_total": null,
+      "independent": false,
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
       "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
-      "independent": false,
-      "distance_from_spread": null,
-      "distance_from_total": null
+      "side_line": "Side: pending (no consensus spread posted since Monday night yet)"
      },
      {
+      "basis_line": "Kent State Golden Flashes 3.0 ypc vs Bowling Green Falcons allowing 5.5; Bowling Green Falcons 3.3 ypc vs Kent State Golden Flashes allowing 4.1 (2026 season). The run-game reads favour different teams. In The Trenches has no pick.",
+      "distance_from_spread": null,
+      "distance_from_total": null,
+      "independent": false,
       "name": "In The Trenches",
-      "side_line": "Side: the trench reads split, so no side",
       "ou_line": "O/U: this card reads sides only",
       "score_line": "No score this week.",
-      "basis_line": "Kent State Golden Flashes 3.0 ypc vs Bowling Green Falcons allowing 5.5; Bowling Green Falcons 3.3 ypc vs Kent State Golden Flashes allowing 4.1 (2026 season). The run-game reads favour different teams. In The Trenches has no pick.",
-      "independent": false,
-      "distance_from_spread": null,
-      "distance_from_total": null
+      "side_line": "Side: the trench reads split, so no side"
      }
     ],
-    "story_text": "Bowling Green throws itself a birthday party on Tuesday night, and Kent State keeps showing up with the one present the Falcons want back. My Kent State vs Bowling Green pick is Bowling Green Falcons −6 with the Under 45.5, and my final is Bowling Green Falcons 27, Kent State Golden Flashes 17, as BGSU celebrates Founders Day at Doyt L. Perry Stadium with the Anniversary Award up for grabs at 7:00 PM ET.\n\nThat trophy honors two schools that were founded the same year, and Darcy Fenwick wants it home for the birthday. \"Myles Bradley has 9 sacks. Dorian Pringle has 86 tackles. Kent State scores 14.3 a game, Ozzie. I've stopped scarier breakaways in a Saturday morning youth clinic.\"\n\nOzzie Brannigan sighs like a man who has seen this movie. \"I expected that. But Dru DeShields threw for 294 and four touchdowns against Akron. Wayne Harris had 122 yards last week. And we took the trophy last year, 24-21. I expected to lose that one too.\"\n\nHere's why I lay the 6. Kent State's offense has been stuck on the road all year: 0 at South Carolina, 3 at Ohio State, 7 at Western Michigan, 2 at South Florida and 10 at Sacramento State. The Flashes score 14.3 a game and allow 30.6. Bowling Green is 2-7, but the Falcons put 24 on Miami and 38 on Sacramento State, lost to Ball State 32-31 in overtime and fell to Buffalo 31-24. Jay Kastantin has completed 150 of 225 with 11 touchdowns. My final has Bowling Green by 10, four clear of the number.\n\nNeither quarterback spot is a question. DeShields has taken the most throws in all nine Kent State games, and Kastantin has done the same for Bowling Green. Bradley against a Kent State front that has to protect DeShields on the road is the matchup I keep circling.\n\nOn the over/under, DraftKings opened at 44.5 and it has crept to 45.5, while the spread moved from 5.5 to 6. I'm staying Under 45.5. Kent State has scored 10 or fewer in six of nine games, and Bowling Green managed 10 at Western Michigan last time out. My 27-17 lands on 44.\n\nMost of the room rides with the Falcons. Next Man Up has Bowling Green 26-17, likes the −6 and likes the Under 45.5. Letdown Watch has it 29-16, likes the Falcons −6 and sits on the Under too. The Formula has 27-20, lays the 6 and goes Over. In The Trenches has no side and no over/under call on this one. Follow The Money is still waiting on a consensus spread, so its side is pending, and it has no total pick.\n\nNext Man Up: \"The Formula went Over with a team that scored 2 at South Florida. That's not a forecast. That's a birthday wish.\"\n\nThe Formula: \"It's Founders Day, Next Man Up. Let a guy have some cake. You and Letdown Watch can split the Under and the candles.\"\n\nDarcy taps her stick twice on the rail. Ozzie folds his hands and waits for the worst, which is exactly how he waited last October.\n\nBowling Green Falcons 27, Kent State Golden Flashes 17. Bowling Green Falcons cover the 6. Under 45.5.",
-    "fanatic_score_line": "Projected: Bowling Green Falcons 27, Kent State Golden Flashes 17 (44 combined points)",
-    "line_used": {
-     "home_line": "Bowling Green Falcons −6",
-     "total": "45.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
-    },
     "injuries": {
      "away": [],
+     "fetched_at_utc": "2026-11-10T03:26Z",
      "home": [],
-     "source": "Not posted yet: the official conference availability report for this game",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "source": "Not posted yet: the official conference availability report for this game"
+    },
+    "line_used": {
+     "fetched_at_utc": "2026-11-10T03:26Z",
+     "home_line": "Bowling Green Falcons −5.5",
+     "source": "ESPN game page odds (DraftKings), Nov 9, 2026, 10:26 PM ET",
+     "total": "44.5"
+    },
+    "market": {
+     "note": "The market’s own numbers, shown for comparison only.",
+     "score_line": "",
+     "source": "ESPN game page odds (DraftKings), Nov 9, 2026, 10:26 PM ET",
+     "spread": "Bowling Green Falcons −5.5",
+     "total": "44.5"
     },
     "sourced_reasons": [
-     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "Lines: ESPN game page odds (DraftKings, espn.com); kickoff: ESPN scoreboard (espn.com)",
      "ESPN Football Power Index",
      "Points: ESPN team pages for Kent State and Bowling Green (espn.com)",
      "Market moves: Action Network consensus line history (actionnetwork.com)",
@@ -1045,138 +1018,138 @@
      "Trench stats: ESPN team stats for Bowling Green (espn.com)",
      "Schedule history: collegefootballdata.com 2018–2025"
     ],
-    "fanatic_story": "Bowling Green turns Tuesday night into a birthday party. Kent State Golden Flashes vs Bowling Green Falcons is the Founders Day game at Doyt L. Perry Stadium, and the trophy waiting on the sideline was built for exactly this kind of night: the Anniversary Award, made to honor two schools that were born in the same year, 1910.\n\nDarcy Fenwick has been staring at that trophy since last October, when Kent State kept it with a 24-21 win. Ozzie Brannigan has been staring at the schedule, the weather and the ceiling, because Ozzie expects the worst every week and gets grumpy when he's wrong.\n\n\"Founders Day,\" Darcy says. \"Fan and Student Appreciation Night. Students claim free tickets. The whole campus shows up to celebrate the school's birthday, and you're the guy who brought the present we want back.\"\n\n\"I expected a warm welcome,\" Ozzie says. \"I did not get one. This is fine. This is what I expected.\"\n\nThe history of the thing is wonderful, and both of them know it cold. The Lowry Bill created both schools in 1910. The alumni offices dreamed up the Anniversary Award in 1985 to mark their 75th birthdays, and Bowling Green has won it 27 times to Kent State's 13. Darcy says those numbers like a goalie reading off a save chart. Ozzie counters with the recent stuff, because the recent stuff is the only part he enjoys.\n\n\"We won it five years in a row,\" he says. \"Twenty-eighteen through twenty-twenty-two. Sixty-two points, twice. Then you won it back two straight, then we took it last year. So it's our turn to lose. I've made peace with that.\"\n\n\"You have not made peace with anything,\" Darcy says. \"You're wearing two jackets.\"\n\nHe is wearing two jackets.\n\nHere's the football. Kent State is 3-6 and 2-3 in the MAC, and the Golden Flashes run their offense through Dru DeShields, who has thrown for 1,629 yards with 9 touchdowns and 7 interceptions. Wayne Harris is the guy he looks for first, with 43 catches for 674 yards and 5 scores, and Harris went for 122 yards at Sacramento State on Halloween eve. When DeShields gets time, he can sling it: 294 yards and four touchdowns against Akron in October.\n\nThe trouble has been everywhere else. Kent State scores 14.3 points a game and gives up 30.6. Away from home this year, the Flashes have put up 0 at South Carolina, 3 at Ohio State, 7 at Western Michigan, 2 at South Florida and 10 at Sacramento State.\n\n\"Those were tough rooms,\" Ozzie says. \"I expected them to be tough rooms.\"\n\n\"This is a tough room,\" Darcy says. \"It's my room.\"\n\nBowling Green walks in at 2-7, also 2-3 in the league, and the Falcons have lost three straight by a combined 21 points. That hurts, but it also tells you how close they've been. Ball State beat them 32-31 in overtime. Buffalo won 31-24. Before that, Bowling Green went to Oxford and beat Miami 24-20, then put 38 on Sacramento State.\n\nJay Kastantin has completed 150 of his 225 throws for 1,567 yards and 11 touchdowns. Jeremiah Scoby, the tight end, leads the team with 31 catches, and Austyn Dendy has 371 rushing yards and 4 scores. But Darcy's heart lives on the other side of the ball, where Myles Bradley has 9 sacks and Dorian Pringle has 86 tackles.\n\n\"Nine sacks,\" Darcy says. \"That's a guy who lives in the crease. Ozzie, your quarterback is going to see him in his sleep.\"\n\n\"I already do,\" Ozzie says. \"I expected to.\"\n\nKent State has its own disrupter in Jaihien Roy, who has 5 sacks, and Hayden Dawahare has 50 tackles at linebacker. Ozzie lists them quietly, the way some people list their blessings, then immediately adds that Bowling Green has thrown 8 interceptions and that he will be watching every one of Kastantin's throws like it owes him money.\n\nHere's how the birthday goes. The crowd is louder than a 2-7 team usually earns, because Founders Day crowds don't care about records. Bradley gets home early and DeShields spends the first half running for his life. Harris breaks one deep in the second quarter to keep Kent State close, and Ozzie stands up, then sits back down because he doesn't trust it. Kastantin finds Scoby on the long third downs, Dendy grinds out the clock, and Pringle is in on every tackle that matters. Kent State scores late, but it's too late.\n\nDarcy bangs her stick on the rail like the horn just sounded. Ozzie takes off one of his two jackets, folds it over his arm and stares at the trophy as it heads back across the field.\n\n\"I expected this,\" he says, and for once, he really did.\n\nMy call: Bowling Green Falcons 27, Kent State Golden Flashes 17.",
-    "market": {
-     "score_line": "",
-     "spread": "Bowling Green Falcons −6",
-     "total": "45.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "note": "The market’s own numbers, shown for comparison only."
-    },
-    "gambler_headline": "Kent State vs Bowling Green Pick: Falcons −6 on Founders Day",
-    "fanatic_headline": "Kent State vs Bowling Green: Founders Day Fight for the Anniversary Award"
+    "story_text": "Bowling Green throws itself a birthday party on Tuesday night, and Kent State keeps showing up with the one present the Falcons want back. My Kent State vs Bowling Green pick is Bowling Green Falcons −5.5 with the Under 44.5, and my final is Bowling Green Falcons 27, Kent State Golden Flashes 17, as BGSU celebrates Founders Day at Doyt L. Perry Stadium with the Anniversary Award up for grabs at 7:00 PM ET.\n\nThat trophy honors two schools that were founded the same year, and Darcy Fenwick wants it home for the birthday. \"Myles Bradley has 9 sacks. Dorian Pringle has 86 tackles. Kent State scores 14.3 a game, Ozzie. I've stopped scarier breakaways in a Saturday morning youth clinic.\"\n\nOzzie Brannigan sighs like a man who has seen this movie. \"I expected that. But Dru DeShields threw for 294 and four touchdowns against Akron. Wayne Harris had 122 yards last week. And we took the trophy last year, 24-21. I expected to lose that one too.\"\n\nHere's why I lay the 5.5. Kent State's offense has been stuck on the road all year: 0 at South Carolina, 3 at Ohio State, 7 at Western Michigan, 2 at South Florida and 10 at Sacramento State. The Flashes score 14.3 a game and allow 30.6. Bowling Green is 2-7, but the Falcons put 24 on Miami and 38 on Sacramento State, lost to Ball State 32-31 in overtime and fell to Buffalo 31-24. Jay Kastantin has completed 150 of 225 with 11 touchdowns. My final has Bowling Green by 10, four and a half clear of the number.\n\nNeither quarterback spot is a question. DeShields has taken the most throws in all nine Kent State games, and Kastantin has done the same for Bowling Green. Bradley against a Kent State front that has to protect DeShields on the road is the matchup I keep circling.\n\nOn the over/under, DraftKings opened at 44.5 and is back at the open, while the spread is back at 5.5. I'm staying Under 44.5. Kent State has scored 10 or fewer in six of nine games, and Bowling Green managed 10 at Western Michigan last time out. My 27-17 lands on 44.\n\nMost of the room rides with the Falcons, and the total splits. Next Man Up has Bowling Green 26-17, likes the −5.5 and goes Under 44.5. Letdown Watch has it 29-16, likes the Falcons −5.5 and goes Over 44.5. The Formula has 27-19, lays the 5.5 and goes Over. In The Trenches has no side and no over/under call on this one. Follow The Money is still waiting on a consensus spread, so its side is pending, and it has no total pick.\n\nNext Man Up: \"The Formula went Over with a team that scored 2 at South Florida. That's not a forecast. That's a birthday wish.\"\n\nThe Formula: \"It's Founders Day, Next Man Up. Let a guy have some cake. Letdown Watch is over here with me on the Over, and we saved you a candle.\"\n\nDarcy taps her stick twice on the rail. Ozzie folds his hands and waits for the worst, which is exactly how he waited last October.\n\nBowling Green Falcons 27, Kent State Golden Flashes 17. Bowling Green Falcons cover the 5.5. Under 44.5.",
+    "writer": {
+     "label": "",
+     "ou": "Under 44.5",
+     "score_line": "Projected: Bowling Green Falcons 27, Kent State Golden Flashes 17 (Total 44)",
+     "side": "Bowling Green Falcons −5.5"
+    }
    },
-   "gambler_story": "Bowling Green throws itself a birthday party on Tuesday night, and Kent State keeps showing up with the one present the Falcons want back. My Kent State vs Bowling Green pick is Bowling Green Falcons −6 with the Under 45.5, and my final is Bowling Green Falcons 27, Kent State Golden Flashes 17, as BGSU celebrates Founders Day at Doyt L. Perry Stadium with the Anniversary Award up for grabs at 7:00 PM ET.\n\nThat trophy honors two schools that were founded the same year, and Darcy Fenwick wants it home for the birthday. \"Myles Bradley has 9 sacks. Dorian Pringle has 86 tackles. Kent State scores 14.3 a game, Ozzie. I've stopped scarier breakaways in a Saturday morning youth clinic.\"\n\nOzzie Brannigan sighs like a man who has seen this movie. \"I expected that. But Dru DeShields threw for 294 and four touchdowns against Akron. Wayne Harris had 122 yards last week. And we took the trophy last year, 24-21. I expected to lose that one too.\"\n\nHere's why I lay the 6. Kent State's offense has been stuck on the road all year: 0 at South Carolina, 3 at Ohio State, 7 at Western Michigan, 2 at South Florida and 10 at Sacramento State. The Flashes score 14.3 a game and allow 30.6. Bowling Green is 2-7, but the Falcons put 24 on Miami and 38 on Sacramento State, lost to Ball State 32-31 in overtime and fell to Buffalo 31-24. Jay Kastantin has completed 150 of 225 with 11 touchdowns. My final has Bowling Green by 10, four clear of the number.\n\nNeither quarterback spot is a question. DeShields has taken the most throws in all nine Kent State games, and Kastantin has done the same for Bowling Green. Bradley against a Kent State front that has to protect DeShields on the road is the matchup I keep circling.\n\nOn the over/under, DraftKings opened at 44.5 and it has crept to 45.5, while the spread moved from 5.5 to 6. I'm staying Under 45.5. Kent State has scored 10 or fewer in six of nine games, and Bowling Green managed 10 at Western Michigan last time out. My 27-17 lands on 44.\n\nMost of the room rides with the Falcons. Next Man Up has Bowling Green 26-17, likes the −6 and likes the Under 45.5. Letdown Watch has it 29-16, likes the Falcons −6 and sits on the Under too. The Formula has 27-20, lays the 6 and goes Over. In The Trenches has no side and no over/under call on this one. Follow The Money is still waiting on a consensus spread, so its side is pending, and it has no total pick.\n\nNext Man Up: \"The Formula went Over with a team that scored 2 at South Florida. That's not a forecast. That's a birthday wish.\"\n\nThe Formula: \"It's Founders Day, Next Man Up. Let a guy have some cake. You and Letdown Watch can split the Under and the candles.\"\n\nDarcy taps her stick twice on the rail. Ozzie folds his hands and waits for the worst, which is exactly how he waited last October.\n\nBowling Green Falcons 27, Kent State Golden Flashes 17. Bowling Green Falcons cover the 6. Under 45.5."
-  },
-  {
-   "game_id": "401866460",
-   "matchup": "Ohio Bobcats at Miami (OH) RedHawks",
-   "away": {
-    "team": "Ohio Bobcats",
-    "conference": "MAC",
-    "record": "7-2",
-    "rank": null
-   },
+   "gambler_story": "Bowling Green throws itself a birthday party on Tuesday night, and Kent State keeps showing up with the one present the Falcons want back. My Kent State vs Bowling Green pick is Bowling Green Falcons −5.5 with the Under 44.5, and my final is Bowling Green Falcons 27, Kent State Golden Flashes 17, as BGSU celebrates Founders Day at Doyt L. Perry Stadium with the Anniversary Award up for grabs at 7:00 PM ET.\n\nThat trophy honors two schools that were founded the same year, and Darcy Fenwick wants it home for the birthday. \"Myles Bradley has 9 sacks. Dorian Pringle has 86 tackles. Kent State scores 14.3 a game, Ozzie. I've stopped scarier breakaways in a Saturday morning youth clinic.\"\n\nOzzie Brannigan sighs like a man who has seen this movie. \"I expected that. But Dru DeShields threw for 294 and four touchdowns against Akron. Wayne Harris had 122 yards last week. And we took the trophy last year, 24-21. I expected to lose that one too.\"\n\nHere's why I lay the 5.5. Kent State's offense has been stuck on the road all year: 0 at South Carolina, 3 at Ohio State, 7 at Western Michigan, 2 at South Florida and 10 at Sacramento State. The Flashes score 14.3 a game and allow 30.6. Bowling Green is 2-7, but the Falcons put 24 on Miami and 38 on Sacramento State, lost to Ball State 32-31 in overtime and fell to Buffalo 31-24. Jay Kastantin has completed 150 of 225 with 11 touchdowns. My final has Bowling Green by 10, four and a half clear of the number.\n\nNeither quarterback spot is a question. DeShields has taken the most throws in all nine Kent State games, and Kastantin has done the same for Bowling Green. Bradley against a Kent State front that has to protect DeShields on the road is the matchup I keep circling.\n\nOn the over/under, DraftKings opened at 44.5 and is back at the open, while the spread is back at 5.5. I'm staying Under 44.5. Kent State has scored 10 or fewer in six of nine games, and Bowling Green managed 10 at Western Michigan last time out. My 27-17 lands on 44.\n\nMost of the room rides with the Falcons, and the total splits. Next Man Up has Bowling Green 26-17, likes the −5.5 and goes Under 44.5. Letdown Watch has it 29-16, likes the Falcons −5.5 and goes Over 44.5. The Formula has 27-19, lays the 5.5 and goes Over. In The Trenches has no side and no over/under call on this one. Follow The Money is still waiting on a consensus spread, so its side is pending, and it has no total pick.\n\nNext Man Up: \"The Formula went Over with a team that scored 2 at South Florida. That's not a forecast. That's a birthday wish.\"\n\nThe Formula: \"It's Founders Day, Next Man Up. Let a guy have some cake. Letdown Watch is over here with me on the Over, and we saved you a candle.\"\n\nDarcy taps her stick twice on the rail. Ozzie folds his hands and waits for the worst, which is exactly how he waited last October.\n\nBowling Green Falcons 27, Kent State Golden Flashes 17. Bowling Green Falcons cover the 5.5. Under 44.5.",
+   "game_id": "401866459",
    "home": {
-    "team": "Miami (OH) RedHawks",
     "conference": "MAC",
-    "record": "5-4",
-    "rank": null
+    "rank": null,
+    "record": "2-7",
+    "team": "Bowling Green Falcons"
    },
-   "kickoff_et": "8:00 PM ET Tue Nov 10",
-   "kickoff_utc": "2026-11-11T01:00Z",
-   "tv": [
-    "ESPN2"
-   ],
-   "venue": "Yager Stadium",
-   "conferences": [
-    "MAC"
-   ],
-   "team_ids": [
-    "ohio",
-    "miami-oh"
-   ],
-   "spread": "Ohio Bobcats −1.5",
-   "total_line": 48.5,
+   "kickoff_et": "7:00 PM ET Tue Nov 10",
+   "kickoff_utc": "2026-11-11T00:00Z",
+   "matchup": "Kent State Golden Flashes at Bowling Green Falcons",
    "prediction": {
-    "away_score": 24,
+    "away_score": 17,
+    "covers": "Bowling Green Falcons −5.5",
     "home_score": 27,
-    "winner": "Miami (OH) RedHawks",
-    "covers": "Miami (OH) RedHawks +1.5"
+    "winner": "Bowling Green Falcons"
    },
-   "total_pick": "Over",
+   "spread": "Bowling Green Falcons −5.5",
    "status_at_build": {
     "state": "pre"
    },
+   "team_ids": [
+    "kent-state",
+    "bowling-green"
+   ],
+   "total_line": 44.5,
+   "total_pick": "Under",
+   "tv": [
+    "ESPNU"
+   ],
+   "venue": "Doyt L. Perry Stadium"
+  },
+  {
+   "away": {
+    "conference": "MAC",
+    "rank": null,
+    "record": "7-2",
+    "team": "Ohio Bobcats"
+   },
+   "conferences": [
+    "MAC"
+   ],
    "display": {
-    "writer": {
-     "side": "Miami (OH) RedHawks +1.5",
-     "ou": "Over 48.5",
-     "label": "",
-     "score_line": "Projected: Miami (OH) RedHawks 27, Ohio Bobcats 24 (Total 51)"
-    },
+    "fanatic_headline": "Ohio vs Miami (OH): The Battle of the Bricks Comes to Oxford",
+    "fanatic_score_line": "Projected: Miami (OH) RedHawks 27, Ohio Bobcats 24 (51 combined points)",
+    "fanatic_story": "The two oldest universities in Ohio meet for the 103rd time on Tuesday night, and only one side leaves Oxford with a reason to pour something warm into a new mug. Ohio Bobcats vs Miami (OH) RedHawks is the Battle of the Bricks at Yager Stadium, and Penny Trautman and Cordelia Van Doren have been arguing about it since roughly 1804.\n\nThat's the year Ohio University was founded, and Penny brings it up before she even sits down. \"Eighteen-oh-four. We're older. We were teaching people to read while Miami was still an idea.\"\n\n\"Eighteen-oh-nine,\" Cordelia answers, adjusting her pearls. \"Five years is nothing between friends. And a quiz for you, Penny: who won the very first one, in 1908?\"\n\nPenny knows. Everybody in both towns knows. Miami won it 5-0, back when a touchdown was worth five points, and Miami still leads the series 56-44 with 2 ties. Penny counters with the present, which is where she'd rather live. Ohio won the 2024 MAC title game over Miami 38-3 in Detroit and then won last year's meeting in Athens 24-20. Every Ohio win over Miami comes with a commemorative mug for the players and staff, and Penny treats that tradition like scripture.\n\n\"Two in a row,\" Penny says. \"I'd like a third.\"\n\n\"You can have tea in one of the ones you've got,\" Cordelia says. \"We'll keep the 100th anniversary game, thank you.\" Miami won that one at Yager in October of 2024, 30-20, and she keeps the score in her head like a phone number.\n\nOxford has a little music going before kickoff too. Over at Souers Recital Hall, there's an evening of American Latin music for oboe and piano at 7:30, half an hour before the RedHawks run out. Cordelia says she plans to hear the first piece and then walk briskly. Penny says she'll be in her seat early, wearing green, which in Oxford counts as a form of protest.\n\nNow the football, and both of them shift in their seats.\n\nOhio is 7-2 and a perfect 5-0 in the MAC, first place in the conference. The Bobcats score 29.4 points a game and give up 21.7. Nick Poulos has taken the most throws in each of the last four games and has 978 yards with 7 touchdowns. Riley Neer is the go-to receiver, with 41 catches for 551 yards and 5 scores, and Dom Dorwart had 108 yards against Akron last week. Duncan Brune ran 10 times for 111 yards in that game. On defense, Michael Molnar is everywhere: 86 tackles and 6 sacks from the linebacker spot.\n\n\"Molnar is the whole hill,\" Penny says. \"You go left, he's there. You go right, he's already there and waiting for you.\"\n\nMiami is 5-4 and 3-2 in the league, and the RedHawks just lost a heartbreaker, 34-31 in overtime to Buffalo. Cordelia doesn't want to talk about it, then talks about it for five minutes. They score 27.4 a game. David McComb leads the team with 1,121 yards and only 1 interception, and Caleb Heavner has taken the most throws in each of the last five games. Maleek Huggins is the big-play receiver, with 473 yards on 27 catches. Rodney Nelson leads the ground game with 436 yards, and D'Shawntae Jones ran for 112 against Buffalo. Roosevelt Andrews III has 5.5 sacks up front, and Malcolm McCain has 70 tackles.\n\n\"We've played close all year,\" Cordelia says. \"Twenty to nineteen at Massachusetts. Twenty-eight to twenty-seven at Central Michigan. Our people don't panic. Our people bring blankets.\"\n\nThe recent history is a seesaw. In the ten meetings since 2016, Ohio won six and Miami won four. Penny calls that a trend. Cordelia calls it a sample. They both call the 2021 game, a 35-33 Ohio win, the best one of the bunch.\n\n\"So how does it go?\" Penny asks.\n\nHere's how it goes. It's tight early, because this one is always tight early. Molnar gets to Heavner once in the first half and the Ohio fans at Yager get very loud. Poulos finds Neer for a big gain to put the Bobcats in front. Then Miami does what it's done all year and hangs around. Jones and Nelson grind out the third quarter. Huggins gets behind the defense once in the fourth. Andrews and McCain make the stop that matters with a few minutes left, and a late field goal sends Oxford home happy.\n\nCordelia rises, smooths her coat and announces that she'll be heading back toward the recital hall to see if the oboist is taking requests. Penny tucks her travel mug back into her bag, looks at Cordelia and says, \"Fine. Next year, Peden Stadium. Bring the pearls.\"\n\nMy call: Miami (OH) RedHawks 27, Ohio Bobcats 24.",
+    "gambler_headline": "Ohio vs Miami (OH) Pick: RedHawks +1.5 in the Battle of the Bricks",
     "handicappers": [
      {
-      "name": "The Formula",
-      "side_line": "Side: Miami (OH) RedHawks +1.5",
-      "ou_line": "O/U: Over 48.5 · Likes this total",
-      "score_line": "Projected: Miami (OH) RedHawks 26, Ohio Bobcats 26 (Total 52)",
       "basis_line": "Net ratings Ohio Bobcats −8.3, Miami (OH) RedHawks −10.1 (ESPN Football Power Index, Nov 9, 2026)",
+      "distance_from_spread": 2.5,
+      "distance_from_total": 4.5,
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 3.5,
-      "landed_on_number": []
+      "landed_on_number": [],
+      "name": "The Formula",
+      "ou_line": "O/U: Over 46.5 · Likes this total",
+      "score_line": "Projected: Miami (OH) RedHawks 26, Ohio Bobcats 25 (Total 51)",
+      "side_line": "Side: Miami (OH) RedHawks +1.5"
      },
      {
-      "name": "Next Man Up",
-      "side_line": "Side: Miami (OH) RedHawks +1.5",
-      "ou_line": "O/U: Over 48.5 · Likes this total",
-      "score_line": "Projected: Miami (OH) RedHawks 27, Ohio Bobcats 27 (Total 54)",
       "basis_line": "With the players available: projected points Ohio Bobcats 27.2, Miami (OH) RedHawks 26.6.",
-      "independent": true,
       "distance_from_spread": 1.5,
-      "distance_from_total": 5.5,
-      "landed_on_number": []
-     },
-     {
-      "name": "Letdown Watch",
-      "side_line": "Side: Ohio Bobcats −1.5",
-      "ou_line": "O/U: Over 48.5",
-      "score_line": "Projected: Ohio Bobcats 26, Miami (OH) RedHawks 24 (Total 50)",
-      "basis_line": "Rest and travel read: projected points Ohio Bobcats 26.4, Miami (OH) RedHawks 23.6.",
+      "distance_from_total": 7.5,
       "independent": true,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 1.5,
-      "landed_on_number": []
+      "landed_on_number": [],
+      "name": "Next Man Up",
+      "ou_line": "O/U: Over 46.5 · Likes this total",
+      "score_line": "Projected: Miami (OH) RedHawks 27, Ohio Bobcats 27 (Total 54)",
+      "side_line": "Side: Miami (OH) RedHawks +1.5"
      },
      {
+      "basis_line": "Rest and travel read: projected points Ohio Bobcats 26.4, Miami (OH) RedHawks 23.6.",
+      "distance_from_spread": 0.5,
+      "distance_from_total": 3.5,
+      "independent": true,
+      "landed_on_number": [],
+      "name": "Letdown Watch",
+      "ou_line": "O/U: Over 46.5 · Likes this total",
+      "score_line": "Projected: Ohio Bobcats 26, Miami (OH) RedHawks 24 (Total 50)",
+      "side_line": "Side: Ohio Bobcats −1.5"
+     },
+     {
+      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 10:26 PM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "distance_from_spread": null,
+      "distance_from_total": null,
+      "independent": false,
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
       "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
-      "independent": false,
-      "distance_from_spread": null,
-      "distance_from_total": null
+      "side_line": "Side: pending (no consensus spread posted since Monday night yet)"
      },
      {
+      "basis_line": "This read points to a side only. Ohio Bobcats 5.0 ypc vs Miami (OH) RedHawks allowing 3.3; Miami (OH) RedHawks 4.3 ypc vs Ohio Bobcats allowing 3.9 (2026 season). Ohio Bobcats run game 1.7 ypc above what the opponent allows, which favours Ohio Bobcats. Side: Ohio Bobcats −1.5.",
+      "distance_from_spread": 5.5,
+      "distance_from_total": 3.5,
+      "independent": true,
+      "landed_on_number": [],
       "name": "In The Trenches",
-      "side_line": "Side: Ohio Bobcats −1.5 · Likes this side",
       "ou_line": "O/U: this card reads sides only",
       "score_line": "Projected: Miami (OH) RedHawks 27, Ohio Bobcats 23 (Total 50)",
-      "basis_line": "This read points to a side only. Ohio Bobcats 5.0 ypc vs Miami (OH) RedHawks allowing 3.3; Miami (OH) RedHawks 4.3 ypc vs Ohio Bobcats allowing 3.9 (2026 season). Ohio Bobcats run game 1.7 ypc above what the opponent allows, which favours Ohio Bobcats. Side: Ohio Bobcats −1.5.",
-      "independent": true,
-      "distance_from_spread": 5.5,
-      "distance_from_total": 1.5,
-      "landed_on_number": []
+      "side_line": "Side: Ohio Bobcats −1.5 · Likes this side"
      }
     ],
-    "story_text": "Ohio players get a mug every time they beat Miami, and the Bobcats have won the last two meetings. My Ohio vs Miami (OH) prediction for Tuesday's Battle of the Bricks at Yager Stadium takes Miami (OH) RedHawks +1.5 and the Over 48.5, with a final of Miami (OH) RedHawks 27, Ohio Bobcats 24, at 8:00 PM ET in Oxford.\n\nPenny Trautman wants a third mug for the cupboard. \"Ohio is 7-2 and 5-0 in the MAC. Nick Poulos has taken the most throws in each of our last four games, Duncan Brune ran for 111 at Akron, and Michael Molnar has 6 sacks and 86 tackles. Cordelia, clear a shelf.\"\n\nCordelia Van Doren smooths her scarf and doesn't blink. \"Miami leads the all-time series, Penny, and I'll spare you the count because you'd only argue with it. Maleek Huggins has 473 receiving yards. Roosevelt Andrews III has 5.5 sacks. We scored 31 on Buffalo last Tuesday and lost in overtime, and nobody in this building has forgotten it.\"\n\nHere's why I take the points. The number flipped. DraftKings opened Miami (OH) RedHawks −1.5 with the over/under at 47.5, and now Ohio is the road team laying 1.5 and the over/under is 48.5. Miami lives in one-score games: 24-21 over UConn, 20-19 at Massachusetts, 28-27 at Central Michigan and that 34-31 overtime loss to Buffalo. Ohio has been tight on the road too, 13-10 at Kent State and 28-20 at Akron. Miami (OH) is at 27.4 points per game this season, and Ohio allows 21.7. My final has Miami by 3, which clears the 1.5.\n\nBoth quarterback rooms carry two names. Matt Vezza took the most Ohio throws in four September and early October games before Poulos took over, and Poulos has 978 yards with 7 touchdowns. Miami's David McComb leads the team with 1,121 yards, but Caleb Heavner has taken the most throws in each of the last five games. I'm pricing Heavner, and Miami still comes out ahead at home.\n\nOn the over/under, I'm on the Over 48.5. Miami has scored at least 28 in each of its last three games: 34 against Akron, 28 at Central Michigan and 31 against Buffalo. Ohio scores 29.4 a game. My 27-24 gets to 51.\n\nThe room splits right down the middle. The Formula has it 26-26, takes Miami (OH) RedHawks +1.5 and likes the Over 48.5. Next Man Up has 27-27, also takes the RedHawks +1.5 and likes the Over. Letdown Watch has Ohio 26-24, lays the −1.5 and goes Over. In The Trenches likes Ohio Bobcats −1.5 and makes no over/under call. Follow The Money is still waiting on a consensus spread, so its side is pending, and it has no total pick.\n\nThe Formula: \"Twenty-six all, Next Man Up. You looked at my tie and added a point to each side like that was a breakthrough.\"\n\nNext Man Up: \"Twenty-seven all is a better tie. Oxford deserves the extra field goal. You'd split a brick in half and call it neutral.\"\n\nPenny wraps both hands around a travel mug and grins at Cordelia. Cordelia raises an eyebrow, checks the clock on the scoreboard and asks whether that mug is about to be the last one.\n\nMiami (OH) RedHawks 27, Ohio Bobcats 24. Miami (OH) RedHawks cover the 1.5. Over 48.5.",
-    "fanatic_score_line": "Projected: Miami (OH) RedHawks 27, Ohio Bobcats 24 (51 combined points)",
-    "line_used": {
-     "home_line": "Miami (OH) RedHawks +1.5",
-     "total": "48.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
-    },
     "injuries": {
      "away": [],
+     "fetched_at_utc": "2026-11-10T03:26Z",
      "home": [],
-     "source": "Not posted yet: the official conference availability report for this game",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "source": "Not posted yet: the official conference availability report for this game"
+    },
+    "line_used": {
+     "fetched_at_utc": "2026-11-10T03:26Z",
+     "home_line": "Miami (OH) RedHawks +1.5",
+     "source": "ESPN game page odds (DraftKings), Nov 9, 2026, 10:26 PM ET",
+     "total": "46.5"
+    },
+    "market": {
+     "note": "The market’s own numbers, shown for comparison only.",
+     "score_line": "",
+     "source": "ESPN game page odds (DraftKings), Nov 9, 2026, 10:26 PM ET",
+     "spread": "Ohio Bobcats −1.5",
+     "total": "46.5"
     },
     "sourced_reasons": [
-     "Lines and kickoff: ESPN scoreboard (espn.com)",
+     "Lines: ESPN game page odds (DraftKings, espn.com); kickoff: ESPN scoreboard (espn.com)",
      "ESPN Football Power Index",
      "Points: ESPN team pages for Ohio and Miami (OH) (espn.com)",
      "Market moves: Action Network consensus line history (actionnetwork.com)",
@@ -1184,37 +1157,64 @@
      "Trench stats: ESPN team stats for Miami (OH) (espn.com)",
      "Schedule history: collegefootballdata.com 2018–2025"
     ],
-    "fanatic_story": "The two oldest universities in Ohio meet for the 103rd time on Tuesday night, and only one side leaves Oxford with a reason to pour something warm into a new mug. Ohio Bobcats vs Miami (OH) RedHawks is the Battle of the Bricks at Yager Stadium, and Penny Trautman and Cordelia Van Doren have been arguing about it since roughly 1804.\n\nThat's the year Ohio University was founded, and Penny brings it up before she even sits down. \"Eighteen-oh-four. We're older. We were teaching people to read while Miami was still an idea.\"\n\n\"Eighteen-oh-nine,\" Cordelia answers, adjusting her pearls. \"Five years is nothing between friends. And a quiz for you, Penny: who won the very first one, in 1908?\"\n\nPenny knows. Everybody in both towns knows. Miami won it 5-0, back when a touchdown was worth five points, and Miami still leads the series 56-44 with 2 ties. Penny counters with the present, which is where she'd rather live. Ohio won the 2024 MAC title game over Miami 38-3 in Detroit and then won last year's meeting in Athens 24-20. Every Ohio win over Miami comes with a commemorative mug for the players and staff, and Penny treats that tradition like scripture.\n\n\"Two in a row,\" Penny says. \"I'd like a third.\"\n\n\"You can have tea in one of the ones you've got,\" Cordelia says. \"We'll keep the 100th anniversary game, thank you.\" Miami won that one at Yager in October of 2024, 30-20, and she keeps the score in her head like a phone number.\n\nOxford has a little music going before kickoff too. Over at Souers Recital Hall, there's an evening of American Latin music for oboe and piano at 7:30, half an hour before the RedHawks run out. Cordelia says she plans to hear the first piece and then walk briskly. Penny says she'll be in her seat early, wearing green, which in Oxford counts as a form of protest.\n\nNow the football, and both of them shift in their seats.\n\nOhio is 7-2 and a perfect 5-0 in the MAC, first place in the conference. The Bobcats score 29.4 points a game and give up 21.7. Nick Poulos has taken the most throws in each of the last four games and has 978 yards with 7 touchdowns. Riley Neer is the go-to receiver, with 41 catches for 551 yards and 5 scores, and Dom Dorwart had 108 yards against Akron last week. Duncan Brune ran 10 times for 111 yards in that game. On defense, Michael Molnar is everywhere: 86 tackles and 6 sacks from the linebacker spot.\n\n\"Molnar is the whole hill,\" Penny says. \"You go left, he's there. You go right, he's already there and waiting for you.\"\n\nMiami is 5-4 and 3-2 in the league, and the RedHawks just lost a heartbreaker, 34-31 in overtime to Buffalo. Cordelia doesn't want to talk about it, then talks about it for five minutes. They score 27.4 a game. David McComb leads the team with 1,121 yards and only 1 interception, and Caleb Heavner has taken the most throws in each of the last five games. Maleek Huggins is the big-play receiver, with 473 yards on 27 catches. Rodney Nelson leads the ground game with 436 yards, and D'Shawntae Jones ran for 112 against Buffalo. Roosevelt Andrews III has 5.5 sacks up front, and Malcolm McCain has 70 tackles.\n\n\"We've played close all year,\" Cordelia says. \"Twenty to nineteen at Massachusetts. Twenty-eight to twenty-seven at Central Michigan. Our people don't panic. Our people bring blankets.\"\n\nThe recent history is a seesaw. In the ten meetings since 2016, Ohio won six and Miami won four. Penny calls that a trend. Cordelia calls it a sample. They both call the 2021 game, a 35-33 Ohio win, the best one of the bunch.\n\n\"So how does it go?\" Penny asks.\n\nHere's how it goes. It's tight early, because this one is always tight early. Molnar gets to Heavner once in the first half and the Ohio fans at Yager get very loud. Poulos finds Neer for a big gain to put the Bobcats in front. Then Miami does what it's done all year and hangs around. Jones and Nelson grind out the third quarter. Huggins gets behind the defense once in the fourth. Andrews and McCain make the stop that matters with a few minutes left, and a late field goal sends Oxford home happy.\n\nCordelia rises, smooths her coat and announces that she'll be heading back toward the recital hall to see if the oboist is taking requests. Penny tucks her travel mug back into her bag, looks at Cordelia and says, \"Fine. Next year, Peden Stadium. Bring the pearls.\"\n\nMy call: Miami (OH) RedHawks 27, Ohio Bobcats 24.",
-    "market": {
-     "score_line": "",
-     "spread": "Ohio Bobcats −1.5",
-     "total": "48.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "note": "The market’s own numbers, shown for comparison only."
-    },
-    "gambler_headline": "Ohio vs Miami (OH) Pick: RedHawks +1.5 in the Battle of the Bricks",
-    "fanatic_headline": "Ohio vs Miami (OH): The Battle of the Bricks Comes to Oxford"
+    "story_text": "Ohio players get a mug every time they beat Miami, and the Bobcats have won the last two meetings. My Ohio vs Miami (OH) prediction for Tuesday's Battle of the Bricks at Yager Stadium takes Miami (OH) RedHawks +1.5 and the Over 46.5, with a final of Miami (OH) RedHawks 27, Ohio Bobcats 24, at 8:00 PM ET in Oxford.\n\nPenny Trautman wants a third mug for the cupboard. \"Ohio is 7-2 and 5-0 in the MAC. Nick Poulos has taken the most throws in each of our last four games, Duncan Brune ran for 111 at Akron, and Michael Molnar has 6 sacks and 86 tackles. Cordelia, clear a shelf.\"\n\nCordelia Van Doren smooths her scarf and doesn't blink. \"Miami leads the all-time series, Penny, and I'll spare you the count because you'd only argue with it. Maleek Huggins has 473 receiving yards. Roosevelt Andrews III has 5.5 sacks. We scored 31 on Buffalo last Tuesday and lost in overtime, and nobody in this building has forgotten it.\"\n\nHere's why I take the points. The number flipped. DraftKings opened Miami (OH) RedHawks −1.5 with the over/under at 47.5, and now Ohio is the road team laying 1.5 and the over/under is 46.5. Miami lives in one-score games: 24-21 over UConn, 20-19 at Massachusetts, 28-27 at Central Michigan and that 34-31 overtime loss to Buffalo. Ohio has been tight on the road too, 13-10 at Kent State and 28-20 at Akron. Miami (OH) is at 27.4 points per game this season, and Ohio allows 21.7. My final has Miami by 3, which clears the 1.5.\n\nBoth quarterback rooms carry two names. Matt Vezza took the most Ohio throws in four September and early October games before Poulos took over, and Poulos has 978 yards with 7 touchdowns. Miami's David McComb leads the team with 1,121 yards, but Caleb Heavner has taken the most throws in each of the last five games. I'm pricing Heavner, and Miami still comes out ahead at home.\n\nOn the over/under, I'm on the Over 46.5. Miami has scored at least 28 in each of its last three games: 34 against Akron, 28 at Central Michigan and 31 against Buffalo. Ohio scores 29.4 a game. My 27-24 gets to 51.\n\nThe room splits right down the middle. The Formula has Miami 26-25, takes Miami (OH) RedHawks +1.5 and likes the Over 46.5. Next Man Up has 27-27, also takes the RedHawks +1.5 and likes the Over. Letdown Watch has Ohio 26-24, lays the −1.5 and likes the Over. In The Trenches likes Ohio Bobcats −1.5 and makes no over/under call. Follow The Money is still waiting on a consensus spread, so its side is pending, and it has no total pick.\n\nThe Formula: \"Twenty-six to twenty-five, Next Man Up. One point, still to the home team. You gave both teams 27 like a split dinner check.\"\n\nNext Man Up: \"Twenty-seven apiece means both bands get to play the fight song. You'd split a brick in half and keep the bigger piece.\"\n\nPenny wraps both hands around a travel mug and grins at Cordelia. Cordelia raises an eyebrow, checks the clock on the scoreboard and asks whether that mug is about to be the last one.\n\nMiami (OH) RedHawks 27, Ohio Bobcats 24. Miami (OH) RedHawks cover the 1.5. Over 46.5.",
+    "writer": {
+     "label": "",
+     "ou": "Over 46.5",
+     "score_line": "Projected: Miami (OH) RedHawks 27, Ohio Bobcats 24 (Total 51)",
+     "side": "Miami (OH) RedHawks +1.5"
+    }
    },
+   "gambler_story": "Ohio players get a mug every time they beat Miami, and the Bobcats have won the last two meetings. My Ohio vs Miami (OH) prediction for Tuesday's Battle of the Bricks at Yager Stadium takes Miami (OH) RedHawks +1.5 and the Over 46.5, with a final of Miami (OH) RedHawks 27, Ohio Bobcats 24, at 8:00 PM ET in Oxford.\n\nPenny Trautman wants a third mug for the cupboard. \"Ohio is 7-2 and 5-0 in the MAC. Nick Poulos has taken the most throws in each of our last four games, Duncan Brune ran for 111 at Akron, and Michael Molnar has 6 sacks and 86 tackles. Cordelia, clear a shelf.\"\n\nCordelia Van Doren smooths her scarf and doesn't blink. \"Miami leads the all-time series, Penny, and I'll spare you the count because you'd only argue with it. Maleek Huggins has 473 receiving yards. Roosevelt Andrews III has 5.5 sacks. We scored 31 on Buffalo last Tuesday and lost in overtime, and nobody in this building has forgotten it.\"\n\nHere's why I take the points. The number flipped. DraftKings opened Miami (OH) RedHawks −1.5 with the over/under at 47.5, and now Ohio is the road team laying 1.5 and the over/under is 46.5. Miami lives in one-score games: 24-21 over UConn, 20-19 at Massachusetts, 28-27 at Central Michigan and that 34-31 overtime loss to Buffalo. Ohio has been tight on the road too, 13-10 at Kent State and 28-20 at Akron. Miami (OH) is at 27.4 points per game this season, and Ohio allows 21.7. My final has Miami by 3, which clears the 1.5.\n\nBoth quarterback rooms carry two names. Matt Vezza took the most Ohio throws in four September and early October games before Poulos took over, and Poulos has 978 yards with 7 touchdowns. Miami's David McComb leads the team with 1,121 yards, but Caleb Heavner has taken the most throws in each of the last five games. I'm pricing Heavner, and Miami still comes out ahead at home.\n\nOn the over/under, I'm on the Over 46.5. Miami has scored at least 28 in each of its last three games: 34 against Akron, 28 at Central Michigan and 31 against Buffalo. Ohio scores 29.4 a game. My 27-24 gets to 51.\n\nThe room splits right down the middle. The Formula has Miami 26-25, takes Miami (OH) RedHawks +1.5 and likes the Over 46.5. Next Man Up has 27-27, also takes the RedHawks +1.5 and likes the Over. Letdown Watch has Ohio 26-24, lays the −1.5 and likes the Over. In The Trenches likes Ohio Bobcats −1.5 and makes no over/under call. Follow The Money is still waiting on a consensus spread, so its side is pending, and it has no total pick.\n\nThe Formula: \"Twenty-six to twenty-five, Next Man Up. One point, still to the home team. You gave both teams 27 like a split dinner check.\"\n\nNext Man Up: \"Twenty-seven apiece means both bands get to play the fight song. You'd split a brick in half and keep the bigger piece.\"\n\nPenny wraps both hands around a travel mug and grins at Cordelia. Cordelia raises an eyebrow, checks the clock on the scoreboard and asks whether that mug is about to be the last one.\n\nMiami (OH) RedHawks 27, Ohio Bobcats 24. Miami (OH) RedHawks cover the 1.5. Over 46.5.",
+   "game_id": "401866460",
+   "home": {
+    "conference": "MAC",
+    "rank": null,
+    "record": "5-4",
+    "team": "Miami (OH) RedHawks"
+   },
+   "kickoff_et": "8:00 PM ET Tue Nov 10",
+   "kickoff_utc": "2026-11-11T01:00Z",
+   "matchup": "Ohio Bobcats at Miami (OH) RedHawks",
+   "prediction": {
+    "away_score": 24,
+    "covers": "Miami (OH) RedHawks +1.5",
+    "home_score": 27,
+    "winner": "Miami (OH) RedHawks"
+   },
+   "spread": "Ohio Bobcats −1.5",
+   "status_at_build": {
+    "state": "pre"
+   },
+   "team_ids": [
+    "ohio",
+    "miami-oh"
+   ],
+   "total_line": 46.5,
+   "total_pick": "Over",
+   "tv": [
+    "ESPN2"
+   ],
+   "venue": "Yager Stadium",
    "writer_score_fix": {
-    "score_line": "Projected: Miami (OH) RedHawks 27, Ohio Bobcats 24 (Total 51)",
-    "side": "Miami (OH) RedHawks +1.5",
-    "ou": "Over 48.5",
+    "defense": "Miami (OH) is at 27.4 points per game this season.",
+    "defense_source": "401866460_facts.md § Miami (OH) Points for/against: 247-240, 27.4 PF / 26.7 PA [S6] ESPN team schedule https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/193/schedule?season=2026",
     "fanatic_score_line": "Projected: Miami (OH) RedHawks 27, Ohio Bobcats 24 (51 combined points)",
+    "flag": null,
+    "gambler_close": "Miami (OH) RedHawks 27, Ohio Bobcats 24. Miami (OH) RedHawks cover the 1.5. Over 46.5. Miami (OH) is at 27.4 points per game this season.",
+    "my_call": "My call: Miami (OH) RedHawks 27, Ohio Bobcats 24.",
+    "old_score_line": "Projected: Miami (OH) RedHawks 26, Ohio Bobcats 26 (Total 52)",
+    "ou": "Over 46.5",
     "prediction": {
      "away_score": 24,
+     "covers": "Miami (OH) RedHawks +1.5",
      "home_score": 27,
-     "winner": "Miami (OH) RedHawks",
-     "covers": "Miami (OH) RedHawks +1.5"
+     "winner": "Miami (OH) RedHawks"
     },
-    "total_pick": "Over",
-    "defense": "Miami (OH) is at 27.4 points per game this season.",
-    "my_call": "My call: Miami (OH) RedHawks 27, Ohio Bobcats 24.",
-    "gambler_close": "Miami (OH) RedHawks 27, Ohio Bobcats 24. Miami (OH) RedHawks cover the 1.5. Over 48.5. Miami (OH) is at 27.4 points per game this season.",
-    "old_score_line": "Projected: Miami (OH) RedHawks 26, Ohio Bobcats 26 (Total 52)",
-    "flag": null,
-    "defense_source": "401866460_facts.md § Miami (OH) Points for/against: 247-240, 27.4 PF / 26.7 PA [S6] ESPN team schedule https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/193/schedule?season=2026"
-   },
-   "gambler_story": "Ohio players get a mug every time they beat Miami, and the Bobcats have won the last two meetings. My Ohio vs Miami (OH) prediction for Tuesday's Battle of the Bricks at Yager Stadium takes Miami (OH) RedHawks +1.5 and the Over 48.5, with a final of Miami (OH) RedHawks 27, Ohio Bobcats 24, at 8:00 PM ET in Oxford.\n\nPenny Trautman wants a third mug for the cupboard. \"Ohio is 7-2 and 5-0 in the MAC. Nick Poulos has taken the most throws in each of our last four games, Duncan Brune ran for 111 at Akron, and Michael Molnar has 6 sacks and 86 tackles. Cordelia, clear a shelf.\"\n\nCordelia Van Doren smooths her scarf and doesn't blink. \"Miami leads the all-time series, Penny, and I'll spare you the count because you'd only argue with it. Maleek Huggins has 473 receiving yards. Roosevelt Andrews III has 5.5 sacks. We scored 31 on Buffalo last Tuesday and lost in overtime, and nobody in this building has forgotten it.\"\n\nHere's why I take the points. The number flipped. DraftKings opened Miami (OH) RedHawks −1.5 with the over/under at 47.5, and now Ohio is the road team laying 1.5 and the over/under is 48.5. Miami lives in one-score games: 24-21 over UConn, 20-19 at Massachusetts, 28-27 at Central Michigan and that 34-31 overtime loss to Buffalo. Ohio has been tight on the road too, 13-10 at Kent State and 28-20 at Akron. Miami (OH) is at 27.4 points per game this season, and Ohio allows 21.7. My final has Miami by 3, which clears the 1.5.\n\nBoth quarterback rooms carry two names. Matt Vezza took the most Ohio throws in four September and early October games before Poulos took over, and Poulos has 978 yards with 7 touchdowns. Miami's David McComb leads the team with 1,121 yards, but Caleb Heavner has taken the most throws in each of the last five games. I'm pricing Heavner, and Miami still comes out ahead at home.\n\nOn the over/under, I'm on the Over 48.5. Miami has scored at least 28 in each of its last three games: 34 against Akron, 28 at Central Michigan and 31 against Buffalo. Ohio scores 29.4 a game. My 27-24 gets to 51.\n\nThe room splits right down the middle. The Formula has it 26-26, takes Miami (OH) RedHawks +1.5 and likes the Over 48.5. Next Man Up has 27-27, also takes the RedHawks +1.5 and likes the Over. Letdown Watch has Ohio 26-24, lays the −1.5 and goes Over. In The Trenches likes Ohio Bobcats −1.5 and makes no over/under call. Follow The Money is still waiting on a consensus spread, so its side is pending, and it has no total pick.\n\nThe Formula: \"Twenty-six all, Next Man Up. You looked at my tie and added a point to each side like that was a breakthrough.\"\n\nNext Man Up: \"Twenty-seven all is a better tie. Oxford deserves the extra field goal. You'd split a brick in half and call it neutral.\"\n\nPenny wraps both hands around a travel mug and grins at Cordelia. Cordelia raises an eyebrow, checks the clock on the scoreboard and asks whether that mug is about to be the last one.\n\nMiami (OH) RedHawks 27, Ohio Bobcats 24. Miami (OH) RedHawks cover the 1.5. Over 48.5."
+    "score_line": "Projected: Miami (OH) RedHawks 27, Ohio Bobcats 24 (Total 51)",
+    "side": "Miami (OH) RedHawks +1.5",
+    "total_pick": "Over"
+   }
   },
   {
    "game_id": "401866461",
