@@ -1,1 +1,106 @@
-[]
+[
+  {
+    "game_id": "401866458",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 47.5,
+      "made_at": "2026-11-10T11:24:23Z"
+    },
+    "final": {
+      "pick": "Over 49.5",
+      "line": 49.5
+    },
+    "changed_at": "2026-11-10T16:27:00Z",
+    "kickoff": "2026-11-11T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "Action Network consensus total for Western Michigan at Akron moved from 47.5 to 49.5 by 9:43 AM ET Tuesday Nov 10, a 2-point move (it opened 47.5 at 12:16 AM ET, was 47.5 when the no-pick card went live at 6:24 AM ET, and passed through 48.5 at 7:09 AM ET), and the official card as of 11:27 AM ET turns that move into Over 49.5, quoting the consensus 49.5 rather than the 48.5 listed on the game page.",
+      "source": "Action Network consensus line history, Western Michigan at Akron (book 15): https://api.actionnetwork.com/web/v2/markets/event/289943/history?bookIds=15 (checked Nov 10, 2026, 11:39 AM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289943/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401866458",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": -14.0,
+      "made_at": "2026-11-10T14:43:03Z"
+    },
+    "final": {
+      "pick": "Western Michigan Broncos −15.5",
+      "line": -15.5
+    },
+    "changed_at": "2026-11-10T16:27:00Z",
+    "kickoff": "2026-11-11T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "Action Network consensus spread for Western Michigan at Akron moved from −14 to −15.5 on Western Michigan, a 1.5-point move: Akron +14 at 9:15 AM ET Tuesday Nov 10 (the first consensus spread after the Monday night game), then +14.5 at 10:21 AM ET, +15 at 10:31 AM ET and +15.5 at 10:55 AM ET; the official card as of 11:27 AM ET turns that move into Western Michigan Broncos −15.5, quoting the consensus −15.5 rather than the −14 listed on the game page.",
+      "source": "Action Network consensus line history, Western Michigan at Akron (book 15): https://api.actionnetwork.com/web/v2/markets/event/289943/history?bookIds=15 (checked Nov 10, 2026, 11:39 AM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289943/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401866459",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 44.5,
+      "made_at": "2026-11-10T11:24:23Z"
+    },
+    "final": {
+      "pick": "Under 43.5",
+      "line": 43.5
+    },
+    "changed_at": "2026-11-10T15:38:00Z",
+    "kickoff": "2026-11-11T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "Action Network consensus total for Kent State at Bowling Green moved from 44.5 (opened 12:15 AM ET Tuesday Nov 10, and still 44.5 when the no-pick card went live at 6:24 AM ET) to 43.5 at 9:30 AM ET, a 1-point move, and the official card as of 10:38 AM ET turns that move into Under 43.5, quoting the consensus 43.5 rather than the 44.5 listed on the game page.",
+      "source": "Action Network consensus line history, Kent State at Bowling Green (book 15): https://api.actionnetwork.com/web/v2/markets/event/289944/history?bookIds=15 (checked Nov 10, 2026, 11:39 AM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289944/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401866460",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 46.5,
+      "made_at": "2026-11-10T11:24:23Z"
+    },
+    "final": {
+      "pick": "Over 47.5",
+      "line": 47.5
+    },
+    "changed_at": "2026-11-10T16:04:00Z",
+    "kickoff": "2026-11-11T01:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "Action Network consensus total for Ohio at Miami (OH) moved from 46.5 (opened 1:15 AM ET Tuesday Nov 10, and still 46.5 when the no-pick card went live at 6:24 AM ET) to 47.5 at 10:17 AM ET, a 1-point move, and the official card as of 11:04 AM ET turns that move into Over 47.5, quoting the consensus 47.5 rather than the 46.5 listed on the game page.",
+      "source": "Action Network consensus line history, Ohio at Miami (OH) (book 15): https://api.actionnetwork.com/web/v2/markets/event/289945/history?bookIds=15 (checked Nov 10, 2026, 11:39 AM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289945/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  }
+]
