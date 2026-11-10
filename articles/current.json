@@ -4,9 +4,187 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 405,
+  "count": 407,
   "lead_id": "fanatic_team-indiana",
   "articles": [
+    {
+      "id": "fanatic_team-min-2026-11-09",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "min",
+      "team_ids": [
+        "min"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873051",
+      "title": "Minnesota Vikings vs Buffalo Bills Week 9: Wrong Key Tonight 6-23",
+      "byline": "",
+      "matchup": "Final: Buffalo Bills (7-1) 23, Minnesota Vikings (6-2) 6, Mon., Nov. 9, U.S. Bank Stadium, Minneapolis. Next: at Green Bay Packers, Sun., Nov. 15, 1:00 PM ET, Lambeau Field, Green Bay",
+      "date": "2026-11-09",
+      "word_count": 403,
+      "text": "Buffalo Bills 23, Minnesota Vikings 6, and the Skol chant ran out of breath long before the clock ran out at U.S. Bank Stadium. Up Nicollet Mall at the Dakota, the Blind Boys of Alabama were singing Stevie Wonder's Songs in the Key of Life for the album's 50th anniversary. Gorgeous harmony downtown. Our offense never found a single note.\n\nCredit first where it belongs, because our defense deserved a better night. Byron Murphy Jr. chased down Josh Allen's deep heave in the end zone and brought it back 54 yards. Dallas Turner, Andrew Van Ginkel and Ivan Pace Jr. each got a sack, Jalen Redmond and Tyrion Ingram-Dawkins split another, and Van Ginkel hit Allen four times. Blake Cashman made 12 tackles. Buffalo went 1 of 3 in the red zone and still won by 17.\n\nThe offense. Oof. With Kyler Murray out with a hamstring injury, Carson Wentz went 8 of 25 for 81 yards with two interceptions and a lost fumble on a backward throw that sailed high past Justin Jefferson near midfield. We had four straight first-half drives begin past our own 40 and never got deeper than the Buffalo 48. Will Reichard kept us alive with kicks of 43 and 53 yards, the second with five seconds left, so it was only 10-6 at halftime.\n\nThen the second half got away from us. Dorian Williams intercepted Wentz at the Buffalo 11 one snap after a 19-yard interference flag put us in business, and Terrel Bernard intercepted him again two drives later. Wentz completed 1 of 8 throws after the break and was checked in the medical tent for an apparent lower leg injury. Buffalo kept the ball for 8:32 on one fourth-quarter march, and James Cook III punched it in for 20-6. Max Brosmer came in and went 6 of 7 for 58 yards, driving us to the Buffalo 13 before that drive died on downs with 1:54 left.\n\nThe hard truth: 178 yards of offense, nine first downs, 0 for 8 on third down and 17:28 of possession. Jefferson drew 11 targets and caught three for 58 yards. T.J. Hockenson caught four for 33. Myles Price was the bright spot, bringing back four kicks for 124 yards. We're 6-2 and still very much in this race, but the next stop is Lambeau Field against the Packers on Sunday. Get the quarterback room healthy, get mad, and Skol.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Buffalo Bills 23, Minnesota Vikings 6, and the Skol chant ran out of breath long before the clock ran out at U.S. Bank Stadium. Up Nicollet Mall at the Dakota, the Blind Boys of Alabama were singing Stevie Wonder's Songs in the Key of Life for the album's 50th anniversary. Gorgeous harmony downtown. Our offense never found a single note."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit first where it belongs, because our defense deserved a better night. Byron Murphy Jr. chased down Josh Allen's deep heave in the end zone and brought it back 54 yards. Dallas Turner, Andrew Van Ginkel and Ivan Pace Jr. each got a sack, Jalen Redmond and Tyrion Ingram-Dawkins split another, and Van Ginkel hit Allen four times. Blake Cashman made 12 tackles. Buffalo went 1 of 3 in the red zone and still won by 17."
+        },
+        {
+          "type": "paragraph",
+          "text": "The offense. Oof. With Kyler Murray out with a hamstring injury, Carson Wentz went 8 of 25 for 81 yards with two interceptions and a lost fumble on a backward throw that sailed high past Justin Jefferson near midfield. We had four straight first-half drives begin past our own 40 and never got deeper than the Buffalo 48. Will Reichard kept us alive with kicks of 43 and 53 yards, the second with five seconds left, so it was only 10-6 at halftime."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the second half got away from us. Dorian Williams intercepted Wentz at the Buffalo 11 one snap after a 19-yard interference flag put us in business, and Terrel Bernard intercepted him again two drives later. Wentz completed 1 of 8 throws after the break and was checked in the medical tent for an apparent lower leg injury. Buffalo kept the ball for 8:32 on one fourth-quarter march, and James Cook III punched it in for 20-6. Max Brosmer came in and went 6 of 7 for 58 yards, driving us to the Buffalo 13 before that drive died on downs with 1:54 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "The hard truth: 178 yards of offense, nine first downs, 0 for 8 on third down and 17:28 of possession. Jefferson drew 11 targets and caught three for 58 yards. T.J. Hockenson caught four for 33. Myles Price was the bright spot, bringing back four kicks for 124 yards. We're 6-2 and still very much in this race, but the next stop is Lambeau Field against the Packers on Sunday. Get the quarterback room healthy, get mad, and Skol."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Minnesota lost 23-6 to Buffalo at U.S. Bank Stadium and fell to 6-2."
+        },
+        {
+          "type": "fact",
+          "text": "Carson Wentz went 8 of 25 for 81 yards with three turnovers before Max Brosmer replaced him in the fourth quarter."
+        },
+        {
+          "type": "fact",
+          "text": "Byron Murphy Jr. had a 54-yard interception return and the defense recorded four sacks, but the offense went 0 for 8 on third down."
+        },
+        {
+          "type": "jab",
+          "text": "Four straight first-half drives began past our 40, and none got deeper than their 48."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873051"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873051"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873051"
+        },
+        {
+          "label": "ESPN game story: Bills vs. Vikings, Josh Allen and Carson Wentz",
+          "url": "https://www.espn.com/nfl/story/_/id/50435734/bills-vikings-josh-allen-carson-wentz-mnf"
+        },
+        {
+          "label": "Dakota: Blind Boys of Alabama Present Songs In the Key of Life, Nov. 9",
+          "url": "https://www.dakotacooks.com/event/blind-boys-of-alabama-present-songs-in-the-key-of-life-nov9-2026/"
+        },
+        {
+          "label": "Meet Minneapolis: Blind Boys of Alabama at Dakota, Nov. 9",
+          "url": "https://www.minneapolis.org/calendar/blind-boys-of-alabama-present-songs-in-the-key-of-life/"
+        },
+        {
+          "label": "ESPN Vikings schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/min/minnesota-vikings"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-buf-2026-11-09",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "buf",
+      "team_ids": [
+        "buf"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873051",
+      "title": "Buffalo Bills vs Minnesota Vikings Week 9: Keep-Away Kings 23-6",
+      "byline": "",
+      "matchup": "Final: Buffalo Bills (7-1) 23, Minnesota Vikings (6-2) 6, Mon., Nov. 9, U.S. Bank Stadium, Minneapolis. Next: at New York Jets, Sun., Nov. 15, 1:00 PM ET, MetLife Stadium, East Rutherford",
+      "date": "2026-11-09",
+      "word_count": 443,
+      "text": "Buffalo Bills 23, Minnesota Vikings 6, and we walked into U.S. Bank Stadium on a Monday night and ground down the least-scored-on defense in football. Back home, the Sabres posted Monday that 27 veterans are coming to their practice Tuesday to meet the players and take home signed jerseys before Military Appreciation Night on Veterans Day. Good week to be from Buffalo. Better night to wear the charging buffalo.\n\nIt was not pretty early, and we don't need pretty. Josh Allen got sacked four times, and Byron Murphy Jr. ran down a deep heave in the end zone and brought it back 54 yards. Didn't matter. Greg Rousseau fell on a Carson Wentz throw that sailed backward, Tyler Bass hit from 39, and our defense kept slamming the door. Minnesota got four straight first-half drives beginning past its own 40 and never got deeper than our 48.\n\nThen came the haymaker before the break. Tied 3-3, Allen marched us 80 yards in eight plays, rolled right, took a hard hit from Andrew Van Ginkel and dropped a 25-yard touchdown to tight end Keleki Latu in the back of the end zone with 44 seconds left. Will Reichard answered with a 53-yarder with five seconds to go, so it was 10-6 at halftime.\n\nThe second half was a Buffalo clinic in keep-away. Dorian Williams intercepted Wentz at our 11 on Minnesota's first series. We answered with 14 plays and 83 yards, with Ty Johnson hauling in a 36-yarder, and Bass made it 13-6 from 25. Terrel Bernard intercepted Wentz at our 34 on the next Vikings drive. Then we took 8:32 off the clock in the fourth quarter, 15 plays and 84 yards, and James Cook III bulled in from 5 for 20-6. Bass added a 52-yarder, his third make of the night and his 24th in a row, a franchise record. Minnesota's last gasp died on downs at our 13.\n\nAllen went 21 of 31 for 234 yards and a touchdown, and that score tied Peyton Manning for the most touchdowns, throwing, running and catching, in a player's first 10 years with 322. He's halfway through year nine. Cook carried 31 times for 107 yards. Khalil Shakir caught four for 58. We held the ball for 42:32, and Minnesota went 0 for 8 on third down. Rousseau had a sack, three hits on the quarterback and that fumble recovery, Javon Solomon added a sack, and Bernard had six tackles and two breakups to go with his interception. We're 7-1, 4-0 on the road, and that's the best eight-game opening in Buffalo since 1993. The Jets are next at MetLife on Sunday. Go Bills.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Buffalo Bills 23, Minnesota Vikings 6, and we walked into U.S. Bank Stadium on a Monday night and ground down the least-scored-on defense in football. Back home, the Sabres posted Monday that 27 veterans are coming to their practice Tuesday to meet the players and take home signed jerseys before Military Appreciation Night on Veterans Day. Good week to be from Buffalo. Better night to wear the charging buffalo."
+        },
+        {
+          "type": "paragraph",
+          "text": "It was not pretty early, and we don't need pretty. Josh Allen got sacked four times, and Byron Murphy Jr. ran down a deep heave in the end zone and brought it back 54 yards. Didn't matter. Greg Rousseau fell on a Carson Wentz throw that sailed backward, Tyler Bass hit from 39, and our defense kept slamming the door. Minnesota got four straight first-half drives beginning past its own 40 and never got deeper than our 48."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the haymaker before the break. Tied 3-3, Allen marched us 80 yards in eight plays, rolled right, took a hard hit from Andrew Van Ginkel and dropped a 25-yard touchdown to tight end Keleki Latu in the back of the end zone with 44 seconds left. Will Reichard answered with a 53-yarder with five seconds to go, so it was 10-6 at halftime."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half was a Buffalo clinic in keep-away. Dorian Williams intercepted Wentz at our 11 on Minnesota's first series. We answered with 14 plays and 83 yards, with Ty Johnson hauling in a 36-yarder, and Bass made it 13-6 from 25. Terrel Bernard intercepted Wentz at our 34 on the next Vikings drive. Then we took 8:32 off the clock in the fourth quarter, 15 plays and 84 yards, and James Cook III bulled in from 5 for 20-6. Bass added a 52-yarder, his third make of the night and his 24th in a row, a franchise record. Minnesota's last gasp died on downs at our 13."
+        },
+        {
+          "type": "paragraph",
+          "text": "Allen went 21 of 31 for 234 yards and a touchdown, and that score tied Peyton Manning for the most touchdowns, throwing, running and catching, in a player's first 10 years with 322. He's halfway through year nine. Cook carried 31 times for 107 yards. Khalil Shakir caught four for 58. We held the ball for 42:32, and Minnesota went 0 for 8 on third down. Rousseau had a sack, three hits on the quarterback and that fumble recovery, Javon Solomon added a sack, and Bernard had six tackles and two breakups to go with his interception. We're 7-1, 4-0 on the road, and that's the best eight-game opening in Buffalo since 1993. The Jets are next at MetLife on Sunday. Go Bills."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Buffalo beat Minnesota 23-6 at U.S. Bank Stadium to move to 7-1 and 4-0 on the road."
+        },
+        {
+          "type": "fact",
+          "text": "James Cook III ran 31 times for 107 yards and a touchdown, and Tyler Bass made three field goals for 24 straight, a franchise record."
+        },
+        {
+          "type": "fact",
+          "text": "Terrel Bernard and Dorian Williams intercepted Carson Wentz, and Minnesota went 0 for 8 on third down."
+        },
+        {
+          "type": "jab",
+          "text": "The league's stingiest defense spent 42 minutes watching us hold the ball."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873051"
+        },
+        {
+          "label": "ESPN play-by-play",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873051"
+        },
+        {
+          "label": "ESPN game recap",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873051"
+        },
+        {
+          "label": "ESPN game story: Bills vs. Vikings, Josh Allen and Carson Wentz",
+          "url": "https://www.espn.com/nfl/story/_/id/50435734/bills-vikings-josh-allen-carson-wentz-mnf"
+        },
+        {
+          "label": "Buffalo Sabres: Military Appreciation Night on Wednesday, Nov. 11 (27 veterans at Nov. 10 practice)",
+          "url": "https://www.nhl.com/sabres/news/buffalo-sabres-military-appreciation-night-2026"
+        },
+        {
+          "label": "ESPN Bills schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/buf/buffalo-bills"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
     {
       "id": "fanatic_team-no",
       "kind": "fanatic_team",
