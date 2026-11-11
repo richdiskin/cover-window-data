@@ -1068,40 +1068,40 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-10T15:17:37Z",
+    "fetched_at_utc": "2026-11-11T21:06:52Z",
     "action_network_game_id": 290973,
-    "home_line": -4.5,
-    "total": 42.5,
+    "home_line": -3,
+    "total": 42,
     "open_home_line": -4.5,
     "open_total": 45.5,
-    "spread_display": "Green Bay Packers −4.5",
+    "spread_display": "Green Bay Packers −3",
     "open_timestamp": ""
    },
    "injuries": {
-    "source": "NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg10 (not out yet; checked Nov 10, 10:17 AM ET)",
-    "fetched_at_utc": "2026-11-10T15:17:47Z",
+    "source": "NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg10 (fetched Nov 11, 4:21 PM ET; Vikings and Packers listed as No Injuries Reported; lists no quarterback)",
+    "fetched_at_utc": "2026-11-11T21:21:16Z",
     "away": null,
     "home": null
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261115",
-   "spread": "Minnesota Vikings +4.5",
-   "story_text": "Packers 21, Vikings 17. Vikings cover the 4.5. Under 42.5. Our handicappers land on the Vikings +4.5.",
+   "spread": "Minnesota Vikings +3",
+   "story_text": "Packers 20, Vikings 18. Vikings cover the 3. Under 42.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "line_used": {
-    "home_line": -4.5,
-    "total": 42.5,
-    "source": "Consensus line as of Nov 10, 10:17 AM ET",
-    "as_of_utc": "2026-11-10T15:17:37Z"
+    "home_line": -3,
+    "total": 42,
+    "source": "Consensus line as of Nov 11, 4:06 PM ET",
+    "as_of_utc": "2026-11-11T21:06:52Z"
    },
-   "total_line": 42.5,
+   "total_line": 42,
    "prediction": {
-    "away_score": 17,
-    "home_score": 21,
+    "away_score": 18,
+    "home_score": 20,
     "winner": "Green Bay Packers",
-    "covers": "Minnesota Vikings +4.5"
+    "covers": "Minnesota Vikings +3"
    },
    "handicappers": [
     {
@@ -1112,7 +1112,7 @@
     },
     {
      "id": "H2",
-     "public_case": "Projected points: Green Bay Packers 19.7, Minnesota Vikings 17.2. Availability: expected starting quarterbacks Jordan Love (GB) and Kirk Cousins (MIN). NFL.com official Week 10 injury report (checked Nov 10, 10:17 AM ET): not out yet, so no quarterback is ruled out. Minnesota traded for Kirk Cousins on Nov 10 and is working toward starting him at Green Bay (coach Kevin O’Connell, Nov 11, has not formally named him; Packers coach Matt LaFleur expects Cousins; Carson Wentz has an ankle issue) (CBS Sports, Yardbarker, Sporting News, Nov 11); Kirk Cousins is not MIN’s main starter this season (Kyler Murray).",
+     "public_case": "Projected points: Green Bay Packers 19.7, Minnesota Vikings 17.2. Availability: expected starting quarterbacks Jordan Love (GB) and Kirk Cousins (MIN). NFL.com official Week 10 injury report (fetched Nov 11, 3:59 PM ET): not yet posted for this game, so it lists no quarterback. Coach Kevin O’Connell said Wednesday it is “too early” to commit to Kirk Cousins; Carson Wentz (ankle) was expected to be limited (NFL.com, Nov 11). Minnesota traded for Kirk Cousins on Nov 10 and is working toward starting him at Green Bay (coach Kevin O’Connell, Nov 11, has not formally named him; Packers coach Matt LaFleur expects Cousins; Carson Wentz has an ankle issue) (CBS Sports, Yardbarker, Sporting News, Nov 11); Kirk Cousins is not MIN’s main starter this season (Kyler Murray).",
      "market": "spread",
      "best_bet": false
     },
@@ -1124,7 +1124,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Green Bay Packers −4.5 (Nov 10, 1:02 AM ET) and is Green Bay Packers −4.5 now (Nov 10, 10:17 AM ET), a 0-point move. Total opened 41.5 (Nov 10, 1:02 AM ET) and is 42.5 now, a 1-point move. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Spread opened Green Bay Packers −4.5 (Nov 10, 1:02 AM ET) and is Green Bay Packers −3 now (Nov 11, 4:06 PM ET), a 1.5-point move. Total opened 41.5 (Nov 10, 1:02 AM ET) and is 42 now, a 0.5-point move. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -1141,10 +1141,10 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 10, 10:17 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 10, 10:17 AM ET.",
+    "Lines: Action Network consensus line as of Nov 11, 4:06 PM ET.",
     "The Formula ratings: nflverse play-by-play as of Nov 10, 10:17 AM ET, Weeks 1–9 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–9 finals.",
-    "Injuries: NFL.com official Week 10 injury report not out yet (checked Nov 10, 10:17 AM ET); Next Man Up uses each team’s last starter.",
+    "Injuries: NFL.com official Week 10 injury report, fetched Nov 11, 4:21 PM ET (Vikings and Packers listed as No Injuries Reported; lists no quarterback); Next Man Up uses Kirk Cousins, the most-reported starter (see Next Man Up).",
     "Follow The Money: move from the first consensus line at or after Nov 10, 12:15 AM ET (Action Network line history).",
     "Records and points: ESPN team pages, as of Nov 10, 10:17 AM ET.",
     "Next Man Up: 2026 game scores (nflverse game results); expected starting quarterbacks from nflverse play-by-play, the NFL.com Week 10 injury report and team announcements.",
@@ -1157,83 +1157,84 @@
     "label": "",
     "source": "Cover Writer",
     "projected_total": 38,
-    "market_total": 42.5,
+    "market_total": 42,
     "pick": "Under",
-    "text": "Under 42.5"
+    "text": "Under 42"
    },
    "display": {
     "writer": {
-     "score_line": "Projected: Green Bay Packers 21, Minnesota Vikings 17 (Total 38)",
-     "side": "Minnesota Vikings +4.5",
-     "ou": "Under 42.5",
+     "score_line": "Projected: Green Bay Packers 20, Minnesota Vikings 18 (Total 38)",
+     "side": "Minnesota Vikings +3",
+     "ou": "Under 42",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Green Bay Packers −4.5",
-      "ou_line": "O/U: Under 42.5 · Likes this total",
+      "side_line": "Side: Green Bay Packers −3 · Likes this side",
+      "ou_line": "O/U: Under 42 · Likes this total",
       "score_line": "Projected: Green Bay Packers 22, Minnesota Vikings 17 (Total 39)",
       "basis_line": "Net ratings Green Bay Packers −2.3, Minnesota Vikings −6.2 (nflverse play-by-play, Nov 10, 2026)",
       "independent": true,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 3.5
+      "distance_from_spread": 2.0,
+      "distance_from_total": 3.0
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Minnesota Vikings +4.5",
-      "ou_line": "O/U: Under 42.5 · Likes this total",
-      "score_line": "Projected: Green Bay Packers 20, Minnesota Vikings 17 (Total 37)",
-      "basis_line": "Projected points: Green Bay Packers 19.7, Minnesota Vikings 17.2. Availability: expected starting quarterbacks Jordan Love (GB) and Kirk Cousins (MIN). NFL.com official Week 10 injury report (checked Nov 10, 10:17 AM ET): not out yet, so no quarterback is ruled out. Minnesota traded for Kirk Cousins on Nov 10 and is working toward starting him at Green Bay (coach Kevin O’Connell, Nov 11, has not formally named him; Packers coach Matt LaFleur expects Cousins; Carson Wentz has an ankle issue) (CBS Sports, Yardbarker, Sporting News, Nov 11); Kirk Cousins is not MIN’s main starter this season (Kyler Murray).",
+      "side_line": "Side: Minnesota Vikings +3",
+      "ou_line": "O/U: Under 42 · Likes this total",
+      "score_line": "Projected: Green Bay Packers 19, Minnesota Vikings 17 (Total 36)",
+      "basis_line": "Projected points: Green Bay Packers 19.7, Minnesota Vikings 17.2. Availability: expected starting quarterbacks Jordan Love (GB) and Kirk Cousins (MIN). NFL.com official Week 10 injury report (fetched Nov 11, 3:59 PM ET): not yet posted for this game, so it lists no quarterback. Coach Kevin O’Connell said Wednesday it is “too early” to commit to Kirk Cousins; Carson Wentz (ankle) was expected to be limited (NFL.com, Nov 11). Minnesota traded for Kirk Cousins on Nov 10 and is working toward starting him at Green Bay (coach Kevin O’Connell, Nov 11, has not formally named him; Packers coach Matt LaFleur expects Cousins; Carson Wentz has an ankle issue) (CBS Sports, Yardbarker, Sporting News, Nov 11); Kirk Cousins is not MIN’s main starter this season (Kyler Murray).",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 5.5
+      "distance_from_spread": 1.0,
+      "distance_from_total": 6.0
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Minnesota Vikings +4.5",
-      "ou_line": "O/U: Under 42.5",
-      "score_line": "Projected: Green Bay Packers 22, Minnesota Vikings 19 (Total 41)",
+      "side_line": "Side: Minnesota Vikings +3",
+      "ou_line": "O/U: Under 42",
+      "score_line": "Projected: Green Bay Packers 21, Minnesota Vikings 19 (Total 40)",
       "basis_line": "Rest and travel: Minnesota Vikings: 6 days since its last game, travels 257 miles; Green Bay Packers: 7 days since its last game, plays at home. Projected: Packers by 2.2, total 40.9.",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 1.5
+      "distance_from_spread": 1.0,
+      "distance_from_total": 2.0
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (not enough line movement)",
-      "ou_line": "O/U: Over 42.5 · Likes this total",
+      "side_line": "Side: Minnesota Vikings +3 · Likes this side",
+      "ou_line": "O/U: no pick (not enough total movement)",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Green Bay Packers −4.5 (Nov 10, 1:02 AM ET) and is Green Bay Packers −4.5 now (Nov 10, 10:17 AM ET), a 0-point move. Total opened 41.5 (Nov 10, 1:02 AM ET) and is 42.5 now, a 1-point move. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Spread opened Green Bay Packers −4.5 (Nov 10, 1:02 AM ET) and is Green Bay Packers −3 now (Nov 11, 4:06 PM ET), a 1.5-point move. Total opened 41.5 (Nov 10, 1:02 AM ET) and is 42 now, a 0.5-point move. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 0.5
+      "distance_from_spread": 0.0,
+      "distance_from_total": 0.0
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Minnesota Vikings +4.5",
-      "ou_line": "O/U: Under 42.5 · Likes this total",
-      "score_line": "Projected: Green Bay Packers 19, Minnesota Vikings 16 (Total 35)",
+      "side_line": "Side: Minnesota Vikings +3",
+      "ou_line": "O/U: Under 42 · Likes this total",
+      "score_line": "Projected: Green Bay Packers 19, Minnesota Vikings 17 (Total 36)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 9). Projected points: Green Bay Packers 19.1, Minnesota Vikings 16.1.",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 7.5
+      "distance_from_spread": 1.0,
+      "distance_from_total": 6.0
      }
     ],
     "best_bets": [],
-    "story_text": "Green Bay spends Saturday riding the Packers Heritage Trail trolley out to old City Stadium, and my Vikings vs Packers prediction rides with the team that has the better defense and the worse quarterback. Minnesota with the 4.5-point spread is the side I want, the Under 42.5 is my over/under, and Packers 21, Vikings 17 is my pick for the final.\n\nThe quarterback situation is ugly, and I'm pricing it that way. Kyler Murray has a Grade 2 hamstring strain, and Carson Wentz went 8-of-25 with two interceptions and a lost fumble in Monday's loss to Buffalo before Max Brosmer finished the game. At Tuesday's deadline, Minnesota sent a third-round pick to Las Vegas to bring back Kirk Cousins. Kevin O'Connell said Wednesday it's still too early to commit to Cousins starting Sunday, so it's Cousins or Wentz at Lambeau, and I'm keeping the score where it is either way.\n\nThe Formula: Net ratings Green Bay Packers −2.3, Minnesota Vikings −6.2 (nflverse play-by-play, Nov 10, 2026).\n\nHere's why the Vikings still get the points. Minnesota has allowed 116 points in eight games, the stingiest number in this game by a mile, and it won the first meeting 39-22 in September. Green Bay is 6-3 and just scored forty-five in Foxborough behind Jordan Love, but it runs for only 3.3 yards a carry. Against a defense this good, the Packers have to throw for everything, and that tends to produce long drives that stall and field goals instead of touchdowns. A four-point Packers win is the real shape of that game.\n\nThe Under is the stronger half. Minnesota has scored only 146 points in eight games, and neither a quarterback who just walked back into the building nor the one who went 8-of-25 on Monday is going to fix that in five days. The Vikings run for 4.3 against a Packers defense that allows 4.1, so the plan is handoffs and a running clock. Kickoff is noon local time at Lambeau in mid-November. Packers 21, Vikings 17 is 38 points, four and a half under 42.5.\n\nThe room tilts hard toward Minnesota and the Under. Next Man Up has Packers 20, Vikings 17, Letdown Watch has Packers 22, Vikings 19, and In The Trenches has Packers 19, Vikings 16, and all three take the Vikings with the points. The Formula is the lone card laying the 4.5, at Packers 22, Vikings 17. All four cards with a score are Under. Follow The Money has no side pick and is the only Over after the total rose from 41.5 to 42.5.\n\nPaul Lindgren will narrate the whole trolley ride. Erik Dahl will spend it refreshing his phone to find out who starts at quarterback. Neither one is going to enjoy watching this offense, but only one of them needs it to be pretty.\n\nPackers 21, Vikings 17. Vikings cover the 4.5. Under 42.5.",
-    "fanatic_score_line": "Projected: Green Bay Packers 21, Minnesota Vikings 17",
+    "story_text": "Green Bay spends Saturday riding the Packers Heritage Trail trolley out to old City Stadium, and my Vikings vs Packers prediction says Green Bay wins a close one. Minnesota getting 3 on the spread is the side I want, the Under 42 is my over/under, and Packers 20, Vikings 18 is my pick for the final.\n\nThe quarterback situation is ugly, and I'm pricing it that way. Kyler Murray has a Grade 2 hamstring strain, and Carson Wentz went 8-of-25 with two interceptions and a lost fumble in Monday's loss to Buffalo before Max Brosmer finished the game. At Tuesday's deadline, Minnesota sent a third-round pick to Las Vegas to bring back Kirk Cousins. Kevin O'Connell said Wednesday it's still too early to commit to Cousins starting Sunday, so it's Cousins or Wentz at Lambeau, and my score doesn't change either way.\n\nThe Formula: Net ratings Green Bay Packers −2.3, Minnesota Vikings −6.2 (nflverse play-by-play, Nov 10, 2026).\n\nHere's why it's Green Bay, but by less than a field goal. Minnesota has allowed 116 points in eight games, the stingiest number in this game by a mile, and it won the first meeting 39-22 in September. Green Bay is 6-3 and just scored forty-five in Foxborough behind Jordan Love, but it runs for only 3.3 yards a carry. Against a defense this good, the Packers have to throw for everything, and that tends to produce long drives that stall and field goals instead of touchdowns. A two-point Packers win is the real shape of that game. The spread has come down from 4.5 to 3 since the Cousins trade, and two doesn't get there.\n\nThe Under is the stronger half. Minnesota has scored only 146 points in eight games, and neither a quarterback who just walked back into the building nor the one who went 8-of-25 on Monday is going to fix that in five days. The Vikings run for 4.3 against a Packers defense that allows 4.1, so the plan is handoffs and a running clock. Kickoff is noon local time at Lambeau in mid-November. Packers 20, Vikings 18 is 38 points, four under 42.\n\nThe room tilts toward Minnesota and the Under: four of the five cards take the Vikings, and only The Formula lays the points. Next Man Up has Packers 19, Vikings 17, Letdown Watch has Packers 21, Vikings 19, and In The Trenches has Packers 19, Vikings 17, and all three take the Vikings with the 3. The Formula is the lone card laying the 3, at Packers 22, Vikings 17. All four cards with a score are Under. Follow The Money also takes the Vikings after the spread dropped from 4.5 to 3, and has no total pick after a half-point move from 41.5 to 42.\n\nPaul Lindgren will narrate the whole trolley ride. Erik Dahl will spend it refreshing his phone to find out who starts at quarterback. Neither one is going to enjoy watching this offense, but only one of them needs it to be pretty.\n\nPackers 20, Vikings 18. Vikings cover the 3. Under 42.",
+    "fanatic_score_line": "Projected: Green Bay Packers 20, Minnesota Vikings 18",
     "market": {
-     "score_line": "Market: Green Bay Packers 24, Minnesota Vikings 19 (Total 43)",
-     "spread": "Green Bay Packers −4.5",
-     "total": "42.5",
-     "source": "Consensus line as of Nov 10, 10:17 AM ET",
+     "score_line": "Market: Green Bay Packers 22, Minnesota Vikings 20 (Total 42)",
+     "spread": "Green Bay Packers −3",
+     "total": "42",
+     "source": "Consensus line as of Nov 11, 4:06 PM ET",
      "note": "The market’s own numbers, shown for comparison only."
-    }
+    },
+    "fanatic_story": "The Packers Heritage Trail trolley pulls out of the Lambeau Field Atrium every half hour on Saturday, and Paul Lindgren has booked the 10:30 for himself and for Erik Dahl, who drove across from the Twin Cities a day early for Minnesota Vikings vs Green Bay Packers in Week 10. The ride runs an hour and a half past old train depots and churches and stops at old City Stadium, and Paul intends to narrate every block of it whether the guide likes it or not.\n\nErik came for one reason, and it wasn't the trolley. It was Week 1.\n\nErik: Thirty-nine to twenty-two, Paul. You want to talk history? That's history. September history, but it counts.\n\nPaul: Ask me in January who remembers September.\n\nPaul keeps the Packers' championship ledger, and it's a long one, and he reads from it at the old City Stadium stop like a man at a lectern. Erik guards the Vikings' old NFL title from the moon-landing year and trusts no hot start, including his own team's, which has turned out to be a useful habit this month. Minnesota started 6-0 and then lost two straight, the last one Monday night to Buffalo, and slid out of first place in the NFC North.\n\nErik doesn't want to talk about Monday night. Paul wants to talk about nothing else.\n\nWith Kyler Murray out with a Grade 2 hamstring strain, Carson Wentz went 8-of-25 against the Bills with two interceptions and a lost fumble, and Max Brosmer finished the game. Kevin O'Connell blamed himself for not getting Wentz into a rhythm, and on Tuesday the Vikings traded with Las Vegas for Kirk Cousins, the man who played quarterback in Minnesota for six seasons. On Wednesday, O'Connell said it was still too early to commit to Cousins for Sunday. Erik has been refreshing his phone so often the battery gave up somewhere around De Pere.\n\nPaul: Your general manager went quarterback shopping at the deadline and came home with your old one. Mine was shopping for groceries.\n\nErik: Mine's also got the best defense in the division, and you know it.\n\nHe does know it. Minnesota has allowed 116 points in eight games, and that defense is the reason Erik still sleeps at night. Green Bay has scored 216 and allowed 191, and the Packers just went into Foxborough and dropped forty-five on New England, with Jordan Love throwing for more than three hundred and seventy yards and three touchdowns. There's also talk that Micah Parsons, coming back from the knee he tore last season, could finally be on the field Sunday, which Paul mentions roughly every eight minutes.\n\nThe ground game gives Erik something to hold. Green Bay runs for only 3.3 yards a carry, and the Vikings allow 4.4, so the Packers have been winning with Love's arm, not their backs. Minnesota runs for 4.3 against a Packers defense that allows 4.1. Whether it's Cousins or Wentz trying to survive Lambeau, it'll be on handoffs, and Erik is already drawing them up on a napkin.\n\nErik: Hand it off, play defense, and wait for one mistake. That's how we won in Week 1.\n\nPaul: You won in Week 1 with a different quarterback.\n\nErik let that sit for two full trolley stops. Then he pointed out that he might have yet another one Sunday, and this one already knows the way to Lambeau.\n\nThe other thing in the air around Green Bay is orange. Wisconsin's nine-day gun deer season opens the following Saturday, and half the town will spend this Sunday's tailgate talking about stands, scent blockers and who gets the good spot at camp. Paul hunts. Erik doesn't, which Paul regards as a character flaw on the level of the purple pants.\n\nKickoff is at noon local, and both of them plan to be in the lot by eight. Erik is bringing the napkin with the handoffs on it. Paul is bringing a blaze-orange hat for Erik, which he swears is for safety and not for laughs, and Erik is going to wear it anyway because Lambeau in November doesn't care about pride.\n\nMy call: Packers 20, Vikings 18."
    },
-   "gambler_story": "Green Bay spends Saturday riding the Packers Heritage Trail trolley out to old City Stadium, and my Vikings vs Packers prediction rides with the team that has the better defense and the worse quarterback. Minnesota with the 4.5-point spread is the side I want, the Under 42.5 is my over/under, and Packers 21, Vikings 17 is my pick for the final.\n\nThe quarterback situation is ugly, and I'm pricing it that way. Kyler Murray has a Grade 2 hamstring strain, and Carson Wentz went 8-of-25 with two interceptions and a lost fumble in Monday's loss to Buffalo before Max Brosmer finished the game. At Tuesday's deadline, Minnesota sent a third-round pick to Las Vegas to bring back Kirk Cousins. Kevin O'Connell said Wednesday it's still too early to commit to Cousins starting Sunday, so it's Cousins or Wentz at Lambeau, and I'm keeping the score where it is either way.\n\nThe Formula: Net ratings Green Bay Packers −2.3, Minnesota Vikings −6.2 (nflverse play-by-play, Nov 10, 2026).\n\nHere's why the Vikings still get the points. Minnesota has allowed 116 points in eight games, the stingiest number in this game by a mile, and it won the first meeting 39-22 in September. Green Bay is 6-3 and just scored forty-five in Foxborough behind Jordan Love, but it runs for only 3.3 yards a carry. Against a defense this good, the Packers have to throw for everything, and that tends to produce long drives that stall and field goals instead of touchdowns. A four-point Packers win is the real shape of that game.\n\nThe Under is the stronger half. Minnesota has scored only 146 points in eight games, and neither a quarterback who just walked back into the building nor the one who went 8-of-25 on Monday is going to fix that in five days. The Vikings run for 4.3 against a Packers defense that allows 4.1, so the plan is handoffs and a running clock. Kickoff is noon local time at Lambeau in mid-November. Packers 21, Vikings 17 is 38 points, four and a half under 42.5.\n\nThe room tilts hard toward Minnesota and the Under. Next Man Up has Packers 20, Vikings 17, Letdown Watch has Packers 22, Vikings 19, and In The Trenches has Packers 19, Vikings 16, and all three take the Vikings with the points. The Formula is the lone card laying the 4.5, at Packers 22, Vikings 17. All four cards with a score are Under. Follow The Money has no side pick and is the only Over after the total rose from 41.5 to 42.5.\n\nPaul Lindgren will narrate the whole trolley ride. Erik Dahl will spend it refreshing his phone to find out who starts at quarterback. Neither one is going to enjoy watching this offense, but only one of them needs it to be pretty.\n\nPackers 21, Vikings 17. Vikings cover the 4.5. Under 42.5.",
-   "fanatic_story": "The Packers Heritage Trail trolley pulls out of the Lambeau Field Atrium every half hour on Saturday, and Paul Lindgren has booked the 10:30 for himself and for Erik Dahl, who drove across from the Twin Cities a day early for Minnesota Vikings vs Green Bay Packers in Week 10. The ride runs an hour and a half past old train depots and churches and stops at old City Stadium, and Paul intends to narrate every block of it whether the guide likes it or not.\n\nErik came for one reason, and it wasn't the trolley. It was Week 1.\n\nErik: Thirty-nine to twenty-two, Paul. You want to talk history? That's history. September history, but it counts.\n\nPaul: Ask me in January who remembers September.\n\nPaul keeps the Packers' championship ledger, and it's a long one, and he reads from it at the old City Stadium stop like a man at a lectern. Erik guards the Vikings' old NFL title from the moon-landing year and trusts no hot start, including his own team's, which has turned out to be a useful habit this month. Minnesota started 6-0 and then lost two straight, the last one Monday night to Buffalo, and slid out of first place in the NFC North.\n\nErik doesn't want to talk about Monday night. Paul wants to talk about nothing else.\n\nWith Kyler Murray out with a Grade 2 hamstring strain, Carson Wentz went 8-of-25 against the Bills with two interceptions and a lost fumble, and Max Brosmer finished the game. Kevin O'Connell blamed himself for not getting Wentz into a rhythm, and on Tuesday the Vikings traded with Las Vegas for Kirk Cousins, the man who played quarterback in Minnesota for six seasons. On Wednesday, O'Connell said it was still too early to commit to Cousins for Sunday. Erik has been refreshing his phone so often the battery gave up somewhere around De Pere.\n\nPaul: Your general manager went quarterback shopping at the deadline and came home with your old one. Mine was shopping for groceries.\n\nErik: Mine's also got the best defense in the division, and you know it.\n\nHe does know it. Minnesota has allowed 116 points in eight games, and that defense is the reason Erik still sleeps at night. Green Bay has scored 216 and allowed 191, and the Packers just went into Foxborough and dropped forty-five on New England, with Jordan Love throwing for more than three hundred and seventy yards and three touchdowns. There's also talk that Micah Parsons, coming back from the knee he tore last season, could finally be on the field Sunday, which Paul mentions roughly every eight minutes.\n\nThe ground game gives Erik something to hold. Green Bay runs for only 3.3 yards a carry, and the Vikings allow 4.4, so the Packers have been winning with Love's arm, not their backs. Minnesota runs for 4.3 against a Packers defense that allows 4.1. Whether it's Cousins or Wentz trying to survive Lambeau, it'll be on handoffs, and Erik is already drawing them up on a napkin.\n\nErik: Hand it off, play defense, and wait for one mistake. That's how we won in Week 1.\n\nPaul: You won in Week 1 with a different quarterback.\n\nErik let that sit for two full trolley stops. Then he pointed out that he might have yet another one Sunday, and this one already knows the way to Lambeau.\n\nThe other thing in the air around Green Bay is orange. Wisconsin's nine-day gun deer season opens the following Saturday, and half the town will spend this Sunday's tailgate talking about stands, scent blockers and who gets the good spot at camp. Paul hunts. Erik doesn't, which Paul regards as a character flaw on the level of the purple pants.\n\nKickoff is at noon local, and both of them plan to be in the lot by eight. Erik is bringing the napkin with the handoffs on it. Paul is bringing a blaze-orange hat for Erik, which he swears is for safety and not for laughs, and Erik is going to wear it anyway because Lambeau in November doesn't care about pride.\n\nMy call: Packers 21, Vikings 17.",
-   "fanatic_final_sentence": "Packers 21, Vikings 17.",
+   "gambler_story": "Green Bay spends Saturday riding the Packers Heritage Trail trolley out to old City Stadium, and my Vikings vs Packers prediction says Green Bay wins a close one. Minnesota getting 3 on the spread is the side I want, the Under 42 is my over/under, and Packers 20, Vikings 18 is my pick for the final.\n\nThe quarterback situation is ugly, and I'm pricing it that way. Kyler Murray has a Grade 2 hamstring strain, and Carson Wentz went 8-of-25 with two interceptions and a lost fumble in Monday's loss to Buffalo before Max Brosmer finished the game. At Tuesday's deadline, Minnesota sent a third-round pick to Las Vegas to bring back Kirk Cousins. Kevin O'Connell said Wednesday it's still too early to commit to Cousins starting Sunday, so it's Cousins or Wentz at Lambeau, and my score doesn't change either way.\n\nThe Formula: Net ratings Green Bay Packers −2.3, Minnesota Vikings −6.2 (nflverse play-by-play, Nov 10, 2026).\n\nHere's why it's Green Bay, but by less than a field goal. Minnesota has allowed 116 points in eight games, the stingiest number in this game by a mile, and it won the first meeting 39-22 in September. Green Bay is 6-3 and just scored forty-five in Foxborough behind Jordan Love, but it runs for only 3.3 yards a carry. Against a defense this good, the Packers have to throw for everything, and that tends to produce long drives that stall and field goals instead of touchdowns. A two-point Packers win is the real shape of that game. The spread has come down from 4.5 to 3 since the Cousins trade, and two doesn't get there.\n\nThe Under is the stronger half. Minnesota has scored only 146 points in eight games, and neither a quarterback who just walked back into the building nor the one who went 8-of-25 on Monday is going to fix that in five days. The Vikings run for 4.3 against a Packers defense that allows 4.1, so the plan is handoffs and a running clock. Kickoff is noon local time at Lambeau in mid-November. Packers 20, Vikings 18 is 38 points, four under 42.\n\nThe room tilts toward Minnesota and the Under: four of the five cards take the Vikings, and only The Formula lays the points. Next Man Up has Packers 19, Vikings 17, Letdown Watch has Packers 21, Vikings 19, and In The Trenches has Packers 19, Vikings 17, and all three take the Vikings with the 3. The Formula is the lone card laying the 3, at Packers 22, Vikings 17. All four cards with a score are Under. Follow The Money also takes the Vikings after the spread dropped from 4.5 to 3, and has no total pick after a half-point move from 41.5 to 42.\n\nPaul Lindgren will narrate the whole trolley ride. Erik Dahl will spend it refreshing his phone to find out who starts at quarterback. Neither one is going to enjoy watching this offense, but only one of them needs it to be pretty.\n\nPackers 20, Vikings 18. Vikings cover the 3. Under 42.",
+   "fanatic_story": "The Packers Heritage Trail trolley pulls out of the Lambeau Field Atrium every half hour on Saturday, and Paul Lindgren has booked the 10:30 for himself and for Erik Dahl, who drove across from the Twin Cities a day early for Minnesota Vikings vs Green Bay Packers in Week 10. The ride runs an hour and a half past old train depots and churches and stops at old City Stadium, and Paul intends to narrate every block of it whether the guide likes it or not.\n\nErik came for one reason, and it wasn't the trolley. It was Week 1.\n\nErik: Thirty-nine to twenty-two, Paul. You want to talk history? That's history. September history, but it counts.\n\nPaul: Ask me in January who remembers September.\n\nPaul keeps the Packers' championship ledger, and it's a long one, and he reads from it at the old City Stadium stop like a man at a lectern. Erik guards the Vikings' old NFL title from the moon-landing year and trusts no hot start, including his own team's, which has turned out to be a useful habit this month. Minnesota started 6-0 and then lost two straight, the last one Monday night to Buffalo, and slid out of first place in the NFC North.\n\nErik doesn't want to talk about Monday night. Paul wants to talk about nothing else.\n\nWith Kyler Murray out with a Grade 2 hamstring strain, Carson Wentz went 8-of-25 against the Bills with two interceptions and a lost fumble, and Max Brosmer finished the game. Kevin O'Connell blamed himself for not getting Wentz into a rhythm, and on Tuesday the Vikings traded with Las Vegas for Kirk Cousins, the man who played quarterback in Minnesota for six seasons. On Wednesday, O'Connell said it was still too early to commit to Cousins for Sunday. Erik has been refreshing his phone so often the battery gave up somewhere around De Pere.\n\nPaul: Your general manager went quarterback shopping at the deadline and came home with your old one. Mine was shopping for groceries.\n\nErik: Mine's also got the best defense in the division, and you know it.\n\nHe does know it. Minnesota has allowed 116 points in eight games, and that defense is the reason Erik still sleeps at night. Green Bay has scored 216 and allowed 191, and the Packers just went into Foxborough and dropped forty-five on New England, with Jordan Love throwing for more than three hundred and seventy yards and three touchdowns. There's also talk that Micah Parsons, coming back from the knee he tore last season, could finally be on the field Sunday, which Paul mentions roughly every eight minutes.\n\nThe ground game gives Erik something to hold. Green Bay runs for only 3.3 yards a carry, and the Vikings allow 4.4, so the Packers have been winning with Love's arm, not their backs. Minnesota runs for 4.3 against a Packers defense that allows 4.1. Whether it's Cousins or Wentz trying to survive Lambeau, it'll be on handoffs, and Erik is already drawing them up on a napkin.\n\nErik: Hand it off, play defense, and wait for one mistake. That's how we won in Week 1.\n\nPaul: You won in Week 1 with a different quarterback.\n\nErik let that sit for two full trolley stops. Then he pointed out that he might have yet another one Sunday, and this one already knows the way to Lambeau.\n\nThe other thing in the air around Green Bay is orange. Wisconsin's nine-day gun deer season opens the following Saturday, and half the town will spend this Sunday's tailgate talking about stands, scent blockers and who gets the good spot at camp. Paul hunts. Erik doesn't, which Paul regards as a character flaw on the level of the purple pants.\n\nKickoff is at noon local, and both of them plan to be in the lot by eight. Erik is bringing the napkin with the handoffs on it. Paul is bringing a blaze-orange hat for Erik, which he swears is for safety and not for laughs, and Erik is going to wear it anyway because Lambeau in November doesn't care about pride.\n\nMy call: Packers 20, Vikings 18.",
+   "fanatic_final_sentence": "Packers 20, Vikings 18.",
    "preview_sources": [],
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/min and https://www.espn.com/nfl/team/_/name/gb, retrieved Nov 10, 10:17 AM ET"
