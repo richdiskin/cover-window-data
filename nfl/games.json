@@ -10,7 +10,40 @@
  "games": [
   {
    "game_id": "401873052",
-   "share": {},
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Washington Commanders",
+       "label": "Share as a Commanders fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/washington-commanders-at-new-york-giants__fanatic__washington-commanders.png",
+       "caption": "Michael Strahan and Phil Simms are not walking through that door; Strahan: 2001 Defensive Player of the Year. Send this to a Giants fan: https://www.thecoverwindow.com/nfl/fanatic/washington-commanders-at-new-york-giants"
+      },
+      {
+       "team": "New York Giants",
+       "label": "Share as a Giants fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/washington-commanders-at-new-york-giants__fanatic__new-york-giants.png",
+       "caption": "John Riggins and Joe Jacoby are not walking through that door; Riggins won Super Bowl XVII. Send this to a Commanders fan: https://www.thecoverwindow.com/nfl/fanatic/washington-commanders-at-new-york-giants"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Washington Commanders",
+       "label": "Share as a Commanders fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/washington-commanders-at-new-york-giants__gambler__washington-commanders.png",
+       "caption": "Our final: Giants 23, Commanders 22. Justin Tuck and Amani Toomer are not walking through that door; Tuck made two Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/washington-commanders-at-new-york-giants"
+      },
+      {
+       "team": "New York Giants",
+       "label": "Share as a Giants fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/washington-commanders-at-new-york-giants__gambler__new-york-giants.png",
+       "caption": "Our final: Giants 23, Commanders 22. Russ Grimm and Charles Mann are not walking through that door; Grimm was a 4-time first-team All-Pro: https://www.thecoverwindow.com/nfl/gambler/washington-commanders-at-new-york-giants"
+      }
+     ]
+    }
+   },
    "matchup": "Washington Commanders at New York Giants",
    "away": {
     "team": "Washington Commanders",
@@ -224,7 +257,40 @@
   },
   {
    "game_id": "401873053",
-   "share": {},
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "New England Patriots",
+       "label": "Share as a Patriots fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/new-england-patriots-at-detroit-lions__fanatic__new-england-patriots.png",
+       "caption": "Calvin Johnson and Herman Moore are not walking through that door; Johnson was a 3-time first-team All-Pro. Send this to a Lions fan: https://www.thecoverwindow.com/nfl/fanatic/new-england-patriots-at-detroit-lions"
+      },
+      {
+       "team": "Detroit Lions",
+       "label": "Share as a Lions fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/new-england-patriots-at-detroit-lions__fanatic__detroit-lions.png",
+       "caption": "John Hannah and Andre Tippett are not walking through that door; Tippett: 1985 NEA Defensive Player of the Year. Send this to a Patriots fan: https://www.thecoverwindow.com/nfl/fanatic/new-england-patriots-at-detroit-lions"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "New England Patriots",
+       "label": "Share as a Patriots fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/new-england-patriots-at-detroit-lions__gambler__new-england-patriots.png",
+       "caption": "Our final: Patriots 26, Lions 25. Lomas Brown and Kevin Glover are not walking through that door; Brown made seven Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/new-england-patriots-at-detroit-lions"
+      },
+      {
+       "team": "Detroit Lions",
+       "label": "Share as a Lions fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/new-england-patriots-at-detroit-lions__gambler__detroit-lions.png",
+       "caption": "Our final: Patriots 26, Lions 25. Troy Brown and Stanley Morgan are not walking through that door; Brown won three Super Bowl rings: https://www.thecoverwindow.com/nfl/gambler/new-england-patriots-at-detroit-lions"
+      }
+     ]
+    }
+   },
    "matchup": "New England Patriots at Detroit Lions",
    "away": {
     "team": "New England Patriots",
@@ -437,7 +503,40 @@
   },
   {
    "game_id": "401873058",
-   "share": {},
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Kansas City Chiefs",
+       "label": "Share as a Chiefs fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/kansas-city-chiefs-at-atlanta-falcons__fanatic__kansas-city-chiefs.png",
+       "caption": "Jessie Tuggle and Steve Bartkowski are not walking through that door; Tuggle made five Pro Bowls. Send this to a Falcons fan: https://www.thecoverwindow.com/nfl/fanatic/kansas-city-chiefs-at-atlanta-falcons"
+      },
+      {
+       "team": "Atlanta Falcons",
+       "label": "Share as a Falcons fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/kansas-city-chiefs-at-atlanta-falcons__fanatic__atlanta-falcons.png",
+       "caption": "Bobby Bell and Willie Lanier are not walking through that door; Bell entered the Hall of Fame in 1983. Send this to a Chiefs fan: https://www.thecoverwindow.com/nfl/fanatic/kansas-city-chiefs-at-atlanta-falcons"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Kansas City Chiefs",
+       "label": "Share as a Chiefs fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/kansas-city-chiefs-at-atlanta-falcons__gambler__kansas-city-chiefs.png",
+       "caption": "Our final: Chiefs 24, Falcons 21. William Andrews and Todd McClure are not walking through that door; Andrews made four Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/kansas-city-chiefs-at-atlanta-falcons"
+      },
+      {
+       "team": "Atlanta Falcons",
+       "label": "Share as a Falcons fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/kansas-city-chiefs-at-atlanta-falcons__gambler__atlanta-falcons.png",
+       "caption": "Our final: Chiefs 24, Falcons 21. Deron Cherry and Dante Hall are not walking through that door; Cherry won the 1988 Whizzer White Award: https://www.thecoverwindow.com/nfl/gambler/kansas-city-chiefs-at-atlanta-falcons"
+      }
+     ]
+    }
+   },
    "matchup": "Kansas City Chiefs at Atlanta Falcons",
    "away": {
     "team": "Kansas City Chiefs",
@@ -650,7 +749,40 @@
   },
   {
    "game_id": "401873056",
-   "share": {},
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Houston Texans",
+       "label": "Share as a Texans fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/houston-texans-at-cleveland-browns__fanatic__houston-texans.png",
+       "caption": "Brian Sipe and Clay Matthews Jr. are not walking through that door; Sipe was the 1980 NFL MVP. Send this to a Browns fan: https://www.thecoverwindow.com/nfl/fanatic/houston-texans-at-cleveland-browns"
+      },
+      {
+       "team": "Cleveland Browns",
+       "label": "Share as a Browns fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/houston-texans-at-cleveland-browns__fanatic__cleveland-browns.png",
+       "caption": "J. J. Watt and Andre Johnson are not walking through that door; Watt was a 5-time first-team All-Pro. Send this to a Texans fan: https://www.thecoverwindow.com/nfl/fanatic/houston-texans-at-cleveland-browns"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Houston Texans",
+       "label": "Share as a Texans fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/houston-texans-at-cleveland-browns__gambler__houston-texans.png",
+       "caption": "Our final: Texans 23, Browns 19. Josh Cribbs and Hanford Dixon are not walking through that door; Cribbs made three Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/houston-texans-at-cleveland-browns"
+      },
+      {
+       "team": "Cleveland Browns",
+       "label": "Share as a Browns fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/houston-texans-at-cleveland-browns__gambler__cleveland-browns.png",
+       "caption": "Our final: Texans 23, Browns 19. Owen Daniels and Chester Pitts are not walking through that door; Daniels made two Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/houston-texans-at-cleveland-browns"
+      }
+     ]
+    }
+   },
    "matchup": "Houston Texans at Cleveland Browns",
    "away": {
     "team": "Houston Texans",
@@ -864,7 +996,40 @@
   },
   {
    "game_id": "401873060",
-   "share": {},
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Minnesota Vikings",
+       "label": "Share as a Vikings fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/minnesota-vikings-at-green-bay-packers__fanatic__minnesota-vikings.png",
+       "caption": "Donald Driver and LeRoy Butler are not walking through that door; Driver won Super Bowl XLV. Send this to a Packers fan: https://www.thecoverwindow.com/nfl/fanatic/minnesota-vikings-at-green-bay-packers"
+      },
+      {
+       "team": "Green Bay Packers",
+       "label": "Share as a Packers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/minnesota-vikings-at-green-bay-packers__fanatic__green-bay-packers.png",
+       "caption": "Ron Yary and Randall McDaniel are not walking through that door; Yary was a 6-time first-team All-Pro. Send this to a Vikings fan: https://www.thecoverwindow.com/nfl/fanatic/minnesota-vikings-at-green-bay-packers"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Minnesota Vikings",
+       "label": "Share as a Vikings fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/minnesota-vikings-at-green-bay-packers__gambler__minnesota-vikings.png",
+       "caption": "Our final: Packers 21, Vikings 17. Josh Sitton and Nick Collins are not walking through that door; Sitton made four Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/minnesota-vikings-at-green-bay-packers"
+      },
+      {
+       "team": "Green Bay Packers",
+       "label": "Share as a Packers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/minnesota-vikings-at-green-bay-packers__gambler__green-bay-packers.png",
+       "caption": "Our final: Packers 21, Vikings 17. Chad Greenway and Antoine Winfield Sr. are not walking through that door; Greenway won the 2015 Whizzer White Award: https://www.thecoverwindow.com/nfl/gambler/minnesota-vikings-at-green-bay-packers"
+      }
+     ]
+    }
+   },
    "matchup": "Minnesota Vikings at Green Bay Packers",
    "away": {
     "team": "Minnesota Vikings",
@@ -1077,7 +1242,40 @@
   },
   {
    "game_id": "401873057",
-   "share": {},
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Jacksonville Jaguars",
+       "label": "Share as a Jaguars fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/jacksonville-jaguars-at-tennessee-titans__fanatic__jacksonville-jaguars.png",
+       "caption": "Bruce Matthews and Jevon Kearse are not walking through that door; Kearse: 1999 Defensive Rookie of the Year. Send this to a Titans fan: https://www.thecoverwindow.com/nfl/fanatic/jacksonville-jaguars-at-tennessee-titans"
+      },
+      {
+       "team": "Tennessee Titans",
+       "label": "Share as a Titans fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/jacksonville-jaguars-at-tennessee-titans__fanatic__tennessee-titans.png",
+       "caption": "Fred Taylor and Maurice Jones-Drew are not walking through that door; Jones-Drew made three Pro Bowls. Send this to a Jaguars fan: https://www.thecoverwindow.com/nfl/fanatic/jacksonville-jaguars-at-tennessee-titans"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Jacksonville Jaguars",
+       "label": "Share as a Jaguars fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/jacksonville-jaguars-at-tennessee-titans__gambler__jacksonville-jaguars.png",
+       "caption": "Our final: Jaguars 27, Titans 17. Ray Childress and Elvin Bethea are not walking through that door; Tennessee Titans retired Bethea's No. 65: https://www.thecoverwindow.com/nfl/gambler/jacksonville-jaguars-at-tennessee-titans"
+      },
+      {
+       "team": "Tennessee Titans",
+       "label": "Share as a Titans fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/jacksonville-jaguars-at-tennessee-titans__gambler__tennessee-titans.png",
+       "caption": "Our final: Jaguars 27, Titans 17. Keenan McCardell and Rashean Mathis are not walking through that door; Mathis won the 2002 Buchanan Award: https://www.thecoverwindow.com/nfl/gambler/jacksonville-jaguars-at-tennessee-titans"
+      }
+     ]
+    }
+   },
    "matchup": "Jacksonville Jaguars at Tennessee Titans",
    "away": {
     "team": "Jacksonville Jaguars",
@@ -1290,7 +1488,40 @@
   },
   {
    "game_id": "401873059",
-   "share": {},
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Miami Dolphins",
+       "label": "Share as a Dolphins fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/miami-dolphins-at-indianapolis-colts__fanatic__miami-dolphins.png",
+       "caption": "Dwight Freeney and Bert Jones are not walking through that door; Freeney won Super Bowl XLI. Send this to a Colts fan: https://www.thecoverwindow.com/nfl/fanatic/miami-dolphins-at-indianapolis-colts"
+      },
+      {
+       "team": "Indianapolis Colts",
+       "label": "Share as a Colts fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/miami-dolphins-at-indianapolis-colts__fanatic__indianapolis-colts.png",
+       "caption": "Zach Thomas and Jason Taylor are not walking through that door; Taylor: 2006 Defensive Player of the Year. Send this to a Dolphins fan: https://www.thecoverwindow.com/nfl/fanatic/miami-dolphins-at-indianapolis-colts"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Miami Dolphins",
+       "label": "Share as a Dolphins fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/miami-dolphins-at-indianapolis-colts__gambler__miami-dolphins.png",
+       "caption": "Our final: Colts 24, Dolphins 20. Dallas Clark and Tarik Glenn are not walking through that door; Glenn made three Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/miami-dolphins-at-indianapolis-colts"
+      },
+      {
+       "team": "Indianapolis Colts",
+       "label": "Share as a Colts fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/miami-dolphins-at-indianapolis-colts__gambler__indianapolis-colts.png",
+       "caption": "Our final: Colts 24, Dolphins 20. Larry Csonka and Bob Griese are not walking through that door; Csonka was a 2-time first-team All-Pro: https://www.thecoverwindow.com/nfl/gambler/miami-dolphins-at-indianapolis-colts"
+      }
+     ]
+    }
+   },
    "matchup": "Miami Dolphins at Indianapolis Colts",
    "away": {
     "team": "Miami Dolphins",
@@ -1503,7 +1734,40 @@
   },
   {
    "game_id": "401873055",
-   "share": {},
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Carolina Panthers",
+       "label": "Share as a Panthers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/carolina-panthers-at-new-orleans-saints__fanatic__carolina-panthers.png",
+       "caption": "Willie Roaf and Rickey Jackson are not walking through that door; Roaf was a 4-time first-team All-Pro. Send this to a Saints fan: https://www.thecoverwindow.com/nfl/fanatic/carolina-panthers-at-new-orleans-saints"
+      },
+      {
+       "team": "New Orleans Saints",
+       "label": "Share as a Saints fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/carolina-panthers-at-new-orleans-saints__fanatic__new-orleans-saints.png",
+       "caption": "Luke Kuechly and Chris Gamble are not walking through that door; Kuechly: 2013 Defensive Player of the Year. Send this to a Panthers fan: https://www.thecoverwindow.com/nfl/fanatic/carolina-panthers-at-new-orleans-saints"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Carolina Panthers",
+       "label": "Share as a Panthers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/carolina-panthers-at-new-orleans-saints__gambler__carolina-panthers.png",
+       "caption": "Our final: Panthers 25, Saints 24. Marques Colston and Morten Andersen are not walking through that door; Andersen made seven Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/carolina-panthers-at-new-orleans-saints"
+      },
+      {
+       "team": "New Orleans Saints",
+       "label": "Share as a Saints fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/carolina-panthers-at-new-orleans-saints__gambler__new-orleans-saints.png",
+       "caption": "Our final: Panthers 25, Saints 24. Jordan Gross and Mike Rucker are not walking through that door; Gross was a 2002 consensus All-American: https://www.thecoverwindow.com/nfl/gambler/carolina-panthers-at-new-orleans-saints"
+      }
+     ]
+    }
+   },
    "matchup": "Carolina Panthers at New Orleans Saints",
    "away": {
     "team": "Carolina Panthers",
@@ -1716,7 +1980,40 @@
   },
   {
    "game_id": "401873054",
-   "share": {},
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Buffalo Bills",
+       "label": "Share as a Bills fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/buffalo-bills-at-new-york-jets__fanatic__buffalo-bills.png",
+       "caption": "Curtis Martin and D'Brickashaw Ferguson are not walking through that door; Martin: 1995 Offensive Rookie of the Year. Send this to a Jets fan: https://www.thecoverwindow.com/nfl/fanatic/buffalo-bills-at-new-york-jets"
+      },
+      {
+       "team": "New York Jets",
+       "label": "Share as a Jets fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/buffalo-bills-at-new-york-jets__fanatic__new-york-jets.png",
+       "caption": "Thurman Thomas and Andre Reed are not walking through that door; Thomas was a 2-time first-team All-Pro. Send this to a Bills fan: https://www.thecoverwindow.com/nfl/fanatic/buffalo-bills-at-new-york-jets"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Buffalo Bills",
+       "label": "Share as a Bills fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/buffalo-bills-at-new-york-jets__gambler__buffalo-bills.png",
+       "caption": "Our final: Bills 28, Jets 21. Freeman McNeil and Mo Lewis are not walking through that door; McNeil made three Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/buffalo-bills-at-new-york-jets"
+      },
+      {
+       "team": "New York Jets",
+       "label": "Share as a Jets fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/buffalo-bills-at-new-york-jets__gambler__new-york-jets.png",
+       "caption": "Our final: Bills 28, Jets 21. Steve Tasker and Eric Moulds are not walking through that door; Tasker was a 5-time first-team All-Pro: https://www.thecoverwindow.com/nfl/gambler/buffalo-bills-at-new-york-jets"
+      }
+     ]
+    }
+   },
    "matchup": "Buffalo Bills at New York Jets",
    "away": {
     "team": "Buffalo Bills",
@@ -1929,7 +2226,40 @@
   },
   {
    "game_id": "401873062",
-   "share": {},
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Seattle Seahawks",
+       "label": "Share as a Seahawks fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/seattle-seahawks-at-las-vegas-raiders__fanatic__seattle-seahawks.png",
+       "caption": "Ted Hendricks and Mike Haynes are not walking through that door; Haynes won Super Bowl XVIII. Send this to a Raiders fan: https://www.thecoverwindow.com/nfl/fanatic/seattle-seahawks-at-las-vegas-raiders"
+      },
+      {
+       "team": "Las Vegas Raiders",
+       "label": "Share as a Raiders fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/seattle-seahawks-at-las-vegas-raiders__fanatic__las-vegas-raiders.png",
+       "caption": "Walter Jones and Jacob Green are not walking through that door; Jones was a 4-time first-team All-Pro. Send this to a Seahawks fan: https://www.thecoverwindow.com/nfl/fanatic/seattle-seahawks-at-las-vegas-raiders"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Seattle Seahawks",
+       "label": "Share as a Seahawks fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/seattle-seahawks-at-las-vegas-raiders__gambler__seattle-seahawks.png",
+       "caption": "Our final: Seahawks 26, Raiders 19. Rich Gannon and Lester Hayes are not walking through that door; Gannon was the 2002 NFL MVP: https://www.thecoverwindow.com/nfl/gambler/seattle-seahawks-at-las-vegas-raiders"
+      },
+      {
+       "team": "Las Vegas Raiders",
+       "label": "Share as a Raiders fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/seattle-seahawks-at-las-vegas-raiders__gambler__las-vegas-raiders.png",
+       "caption": "Our final: Seahawks 26, Raiders 19. Curt Warner and Lofa Tatupu are not walking through that door; Warner made three Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/seattle-seahawks-at-las-vegas-raiders"
+      }
+     ]
+    }
+   },
    "matchup": "Seattle Seahawks at Las Vegas Raiders",
    "away": {
     "team": "Seattle Seahawks",
@@ -2142,7 +2472,40 @@
   },
   {
    "game_id": "401873061",
-   "share": {},
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Los Angeles Rams",
+       "label": "Share as a Rams fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/los-angeles-rams-at-arizona-cardinals__fanatic__los-angeles-rams.png",
+       "caption": "Larry Fitzgerald and Larry Centers are not walking through that door; Fitzgerald was the 2016 Walter Payton Man of the Year. Send this to a Cardinals fan: https://www.thecoverwindow.com/nfl/fanatic/los-angeles-rams-at-arizona-cardinals"
+      },
+      {
+       "team": "Arizona Cardinals",
+       "label": "Share as a Cardinals fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/los-angeles-rams-at-arizona-cardinals__fanatic__arizona-cardinals.png",
+       "caption": "Isaac Bruce and Torry Holt are not walking through that door; Bruce won Super Bowl XXXIV. Send this to a Rams fan: https://www.thecoverwindow.com/nfl/fanatic/los-angeles-rams-at-arizona-cardinals"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Los Angeles Rams",
+       "label": "Share as a Rams fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/los-angeles-rams-at-arizona-cardinals__gambler__los-angeles-rams.png",
+       "caption": "Our final: Rams 27, Cardinals 19. Roger Wehrli and Dan Dierdorf are not walking through that door; Wehrli was a 5-time first-team All-Pro: https://www.thecoverwindow.com/nfl/gambler/los-angeles-rams-at-arizona-cardinals"
+      },
+      {
+       "team": "Arizona Cardinals",
+       "label": "Share as a Cardinals fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/los-angeles-rams-at-arizona-cardinals__gambler__arizona-cardinals.png",
+       "caption": "Our final: Rams 27, Cardinals 19. Jack Youngblood and Orlando Pace are not walking through that door; Los Angeles Rams retired Youngblood's No. 85: https://www.thecoverwindow.com/nfl/gambler/los-angeles-rams-at-arizona-cardinals"
+      }
+     ]
+    }
+   },
    "matchup": "Los Angeles Rams at Arizona Cardinals",
    "away": {
     "team": "Los Angeles Rams",
@@ -2355,7 +2718,40 @@
   },
   {
    "game_id": "401873063",
-   "share": {},
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "San Francisco 49ers",
+       "label": "Share as a 49ers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-francisco-49ers-at-dallas-cowboys__fanatic__san-francisco-49ers.png",
+       "caption": "Randy White and Drew Pearson are not walking through that door; White won Super Bowl XII. Send this to a Cowboys fan: https://www.thecoverwindow.com/nfl/fanatic/san-francisco-49ers-at-dallas-cowboys"
+      },
+      {
+       "team": "Dallas Cowboys",
+       "label": "Share as a Cowboys fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-francisco-49ers-at-dallas-cowboys__fanatic__dallas-cowboys.png",
+       "caption": "Ronnie Lott and Steve Young are not walking through that door; Young: NFL MVP in 1992 and 1994. Send this to a 49ers fan: https://www.thecoverwindow.com/nfl/fanatic/san-francisco-49ers-at-dallas-cowboys"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "San Francisco 49ers",
+       "label": "Share as a 49ers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-francisco-49ers-at-dallas-cowboys__gambler__san-francisco-49ers.png",
+       "caption": "Our final: 49ers 30, Cowboys 23. DeMarcus Ware and Darren Woodson are not walking through that door; Ware was a 4-time first-team All-Pro: https://www.thecoverwindow.com/nfl/gambler/san-francisco-49ers-at-dallas-cowboys"
+      },
+      {
+       "team": "Dallas Cowboys",
+       "label": "Share as a Cowboys fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/san-francisco-49ers-at-dallas-cowboys__gambler__dallas-cowboys.png",
+       "caption": "Our final: 49ers 30, Cowboys 23. Patrick Willis and Joe Staley are not walking through that door; Willis made seven Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/san-francisco-49ers-at-dallas-cowboys"
+      }
+     ]
+    }
+   },
    "matchup": "San Francisco 49ers at Dallas Cowboys",
    "away": {
     "team": "San Francisco 49ers",
@@ -2568,7 +2964,40 @@
   },
   {
    "game_id": "401873064",
-   "share": {},
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Pittsburgh Steelers",
+       "label": "Share as a Steelers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/pittsburgh-steelers-at-cincinnati-bengals__fanatic__pittsburgh-steelers.png",
+       "caption": "Anthony Muñoz and Cris Collinsworth are not walking through that door; Muñoz was the 1991 NFL Man of the Year. Send this to a Bengals fan: https://www.thecoverwindow.com/nfl/fanatic/pittsburgh-steelers-at-cincinnati-bengals"
+      },
+      {
+       "team": "Cincinnati Bengals",
+       "label": "Share as a Bengals fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/pittsburgh-steelers-at-cincinnati-bengals__fanatic__cincinnati-bengals.png",
+       "caption": "Joe Greene and Jack Ham are not walking through that door; Greene won four Super Bowl rings. Send this to a Steelers fan: https://www.thecoverwindow.com/nfl/fanatic/pittsburgh-steelers-at-cincinnati-bengals"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Pittsburgh Steelers",
+       "label": "Share as a Steelers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/pittsburgh-steelers-at-cincinnati-bengals__gambler__pittsburgh-steelers.png",
+       "caption": "Our final: Bengals 25, Steelers 22. Carson Palmer and Willie Anderson are not walking through that door; Anderson was a 3-time first-team All-Pro: https://www.thecoverwindow.com/nfl/gambler/pittsburgh-steelers-at-cincinnati-bengals"
+      },
+      {
+       "team": "Cincinnati Bengals",
+       "label": "Share as a Bengals fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/pittsburgh-steelers-at-cincinnati-bengals__gambler__cincinnati-bengals.png",
+       "caption": "Our final: Bengals 25, Steelers 22. John Stallworth and Heath Miller are not walking through that door; Stallworth made three Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/pittsburgh-steelers-at-cincinnati-bengals"
+      }
+     ]
+    }
+   },
    "matchup": "Pittsburgh Steelers at Cincinnati Bengals",
    "away": {
     "team": "Pittsburgh Steelers",
@@ -2781,7 +3210,40 @@
   },
   {
    "game_id": "401873065",
-   "share": {},
+   "share": {
+    "fanatic": {
+     "teams": [
+      {
+       "team": "Los Angeles Chargers",
+       "label": "Share as a Chargers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/los-angeles-chargers-at-baltimore-ravens__fanatic__los-angeles-chargers.png",
+       "caption": "Jonathan Ogden and Todd Heap are not walking through that door; Ogden won Super Bowl XXXV. Send this to a Ravens fan: https://www.thecoverwindow.com/nfl/fanatic/los-angeles-chargers-at-baltimore-ravens"
+      },
+      {
+       "team": "Baltimore Ravens",
+       "label": "Share as a Ravens fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/los-angeles-chargers-at-baltimore-ravens__fanatic__baltimore-ravens.png",
+       "caption": "Dan Fouts and Lance Alworth are not walking through that door; Fouts: 1982 Offensive Player of the Year. Send this to a Chargers fan: https://www.thecoverwindow.com/nfl/fanatic/los-angeles-chargers-at-baltimore-ravens"
+      }
+     ]
+    },
+    "gambler": {
+     "teams": [
+      {
+       "team": "Los Angeles Chargers",
+       "label": "Share as a Chargers fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/los-angeles-chargers-at-baltimore-ravens__gambler__los-angeles-chargers.png",
+       "caption": "Our final: Ravens 23, Chargers 19. Matt Stover and Derrick Mason are not walking through that door; Mason made two Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/los-angeles-chargers-at-baltimore-ravens"
+      },
+      {
+       "team": "Baltimore Ravens",
+       "label": "Share as a Ravens fan",
+       "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/los-angeles-chargers-at-baltimore-ravens__gambler__baltimore-ravens.png",
+       "caption": "Our final: Ravens 23, Chargers 19. Wes Chandler and Charlie Joiner are not walking through that door; Los Angeles Chargers retired Joiner's No. 18: https://www.thecoverwindow.com/nfl/gambler/los-angeles-chargers-at-baltimore-ravens"
+      }
+     ]
+    }
+   },
    "matchup": "Los Angeles Chargers at Baltimore Ravens",
    "away": {
     "team": "Los Angeles Chargers",
