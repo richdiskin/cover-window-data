@@ -4,7 +4,566 @@
   "theme": "mmqb",
   "theme_label": "Monday recaps coming this morning",
   "published_at": "2026-11-11T05:37:32Z",
-  "count": 0,
+  "count": 6,
   "lead_id": null,
-  "articles": []
+  "articles": [
+    {
+      "id": "fanatic_team-ohio",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "ohio",
+      "team_ids": [
+        "ohio"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866460",
+      "title": "Ohio vs Miami (OH): A 17-0 Lead Gets Away in Oxford",
+      "byline": "Penny Trautman, The Ohio Fanatic",
+      "matchup": "Final: Ohio Bobcats (7-3) 17, Miami (OH) RedHawks (6-4) 34, Tue., Nov. 10, Yager Stadium, Oxford. Next: vs Ball State, Tue., Nov. 17, 7:00 PM ET, Peden Stadium, Athens",
+      "date": "2026-11-10",
+      "word_count": 377,
+      "text": "I'm going to say it once and then talk football. Ohio led Miami 17-0 in the second quarter on Tuesday night at Yager Stadium and lost the Battle of the Bricks 34-17. The six-game winning streak is done. The perfect MAC record is done. We're 7-3 and 5-1, and it's a quiet ride back to Athens.\n\nThe first quarter and a half looked like the team I love. Nick Poulos took us 75 yards in eight plays on the opening drive and hit Riley Neer for an 8-yard touchdown. Duncan Brune punched one in from the 1 early in the second quarter. Brack Peacock added a 22-yarder. Michael Molnar was living in their backfield, with a sack and 8 tackles on the night.\n\nThen it slipped. Miami's freshman receiver Scoop Smith threw a 15-yard touchdown with 1:02 left in the half. We still drove to the Miami 18 in the final minute. Peacock's 34-yarder at the gun missed, a Miami flag gave us one more snap from the 8, and the throw from our holder was knocked down. Zero points from the 8. I would have kicked it again.\n\nSecond half: zero points. We converted 3 of 17 third downs for the game, and we had seven penalties for 44 yards, several of them flags before the snap. You can't move the chains walking backward.\n\nAnd the ending. Down 20-17 with 3:55 left, we were moving, and Poulos fumbled at our own 48. Malcolm McCain took it away. D'Shawntae Jones went 48 yards on the next play. Then Amariyun Knighten intercepted Poulos and took it back 58 yards. Miami scored 20 points in the fourth quarter.\n\nCredit where it's due. Poulos ran 17 times for 68 yards and threw for 193, Neer caught 6 balls for 74 and the touchdown, and Darren James-Hamilton and Molnar each had 8 tackles. Our defense held Miami to 10 completions in 25 tries. The giveaways beat us, not the effort.\n\nOhio Athletics said we came to Oxford looking for a third straight win in this series. That'll have to wait a year. Ball State comes to Peden Stadium next Tuesday, Nov. 17, at 7:00 PM ET. Hold onto the football, and the MAC race is still right in front of us.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I'm going to say it once and then talk football. Ohio led Miami 17-0 in the second quarter on Tuesday night at Yager Stadium and lost the Battle of the Bricks 34-17. The six-game winning streak is done. The perfect MAC record is done. We're 7-3 and 5-1, and it's a quiet ride back to Athens."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first quarter and a half looked like the team I love. Nick Poulos took us 75 yards in eight plays on the opening drive and hit Riley Neer for an 8-yard touchdown. Duncan Brune punched one in from the 1 early in the second quarter. Brack Peacock added a 22-yarder. Michael Molnar was living in their backfield, with a sack and 8 tackles on the night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then it slipped. Miami's freshman receiver Scoop Smith threw a 15-yard touchdown with 1:02 left in the half. We still drove to the Miami 18 in the final minute. Peacock's 34-yarder at the gun missed, a Miami flag gave us one more snap from the 8, and the throw from our holder was knocked down. Zero points from the 8. I would have kicked it again."
+        },
+        {
+          "type": "paragraph",
+          "text": "Second half: zero points. We converted 3 of 17 third downs for the game, and we had seven penalties for 44 yards, several of them flags before the snap. You can't move the chains walking backward."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the ending. Down 20-17 with 3:55 left, we were moving, and Poulos fumbled at our own 48. Malcolm McCain took it away. D'Shawntae Jones went 48 yards on the next play. Then Amariyun Knighten intercepted Poulos and took it back 58 yards. Miami scored 20 points in the fourth quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit where it's due. Poulos ran 17 times for 68 yards and threw for 193, Neer caught 6 balls for 74 and the touchdown, and Darren James-Hamilton and Molnar each had 8 tackles. Our defense held Miami to 10 completions in 25 tries. The giveaways beat us, not the effort."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ohio Athletics said we came to Oxford looking for a third straight win in this series. That'll have to wait a year. Ball State comes to Peden Stadium next Tuesday, Nov. 17, at 7:00 PM ET. Hold onto the football, and the MAC race is still right in front of us."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Ohio lost 34-17 at Miami (OH) on Tuesday, Nov. 10, in the Battle of the Bricks after leading 17-0 in the second quarter. The Bobcats are 7-3, 5-1 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Nick Poulos threw an 8-yard touchdown to Riley Neer and Duncan Brune ran for another, but Ohio was shut out in the second half and lost a fumble and an interception in the final two minutes."
+        },
+        {
+          "type": "jab",
+          "text": "Miami's best throw of the night came from a wide receiver. Write that one down, RedHawks."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Ball State, Tuesday, Nov. 17, 7:00 PM ET, Peden Stadium, Athens."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Miami (OH) 34, Ohio 17 (Nov. 10, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866460"
+        },
+        {
+          "label": "ESPN play-by-play, Ohio at Miami (OH) (Nov. 10, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866460"
+        },
+        {
+          "label": "Ohio Athletics: Ohio Football Set for Battle of the Bricks",
+          "url": "https://ohiobobcats.com/news/2026/11/8/ohio-football-set-for-battle-of-the-bricks"
+        },
+        {
+          "label": "The Miami Student: Preview, Miami football hosts Ohio in Battle of the Bricks rivalry matchup",
+          "url": "https://www.miamistudent.net/article/2026/11/preview-miami-football-hosts-ohio-in-battle-of-the-bricks-rivalry-matchup"
+        },
+        {
+          "label": "Mid-American Conference: Tuesday's MAC football results",
+          "url": "https://getsomemaction.com/news/2026/11/11/tuesdays-mac-football-results.aspx"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-miami-oh",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "miami-oh",
+      "team_ids": [
+        "miami-oh"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866460",
+      "title": "Miami (OH) vs Ohio: Down 17-0 on Senior Night, Then 34 Straight in the Battle of the Bricks",
+      "byline": "Cordelia Van Doren, The Miami (OH) Fanatic",
+      "matchup": "Final: Ohio Bobcats (7-3) 17, Miami (OH) RedHawks (6-4) 34, Tue., Nov. 10, Yager Stadium, Oxford. Next: at Kent State, Tue., Nov. 17, 7:00 PM ET, Zoeller Field at Dix Stadium, Kent",
+      "date": "2026-11-10",
+      "word_count": 360,
+      "text": "Down 17-0. At home. On Senior Night. In the Battle of the Bricks. Then the RedHawks scored the last 34 points of the night, and Miami beat Ohio 34-17 at Yager Stadium. We're 6-4 and 4-2 in the MAC, and Miami Athletics said before the game that a win would make us bowl eligible again. Done.\n\nThe turn came with 1:02 left in the first half, and it came from a receiver. Scoop Smith, the freshman, took the ball and threw 15 yards to Maleek Huggins for a touchdown. 17-7. Drew Bellisari had come in at quarterback on that drive and hit Braylon Isom twice to get us there.\n\nOhio still had one more chance before the break. Brack Peacock missed from 34 at the gun, our unsportsmanlike flag gave them one more snap from the 8, and they tried a throw from the holder. Blayne Myrick knocked it down. Halftime, and you could feel it turning.\n\nOur defense pitched a shutout in the second half. Ohio converted 3 of 17 third downs all night. Bellisari ran 31 yards to the 1 to set up D'Shawntae Jones's touchdown, Brady Stidham tied it from 36 early in the fourth, and Bellisari broke a 26-yarder that set up Stidham's 25-yarder for a 20-17 lead with 3:55 left.\n\nAnd then the last two minutes, which I would like framed. Malcolm McCain forced a Nick Poulos fumble and recovered it himself at the Ohio 48. Next snap, Jones went 48 yards for the touchdown. Twenty seconds later, Amariyun Knighten intercepted Poulos and returned it 58 yards for another. Yager came apart at the seams.\n\nJones finished with 115 yards and two touchdowns on 18 carries, a week after he ran for 112 against Buffalo. McCain had 12 tackles, CJ Young had 11, and Roosevelt Andrews III had a sack. Seniors, that's how you say goodbye to Yager.\n\nOhio came in on a six-game winning streak with a perfect MAC record, and The Miami Student reminded everyone that the Bobcats had won the last two meetings. Ask them how Oxford was.\n\nNext Tuesday, Nov. 17, we're at Kent State, 7:00 PM ET at Dix Stadium.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Down 17-0. At home. On Senior Night. In the Battle of the Bricks. Then the RedHawks scored the last 34 points of the night, and Miami beat Ohio 34-17 at Yager Stadium. We're 6-4 and 4-2 in the MAC, and Miami Athletics said before the game that a win would make us bowl eligible again. Done."
+        },
+        {
+          "type": "paragraph",
+          "text": "The turn came with 1:02 left in the first half, and it came from a receiver. Scoop Smith, the freshman, took the ball and threw 15 yards to Maleek Huggins for a touchdown. 17-7. Drew Bellisari had come in at quarterback on that drive and hit Braylon Isom twice to get us there."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ohio still had one more chance before the break. Brack Peacock missed from 34 at the gun, our unsportsmanlike flag gave them one more snap from the 8, and they tried a throw from the holder. Blayne Myrick knocked it down. Halftime, and you could feel it turning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our defense pitched a shutout in the second half. Ohio converted 3 of 17 third downs all night. Bellisari ran 31 yards to the 1 to set up D'Shawntae Jones's touchdown, Brady Stidham tied it from 36 early in the fourth, and Bellisari broke a 26-yarder that set up Stidham's 25-yarder for a 20-17 lead with 3:55 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "And then the last two minutes, which I would like framed. Malcolm McCain forced a Nick Poulos fumble and recovered it himself at the Ohio 48. Next snap, Jones went 48 yards for the touchdown. Twenty seconds later, Amariyun Knighten intercepted Poulos and returned it 58 yards for another. Yager came apart at the seams."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jones finished with 115 yards and two touchdowns on 18 carries, a week after he ran for 112 against Buffalo. McCain had 12 tackles, CJ Young had 11, and Roosevelt Andrews III had a sack. Seniors, that's how you say goodbye to Yager."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ohio came in on a six-game winning streak with a perfect MAC record, and The Miami Student reminded everyone that the Bobcats had won the last two meetings. Ask them how Oxford was."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next Tuesday, Nov. 17, we're at Kent State, 7:00 PM ET at Dix Stadium."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Miami (OH) beat Ohio 34-17 on Tuesday, Nov. 10, at Yager Stadium on Senior Night, scoring the game's last 34 points after trailing 17-0. The RedHawks are 6-4, 4-2 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "D'Shawntae Jones ran for 115 yards and two touchdowns, including a 48-yarder after Malcolm McCain's forced fumble, and Amariyun Knighten returned an interception 58 yards for a touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "Ohio came to Oxford unbeaten in the conference. They left with a long bus ride."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Kent State, Tuesday, Nov. 17, 7:00 PM ET, Zoeller Field at Dix Stadium, Kent."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Miami (OH) 34, Ohio 17 (Nov. 10, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866460"
+        },
+        {
+          "label": "ESPN play-by-play, Ohio at Miami (OH) (Nov. 10, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866460"
+        },
+        {
+          "label": "Miami Athletics: RedHawks Host Ohio on Senior Night",
+          "url": "https://miamiredhawks.com/news/2026/11/6/football-redhawks-host-ohio-on-senior-night"
+        },
+        {
+          "label": "The Miami Student: Preview, Miami football hosts Ohio in Battle of the Bricks rivalry matchup",
+          "url": "https://www.miamistudent.net/article/2026/11/preview-miami-football-hosts-ohio-in-battle-of-the-bricks-rivalry-matchup"
+        },
+        {
+          "label": "Mid-American Conference: Tuesday's MAC football results",
+          "url": "https://getsomemaction.com/news/2026/11/11/tuesdays-mac-football-results.aspx"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-kent-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "kent-state",
+      "team_ids": [
+        "kent-state"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866459",
+      "title": "Kent State vs Bowling Green: A Fourth-Quarter Comeback That Lasted Nine Seconds",
+      "byline": "Ozzie Brannigan, The Kent State Fanatic",
+      "matchup": "Final: Kent State Golden Flashes (3-7) 28, Bowling Green Falcons (3-7) 33, Tue., Nov. 10, Doyt L. Perry Stadium, Bowling Green. Next: vs Miami (OH), Tue., Nov. 17, 7:00 PM ET, Zoeller Field at Dix Stadium, Kent",
+      "date": "2026-11-10",
+      "word_count": 357,
+      "text": "I expected the worst. I got a more creative version. Kent State came back from 13 points down in the fourth quarter at Doyt L. Perry Stadium, took a 28-27 lead with 2:00 left, and lost 33-28 anyway. The lead lasted nine seconds. We're 3-7, 2-4 in the MAC, and the Anniversary Award rides back to Bowling Green.\n\nLet me be fair, because Dru DeShields earned it. He threw for 332 yards and two touchdowns and ran for two more, including the 25-yard run that put us ahead. I was on my feet. I don't stand up for much.\n\nWayne Harris was the best player on the field. Eight catches, 143 yards, a 39-yard score in the second quarter for a 14-7 lead and a 13-yarder in the fourth to begin the comeback. Da'Realyst Clark added 107 yards on five catches. Those two can play with anybody in this conference.\n\nHere's where my mood went. Early in the fourth we drove 67 yards, and DeShields was intercepted by Josira Andrews at the Bowling Green 2. Points, gone. Then there's Myles Bradley, who ESPN credits with five sacks against us. Five. We converted 5 of 17 third downs. You can't live like that.\n\nAfter our go-ahead score, Bowling Green needed two plays: a 16-yard catch by Joseph Saffold and a 48-yard run by Nakai Amachree. We stopped the two-point try, which I mention only because I like to be accurate. Then DeShields got us to the Bowling Green 35, took a sack, and threw it into the end zone, where Nick Sawyer caught it. Touchback. That's the season in one sentence.\n\nSome good news, since I'm required to look for it. Jaihien Roy had a sack and 6 tackles, Darian Blachewicz had a sack and a half, and Hayden Dawahare made 9 tackles. The defense held Bowling Green to 118 rushing yards and 6 of 14 on third down.\n\nNext Tuesday, Nov. 17, Miami (OH) comes to Dix Stadium for a 7:00 PM ET kickoff. We haven't won on the road this year, so a home game is welcome news. I expect rain. I expect it every week.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I expected the worst. I got a more creative version. Kent State came back from 13 points down in the fourth quarter at Doyt L. Perry Stadium, took a 28-27 lead with 2:00 left, and lost 33-28 anyway. The lead lasted nine seconds. We're 3-7, 2-4 in the MAC, and the Anniversary Award rides back to Bowling Green."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let me be fair, because Dru DeShields earned it. He threw for 332 yards and two touchdowns and ran for two more, including the 25-yard run that put us ahead. I was on my feet. I don't stand up for much."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wayne Harris was the best player on the field. Eight catches, 143 yards, a 39-yard score in the second quarter for a 14-7 lead and a 13-yarder in the fourth to begin the comeback. Da'Realyst Clark added 107 yards on five catches. Those two can play with anybody in this conference."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's where my mood went. Early in the fourth we drove 67 yards, and DeShields was intercepted by Josira Andrews at the Bowling Green 2. Points, gone. Then there's Myles Bradley, who ESPN credits with five sacks against us. Five. We converted 5 of 17 third downs. You can't live like that."
+        },
+        {
+          "type": "paragraph",
+          "text": "After our go-ahead score, Bowling Green needed two plays: a 16-yard catch by Joseph Saffold and a 48-yard run by Nakai Amachree. We stopped the two-point try, which I mention only because I like to be accurate. Then DeShields got us to the Bowling Green 35, took a sack, and threw it into the end zone, where Nick Sawyer caught it. Touchback. That's the season in one sentence."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some good news, since I'm required to look for it. Jaihien Roy had a sack and 6 tackles, Darian Blachewicz had a sack and a half, and Hayden Dawahare made 9 tackles. The defense held Bowling Green to 118 rushing yards and 6 of 14 on third down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next Tuesday, Nov. 17, Miami (OH) comes to Dix Stadium for a 7:00 PM ET kickoff. We haven't won on the road this year, so a home game is welcome news. I expect rain. I expect it every week."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Kent State lost 33-28 at Bowling Green on Tuesday, Nov. 10, after taking a 28-27 lead with 2:00 left. The Golden Flashes are 3-7, 2-4 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Dru DeShields threw for 332 yards and two touchdowns and ran for two more; Wayne Harris caught 8 balls for 143 yards and two scores."
+        },
+        {
+          "type": "jab",
+          "text": "We held the lead for nine seconds. I've waited longer at a red light on Main Street."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Miami (OH), Tuesday, Nov. 17, 7:00 PM ET, Zoeller Field at Dix Stadium, Kent."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Bowling Green 33, Kent State 28 (Nov. 10, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866459"
+        },
+        {
+          "label": "ESPN play-by-play, Kent State at Bowling Green (Nov. 10, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866459"
+        },
+        {
+          "label": "AP via FOX Sports: Novosad and Amachree help Bowling Green past Kent State",
+          "url": "https://www.foxsports.com/articles/cfb/novosad-and-amachree-help-bowling-green-edge-kent-state-3328"
+        },
+        {
+          "label": "BGSU Athletics box score: Kent St. vs Bowling Green, 11/10/2026",
+          "url": "https://bgsufalcons.com/sports/football/stats/2026/kent-state/boxscore/25017"
+        },
+        {
+          "label": "Wikipedia: Anniversary Award (Bowling Green-Kent State trophy history)",
+          "url": "https://en.wikipedia.org/wiki/Anniversary_Award"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-bowling-green",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "bowling-green",
+      "team_ids": [
+        "bowling-green"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866459",
+      "title": "Bowling Green vs Kent State: Nine Seconds, 48 Yards, and the Anniversary Award Comes Home",
+      "byline": "Darcy Fenwick, The Bowling Green Fanatic",
+      "matchup": "Final: Kent State Golden Flashes (3-7) 28, Bowling Green Falcons (3-7) 33, Tue., Nov. 10, Doyt L. Perry Stadium, Bowling Green. Next: at Toledo, Fri., Nov. 20, 7:30 PM ET, Glass Bowl, Toledo",
+      "date": "2026-11-10",
+      "word_count": 363,
+      "text": "It's back. On a 51-degree Tuesday night in front of 10,254 at Doyt L. Perry Stadium, Bowling Green beat Kent State 33-28, and the Anniversary Award comes home after a year in Kent. That trophy was made in 1985 to honor two schools born the same year, 1910. It belongs on our side of the state. The Falcons are 3-7, 3-3 in the MAC, and I have no voice left.\n\nAustin Novosad ran our offense from the first snap for the first time in his career, per the AP, and needed three plays to find Nakai Amachree for 70 yards and a touchdown. Novosad finished 15 of 25 for 229 yards, three touchdowns and zero interceptions. Eli Jacon-Duffy caught a 23-yarder, Blane Cleaver caught a 1-yarder, and Travis Kenner hit from 46 with two seconds left in the half and from 38 in the third.\n\nMyles Bradley. ESPN credits him with five sacks. Five! Kent State's quarterback is going to see number 23 when he closes his eyes tonight. Eriq George added a sack and a half, and Dorian Pringle made 10 tackles.\n\nNow the part that took a year off my life. We led 27-14 going into the fourth quarter, and Kent State came all the way back. Wayne Harris caught a 13-yard score, then Dru DeShields ran 25 yards to put them up 28-27 with 2:00 left. My heart stopped.\n\nNine seconds. That's how long it lasted. Novosad hit Joseph Saffold for 16, and Amachree took the handoff left and went 48 yards to the end zone with 1:51 to go. The two-point try failed, so it was 33-28 and the defense had to finish it.\n\nAnd it did. Josira Andrews had already intercepted DeShields at our 2 early in the fourth. On Kent State's last drive, with 54 seconds left and George in DeShields's face, Nick Sawyer intercepted him in the end zone. Ballgame. Trophy.\n\nAmachree, by the way: 110 rushing yards, 87 receiving yards, two touchdowns. Somebody bake that man a cake.\n\nNext is Friday, Nov. 20, at Toledo, 7:30 PM ET in the Glass Bowl. The Anniversary Award stays in Wood County. Let's go get some more hardware.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "It's back. On a 51-degree Tuesday night in front of 10,254 at Doyt L. Perry Stadium, Bowling Green beat Kent State 33-28, and the Anniversary Award comes home after a year in Kent. That trophy was made in 1985 to honor two schools born the same year, 1910. It belongs on our side of the state. The Falcons are 3-7, 3-3 in the MAC, and I have no voice left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Austin Novosad ran our offense from the first snap for the first time in his career, per the AP, and needed three plays to find Nakai Amachree for 70 yards and a touchdown. Novosad finished 15 of 25 for 229 yards, three touchdowns and zero interceptions. Eli Jacon-Duffy caught a 23-yarder, Blane Cleaver caught a 1-yarder, and Travis Kenner hit from 46 with two seconds left in the half and from 38 in the third."
+        },
+        {
+          "type": "paragraph",
+          "text": "Myles Bradley. ESPN credits him with five sacks. Five! Kent State's quarterback is going to see number 23 when he closes his eyes tonight. Eriq George added a sack and a half, and Dorian Pringle made 10 tackles."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the part that took a year off my life. We led 27-14 going into the fourth quarter, and Kent State came all the way back. Wayne Harris caught a 13-yard score, then Dru DeShields ran 25 yards to put them up 28-27 with 2:00 left. My heart stopped."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nine seconds. That's how long it lasted. Novosad hit Joseph Saffold for 16, and Amachree took the handoff left and went 48 yards to the end zone with 1:51 to go. The two-point try failed, so it was 33-28 and the defense had to finish it."
+        },
+        {
+          "type": "paragraph",
+          "text": "And it did. Josira Andrews had already intercepted DeShields at our 2 early in the fourth. On Kent State's last drive, with 54 seconds left and George in DeShields's face, Nick Sawyer intercepted him in the end zone. Ballgame. Trophy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Amachree, by the way: 110 rushing yards, 87 receiving yards, two touchdowns. Somebody bake that man a cake."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next is Friday, Nov. 20, at Toledo, 7:30 PM ET in the Glass Bowl. The Anniversary Award stays in Wood County. Let's go get some more hardware."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Bowling Green beat Kent State 33-28 on Tuesday, Nov. 10, at Doyt L. Perry Stadium and won back the Anniversary Award. The Falcons are 3-7, 3-3 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Nakai Amachree scored on a 70-yard catch and a 48-yard run with 1:51 left, nine seconds after Kent State took a 28-27 lead; Austin Novosad threw three touchdowns and Myles Bradley had five sacks."
+        },
+        {
+          "type": "jab",
+          "text": "Kent State held the lead for nine seconds. We hope they enjoyed it."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Toledo, Friday, Nov. 20, 7:30 PM ET, Glass Bowl."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Bowling Green 33, Kent State 28 (Nov. 10, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866459"
+        },
+        {
+          "label": "ESPN play-by-play, Kent State at Bowling Green (Nov. 10, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866459"
+        },
+        {
+          "label": "BGSU Athletics box score: Kent St. vs Bowling Green, 11/10/2026",
+          "url": "https://bgsufalcons.com/sports/football/stats/2026/kent-state/boxscore/25017"
+        },
+        {
+          "label": "AP via CBS Sports: Nakai Amachree's late touchdown lifts Bowling Green past Kent State 33-28",
+          "url": "https://www.cbssports.com/college-football/news/nakai-amachrees-late-td-lifts-bowling-green-past-kent-state-33-28/"
+        },
+        {
+          "label": "Wikipedia: Anniversary Award (Bowling Green-Kent State trophy history)",
+          "url": "https://en.wikipedia.org/wiki/Anniversary_Award"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-akron",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "akron",
+      "team_ids": [
+        "akron"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866458",
+      "title": "Akron vs Western Michigan: Marcel Williams Bounces Back Twice in a 42-14 Loss",
+      "byline": "Hollister 'Zip' Grubbs, The Akron Fanatic",
+      "matchup": "Final: Western Michigan Broncos (7-3) 42, Akron Zips (1-9) 14, Tue., Nov. 10, InfoCision Stadium, Akron. Next: at Massachusetts, Wed., Nov. 18, 7:00 PM ET, Warren McGuirk Alumni Stadium, Amherst",
+      "date": "2026-11-10",
+      "word_count": 375,
+      "text": "I'm not going to dress this one up. Western Michigan came into InfoCision Stadium on the eve of Veterans Day and ran the ball right through us for 360 yards. Final score, Western Michigan 42, Akron 14. We're 1-9 and 0-6 in the MAC, and I still showed up early with my flag pin on.\n\nHere's the figure that hurts most: 42:46. That's how long the Broncos held the football. We had it for 17:14. You can't win a game you're watching from the bench. They converted 13 of 17 third downs, and Cole Cabana broke an 82-yard run early in the second quarter that I'm going to see in my sleep.\n\nBut this is the Rubber City, and rubber bounces. Cibastian Broughton answered that Cabana run three plays later, hitting Marcel Williams for 35 yards and a touchdown to make it 14-7. In the fourth quarter, same two guys, 39 yards, another score. Williams finished with 5 catches for 85 yards and both touchdowns. Broughton went 12 of 18 for 173 yards. When those two are rolling, Akron has a heartbeat.\n\nGive it up for the defense on fourth down, too. Western Michigan went for it four times and converted once. On the very first drive, Cyrus Durham helped drop Broc Lowry for a 9-yard loss on fourth-and-1, and the Broncos had to hand it back. Tairan Davis Jr. made 15 tackles, 13 of them by himself. That man was everywhere, and he deserved more help.\n\nBrandon Hills took seven kickoffs back for 139 yards, which tells you two facts. He's tough, and we gave up a lot of points. Jordan Gant ran 9 times for 61 yards, and I wanted to see him 20 more times.\n\nNow the honest part. We gave up 566 yards. Jalen Buckley ran for 121 and two scores, Cabana for 107, and their two quarterbacks completed 22 of 24 throws between them. One Bronco drive went 17 plays and ate 9:19 of clock. That's not a bad night. That's a long night.\n\nNext Wednesday, Nov. 18, it's Akron at UMass, 7:00 PM ET at McGuirk. Feed Marcel Williams early, keep our defense off the field, and let's bring one more win home to Summit County. Zip, zip, hooray.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I'm not going to dress this one up. Western Michigan came into InfoCision Stadium on the eve of Veterans Day and ran the ball right through us for 360 yards. Final score, Western Michigan 42, Akron 14. We're 1-9 and 0-6 in the MAC, and I still showed up early with my flag pin on."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's the figure that hurts most: 42:46. That's how long the Broncos held the football. We had it for 17:14. You can't win a game you're watching from the bench. They converted 13 of 17 third downs, and Cole Cabana broke an 82-yard run early in the second quarter that I'm going to see in my sleep."
+        },
+        {
+          "type": "paragraph",
+          "text": "But this is the Rubber City, and rubber bounces. Cibastian Broughton answered that Cabana run three plays later, hitting Marcel Williams for 35 yards and a touchdown to make it 14-7. In the fourth quarter, same two guys, 39 yards, another score. Williams finished with 5 catches for 85 yards and both touchdowns. Broughton went 12 of 18 for 173 yards. When those two are rolling, Akron has a heartbeat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Give it up for the defense on fourth down, too. Western Michigan went for it four times and converted once. On the very first drive, Cyrus Durham helped drop Broc Lowry for a 9-yard loss on fourth-and-1, and the Broncos had to hand it back. Tairan Davis Jr. made 15 tackles, 13 of them by himself. That man was everywhere, and he deserved more help."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brandon Hills took seven kickoffs back for 139 yards, which tells you two facts. He's tough, and we gave up a lot of points. Jordan Gant ran 9 times for 61 yards, and I wanted to see him 20 more times."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the honest part. We gave up 566 yards. Jalen Buckley ran for 121 and two scores, Cabana for 107, and their two quarterbacks completed 22 of 24 throws between them. One Bronco drive went 17 plays and ate 9:19 of clock. That's not a bad night. That's a long night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next Wednesday, Nov. 18, it's Akron at UMass, 7:00 PM ET at McGuirk. Feed Marcel Williams early, keep our defense off the field, and let's bring one more win home to Summit County. Zip, zip, hooray."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Western Michigan beat Akron 42-14 on Tuesday, Nov. 10, at InfoCision Stadium. The Zips are 1-9, 0-6 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Cibastian Broughton threw both Akron touchdowns to Marcel Williams, from 35 and 39 yards; Williams finished with 85 receiving yards, and Tairan Davis Jr. made 15 tackles."
+        },
+        {
+          "type": "jab",
+          "text": "The Broncos needed 42 minutes of clock to beat us. We'll take that as a compliment."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Massachusetts, Wednesday, Nov. 18, 7:00 PM ET, Warren McGuirk Alumni Stadium, Amherst."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Western Michigan 42, Akron 14 (Nov. 10, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866458"
+        },
+        {
+          "label": "ESPN play-by-play, Western Michigan at Akron (Nov. 10, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866458"
+        },
+        {
+          "label": "AP via CBS Sports: Western Michigan rolls past Akron 42-14 behind dominant ground game",
+          "url": "https://www.cbssports.com/college-football/news/western-michigan-rolls-past-akron-42-14-behind-dominant-ground-game/"
+        },
+        {
+          "label": "WMU Athletics: Broncos Roll Past Akron, 42-14",
+          "url": "https://wmubroncos.com/news/2026/11/10/football-broncos-roll-past-akron-42-14.aspx"
+        },
+        {
+          "label": "Mid-American Conference: Tuesday's MAC football results",
+          "url": "https://getsomemaction.com/news/2026/11/11/tuesdays-mac-football-results.aspx"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-western-michigan",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "western-michigan",
+      "team_ids": [
+        "western-michigan"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866458",
+      "title": "Western Michigan vs Akron: 360 Rushing Yards and a 42-14 Night in the Rubber City",
+      "byline": "Corwin Dahlquist, The Western Michigan Fanatic",
+      "matchup": "Final: Western Michigan Broncos (7-3) 42, Akron Zips (1-9) 14, Tue., Nov. 10, InfoCision Stadium, Akron. Next: vs Eastern Michigan, Tue., Nov. 17, 7:00 PM ET, Waldo Stadium, Kalamazoo",
+      "date": "2026-11-10",
+      "word_count": 369,
+      "text": "I brought film to Akron, and the film was right. Western Michigan 42, Akron 14, Tuesday night at InfoCision Stadium, and the Broncos are 7-3 and 5-1 in the MAC. Write that down in pen.\n\nBegin with the clock. We held the ball for 42:46. The Zips had it for 17:14. We converted 13 of 17 third downs and ran it 56 times for 360 yards. Every guy up front gets a game ball, and I'd like the record to show I diagrammed this exact plan in the parking lot.\n\nThe first drive scared me. Broc Lowry took a fourth-down sack and a hard hit, and Mason Reynolds came in. Reynolds completed his first career throw, per WMU Athletics, ran 35 yards down to the Akron 4, and then found Nate Levicki in the flat for a 3-yard score. Cool as Kalamazoo in November.\n\nThen Cole Cabana did it again. For the second straight game, WMU Athletics says, he went 82 yards for a touchdown, and this one finished a 98-yard drive in four plays. He ended with 107 yards on nine carries, his second straight 100-yard game.\n\nAfter Akron answered, we put together the drive that broke them: 17 plays, 75 yards, 9:19 off the clock, finished by Jalen Buckley from a yard out for a 21-7 halftime lead. Buckley added a 35-yarder in the third on fourth-and-1, bouncing it outside and down the right sideline. That's 121 yards and two scores for him.\n\nLowry came back for the second half and didn't miss. Not once. He went 15 for 15 for 149 yards, and his 20-yard touchdown to Keivin Boone-Nelson II was the first touchdown catch of Boone-Nelson's career. Reynolds finished 7 of 8 with two scores, both to Levicki. Baylin Brooks caught a career-high 8 balls for 78 yards.\n\nMy one gripe: we went 1 for 4 on fourth down, and the Zips hit two long ones to Marcel Williams. Fix the coverage, fellas. Two throws were their whole night.\n\nNext Tuesday, Eastern Michigan comes to Waldo Stadium, and the AP says a win gives us our third Michigan MAC Trophy in four years. Kickoff is 7:00 PM ET. Bring the blocking diagrams. I'll bring extras.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I brought film to Akron, and the film was right. Western Michigan 42, Akron 14, Tuesday night at InfoCision Stadium, and the Broncos are 7-3 and 5-1 in the MAC. Write that down in pen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Begin with the clock. We held the ball for 42:46. The Zips had it for 17:14. We converted 13 of 17 third downs and ran it 56 times for 360 yards. Every guy up front gets a game ball, and I'd like the record to show I diagrammed this exact plan in the parking lot."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first drive scared me. Broc Lowry took a fourth-down sack and a hard hit, and Mason Reynolds came in. Reynolds completed his first career throw, per WMU Athletics, ran 35 yards down to the Akron 4, and then found Nate Levicki in the flat for a 3-yard score. Cool as Kalamazoo in November."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Cole Cabana did it again. For the second straight game, WMU Athletics says, he went 82 yards for a touchdown, and this one finished a 98-yard drive in four plays. He ended with 107 yards on nine carries, his second straight 100-yard game."
+        },
+        {
+          "type": "paragraph",
+          "text": "After Akron answered, we put together the drive that broke them: 17 plays, 75 yards, 9:19 off the clock, finished by Jalen Buckley from a yard out for a 21-7 halftime lead. Buckley added a 35-yarder in the third on fourth-and-1, bouncing it outside and down the right sideline. That's 121 yards and two scores for him."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lowry came back for the second half and didn't miss. Not once. He went 15 for 15 for 149 yards, and his 20-yard touchdown to Keivin Boone-Nelson II was the first touchdown catch of Boone-Nelson's career. Reynolds finished 7 of 8 with two scores, both to Levicki. Baylin Brooks caught a career-high 8 balls for 78 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "My one gripe: we went 1 for 4 on fourth down, and the Zips hit two long ones to Marcel Williams. Fix the coverage, fellas. Two throws were their whole night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next Tuesday, Eastern Michigan comes to Waldo Stadium, and the AP says a win gives us our third Michigan MAC Trophy in four years. Kickoff is 7:00 PM ET. Bring the blocking diagrams. I'll bring extras."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Western Michigan beat Akron 42-14 on Tuesday, Nov. 10, at InfoCision Stadium, rushing for 360 yards and holding the ball for 42:46. The Broncos are 7-3, 5-1 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Broc Lowry completed all 15 of his throws for 149 yards, Mason Reynolds threw two touchdowns to Nate Levicki, and Jalen Buckley ran for 121 yards and two scores."
+        },
+        {
+          "type": "jab",
+          "text": "Akron had the ball for 17 minutes. We were kind enough to let them watch."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Eastern Michigan, Tuesday, Nov. 17, 7:00 PM ET, Waldo Stadium, Kalamazoo."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Western Michigan 42, Akron 14 (Nov. 10, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866458"
+        },
+        {
+          "label": "ESPN play-by-play, Western Michigan at Akron (Nov. 10, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866458"
+        },
+        {
+          "label": "WMU Athletics: Broncos Roll Past Akron, 42-14",
+          "url": "https://wmubroncos.com/news/2026/11/10/football-broncos-roll-past-akron-42-14.aspx"
+        },
+        {
+          "label": "AP via CBS Sports: Western Michigan rolls past Akron 42-14 behind dominant ground game",
+          "url": "https://www.cbssports.com/college-football/news/western-michigan-rolls-past-akron-42-14-behind-dominant-ground-game/"
+        },
+        {
+          "label": "Mid-American Conference: Tuesday's MAC football results",
+          "url": "https://getsomemaction.com/news/2026/11/11/tuesdays-mac-football-results.aspx"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    }
+  ]
 }
