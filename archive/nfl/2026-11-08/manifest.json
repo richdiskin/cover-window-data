@@ -1,0 +1,29 @@
+{
+ "league": "nfl",
+ "date": "2026-11-08",
+ "label": "NFL, Week 9",
+ "status": "final",
+ "archived_utc": "2026-11-11T21:08:02Z",
+ "finalized_utc": "2026-11-11T21:08:02Z",
+ "pending_games": [],
+ "files": {
+  "games.json": {
+   "bytes": 385379,
+   "source": "main@56e4a4a:nfl/games.json"
+  },
+  "monday.json": {
+   "bytes": 49397,
+   "source": "main@56e4a4a:nfl/monday.json"
+  },
+  "results.json": {
+   "bytes": 5070,
+   "source": "ESPN scoreboard 20261105,20261108,20261109"
+  },
+  "standings.json": {
+   "bytes": 266,
+   "source": "main@56e4a4a:nfl/standings.json"
+  }
+ },
+ "read_only": true,
+ "note": "Archived exactly as it was live. Open with the same game pages, read-only."
+}
