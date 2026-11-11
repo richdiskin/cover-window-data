@@ -3,110 +3,21 @@
  "feature": "Lock It Up",
  "league": "nfl",
  "season": 2026,
- "week": 9,
- "slate": "Thursday, Nov 5, 2026",
+ "week": 10,
+ "slate": "Sunday, Nov 15, 2026",
  "edition": "gambler",
  "gambler_only": true,
- "inputs_as_of": "9:04-9:07 AM ET Thu Nov 5, 2026",
- "published_at": "2026-11-05T14:11Z",
- "headline": "Fagnano Gets the Ball, Brissett Gets a Hotel Room, and the Ravens Still Get Ten",
- "dek": "Thursday morning conference call, five handicappers, one game on the board tonight. The Formula dialed in first and sat through two full loops of the hold music. Next Man Up joined late, chewing on something.",
- "body_markdown": "**LETDOWN WATCH:** \"Baltimore traded for a quarterback who can't play tonight. That's like buying snow tires in July and leaving them in the box.\"\n\n**Who's holding**\n- The Formula: sticking with Baltimore Ravens +10 and Over 39.5.\n- Next Man Up: sticking with Baltimore Ravens +10 and Over 39.5.\n- Letdown Watch: sticking with Baltimore Ravens +10 and Over 39.5.\n- In The Trenches: sticking with Baltimore Ravens +10 and Over 39.5.\n- Follow The Money: still no call on this game. Shows the market; not in the score average.\n\n**Jaguars at Ravens: the trade that changes next week, not tonight**\n\n**NEXT MAN UP:** \"Here's the news. Baltimore is finalizing a deal for Jacoby Brissett from Arizona, but he won't be ready Thursday. Joe Fagnano is still the starter. Undrafted rookie, full practice Wednesday, and he's the guy I built the card around on Tuesday. Nothing to rerun that I haven't already run.\"\n\n**THE FORMULA:** \"So the big trade moves your card zero.\"\n\n**NEXT MAN UP:** \"Zero. Brissett is a Week 10 problem. Lamar Jackson and Tyler Huntley are both ruled out on the final report. Kedon Slovis is the backup. Same room I priced.\"\n\n**IN THE TRENCHES:** \"Nobody up front is out on either side. Travon Walker is questionable with the rib for Jacksonville, Baltimore guard Olaivavega Ioane practiced in full with no game status. My card doesn't move unless a starting lineman gets ruled out, and none did.\"\n\n**FOLLOW THE MONEY:** \"The number hasn't budged since Wednesday night. I got nothing to follow.\"\n\n**Everybody else: sticking**\n- Quarterbacks: Fagnano starts for Baltimore, Trevor Lawrence starts for Jacksonville and isn't on the injury report. Brissett is expected to be available starting next week.\n- Injuries: Baltimore has safety Jaylinn Hawkins out, with corner Nate Wiggins and running back Adam Randall questionable. Jacksonville has running back Bhayshul Tuten questionable after sitting out all week, and Liam Coen called him a game-time decision. Walker is questionable too. None of it flips a card.\n- The number: Action Network consensus is still Jacksonville −10, total 39.5, as of 9:04 AM ET. That's the same number every card was written against. Small moves don't count anyway, and this one didn't move at all.\n- Weather: NWS has 68 degrees and a 5 mph south wind at kickoff in Baltimore, with a slight chance of showers and thunderstorms. Wet ball maybe, nothing that rewrites a total.\n- The Cover Writer: all four scoring cards still have Jacksonville winning by less than ten and the game going over. Sticking with Baltimore Ravens +10 and Over 39.5.\n\n**Closing button:** A trade, a rookie, a running back nobody can pin down, and zero flips. Next real input: inactives, 90 minutes before kickoff. Hang up and get your seats.",
+ "inputs_as_of": null,
+ "published_at": null,
+ "headline": "",
+ "dek": "",
+ "body_markdown": "",
  "changes_file": "nfl/pick_changes.json",
  "change_count": 0,
- "game_ids": [
-  "401873037"
- ],
+ "game_ids": [],
  "magazine_file": "magazine/lockitup.json",
- "sources": [
-  {
-   "label": "NFL.com, 2026 Week 9 injury report (final game designations, Jaguars at Ravens)",
-   "urls": [
-    "https://www.nfl.com/injuries/league/2026/reg9"
-   ],
-   "checked_et": "9:04 AM ET Nov 5, 2026",
-   "note": null
-  },
-  {
-   "label": "NFL.com, Ravens to start undrafted rookie QB Joe Fagnano vs. Jaguars on Thursday",
-   "urls": [
-    "https://www.nfl.com/news/ravens-to-start-undrafted-rookie-qb-joe-fagnano-vs-jaguars-on-thursday"
-   ],
-   "checked_et": "9:06 AM ET Nov 5, 2026",
-   "note": null
-  },
-  {
-   "label": "RotoWire, Joe Fagnano: Still in line to start Thursday (Brissett not expected until Week 10, per ESPN's Adam Schefter)",
-   "urls": [
-    "https://www.rotowire.com/football/headlines/joe-fagnano-news-still-in-line-to-start-thursday-645952"
-   ],
-   "checked_et": "9:06 AM ET Nov 5, 2026",
-   "note": null
-  },
-  {
-   "label": "CBS Sports (AP), Ravens turn to Joe Fagnano vs. Jaguars on Thursday night (Brissett trade being finalized; Slovis and Reed the other QBs)",
-   "urls": [
-    "https://www.cbssports.com/nfl/news/ravens-turn-to-joe-fagnano-vs-jaguars-on-thursday-night/"
-   ],
-   "checked_et": "9:06 AM ET Nov 5, 2026",
-   "note": null
-  },
-  {
-   "label": "ESPN, Rookie Joe Fagnano to start Thursday night vs. Jaguars",
-   "urls": [
-    "https://www.espn.com/nfl/story/_/id/50371730/rookie-joe-fagnano-start-thursday-night-vs-jaguars"
-   ],
-   "checked_et": "9:04 AM ET Nov 5, 2026",
-   "note": null
-  },
-  {
-   "label": "USA Today, Is Jacoby Brissett playing today?",
-   "urls": [
-    "https://www.usatoday.com/story/sports/nfl/ravens/2026/11/05/is-jacoby-brissett-playing-today-ravens-qb-thursday-night-football/92615045007/"
-   ],
-   "checked_et": "9:04 AM ET Nov 5, 2026",
-   "note": null
-  },
-  {
-   "label": "Jaguars.com, Wednesday Quick Hits: Tuten a \"Game-Time Decision\" Ahead of Week 9 vs. Ravens",
-   "urls": [
-    "https://www.jaguars.com/news/wednesday-quick-hits-tuten-a-game-time-decision-ahead-of-week-9-vs-ravens"
-   ],
-   "checked_et": "9:06 AM ET Nov 5, 2026",
-   "note": null
-  },
-  {
-   "label": "Jaguars.com Week 9 injury report",
-   "urls": [
-    "https://www.jaguars.com/team/injury-report/week/reg-9"
-   ],
-   "checked_et": "9:06 AM ET Nov 5, 2026",
-   "note": null
-  },
-  {
-   "label": "NBC Sports/ProFootballTalk, Jaguars list Bhayshul Tuten, Travon Walker as questionable for Thursday night",
-   "urls": [
-    "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-list-bhayshul-tuten-travon-walker-as-questionable-for-thursday-night"
-   ],
-   "checked_et": "9:06 AM ET Nov 5, 2026",
-   "note": null
-  },
-  {
-   "label": "Action Network NFL odds, consensus (Jacksonville −10, total 39.5)",
-   "urls": [
-    "https://www.actionnetwork.com/nfl/odds"
-   ],
-   "checked_et": "9:04 AM ET Nov 5, 2026",
-   "note": null
-  },
-  {
-   "label": "National Weather Service hourly forecast, Baltimore (M&T Bank Stadium)",
-   "urls": [
-    "https://api.weather.gov/gridpoints/LWX/109,90/forecast/hourly"
-   ],
-   "checked_et": "9:04 AM ET Nov 5, 2026",
-   "note": null
-  }
- ],
- "sponsor": null
+ "sources": [],
+ "sponsor": null,
+ "status": "not_posted",
+ "note": "NFL Week 10 Lock It Up is not posted yet. Headline, dek and body are empty, so the app treats this file as empty and hides the Lock It Up entry; no Week 9 content shows next to the Week 10 cards."
 }

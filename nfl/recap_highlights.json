@@ -1,42 +1,63 @@
 {
  "status": "published",
  "league": "nfl",
- "date": "2026-11-01",
+ "date": "2026-11-08",
  "title": "Weekly Highlights",
- "header": "Highlights from the Handicap Recap (NFL, Week 8 | graded to the card line at kickoff)",
- "generated_at_utc": "2026-11-03T14:40:22Z",
- "source_note": "Scores and card lines from the graded archive archive/nfl/2026-11-01/; play details from ESPN play-by-play.",
+ "header": "Highlights from the Handicap Recap (NFL, Week 9 | graded to the card line at kickoff)",
+ "generated_at_utc": "2026-11-11T21:08:01Z",
+ "source_note": "Scores and card lines from the graded archive archive/nfl/2026-11-08/; play details from ESPN play-by-play.",
  "sections": [
   {
    "key": "closest_lucky_covers",
    "title": "Closest Lucky Covers",
    "items": [
     {
-     "game_id": "401873030",
-     "text": "Detroit Lions −3.5: covered by 0.5, won by 4 (Detroit Lions 19, Minnesota Vikings 15).",
-     "colour": [
-      {
-       "text": "The cover for Detroit Lions was settled by Jared Goff's 7-yard touchdown pass to Jameson Williams with 4:35 left in the fourth quarter.",
-       "espn_page": "https://www.espn.com/nfl/game/_/gameId/401873030",
-       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873030"
-      }
-     ]
-    },
-    {
-     "game_id": "401873034",
-     "text": "Miami Dolphins +7: covered by 2, lost by 5 (New England Patriots 24, Miami Dolphins 19).",
-     "colour": [
-      {
-       "text": "The cover for Miami Dolphins was settled by Malik Willis's 35-yard touchdown pass to Kevin Coleman Jr. with 2:04 left in the fourth quarter.",
-       "espn_page": "https://www.espn.com/nfl/game/_/gameId/401873034",
-       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873034"
-      }
-     ]
-    },
-    {
-     "game_id": "401873031",
-     "text": "Tennessee Titans +10.5: covered by 3.5, lost by 7 in overtime (Cincinnati Bengals 43, Tennessee Titans 36).",
+     "game_id": "401873040",
+     "text": "Indianapolis Colts +5.5: covered by 1.5, lost by 4 (Dallas Cowboys 27, Indianapolis Colts 23).",
      "colour": []
+    },
+    {
+     "game_id": "401873039",
+     "text": "Cleveland Browns +3: covered by 2, lost by 1 in overtime (New Orleans Saints 23, Cleveland Browns 22).",
+     "colour": [
+      {
+       "text": "The cover for Cleveland Browns was settled by Shedeur Sanders's 39-yard touchdown pass to Harold Fannin Jr. in overtime.",
+       "espn_page": "https://www.espn.com/nfl/game/_/gameId/401873039",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873039"
+      }
+     ]
+    },
+    {
+     "game_id": "401873041",
+     "text": "Denver Broncos −2.5: covered by 2.5, won by 5 (Denver Broncos 26, Carolina Panthers 21).",
+     "colour": []
+    },
+    {
+     "game_id": "401873043",
+     "text": "Los Angeles Rams −4.5: covered by 2.5, won by 7 (Los Angeles Rams 20, Washington Commanders 13).",
+     "colour": []
+    },
+    {
+     "game_id": "401873042",
+     "text": "Detroit Lions −7: covered by 3, won by 10 (Detroit Lions 19, Miami Dolphins 9).",
+     "colour": [
+      {
+       "text": "The cover for Detroit Lions was settled by Jake Bates's 43-yard field goal with 4:28 left in the fourth quarter.",
+       "espn_page": "https://www.espn.com/nfl/game/_/gameId/401873042",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873042"
+      }
+     ]
+    },
+    {
+     "game_id": "401873050",
+     "text": "Tampa Bay Buccaneers +6.5: covered by 3.5, lost by 3 (Chicago Bears 27, Tampa Bay Buccaneers 24).",
+     "colour": [
+      {
+       "text": "Chicago Bears won it on Cairo Santos's 38-yard field goal on the final play.",
+       "espn_page": "https://www.espn.com/nfl/game/_/gameId/401873050",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873050"
+      }
+     ]
     }
    ]
   },
@@ -45,34 +66,18 @@
    "title": "Heartbreaking Misses & Near-Covers",
    "items": [
     {
-     "game_id": "401873024",
-     "text": "Dallas Cowboys −7: lost outright by 3 in overtime (Arizona Cardinals 33, Dallas Cowboys 30), missed by 10.",
-     "colour": [
-      {
-       "text": "Arizona Cardinals won it in overtime on Chad Ryland's 42-yard field goal.",
-       "espn_page": "https://www.espn.com/nfl/game/_/gameId/401873024",
-       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873024"
-      },
-      {
-       "text": "The cover for Arizona Cardinals was settled by Gardner Minshew II's 14-yard touchdown pass to Trey McBride with 2:11 left in the fourth quarter.",
-       "espn_page": "https://www.espn.com/nfl/game/_/gameId/401873024",
-       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873024"
-      },
-      {
-       "text": "Dallas Cowboys led 24-10 with 14:20 left in the fourth quarter and still lost.",
-       "espn_page": "https://www.espn.com/nfl/game/_/gameId/401873024",
-       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873024"
-      }
-     ]
-    },
-    {
-     "game_id": "401873030",
-     "text": "Minnesota Vikings +3.5: missed by 0.5, lost by 4 (Detroit Lions 19, Minnesota Vikings 15). The other side of a cover listed above.",
+     "game_id": "401873040",
+     "text": "Dallas Cowboys −5.5: missed by 1.5, won by 4 (Dallas Cowboys 27, Indianapolis Colts 23). The other side of a cover listed above.",
      "colour": []
     },
     {
-     "game_id": "401873034",
-     "text": "New England Patriots −7: missed by 2, won by 5 (New England Patriots 24, Miami Dolphins 19). The other side of a cover listed above.",
+     "game_id": "401873039",
+     "text": "New Orleans Saints −3: missed by 2, won by 1 in overtime (New Orleans Saints 23, Cleveland Browns 22). The other side of a cover listed above.",
+     "colour": []
+    },
+    {
+     "game_id": "401873045",
+     "text": "New York Jets–Kansas City Chiefs: finished with 47 against a total of 47.5, so the Under got there by 0.5.",
      "colour": []
     }
    ]
@@ -82,33 +87,33 @@
    "title": "Wildest Scoring",
    "items": [
     {
-     "game_id": "401873031",
-     "text": "Cincinnati Bengals 43, Tennessee Titans 36: 79 points (total 46.5; Tennessee Titans +10.5 covered by 3.5; overtime).",
+     "game_id": "401873049",
+     "text": "Green Bay Packers 45, New England Patriots 27: 72 points (total 46; Green Bay Packers +3.5 covered by 21.5).",
      "colour": []
     },
     {
-     "game_id": "401873029",
-     "text": "Las Vegas Raiders 38, New York Jets 33: 71 points (total 45.5; Las Vegas Raiders +1.5 covered by 6.5).",
+     "game_id": "401873046",
+     "text": "Houston Texans 44, Los Angeles Chargers 22: 66 points (total 40.5; Houston Texans −5 covered by 17).",
      "colour": []
     },
     {
-     "game_id": "401873024",
-     "text": "Arizona Cardinals 33, Dallas Cowboys 30: 63 points (total 54.5; Arizona Cardinals +7 covered by 10; overtime).",
+     "game_id": "401873047",
+     "text": "San Francisco 49ers 38, Las Vegas Raiders 17: 55 points (total 52.5; San Francisco 49ers −10 covered by 11).",
      "colour": []
     },
     {
-     "game_id": "401873033",
-     "text": "Denver Broncos 28, Kansas City Chiefs 24: 52 points (total 40.5; Denver Broncos +1.5 covered by 5.5).",
+     "game_id": "401873038",
+     "text": "Cincinnati Bengals 34, Atlanta Falcons 17: 51 points (total 52.5; Cincinnati Bengals −3 covered by 14).",
      "colour": []
     },
     {
-     "game_id": "401873036",
-     "text": "Chicago Bears 34, Seattle Seahawks 17: 51 points (total 46.5; Chicago Bears +3 covered by 20).",
+     "game_id": "401873050",
+     "text": "Chicago Bears 27, Tampa Bay Buccaneers 24: 51 points (total 47.5; Tampa Bay Buccaneers +6.5 covered by 3.5).",
      "colour": []
     }
    ]
   }
  ],
- "closer": "2 games went to overtime. No side landed on the number.",
- "archive_path": "archive/nfl/2026-11-01/"
+ "closer": "1 total landed a half point from the number, 1 game went to overtime and 1 was won on the final play of regulation. No side landed on the number.",
+ "archive_path": "archive/nfl/2026-11-08/"
 }
