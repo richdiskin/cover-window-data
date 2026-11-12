@@ -4,7 +4,7 @@
   "theme": "mmqb",
   "theme_label": "Monday recaps coming this morning",
   "published_at": "2026-11-11T05:37:32Z",
-  "count": 10,
+  "count": 12,
   "lead_id": null,
   "articles": [
     {
@@ -348,6 +348,184 @@
         {
           "label": "ESPN Buffalo Bulls 2026 schedule",
           "url": "https://www.espn.com/college-football/team/schedule/_/id/2084"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-sacramento-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "sacramento-state",
+      "team_ids": [
+        "sacramento-state"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866462",
+      "title": "Sacramento State vs Central Michigan: Isaiah Ene's 37-Yard Dash and a Long Night in Mount Pleasant",
+      "byline": "",
+      "matchup": "Final: Sacramento State Hornets (2-9) 7, Central Michigan Chippewas (5-5) 28, Wed., Nov. 11, Mount Pleasant. Next: at Hawai'i, Sat., Nov. 28, 11:00 PM ET, Clarence T.C. Ching Athletics Complex, Honolulu",
+      "date": "2026-11-11",
+      "word_count": 306,
+      "text": "A long way from home, on a Wednesday night in Michigan, the Hornets took the field and swung. Central Michigan 28, Sacramento State 7. We're 2-9. I'm still wearing the green and gold, and I'm not taking it off.\n\nThe first drive looked like us. Brian Salazar Jr. moved the ball 66 yards in 10 plays, all the way to the Central Michigan 16, and then Justin Taylor intercepted a throw at the 7. Heartbreaker. Points there and this is a different night.\n\nIsaiah Ene was the bright spot. Second quarter, four plays and 68 yards, and Ene went the last 37 himself to tie it 7-7. He finished with 67 yards on eight carries and caught two balls. Give that man the ball more. I'm begging.\n\nThe defense worked all night long. Leki Holani made 14 tackles. Boogsie Silvera had 11 and forced a fumble that Miles Tucker recovered at our 38. Tim Thomas added nine tackles, a tackle for loss and two hurries. Those guys never quit.\n\nBut Central Michigan had the ball for 39:48 and ran it 56 times. Vaughn Blue scored with 19 seconds left in the half, Brock Townsend broke a 40-yarder in the third, and Townsend added a late one. We finished with 211 yards and 10 first downs, and that's the whole story.\n\nOnterrio Smith Jr. led us with four catches for 47 yards, including a 25-yarder, and Davion Godley ripped off a 23-yard run. There's talent on this roster. Ask anybody who stuck around to the end. Salazar took his hits and kept getting up, and that matters to me more than any stat sheet.\n\nNow we get a breather, then one more trip west: at Hawai'i, Saturday, Nov. 28, 11:00 PM ET, at the Clarence T.C. Ching Athletics Complex in Honolulu. Long flight. Let's finish strong, Hornets.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A long way from home, on a Wednesday night in Michigan, the Hornets took the field and swung. Central Michigan 28, Sacramento State 7. We're 2-9. I'm still wearing the green and gold, and I'm not taking it off."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first drive looked like us. Brian Salazar Jr. moved the ball 66 yards in 10 plays, all the way to the Central Michigan 16, and then Justin Taylor intercepted a throw at the 7. Heartbreaker. Points there and this is a different night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Isaiah Ene was the bright spot. Second quarter, four plays and 68 yards, and Ene went the last 37 himself to tie it 7-7. He finished with 67 yards on eight carries and caught two balls. Give that man the ball more. I'm begging."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense worked all night long. Leki Holani made 14 tackles. Boogsie Silvera had 11 and forced a fumble that Miles Tucker recovered at our 38. Tim Thomas added nine tackles, a tackle for loss and two hurries. Those guys never quit."
+        },
+        {
+          "type": "paragraph",
+          "text": "But Central Michigan had the ball for 39:48 and ran it 56 times. Vaughn Blue scored with 19 seconds left in the half, Brock Townsend broke a 40-yarder in the third, and Townsend added a late one. We finished with 211 yards and 10 first downs, and that's the whole story."
+        },
+        {
+          "type": "paragraph",
+          "text": "Onterrio Smith Jr. led us with four catches for 47 yards, including a 25-yarder, and Davion Godley ripped off a 23-yard run. There's talent on this roster. Ask anybody who stuck around to the end. Salazar took his hits and kept getting up, and that matters to me more than any stat sheet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now we get a breather, then one more trip west: at Hawai'i, Saturday, Nov. 28, 11:00 PM ET, at the Clarence T.C. Ching Athletics Complex in Honolulu. Long flight. Let's finish strong, Hornets."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Sacramento State lost 28-7 at Central Michigan on Wednesday, Nov. 11. The Hornets are 2-9."
+        },
+        {
+          "type": "fact",
+          "text": "Isaiah Ene scored on a 37-yard run in the second quarter, and Leki Holani led the defense with 14 tackles."
+        },
+        {
+          "type": "jab",
+          "text": "Central Michigan ran the ball 56 times. Somebody tell the Chippewas the forward throw is legal."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Hawai'i, Saturday, Nov. 28, 11:00 PM ET, Clarence T.C. Ching Athletics Complex, Honolulu."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Central Michigan 28, Sacramento State 7 (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866462"
+        },
+        {
+          "label": "ESPN play-by-play, Sacramento State at Central Michigan (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866462"
+        },
+        {
+          "label": "ESPN game page, Sacramento State at Central Michigan (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866462"
+        },
+        {
+          "label": "ESPN Sacramento State Hornets 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/16"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-central-michigan",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "central-michigan",
+      "team_ids": [
+        "central-michigan"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866462",
+      "title": "Central Michigan vs Sacramento State: 319 Rushing Yards and the Chippewas Climb to 5-5",
+      "byline": "Brynn Haverkamp, The Central Michigan Fanatic",
+      "matchup": "Final: Sacramento State Hornets (2-9) 7, Central Michigan Chippewas (5-5) 28, Wed., Nov. 11, Mount Pleasant. Next: at Buffalo, Wed., Nov. 18, 7:30 PM ET, Broadview Stadium, Buffalo",
+      "date": "2026-11-11",
+      "word_count": 330,
+      "text": "Fifty-six carries. 319 yards. 39:48 of possession. Central Michigan 28, Sacramento State 7 on Wednesday night in Mount Pleasant, and the Chippewas are back to 5-5 and 3-3 in the MAC. Maroon and gold, ground and pound, exactly how I drew it up on my napkin at dinner.\n\nJayden Clerveaux set the tone on the very first drive, seven plays and 68 yards, and he finished it himself with a 27-yard run. He ended with 100 yards on 19 carries. Nick Woodford led everybody with 119 yards on 23 carries. Two backs, two hundreds. Somebody frame that box score.\n\nSacramento State answered with a long march down to our 16, and then Justin Taylor stepped in front of a Brian Salazar Jr. throw at our 7. Drive done. That's a game-changing play nobody will remember but me.\n\nThe Hornets did get one. Isaiah Ene went 37 yards in the second quarter to tie it 7-7. Our answer was an 11-play, 71-yard drive, and Vaughn Blue ran it in from 8 yards out with 19 seconds left in the half.\n\nThen came the drive of the year. Twelve plays, 97 yards, and Brock Townsend finished it with a 40-yard run in the third quarter. He added a 6-yard score late and had 58 yards on five carries. Every time that kid touches it, Mount Pleasant gets louder.\n\nJadyn Glasser ran the show: 11 of 19 for 105 yards, no interceptions, plus 33 yards on the ground. Nasir Williams hauled in a 52-yarder. We converted 11 of 18 third downs and 3 of 4 fourth downs, and Jaion Jackson added a sack. The defense held Sac State to 211 yards and 10 first downs.\n\nOne gripe: Caden VanHuis missed from 50 and Clerveaux lost a fumble. Tidy that up, fellas, because next week is a big one.\n\nNext: at Buffalo, Wednesday, Nov. 18, 7:30 PM ET, at Broadview Stadium. Two run-first teams in November. I'm bringing extra layers and a louder voice.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fifty-six carries. 319 yards. 39:48 of possession. Central Michigan 28, Sacramento State 7 on Wednesday night in Mount Pleasant, and the Chippewas are back to 5-5 and 3-3 in the MAC. Maroon and gold, ground and pound, exactly how I drew it up on my napkin at dinner."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jayden Clerveaux set the tone on the very first drive, seven plays and 68 yards, and he finished it himself with a 27-yard run. He ended with 100 yards on 19 carries. Nick Woodford led everybody with 119 yards on 23 carries. Two backs, two hundreds. Somebody frame that box score."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sacramento State answered with a long march down to our 16, and then Justin Taylor stepped in front of a Brian Salazar Jr. throw at our 7. Drive done. That's a game-changing play nobody will remember but me."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Hornets did get one. Isaiah Ene went 37 yards in the second quarter to tie it 7-7. Our answer was an 11-play, 71-yard drive, and Vaughn Blue ran it in from 8 yards out with 19 seconds left in the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the drive of the year. Twelve plays, 97 yards, and Brock Townsend finished it with a 40-yard run in the third quarter. He added a 6-yard score late and had 58 yards on five carries. Every time that kid touches it, Mount Pleasant gets louder."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jadyn Glasser ran the show: 11 of 19 for 105 yards, no interceptions, plus 33 yards on the ground. Nasir Williams hauled in a 52-yarder. We converted 11 of 18 third downs and 3 of 4 fourth downs, and Jaion Jackson added a sack. The defense held Sac State to 211 yards and 10 first downs."
+        },
+        {
+          "type": "paragraph",
+          "text": "One gripe: Caden VanHuis missed from 50 and Clerveaux lost a fumble. Tidy that up, fellas, because next week is a big one."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next: at Buffalo, Wednesday, Nov. 18, 7:30 PM ET, at Broadview Stadium. Two run-first teams in November. I'm bringing extra layers and a louder voice."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Central Michigan beat Sacramento State 28-7 on Wednesday, Nov. 11, in Mount Pleasant. The Chippewas are 5-5, 3-3 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "CMU ran 56 times for 319 yards. Nick Woodford had 119 and Jayden Clerveaux had 100, and Brock Townsend scored twice, including a 40-yard run that capped a 97-yard drive."
+        },
+        {
+          "type": "jab",
+          "text": "We held the ball for 39:48. The Hornets spent most of the night watching from the bench."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Buffalo, Wednesday, Nov. 18, 7:30 PM ET, Broadview Stadium, Buffalo."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Central Michigan 28, Sacramento State 7 (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866462"
+        },
+        {
+          "label": "ESPN play-by-play, Sacramento State at Central Michigan (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866462"
+        },
+        {
+          "label": "ESPN game page, Sacramento State at Central Michigan (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866462"
+        },
+        {
+          "label": "ESPN Central Michigan Chippewas 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2117"
         }
       ],
       "sources_display": "button",
