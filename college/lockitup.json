@@ -3,116 +3,99 @@
  "feature": "Lock It Up",
  "league": "college",
  "season": 2026,
- "slate": "Tuesday, Nov 10, 2026",
+ "slate": "Thursday, Nov 12, 2026",
  "edition": "gambler",
  "gambler_only": true,
- "inputs_as_of": "11:39-11:44 AM ET Tue Nov 10, 2026",
- "published_at": "2026-11-10T16:56Z",
- "headline": "The Money Moves on All Three MAC Games. Everybody Else Holds.",
- "dek": "Late-morning conference call. Three MACtion games tonight. Follow The Money unmutes every thirty seconds to read another number off the screen.",
- "body_markdown": "**LETDOWN WATCH:** \"Let him finish. He's been waiting all morning for this.\"\n\n**Who's holding**\n- The Formula: all three, unchanged. Sticking with Western Michigan Broncos −14 and Under 48.5; Bowling Green Falcons −5.5 and Over 44.5; Miami (OH) RedHawks +1.5 and Over 46.5.\n- Next Man Up: all three, unchanged. Sticking with Western Michigan Broncos −14 and Under 48.5; Bowling Green Falcons −5.5 and Under 44.5; Miami (OH) RedHawks +1.5 and Over 46.5.\n- Letdown Watch: all three, unchanged. Sticking with Western Michigan Broncos −14 and Under 48.5; Bowling Green Falcons −5.5 and Over 44.5; Ohio Bobcats −1.5 and Over 46.5.\n- Follow The Money: four changes across all three games, still no side in the last two. Shows the market only and has no score of its own.\n- In The Trenches: all three sides unchanged. Sticking with Akron Zips +14 and Ohio Bobcats −1.5, nothing on Kent State at Bowling Green, no over/under calls.\n\n**Western Michigan at Akron: the money takes the side and the total**\n\n**FOLLOW THE MONEY:** \"Two here. The first Action Network consensus spread after Monday night was Akron +14 at 9:15 this morning. It hit +15.5 at 10:55 AM ET. A point and a half. Original pick stays on record: No pick. Final pick: Western Michigan Broncos −15.5.\"\n\n**IN THE TRENCHES:** \"Sticking with Akron Zips +14. Keep the extra point and a half.\"\n\n**THE FORMULA:** \"Broncos by exactly 15 and the three of us at −14 celebrate while you stare at half a point.\"\n\n**FOLLOW THE MONEY:** \"Total. My card went up at 6:24 with the consensus at 47.5 and no pick. It went 48.5 at 7:09 and 49.5 at 9:43 AM ET. Two points. Original pick stays on record: No pick. Final pick: Over 49.5.\"\n\n**NEXT MAN UP:** \"Three of us Under 48.5 and you a full point past the Cover Writer's Over 48.5. Somebody's buying breakfast Wednesday.\"\n\n**Kent State at Bowling Green: the money goes Under**\n\n**FOLLOW THE MONEY:** \"Consensus total was 44.5 from just after midnight through my 6:24 card. It dropped to 43.5 at 9:30 AM ET. Under...\"\n\n**NEXT MAN UP:** \"You cut out right after 'Under.'\"\n\n**FOLLOW THE MONEY:** \"Under 43.5. Spread still Bowling Green −5.5, and still no side. Original pick stays on record: No pick. Final pick: Under 43.5.\"\n\n**THE FORMULA:** \"Letdown Watch and I stay Over 44.5. Somebody score.\"\n\n**Ohio at Miami (OH): the money goes Over**\n\n**FOLLOW THE MONEY:** \"Consensus total was 46.5 through 6:24 and went to 47.5 at 10:17 AM ET. Spread still Miami +1.5, still no side. Original pick stays on record: No pick. Final pick: Over 47.5.\"\n\n**LETDOWN WATCH:** \"Everybody here with a total is on the Over, the Cover Writer too.\"\n\n**THE FORMULA:** \"Unanimous until it lands on exactly 47. Then the rest of us at Over 46.5 are home and you're one short.\"\n\n**Everybody else: sticking**\n- Quarterbacks and injuries: no official starting quarterback change as of 11:42 AM ET, and ESPN lists no injuries for the six teams. MAC availability reports are still pending: Akron and Bowling Green at 6:00 PM ET, Oxford at 7:00 PM ET.\n- Weather: National Weather Service at 11:40 AM ET still has clear or mostly clear skies, 49 to 51 degrees and 5 mph wind or less at all three kickoffs.\n- The Cover Writer: every pick stands. Sticking with Western Michigan Broncos −14 and Over 48.5 (32-17); Bowling Green Falcons −5.5 and Under 44.5 (27-17); Miami (OH) RedHawks +1.5 and Over 46.5 (27-24).\n\n**Closing button:** The money moved four times and nobody else budged. MAC reports land between 6:00 and 7:00 PM ET. Hang up, and Follow The Money, put the phone down.\n\n**Changes**\n- game_id: 401866458 (Western Michigan Broncos at Akron Zips)\n- handicapper: Follow The Money\n- market: total\n- original: No pick at 47.5, made Nov 10, 2026, 6:24 AM ET\n- final: Over 49.5 at 49.5\n- changed_at: Nov 10, 2026, 11:27 AM ET; kickoff Nov 10, 2026, 7:00 PM ET\n- reason.type: line_move\n- reason.detail: Action Network consensus total for Western Michigan at Akron moved from 47.5 to 49.5 by 9:43 AM ET Tuesday Nov 10, a 2-point move (it opened 47.5 at 12:16 AM ET, was 47.5 when the no-pick card went live at 6:24 AM ET, and passed through 48.5 at 7:09 AM ET), and the official card as of 11:27 AM ET turns that move into Over 49.5, quoting the consensus 49.5 rather than the 48.5 listed on the game page.\n- reason.source: Action Network consensus line history, Western Michigan at Akron (book 15): https://api.actionnetwork.com/web/v2/markets/event/289943/history?bookIds=15 (checked Nov 10, 2026, 11:39 AM ET)\n- status: final\n\n- game_id: 401866458 (Western Michigan Broncos at Akron Zips)\n- handicapper: Follow The Money\n- market: side\n- original: No pick at −14, made Nov 10, 2026, 9:43 AM ET\n- final: Western Michigan Broncos −15.5 at −15.5\n- changed_at: Nov 10, 2026, 11:27 AM ET; kickoff Nov 10, 2026, 7:00 PM ET\n- reason.type: line_move\n- reason.detail: Action Network consensus spread for Western Michigan at Akron moved from −14 to −15.5 on Western Michigan, a 1.5-point move: Akron +14 at 9:15 AM ET Tuesday Nov 10 (the first consensus spread after the Monday night game), then +14.5 at 10:21 AM ET, +15 at 10:31 AM ET and +15.5 at 10:55 AM ET; the official card as of 11:27 AM ET turns that move into Western Michigan Broncos −15.5, quoting the consensus −15.5 rather than the −14 listed on the game page.\n- reason.source: Action Network consensus line history, Western Michigan at Akron (book 15): https://api.actionnetwork.com/web/v2/markets/event/289943/history?bookIds=15 (checked Nov 10, 2026, 11:39 AM ET)\n- status: final\n\n- game_id: 401866459 (Kent State Golden Flashes at Bowling Green Falcons)\n- handicapper: Follow The Money\n- market: total\n- original: No pick at 44.5, made Nov 10, 2026, 6:24 AM ET\n- final: Under 43.5 at 43.5\n- changed_at: Nov 10, 2026, 10:38 AM ET; kickoff Nov 10, 2026, 7:00 PM ET\n- reason.type: line_move\n- reason.detail: Action Network consensus total for Kent State at Bowling Green moved from 44.5 (opened 12:15 AM ET Tuesday Nov 10, and still 44.5 when the no-pick card went live at 6:24 AM ET) to 43.5 at 9:30 AM ET, a 1-point move, and the official card as of 10:38 AM ET turns that move into Under 43.5, quoting the consensus 43.5 rather than the 44.5 listed on the game page.\n- reason.source: Action Network consensus line history, Kent State at Bowling Green (book 15): https://api.actionnetwork.com/web/v2/markets/event/289944/history?bookIds=15 (checked Nov 10, 2026, 11:39 AM ET)\n- status: final\n\n- game_id: 401866460 (Ohio Bobcats at Miami (OH) RedHawks)\n- handicapper: Follow The Money\n- market: total\n- original: No pick at 46.5, made Nov 10, 2026, 6:24 AM ET\n- final: Over 47.5 at 47.5\n- changed_at: Nov 10, 2026, 11:04 AM ET; kickoff Nov 10, 2026, 8:00 PM ET\n- reason.type: line_move\n- reason.detail: Action Network consensus total for Ohio at Miami (OH) moved from 46.5 (opened 1:15 AM ET Tuesday Nov 10, and still 46.5 when the no-pick card went live at 6:24 AM ET) to 47.5 at 10:17 AM ET, a 1-point move, and the official card as of 11:04 AM ET turns that move into Over 47.5, quoting the consensus 47.5 rather than the 46.5 listed on the game page.\n- reason.source: Action Network consensus line history, Ohio at Miami (OH) (book 15): https://api.actionnetwork.com/web/v2/markets/event/289945/history?bookIds=15 (checked Nov 10, 2026, 11:39 AM ET)\n- status: final\n\n- Each entry in college/pick_changes.json also carries reason.source_url, the bare Action Network history link above. No other entries in college/pick_changes.json for the Tuesday, Nov 10, 2026 college games as of 11:42 AM ET. The Cover Writer has no change.",
+ "inputs_as_of": "9:07-9:12 AM ET Thu Nov 12, 2026",
+ "published_at": "2026-11-12T14:19Z",
+ "headline": "The Number in Monroe is 49.5 Now. Everybody Holds.",
+ "dek": "Thursday morning conference call, five lines, two games on the invite. Somebody joined from the car and keeps saying \"can you hear me now\" at the exact moment everyone can hear them.",
+ "body_markdown": "**LETDOWN WATCH:** \"We can hear you. We could hear you three times ago.\"\n\n**Who's holding**\n- The Formula: both games, unchanged. Sticking with South Florida Bulls +5.5 and Over 48.5; Louisiana Ragin' Cajuns −11.5 and Over 48.5.\n- Next Man Up: both games, unchanged. Sticking with South Florida Bulls +5.5 and Over 48.5; Louisiana Ragin' Cajuns −11.5 and Over 48.5.\n- Letdown Watch: both games, unchanged. Sticking with South Florida Bulls +5.5 and Over 48.5; Louisiana Ragin' Cajuns −11.5 and Over 48.5.\n- Follow The Money: nothing on either market in Tampa or in Monroe. Shows the market only and has no score of its own.\n- In The Trenches: sticking with Memphis Tigers −5.5, and still nothing on Louisiana at UL Monroe. No over/under calls.\n\n**Louisiana at UL Monroe: the number is 49.5 now**\n\n**NEXT MAN UP:** \"The number is 49.5 now. I'm sticking with Over 48.5, and I'm still laying the 11.5 with the Cajuns.\"\n\n**THE FORMULA:** \"Same Over from me. Still the Cajuns, too.\"\n\n**LETDOWN WATCH:** \"I'm still on the Over, and so is The Formula.\"\n\n*The car caller's signal drops for a second.* **IN THE TRENCHES:** \"...still no side in Monroe. Still no side.\"\n\n**Everybody else: sticking**\n- Memphis at South Florida: Action Network consensus slid from Memphis −5.5 to −3.5, with the last move at 10:18 AM ET Tuesday, and the total went from 48.5 to 50.5. Every South Florida card still holds at +3.5, The Trenches still lay it with Memphis at the cheaper number, and every Over card projects past 50.5.\n- Louisiana at UL Monroe: consensus is Louisiana −10.5. Every Cajuns card still clears it, and the Over cards from The Formula and Letdown Watch still clear 49.5. Next Man Up is sticking with Over 48.5; the number is 49.5 now.\n- Quarterbacks and injuries: no starting quarterback change on any official source this morning. ESPN's game pages list no injuries for either game. The Sun Belt availability report (initial report, Nov 9, 8:08 PM ET) lists no quarterback for either team; Louisiana has OL J'Marion Gooch and WR Landon Strother out and WR Ja'Corian Norris doubtful. The American availability report for Memphis at South Florida is not posted yet.\n- Weather: no rain in the National Weather Service forecast for either game. Tampa is mostly cloudy, 72 degrees with a 3 mph wind at 8 PM. Monroe is clear, 56 degrees with a 5 mph wind at 8 PM local. Nothing that moves a total.\n- The Cover Writer: every pick stands. Sticking with South Florida Bulls +5.5 and Over 48.5 (South Florida 27, Memphis 26); Louisiana Ragin' Cajuns −11.5 and Over 48.5 (Louisiana 33, UL Monroe 18).\n\n**Closing button:** Two games, everybody stays put. And whoever is in the car, we can hear you.\n\n**Changes**\nNone recorded. No entries in college/pick_changes.json for the Thursday, Nov 12, 2026 college games as of 9:12 AM ET.",
  "changes_file": "college/pick_changes.json",
- "change_count": 4,
+ "change_count": 0,
  "game_ids": [
-  "401866458",
-  "401866459",
-  "401866460"
+  "401862824",
+  "401869969"
  ],
  "sources": [
   {
-   "label": "Action Network college football odds, consensus as of the recheck (Western Michigan −15.5, total 49.5; Bowling Green −5.5, total 43.5; Miami (OH) +1.5, total 47.5)",
+   "label": "Action Network college football odds, consensus as of the check (Memphis −3.5, total 50.5; Louisiana −10.5, total 49.5)",
    "urls": [
-    "https://api.actionnetwork.com/web/v2/scoreboard/ncaaf?bookIds=15,30&date=20261110"
+    "https://api.actionnetwork.com/web/v2/scoreboard/ncaaf?bookIds=15,30&date=20261112"
    ],
-   "checked_et": "11:39 AM ET Nov 10, 2026",
+   "checked_et": "9:07 AM ET Nov 12, 2026",
    "note": null
   },
   {
-   "label": "Action Network consensus line history, Western Michigan at Akron (spread Akron +14 at 9:15 AM ET to +15.5 at 10:55 AM ET; total 47.5 to 48.5 at 7:09 AM ET to 49.5 at 9:43 AM ET)",
+   "label": "Action Network consensus line history, Memphis at South Florida (−5.5 to −3.5, last move 10:18 AM ET Nov 10; total 48.5 to 50.5 at 2:38 PM ET Nov 9)",
    "urls": [
-    "https://api.actionnetwork.com/web/v2/markets/event/289943/history?bookIds=15"
+    "https://api.actionnetwork.com/web/v2/markets/event/289949/history?bookIds=15"
    ],
-   "checked_et": "11:39 AM ET Nov 10, 2026",
+   "checked_et": "9:07 AM ET Nov 12, 2026",
    "note": null
   },
   {
-   "label": "Action Network consensus line history, Kent State at Bowling Green (Bowling Green −5.5 unchanged; total 44.5 to 43.5 at 9:30 AM ET)",
+   "label": "Action Network consensus line history, Louisiana at UL Monroe (total 48.5 to 49.5 at 5:02 PM ET Nov 9; spread −10.5)",
    "urls": [
-    "https://api.actionnetwork.com/web/v2/markets/event/289944/history?bookIds=15"
+    "https://api.actionnetwork.com/web/v2/markets/event/289950/history?bookIds=15"
    ],
-   "checked_et": "11:39 AM ET Nov 10, 2026",
+   "checked_et": "9:07 AM ET Nov 12, 2026",
    "note": null
   },
   {
-   "label": "Action Network consensus line history, Ohio at Miami (OH) (Miami +1.5 unchanged; total 46.5 to 47.5 at 10:17 AM ET)",
+   "label": "ESPN game summary, Memphis at South Florida (DraftKings Memphis −3.5, total 50.5; no injuries listed)",
    "urls": [
-    "https://api.actionnetwork.com/web/v2/markets/event/289945/history?bookIds=15"
+    "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401862824"
    ],
-   "checked_et": "11:39 AM ET Nov 10, 2026",
+   "checked_et": "9:07 AM ET Nov 12, 2026",
    "note": null
   },
   {
-   "label": "ESPN game summary, Western Michigan at Akron (DraftKings Western Michigan −15.5, total 49.5; no injuries listed)",
+   "label": "ESPN game summary, Louisiana at UL Monroe (DraftKings Louisiana −10, total 49.5; no injuries listed)",
    "urls": [
-    "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401866458"
+    "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401869969"
    ],
-   "checked_et": "11:39 AM ET Nov 10, 2026",
+   "checked_et": "9:07 AM ET Nov 12, 2026",
    "note": null
   },
   {
-   "label": "ESPN game summary, Kent State at Bowling Green (DraftKings Bowling Green −5.5, total 43.5; no injuries listed)",
+   "label": "Sun Belt availability report, Louisiana at UL Monroe (Initial Report, posted Nov 9, 2026, 8:08 PM ET)",
    "urls": [
-    "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401866459"
+    "https://sunbeltsports.org/news/2025/8/11/football-availability-report-new.aspx"
    ],
-   "checked_et": "11:39 AM ET Nov 10, 2026",
+   "checked_et": "9:07 AM ET Nov 12, 2026",
    "note": null
   },
   {
-   "label": "ESPN game summary, Ohio at Miami (OH) (DraftKings Ohio −1.5, total 47.5; no injuries listed)",
+   "label": "American availability report via HD Intelligence (no report posted yet for Memphis at South Florida)",
    "urls": [
-    "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401866460"
+    "https://app.hdintelligence.com/?source=American&sport=Football&type=report"
    ],
-   "checked_et": "11:39 AM ET Nov 10, 2026",
+   "checked_et": "9:07 AM ET Nov 12, 2026",
    "note": null
   },
   {
-   "label": "ESPN college football injuries (none listed for the six teams)",
+   "label": "ESPN college football scoreboard, Nov 12 (two games, 8:00 PM and 9:00 PM ET, scheduled)",
    "urls": [
-    "https://site.api.espn.com/apis/site/v2/sports/football/college-football/injuries"
+    "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261112&groups=80"
    ],
-   "checked_et": "11:40 AM ET Nov 10, 2026",
+   "checked_et": "9:07 AM ET Nov 12, 2026",
    "note": null
   },
   {
-   "label": "MAC availability reports via HD Intelligence (all three games: report pending)",
+   "label": "National Weather Service hourly forecast, Tampa (Raymond James Stadium)",
    "urls": [
-    "https://app.hdintelligence.com/?source=MAC&sport=Football&conf=MAC&type=report"
+    "https://api.weather.gov/gridpoints/TBW/69,99/forecast/hourly"
    ],
-   "checked_et": "11:40 AM ET Nov 10, 2026",
+   "checked_et": "9:10 AM ET Nov 12, 2026",
    "note": null
   },
   {
-   "label": "National Weather Service hourly forecast, Akron (InfoCision Stadium)",
+   "label": "National Weather Service hourly forecast, Monroe (Malone Stadium)",
    "urls": [
-    "https://api.weather.gov/gridpoints/CLE/92,46/forecast/hourly"
+    "https://api.weather.gov/gridpoints/SHV/136,70/forecast/hourly"
    ],
-   "checked_et": "11:40 AM ET Nov 10, 2026",
-   "note": null
-  },
-  {
-   "label": "National Weather Service hourly forecast, Bowling Green (Doyt L. Perry Stadium)",
-   "urls": [
-    "https://api.weather.gov/gridpoints/CLE/18,54/forecast/hourly"
-   ],
-   "checked_et": "11:40 AM ET Nov 10, 2026",
-   "note": null
-  },
-  {
-   "label": "National Weather Service hourly forecast, Oxford (Yager Stadium)",
-   "urls": [
-    "https://api.weather.gov/gridpoints/ILN/26,56/forecast/hourly"
-   ],
-   "checked_et": "11:40 AM ET Nov 10, 2026",
+   "checked_et": "9:10 AM ET Nov 12, 2026",
    "note": null
   }
  ],
