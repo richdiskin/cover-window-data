@@ -1,0 +1,359 @@
+{
+  "schema": 1,
+  "date": "2026-11-11",
+  "theme": "mmqb",
+  "theme_label": "Monday Morning Quarterback",
+  "published_at": "2026-10-26T11:53:04Z",
+  "count": 4,
+  "lead_id": "fanatic_team-massachusetts",
+  "articles": [
+    {
+      "id": "fanatic_team-massachusetts",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "massachusetts",
+      "team_ids": [
+        "massachusetts"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866463",
+      "title": "UMass vs Toledo: Shut Out at the Glass Bowl, but Timmy Hinspeter Never Stopped Hitting",
+      "byline": "Abner Kettleworth, The Massachusetts Fanatic",
+      "matchup": "Final: Massachusetts Minutemen (5-5) 0, Toledo Rockets (8-2) 24, Wed., Nov. 11, Glass Bowl, Toledo. Next: vs Akron, Wed., Nov. 18, 7:00 PM ET, Warren McGuirk Alumni Stadium, Amherst",
+      "date": "2026-11-11",
+      "word_count": 304,
+      "text": "Some nights you write in the diary, and some nights you tear the page out. Toledo 24, UMass 0 at the Glass Bowl on Wednesday night, and the Minutemen are 5-5. I watched every snap, and I'm going to tell you about the good parts, because there were some.\n\nThe second half was ours. Toledo scored zero points after halftime. The Rockets had six possessions in the second half, and our defense answered with four punts, a stop on fourth down and a clock that ran out. That's how you play in November.\n\nTimmy Hinspeter was everywhere: 12 tackles, one of them for a loss. Kendall Bournes added eight, Tyler Martin had five, and Joshua Nobles made a tackle for loss of his own. That group didn't hang its head once.\n\nThe first half was the problem. Connor Walendzak broke a 69-yard run, Reice Griffith kicked a 27-yarder, and then Nicholas Thompson intercepted Logan Inagawa and returned it 62 yards. Walendzak caught a 17-yard score before the break, and it was 24-0 at halftime.\n\nInagawa kept swinging. He ran for 40 yards, including an 18-yarder, and Reece Adkins caught five balls for 33 yards. Drew Alsup had a 19-yard grab. Our best march went 11 plays and 53 yards late in the third quarter, and it ended on fourth down. So close to the board I could taste it.\n\nToledo held us to 188 yards, we converted 3 of 15 third downs, and we drew five flags for 50 yards. Not good enough, and everybody in maroon knows it. The good news is the defense gave us a blueprint for the second half of every game left.\n\nWe're 5-5 with Akron coming to Warren McGuirk Alumni Stadium on Wednesday, Nov. 18, at 7:00 PM ET. Home cooking in Amherst. Let's go get one, Minutemen.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Some nights you write in the diary, and some nights you tear the page out. Toledo 24, UMass 0 at the Glass Bowl on Wednesday night, and the Minutemen are 5-5. I watched every snap, and I'm going to tell you about the good parts, because there were some."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half was ours. Toledo scored zero points after halftime. The Rockets had six possessions in the second half, and our defense answered with four punts, a stop on fourth down and a clock that ran out. That's how you play in November."
+        },
+        {
+          "type": "paragraph",
+          "text": "Timmy Hinspeter was everywhere: 12 tackles, one of them for a loss. Kendall Bournes added eight, Tyler Martin had five, and Joshua Nobles made a tackle for loss of his own. That group didn't hang its head once."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half was the problem. Connor Walendzak broke a 69-yard run, Reice Griffith kicked a 27-yarder, and then Nicholas Thompson intercepted Logan Inagawa and returned it 62 yards. Walendzak caught a 17-yard score before the break, and it was 24-0 at halftime."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inagawa kept swinging. He ran for 40 yards, including an 18-yarder, and Reece Adkins caught five balls for 33 yards. Drew Alsup had a 19-yard grab. Our best march went 11 plays and 53 yards late in the third quarter, and it ended on fourth down. So close to the board I could taste it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toledo held us to 188 yards, we converted 3 of 15 third downs, and we drew five flags for 50 yards. Not good enough, and everybody in maroon knows it. The good news is the defense gave us a blueprint for the second half of every game left."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 5-5 with Akron coming to Warren McGuirk Alumni Stadium on Wednesday, Nov. 18, at 7:00 PM ET. Home cooking in Amherst. Let's go get one, Minutemen."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "UMass lost 24-0 at Toledo on Wednesday, Nov. 11, at the Glass Bowl. The Minutemen are 5-5."
+        },
+        {
+          "type": "fact",
+          "text": "The Minutemen held Toledo scoreless in the second half, and Timmy Hinspeter led the defense with 12 tackles."
+        },
+        {
+          "type": "jab",
+          "text": "Toledo was flagged 10 times for 90 yards. The Rockets' best blocker tonight was the officiating crew."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Akron, Wednesday, Nov. 18, 7:00 PM ET, Warren McGuirk Alumni Stadium, Amherst."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Toledo 24, Massachusetts 0 (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866463"
+        },
+        {
+          "label": "ESPN play-by-play, Massachusetts at Toledo (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866463"
+        },
+        {
+          "label": "ESPN game page, Massachusetts at Toledo (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866463"
+        },
+        {
+          "label": "ESPN Massachusetts Minutemen 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/113"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-toledo",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "toledo",
+      "team_ids": [
+        "toledo"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866463",
+      "title": "Toledo vs UMass: A Glass Bowl Shutout and the Rockets Go to 8-2",
+      "byline": "Rocco Szczepanski, The Toledo Fanatic",
+      "matchup": "Final: Massachusetts Minutemen (5-5) 0, Toledo Rockets (8-2) 24, Wed., Nov. 11, Glass Bowl, Toledo. Next: vs Bowling Green, Fri., Nov. 20, 7:30 PM ET, Glass Bowl, Toledo",
+      "date": "2026-11-11",
+      "word_count": 318,
+      "text": "Zero. Paint it on a sign and hang it off the Anthony Wayne Bridge. Toledo 24, UMass 0 at the Glass Bowl on Wednesday night in front of 19,137, and the Rockets are 8-2 and 5-1 in the MAC.\n\nConnor Walendzak lit the fuse. First quarter, he took a handoff 69 yards to the house to finish a five-play, 90-yard drive. Second quarter, he caught a 17-yard throw from John Alan Richter for another. He piled up 117 rushing yards on 14 carries and 41 more receiving. That kid is a problem for the whole conference.\n\nReice Griffith hit a 27-yard field goal early in the second quarter, and then came the play I'll be telling my grandkids about. Nicholas Thompson jumped a throw and went 62 yards the other way for a touchdown. 17-0 with 10:32 left in the half, and the Glass Bowl shook.\n\nAdjatay Dabbs caught seven balls for 144 yards with a long of 40. Richter went 13 of 22 for 197 yards and didn't throw an interception. CJ Miller ground out 83 yards on 15 carries. Our offense put up 436 yards, averaged 9.0 yards per throw, and held the ball for 34:33. That is Rocket football the way it was drawn up.\n\nBut this is a defense story. UMass managed 188 yards and 10 first downs, converted 3 of 15 third downs, and came up empty on fourth down three times. Julian Fox had eight tackles, three of them for a loss. Andrew Zock had two sacks and three tackles for loss. Donovan Watkins broke up two throws. That's a shutout earned snap by snap.\n\nGripe time: 10 penalties for 90 yards, and no points after halftime. That second half needs work before the next one, because the next one matters.\n\nNext: Bowling Green at the Glass Bowl, Friday, Nov. 20, 7:30 PM ET. The Battle of I-75. Fill every seat, Toledo.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Zero. Paint it on a sign and hang it off the Anthony Wayne Bridge. Toledo 24, UMass 0 at the Glass Bowl on Wednesday night in front of 19,137, and the Rockets are 8-2 and 5-1 in the MAC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Connor Walendzak lit the fuse. First quarter, he took a handoff 69 yards to the house to finish a five-play, 90-yard drive. Second quarter, he caught a 17-yard throw from John Alan Richter for another. He piled up 117 rushing yards on 14 carries and 41 more receiving. That kid is a problem for the whole conference."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reice Griffith hit a 27-yard field goal early in the second quarter, and then came the play I'll be telling my grandkids about. Nicholas Thompson jumped a throw and went 62 yards the other way for a touchdown. 17-0 with 10:32 left in the half, and the Glass Bowl shook."
+        },
+        {
+          "type": "paragraph",
+          "text": "Adjatay Dabbs caught seven balls for 144 yards with a long of 40. Richter went 13 of 22 for 197 yards and didn't throw an interception. CJ Miller ground out 83 yards on 15 carries. Our offense put up 436 yards, averaged 9.0 yards per throw, and held the ball for 34:33. That is Rocket football the way it was drawn up."
+        },
+        {
+          "type": "paragraph",
+          "text": "But this is a defense story. UMass managed 188 yards and 10 first downs, converted 3 of 15 third downs, and came up empty on fourth down three times. Julian Fox had eight tackles, three of them for a loss. Andrew Zock had two sacks and three tackles for loss. Donovan Watkins broke up two throws. That's a shutout earned snap by snap."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gripe time: 10 penalties for 90 yards, and no points after halftime. That second half needs work before the next one, because the next one matters."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next: Bowling Green at the Glass Bowl, Friday, Nov. 20, 7:30 PM ET. The Battle of I-75. Fill every seat, Toledo."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Toledo shut out UMass 24-0 on Wednesday, Nov. 11, at the Glass Bowl. The Rockets are 8-2, 5-1 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Connor Walendzak scored on a 69-yard run and a 17-yard catch, and Nicholas Thompson returned an interception 62 yards for a touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "UMass crossed midfield a few times. The scoreboard never noticed."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Bowling Green, Friday, Nov. 20, 7:30 PM ET, Glass Bowl, Toledo."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Toledo 24, Massachusetts 0 (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866463"
+        },
+        {
+          "label": "ESPN play-by-play, Massachusetts at Toledo (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866463"
+        },
+        {
+          "label": "ESPN game page, Massachusetts at Toledo (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866463"
+        },
+        {
+          "label": "ESPN Toledo Rockets 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2649"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ball-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "ball-state",
+      "team_ids": [
+        "ball-state"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866461",
+      "title": "Ball State vs Buffalo: A Blocked Punt, Three Missed Kicks and a Long Night in Muncie",
+      "byline": "Gus Ponder, The Ball State Fanatic",
+      "matchup": "Final: Buffalo Bulls (7-3) 28, Ball State Cardinals (3-7) 7, Wed., Nov. 11, Scheumann Stadium, Muncie. Next: at Ohio, Tue., Nov. 17, 7:00 PM ET, Peden Stadium, Athens",
+      "date": "2026-11-11",
+      "word_count": 309,
+      "text": "I'll say it first so nobody else has to. Buffalo 28, Ball State 7 at Scheumann Stadium on Wednesday night, and the Cardinals are 3-7. I've sat in these seats through rough ones, but this one stings, because we had our chances.\n\nAnd it opened like a dream. Late in the first quarter our special teams got a hand on a Buffalo punt, and Gabe Aramboles recovered it in the end zone. 7-0, and the home crowd of 6,745 was loud.\n\nThen came the kicks. Brody Boehm tried from 47, 44 and 39 yards, and none of them went through. That's nine points we left on the field in a game that was tied 7-7 at the half.\n\nThe effort was there. Donovan Hamilton was a workhorse with 11 catches for 104 yards. Keldric Luster threw it 39 times and kept firing. TJ Horton ran 11 times for 92 yards. We gained 325 yards, Buffalo gained 350, and the scoreboard still said what it said.\n\nThe fourth quarter opened with our best drive of the night, nine plays and 75 yards, and it died on fourth down at the Buffalo 22. Then Messiah Burch went 67 yards, Buffalo recovered an onside kick, and Terrance Shelton Jr. went 29 more. Burch finished with 209 yards on 31 carries. Tip of the cap. Reluctantly.\n\nOur defense hung in for three quarters. Sterling Smith had 10 tackles, Jared Badie had two sacks, and Mikeah Webster added another. Buffalo completed five throws all night for 48 yards. Keep that Bulls quarterback in the pocket and we can play with anybody in this league.\n\nNext: at Ohio, Tuesday, Nov. 17, 7:00 PM ET, at Peden Stadium in Athens. Practice those kicks, Cardinals. Put three of them through and this one looks a whole lot different. I'll be in Athens either way, loud as ever.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I'll say it first so nobody else has to. Buffalo 28, Ball State 7 at Scheumann Stadium on Wednesday night, and the Cardinals are 3-7. I've sat in these seats through rough ones, but this one stings, because we had our chances."
+        },
+        {
+          "type": "paragraph",
+          "text": "And it opened like a dream. Late in the first quarter our special teams got a hand on a Buffalo punt, and Gabe Aramboles recovered it in the end zone. 7-0, and the home crowd of 6,745 was loud."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the kicks. Brody Boehm tried from 47, 44 and 39 yards, and none of them went through. That's nine points we left on the field in a game that was tied 7-7 at the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "The effort was there. Donovan Hamilton was a workhorse with 11 catches for 104 yards. Keldric Luster threw it 39 times and kept firing. TJ Horton ran 11 times for 92 yards. We gained 325 yards, Buffalo gained 350, and the scoreboard still said what it said."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fourth quarter opened with our best drive of the night, nine plays and 75 yards, and it died on fourth down at the Buffalo 22. Then Messiah Burch went 67 yards, Buffalo recovered an onside kick, and Terrance Shelton Jr. went 29 more. Burch finished with 209 yards on 31 carries. Tip of the cap. Reluctantly."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our defense hung in for three quarters. Sterling Smith had 10 tackles, Jared Badie had two sacks, and Mikeah Webster added another. Buffalo completed five throws all night for 48 yards. Keep that Bulls quarterback in the pocket and we can play with anybody in this league."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next: at Ohio, Tuesday, Nov. 17, 7:00 PM ET, at Peden Stadium in Athens. Practice those kicks, Cardinals. Put three of them through and this one looks a whole lot different. I'll be in Athens either way, loud as ever."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Ball State lost 28-7 to Buffalo on Wednesday, Nov. 11, at Scheumann Stadium. The Cardinals are 3-7."
+        },
+        {
+          "type": "fact",
+          "text": "Gabe Aramboles scored on a blocked punt, Donovan Hamilton caught 11 balls for 104 yards, and Brody Boehm missed field goals from 47, 44 and 39 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Buffalo completed five throws all night. Five. Our secondary would like a harder test."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Ohio, Tuesday, Nov. 17, 7:00 PM ET, Peden Stadium, Athens."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Buffalo 28, Ball State 7 (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866461"
+        },
+        {
+          "label": "ESPN play-by-play, Buffalo at Ball State (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866461"
+        },
+        {
+          "label": "ESPN game page, Buffalo at Ball State (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866461"
+        },
+        {
+          "label": "ESPN Ball State Cardinals 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2050"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-buffalo",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "buffalo",
+      "team_ids": [
+        "buffalo"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866461",
+      "title": "Buffalo vs Ball State: Messiah Burch Runs for 209 and the Bulls Go to 7-3",
+      "byline": "Kendra Woolcott, The Buffalo Fanatic",
+      "matchup": "Final: Buffalo Bulls (7-3) 28, Ball State Cardinals (3-7) 7, Wed., Nov. 11, Scheumann Stadium, Muncie. Next: vs Central Michigan, Wed., Nov. 18, 7:30 PM ET, Broadview Stadium, Buffalo",
+      "date": "2026-11-11",
+      "word_count": 321,
+      "text": "Pack a lunch, Muncie. Buffalo 28, Ball State 7 on Wednesday night at Scheumann Stadium, and the Bulls are 7-3 and 5-1 in the MAC. We ran the ball 52 times for 302 yards. I counted every carry from the visitors' side, and my mittens are done for the season.\n\nThe night opened crooked. Ball State blocked one of our punts late in the first quarter, and Gabe Aramboles fell on it in the end zone. 7-0 Cardinals. Fine. We do our best work from behind.\n\nJason Wright answered with an 11-play, 80-yard drive in the second quarter and finished it with a 14-yard throw to Chance Morrow. 7-7. Wright completed five throws all night, and he didn't need more. This team knows exactly who it is.\n\nWho it is, mostly, is Messiah Burch. He carried 31 times for 209 yards and two scores. His 2-yard run capped a 12-play, 79-yard drive in the third for a 14-7 lead. Then, with 4:04 left, he found a crease up the middle and went 67 yards. 21-7.\n\nAnd then the coaches got bold. Oliver Hautanen popped an onside kick, we came up with it at the Ball State 29, and Terrance Shelton Jr. went 29 yards on the very next snap. Two touchdowns in six seconds of game clock. 28-7. Shelton finished with 92 yards on 10 carries.\n\nThe defense deserves its own parade down Main Street. Ball State came away empty on fourth down three times, twice inside our 25 in the fourth quarter, and three Cardinals field goal tries, from 47, 44 and 39 yards, did not go through. SaVeon Brown and Zach Bergmann had nine tackles each, Mikey Crawford had eight, and Miles Greer chipped in a tackle for loss. Zero turnovers for us, too.\n\nNext up is Central Michigan at Broadview Stadium on Wednesday, Nov. 18, at 7:30 PM ET. Bring the hand warmers. We're bringing the run game.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pack a lunch, Muncie. Buffalo 28, Ball State 7 on Wednesday night at Scheumann Stadium, and the Bulls are 7-3 and 5-1 in the MAC. We ran the ball 52 times for 302 yards. I counted every carry from the visitors' side, and my mittens are done for the season."
+        },
+        {
+          "type": "paragraph",
+          "text": "The night opened crooked. Ball State blocked one of our punts late in the first quarter, and Gabe Aramboles fell on it in the end zone. 7-0 Cardinals. Fine. We do our best work from behind."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jason Wright answered with an 11-play, 80-yard drive in the second quarter and finished it with a 14-yard throw to Chance Morrow. 7-7. Wright completed five throws all night, and he didn't need more. This team knows exactly who it is."
+        },
+        {
+          "type": "paragraph",
+          "text": "Who it is, mostly, is Messiah Burch. He carried 31 times for 209 yards and two scores. His 2-yard run capped a 12-play, 79-yard drive in the third for a 14-7 lead. Then, with 4:04 left, he found a crease up the middle and went 67 yards. 21-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "And then the coaches got bold. Oliver Hautanen popped an onside kick, we came up with it at the Ball State 29, and Terrance Shelton Jr. went 29 yards on the very next snap. Two touchdowns in six seconds of game clock. 28-7. Shelton finished with 92 yards on 10 carries."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense deserves its own parade down Main Street. Ball State came away empty on fourth down three times, twice inside our 25 in the fourth quarter, and three Cardinals field goal tries, from 47, 44 and 39 yards, did not go through. SaVeon Brown and Zach Bergmann had nine tackles each, Mikey Crawford had eight, and Miles Greer chipped in a tackle for loss. Zero turnovers for us, too."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up is Central Michigan at Broadview Stadium on Wednesday, Nov. 18, at 7:30 PM ET. Bring the hand warmers. We're bringing the run game."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Buffalo beat Ball State 28-7 on Wednesday, Nov. 11, at Scheumann Stadium. The Bulls are 7-3, 5-1 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Messiah Burch ran 31 times for 209 yards and two touchdowns, including a 67-yarder, and Terrance Shelton Jr. scored from 29 yards right after a Buffalo onside kick recovery."
+        },
+        {
+          "type": "jab",
+          "text": "Ball State tried three field goals. The goalposts are still waiting."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Central Michigan, Wednesday, Nov. 18, 7:30 PM ET, Broadview Stadium, Buffalo."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Buffalo 28, Ball State 7 (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866461"
+        },
+        {
+          "label": "ESPN play-by-play, Buffalo at Ball State (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866461"
+        },
+        {
+          "label": "ESPN game page, Buffalo at Ball State (Nov. 11, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866461"
+        },
+        {
+          "label": "ESPN Buffalo Bulls 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2084"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    }
+  ]
+}
