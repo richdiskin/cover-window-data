@@ -4,9 +4,357 @@
   "theme": "mmqb",
   "theme_label": "Monday recaps coming this morning",
   "published_at": "2026-11-11T05:37:32Z",
-  "count": 12,
+  "count": 16,
   "lead_id": null,
   "articles": [
+    {
+      "id": "fanatic_team-nyg",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "nyg",
+      "team_ids": [
+        "nyg"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873052",
+      "title": "New York Giants vs Washington Commanders Week 10: 57 Seconds From a Win, 21-24",
+      "byline": "",
+      "matchup": "Final: Washington Commanders (3-5-1) 24, New York Giants (5-3-1) 21, Thu., Nov. 12, MetLife Stadium, East Rutherford. Next: vs Jacksonville Jaguars, Sun., Nov. 22, 4:25 PM ET, MetLife Stadium, East Rutherford",
+      "date": "2026-11-12",
+      "word_count": 314,
+      "text": "Fifty-seven seconds. That's how close we were. Washington 24, New York 21 on Thursday night at MetLife Stadium, and 80,450 of us walked out to the parking lots stunned. We're 5-3-1 and still sitting first in the NFC East, but this one is going to sting all weekend.\n\nCam Skattebo ran like a man who'd been insulted. He capped a 16-play, 72-yard drive with a 1-yard plunge in the second quarter and bounced in from 13 in the third for a 14-10 lead. Two touchdowns and 78 yards on 18 carries, and every one of them hurt somebody.\n\nIsaiah Likely was the best player on the field. Nine catches, 127 yards, and on third-and-7 from our 34 he ran right through the middle of their defense for a 66-yard touchdown. 21-17 Giants with 8:13 left. J.J. McCarthy finished 23 of 36 for 293 yards.\n\nAnd the secondary went to work. Jevon Holland intercepted Jayden Daniels at our 2, and Ar'Darius Washington took another one away on fourth down at their 46 with 2:19 to go. Arvell Reese made 13 tackles, Micah McFadden had 10, and Shelby Harris sacked Daniels for a 14-yard loss in the third quarter.\n\nThen the last two minutes. Our punt from their 41 went just 12 yards. A 33-yard interference flag put Washington in business, and Stefon Diggs caught a 32-yard touchdown with 57 seconds left. We still had a chance, but McCarthy's deep throw for Malik Nabers was intercepted at their 11.\n\nA few leftovers will keep me up tonight. Dominic Zvada missed a 33-yarder wide left in the first quarter, and Nabers lost a fumble inside their 20 in the third. Those are points left on the field in a three-point game.\n\nNext: the Jacksonville Jaguars at MetLife on Sunday, Nov. 22, at 4:25 PM ET. First place is still ours. Let's go keep it. Go Big Blue.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fifty-seven seconds. That's how close we were. Washington 24, New York 21 on Thursday night at MetLife Stadium, and 80,450 of us walked out to the parking lots stunned. We're 5-3-1 and still sitting first in the NFC East, but this one is going to sting all weekend."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cam Skattebo ran like a man who'd been insulted. He capped a 16-play, 72-yard drive with a 1-yard plunge in the second quarter and bounced in from 13 in the third for a 14-10 lead. Two touchdowns and 78 yards on 18 carries, and every one of them hurt somebody."
+        },
+        {
+          "type": "paragraph",
+          "text": "Isaiah Likely was the best player on the field. Nine catches, 127 yards, and on third-and-7 from our 34 he ran right through the middle of their defense for a 66-yard touchdown. 21-17 Giants with 8:13 left. J.J. McCarthy finished 23 of 36 for 293 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the secondary went to work. Jevon Holland intercepted Jayden Daniels at our 2, and Ar'Darius Washington took another one away on fourth down at their 46 with 2:19 to go. Arvell Reese made 13 tackles, Micah McFadden had 10, and Shelby Harris sacked Daniels for a 14-yard loss in the third quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the last two minutes. Our punt from their 41 went just 12 yards. A 33-yard interference flag put Washington in business, and Stefon Diggs caught a 32-yard touchdown with 57 seconds left. We still had a chance, but McCarthy's deep throw for Malik Nabers was intercepted at their 11."
+        },
+        {
+          "type": "paragraph",
+          "text": "A few leftovers will keep me up tonight. Dominic Zvada missed a 33-yarder wide left in the first quarter, and Nabers lost a fumble inside their 20 in the third. Those are points left on the field in a three-point game."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next: the Jacksonville Jaguars at MetLife on Sunday, Nov. 22, at 4:25 PM ET. First place is still ours. Let's go keep it. Go Big Blue."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Giants lost 24-21 to Washington on Thursday, Nov. 12, at MetLife Stadium and are 5-3-1."
+        },
+        {
+          "type": "fact",
+          "text": "Isaiah Likely caught nine balls for 127 yards, including a 66-yard touchdown, and Cam Skattebo ran for two scores."
+        },
+        {
+          "type": "jab",
+          "text": "Washington needed a 33-yard flag and the final minute to get past us."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Jacksonville Jaguars, Sunday, Nov. 22, 4:25 PM ET, MetLife Stadium, East Rutherford."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Commanders 24, Giants 21 (Nov. 12, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873052"
+        },
+        {
+          "label": "ESPN play-by-play, Commanders at Giants (Nov. 12, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873052"
+        },
+        {
+          "label": "ESPN game page, Commanders at Giants (Nov. 12, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873052"
+        },
+        {
+          "label": "ESPN Giants schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/nyg/new-york-giants"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-wsh",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "wsh",
+      "team_ids": [
+        "wsh"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873052",
+      "title": "Washington Commanders vs New York Giants Week 10: Diggs With 57 Seconds Left, 24-21",
+      "byline": "",
+      "matchup": "Final: Washington Commanders (3-5-1) 24, New York Giants (5-3-1) 21, Thu., Nov. 12, MetLife Stadium, East Rutherford. Next: vs Cincinnati Bengals, Mon., Nov. 23, 8:15 PM ET, Northwest Stadium, Landover",
+      "date": "2026-11-12",
+      "word_count": 365,
+      "text": "Hail to the Commanders, and somebody please check on my voice. Washington 24, New York 21 on Thursday night at MetLife Stadium, and we took this one in front of 80,450 people who wanted any other ending. We're 3-5-1, and that last minute felt like a whole season.\n\nIt was a slugfest for a half. Drew Stevens opened the scoring from 46 yards. The Giants answered with a 16-play march that ate 7:48 and ended with a Cam Skattebo plunge, but Jayden Daniels took us 67 yards in nine plays and flipped it to Ben Sinnott from a yard out with five seconds left in the half. 10-7, us.\n\nSkattebo scored again from 13 early in the third to put them ahead 14-10. Daniels answered on third-and-1, hitting Antonio Williams for a 31-yard touchdown. 17-14. Then Frankie Luvu punched the ball loose from Malik Nabers inside our 20, and Jeremy Reaves fell on it. Reaves had nine tackles and was everywhere all night.\n\nThe fourth quarter tried to break my heart. We came up empty on fourth-and-1 at their 30. Isaiah Likely took a catch 66 yards to give New York a 21-17 lead with 8:13 left. Daniels got intercepted twice, once at their 2 by Jevon Holland and once on fourth down by Ar'Darius Washington. I sat down. I stood up. I sat down again.\n\nThen their punt from our 41 went 12 yards and out of bounds, and we had it at our 29 with 1:46 to go. A 33-yard interference flag got us moving, and on third-and-4 Daniels found Stefon Diggs down the middle for a 32-yard touchdown with 57 seconds left. Three plays, 71 yards, 49 seconds. Rasul Douglas sealed it by intercepting J.J. McCarthy at our 11 with 34 seconds left.\n\nDaniels finished 23 of 33 for 249 yards and three touchdowns. Diggs caught six for 83. Sonny Styles made 13 tackles, Odafe Oweh had a sack, and Tress Way averaged 49.5 yards on four punts. That tie with these same Giants back in October at Northwest Stadium? Consider it settled.\n\nNext up: the Cincinnati Bengals at Northwest Stadium on Monday, Nov. 23, 8:15 PM ET. Rest up, fellas. HTTR.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Hail to the Commanders, and somebody please check on my voice. Washington 24, New York 21 on Thursday night at MetLife Stadium, and we took this one in front of 80,450 people who wanted any other ending. We're 3-5-1, and that last minute felt like a whole season."
+        },
+        {
+          "type": "paragraph",
+          "text": "It was a slugfest for a half. Drew Stevens opened the scoring from 46 yards. The Giants answered with a 16-play march that ate 7:48 and ended with a Cam Skattebo plunge, but Jayden Daniels took us 67 yards in nine plays and flipped it to Ben Sinnott from a yard out with five seconds left in the half. 10-7, us."
+        },
+        {
+          "type": "paragraph",
+          "text": "Skattebo scored again from 13 early in the third to put them ahead 14-10. Daniels answered on third-and-1, hitting Antonio Williams for a 31-yard touchdown. 17-14. Then Frankie Luvu punched the ball loose from Malik Nabers inside our 20, and Jeremy Reaves fell on it. Reaves had nine tackles and was everywhere all night."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fourth quarter tried to break my heart. We came up empty on fourth-and-1 at their 30. Isaiah Likely took a catch 66 yards to give New York a 21-17 lead with 8:13 left. Daniels got intercepted twice, once at their 2 by Jevon Holland and once on fourth down by Ar'Darius Washington. I sat down. I stood up. I sat down again."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then their punt from our 41 went 12 yards and out of bounds, and we had it at our 29 with 1:46 to go. A 33-yard interference flag got us moving, and on third-and-4 Daniels found Stefon Diggs down the middle for a 32-yard touchdown with 57 seconds left. Three plays, 71 yards, 49 seconds. Rasul Douglas sealed it by intercepting J.J. McCarthy at our 11 with 34 seconds left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Daniels finished 23 of 33 for 249 yards and three touchdowns. Diggs caught six for 83. Sonny Styles made 13 tackles, Odafe Oweh had a sack, and Tress Way averaged 49.5 yards on four punts. That tie with these same Giants back in October at Northwest Stadium? Consider it settled."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: the Cincinnati Bengals at Northwest Stadium on Monday, Nov. 23, 8:15 PM ET. Rest up, fellas. HTTR."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Washington beat the Giants 24-21 on Thursday, Nov. 12, at MetLife Stadium and moved to 3-5-1."
+        },
+        {
+          "type": "fact",
+          "text": "Jayden Daniels threw three touchdowns, the last a 32-yard strike to Stefon Diggs with 57 seconds left, and Rasul Douglas intercepted J.J. McCarthy to seal it."
+        },
+        {
+          "type": "jab",
+          "text": "Their punt from our 41 traveled 12 yards. We said thank you with a touchdown."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Cincinnati Bengals, Monday, Nov. 23, 8:15 PM ET, Northwest Stadium, Landover."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Commanders 24, Giants 21 (Nov. 12, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873052"
+        },
+        {
+          "label": "ESPN play-by-play, Commanders at Giants (Nov. 12, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873052"
+        },
+        {
+          "label": "ESPN game page, Commanders at Giants (Nov. 12, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873052"
+        },
+        {
+          "label": "ESPN Commanders schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/wsh/washington-commanders"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-south-florida",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "south-florida",
+      "team_ids": [
+        "south-florida"
+      ],
+      "tab_id": "aac",
+      "game_id": "401862824",
+      "title": "South Florida vs Memphis: The Bulls Climb Out of a 21-0 Hole and Fall Short 52-41",
+      "byline": "Reina Valdés-Kowalski, The South Florida Fanatic",
+      "matchup": "Final: Memphis Tigers (8-2) 52, South Florida Bulls (6-4) 41, Thu., Nov. 12, Raymond James Stadium, Tampa. Next: at Florida Atlantic, Sat., Nov. 21, 2:30 PM ET, Flagler Credit Union Stadium, Boca Raton",
+      "date": "2026-11-12",
+      "word_count": 334,
+      "text": "I'm hoarse, I'm heartbroken, and I'm proud of this team. Memphis 52, South Florida 41 at Raymond James Stadium on Thursday night, and the Bulls are 6-4. That one hurts, but nobody in green and gold quit.\n\nThe first quarter was a nightmare. Memphis scored three times, a fumble at our 21 handed them the third one, and we trailed 21-0 before the first quarter ended. Lots of teams fold right there. Not ours.\n\nLuke Kromenhoek put this whole team on his back. He ran 30 times for 146 yards, threw for 271 yards and three touchdowns, and never threw an interception. Mudia Reuben caught two of those scores, a 3-yarder on fourth down and a 19-yarder with 49 seconds left in the half, and finished with six catches for 98 yards. We went into the locker room down 28-17 and alive again.\n\nThe third quarter was pure Tampa thunder. Jason Collins Jr. caught a 13-yard touchdown, then answered a Memphis score on the very next snap with a 75-yard run up the middle. Kromenhoek ran in from 23 to tie it 38-38. Nico Gramatica, perfect on two field goals and five extra points, hit from 38 to give us a 41-38 lead with 8:04 left. Herlin Perry Jr. even blocked a Memphis extra point.\n\nThen it slipped away. Memphis hit a 76-yarder on its next snap, and our drive to answer reached their 4 before a fourth-down throw fell incomplete with 3:38 left. Seven sacks were the other story, and that front got to Kromenhoek again on our last real chance.\n\nLook at what this team did, though. We gained 552 yards with 29 first downs, held the ball for 37:35 and converted five of eight fourth downs. Israel Boyce had a sack, and Joshua Porter set up a field goal with a 36-yard punt return.\n\nNext: at Florida Atlantic, Saturday, Nov. 21, 2:30 PM ET, in Boca Raton. Bring that same fire down to Boca, Bulls. I'll be there, loud as ever.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I'm hoarse, I'm heartbroken, and I'm proud of this team. Memphis 52, South Florida 41 at Raymond James Stadium on Thursday night, and the Bulls are 6-4. That one hurts, but nobody in green and gold quit."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first quarter was a nightmare. Memphis scored three times, a fumble at our 21 handed them the third one, and we trailed 21-0 before the first quarter ended. Lots of teams fold right there. Not ours."
+        },
+        {
+          "type": "paragraph",
+          "text": "Luke Kromenhoek put this whole team on his back. He ran 30 times for 146 yards, threw for 271 yards and three touchdowns, and never threw an interception. Mudia Reuben caught two of those scores, a 3-yarder on fourth down and a 19-yarder with 49 seconds left in the half, and finished with six catches for 98 yards. We went into the locker room down 28-17 and alive again."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter was pure Tampa thunder. Jason Collins Jr. caught a 13-yard touchdown, then answered a Memphis score on the very next snap with a 75-yard run up the middle. Kromenhoek ran in from 23 to tie it 38-38. Nico Gramatica, perfect on two field goals and five extra points, hit from 38 to give us a 41-38 lead with 8:04 left. Herlin Perry Jr. even blocked a Memphis extra point."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then it slipped away. Memphis hit a 76-yarder on its next snap, and our drive to answer reached their 4 before a fourth-down throw fell incomplete with 3:38 left. Seven sacks were the other story, and that front got to Kromenhoek again on our last real chance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Look at what this team did, though. We gained 552 yards with 29 first downs, held the ball for 37:35 and converted five of eight fourth downs. Israel Boyce had a sack, and Joshua Porter set up a field goal with a 36-yard punt return."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next: at Florida Atlantic, Saturday, Nov. 21, 2:30 PM ET, in Boca Raton. Bring that same fire down to Boca, Bulls. I'll be there, loud as ever."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "South Florida lost 52-41 to Memphis on Thursday, Nov. 12, at Raymond James Stadium. The Bulls are 6-4."
+        },
+        {
+          "type": "fact",
+          "text": "Luke Kromenhoek ran for 146 yards and threw for three touchdowns, and Jason Collins Jr. scored on a 75-yard run and a 13-yard catch as the Bulls rallied from 21-0 to lead 41-38."
+        },
+        {
+          "type": "jab",
+          "text": "Memphis needed a 76-yard bomb to get past us. We'll take that as a compliment."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Florida Atlantic, Saturday, Nov. 21, 2:30 PM ET, Flagler Credit Union Stadium, Boca Raton."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Memphis 52, South Florida 41 (Nov. 12, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862824"
+        },
+        {
+          "label": "ESPN play-by-play, Memphis at South Florida (Nov. 12, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401862824"
+        },
+        {
+          "label": "ESPN game page, Memphis at South Florida (Nov. 12, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401862824"
+        },
+        {
+          "label": "ESPN South Florida Bulls 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/58"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-memphis",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "memphis",
+      "team_ids": [
+        "memphis"
+      ],
+      "tab_id": "aac",
+      "game_id": "401862824",
+      "title": "Memphis vs South Florida: Marcus Stokes Has a Hand in Five Scores and the Tigers Go to 8-2",
+      "byline": "Otis Delaney-Crum, The Memphis Fanatic",
+      "matchup": "Final: Memphis Tigers (8-2) 52, South Florida Bulls (6-4) 41, Thu., Nov. 12, Raymond James Stadium, Tampa. Next: at Navy, Sat., Nov. 21, 12:00 PM ET, Navy-Marine Corps Memorial Stadium, Annapolis",
+      "date": "2026-11-12",
+      "word_count": 376,
+      "text": "Somebody bring Tampa a mop. Memphis 52, South Florida 41 on Thursday night at Raymond James Stadium, and the Tigers are 8-2. I flew down expecting a fight, and brother, we got one.\n\nIt opened like a parade. Marcus Stokes kept it up the middle on our first drive and outran the whole Bulls secondary to the end zone. Then he found Hunter Tipton from 7 yards. Then Jabari Ishmael jumped on a South Florida fumble at their 21, and four plays later Stokes ran it in from 8. Memphis 21, South Florida 0, and the first quarter hadn't even ended.\n\nThen those Bulls got up off the mat. Luke Kromenhoek ran 30 times and threw for three scores, Jason Collins Jr. went 75 yards on one snap, and by late in the third it was 38-38. With 8:04 left, Nico Gramatica put them ahead 41-38. My heart was somewhere in Hillsborough County.\n\nOne snap. That's all it took. Stokes dropped back from our 24 and launched one deep right to Jemyri Davis, who caught it in stride and was gone. 76 yards. 45-41. Davis finished with five catches for 161 yards, and I may name my next dog after him.\n\nAnd then the defense won it. South Florida drove to our 4 and went for it on fourth down, and the throw fell incomplete with 3:38 to go. They got the ball back one more time, and J'Mond Tapp and Elijah Kinsler chased Kromenhoek all around the backfield until it died on fourth-and-27. Jaylin Carter then broke a 26-yard run for the clincher with 44 seconds left. Carter finished with 109 yards and two scores on 21 carries.\n\nStokes went 15 of 31 for 313 yards and three touchdowns with zero interceptions, and he added 73 yards and two more scores on the ground. That's a hand in five touchdowns. We piled up 581 yards with zero turnovers. Our front had seven sacks, with Tapp at two and a half and Kinsler at two. Mike Montgomery made 19 tackles, which I believe is every tackle available in the state of Florida.\n\nNext stop is Navy, Saturday, Nov. 21, at noon ET in Annapolis. Pack the parkas. Eight wins and counting, and I'm not done hollering.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Somebody bring Tampa a mop. Memphis 52, South Florida 41 on Thursday night at Raymond James Stadium, and the Tigers are 8-2. I flew down expecting a fight, and brother, we got one."
+        },
+        {
+          "type": "paragraph",
+          "text": "It opened like a parade. Marcus Stokes kept it up the middle on our first drive and outran the whole Bulls secondary to the end zone. Then he found Hunter Tipton from 7 yards. Then Jabari Ishmael jumped on a South Florida fumble at their 21, and four plays later Stokes ran it in from 8. Memphis 21, South Florida 0, and the first quarter hadn't even ended."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then those Bulls got up off the mat. Luke Kromenhoek ran 30 times and threw for three scores, Jason Collins Jr. went 75 yards on one snap, and by late in the third it was 38-38. With 8:04 left, Nico Gramatica put them ahead 41-38. My heart was somewhere in Hillsborough County."
+        },
+        {
+          "type": "paragraph",
+          "text": "One snap. That's all it took. Stokes dropped back from our 24 and launched one deep right to Jemyri Davis, who caught it in stride and was gone. 76 yards. 45-41. Davis finished with five catches for 161 yards, and I may name my next dog after him."
+        },
+        {
+          "type": "paragraph",
+          "text": "And then the defense won it. South Florida drove to our 4 and went for it on fourth down, and the throw fell incomplete with 3:38 to go. They got the ball back one more time, and J'Mond Tapp and Elijah Kinsler chased Kromenhoek all around the backfield until it died on fourth-and-27. Jaylin Carter then broke a 26-yard run for the clincher with 44 seconds left. Carter finished with 109 yards and two scores on 21 carries."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stokes went 15 of 31 for 313 yards and three touchdowns with zero interceptions, and he added 73 yards and two more scores on the ground. That's a hand in five touchdowns. We piled up 581 yards with zero turnovers. Our front had seven sacks, with Tapp at two and a half and Kinsler at two. Mike Montgomery made 19 tackles, which I believe is every tackle available in the state of Florida."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next stop is Navy, Saturday, Nov. 21, at noon ET in Annapolis. Pack the parkas. Eight wins and counting, and I'm not done hollering."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Memphis beat South Florida 52-41 on Thursday, Nov. 12, at Raymond James Stadium. The Tigers are 8-2."
+        },
+        {
+          "type": "fact",
+          "text": "Marcus Stokes threw for 313 yards and three touchdowns and ran for two more, including the 76-yard go-ahead strike to Jemyri Davis with 7:34 left."
+        },
+        {
+          "type": "jab",
+          "text": "South Florida went for it on fourth down eight times. Our defense kept count."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Navy, Saturday, Nov. 21, 12:00 PM ET, Navy-Marine Corps Memorial Stadium, Annapolis."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Memphis 52, South Florida 41 (Nov. 12, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862824"
+        },
+        {
+          "label": "ESPN play-by-play, Memphis at South Florida (Nov. 12, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401862824"
+        },
+        {
+          "label": "ESPN game page, Memphis at South Florida (Nov. 12, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401862824"
+        },
+        {
+          "label": "ESPN Memphis Tigers 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/235"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
     {
       "id": "fanatic_team-massachusetts",
       "kind": "fanatic_team",
