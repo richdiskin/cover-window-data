@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "nfl",
- "updated_utc": "2026-11-09T01:26:02Z",
+ "updated_utc": "2026-11-13T01:39:56Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401873026": {
@@ -294,6 +294,14 @@
    "kickoff_utc": "2026-11-10T01:15Z",
    "first_seen_utc": "2026-11-09T01:20:45Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873052": {
+   "game_id": "401873052",
+   "matchup": "Washington Commanders at New York Giants",
+   "kickoff_utc": "2026-11-13T01:15Z",
+   "first_seen_utc": "2026-11-13T01:39:46Z",
+   "first_seen_status": "STATUS_IN_PROGRESS Q1 4:04",
    "halftime_eligible": true
   }
  }

@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-10T01:09:02Z",
+ "updated_utc": "2026-11-13T01:39:56Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -2425,6 +2425,88 @@
    "matchup": "Ohio Bobcats at Miami (OH) RedHawks",
    "kickoff_utc": "2026-11-11T01:00Z",
    "first_seen_utc": "2026-11-10T01:09:00Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401866461": {
+   "game_id": "401866461",
+   "matchup": "Buffalo Bulls at Ball State Cardinals",
+   "kickoff_utc": "2026-11-12T00:30Z",
+   "first_seen_utc": "2026-11-13T01:39:46Z",
+   "first_seen_status": "STATUS_FINAL Q4 0:00",
+   "halftime_eligible": false
+  },
+  "401866462": {
+   "game_id": "401866462",
+   "matchup": "Sacramento State Hornets at Central Michigan Chippewas",
+   "kickoff_utc": "2026-11-12T00:30Z",
+   "first_seen_utc": "2026-11-13T01:39:46Z",
+   "first_seen_status": "STATUS_FINAL Q4 0:00",
+   "halftime_eligible": false,
+   "final": {
+    "youtube_id": "S6Xayq9TFSI",
+    "title": "Sacramento State Hornets vs. Central Michigan Chippewas | Full Game Highlights | ESPN CFB",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=S6Xayq9TFSI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/S6Xayq9TFSI",
+    "thumb": "https://i.ytimg.com/vi/S6Xayq9TFSI/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-12T03:46:16Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-13T01:39:56Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
+  },
+  "401866463": {
+   "game_id": "401866463",
+   "matchup": "Massachusetts Minutemen at Toledo Rockets",
+   "kickoff_utc": "2026-11-12T00:30Z",
+   "first_seen_utc": "2026-11-13T01:39:46Z",
+   "first_seen_status": "STATUS_FINAL Q4 0:00",
+   "halftime_eligible": false,
+   "final": {
+    "youtube_id": "J3GqWGPpDBs",
+    "title": "Massachusetts vs. Toledo College Football Highlights | Week 11 Condensed Game",
+    "channel": "CBS Sports College Football",
+    "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+    "url": "https://www.youtube.com/watch?v=J3GqWGPpDBs",
+    "embed_url": "https://www.youtube-nocookie.com/embed/J3GqWGPpDBs",
+    "thumb": "https://i.ytimg.com/vi/J3GqWGPpDBs/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-12T04:16:05Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-13T01:39:56Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
+  },
+  "401862824": {
+   "game_id": "401862824",
+   "matchup": "Memphis Tigers at South Florida Bulls",
+   "kickoff_utc": "2026-11-13T01:00Z",
+   "first_seen_utc": "2026-11-13T01:39:46Z",
+   "first_seen_status": "STATUS_IN_PROGRESS Q1 4:30",
+   "halftime_eligible": true
+  },
+  "401869969": {
+   "game_id": "401869969",
+   "matchup": "Louisiana Ragin' Cajuns at UL Monroe Warhawks",
+   "kickoff_utc": "2026-11-13T02:00Z",
+   "first_seen_utc": "2026-11-13T01:39:46Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401858293": {
+   "game_id": "401858293",
+   "matchup": "Florida State Seminoles at Pittsburgh Panthers",
+   "kickoff_utc": "2026-11-14T00:00Z",
+   "first_seen_utc": "2026-11-13T01:39:46Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
    "halftime_eligible": true
   }
