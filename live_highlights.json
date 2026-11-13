@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-13T03:38:38Z",
+ "updated_utc": "2026-11-13T05:40:36Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -2492,7 +2492,24 @@
    "kickoff_utc": "2026-11-13T01:00Z",
    "first_seen_utc": "2026-11-13T01:39:46Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 4:30",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "hsw0xmOZpoY",
+    "title": "Memphis Tigers vs. South Florida Bulls | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=hsw0xmOZpoY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/hsw0xmOZpoY",
+    "thumb": "https://i.ytimg.com/vi/hsw0xmOZpoY/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-13T05:14:58Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-13T05:40:36Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401869969": {
    "game_id": "401869969",
