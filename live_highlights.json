@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-13T05:40:36Z",
+ "updated_utc": "2026-11-13T06:11:32Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -2517,7 +2517,24 @@
    "kickoff_utc": "2026-11-13T02:00Z",
    "first_seen_utc": "2026-11-13T01:39:46Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "22UaOi0G5zk",
+    "title": "Lousiana Ragin' Cajuns vs. UL Monroe Warhawks | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=22UaOi0G5zk",
+    "embed_url": "https://www.youtube-nocookie.com/embed/22UaOi0G5zk",
+    "thumb": "https://i.ytimg.com/vi/22UaOi0G5zk/hqdefault.jpg",
+    "duration_s": 1070,
+    "uploaded_utc": "2026-11-13T05:56:47Z",
+    "upload_time_source": "watch_page",
+    "found_at_utc": "2026-11-13T06:11:32Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858293": {
    "game_id": "401858293",
