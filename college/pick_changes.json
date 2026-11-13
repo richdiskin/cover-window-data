@@ -102,5 +102,83 @@
       "argument_quote": null
     },
     "status": "final"
+  },
+  {
+    "game_id": "401858293",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "total",
+    "original": {
+      "pick": "Under 54.5",
+      "line": 54.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 52.5",
+      "line": 52.5
+    },
+    "changed_at": "2026-11-13T14:05:00Z",
+    "kickoff": "2026-11-14T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "Action Network consensus total for Florida State at Pittsburgh moved from 54.5 to 53.5 at 9:48 PM ET Monday Nov 9 and to 52.5 at 11:14 AM ET Thursday Nov 12 (still 52.5 at the 9:03 AM ET check Friday, with DraftKings also at 52.5 on ESPN), and The Formula's projection of Pittsburgh 28, Florida State 26 (total 54) is above 52.5, so the fresh rerun at 9:03 AM ET turns the card from Under 54.5 into Over 52.5.",
+      "source": "Action Network consensus line history, Florida State at Pittsburgh (book 15): https://api.actionnetwork.com/web/v2/markets/event/289951/history?bookIds=15 (checked Nov 13, 2026, 9:03 AM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289951/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858293",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 54.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 52.5",
+      "line": 52.5
+    },
+    "changed_at": "2026-11-13T14:05:00Z",
+    "kickoff": "2026-11-14T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The first Action Network consensus total for Florida State at Pittsburgh after the Monday night game was 53.5 (Wednesday Nov 11, 6:45 AM ET), and it moved from 53.5 to 52.5 at 11:14 AM ET Thursday Nov 12 (still 52.5 at the 9:03 AM ET check Friday), so the fresh market rerun turns the pending card into Under 52.5.",
+      "source": "Action Network consensus line history, Florida State at Pittsburgh (book 15): https://api.actionnetwork.com/web/v2/markets/event/289951/history?bookIds=15 (checked Nov 13, 2026, 9:03 AM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289951/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856860",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": 10.0,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Colorado Buffaloes +9",
+      "line": 9.0
+    },
+    "changed_at": "2026-11-13T14:05:00Z",
+    "kickoff": "2026-11-14T03:15Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "Action Network consensus spread for Houston at Colorado moved from +10 on Colorado (Tuesday Nov 10, 11:51 AM ET, the first consensus after the Monday night game) to +9 at 7:37 AM ET Friday Nov 13 (still +9 at the 9:03 AM ET check), so the fresh market rerun turns the pending card into Colorado Buffaloes +9.",
+      "source": "Action Network consensus line history, Houston at Colorado (book 15): https://api.actionnetwork.com/web/v2/markets/event/289953/history?bookIds=15 (checked Nov 13, 2026, 9:03 AM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289953/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
   }
 ]
