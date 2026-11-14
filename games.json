@@ -13328,13 +13328,13 @@
     "north-dakota-state",
     "hawai-i"
    ],
-   "spread": "North Dakota State Bison −6.5",
-   "total_line": 38.5,
+   "spread": "North Dakota State Bison −7",
+   "total_line": 39.5,
    "prediction": {
-    "away_score": 25,
+    "away_score": 26,
     "home_score": 18,
     "winner": "North Dakota State Bison",
-    "covers": "North Dakota State Bison −6.5"
+    "covers": "North Dakota State Bison −7"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -13342,74 +13342,76 @@
    },
    "display": {
     "writer": {
-     "score_line": "Projected: North Dakota State Bison 25, Hawai'i Rainbow Warriors 18 (Total 43)",
-     "side": "North Dakota State Bison −6.5",
-     "ou": "Over 38.5",
+     "score_line": "Projected: North Dakota State Bison 26, Hawai'i Rainbow Warriors 18 (Total 44)",
+     "side": "North Dakota State Bison −7",
+     "ou": "Over 39.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: North Dakota State Bison −6.5",
-      "ou_line": "O/U: Over 38.5 · Likes this total",
+      "side_line": "Side: North Dakota State Bison −7",
+      "ou_line": "O/U: Over 39.5",
       "score_line": "Projected: North Dakota State Bison 26, Hawai'i Rainbow Warriors 19 (Total 45)",
       "basis_line": "Net ratings North Dakota State Bison 0.8, Hawai'i Rainbow Warriors −9.9 (ESPN Football Power Index, Nov 9, 2026)",
       "independent": true,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 6.5,
-      "landed_on_number": []
+      "distance_from_spread": 0.0,
+      "distance_from_total": 5.5,
+      "landed_on_number": [
+       "spread"
+      ]
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: North Dakota State Bison −6.5 · Likes this side",
-      "ou_line": "O/U: Under 38.5",
+      "side_line": "Side: North Dakota State Bison −7",
+      "ou_line": "O/U: Under 39.5",
       "score_line": "Projected: North Dakota State Bison 24, Hawai'i Rainbow Warriors 12 (Total 36)",
       "basis_line": "With the players available: projected points North Dakota State Bison 24.4, Hawai'i Rainbow Warriors 12.2.",
       "independent": true,
-      "distance_from_spread": 5.5,
-      "distance_from_total": 2.5,
-      "landed_on_number": []
-     },
-     {
-      "name": "Letdown Watch",
-      "side_line": "Side: Hawai'i Rainbow Warriors +6.5 · Likes this side",
-      "ou_line": "O/U: Over 38.5 · Likes this total",
-      "score_line": "Projected: North Dakota State Bison 23, Hawai'i Rainbow Warriors 19 (Total 42)",
-      "basis_line": "Rest and travel read: projected points North Dakota State Bison 23.1, Hawai'i Rainbow Warriors 19.4.",
-      "independent": true,
-      "distance_from_spread": 2.5,
+      "distance_from_spread": 5.0,
       "distance_from_total": 3.5,
       "landed_on_number": []
      },
      {
+      "name": "Letdown Watch",
+      "side_line": "Side: Hawai'i Rainbow Warriors +7",
+      "ou_line": "O/U: Over 39.5",
+      "score_line": "Projected: North Dakota State Bison 23, Hawai'i Rainbow Warriors 19 (Total 42)",
+      "basis_line": "Rest and travel read: projected points North Dakota State Bison 23.1, Hawai'i Rainbow Warriors 19.4.",
+      "independent": true,
+      "distance_from_spread": 3.0,
+      "distance_from_total": 2.5,
+      "landed_on_number": []
+     },
+     {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:19 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Hawai'i Rainbow Warriors +6.5 (Nov 10, 10:44 AM ET) and is +7 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 38.5 (Nov 10, 10:44 AM ET) and is 38.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 14, 10:17 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Hawai'i Rainbow Warriors +6.5 · Likes this side",
-      "ou_line": "O/U: this card reads sides only",
+      "side_line": "Side: Hawai'i Rainbow Warriors +7 · Likes this side",
+      "ou_line": "O/U: no pick",
       "score_line": "Projected: North Dakota State Bison 27, Hawai'i Rainbow Warriors 21 (Total 48)",
-      "basis_line": "This read points to a side only. North Dakota State Bison 4.0 ypc vs Hawai'i Rainbow Warriors allowing 4.9; Hawai'i Rainbow Warriors 3.2 ypc vs North Dakota State Bison allowing 3.6 (2026 season). North Dakota State Bison run game 0.8 ypc below what the opponent allows, which favours Hawai'i Rainbow Warriors. Side: Hawai'i Rainbow Warriors +6.5.",
+      "basis_line": "This read points to a side only. North Dakota State Bison 4.0 ypc vs Hawai'i Rainbow Warriors allowing 4.9; Hawai'i Rainbow Warriors 3.2 ypc vs North Dakota State Bison allowing 3.6 (2026 season). North Dakota State Bison run game 0.8 ypc below what the opponent allows, which favours Hawai'i Rainbow Warriors. Side: Hawai'i Rainbow Warriors +7.",
       "independent": true,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 9.5,
+      "distance_from_spread": 1.0,
+      "distance_from_total": 8.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "North Dakota State's traveling party was inside the theater at the USS Arizona Memorial, watching the 23-minute film about the Pearl Harbor attack, when phones lit up with the news that the FAA had stopped every flight in the country. “We’re watching a movie about a World War, and to get out of the theatre and see all the texts was pretty remarkable,” coach Tim Polasek told InForum. “Obviously we’re thankful to be here so we get a chance to play a football game.”\n\nNewest number: ESPN lists DraftKings at North Dakota State -7, total 38.5, checked Nov. 14, 2026, 4:15 AM ET. Prices move, so check again before kickoff. That is the market's price, not a Cover Window recommendation.\n\nThe Cover Window's published pick, unchanged from our game page: North Dakota State Bison −6.5 and Over 38.5. Projected: North Dakota State Bison 25, Hawai'i Rainbow Warriors 18 (Total 43). That card was posted against North Dakota State Bison −6.5 and a total of 38.5.\n\nThey were lucky to be there at all. InForum says mechanical trouble with the charter pushed the Bison's Thursday 11:30 a.m. departure from Fargo to just before 1 a.m. Friday, and the team landed in Honolulu at 4:45 a.m. local time. Athletic director Matt Larsen: “nothing surprises you with this group of guys and I think they’ve handled it really well.”\n\nHawai'i calls it Military Night, per its game themes, a fitting one for a Veterans Day weekend and a visitor fresh off a Pearl Harbor visit. It is the first meeting between these programs. The Rainbow Warriors are 3-6 and looking for a third straight win after a 17-14 victory over UTEP in which Micah Alejado threw for 303 yards, per AP.\n\nNDSU's defense allows 11.9 points a game, second in FBS, and its red-zone defense ranks first, per AP. Hawai'i ranks 133rd in red-zone offense. Points will be hard to find at the Ching Complex.\n\nInjury check: we did not find a public availability report for this game as of 4:45 AM ET Saturday, Nov. 14. No player status is assumed; check the teams' game-day reports. Polasek said he would not know until Saturday morning whether the 13-hour delay had any effect on his players.\n\nThe published card was set at North Dakota State −6.5 and 38.5, projected 25-18, laying the points and playing the over. The newest DraftKings number we captured is North Dakota State −7 with the total unchanged at 38.5. A half-point move onto 7 is worth knowing. The card stays as published at 6.5.\n\nA visitor that saw Pearl Harbor the day before kickoff, Military Night in Manoa and a first-ever meeting at 6 p.m. Hawaii time. College football's last kickoff of the night has more meaning than most.\n\nThe published card stays North Dakota State Bison −6.5 and Over 38.5 at the numbers it was written against. My final is North Dakota State Bison 25, Hawai'i Rainbow Warriors 18. Follow The Money's side and total are both pending.\n\nNorth Dakota State Bison 25, Hawai'i Rainbow Warriors 18. North Dakota State Bison cover the 6.5. Over 38.5.",
-    "fanatic_score_line": "Projected: North Dakota State Bison 25, Hawai'i Rainbow Warriors 18",
+    "story_text": "North Dakota State's traveling party was inside the theater at the USS Arizona Memorial, watching the 23-minute film about the Pearl Harbor attack, when phones lit up with the news that the FAA had stopped every flight in the country. “We’re watching a movie about a World War, and to get out of the theatre and see all the texts was pretty remarkable,” coach Tim Polasek told InForum. “Obviously we’re thankful to be here so we get a chance to play a football game.”\n\nThe number as of Nov. 14, 2026, 10:17 AM ET: ESPN lists DraftKings at North Dakota State −7, total 39.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had North Dakota State −6.5 with a 38.5 total. Full preview at thecoverwindow.com.\n\nThey were lucky to be there at all. InForum says mechanical trouble with the charter pushed the Bison's Thursday 11:30 a.m. departure from Fargo to just before 1 a.m. Friday, and the team landed in Honolulu at 4:45 a.m. local time. Athletic director Matt Larsen: “nothing surprises you with this group of guys and I think they’ve handled it really well.”\n\nHawai'i calls it Military Night, per its game themes, a fitting one for a Veterans Day weekend and a visitor fresh off a Pearl Harbor visit. It is the first meeting between these programs. The Rainbow Warriors are 3-6 and looking for a third straight win after a 17-14 victory over UTEP in which Micah Alejado threw for 303 yards, per AP.\n\nNDSU's defense allows 11.9 points a game, second in FBS, and its red-zone defense ranks first, per AP. Hawai'i ranks 133rd in red-zone offense. Points will be hard to find at the Ching Complex.\n\nInjury check: we did not find a public availability report for this game as of 4:45 AM ET Saturday, Nov. 14. No player status is assumed; check the teams' game-day reports. Polasek said he would not know until Saturday morning whether the 13-hour delay had any effect on his players.\n\nThe desks at today's number. Follow The Money has no side pick and no total pick. The Formula: North Dakota State 26, Hawai'i 19, right on the number, so it keeps its North Dakota State side. That makes it North Dakota State −7 and Over 39.5. Next Man Up: North Dakota State 24, Hawai'i 12. That makes it North Dakota State −7 and Under 39.5. Letdown Watch: North Dakota State 23, Hawai'i 19. That makes it Hawai'i +7 and Over 39.5. In The Trenches: North Dakota State 27, Hawai'i 21, and it stays with Hawai'i +7 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: North Dakota State Bison −7 and Over 39.5. My final is North Dakota State Bison 26, Hawai'i Rainbow Warriors 18. Monday's 25-18 landed right on today's 7, so I moved North Dakota State up a point. That keeps the side and puts the total at 44, still over 39.5. The Bison fly a long way for this. They might as well cover.\n\nNorth Dakota State Bison 26, Hawai'i Rainbow Warriors 18. North Dakota State Bison cover the 7. Over 39.5.",
+    "fanatic_score_line": "Projected: North Dakota State Bison 26, Hawai'i Rainbow Warriors 18",
     "line_used": {
-     "home_line": "Hawai'i Rainbow Warriors +6.5",
-     "total": "38.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "home_line": "Hawai'i Rainbow Warriors +7",
+     "total": "39.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T15:17Z"
     },
     "injuries": {
      "away": [],
@@ -13426,18 +13428,18 @@
      "Trench stats: ESPN team stats for Hawai'i (espn.com)",
      "Schedule history: collegefootballdata.com 2018–2025"
     ],
-    "fanatic_story": "North Dakota State's traveling party was inside the theater at the USS Arizona Memorial, watching the 23-minute film about the Pearl Harbor attack, when phones lit up with the news that the FAA had stopped every flight in the country. “We’re watching a movie about a World War, and to get out of the theatre and see all the texts was pretty remarkable,” coach Tim Polasek told InForum. “Obviously we’re thankful to be here so we get a chance to play a football game.”\n\nThey were lucky to be there at all. InForum says mechanical trouble with the charter pushed the Bison's Thursday 11:30 a.m. departure from Fargo to just before 1 a.m. Friday, and the team landed in Honolulu at 4:45 a.m. local time. Athletic director Matt Larsen: “nothing surprises you with this group of guys and I think they’ve handled it really well.”\n\nHawai'i calls it Military Night, per its game themes, a fitting one for a Veterans Day weekend and a visitor fresh off a Pearl Harbor visit. It is the first meeting between these programs. The Rainbow Warriors are 3-6 and looking for a third straight win after a 17-14 victory over UTEP in which Micah Alejado threw for 303 yards, per AP.\n\nNDSU's defense allows 11.9 points a game, second in FBS, and its red-zone defense ranks first, per AP. Hawai'i ranks 133rd in red-zone offense. Points will be hard to find at the Ching Complex.\n\nA visitor that saw Pearl Harbor the day before kickoff, Military Night in Manoa and a first-ever meeting at 6 p.m. Hawaii time. College football's last kickoff of the night has more meaning than most.\n\nMy call: North Dakota State Bison 25, Hawai'i Rainbow Warriors 18.",
+    "fanatic_story": "North Dakota State's traveling party was inside the theater at the USS Arizona Memorial, watching the 23-minute film about the Pearl Harbor attack, when phones lit up with the news that the FAA had stopped every flight in the country. “We’re watching a movie about a World War, and to get out of the theatre and see all the texts was pretty remarkable,” coach Tim Polasek told InForum. “Obviously we’re thankful to be here so we get a chance to play a football game.”\n\nThey were lucky to be there at all. InForum says mechanical trouble with the charter pushed the Bison's Thursday 11:30 a.m. departure from Fargo to just before 1 a.m. Friday, and the team landed in Honolulu at 4:45 a.m. local time. Athletic director Matt Larsen: “nothing surprises you with this group of guys and I think they’ve handled it really well.”\n\nHawai'i calls it Military Night, per its game themes, a fitting one for a Veterans Day weekend and a visitor fresh off a Pearl Harbor visit. It is the first meeting between these programs. The Rainbow Warriors are 3-6 and looking for a third straight win after a 17-14 victory over UTEP in which Micah Alejado threw for 303 yards, per AP.\n\nNDSU's defense allows 11.9 points a game, second in FBS, and its red-zone defense ranks first, per AP. Hawai'i ranks 133rd in red-zone offense. Points will be hard to find at the Ching Complex.\n\nA visitor that saw Pearl Harbor the day before kickoff, Military Night in Manoa and a first-ever meeting at 6 p.m. Hawaii time. College football's last kickoff of the night has more meaning than most.\n\nMy call: North Dakota State Bison 26, Hawai'i Rainbow Warriors 18.",
     "market": {
      "score_line": "",
-     "spread": "North Dakota State Bison −6.5",
-     "total": "38.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "spread": "North Dakota State Bison −7",
+     "total": "39.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "North Dakota State at Hawai'i: The Bison Toured Pearl Harbor While the Country Stopped Flying",
     "fanatic_headline": "North Dakota State at Hawai'i: The Bison Toured Pearl Harbor While the Country Stopped Flying"
    },
-   "gambler_story": "North Dakota State's traveling party was inside the theater at the USS Arizona Memorial, watching the 23-minute film about the Pearl Harbor attack, when phones lit up with the news that the FAA had stopped every flight in the country. “We’re watching a movie about a World War, and to get out of the theatre and see all the texts was pretty remarkable,” coach Tim Polasek told InForum. “Obviously we’re thankful to be here so we get a chance to play a football game.”\n\nNewest number: ESPN lists DraftKings at North Dakota State -7, total 38.5, checked Nov. 14, 2026, 4:15 AM ET. Prices move, so check again before kickoff. That is the market's price, not a Cover Window recommendation.\n\nThe Cover Window's published pick, unchanged from our game page: North Dakota State Bison −6.5 and Over 38.5. Projected: North Dakota State Bison 25, Hawai'i Rainbow Warriors 18 (Total 43). That card was posted against North Dakota State Bison −6.5 and a total of 38.5.\n\nThey were lucky to be there at all. InForum says mechanical trouble with the charter pushed the Bison's Thursday 11:30 a.m. departure from Fargo to just before 1 a.m. Friday, and the team landed in Honolulu at 4:45 a.m. local time. Athletic director Matt Larsen: “nothing surprises you with this group of guys and I think they’ve handled it really well.”\n\nHawai'i calls it Military Night, per its game themes, a fitting one for a Veterans Day weekend and a visitor fresh off a Pearl Harbor visit. It is the first meeting between these programs. The Rainbow Warriors are 3-6 and looking for a third straight win after a 17-14 victory over UTEP in which Micah Alejado threw for 303 yards, per AP.\n\nNDSU's defense allows 11.9 points a game, second in FBS, and its red-zone defense ranks first, per AP. Hawai'i ranks 133rd in red-zone offense. Points will be hard to find at the Ching Complex.\n\nInjury check: we did not find a public availability report for this game as of 4:45 AM ET Saturday, Nov. 14. No player status is assumed; check the teams' game-day reports. Polasek said he would not know until Saturday morning whether the 13-hour delay had any effect on his players.\n\nThe published card was set at North Dakota State −6.5 and 38.5, projected 25-18, laying the points and playing the over. The newest DraftKings number we captured is North Dakota State −7 with the total unchanged at 38.5. A half-point move onto 7 is worth knowing. The card stays as published at 6.5.\n\nA visitor that saw Pearl Harbor the day before kickoff, Military Night in Manoa and a first-ever meeting at 6 p.m. Hawaii time. College football's last kickoff of the night has more meaning than most.\n\nThe published card stays North Dakota State Bison −6.5 and Over 38.5 at the numbers it was written against. My final is North Dakota State Bison 25, Hawai'i Rainbow Warriors 18. Follow The Money's side and total are both pending.\n\nNorth Dakota State Bison 25, Hawai'i Rainbow Warriors 18. North Dakota State Bison cover the 6.5. Over 38.5.",
+   "gambler_story": "North Dakota State's traveling party was inside the theater at the USS Arizona Memorial, watching the 23-minute film about the Pearl Harbor attack, when phones lit up with the news that the FAA had stopped every flight in the country. “We’re watching a movie about a World War, and to get out of the theatre and see all the texts was pretty remarkable,” coach Tim Polasek told InForum. “Obviously we’re thankful to be here so we get a chance to play a football game.”\n\nThe number as of Nov. 14, 2026, 10:17 AM ET: ESPN lists DraftKings at North Dakota State −7, total 39.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had North Dakota State −6.5 with a 38.5 total. Full preview at thecoverwindow.com.\n\nThey were lucky to be there at all. InForum says mechanical trouble with the charter pushed the Bison's Thursday 11:30 a.m. departure from Fargo to just before 1 a.m. Friday, and the team landed in Honolulu at 4:45 a.m. local time. Athletic director Matt Larsen: “nothing surprises you with this group of guys and I think they’ve handled it really well.”\n\nHawai'i calls it Military Night, per its game themes, a fitting one for a Veterans Day weekend and a visitor fresh off a Pearl Harbor visit. It is the first meeting between these programs. The Rainbow Warriors are 3-6 and looking for a third straight win after a 17-14 victory over UTEP in which Micah Alejado threw for 303 yards, per AP.\n\nNDSU's defense allows 11.9 points a game, second in FBS, and its red-zone defense ranks first, per AP. Hawai'i ranks 133rd in red-zone offense. Points will be hard to find at the Ching Complex.\n\nInjury check: we did not find a public availability report for this game as of 4:45 AM ET Saturday, Nov. 14. No player status is assumed; check the teams' game-day reports. Polasek said he would not know until Saturday morning whether the 13-hour delay had any effect on his players.\n\nThe desks at today's number. Follow The Money has no side pick and no total pick. The Formula: North Dakota State 26, Hawai'i 19, right on the number, so it keeps its North Dakota State side. That makes it North Dakota State −7 and Over 39.5. Next Man Up: North Dakota State 24, Hawai'i 12. That makes it North Dakota State −7 and Under 39.5. Letdown Watch: North Dakota State 23, Hawai'i 19. That makes it Hawai'i +7 and Over 39.5. In The Trenches: North Dakota State 27, Hawai'i 21, and it stays with Hawai'i +7 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: North Dakota State Bison −7 and Over 39.5. My final is North Dakota State Bison 26, Hawai'i Rainbow Warriors 18. Monday's 25-18 landed right on today's 7, so I moved North Dakota State up a point. That keeps the side and puts the total at 44, still over 39.5. The Bison fly a long way for this. They might as well cover.\n\nNorth Dakota State Bison 26, Hawai'i Rainbow Warriors 18. North Dakota State Bison cover the 7. Over 39.5.",
    "videos": [],
    "key_players": [
     {
