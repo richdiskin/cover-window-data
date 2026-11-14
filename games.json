@@ -3367,13 +3367,13 @@
     "cincinnati",
     "iowa-state"
    ],
-   "spread": "Iowa State Cyclones −2.5",
-   "total_line": 61.5,
+   "spread": "Iowa State Cyclones −3",
+   "total_line": 58.5,
    "prediction": {
     "away_score": 28,
     "home_score": 30,
     "winner": "Iowa State Cyclones",
-    "covers": "Cincinnati Bearcats +2.5"
+    "covers": "Cincinnati Bearcats +3"
    },
    "total_pick": "Under",
    "status_at_build": {
@@ -3382,73 +3382,73 @@
    "display": {
     "writer": {
      "score_line": "Projected: Iowa State Cyclones 30, Cincinnati Bearcats 28 (Total 58)",
-     "side": "Cincinnati Bearcats +2.5",
-     "ou": "Under 61.5",
+     "side": "Cincinnati Bearcats +3",
+     "ou": "Under 58.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Cincinnati Bearcats +2.5",
-      "ou_line": "O/U: Under 61.5 · Likes this total",
+      "side_line": "Side: Cincinnati Bearcats +3",
+      "ou_line": "O/U: Under 58.5",
       "score_line": "Projected: Iowa State Cyclones 29, Cincinnati Bearcats 28 (Total 57)",
       "basis_line": "Net ratings Cincinnati Bearcats 4.5, Iowa State Cyclones 2.6 (ESPN Football Power Index, Nov 9, 2026)",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 4.5,
+      "distance_from_spread": 2.0,
+      "distance_from_total": 1.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Iowa State Cyclones −2.5",
-      "ou_line": "O/U: Over 61.5",
+      "side_line": "Side: Iowa State Cyclones −3",
+      "ou_line": "O/U: Over 58.5",
       "score_line": "Projected: Iowa State Cyclones 33, Cincinnati Bearcats 29 (Total 62)",
       "basis_line": "With the players available: projected points Cincinnati Bearcats 29.1, Iowa State Cyclones 33.1.",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 0.5,
+      "distance_from_spread": 1.0,
+      "distance_from_total": 3.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Iowa State Cyclones −2.5",
-      "ou_line": "O/U: Under 61.5 · Likes this total",
+      "side_line": "Side: Iowa State Cyclones −3",
+      "ou_line": "O/U: Under 58.5",
       "score_line": "Projected: Iowa State Cyclones 31, Cincinnati Bearcats 26 (Total 57)",
       "basis_line": "Rest and travel read: projected points Cincinnati Bearcats 26.1, Iowa State Cyclones 30.9.",
       "independent": true,
-      "distance_from_spread": 2.5,
-      "distance_from_total": 4.5,
+      "distance_from_spread": 2.0,
+      "distance_from_total": 1.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: Under 58.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Iowa State Cyclones −3 (Nov 10, 3:46 PM ET) and is −3 now. Follow The Money has no side pick. Consensus total opened 60.5 (Nov 10, 12:47 PM ET) and is 58.5 now, a 2-point move: Under. The total pick quotes the consensus total now (58.5). Lines are the Action Network consensus as of Nov 14, 9:51 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Cincinnati Bearcats +2.5 · Likes this side",
-      "ou_line": "O/U: this card reads sides only",
+      "side_line": "Side: Cincinnati Bearcats +3 · Likes this side",
+      "ou_line": "O/U: no pick",
       "score_line": "Projected: Iowa State Cyclones 29, Cincinnati Bearcats 29 (Total 58)",
-      "basis_line": "This read points to a side only. Cincinnati Bearcats 5.8 ypc vs Iowa State Cyclones allowing 4.7; Iowa State Cyclones 4.9 ypc vs Cincinnati Bearcats allowing 4.8 (2026 season). Cincinnati Bearcats run game 1.0 ypc above what the opponent allows, which favours Cincinnati Bearcats. Side: Cincinnati Bearcats +2.5.",
+      "basis_line": "This read points to a side only. Cincinnati Bearcats 5.8 ypc vs Iowa State Cyclones allowing 4.7; Iowa State Cyclones 4.9 ypc vs Cincinnati Bearcats allowing 4.8 (2026 season). Cincinnati Bearcats run game 1.0 ypc above what the opponent allows, which favours Cincinnati Bearcats. Side: Cincinnati Bearcats +3.",
       "independent": true,
-      "distance_from_spread": 2.5,
-      "distance_from_total": 3.5,
+      "distance_from_spread": 3.0,
+      "distance_from_total": 0.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "Market check, Cincinnati at Iowa State: DraftKings ISU -3, total 58.5.\n\nAmes gets this one before most of the country has finished breakfast: 11 a.m. Central at Jack Trice Stadium. The early hour has not hurt the Cyclones. Iowa State is 4-1 at home this season, the lone loss to a Utah team that now sits at No. 2, and the program is 41-16 at Jack Trice since 2018, per the school's own primer.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at ISU -3, total 58.5. The Cover Window's published pick still reads Cincinnati +2.5 and Under 61.5. The market has drifted to Iowa State -3 and 58.5, so anyone taking Cincinnati now gets half a point more than the card did, while the total has dropped three points below the published Under. The card's projected final is Iowa State Cyclones 30, Cincinnati Bearcats 28 (Total 58). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: Iowa State's Nov. 10 primer lists its season-ending losses. On Tuesday Satterfield called JV Gibson's status uncertain. We found no posted Big 12 game-day availability list in our check.\n\nCincinnati coach Scott Satterfield knows what is waiting. “The challenge is going on the road, playing at Iowa State. They have good crowd support and setup for their home games,” he said Tuesday. He also put a target on Aiden Flora, calling him “one of the faster running backs in the country.” Satterfield is still sore about last week's 31-24 loss at Houston: “That turnover was the difference in the game.”\n\nThe Bearcats bring a back of their own. Iowa State's notes say Cole Tabb leads the nation at 8.92 yards per carry and has 14 touchdowns. Quarterback JC French IV threw 175 passes before his first interception of the season. SI's Cyclones site points out the catch: Cincinnati is 0-3 on the road. So the game in Ames is simple to describe and hard to do. Slow down the Bearcats' run game and make French win it through the air.\n\nIowa State has earned some respect just for still standing. The Cyclones have lost double-digit players for the season and are down five of the seven receivers they expected to rely on, per the primer. Cincinnati's top receiver, JV Gibson, left last week's game, and Satterfield said the staff would “still be hopeful that JV will be able to play.” That is a banged-up cast on both sides, playing for bowl hopes in front of a home crowd that keeps turning out. Ames has the coffee on early. Let's see who wakes up.\n\nThe published card stays Cincinnati Bearcats +2.5 and Under 61.5 at the numbers it was written against. My final is Iowa State Cyclones 30, Cincinnati Bearcats 28. Follow The Money's side and total are both pending.\n\nIowa State Cyclones 30, Cincinnati Bearcats 28. Cincinnati Bearcats cover the 2.5. Under 61.5.",
+    "story_text": "Market check, Cincinnati at Iowa State, Nov. 14, 2026, 9:51 AM ET: DraftKings Iowa State −3, total 58.5.\n\nAmes gets this one before most of the country has finished breakfast: 11 a.m. Central at Jack Trice Stadium. The early hour has not hurt the Cyclones. Iowa State is 4-1 at home this season, the lone loss to a Utah team that now sits at No. 2, and the program is 41-16 at Jack Trice since 2018, per the school's own primer.\n\nThe number as of Nov. 14, 2026, 9:51 AM ET: ESPN lists DraftKings at Iowa State −3, total 58.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Cincinnati +2.5 with a 61.5 total. Full preview at thecoverwindow.com.\n\nInjuries: Iowa State's Nov. 10 primer lists its season-ending losses. On Tuesday Satterfield called JV Gibson's status uncertain. We found no posted Big 12 game-day availability list in our check.\n\nCincinnati coach Scott Satterfield knows what is waiting. “The challenge is going on the road, playing at Iowa State. They have good crowd support and setup for their home games,” he said Tuesday. He also put a target on Aiden Flora, calling him “one of the faster running backs in the country.” Satterfield is still sore about last week's 31-24 loss at Houston: “That turnover was the difference in the game.”\n\nThe Bearcats bring a back of their own. Iowa State's notes say Cole Tabb leads the nation at 8.92 yards per carry and has 14 touchdowns. Quarterback JC French IV threw 175 passes before his first interception of the season. SI's Cyclones site points out the catch: Cincinnati is 0-3 on the road. So the game in Ames is simple to describe and hard to do. Slow down the Bearcats' run game and make French win it through the air.\n\nIowa State has earned some respect just for still standing. The Cyclones have lost double-digit players for the season and are down five of the seven receivers they expected to rely on, per the primer. Cincinnati's top receiver, JV Gibson, left last week's game, and Satterfield said the staff would “still be hopeful that JV will be able to play.” That is a banged-up cast on both sides, playing for bowl hopes in front of a home crowd that keeps turning out. Ames has the coffee on early. Let's see who wakes up.\n\nThe desks at today's number. Follow The Money has no side pick and likes the Under 58.5. The Formula: Iowa State 29, Cincinnati 28. That makes it Cincinnati +3 and Under 58.5. Next Man Up: Iowa State 33, Cincinnati 29. That makes it Iowa State −3 and Over 58.5. Letdown Watch: Iowa State 31, Cincinnati 26. That makes it Iowa State −3 and Under 58.5. In The Trenches: Iowa State 29, Cincinnati 29, and it stays with Cincinnati +3 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: Cincinnati Bearcats +3 and Under 58.5. My final is Iowa State Cyclones 30, Cincinnati Bearcats 28. Cincinnati gets an extra half point for the same opinion. I'm not one to turn down free money, mostly because nobody has ever offered me any.\n\nIowa State Cyclones 30, Cincinnati Bearcats 28. Cincinnati Bearcats cover the 3. Under 58.5.",
     "fanatic_score_line": "Projected: Iowa State Cyclones 30, Cincinnati Bearcats 28",
     "line_used": {
-     "home_line": "Iowa State Cyclones −2.5",
-     "total": "61.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "home_line": "Iowa State Cyclones −3",
+     "total": "58.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T14:51Z"
     },
     "injuries": {
      "away": [],
@@ -3468,15 +3468,15 @@
     "fanatic_story": "Ames gets this one before most of the country has finished breakfast: 11 a.m. Central at Jack Trice Stadium. The early hour has not hurt the Cyclones. Iowa State is 4-1 at home this season, the lone loss to a Utah team that now sits at No. 2, and the program is 41-16 at Jack Trice since 2018, per the school's own primer.\n\nCincinnati coach Scott Satterfield knows what is waiting. “The challenge is going on the road, playing at Iowa State. They have good crowd support and setup for their home games,” he said Tuesday. He also put a target on Aiden Flora, calling him “one of the faster running backs in the country.” Satterfield is still sore about last week's 31-24 loss at Houston: “That turnover was the difference in the game.”\n\nThe Bearcats bring a back of their own. Iowa State's notes say Cole Tabb leads the nation at 8.92 yards per carry and has 14 touchdowns. Quarterback JC French IV threw 175 passes before his first interception of the season. SI's Cyclones site points out the catch: Cincinnati is 0-3 on the road. So the game in Ames is simple to describe and hard to do. Slow down the Bearcats' run game and make French win it through the air.\n\nIowa State has earned some respect just for still standing. The Cyclones have lost double-digit players for the season and are down five of the seven receivers they expected to rely on, per the primer. Cincinnati's top receiver, JV Gibson, left last week's game, and Satterfield said the staff would “still be hopeful that JV will be able to play.” That is a banged-up cast on both sides, playing for bowl hopes in front of a home crowd that keeps turning out. Ames has the coffee on early. Let's see who wakes up.\n\nMy call: Iowa State Cyclones 30, Cincinnati Bearcats 28.",
     "market": {
      "score_line": "",
-     "spread": "Iowa State Cyclones −2.5",
-     "total": "61.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "spread": "Iowa State Cyclones −3",
+     "total": "58.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "Cincinnati at Iowa State: Ames Opens Early for the Most Efficient Runner in the Country",
     "fanatic_headline": "Cincinnati at Iowa State: Ames Opens Early for the Most Efficient Runner in the Country"
    },
-   "gambler_story": "Market check, Cincinnati at Iowa State: DraftKings ISU -3, total 58.5.\n\nAmes gets this one before most of the country has finished breakfast: 11 a.m. Central at Jack Trice Stadium. The early hour has not hurt the Cyclones. Iowa State is 4-1 at home this season, the lone loss to a Utah team that now sits at No. 2, and the program is 41-16 at Jack Trice since 2018, per the school's own primer.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at ISU -3, total 58.5. The Cover Window's published pick still reads Cincinnati +2.5 and Under 61.5. The market has drifted to Iowa State -3 and 58.5, so anyone taking Cincinnati now gets half a point more than the card did, while the total has dropped three points below the published Under. The card's projected final is Iowa State Cyclones 30, Cincinnati Bearcats 28 (Total 58). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: Iowa State's Nov. 10 primer lists its season-ending losses. On Tuesday Satterfield called JV Gibson's status uncertain. We found no posted Big 12 game-day availability list in our check.\n\nCincinnati coach Scott Satterfield knows what is waiting. “The challenge is going on the road, playing at Iowa State. They have good crowd support and setup for their home games,” he said Tuesday. He also put a target on Aiden Flora, calling him “one of the faster running backs in the country.” Satterfield is still sore about last week's 31-24 loss at Houston: “That turnover was the difference in the game.”\n\nThe Bearcats bring a back of their own. Iowa State's notes say Cole Tabb leads the nation at 8.92 yards per carry and has 14 touchdowns. Quarterback JC French IV threw 175 passes before his first interception of the season. SI's Cyclones site points out the catch: Cincinnati is 0-3 on the road. So the game in Ames is simple to describe and hard to do. Slow down the Bearcats' run game and make French win it through the air.\n\nIowa State has earned some respect just for still standing. The Cyclones have lost double-digit players for the season and are down five of the seven receivers they expected to rely on, per the primer. Cincinnati's top receiver, JV Gibson, left last week's game, and Satterfield said the staff would “still be hopeful that JV will be able to play.” That is a banged-up cast on both sides, playing for bowl hopes in front of a home crowd that keeps turning out. Ames has the coffee on early. Let's see who wakes up.\n\nThe published card stays Cincinnati Bearcats +2.5 and Under 61.5 at the numbers it was written against. My final is Iowa State Cyclones 30, Cincinnati Bearcats 28. Follow The Money's side and total are both pending.\n\nIowa State Cyclones 30, Cincinnati Bearcats 28. Cincinnati Bearcats cover the 2.5. Under 61.5.",
+   "gambler_story": "Market check, Cincinnati at Iowa State, Nov. 14, 2026, 9:51 AM ET: DraftKings Iowa State −3, total 58.5.\n\nAmes gets this one before most of the country has finished breakfast: 11 a.m. Central at Jack Trice Stadium. The early hour has not hurt the Cyclones. Iowa State is 4-1 at home this season, the lone loss to a Utah team that now sits at No. 2, and the program is 41-16 at Jack Trice since 2018, per the school's own primer.\n\nThe number as of Nov. 14, 2026, 9:51 AM ET: ESPN lists DraftKings at Iowa State −3, total 58.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Cincinnati +2.5 with a 61.5 total. Full preview at thecoverwindow.com.\n\nInjuries: Iowa State's Nov. 10 primer lists its season-ending losses. On Tuesday Satterfield called JV Gibson's status uncertain. We found no posted Big 12 game-day availability list in our check.\n\nCincinnati coach Scott Satterfield knows what is waiting. “The challenge is going on the road, playing at Iowa State. They have good crowd support and setup for their home games,” he said Tuesday. He also put a target on Aiden Flora, calling him “one of the faster running backs in the country.” Satterfield is still sore about last week's 31-24 loss at Houston: “That turnover was the difference in the game.”\n\nThe Bearcats bring a back of their own. Iowa State's notes say Cole Tabb leads the nation at 8.92 yards per carry and has 14 touchdowns. Quarterback JC French IV threw 175 passes before his first interception of the season. SI's Cyclones site points out the catch: Cincinnati is 0-3 on the road. So the game in Ames is simple to describe and hard to do. Slow down the Bearcats' run game and make French win it through the air.\n\nIowa State has earned some respect just for still standing. The Cyclones have lost double-digit players for the season and are down five of the seven receivers they expected to rely on, per the primer. Cincinnati's top receiver, JV Gibson, left last week's game, and Satterfield said the staff would “still be hopeful that JV will be able to play.” That is a banged-up cast on both sides, playing for bowl hopes in front of a home crowd that keeps turning out. Ames has the coffee on early. Let's see who wakes up.\n\nThe desks at today's number. Follow The Money has no side pick and likes the Under 58.5. The Formula: Iowa State 29, Cincinnati 28. That makes it Cincinnati +3 and Under 58.5. Next Man Up: Iowa State 33, Cincinnati 29. That makes it Iowa State −3 and Over 58.5. Letdown Watch: Iowa State 31, Cincinnati 26. That makes it Iowa State −3 and Under 58.5. In The Trenches: Iowa State 29, Cincinnati 29, and it stays with Cincinnati +3 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: Cincinnati Bearcats +3 and Under 58.5. My final is Iowa State Cyclones 30, Cincinnati Bearcats 28. Cincinnati gets an extra half point for the same opinion. I'm not one to turn down free money, mostly because nobody has ever offered me any.\n\nIowa State Cyclones 30, Cincinnati Bearcats 28. Cincinnati Bearcats cover the 3. Under 58.5.",
    "videos": [
     {
      "youtube_id": "sGUdLCPWTCc",
@@ -3589,13 +3589,13 @@
     "duke",
     "miami"
    ],
-   "spread": "Miami Hurricanes −13.5",
+   "spread": "Miami Hurricanes −14",
    "total_line": 54.5,
    "prediction": {
-    "away_score": 21,
+    "away_score": 20,
     "home_score": 35,
     "winner": "Miami Hurricanes",
-    "covers": "Miami Hurricanes −13.5"
+    "covers": "Miami Hurricanes −14"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -3603,59 +3603,61 @@
    },
    "display": {
     "writer": {
-     "score_line": "Projected: Miami Hurricanes 35, Duke Blue Devils 21 (Total 56)",
-     "side": "Miami Hurricanes −13.5",
+     "score_line": "Projected: Miami Hurricanes 35, Duke Blue Devils 20 (Total 55)",
+     "side": "Miami Hurricanes −14",
      "ou": "Over 54.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Miami Hurricanes −13.5",
+      "side_line": "Side: Miami Hurricanes −14",
       "ou_line": "O/U: Under 54.5",
       "score_line": "Projected: Miami Hurricanes 34, Duke Blue Devils 20 (Total 54)",
       "basis_line": "Net ratings Duke Blue Devils 12.5, Miami Hurricanes 26.0 (ESPN Football Power Index, Nov 9, 2026)",
       "independent": true,
-      "distance_from_spread": 0.5,
+      "distance_from_spread": 0.0,
       "distance_from_total": 0.5,
-      "landed_on_number": []
+      "landed_on_number": [
+       "spread"
+      ]
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Miami Hurricanes −13.5 · Likes this side",
-      "ou_line": "O/U: Over 54.5 · Likes this total",
+      "side_line": "Side: Miami Hurricanes −14",
+      "ou_line": "O/U: Over 54.5",
       "score_line": "Projected: Miami Hurricanes 38, Duke Blue Devils 20 (Total 58)",
       "basis_line": "With the players available: projected points Duke Blue Devils 20.4, Miami Hurricanes 37.7.",
       "independent": true,
-      "distance_from_spread": 4.5,
+      "distance_from_spread": 4.0,
       "distance_from_total": 3.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Duke Blue Devils +13.5 · Likes this side",
+      "side_line": "Side: Duke Blue Devils +14",
       "ou_line": "O/U: Under 54.5",
       "score_line": "Projected: Miami Hurricanes 32, Duke Blue Devils 21 (Total 53)",
       "basis_line": "Rest and travel read: projected points Duke Blue Devils 21.4, Miami Hurricanes 31.9.",
       "independent": true,
-      "distance_from_spread": 2.5,
+      "distance_from_spread": 3.0,
       "distance_from_total": 1.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Miami Hurricanes −13.5 (Nov 10, 1:56 PM ET) and is −14 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 54.5 (Nov 10, 1:56 PM ET) and is 54.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 14, 9:51 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: the trench reads split, so no side",
-      "ou_line": "O/U: this card reads sides only",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week.",
       "basis_line": "Duke Blue Devils 5.2 ypc vs Miami Hurricanes allowing 2.5; Miami Hurricanes 5.3 ypc vs Duke Blue Devils allowing 3.0 (2026 season). The run-game reads favour different teams. In The Trenches has no pick.",
       "independent": false,
@@ -3663,13 +3665,13 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "Market check, Duke at Miami: DraftKings MIA -14, total 54.5.\n\nMiami's homecoming guest list reads like somebody made it up on a dare. The quarterback who led Duke to last year's ACC title now plays for the Hurricanes. Duke's head coach, Manny Diaz, used to run Miami until he was fired in 2021. AP reports that Darian Mensah was sued by Duke in January over his transfer plans before the sides settled. That is a lot of history for one Saturday at Hard Rock Stadium.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at MIA -14, total 54.5. The Cover Window's published pick is Miami -13.5 and Over 54.5. The market has edged to Miami -14 with the total unchanged at 54.5. That puts the card half a point better than the current price on the side. The card's projected final is Miami Hurricanes 35, Duke Blue Devils 21 (Total 56). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: Miami Saves (Nov. 12) and ACC Sports Journal's Thursday ACC-report rundown both list Toney, Moore and Brown out for Miami. Duke has 13 out, and QB Terry Walker III moved from questionable to out Thursday.\n\nTo his credit, Mensah isn't pretending. “I try to just approach it like every other game,” he told AP. “Obviously, it's going to be a little bit weird playing my old team.” Diaz preached calm, saying “you can have emotions, but you can't play emotionally, right?” Mario Cristobal called Duke “an extremely well-balanced team, very talented team that's playing at a high level.” Duke center Matt Craycraft returned the favor: “They have a great defense. They have a really good front seven.”\n\nThat front seven gets the real test. AP lists Nate Sheppard at 1,189 rushing yards and 17 rushing touchdowns, and Miami has the nation's top rushing defense. Duke's defense is on its own heater. It hasn't allowed a touchdown in its last 182 snaps, spanning 32 possessions. Cooper Barkate, last year's top Duke receiver, followed Mensah south and caught two touchdowns at Notre Dame.\n\nInjuries have hit both rosters. Malachi Toney stays out after ankle surgery, and Joshua Moore and CharMar Brown are also out for Miami. Duke listed 13 players out on Thursday's ACC report, including four offensive linemen and kicker Cosme Salas. There's a title-game angle too: AP says Miami clinches a spot in the ACC title game today if it wins, Louisville loses and either Clemson or SMU loses. In Miami Gardens this is homecoming, a reunion and an audition all at once. The side that handles the weird best should be the side still singing at the end.\n\nThe published card stays Miami Hurricanes −13.5 and Over 54.5 at the numbers it was written against. My final is Miami Hurricanes 35, Duke Blue Devils 21. Follow The Money's side and total are both pending.\n\nMiami Hurricanes 35, Duke Blue Devils 21. Miami Hurricanes cover the 13.5. Over 54.5.",
-    "fanatic_score_line": "Projected: Miami Hurricanes 35, Duke Blue Devils 21",
+    "story_text": "Market check, Duke at Miami, Nov. 14, 2026, 9:51 AM ET: DraftKings Miami −14, total 54.5.\n\nMiami's homecoming guest list reads like somebody made it up on a dare. The quarterback who led Duke to last year's ACC title now plays for the Hurricanes. Duke's head coach, Manny Diaz, used to run Miami until he was fired in 2021. AP reports that Darian Mensah was sued by Duke in January over his transfer plans before the sides settled. That is a lot of history for one Saturday at Hard Rock Stadium.\n\nThe number as of Nov. 14, 2026, 9:51 AM ET: ESPN lists DraftKings at Miami −14, total 54.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Miami −13.5 with a 54.5 total. Full preview at thecoverwindow.com.\n\nTo his credit, Mensah isn't pretending. “I try to just approach it like every other game,” he told AP. “Obviously, it's going to be a little bit weird playing my old team.” Diaz preached calm, saying “you can have emotions, but you can't play emotionally, right?” Mario Cristobal called Duke “an extremely well-balanced team, very talented team that's playing at a high level.” Duke center Matt Craycraft returned the favor: “They have a great defense. They have a really good front seven.”\n\nThat front seven gets the real test. AP lists Nate Sheppard at 1,189 rushing yards and 17 rushing touchdowns, and Miami has the nation's top rushing defense. Duke's defense is on its own heater. It hasn't allowed a touchdown in its last 182 snaps, spanning 32 possessions. Cooper Barkate, last year's top Duke receiver, followed Mensah south and caught two touchdowns at Notre Dame.\n\nInjuries have hit both rosters. Malachi Toney stays out after ankle surgery, and Joshua Moore and CharMar Brown are also out for Miami. Duke listed 13 players out on Thursday's ACC report, including four offensive linemen and kicker Cosme Salas. There's a title-game angle too: AP says Miami clinches a spot in the ACC title game today if it wins, Louisville loses and either Clemson or SMU loses. In Miami Gardens this is homecoming, a reunion and an audition all at once. The side that handles the weird best should be the side still singing at the end.\n\nThe desks at today's number. Follow The Money has no side pick and no total pick. The Formula: Miami 34, Duke 20, right on the number, so it keeps its Miami side. That makes it Miami −14 and Under 54.5. Next Man Up: Miami 38, Duke 20. That makes it Miami −14 and Over 54.5. Letdown Watch: Miami 32, Duke 21. That makes it Duke +14 and Under 54.5. In The Trenches has no pick: its run-game reads favour different teams.\n\nThe Cover Writer's card at today's number: Miami Hurricanes −14 and Over 54.5. My final is Miami Hurricanes 35, Duke Blue Devils 20. Monday's 35-21 landed right on today's 14, so I moved Duke down a point instead of moving off Miami. The Formula has Miami 34-20 and Next Man Up has Miami 38-20, and Duke listed 13 players out Thursday, including four offensive linemen. Fourteen is a lot of points. Four missing linemen is a lot of missing linemen.\n\nMiami Hurricanes 35, Duke Blue Devils 20. Miami Hurricanes cover the 14. Over 54.5.",
+    "fanatic_score_line": "Projected: Miami Hurricanes 35, Duke Blue Devils 20",
     "line_used": {
-     "home_line": "Miami Hurricanes −13.5",
+     "home_line": "Miami Hurricanes −14",
      "total": "54.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T14:51Z"
     },
     "injuries": {
      "away": [],
@@ -3686,18 +3688,18 @@
      "Trench stats: ESPN team stats for Miami (espn.com)",
      "Schedule history: collegefootballdata.com 2018–2025"
     ],
-    "fanatic_story": "Miami's homecoming guest list reads like somebody made it up on a dare. The quarterback who led Duke to last year's ACC title now plays for the Hurricanes. Duke's head coach, Manny Diaz, used to run Miami until he was fired in 2021. AP reports that Darian Mensah was sued by Duke in January over his transfer plans before the sides settled. That is a lot of history for one Saturday at Hard Rock Stadium.\n\nTo his credit, Mensah isn't pretending. “I try to just approach it like every other game,” he told AP. “Obviously, it's going to be a little bit weird playing my old team.” Diaz preached calm, saying “you can have emotions, but you can't play emotionally, right?” Mario Cristobal called Duke “an extremely well-balanced team, very talented team that's playing at a high level.” Duke center Matt Craycraft returned the favor: “They have a great defense. They have a really good front seven.”\n\nThat front seven gets the real test. AP lists Nate Sheppard at 1,189 rushing yards and 17 rushing touchdowns, and Miami has the nation's top rushing defense. Duke's defense is on its own heater. It hasn't allowed a touchdown in its last 182 snaps, spanning 32 possessions. Cooper Barkate, last year's top Duke receiver, followed Mensah south and caught two touchdowns at Notre Dame.\n\nInjuries have hit both rosters. Malachi Toney stays out after ankle surgery, and Joshua Moore and CharMar Brown are also out for Miami. Duke listed 13 players out on Thursday's ACC report, including four offensive linemen and kicker Cosme Salas. There's a title-game angle too: AP says Miami clinches a spot in the ACC title game today if it wins, Louisville loses and either Clemson or SMU loses. In Miami Gardens this is homecoming, a reunion and an audition all at once. The side that handles the weird best should be the side still singing at the end.\n\nMy call: Miami Hurricanes 35, Duke Blue Devils 21.",
+    "fanatic_story": "Miami's homecoming guest list reads like somebody made it up on a dare. The quarterback who led Duke to last year's ACC title now plays for the Hurricanes. Duke's head coach, Manny Diaz, used to run Miami until he was fired in 2021. AP reports that Darian Mensah was sued by Duke in January over his transfer plans before the sides settled. That is a lot of history for one Saturday at Hard Rock Stadium.\n\nTo his credit, Mensah isn't pretending. “I try to just approach it like every other game,” he told AP. “Obviously, it's going to be a little bit weird playing my old team.” Diaz preached calm, saying “you can have emotions, but you can't play emotionally, right?” Mario Cristobal called Duke “an extremely well-balanced team, very talented team that's playing at a high level.” Duke center Matt Craycraft returned the favor: “They have a great defense. They have a really good front seven.”\n\nThat front seven gets the real test. AP lists Nate Sheppard at 1,189 rushing yards and 17 rushing touchdowns, and Miami has the nation's top rushing defense. Duke's defense is on its own heater. It hasn't allowed a touchdown in its last 182 snaps, spanning 32 possessions. Cooper Barkate, last year's top Duke receiver, followed Mensah south and caught two touchdowns at Notre Dame.\n\nInjuries have hit both rosters. Malachi Toney stays out after ankle surgery, and Joshua Moore and CharMar Brown are also out for Miami. Duke listed 13 players out on Thursday's ACC report, including four offensive linemen and kicker Cosme Salas. There's a title-game angle too: AP says Miami clinches a spot in the ACC title game today if it wins, Louisville loses and either Clemson or SMU loses. In Miami Gardens this is homecoming, a reunion and an audition all at once. The side that handles the weird best should be the side still singing at the end.\n\nMy call: Miami Hurricanes 35, Duke Blue Devils 20.",
     "market": {
      "score_line": "",
-     "spread": "Miami Hurricanes −13.5",
+     "spread": "Miami Hurricanes −14",
      "total": "54.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "Duke at Miami: Homecoming Gets Weird, and Everybody Is Admitting It",
     "fanatic_headline": "Duke at Miami: Homecoming Gets Weird, and Everybody Is Admitting It"
    },
-   "gambler_story": "Market check, Duke at Miami: DraftKings MIA -14, total 54.5.\n\nMiami's homecoming guest list reads like somebody made it up on a dare. The quarterback who led Duke to last year's ACC title now plays for the Hurricanes. Duke's head coach, Manny Diaz, used to run Miami until he was fired in 2021. AP reports that Darian Mensah was sued by Duke in January over his transfer plans before the sides settled. That is a lot of history for one Saturday at Hard Rock Stadium.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at MIA -14, total 54.5. The Cover Window's published pick is Miami -13.5 and Over 54.5. The market has edged to Miami -14 with the total unchanged at 54.5. That puts the card half a point better than the current price on the side. The card's projected final is Miami Hurricanes 35, Duke Blue Devils 21 (Total 56). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: Miami Saves (Nov. 12) and ACC Sports Journal's Thursday ACC-report rundown both list Toney, Moore and Brown out for Miami. Duke has 13 out, and QB Terry Walker III moved from questionable to out Thursday.\n\nTo his credit, Mensah isn't pretending. “I try to just approach it like every other game,” he told AP. “Obviously, it's going to be a little bit weird playing my old team.” Diaz preached calm, saying “you can have emotions, but you can't play emotionally, right?” Mario Cristobal called Duke “an extremely well-balanced team, very talented team that's playing at a high level.” Duke center Matt Craycraft returned the favor: “They have a great defense. They have a really good front seven.”\n\nThat front seven gets the real test. AP lists Nate Sheppard at 1,189 rushing yards and 17 rushing touchdowns, and Miami has the nation's top rushing defense. Duke's defense is on its own heater. It hasn't allowed a touchdown in its last 182 snaps, spanning 32 possessions. Cooper Barkate, last year's top Duke receiver, followed Mensah south and caught two touchdowns at Notre Dame.\n\nInjuries have hit both rosters. Malachi Toney stays out after ankle surgery, and Joshua Moore and CharMar Brown are also out for Miami. Duke listed 13 players out on Thursday's ACC report, including four offensive linemen and kicker Cosme Salas. There's a title-game angle too: AP says Miami clinches a spot in the ACC title game today if it wins, Louisville loses and either Clemson or SMU loses. In Miami Gardens this is homecoming, a reunion and an audition all at once. The side that handles the weird best should be the side still singing at the end.\n\nThe published card stays Miami Hurricanes −13.5 and Over 54.5 at the numbers it was written against. My final is Miami Hurricanes 35, Duke Blue Devils 21. Follow The Money's side and total are both pending.\n\nMiami Hurricanes 35, Duke Blue Devils 21. Miami Hurricanes cover the 13.5. Over 54.5.",
+   "gambler_story": "Market check, Duke at Miami, Nov. 14, 2026, 9:51 AM ET: DraftKings Miami −14, total 54.5.\n\nMiami's homecoming guest list reads like somebody made it up on a dare. The quarterback who led Duke to last year's ACC title now plays for the Hurricanes. Duke's head coach, Manny Diaz, used to run Miami until he was fired in 2021. AP reports that Darian Mensah was sued by Duke in January over his transfer plans before the sides settled. That is a lot of history for one Saturday at Hard Rock Stadium.\n\nThe number as of Nov. 14, 2026, 9:51 AM ET: ESPN lists DraftKings at Miami −14, total 54.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Miami −13.5 with a 54.5 total. Full preview at thecoverwindow.com.\n\nTo his credit, Mensah isn't pretending. “I try to just approach it like every other game,” he told AP. “Obviously, it's going to be a little bit weird playing my old team.” Diaz preached calm, saying “you can have emotions, but you can't play emotionally, right?” Mario Cristobal called Duke “an extremely well-balanced team, very talented team that's playing at a high level.” Duke center Matt Craycraft returned the favor: “They have a great defense. They have a really good front seven.”\n\nThat front seven gets the real test. AP lists Nate Sheppard at 1,189 rushing yards and 17 rushing touchdowns, and Miami has the nation's top rushing defense. Duke's defense is on its own heater. It hasn't allowed a touchdown in its last 182 snaps, spanning 32 possessions. Cooper Barkate, last year's top Duke receiver, followed Mensah south and caught two touchdowns at Notre Dame.\n\nInjuries have hit both rosters. Malachi Toney stays out after ankle surgery, and Joshua Moore and CharMar Brown are also out for Miami. Duke listed 13 players out on Thursday's ACC report, including four offensive linemen and kicker Cosme Salas. There's a title-game angle too: AP says Miami clinches a spot in the ACC title game today if it wins, Louisville loses and either Clemson or SMU loses. In Miami Gardens this is homecoming, a reunion and an audition all at once. The side that handles the weird best should be the side still singing at the end.\n\nThe desks at today's number. Follow The Money has no side pick and no total pick. The Formula: Miami 34, Duke 20, right on the number, so it keeps its Miami side. That makes it Miami −14 and Under 54.5. Next Man Up: Miami 38, Duke 20. That makes it Miami −14 and Over 54.5. Letdown Watch: Miami 32, Duke 21. That makes it Duke +14 and Under 54.5. In The Trenches has no pick: its run-game reads favour different teams.\n\nThe Cover Writer's card at today's number: Miami Hurricanes −14 and Over 54.5. My final is Miami Hurricanes 35, Duke Blue Devils 20. Monday's 35-21 landed right on today's 14, so I moved Duke down a point instead of moving off Miami. The Formula has Miami 34-20 and Next Man Up has Miami 38-20, and Duke listed 13 players out Thursday, including four offensive linemen. Fourteen is a lot of points. Four missing linemen is a lot of missing linemen.\n\nMiami Hurricanes 35, Duke Blue Devils 20. Miami Hurricanes cover the 14. Over 54.5.",
    "videos": [
     {
      "youtube_id": "EzW4fDIyMB0",
@@ -3861,8 +3863,8 @@
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: NC State Wolfpack +3 · Likes this side",
-      "ou_line": "O/U: Over 54.5 · Likes this total",
+      "side_line": "Side: NC State Wolfpack +3",
+      "ou_line": "O/U: Over 54.5",
       "score_line": "Projected: NC State Wolfpack 31, Syracuse Orange 28 (Total 59)",
       "basis_line": "With the players available: projected points Syracuse Orange 27.7, NC State Wolfpack 30.8.",
       "independent": true,
@@ -3872,7 +3874,7 @@
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: NC State Wolfpack +3 · Likes this side",
+      "side_line": "Side: NC State Wolfpack +3",
       "ou_line": "O/U: Under 54.5",
       "score_line": "Projected: NC State Wolfpack 30, Syracuse Orange 24 (Total 54)",
       "basis_line": "Rest and travel read: projected points Syracuse Orange 24.1, NC State Wolfpack 30.3.",
@@ -3883,10 +3885,10 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: Over 54.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened NC State Wolfpack +3 (Nov 11, 11:05 AM ET) and is +2.5 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 53.5 (Nov 10, 10:53 AM ET) and is 54.5 now, a 1-point move: Over. The total pick quotes the consensus total now (54.5). Lines are the Action Network consensus as of Nov 14, 9:51 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -3894,7 +3896,7 @@
      {
       "name": "In The Trenches",
       "side_line": "Side: NC State Wolfpack +3 · Likes this side",
-      "ou_line": "O/U: this card reads sides only",
+      "ou_line": "O/U: no pick",
       "score_line": "Projected: NC State Wolfpack 27, Syracuse Orange 24 (Total 51)",
       "basis_line": "This read points to a side only. Syracuse Orange 3.8 ypc vs NC State Wolfpack allowing 4.6; NC State Wolfpack 4.1 ypc vs Syracuse Orange allowing 4.0 (2026 season). Syracuse Orange run game 0.8 ypc below what the opponent allows, which favours NC State Wolfpack. Side: NC State Wolfpack +3.",
       "independent": true,
@@ -3903,13 +3905,13 @@
       "landed_on_number": []
      }
     ],
-    "story_text": "Market check, Syracuse at NC State: DraftKings SYR -3, total 53.5.\n\nRaleigh woke up Friday to a new head football coach, and it's a name already hanging in the Ring of Honor at Carter-Finley. NC State announced that Philip Rivers, the ACC's all-time leading passer and the owner of that retired No. 17, signed a five-year deal. “In many ways, I feel like I'm coming home,” Rivers said. “There's no denying that this is going to take hard work, but we're not scared of hard.”\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at SYR -3, total 53.5. The Cover Window's published pick is NC State +3 and Under 54.5. The current price is Syracuse -3 with a total of 53.5, so the side matches the card and the total sits a point lower than the published number. The card's projected final is NC State Wolfpack 28, Syracuse Orange 26 (Total 54). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: no official ACC list was captured for this game. 247Sports (this week) reports NC State without at least 12 players, including key defenders, and Syracuse dealing with injuries up front.\n\nRivers doesn't coach this one. Interim coach Todd Goebbel does, and it's Senior Day. David Glenn of North Carolina Sports Network singles out two Wolfpack lifers among the honorees: nickel back Jackson Vick and kicker Kanoah Vinesett, both in their fifth year in Raleigh. Rivers gets introduced Monday. Saturday is still for the players who stuck around.\n\nSyracuse coach Fran Brown sounds happy to walk into the noise. “I can't wait to go down and play against NC State in the great atmosphere that they have down there,” he said. He's counting on Tunmise Adeleye and Keyshawn Johnson off the outside, who have 13 sacks between them, and he said Adeleye has made a huge case for himself to go high in the NFL Draft. CJ Bailey drew Brown's attention as a threat to run it and throw it.\n\nBoth teams are 4-5, and Syracuse has won the last two meetings. 247Sports' Terrence McCallen notes that seven of the Orange's nine games have been decided by eight points or fewer. The Wolfpack will be without at least 12 players, per 247's Michael Clark, and Syracuse is banged up up front. Carter-Finley has plenty to holler about Saturday: goodbyes, a fresh start and a bowl race still breathing. Old No. 17 would want the seniors to take it.\n\nThe published card stays NC State Wolfpack +3 and Under 54.5 at the numbers it was written against. My final is NC State Wolfpack 28, Syracuse Orange 26. Follow The Money's side and total are both pending.\n\nNC State Wolfpack 28, Syracuse Orange 26. NC State Wolfpack cover the 3. Under 54.5.",
+    "story_text": "Market check, Syracuse at NC State, Nov. 14, 2026, 9:51 AM ET: DraftKings Syracuse −3, total 54.5.\n\nRaleigh woke up Friday to a new head football coach, and it's a name already hanging in the Ring of Honor at Carter-Finley. NC State announced that Philip Rivers, the ACC's all-time leading passer and the owner of that retired No. 17, signed a five-year deal. “In many ways, I feel like I'm coming home,” Rivers said. “There's no denying that this is going to take hard work, but we're not scared of hard.”\n\nThe number as of Nov. 14, 2026, 9:51 AM ET: ESPN lists DraftKings at Syracuse −3, total 54.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had NC State +3 with a 54.5 total. Full preview at thecoverwindow.com.\n\nInjuries: no official ACC list was captured for this game. 247Sports (this week) reports NC State without at least 12 players, including key defenders, and Syracuse dealing with injuries up front.\n\nRivers doesn't coach this one. Interim coach Todd Goebbel does, and it's Senior Day. David Glenn of North Carolina Sports Network singles out two Wolfpack lifers among the honorees: nickel back Jackson Vick and kicker Kanoah Vinesett, both in their fifth year in Raleigh. Rivers gets introduced Monday. Saturday is still for the players who stuck around.\n\nSyracuse coach Fran Brown sounds happy to walk into the noise. “I can't wait to go down and play against NC State in the great atmosphere that they have down there,” he said. He's counting on Tunmise Adeleye and Keyshawn Johnson off the outside, who have 13 sacks between them, and he said Adeleye has made a huge case for himself to go high in the NFL Draft. CJ Bailey drew Brown's attention as a threat to run it and throw it.\n\nBoth teams are 4-5, and Syracuse has won the last two meetings. 247Sports' Terrence McCallen notes that seven of the Orange's nine games have been decided by eight points or fewer. The Wolfpack will be without at least 12 players, per 247's Michael Clark, and Syracuse is banged up up front. Carter-Finley has plenty to holler about Saturday: goodbyes, a fresh start and a bowl race still breathing. Old No. 17 would want the seniors to take it.\n\nThe desks at today's number. Follow The Money has no side pick and likes the Over 54.5. The Formula: NC State 27, Syracuse 27. That makes it NC State +3 and Under 54.5. Next Man Up: NC State 31, Syracuse 28. That makes it NC State +3 and Over 54.5. Letdown Watch: NC State 30, Syracuse 24. That makes it NC State +3 and Under 54.5. In The Trenches: NC State 27, Syracuse 24, and it stays with NC State +3 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: NC State Wolfpack +3 and Under 54.5. My final is NC State Wolfpack 28, Syracuse Orange 26. Same spread as Monday, same total, same pick. The market looked at this one all week and decided to leave it alone. I respect that. It's how I handle most of my problems.\n\nNC State Wolfpack 28, Syracuse Orange 26. NC State Wolfpack cover the 3. Under 54.5.",
     "fanatic_score_line": "Projected: NC State Wolfpack 28, Syracuse Orange 26",
     "line_used": {
      "home_line": "NC State Wolfpack +3",
      "total": "54.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T14:51Z"
     },
     "injuries": {
      "away": [],
@@ -3931,13 +3933,13 @@
      "score_line": "",
      "spread": "Syracuse Orange −3",
      "total": "54.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "Syracuse at NC State: Rivers Is Hired, and the Seniors Still Have a Game to Play",
     "fanatic_headline": "Syracuse at NC State: Rivers Is Hired, and the Seniors Still Have a Game to Play"
    },
-   "gambler_story": "Market check, Syracuse at NC State: DraftKings SYR -3, total 53.5.\n\nRaleigh woke up Friday to a new head football coach, and it's a name already hanging in the Ring of Honor at Carter-Finley. NC State announced that Philip Rivers, the ACC's all-time leading passer and the owner of that retired No. 17, signed a five-year deal. “In many ways, I feel like I'm coming home,” Rivers said. “There's no denying that this is going to take hard work, but we're not scared of hard.”\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at SYR -3, total 53.5. The Cover Window's published pick is NC State +3 and Under 54.5. The current price is Syracuse -3 with a total of 53.5, so the side matches the card and the total sits a point lower than the published number. The card's projected final is NC State Wolfpack 28, Syracuse Orange 26 (Total 54). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: no official ACC list was captured for this game. 247Sports (this week) reports NC State without at least 12 players, including key defenders, and Syracuse dealing with injuries up front.\n\nRivers doesn't coach this one. Interim coach Todd Goebbel does, and it's Senior Day. David Glenn of North Carolina Sports Network singles out two Wolfpack lifers among the honorees: nickel back Jackson Vick and kicker Kanoah Vinesett, both in their fifth year in Raleigh. Rivers gets introduced Monday. Saturday is still for the players who stuck around.\n\nSyracuse coach Fran Brown sounds happy to walk into the noise. “I can't wait to go down and play against NC State in the great atmosphere that they have down there,” he said. He's counting on Tunmise Adeleye and Keyshawn Johnson off the outside, who have 13 sacks between them, and he said Adeleye has made a huge case for himself to go high in the NFL Draft. CJ Bailey drew Brown's attention as a threat to run it and throw it.\n\nBoth teams are 4-5, and Syracuse has won the last two meetings. 247Sports' Terrence McCallen notes that seven of the Orange's nine games have been decided by eight points or fewer. The Wolfpack will be without at least 12 players, per 247's Michael Clark, and Syracuse is banged up up front. Carter-Finley has plenty to holler about Saturday: goodbyes, a fresh start and a bowl race still breathing. Old No. 17 would want the seniors to take it.\n\nThe published card stays NC State Wolfpack +3 and Under 54.5 at the numbers it was written against. My final is NC State Wolfpack 28, Syracuse Orange 26. Follow The Money's side and total are both pending.\n\nNC State Wolfpack 28, Syracuse Orange 26. NC State Wolfpack cover the 3. Under 54.5.",
+   "gambler_story": "Market check, Syracuse at NC State, Nov. 14, 2026, 9:51 AM ET: DraftKings Syracuse −3, total 54.5.\n\nRaleigh woke up Friday to a new head football coach, and it's a name already hanging in the Ring of Honor at Carter-Finley. NC State announced that Philip Rivers, the ACC's all-time leading passer and the owner of that retired No. 17, signed a five-year deal. “In many ways, I feel like I'm coming home,” Rivers said. “There's no denying that this is going to take hard work, but we're not scared of hard.”\n\nThe number as of Nov. 14, 2026, 9:51 AM ET: ESPN lists DraftKings at Syracuse −3, total 54.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had NC State +3 with a 54.5 total. Full preview at thecoverwindow.com.\n\nInjuries: no official ACC list was captured for this game. 247Sports (this week) reports NC State without at least 12 players, including key defenders, and Syracuse dealing with injuries up front.\n\nRivers doesn't coach this one. Interim coach Todd Goebbel does, and it's Senior Day. David Glenn of North Carolina Sports Network singles out two Wolfpack lifers among the honorees: nickel back Jackson Vick and kicker Kanoah Vinesett, both in their fifth year in Raleigh. Rivers gets introduced Monday. Saturday is still for the players who stuck around.\n\nSyracuse coach Fran Brown sounds happy to walk into the noise. “I can't wait to go down and play against NC State in the great atmosphere that they have down there,” he said. He's counting on Tunmise Adeleye and Keyshawn Johnson off the outside, who have 13 sacks between them, and he said Adeleye has made a huge case for himself to go high in the NFL Draft. CJ Bailey drew Brown's attention as a threat to run it and throw it.\n\nBoth teams are 4-5, and Syracuse has won the last two meetings. 247Sports' Terrence McCallen notes that seven of the Orange's nine games have been decided by eight points or fewer. The Wolfpack will be without at least 12 players, per 247's Michael Clark, and Syracuse is banged up up front. Carter-Finley has plenty to holler about Saturday: goodbyes, a fresh start and a bowl race still breathing. Old No. 17 would want the seniors to take it.\n\nThe desks at today's number. Follow The Money has no side pick and likes the Over 54.5. The Formula: NC State 27, Syracuse 27. That makes it NC State +3 and Under 54.5. Next Man Up: NC State 31, Syracuse 28. That makes it NC State +3 and Over 54.5. Letdown Watch: NC State 30, Syracuse 24. That makes it NC State +3 and Under 54.5. In The Trenches: NC State 27, Syracuse 24, and it stays with NC State +3 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: NC State Wolfpack +3 and Under 54.5. My final is NC State Wolfpack 28, Syracuse Orange 26. Same spread as Monday, same total, same pick. The market looked at this one all week and decided to leave it alone. I respect that. It's how I handle most of my problems.\n\nNC State Wolfpack 28, Syracuse Orange 26. NC State Wolfpack cover the 3. Under 54.5.",
    "videos": [
     {
      "youtube_id": "Lk5yD5-ZFE4",
@@ -4032,13 +4034,13 @@
     "wake-forest",
     "smu"
    ],
-   "spread": "Wake Forest Demon Deacons −1.5",
-   "total_line": 61.5,
+   "spread": "SMU Mustangs −1.5",
+   "total_line": 60.5,
    "prediction": {
     "away_score": 30,
     "home_score": 28,
     "winner": "Wake Forest Demon Deacons",
-    "covers": "Wake Forest Demon Deacons −1.5"
+    "covers": "Wake Forest Demon Deacons +1.5"
    },
    "total_pick": "Under",
    "status_at_build": {
@@ -4047,58 +4049,58 @@
    "display": {
     "writer": {
      "score_line": "Projected: Wake Forest Demon Deacons 30, SMU Mustangs 28 (Total 58)",
-     "side": "Wake Forest Demon Deacons −1.5",
-     "ou": "Under 61.5",
+     "side": "Wake Forest Demon Deacons +1.5",
+     "ou": "Under 60.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Wake Forest Demon Deacons −1.5",
-      "ou_line": "O/U: Under 61.5 · Likes this total",
+      "side_line": "Side: Wake Forest Demon Deacons +1.5",
+      "ou_line": "O/U: Under 60.5",
       "score_line": "Projected: Wake Forest Demon Deacons 30, SMU Mustangs 27 (Total 57)",
       "basis_line": "Net ratings Wake Forest Demon Deacons 18.0, SMU Mustangs 11.9 (ESPN Football Power Index, Nov 9, 2026)",
+      "independent": true,
+      "distance_from_spread": 4.5,
+      "distance_from_total": 3.5,
+      "landed_on_number": []
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: Wake Forest Demon Deacons +1.5",
+      "ou_line": "O/U: Over 60.5",
+      "score_line": "Projected: Wake Forest Demon Deacons 32, SMU Mustangs 29 (Total 61)",
+      "basis_line": "With the players available: projected points Wake Forest Demon Deacons 32.4, SMU Mustangs 28.8.",
+      "independent": true,
+      "distance_from_spread": 4.5,
+      "distance_from_total": 0.5,
+      "landed_on_number": []
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: Wake Forest Demon Deacons +1.5",
+      "ou_line": "O/U: Under 60.5",
+      "score_line": "Projected: SMU Mustangs 28, Wake Forest Demon Deacons 28 (Total 56)",
+      "basis_line": "Rest and travel read: projected points Wake Forest Demon Deacons 27.9, SMU Mustangs 28.1.",
       "independent": true,
       "distance_from_spread": 1.5,
       "distance_from_total": 4.5,
       "landed_on_number": []
      },
      {
-      "name": "Next Man Up",
-      "side_line": "Side: Wake Forest Demon Deacons −1.5",
-      "ou_line": "O/U: Under 61.5",
-      "score_line": "Projected: Wake Forest Demon Deacons 32, SMU Mustangs 29 (Total 61)",
-      "basis_line": "With the players available: projected points Wake Forest Demon Deacons 32.4, SMU Mustangs 28.8.",
-      "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 0.5,
-      "landed_on_number": []
-     },
-     {
-      "name": "Letdown Watch",
-      "side_line": "Side: SMU Mustangs +1.5",
-      "ou_line": "O/U: Under 61.5 · Likes this total",
-      "score_line": "Projected: SMU Mustangs 28, Wake Forest Demon Deacons 28 (Total 56)",
-      "basis_line": "Rest and travel read: projected points Wake Forest Demon Deacons 27.9, SMU Mustangs 28.1.",
-      "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 5.5,
-      "landed_on_number": []
-     },
-     {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: Under 60.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened SMU Mustangs −1 (Nov 10, 8:08 AM ET) and is −1.5 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 61.5 (Nov 9, 11:39 PM ET) and is 60.5 now, a 1-point move: Under. The total pick quotes the consensus total now (60.5). Lines are the Action Network consensus as of Nov 14, 9:51 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: the trench reads split, so no side",
-      "ou_line": "O/U: this card reads sides only",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week.",
       "basis_line": "Wake Forest Demon Deacons 4.9 ypc vs SMU Mustangs allowing 3.9; SMU Mustangs 4.4 ypc vs Wake Forest Demon Deacons allowing 2.7 (2026 season). The run-game reads favour different teams. In The Trenches has no pick.",
       "independent": false,
@@ -4106,13 +4108,13 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "Market check, Wake Forest at SMU: DraftKings SMU -1.5, total 60.5.\n\nDallas is giving Kevin Jennings a send-off, and the local kid brings a home record you'd swear somebody made up: 16-1 as a starter at Gerald J. Ford Stadium. One Week 11 preview notes that Saturday is Senior Day for the fifth-year quarterback. He has already led the Mustangs to a conference title, an ACC Championship Game and a College Football Playoff berth.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at SMU -1.5, total 60.5. The Cover Window's published pick is Wake Forest -1.5 and Under 61.5. The market has since flipped to SMU -1.5 with a total of 60.5, so the Deacons are now getting points and the published Under sits a point above the current total. The card's projected final is Wake Forest Demon Deacons 30, SMU Mustangs 28 (Total 58). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: on Monday Dickert said Lopez would be ready. Roundtable's preview lists Polley out for the season for SMU, notes Singleton has missed time, and says the latest ACC report governs the rest.\n\nSMU also has a score to settle. The same preview recalls that last October in Winston-Salem, the Mustangs lost 13-12 on a last-second field goal, a loss that kept them out of the ACC title game. Now 8-1 Wake Forest is on pace for a rematch with Miami in the ACC title game, according to CBS Sports. The Deacons have outscored six straight opponents 294-58 since losing to Miami in September, per SI.\n\nThe headline at quarterback is Gio Lopez, who missed the Merrimack game with a leg injury. “He'll be ready to go Saturday,” coach Jake Dickert said Monday. If anything goes wrong, Steele Pizzella produced 495 combined passing and rushing yards in one half against Merrimack. Jennings arrives fresh off 350 yards and four touchdowns against Virginia Tech, three of them to Yamir Knight.\n\nSMU's worries are on defense. Safety Tyren Polley Jr. is out for the season with a pectoral injury, and end Ira Singleton IV has missed significant time, per Roundtable. ESPN's data capsule says Wake Forest is last in FBS in penalty yards per game. That is one more reason to keep your eyes on the flags. A senior's last home game, a one-point grudge from a year ago and a spot in the ACC race on the table: the Ford Stadium crowd will not need a reminder to stand up.\n\nThe published card stays Wake Forest Demon Deacons −1.5 and Under 61.5 at the numbers it was written against. My final is Wake Forest Demon Deacons 30, SMU Mustangs 28. Follow The Money's side and total are both pending.\n\nWake Forest Demon Deacons 30, SMU Mustangs 28. Wake Forest Demon Deacons cover the 1.5. Under 61.5.",
+    "story_text": "Market check, Wake Forest at SMU, Nov. 14, 2026, 9:51 AM ET: DraftKings SMU −1.5, total 60.5.\n\nDallas is giving Kevin Jennings a send-off, and the local kid brings a home record you'd swear somebody made up: 16-1 as a starter at Gerald J. Ford Stadium. One Week 11 preview notes that Saturday is Senior Day for the fifth-year quarterback. He has already led the Mustangs to a conference title, an ACC Championship Game and a College Football Playoff berth.\n\nThe number as of Nov. 14, 2026, 9:51 AM ET: ESPN lists DraftKings at SMU −1.5, total 60.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Wake Forest −1.5 with a 61.5 total. Full preview at thecoverwindow.com.\n\nInjuries: on Monday Dickert said Lopez would be ready. Roundtable's preview lists Polley out for the season for SMU, notes Singleton has missed time, and says the latest ACC report governs the rest.\n\nSMU also has a score to settle. The same preview recalls that last October in Winston-Salem, the Mustangs lost 13-12 on a last-second field goal, a loss that kept them out of the ACC title game. Now 8-1 Wake Forest is on pace for a rematch with Miami in the ACC title game, according to CBS Sports. The Deacons have outscored six straight opponents 294-58 since losing to Miami in September, per SI.\n\nThe headline at quarterback is Gio Lopez, who missed the Merrimack game with a leg injury. “He'll be ready to go Saturday,” coach Jake Dickert said Monday. If anything goes wrong, Steele Pizzella produced 495 combined passing and rushing yards in one half against Merrimack. Jennings arrives fresh off 350 yards and four touchdowns against Virginia Tech, three of them to Yamir Knight.\n\nSMU's worries are on defense. Safety Tyren Polley Jr. is out for the season with a pectoral injury, and end Ira Singleton IV has missed significant time, per Roundtable. ESPN's data capsule says Wake Forest is last in FBS in penalty yards per game. That is one more reason to keep your eyes on the flags. A senior's last home game, a one-point grudge from a year ago and a spot in the ACC race on the table: the Ford Stadium crowd will not need a reminder to stand up.\n\nThe desks at today's number. Follow The Money has no side pick and likes the Under 60.5. The Formula: Wake Forest 30, SMU 27. That makes it Wake Forest +1.5 and Under 60.5. Next Man Up: Wake Forest 32, SMU 29. That makes it Wake Forest +1.5 and Over 60.5. Letdown Watch: SMU 28, Wake Forest 28. That makes it Wake Forest +1.5 and Under 60.5. In The Trenches has no pick: its run-game reads favour different teams.\n\nThe Cover Writer's card at today's number: Wake Forest Demon Deacons +1.5 and Under 60.5. My final is Wake Forest Demon Deacons 30, SMU Mustangs 28. The books flipped the favorite and now hand the Deacons a point and a half. I had Wake winning on Monday, and I still have Wake winning. Getting points with the team you think wins is like getting change back from a vending machine you already kicked.\n\nWake Forest Demon Deacons 30, SMU Mustangs 28. Wake Forest Demon Deacons cover the 1.5. Under 60.5.",
     "fanatic_score_line": "Projected: Wake Forest Demon Deacons 30, SMU Mustangs 28",
     "line_used": {
-     "home_line": "SMU Mustangs +1.5",
-     "total": "61.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "home_line": "SMU Mustangs −1.5",
+     "total": "60.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T14:51Z"
     },
     "injuries": {
      "away": [],
@@ -4132,15 +4134,15 @@
     "fanatic_story": "Dallas is giving Kevin Jennings a send-off, and the local kid brings a home record you'd swear somebody made up: 16-1 as a starter at Gerald J. Ford Stadium. One Week 11 preview notes that Saturday is Senior Day for the fifth-year quarterback. He has already led the Mustangs to a conference title, an ACC Championship Game and a College Football Playoff berth.\n\nSMU also has a score to settle. The same preview recalls that last October in Winston-Salem, the Mustangs lost 13-12 on a last-second field goal, a loss that kept them out of the ACC title game. Now 8-1 Wake Forest is on pace for a rematch with Miami in the ACC title game, according to CBS Sports. The Deacons have outscored six straight opponents 294-58 since losing to Miami in September, per SI.\n\nThe headline at quarterback is Gio Lopez, who missed the Merrimack game with a leg injury. “He'll be ready to go Saturday,” coach Jake Dickert said Monday. If anything goes wrong, Steele Pizzella produced 495 combined passing and rushing yards in one half against Merrimack. Jennings arrives fresh off 350 yards and four touchdowns against Virginia Tech, three of them to Yamir Knight.\n\nSMU's worries are on defense. Safety Tyren Polley Jr. is out for the season with a pectoral injury, and end Ira Singleton IV has missed significant time, per Roundtable. ESPN's data capsule says Wake Forest is last in FBS in penalty yards per game. That is one more reason to keep your eyes on the flags. A senior's last home game, a one-point grudge from a year ago and a spot in the ACC race on the table: the Ford Stadium crowd will not need a reminder to stand up.\n\nMy call: Wake Forest Demon Deacons 30, SMU Mustangs 28.",
     "market": {
      "score_line": "",
-     "spread": "Wake Forest Demon Deacons −1.5",
-     "total": "61.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "spread": "SMU Mustangs −1.5",
+     "total": "60.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "Wake Forest at SMU: Kevin Jennings Gets One Last Walk Through Ford Stadium",
     "fanatic_headline": "Wake Forest at SMU: Kevin Jennings Gets One Last Walk Through Ford Stadium"
    },
-   "gambler_story": "Market check, Wake Forest at SMU: DraftKings SMU -1.5, total 60.5.\n\nDallas is giving Kevin Jennings a send-off, and the local kid brings a home record you'd swear somebody made up: 16-1 as a starter at Gerald J. Ford Stadium. One Week 11 preview notes that Saturday is Senior Day for the fifth-year quarterback. He has already led the Mustangs to a conference title, an ACC Championship Game and a College Football Playoff berth.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at SMU -1.5, total 60.5. The Cover Window's published pick is Wake Forest -1.5 and Under 61.5. The market has since flipped to SMU -1.5 with a total of 60.5, so the Deacons are now getting points and the published Under sits a point above the current total. The card's projected final is Wake Forest Demon Deacons 30, SMU Mustangs 28 (Total 58). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: on Monday Dickert said Lopez would be ready. Roundtable's preview lists Polley out for the season for SMU, notes Singleton has missed time, and says the latest ACC report governs the rest.\n\nSMU also has a score to settle. The same preview recalls that last October in Winston-Salem, the Mustangs lost 13-12 on a last-second field goal, a loss that kept them out of the ACC title game. Now 8-1 Wake Forest is on pace for a rematch with Miami in the ACC title game, according to CBS Sports. The Deacons have outscored six straight opponents 294-58 since losing to Miami in September, per SI.\n\nThe headline at quarterback is Gio Lopez, who missed the Merrimack game with a leg injury. “He'll be ready to go Saturday,” coach Jake Dickert said Monday. If anything goes wrong, Steele Pizzella produced 495 combined passing and rushing yards in one half against Merrimack. Jennings arrives fresh off 350 yards and four touchdowns against Virginia Tech, three of them to Yamir Knight.\n\nSMU's worries are on defense. Safety Tyren Polley Jr. is out for the season with a pectoral injury, and end Ira Singleton IV has missed significant time, per Roundtable. ESPN's data capsule says Wake Forest is last in FBS in penalty yards per game. That is one more reason to keep your eyes on the flags. A senior's last home game, a one-point grudge from a year ago and a spot in the ACC race on the table: the Ford Stadium crowd will not need a reminder to stand up.\n\nThe published card stays Wake Forest Demon Deacons −1.5 and Under 61.5 at the numbers it was written against. My final is Wake Forest Demon Deacons 30, SMU Mustangs 28. Follow The Money's side and total are both pending.\n\nWake Forest Demon Deacons 30, SMU Mustangs 28. Wake Forest Demon Deacons cover the 1.5. Under 61.5.",
+   "gambler_story": "Market check, Wake Forest at SMU, Nov. 14, 2026, 9:51 AM ET: DraftKings SMU −1.5, total 60.5.\n\nDallas is giving Kevin Jennings a send-off, and the local kid brings a home record you'd swear somebody made up: 16-1 as a starter at Gerald J. Ford Stadium. One Week 11 preview notes that Saturday is Senior Day for the fifth-year quarterback. He has already led the Mustangs to a conference title, an ACC Championship Game and a College Football Playoff berth.\n\nThe number as of Nov. 14, 2026, 9:51 AM ET: ESPN lists DraftKings at SMU −1.5, total 60.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Wake Forest −1.5 with a 61.5 total. Full preview at thecoverwindow.com.\n\nInjuries: on Monday Dickert said Lopez would be ready. Roundtable's preview lists Polley out for the season for SMU, notes Singleton has missed time, and says the latest ACC report governs the rest.\n\nSMU also has a score to settle. The same preview recalls that last October in Winston-Salem, the Mustangs lost 13-12 on a last-second field goal, a loss that kept them out of the ACC title game. Now 8-1 Wake Forest is on pace for a rematch with Miami in the ACC title game, according to CBS Sports. The Deacons have outscored six straight opponents 294-58 since losing to Miami in September, per SI.\n\nThe headline at quarterback is Gio Lopez, who missed the Merrimack game with a leg injury. “He'll be ready to go Saturday,” coach Jake Dickert said Monday. If anything goes wrong, Steele Pizzella produced 495 combined passing and rushing yards in one half against Merrimack. Jennings arrives fresh off 350 yards and four touchdowns against Virginia Tech, three of them to Yamir Knight.\n\nSMU's worries are on defense. Safety Tyren Polley Jr. is out for the season with a pectoral injury, and end Ira Singleton IV has missed significant time, per Roundtable. ESPN's data capsule says Wake Forest is last in FBS in penalty yards per game. That is one more reason to keep your eyes on the flags. A senior's last home game, a one-point grudge from a year ago and a spot in the ACC race on the table: the Ford Stadium crowd will not need a reminder to stand up.\n\nThe desks at today's number. Follow The Money has no side pick and likes the Under 60.5. The Formula: Wake Forest 30, SMU 27. That makes it Wake Forest +1.5 and Under 60.5. Next Man Up: Wake Forest 32, SMU 29. That makes it Wake Forest +1.5 and Over 60.5. Letdown Watch: SMU 28, Wake Forest 28. That makes it Wake Forest +1.5 and Under 60.5. In The Trenches has no pick: its run-game reads favour different teams.\n\nThe Cover Writer's card at today's number: Wake Forest Demon Deacons +1.5 and Under 60.5. My final is Wake Forest Demon Deacons 30, SMU Mustangs 28. The books flipped the favorite and now hand the Deacons a point and a half. I had Wake winning on Monday, and I still have Wake winning. Getting points with the team you think wins is like getting change back from a vending machine you already kicked.\n\nWake Forest Demon Deacons 30, SMU Mustangs 28. Wake Forest Demon Deacons cover the 1.5. Under 60.5.",
    "videos": [
     {
      "youtube_id": "I5HoGFENiNo",
@@ -4221,7 +4223,7 @@
     "maryland"
    ],
    "spread": "Wisconsin Badgers −8.5",
-   "total_line": 43.5,
+   "total_line": 41.5,
    "prediction": {
     "away_score": 27,
     "home_score": 20,
@@ -4236,49 +4238,49 @@
     "writer": {
      "score_line": "Projected: Wisconsin Badgers 27, Maryland Terrapins 20 (Total 47)",
      "side": "Maryland Terrapins +8.5",
-     "ou": "Over 43.5",
+     "ou": "Over 41.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
       "side_line": "Side: Maryland Terrapins +8.5",
-      "ou_line": "O/U: Over 43.5 · Likes this total",
+      "ou_line": "O/U: Over 41.5",
       "score_line": "Projected: Wisconsin Badgers 29, Maryland Terrapins 21 (Total 50)",
       "basis_line": "Net ratings Wisconsin Badgers 9.2, Maryland Terrapins −3.3 (ESPN Football Power Index, Nov 9, 2026)",
       "independent": true,
       "distance_from_spread": 0.5,
-      "distance_from_total": 6.5,
+      "distance_from_total": 8.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: Maryland Terrapins +8.5",
-      "ou_line": "O/U: Under 43.5",
+      "ou_line": "O/U: Over 41.5",
       "score_line": "Projected: Wisconsin Badgers 25, Maryland Terrapins 18 (Total 43)",
       "basis_line": "With the players available: projected points Wisconsin Badgers 24.7, Maryland Terrapins 17.7.",
       "independent": true,
       "distance_from_spread": 1.5,
-      "distance_from_total": 0.5,
+      "distance_from_total": 1.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Wisconsin Badgers −8.5 · Likes this side",
-      "ou_line": "O/U: Over 43.5 · Likes this total",
+      "side_line": "Side: Wisconsin Badgers −8.5",
+      "ou_line": "O/U: Over 41.5",
       "score_line": "Projected: Wisconsin Badgers 29, Maryland Terrapins 17 (Total 46)",
       "basis_line": "Rest and travel read: projected points Wisconsin Badgers 28.9, Maryland Terrapins 17.5.",
       "independent": true,
       "distance_from_spread": 3.5,
-      "distance_from_total": 2.5,
+      "distance_from_total": 4.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: Under 41.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Maryland Terrapins +8.5 (Nov 10, 3:01 PM ET) and is +9 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 43.5 (Nov 10, 1:44 AM ET) and is 41.5 now, a 2-point move: Under. The total pick quotes the consensus total now (41.5). Lines are the Action Network consensus as of Nov 14, 9:51 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -4286,22 +4288,22 @@
      {
       "name": "In The Trenches",
       "side_line": "Side: Maryland Terrapins +8.5 · Likes this side",
-      "ou_line": "O/U: this card reads sides only",
+      "ou_line": "O/U: no pick",
       "score_line": "Projected: Maryland Terrapins 24, Wisconsin Badgers 24 (Total 48)",
       "basis_line": "This read points to a side only. Wisconsin Badgers 4.2 ypc vs Maryland Terrapins allowing 4.0; Maryland Terrapins 4.5 ypc vs Wisconsin Badgers allowing 2.8 (2026 season). Maryland Terrapins run game 1.6 ypc above what the opponent allows, which favours Maryland Terrapins. Side: Maryland Terrapins +8.5.",
       "independent": true,
       "distance_from_spread": 8.5,
-      "distance_from_total": 4.5,
+      "distance_from_total": 6.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "Market check, Wisconsin at Maryland: DraftKings WIS -8.5, total 42.5.\n\nMaryland just got its first Big Ten win since September 2025, per Testudo Times, and the Terps would love to follow it with another at SECU Stadium. They snapped a six-game losing run last week at Purdue after trailing by nine, their biggest come-from-behind road win since 2015, per On3's Badger Blitz. Testudo Times adds a twist: the Badgers are the team Maryland beat 14 games ago, before the long losing run began. That game ended 27-10 a year ago, per Badger Blitz.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at WIS -8.5, total 42.5. The Cover Window's published pick is Maryland +8.5 and Over 43.5. The market is still Wisconsin -8.5, and the total has slipped to 42.5, so the side matches the card and the Over is now a point higher than the current total. The card's projected final is Wisconsin Badgers 27, Maryland Terrapins 20 (Total 47). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: there was no Big Ten report detail to quote for this game in our check. A 247Sports panelist (this week) says the Badgers are without tackle Kevin Heywood. Check the Big Ten's final 10 a.m. ET availability update.\n\nThese programs went in opposite directions after that game. Testudo Times reports Mike Locksley eventually left Maryland, and the Terps are playing for an interim staff. Meanwhile, Luke Fickell's Badgers are 6-3 and bowl eligible with a quarter of the season left. SI's Maryland site reports that Abdul-Rahim, studying film, praised Wisconsin freshman Ryan Hopkins for his poise and clean reads.\n\nHopkins earned all that praise in one afternoon. In his first career start against Rutgers he went 18-of-24 for 241 yards and three touchdowns and was named Big Ten Freshman of the Week. Behind him is a defense with Sebastian Cheeks (seven sacks) and Cooper Catalano, whose 90 tackles lead the Big Ten. Maryland counters with Malik Washington, fifth in the Big Ten with 2,058 passing yards, and a team that, per Badger Blitz, throws more than all but eight teams in the country.\n\nA 247Sports panelist says Wisconsin is without its top tackle, Kevin Heywood. The same piece calls the Badgers' linebacker trio of Mason Posa, Cheeks and Catalano the biggest problem for Maryland's protection. It's an early kick for a team that traveled a time zone east, and a home crowd that has waited a long time for back-to-back good news. College Park can make some noise at noon. The Terps just have to give it a reason in the first quarter.\n\nThe published card stays Maryland Terrapins +8.5 and Over 43.5 at the numbers it was written against. My final is Wisconsin Badgers 27, Maryland Terrapins 20. Follow The Money's side and total are both pending.\n\nWisconsin Badgers 27, Maryland Terrapins 20. Maryland Terrapins cover the 8.5. Over 43.5.",
+    "story_text": "Market check, Wisconsin at Maryland, Nov. 14, 2026, 9:51 AM ET: DraftKings Wisconsin −8.5, total 41.5.\n\nMaryland just got its first Big Ten win since September 2025, per Testudo Times, and the Terps would love to follow it with another at SECU Stadium. They snapped a six-game losing run last week at Purdue after trailing by nine, their biggest come-from-behind road win since 2015, per On3's Badger Blitz. Testudo Times adds a twist: the Badgers are the team Maryland beat 14 games ago, before the long losing run began. That game ended 27-10 a year ago, per Badger Blitz.\n\nThe number as of Nov. 14, 2026, 9:51 AM ET: ESPN lists DraftKings at Wisconsin −8.5, total 41.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Maryland +8.5 with a 43.5 total. Full preview at thecoverwindow.com.\n\nInjuries: there was no Big Ten report detail to quote for this game in our check. A 247Sports panelist (this week) says the Badgers are without tackle Kevin Heywood. Check the Big Ten's final 10 a.m. ET availability update.\n\nThese programs went in opposite directions after that game. Testudo Times reports Mike Locksley eventually left Maryland, and the Terps are playing for an interim staff. Meanwhile, Luke Fickell's Badgers are 6-3 and bowl eligible with a quarter of the season left. SI's Maryland site reports that Abdul-Rahim, studying film, praised Wisconsin freshman Ryan Hopkins for his poise and clean reads.\n\nHopkins earned all that praise in one afternoon. In his first career start against Rutgers he went 18-of-24 for 241 yards and three touchdowns and was named Big Ten Freshman of the Week. Behind him is a defense with Sebastian Cheeks (seven sacks) and Cooper Catalano, whose 90 tackles lead the Big Ten. Maryland counters with Malik Washington, fifth in the Big Ten with 2,058 passing yards, and a team that, per Badger Blitz, throws more than all but eight teams in the country.\n\nA 247Sports panelist says Wisconsin is without its top tackle, Kevin Heywood. The same piece calls the Badgers' linebacker trio of Mason Posa, Cheeks and Catalano the biggest problem for Maryland's protection. It's an early kick for a team that traveled a time zone east, and a home crowd that has waited a long time for back-to-back good news. College Park can make some noise at noon. The Terps just have to give it a reason in the first quarter.\n\nThe desks at today's number. Follow The Money has no side pick and likes the Under 41.5. The Formula: Wisconsin 29, Maryland 21. That makes it Maryland +8.5 and Over 41.5. Next Man Up: Wisconsin 25, Maryland 18. That makes it Maryland +8.5 and Over 41.5. Letdown Watch: Wisconsin 29, Maryland 17. That makes it Wisconsin −8.5 and Over 41.5. In The Trenches: Maryland 24, Wisconsin 24, and it stays with Maryland +8.5 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: Maryland Terrapins +8.5 and Over 41.5. My final is Wisconsin Badgers 27, Maryland Terrapins 20. The total fell two points since Monday, which only makes our 47 look better. Maryland still gets more than our seven-point margin. Same opinion, better price.\n\nWisconsin Badgers 27, Maryland Terrapins 20. Maryland Terrapins cover the 8.5. Over 41.5.",
     "fanatic_score_line": "Projected: Wisconsin Badgers 27, Maryland Terrapins 20",
     "line_used": {
      "home_line": "Maryland Terrapins +8.5",
-     "total": "43.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "total": "41.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T14:51Z"
     },
     "injuries": {
      "away": [],
@@ -4322,14 +4324,14 @@
     "market": {
      "score_line": "",
      "spread": "Wisconsin Badgers −8.5",
-     "total": "43.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "total": "41.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "Wisconsin at Maryland: College Park Would Like a Winning Streak, Please",
     "fanatic_headline": "Wisconsin at Maryland: College Park Would Like a Winning Streak, Please"
    },
-   "gambler_story": "Market check, Wisconsin at Maryland: DraftKings WIS -8.5, total 42.5.\n\nMaryland just got its first Big Ten win since September 2025, per Testudo Times, and the Terps would love to follow it with another at SECU Stadium. They snapped a six-game losing run last week at Purdue after trailing by nine, their biggest come-from-behind road win since 2015, per On3's Badger Blitz. Testudo Times adds a twist: the Badgers are the team Maryland beat 14 games ago, before the long losing run began. That game ended 27-10 a year ago, per Badger Blitz.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at WIS -8.5, total 42.5. The Cover Window's published pick is Maryland +8.5 and Over 43.5. The market is still Wisconsin -8.5, and the total has slipped to 42.5, so the side matches the card and the Over is now a point higher than the current total. The card's projected final is Wisconsin Badgers 27, Maryland Terrapins 20 (Total 47). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: there was no Big Ten report detail to quote for this game in our check. A 247Sports panelist (this week) says the Badgers are without tackle Kevin Heywood. Check the Big Ten's final 10 a.m. ET availability update.\n\nThese programs went in opposite directions after that game. Testudo Times reports Mike Locksley eventually left Maryland, and the Terps are playing for an interim staff. Meanwhile, Luke Fickell's Badgers are 6-3 and bowl eligible with a quarter of the season left. SI's Maryland site reports that Abdul-Rahim, studying film, praised Wisconsin freshman Ryan Hopkins for his poise and clean reads.\n\nHopkins earned all that praise in one afternoon. In his first career start against Rutgers he went 18-of-24 for 241 yards and three touchdowns and was named Big Ten Freshman of the Week. Behind him is a defense with Sebastian Cheeks (seven sacks) and Cooper Catalano, whose 90 tackles lead the Big Ten. Maryland counters with Malik Washington, fifth in the Big Ten with 2,058 passing yards, and a team that, per Badger Blitz, throws more than all but eight teams in the country.\n\nA 247Sports panelist says Wisconsin is without its top tackle, Kevin Heywood. The same piece calls the Badgers' linebacker trio of Mason Posa, Cheeks and Catalano the biggest problem for Maryland's protection. It's an early kick for a team that traveled a time zone east, and a home crowd that has waited a long time for back-to-back good news. College Park can make some noise at noon. The Terps just have to give it a reason in the first quarter.\n\nThe published card stays Maryland Terrapins +8.5 and Over 43.5 at the numbers it was written against. My final is Wisconsin Badgers 27, Maryland Terrapins 20. Follow The Money's side and total are both pending.\n\nWisconsin Badgers 27, Maryland Terrapins 20. Maryland Terrapins cover the 8.5. Over 43.5.",
+   "gambler_story": "Market check, Wisconsin at Maryland, Nov. 14, 2026, 9:51 AM ET: DraftKings Wisconsin −8.5, total 41.5.\n\nMaryland just got its first Big Ten win since September 2025, per Testudo Times, and the Terps would love to follow it with another at SECU Stadium. They snapped a six-game losing run last week at Purdue after trailing by nine, their biggest come-from-behind road win since 2015, per On3's Badger Blitz. Testudo Times adds a twist: the Badgers are the team Maryland beat 14 games ago, before the long losing run began. That game ended 27-10 a year ago, per Badger Blitz.\n\nThe number as of Nov. 14, 2026, 9:51 AM ET: ESPN lists DraftKings at Wisconsin −8.5, total 41.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Maryland +8.5 with a 43.5 total. Full preview at thecoverwindow.com.\n\nInjuries: there was no Big Ten report detail to quote for this game in our check. A 247Sports panelist (this week) says the Badgers are without tackle Kevin Heywood. Check the Big Ten's final 10 a.m. ET availability update.\n\nThese programs went in opposite directions after that game. Testudo Times reports Mike Locksley eventually left Maryland, and the Terps are playing for an interim staff. Meanwhile, Luke Fickell's Badgers are 6-3 and bowl eligible with a quarter of the season left. SI's Maryland site reports that Abdul-Rahim, studying film, praised Wisconsin freshman Ryan Hopkins for his poise and clean reads.\n\nHopkins earned all that praise in one afternoon. In his first career start against Rutgers he went 18-of-24 for 241 yards and three touchdowns and was named Big Ten Freshman of the Week. Behind him is a defense with Sebastian Cheeks (seven sacks) and Cooper Catalano, whose 90 tackles lead the Big Ten. Maryland counters with Malik Washington, fifth in the Big Ten with 2,058 passing yards, and a team that, per Badger Blitz, throws more than all but eight teams in the country.\n\nA 247Sports panelist says Wisconsin is without its top tackle, Kevin Heywood. The same piece calls the Badgers' linebacker trio of Mason Posa, Cheeks and Catalano the biggest problem for Maryland's protection. It's an early kick for a team that traveled a time zone east, and a home crowd that has waited a long time for back-to-back good news. College Park can make some noise at noon. The Terps just have to give it a reason in the first quarter.\n\nThe desks at today's number. Follow The Money has no side pick and likes the Under 41.5. The Formula: Wisconsin 29, Maryland 21. That makes it Maryland +8.5 and Over 41.5. Next Man Up: Wisconsin 25, Maryland 18. That makes it Maryland +8.5 and Over 41.5. Letdown Watch: Wisconsin 29, Maryland 17. That makes it Wisconsin −8.5 and Over 41.5. In The Trenches: Maryland 24, Wisconsin 24, and it stays with Maryland +8.5 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: Maryland Terrapins +8.5 and Over 41.5. My final is Wisconsin Badgers 27, Maryland Terrapins 20. The total fell two points since Monday, which only makes our 47 look better. Maryland still gets more than our seven-point margin. Same opinion, better price.\n\nWisconsin Badgers 27, Maryland Terrapins 20. Maryland Terrapins cover the 8.5. Over 41.5.",
    "videos": [],
    "key_players": [
     {
@@ -4390,13 +4392,13 @@
     "northwestern",
     "ohio-state"
    ],
-   "spread": "Ohio State Buckeyes −11.5",
-   "total_line": 47.5,
+   "spread": "Ohio State Buckeyes −14",
+   "total_line": 45.5,
    "prediction": {
     "away_score": 19,
     "home_score": 30,
     "winner": "Ohio State Buckeyes",
-    "covers": "Northwestern Wildcats +11.5"
+    "covers": "Northwestern Wildcats +14"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -4405,73 +4407,75 @@
    "display": {
     "writer": {
      "score_line": "Projected: Ohio State Buckeyes 30, Northwestern Wildcats 19 (Total 49)",
-     "side": "Northwestern Wildcats +11.5",
-     "ou": "Over 47.5",
+     "side": "Northwestern Wildcats +14",
+     "ou": "Over 45.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Ohio State Buckeyes −11.5",
-      "ou_line": "O/U: Over 47.5 · Likes this total",
+      "side_line": "Side: Northwestern Wildcats +14",
+      "ou_line": "O/U: Over 45.5",
       "score_line": "Projected: Ohio State Buckeyes 32, Northwestern Wildcats 20 (Total 52)",
       "basis_line": "Net ratings Northwestern Wildcats 12.3, Ohio State Buckeyes 24.5 (ESPN Football Power Index, Nov 9, 2026)",
       "independent": true,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 4.5,
+      "distance_from_spread": 2.0,
+      "distance_from_total": 6.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Ohio State Buckeyes −11.5",
-      "ou_line": "O/U: Over 47.5",
+      "side_line": "Side: Northwestern Wildcats +14",
+      "ou_line": "O/U: Over 45.5",
       "score_line": "Projected: Ohio State Buckeyes 32, Northwestern Wildcats 18 (Total 50)",
       "basis_line": "With the players available: projected points Northwestern Wildcats 18.2, Ohio State Buckeyes 31.7.",
       "independent": true,
-      "distance_from_spread": 2.5,
-      "distance_from_total": 2.5,
-      "landed_on_number": []
+      "distance_from_spread": 0.0,
+      "distance_from_total": 4.5,
+      "landed_on_number": [
+       "spread"
+      ]
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Ohio State Buckeyes −11.5",
-      "ou_line": "O/U: Over 47.5",
+      "side_line": "Side: Northwestern Wildcats +14",
+      "ou_line": "O/U: Over 45.5",
       "score_line": "Projected: Ohio State Buckeyes 31, Northwestern Wildcats 18 (Total 49)",
       "basis_line": "Rest and travel read: projected points Northwestern Wildcats 17.5, Ohio State Buckeyes 30.6.",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 1.5,
+      "distance_from_spread": 1.0,
+      "distance_from_total": 3.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: Ohio State Buckeyes −14 · Likes this side",
+      "ou_line": "O/U: Under 45.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Ohio State Buckeyes −12.5 (Nov 10, 1:19 PM ET) and is −14 now, a 1.5-point move. The side pick quotes the consensus spread now (Ohio State Buckeyes −14). Consensus total opened 46.5 (Nov 10, 9:15 AM ET) and is 45.5 now, a 1-point move: Under. The total pick quotes the consensus total now (45.5). Lines are the Action Network consensus as of Nov 14, 9:51 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Northwestern Wildcats +11.5 · Likes this side",
-      "ou_line": "O/U: this card reads sides only",
+      "side_line": "Side: Northwestern Wildcats +14 · Likes this side",
+      "ou_line": "O/U: no pick",
       "score_line": "Projected: Ohio State Buckeyes 29, Northwestern Wildcats 22 (Total 51)",
-      "basis_line": "This read points to a side only. Northwestern Wildcats 4.9 ypc vs Ohio State Buckeyes allowing 3.2; Ohio State Buckeyes 4.0 ypc vs Northwestern Wildcats allowing 4.6 (2026 season). Northwestern Wildcats run game 1.6 ypc above what the opponent allows; Ohio State Buckeyes run game 0.6 ypc below what the opponent allows, which favours Northwestern Wildcats. Side: Northwestern Wildcats +11.5.",
+      "basis_line": "This read points to a side only. Northwestern Wildcats 4.9 ypc vs Ohio State Buckeyes allowing 3.2; Ohio State Buckeyes 4.0 ypc vs Northwestern Wildcats allowing 4.6 (2026 season). Northwestern Wildcats run game 1.6 ypc above what the opponent allows; Ohio State Buckeyes run game 0.6 ypc below what the opponent allows, which favours Northwestern Wildcats. Side: Northwestern Wildcats +14.",
       "independent": true,
-      "distance_from_spread": 4.5,
-      "distance_from_total": 3.5,
+      "distance_from_spread": 7.0,
+      "distance_from_total": 5.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "Market check, Northwestern at Ohio State: DraftKings OSU -14, total 44.5.\n\nColumbus is not used to this. Ohio State is on its first multi-game regular-season losing run since 2011, per CBS Sports, and the fallout has already reached the staff. Special teams coordinator Robby Discher was fired Monday after a fake punt went against the Buckeyes at Oregon. Ohio Stadium wants a normal Saturday back, and it wants it by early afternoon.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at OSU -14, total 44.5. The Cover Window's published pick is Northwestern +11.5 and Over 47.5. The market has moved hard toward the Buckeyes, to Ohio State -14 with a total of 44.5, so the Wildcats now get two and a half more points than the card, and the total is three points below the published Over. The card's projected final is Ohio State Buckeyes 30, Northwestern Wildcats 19 (Total 49). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: Eleven Warriors' Friday report (Nov. 13, 8:10 PM ET) lists Sayin out and Montgomery doubtful for Ohio State, with Daniels questionable. Chiles and eight others are out for Northwestern. The Big Ten's final update is at 10 a.m. ET today.\n\nRyan Day didn't dodge it. “The explosive plays, to me, the last two weeks have been glaring, and it's put us in a bad spot,” he said. A defense that allowed 13.4 points a game during a 6-1 start has given up 71 points in two weeks. Northwestern coach David Braun is staying humble: “We don't want to fall into the trap of looking at Ohio State's record and thinking that they're primed for what some would view as a so-called upset.”\n\nBraun did hand out one compliment: “Jeremiah Smith, I would argue, is the best player in college football.” Smith has 1,200 receiving yards and 14 touchdowns. Freshman Luke Fahey starts again after throwing for a career-high 360 yards at Oregon. Day said Tavien St. Clair is “one snap away,” but “we're not at that point right now.”\n\nNeither team has its starting quarterback. Julian Sayin misses a third straight game with a fractured right elbow, and Aidan Chiles is out for Northwestern again, per Eleven Warriors' Friday report. The same report has left guard Luke Montgomery doubtful and right tackle Phillip Daniels questionable. Day said on his radio show that Brandon Inniss was “trending toward being available.” Northwestern has lost 11 straight in this series. Buckeye Nation would like that number to reach 12, and to get back to talking about the Big Ten race instead of a two-week skid.\n\nThe published card stays Northwestern Wildcats +11.5 and Over 47.5 at the numbers it was written against. My final is Ohio State Buckeyes 30, Northwestern Wildcats 19. Follow The Money's side and total are both pending.\n\nOhio State Buckeyes 30, Northwestern Wildcats 19. Northwestern Wildcats cover the 11.5. Over 47.5.",
+    "story_text": "Market check, Northwestern at Ohio State, Nov. 14, 2026, 9:51 AM ET: DraftKings Ohio State −14, total 45.5.\n\nColumbus is not used to this. Ohio State is on its first multi-game regular-season losing run since 2011, per CBS Sports, and the fallout has already reached the staff. Special teams coordinator Robby Discher was fired Monday after a fake punt went against the Buckeyes at Oregon. Ohio Stadium wants a normal Saturday back, and it wants it by early afternoon.\n\nThe number as of Nov. 14, 2026, 9:51 AM ET: ESPN lists DraftKings at Ohio State −14, total 45.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Northwestern +11.5 with a 47.5 total. Full preview at thecoverwindow.com.\n\nRyan Day didn't dodge it. “The explosive plays, to me, the last two weeks have been glaring, and it's put us in a bad spot,” he said. A defense that allowed 13.4 points a game during a 6-1 start has given up 71 points in two weeks. Northwestern coach David Braun is staying humble: “We don't want to fall into the trap of looking at Ohio State's record and thinking that they're primed for what some would view as a so-called upset.”\n\nBraun did hand out one compliment: “Jeremiah Smith, I would argue, is the best player in college football.” Smith has 1,200 receiving yards and 14 touchdowns. Freshman Luke Fahey starts again after throwing for a career-high 360 yards at Oregon. Day said Tavien St. Clair is “one snap away,” but “we're not at that point right now.”\n\nNeither team has its starting quarterback. Julian Sayin misses a third straight game with a fractured right elbow, and Aidan Chiles is out for Northwestern again, per Eleven Warriors' Friday report. The same report has left guard Luke Montgomery doubtful and right tackle Phillip Daniels questionable. Day said on his radio show that Brandon Inniss was “trending toward being available.” Northwestern has lost 11 straight in this series. Buckeye Nation would like that number to reach 12, and to get back to talking about the Big Ten race instead of a two-week skid.\n\nThe desks at today's number. Follow The Money likes Ohio State −14 and the Under 45.5. The Formula: Ohio State 32, Northwestern 20. That makes it Northwestern +14 and Over 45.5. Next Man Up: Ohio State 32, Northwestern 18, which rounds from Ohio State by 13.5, so it falls short of the 14. That makes it Northwestern +14 and Over 45.5. Letdown Watch: Ohio State 31, Northwestern 18. That makes it Northwestern +14 and Over 45.5. In The Trenches: Ohio State 29, Northwestern 22, and it stays with Northwestern +14 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: Northwestern Wildcats +14 and Over 45.5. My final is Ohio State Buckeyes 30, Northwestern Wildcats 19. The Big Ten report (Update 2, Friday 8:00 PM ET) lists both starting quarterbacks out, Julian Sayin and Aidan Chiles. Since Monday the spread climbed from 11.5 to 14 and the total fell from 47.5 to 45.5. Our 30-19 still clears both. With two backup quarterbacks, the total is the shakier half.\n\nOhio State Buckeyes 30, Northwestern Wildcats 19. Northwestern Wildcats cover the 14. Over 45.5.",
     "fanatic_score_line": "Projected: Ohio State Buckeyes 30, Northwestern Wildcats 19",
     "line_used": {
-     "home_line": "Ohio State Buckeyes −11.5",
-     "total": "47.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "home_line": "Ohio State Buckeyes −14",
+     "total": "45.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T14:51Z"
     },
     "injuries": {
      "away": [],
@@ -4491,15 +4495,15 @@
     "fanatic_story": "Columbus is not used to this. Ohio State is on its first multi-game regular-season losing streak since 2011, per CBS Sports, and the fallout has already reached the staff. Special teams coordinator Robby Discher was fired Monday after a fake punt went against the Buckeyes at Oregon. Ohio Stadium wants a normal Saturday back, and it wants it by early afternoon.\n\nRyan Day didn't dodge it. “The explosive plays, to me, the last two weeks have been glaring, and it's put us in a bad spot,” he said. A defense that allowed 13.4 points a game during a 6-1 start has given up 71 points in two weeks. Northwestern coach David Braun is staying humble: “We don't want to fall into the trap of looking at Ohio State's record and thinking that they're primed for what some would view as a so-called upset.”\n\nBraun did hand out one compliment: “Jeremiah Smith, I would argue, is the best player in college football.” Smith has 1,200 receiving yards and 14 touchdowns. Freshman Luke Fahey starts again after throwing for a career-high 360 yards at Oregon. Day said Tavien St. Clair is “one snap away,” but “we're not at that point right now.”\n\nNeither team has its starting quarterback. Julian Sayin misses a third straight game with a fractured right elbow, and Aidan Chiles is out for Northwestern again, per Eleven Warriors' Friday report. The same report has left guard Luke Montgomery doubtful and right tackle Phillip Daniels questionable. Day said on his radio show that Brandon Inniss was “trending toward being available.” Northwestern has lost 11 straight in this series. Buckeye Nation would like that number to reach 12, and to get back to talking about the Big Ten race instead of a two-week skid.\n\nMy call: Ohio State Buckeyes 30, Northwestern Wildcats 19.",
     "market": {
      "score_line": "",
-     "spread": "Ohio State Buckeyes −11.5",
-     "total": "47.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "spread": "Ohio State Buckeyes −14",
+     "total": "45.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "Northwestern at Ohio State: The Buckeyes Come Home to Stop a Skid Not Seen Since 2011",
     "fanatic_headline": "Northwestern at Ohio State: The Buckeyes Come Home to Stop a Skid Not Seen Since 2011"
    },
-   "gambler_story": "Market check, Northwestern at Ohio State: DraftKings OSU -14, total 44.5.\n\nColumbus is not used to this. Ohio State is on its first multi-game regular-season losing run since 2011, per CBS Sports, and the fallout has already reached the staff. Special teams coordinator Robby Discher was fired Monday after a fake punt went against the Buckeyes at Oregon. Ohio Stadium wants a normal Saturday back, and it wants it by early afternoon.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at OSU -14, total 44.5. The Cover Window's published pick is Northwestern +11.5 and Over 47.5. The market has moved hard toward the Buckeyes, to Ohio State -14 with a total of 44.5, so the Wildcats now get two and a half more points than the card, and the total is three points below the published Over. The card's projected final is Ohio State Buckeyes 30, Northwestern Wildcats 19 (Total 49). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: Eleven Warriors' Friday report (Nov. 13, 8:10 PM ET) lists Sayin out and Montgomery doubtful for Ohio State, with Daniels questionable. Chiles and eight others are out for Northwestern. The Big Ten's final update is at 10 a.m. ET today.\n\nRyan Day didn't dodge it. “The explosive plays, to me, the last two weeks have been glaring, and it's put us in a bad spot,” he said. A defense that allowed 13.4 points a game during a 6-1 start has given up 71 points in two weeks. Northwestern coach David Braun is staying humble: “We don't want to fall into the trap of looking at Ohio State's record and thinking that they're primed for what some would view as a so-called upset.”\n\nBraun did hand out one compliment: “Jeremiah Smith, I would argue, is the best player in college football.” Smith has 1,200 receiving yards and 14 touchdowns. Freshman Luke Fahey starts again after throwing for a career-high 360 yards at Oregon. Day said Tavien St. Clair is “one snap away,” but “we're not at that point right now.”\n\nNeither team has its starting quarterback. Julian Sayin misses a third straight game with a fractured right elbow, and Aidan Chiles is out for Northwestern again, per Eleven Warriors' Friday report. The same report has left guard Luke Montgomery doubtful and right tackle Phillip Daniels questionable. Day said on his radio show that Brandon Inniss was “trending toward being available.” Northwestern has lost 11 straight in this series. Buckeye Nation would like that number to reach 12, and to get back to talking about the Big Ten race instead of a two-week skid.\n\nThe published card stays Northwestern Wildcats +11.5 and Over 47.5 at the numbers it was written against. My final is Ohio State Buckeyes 30, Northwestern Wildcats 19. Follow The Money's side and total are both pending.\n\nOhio State Buckeyes 30, Northwestern Wildcats 19. Northwestern Wildcats cover the 11.5. Over 47.5.",
+   "gambler_story": "Market check, Northwestern at Ohio State, Nov. 14, 2026, 9:51 AM ET: DraftKings Ohio State −14, total 45.5.\n\nColumbus is not used to this. Ohio State is on its first multi-game regular-season losing run since 2011, per CBS Sports, and the fallout has already reached the staff. Special teams coordinator Robby Discher was fired Monday after a fake punt went against the Buckeyes at Oregon. Ohio Stadium wants a normal Saturday back, and it wants it by early afternoon.\n\nThe number as of Nov. 14, 2026, 9:51 AM ET: ESPN lists DraftKings at Ohio State −14, total 45.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Northwestern +11.5 with a 47.5 total. Full preview at thecoverwindow.com.\n\nRyan Day didn't dodge it. “The explosive plays, to me, the last two weeks have been glaring, and it's put us in a bad spot,” he said. A defense that allowed 13.4 points a game during a 6-1 start has given up 71 points in two weeks. Northwestern coach David Braun is staying humble: “We don't want to fall into the trap of looking at Ohio State's record and thinking that they're primed for what some would view as a so-called upset.”\n\nBraun did hand out one compliment: “Jeremiah Smith, I would argue, is the best player in college football.” Smith has 1,200 receiving yards and 14 touchdowns. Freshman Luke Fahey starts again after throwing for a career-high 360 yards at Oregon. Day said Tavien St. Clair is “one snap away,” but “we're not at that point right now.”\n\nNeither team has its starting quarterback. Julian Sayin misses a third straight game with a fractured right elbow, and Aidan Chiles is out for Northwestern again, per Eleven Warriors' Friday report. The same report has left guard Luke Montgomery doubtful and right tackle Phillip Daniels questionable. Day said on his radio show that Brandon Inniss was “trending toward being available.” Northwestern has lost 11 straight in this series. Buckeye Nation would like that number to reach 12, and to get back to talking about the Big Ten race instead of a two-week skid.\n\nThe desks at today's number. Follow The Money likes Ohio State −14 and the Under 45.5. The Formula: Ohio State 32, Northwestern 20. That makes it Northwestern +14 and Over 45.5. Next Man Up: Ohio State 32, Northwestern 18, which rounds from Ohio State by 13.5, so it falls short of the 14. That makes it Northwestern +14 and Over 45.5. Letdown Watch: Ohio State 31, Northwestern 18. That makes it Northwestern +14 and Over 45.5. In The Trenches: Ohio State 29, Northwestern 22, and it stays with Northwestern +14 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: Northwestern Wildcats +14 and Over 45.5. My final is Ohio State Buckeyes 30, Northwestern Wildcats 19. The Big Ten report (Update 2, Friday 8:00 PM ET) lists both starting quarterbacks out, Julian Sayin and Aidan Chiles. Since Monday the spread climbed from 11.5 to 14 and the total fell from 47.5 to 45.5. Our 30-19 still clears both. With two backup quarterbacks, the total is the shakier half.\n\nOhio State Buckeyes 30, Northwestern Wildcats 19. Northwestern Wildcats cover the 14. Over 45.5.",
    "videos": [
     {
      "youtube_id": "qmkHFnn8wl0",
@@ -4616,13 +4620,13 @@
     "james-madison",
     "uconn"
    ],
-   "spread": "James Madison Dukes −3.5",
+   "spread": "James Madison Dukes −4.5",
    "total_line": 57.5,
    "prediction": {
     "away_score": 34,
     "home_score": 26,
     "winner": "James Madison Dukes",
-    "covers": "James Madison Dukes −3.5"
+    "covers": "James Madison Dukes −4.5"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -4631,58 +4635,58 @@
    "display": {
     "writer": {
      "score_line": "Projected: James Madison Dukes 34, UConn Huskies 26 (Total 60)",
-     "side": "James Madison Dukes −3.5",
+     "side": "James Madison Dukes −4.5",
      "ou": "Over 57.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: James Madison Dukes −3.5 · Likes this side",
+      "side_line": "Side: James Madison Dukes −4.5",
       "ou_line": "O/U: Under 57.5",
       "score_line": "Projected: James Madison Dukes 32, UConn Huskies 25 (Total 57)",
       "basis_line": "Net ratings James Madison Dukes 4.9, UConn Huskies −6.1 (ESPN Football Power Index, Nov 9, 2026)",
       "independent": true,
-      "distance_from_spread": 3.5,
+      "distance_from_spread": 2.5,
       "distance_from_total": 0.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: James Madison Dukes −3.5 · Likes this side",
-      "ou_line": "O/U: Over 57.5 · Likes this total",
+      "side_line": "Side: James Madison Dukes −4.5",
+      "ou_line": "O/U: Over 57.5",
       "score_line": "Projected: James Madison Dukes 36, UConn Huskies 29 (Total 65)",
       "basis_line": "With the players available: projected points James Madison Dukes 36.3, UConn Huskies 29.2.",
       "independent": true,
-      "distance_from_spread": 3.5,
+      "distance_from_spread": 2.5,
       "distance_from_total": 7.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: James Madison Dukes −3.5 · Likes this side",
+      "side_line": "Side: James Madison Dukes −4.5",
       "ou_line": "O/U: Over 57.5",
       "score_line": "Projected: James Madison Dukes 35, UConn Huskies 23 (Total 58)",
       "basis_line": "Rest and travel read: projected points James Madison Dukes 35.1, UConn Huskies 23.1.",
       "independent": true,
-      "distance_from_spread": 8.5,
+      "distance_from_spread": 7.5,
       "distance_from_total": 0.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened UConn Huskies +4 (Nov 9, 11:49 PM ET) and is +4.5 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 57.5 (Nov 11, 8:56 AM ET) and is 57.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 14, 9:51 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: the trench reads split, so no side",
-      "ou_line": "O/U: this card reads sides only",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week.",
       "basis_line": "James Madison Dukes 5.2 ypc vs UConn Huskies allowing 3.8; UConn Huskies 5.2 ypc vs James Madison Dukes allowing 3.2 (2026 season). The run-game reads favour different teams. In The Trenches has no pick.",
       "independent": false,
@@ -4690,13 +4694,13 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "Market check, James Madison at UConn: DraftKings JMU -4.5, total 57.5.\n\nSomebody get the Dukes a pillow. James Madison is the only team in the country to play 11 straight weeks without a bye, per the school, and East Hartford is the last stop before the breather finally arrives. The Dukes have handled the grind. They're 8-2, already bowl eligible and coming off a 54-23 win at Southern Miss.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at JMU -4.5, total 57.5. The Cover Window's published pick is James Madison -3.5 and Over 57.5. The market now has JMU -4.5 with the total unchanged at 57.5, so the card holds a point better on the side than the current price. The card's projected final is James Madison Dukes 34, UConn Huskies 26 (Total 60). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: we found no public availability report for either team in our check (American and Sun Belt opponents, non-conference game). We won't guess.\n\nJMU says it has won more road games than anybody in FBS since moving up in 2022, going 21-8, and it's 4-1 away from home this year. In the Southern Miss win, quarterback JC Evans accounted for four touchdowns, linebacker JT Hooten had three sacks and kicker Morgan Suarez scored a career-high 18 points. Michael Scott, a midseason All-American, leads the nation in combined return yardage with 794.\n\nUConn is 4-5 in Jason Candle's first season and coming off a 38-21 home loss to North Carolina. ESPN's numbers make Kalieb Osborne (2,102 passing yards, 16 touchdowns) and Cyncir Bowers (639 rushing yards, eight scores) the Huskies' best way to keep up with an offense that, per ESPN's data capsule, ranks seventh in scoring.\n\nThere's an old-school thread here. JMU's notes say the schools shared the Yankee and Atlantic 10 conferences in the 1990s, and the Dukes haven't played at UConn since 1996. JMU has won the last five meetings. News out of Storrs was scarce this week, so we're not padding it. Even so, a 4-5 home team gets one more chance at a good November afternoon, and that's worth showing up for. The Dukes just want to get through it and sleep in next Saturday.\n\nThe published card stays James Madison Dukes −3.5 and Over 57.5 at the numbers it was written against. My final is James Madison Dukes 34, UConn Huskies 26. Follow The Money's side and total are both pending.\n\nJames Madison Dukes 34, UConn Huskies 26. James Madison Dukes cover the 3.5. Over 57.5.",
+    "story_text": "Market check, James Madison at UConn, Nov. 14, 2026, 9:51 AM ET: DraftKings James Madison −4.5, total 57.5.\n\nSomebody get the Dukes a pillow. James Madison is the only team in the country to play 11 straight weeks without a bye, per the school, and East Hartford is the last stop before the breather finally arrives. The Dukes have handled the grind. They're 8-2, already bowl eligible and coming off a 54-23 win at Southern Miss.\n\nThe number as of Nov. 14, 2026, 9:51 AM ET: ESPN lists DraftKings at James Madison −4.5, total 57.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had James Madison −3.5 with a 57.5 total. Full preview at thecoverwindow.com.\n\nInjuries: we found no public availability report for either team in our check (American and Sun Belt opponents, non-conference game). We won't guess.\n\nJMU says it has won more road games than anybody in FBS since moving up in 2022, going 21-8, and it's 4-1 away from home this year. In the Southern Miss win, quarterback JC Evans accounted for four touchdowns, linebacker JT Hooten had three sacks and kicker Morgan Suarez scored a career-high 18 points. Michael Scott, a midseason All-American, leads the nation in combined return yardage with 794.\n\nUConn is 4-5 in Jason Candle's first season and coming off a 38-21 home loss to North Carolina. ESPN's numbers make Kalieb Osborne (2,102 passing yards, 16 touchdowns) and Cyncir Bowers (639 rushing yards, eight scores) the Huskies' best way to keep up with an offense that, per ESPN's data capsule, ranks seventh in scoring.\n\nThere's an old-school thread here. JMU's notes say the schools shared the Yankee and Atlantic 10 conferences in the 1990s, and the Dukes haven't played at UConn since 1996. JMU has won the last five meetings. News out of Storrs was scarce this week, so we're not padding it. Even so, a 4-5 home team gets one more chance at a good November afternoon, and that's worth showing up for. The Dukes just want to get through it and sleep in next Saturday.\n\nThe desks at today's number. Follow The Money has no side pick and no total pick. The Formula: James Madison 32, UConn 25. That makes it James Madison −4.5 and Under 57.5. Next Man Up: James Madison 36, UConn 29. That makes it James Madison −4.5 and Over 57.5. Letdown Watch: James Madison 35, UConn 23. That makes it James Madison −4.5 and Over 57.5. In The Trenches has no pick: its run-game reads favour different teams.\n\nThe Cover Writer's card at today's number: James Madison Dukes −4.5 and Over 57.5. My final is James Madison Dukes 34, UConn Huskies 26. The price went up a point since Monday. The Dukes still clear it by three and a half. Eleven straight weeks and they still have to cover a moving number. Nobody said it was fair.\n\nJames Madison Dukes 34, UConn Huskies 26. James Madison Dukes cover the 4.5. Over 57.5.",
     "fanatic_score_line": "Projected: James Madison Dukes 34, UConn Huskies 26",
     "line_used": {
-     "home_line": "UConn Huskies +3.5",
+     "home_line": "UConn Huskies +4.5",
      "total": "57.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T14:51Z"
     },
     "injuries": {
      "away": [],
@@ -4716,15 +4720,15 @@
     "fanatic_story": "Somebody get the Dukes a pillow. James Madison is the only team in the country to play 11 straight weeks without a bye, per the school, and East Hartford is the last stop before the breather finally arrives. The Dukes have handled the grind. They're 8-2, already bowl eligible and coming off a 54-23 win at Southern Miss.\n\nJMU says it has won more road games than anybody in FBS since moving up in 2022, going 21-8, and it's 4-1 away from home this year. In the Southern Miss win, quarterback JC Evans accounted for four touchdowns, linebacker JT Hooten had three sacks and kicker Morgan Suarez scored a career-high 18 points. Michael Scott, a midseason All-American, leads the nation in combined return yardage with 794.\n\nUConn is 4-5 in Jason Candle's first season and coming off a 38-21 home loss to North Carolina. ESPN's numbers make Kalieb Osborne (2,102 passing yards, 16 touchdowns) and Cyncir Bowers (639 rushing yards, eight scores) the Huskies' best way to keep up with an offense that, per ESPN's data capsule, ranks seventh in scoring.\n\nThere's an old-school thread here. JMU's notes say the schools shared the Yankee and Atlantic 10 conferences in the 1990s, and the Dukes haven't played at UConn since 1996. JMU has won the last five meetings. News out of Storrs was scarce this week, so we're not padding it. Even so, a 4-5 home team gets one more chance at a good November afternoon, and that's worth showing up for. The Dukes just want to get through it and sleep in next Saturday.\n\nMy call: James Madison Dukes 34, UConn Huskies 26.",
     "market": {
      "score_line": "",
-     "spread": "James Madison Dukes −3.5",
+     "spread": "James Madison Dukes −4.5",
      "total": "57.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "James Madison at UConn: Eleven Straight Weeks, One Last Road Trip, Then a Nap",
     "fanatic_headline": "James Madison at UConn: Eleven Straight Weeks, One Last Road Trip, Then a Nap"
    },
-   "gambler_story": "Market check, James Madison at UConn: DraftKings JMU -4.5, total 57.5.\n\nSomebody get the Dukes a pillow. James Madison is the only team in the country to play 11 straight weeks without a bye, per the school, and East Hartford is the last stop before the breather finally arrives. The Dukes have handled the grind. They're 8-2, already bowl eligible and coming off a 54-23 win at Southern Miss.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at JMU -4.5, total 57.5. The Cover Window's published pick is James Madison -3.5 and Over 57.5. The market now has JMU -4.5 with the total unchanged at 57.5, so the card holds a point better on the side than the current price. The card's projected final is James Madison Dukes 34, UConn Huskies 26 (Total 60). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: we found no public availability report for either team in our check (American and Sun Belt opponents, non-conference game). We won't guess.\n\nJMU says it has won more road games than anybody in FBS since moving up in 2022, going 21-8, and it's 4-1 away from home this year. In the Southern Miss win, quarterback JC Evans accounted for four touchdowns, linebacker JT Hooten had three sacks and kicker Morgan Suarez scored a career-high 18 points. Michael Scott, a midseason All-American, leads the nation in combined return yardage with 794.\n\nUConn is 4-5 in Jason Candle's first season and coming off a 38-21 home loss to North Carolina. ESPN's numbers make Kalieb Osborne (2,102 passing yards, 16 touchdowns) and Cyncir Bowers (639 rushing yards, eight scores) the Huskies' best way to keep up with an offense that, per ESPN's data capsule, ranks seventh in scoring.\n\nThere's an old-school thread here. JMU's notes say the schools shared the Yankee and Atlantic 10 conferences in the 1990s, and the Dukes haven't played at UConn since 1996. JMU has won the last five meetings. News out of Storrs was scarce this week, so we're not padding it. Even so, a 4-5 home team gets one more chance at a good November afternoon, and that's worth showing up for. The Dukes just want to get through it and sleep in next Saturday.\n\nThe published card stays James Madison Dukes −3.5 and Over 57.5 at the numbers it was written against. My final is James Madison Dukes 34, UConn Huskies 26. Follow The Money's side and total are both pending.\n\nJames Madison Dukes 34, UConn Huskies 26. James Madison Dukes cover the 3.5. Over 57.5.",
+   "gambler_story": "Market check, James Madison at UConn, Nov. 14, 2026, 9:51 AM ET: DraftKings James Madison −4.5, total 57.5.\n\nSomebody get the Dukes a pillow. James Madison is the only team in the country to play 11 straight weeks without a bye, per the school, and East Hartford is the last stop before the breather finally arrives. The Dukes have handled the grind. They're 8-2, already bowl eligible and coming off a 54-23 win at Southern Miss.\n\nThe number as of Nov. 14, 2026, 9:51 AM ET: ESPN lists DraftKings at James Madison −4.5, total 57.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had James Madison −3.5 with a 57.5 total. Full preview at thecoverwindow.com.\n\nInjuries: we found no public availability report for either team in our check (American and Sun Belt opponents, non-conference game). We won't guess.\n\nJMU says it has won more road games than anybody in FBS since moving up in 2022, going 21-8, and it's 4-1 away from home this year. In the Southern Miss win, quarterback JC Evans accounted for four touchdowns, linebacker JT Hooten had three sacks and kicker Morgan Suarez scored a career-high 18 points. Michael Scott, a midseason All-American, leads the nation in combined return yardage with 794.\n\nUConn is 4-5 in Jason Candle's first season and coming off a 38-21 home loss to North Carolina. ESPN's numbers make Kalieb Osborne (2,102 passing yards, 16 touchdowns) and Cyncir Bowers (639 rushing yards, eight scores) the Huskies' best way to keep up with an offense that, per ESPN's data capsule, ranks seventh in scoring.\n\nThere's an old-school thread here. JMU's notes say the schools shared the Yankee and Atlantic 10 conferences in the 1990s, and the Dukes haven't played at UConn since 1996. JMU has won the last five meetings. News out of Storrs was scarce this week, so we're not padding it. Even so, a 4-5 home team gets one more chance at a good November afternoon, and that's worth showing up for. The Dukes just want to get through it and sleep in next Saturday.\n\nThe desks at today's number. Follow The Money has no side pick and no total pick. The Formula: James Madison 32, UConn 25. That makes it James Madison −4.5 and Under 57.5. Next Man Up: James Madison 36, UConn 29. That makes it James Madison −4.5 and Over 57.5. Letdown Watch: James Madison 35, UConn 23. That makes it James Madison −4.5 and Over 57.5. In The Trenches has no pick: its run-game reads favour different teams.\n\nThe Cover Writer's card at today's number: James Madison Dukes −4.5 and Over 57.5. My final is James Madison Dukes 34, UConn Huskies 26. The price went up a point since Monday. The Dukes still clear it by three and a half. Eleven straight weeks and they still have to cover a moving number. Nobody said it was fair.\n\nJames Madison Dukes 34, UConn Huskies 26. James Madison Dukes cover the 4.5. Over 57.5.",
    "videos": [],
    "key_players": [
     {
