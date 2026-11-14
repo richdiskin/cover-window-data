@@ -180,5 +180,2163 @@
       "argument_quote": null
     },
     "status": "final"
+  },
+  {
+    "game_id": "401856859",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 61.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 58.5",
+      "line": 58.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Cincinnati Bearcats at Iowa State Cyclones moved from 60.5 at 12:47 PM ET Tuesday Nov 10, the first consensus after the Monday night game, to 58.5, which it reached at 11:29 AM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 2-point move down, so the fresh market rerun turns the pending card into Under 58.5.",
+      "source": "Action Network consensus line history, Cincinnati Bearcats at Iowa State Cyclones (book 15): https://api.actionnetwork.com/web/v2/markets/event/289977/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289977/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856886",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 50.5,
+      "made_at": "2026-11-12T07:01:50Z"
+    },
+    "final": {
+      "pick": "Over 51.5",
+      "line": 51.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Auburn Tigers at Mississippi State Bulldogs moved from 50.5 at 1:51 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 51.5, which it reached at 4:21 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move up, so the fresh market rerun turns the pending card into Over 51.5.",
+      "source": "Action Network consensus line history, Auburn Tigers at Mississippi State Bulldogs (book 15): https://api.actionnetwork.com/web/v2/markets/event/289963/history?bookIds=15 (checked Nov 13, 2026, 9:07 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289963/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858300",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "total",
+    "original": {
+      "pick": "Under 54.5",
+      "line": 54.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 53.5",
+      "line": 53.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The total has moved from 54.5, the number the card was written against, to 53.5 on the Action Network consensus, which has read that number since 5:57 PM ET Monday Nov 9 (still there at the 9:04 PM ET check Friday, with DraftKings at 53.5 on ESPN). The Formula's fresh rerun projects Syracuse Orange 27.5, NC State Wolfpack 26.7 (total 54.1), so the card turns from Under 54.5 into Over 53.5.",
+      "source": "Action Network consensus line history, Syracuse Orange at NC State Wolfpack (book 15): https://api.actionnetwork.com/web/v2/markets/event/290050/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290050/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858301",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "total",
+    "original": {
+      "pick": "Under 61.5",
+      "line": 61.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 60.5",
+      "line": 60.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The total has moved from 61.5, the number the card was written against, to 60.5 on the Action Network consensus, which has read that number since 9:56 PM ET Wednesday Nov 11 (still there at the 9:04 PM ET check Friday, with DraftKings at 60.5 on ESPN). Next Man Up's fresh rerun projects Wake Forest Demon Deacons 32.3, SMU Mustangs 28.8 (total 61.1), so the card turns from Under 61.5 into Over 60.5.",
+      "source": "Action Network consensus line history, Wake Forest Demon Deacons at SMU Mustangs (book 15): https://api.actionnetwork.com/web/v2/markets/event/289964/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289964/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858301",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 61.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 60.5",
+      "line": 60.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Wake Forest Demon Deacons at SMU Mustangs moved from 61.5 at 11:39 PM ET Monday Nov 9, the first consensus after the Monday night game, to 60.5, which it reached at 9:56 PM ET Wednesday Nov 11 (still there at the 9:04 PM ET check Friday), a 1-point move down, so the fresh market rerun turns the pending card into Under 60.5.",
+      "source": "Action Network consensus line history, Wake Forest Demon Deacons at SMU Mustangs (book 15): https://api.actionnetwork.com/web/v2/markets/event/289964/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289964/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858520",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 43.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 42.5",
+      "line": 42.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Wisconsin Badgers at Maryland Terrapins moved from 43.5 at 1:44 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 42.5, which it reached at 8:18 PM ET Wednesday Nov 11 (still there at the 9:04 PM ET check Friday), a 1-point move down, so the fresh market rerun turns the pending card into Under 42.5.",
+      "source": "Action Network consensus line history, Wisconsin Badgers at Maryland Terrapins (book 15): https://api.actionnetwork.com/web/v2/markets/event/290018/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290018/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858522",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "side",
+    "original": {
+      "pick": "Ohio State Buckeyes −11.5",
+      "line": -11.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Northwestern Wildcats +14",
+      "line": 14.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Ohio State Buckeyes has moved from −11.5, the number the card was written against, to −14, and has read −14 since 8:10 PM ET Wednesday Nov 11 (still there at the 9:04 PM ET check Friday, with DraftKings at −14 on ESPN). The Formula's fresh rerun projects Ohio State Buckeyes 32.1, Northwestern Wildcats 19.6 (Ohio State Buckeyes by 12.5), so the card turns from Ohio State Buckeyes −11.5 into Northwestern Wildcats +14.",
+      "source": "Action Network consensus line history, Northwestern Wildcats at Ohio State Buckeyes (book 15): https://api.actionnetwork.com/web/v2/markets/event/289967/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289967/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858522",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "side",
+    "original": {
+      "pick": "Ohio State Buckeyes −11.5",
+      "line": -11.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Northwestern Wildcats +14",
+      "line": 14.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Ohio State Buckeyes has moved from −11.5, the number the card was written against, to −14, and has read −14 since 8:10 PM ET Wednesday Nov 11 (still there at the 9:04 PM ET check Friday, with DraftKings at −14 on ESPN). Next Man Up's fresh rerun projects Ohio State Buckeyes 31.8, Northwestern Wildcats 18.3 (Ohio State Buckeyes by 13.4), so the card turns from Ohio State Buckeyes −11.5 into Northwestern Wildcats +14.",
+      "source": "Action Network consensus line history, Northwestern Wildcats at Ohio State Buckeyes (book 15): https://api.actionnetwork.com/web/v2/markets/event/289967/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289967/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858522",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": -11.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Ohio State Buckeyes −14",
+      "line": -14.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Ohio State Buckeyes for Northwestern Wildcats at Ohio State Buckeyes moved from −12.5 at 1:19 PM ET Tuesday Nov 10, the first consensus after the Monday night game, to −14, which it reached at 8:10 PM ET Wednesday Nov 11 (still there at the 9:04 PM ET check Friday), a 1.5-point move toward Ohio State Buckeyes, so the fresh market rerun turns the pending card into Ohio State Buckeyes −14.",
+      "source": "Action Network consensus line history, Northwestern Wildcats at Ohio State Buckeyes (book 15): https://api.actionnetwork.com/web/v2/markets/event/289967/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289967/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858522",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 47.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 44.5",
+      "line": 44.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Northwestern Wildcats at Ohio State Buckeyes moved from 46.5 at 9:15 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 44.5, which it reached at 8:10 PM ET Wednesday Nov 11 (still there at the 9:04 PM ET check Friday), a 2-point move down, so the fresh market rerun turns the pending card into Under 44.5.",
+      "source": "Action Network consensus line history, Northwestern Wildcats at Ohio State Buckeyes (book 15): https://api.actionnetwork.com/web/v2/markets/event/289967/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289967/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858297",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "side",
+    "original": {
+      "pick": "Clemson Tigers −13.5",
+      "line": -13.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Georgia Tech Yellow Jackets +15",
+      "line": 15.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Clemson Tigers has moved from −13.5, the number the card was written against, to −15, and has read −15 since 7:21 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at −15 on ESPN). Next Man Up's fresh rerun projects Clemson Tigers 30.2, Georgia Tech Yellow Jackets 15.5 (Clemson Tigers by 14.7), so the card turns from Clemson Tigers −13.5 into Georgia Tech Yellow Jackets +15.",
+      "source": "Action Network consensus line history, Georgia Tech Yellow Jackets at Clemson Tigers (book 15): https://api.actionnetwork.com/web/v2/markets/event/290021/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290021/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858297",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": -13.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Clemson Tigers −15",
+      "line": -15.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Clemson Tigers for Georgia Tech Yellow Jackets at Clemson Tigers moved from −13.5 at 8:39 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to −15, which it reached at 7:21 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1.5-point move toward Clemson Tigers, so the fresh market rerun turns the pending card into Clemson Tigers −15.",
+      "source": "Action Network consensus line history, Georgia Tech Yellow Jackets at Clemson Tigers (book 15): https://api.actionnetwork.com/web/v2/markets/event/290021/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290021/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858525",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "side",
+    "original": {
+      "pick": "Nebraska Cornhuskers −13.5",
+      "line": -13.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Rutgers Scarlet Knights +15",
+      "line": 15.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Rutgers Scarlet Knights has moved from +13.5, the number the card was written against, to +15, and has read +15 since 8:25 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at +15 on ESPN). The Formula's fresh rerun projects Nebraska Cornhuskers 32.8, Rutgers Scarlet Knights 19.2 (Nebraska Cornhuskers by 13.5), so the card turns from Nebraska Cornhuskers −13.5 into Rutgers Scarlet Knights +15.",
+      "source": "Action Network consensus line history, Nebraska Cornhuskers at Rutgers Scarlet Knights (book 15): https://api.actionnetwork.com/web/v2/markets/event/290036/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290036/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858525",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "total",
+    "original": {
+      "pick": "Under 53.5",
+      "line": 53.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 51.5",
+      "line": 51.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The total has moved from 53.5, the number the card was written against, to 51.5 on the Action Network consensus, which has read that number since 8:09 PM ET Wednesday Nov 11 (still there at the 9:04 PM ET check Friday, with DraftKings at 51.5 on ESPN). The Formula's fresh rerun projects Nebraska Cornhuskers 32.8, Rutgers Scarlet Knights 19.2 (total 52.0), so the card turns from Under 53.5 into Over 51.5.",
+      "source": "Action Network consensus line history, Nebraska Cornhuskers at Rutgers Scarlet Knights (book 15): https://api.actionnetwork.com/web/v2/markets/event/290036/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290036/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858525",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": 13.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Nebraska Cornhuskers −15",
+      "line": -15.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Rutgers Scarlet Knights for Nebraska Cornhuskers at Rutgers Scarlet Knights moved from +13.5 at 12:40 PM ET Wednesday Nov 11, the first consensus after the Monday night game, to +15, which it reached at 8:25 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1.5-point move toward Nebraska Cornhuskers, so the fresh market rerun turns the pending card into Nebraska Cornhuskers −15.",
+      "source": "Action Network consensus line history, Nebraska Cornhuskers at Rutgers Scarlet Knights (book 15): https://api.actionnetwork.com/web/v2/markets/event/290036/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290036/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856889",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "side",
+    "original": {
+      "pick": "Vanderbilt Commodores +17.5",
+      "line": 17.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Alabama Crimson Tide −14",
+      "line": -14.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:45Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Vanderbilt Commodores has moved from +17.5, the number the card was written against, to +14, and has read +14 since 5:19 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at +14 on ESPN). Next Man Up's fresh rerun projects Alabama Crimson Tide 36.3, Vanderbilt Commodores 19.3 (Alabama Crimson Tide by 17.0), so the card turns from Vanderbilt Commodores +17.5 into Alabama Crimson Tide −14.",
+      "source": "Action Network consensus line history, Alabama Crimson Tide at Vanderbilt Commodores (book 15): https://api.actionnetwork.com/web/v2/markets/event/290008/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290008/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856889",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": 17.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Vanderbilt Commodores +14",
+      "line": 14.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:45Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Vanderbilt Commodores for Alabama Crimson Tide at Vanderbilt Commodores moved from +15.5 at 11:30 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to +14, which it reached at 5:19 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1.5-point move toward Vanderbilt Commodores, so the fresh market rerun turns the pending card into Vanderbilt Commodores +14.",
+      "source": "Action Network consensus line history, Alabama Crimson Tide at Vanderbilt Commodores (book 15): https://api.actionnetwork.com/web/v2/markets/event/290008/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290008/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856889",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 52.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 47.5",
+      "line": 47.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T17:45Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Alabama Crimson Tide at Vanderbilt Commodores moved from 50.5 at 4:14 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 47.5, which it reached at 5:23 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 3-point move down, so the fresh market rerun turns the pending card into Under 47.5.",
+      "source": "Action Network consensus line history, Alabama Crimson Tide at Vanderbilt Commodores (book 15): https://api.actionnetwork.com/web/v2/markets/event/290008/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290008/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401862829",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 48.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 47.5",
+      "line": 47.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T18:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for UAB Blazers at Temple Owls moved from 48.5 at 1:13 PM ET Tuesday Nov 10, the first consensus after the Monday night game, to 47.5, which it reached at 5:06 PM ET Thursday Nov 12 (still there at the 9:04 PM ET check Friday), a 1-point move down, so the fresh market rerun turns the pending card into Under 47.5.",
+      "source": "Action Network consensus line history, UAB Blazers at Temple Owls (book 15): https://api.actionnetwork.com/web/v2/markets/event/290048/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290048/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401869937",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "total",
+    "original": {
+      "pick": "Over 50.5",
+      "line": 50.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 52.5",
+      "line": 52.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T18:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The total has moved from 50.5, the number the card was written against, to 52.5 on the Action Network consensus, which has read that number since 4:47 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at 52.5 on ESPN). The Formula's fresh rerun projects Coastal Carolina Chanticleers 26.0, Arkansas State Red Wolves 25.3 (total 51.3), so the card turns from Over 50.5 into Under 52.5.",
+      "source": "Action Network consensus line history, Arkansas State Red Wolves at Coastal Carolina Chanticleers (book 15): https://api.actionnetwork.com/web/v2/markets/event/290009/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290009/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401869937",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 50.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 52.5",
+      "line": 52.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T18:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Arkansas State Red Wolves at Coastal Carolina Chanticleers moved from 50.5 at 12:12 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 52.5, which it reached at 4:47 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 2-point move up, so the fresh market rerun turns the pending card into Over 52.5.",
+      "source": "Action Network consensus line history, Arkansas State Red Wolves at Coastal Carolina Chanticleers (book 15): https://api.actionnetwork.com/web/v2/markets/event/290009/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290009/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856862",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": -9.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "TCU Horned Frogs −13.5",
+      "line": -13.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T19:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on TCU Horned Frogs for Kansas State Wildcats at TCU Horned Frogs moved from −10 at 10:09 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to −13.5, which it reached at 8:28 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 3.5-point move toward TCU Horned Frogs, so the fresh market rerun turns the pending card into TCU Horned Frogs −13.5.",
+      "source": "Action Network consensus line history, Kansas State Wildcats at TCU Horned Frogs (book 15): https://api.actionnetwork.com/web/v2/markets/event/289960/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289960/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856862",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 46.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 44.5",
+      "line": 44.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T19:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Kansas State Wildcats at TCU Horned Frogs moved from 46.5 at 9:53 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 44.5, which it reached at 10:48 AM ET Thursday Nov 12 (still there at the 9:04 PM ET check Friday), a 2-point move down, so the fresh market rerun turns the pending card into Under 44.5.",
+      "source": "Action Network consensus line history, Kansas State Wildcats at TCU Horned Frogs (book 15): https://api.actionnetwork.com/web/v2/markets/event/289960/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289960/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856888",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "side",
+    "original": {
+      "pick": "Texas A&M Aggies +2.5",
+      "line": 2.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Tennessee Volunteers −1.5",
+      "line": -1.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Texas A&M Aggies has moved from +2.5, the number the card was written against, to +1.5, and has read +1.5 since 6:12 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at +1.5 on ESPN). The Formula's fresh rerun projects Tennessee Volunteers 23.9, Texas A&M Aggies 21.4 (Tennessee Volunteers by 2.5), so the card turns from Texas A&M Aggies +2.5 into Tennessee Volunteers −1.5.",
+      "source": "Action Network consensus line history, Tennessee Volunteers at Texas A&M Aggies (book 15): https://api.actionnetwork.com/web/v2/markets/event/290027/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290027/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856888",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "total",
+    "original": {
+      "pick": "Over 42.5",
+      "line": 42.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 43.5",
+      "line": 43.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The total has moved from 42.5, the number the card was written against, to 43.5 on the Action Network consensus, which has read that number since 8:58 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at 43.5 on ESPN). Next Man Up's fresh rerun projects Texas A&M Aggies 21.7, Tennessee Volunteers 21.5 (total 43.2), so the card turns from Over 42.5 into Under 43.5.",
+      "source": "Action Network consensus line history, Tennessee Volunteers at Texas A&M Aggies (book 15): https://api.actionnetwork.com/web/v2/markets/event/290027/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290027/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856888",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": 2.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Texas A&M Aggies +1.5",
+      "line": 1.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Texas A&M Aggies for Tennessee Volunteers at Texas A&M Aggies moved from +2.5 at 8:03 AM ET Wednesday Nov 11, the first consensus after the Monday night game, to +1.5, which it reached at 6:12 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move toward Texas A&M Aggies, so the fresh market rerun turns the pending card into Texas A&M Aggies +1.5.",
+      "source": "Action Network consensus line history, Tennessee Volunteers at Texas A&M Aggies (book 15): https://api.actionnetwork.com/web/v2/markets/event/290027/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290027/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401870796",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 49.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 49.5",
+      "line": 49.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for New Mexico State Aggies at Missouri State Bears moved from 48.5 at 11:49 PM ET Monday Nov 9, the first consensus after the Monday night game, to 49.5, which it reached at 4:56 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move up, so the fresh market rerun turns the pending card into Over 49.5.",
+      "source": "Action Network consensus line history, New Mexico State Aggies at Missouri State Bears (book 15): https://api.actionnetwork.com/web/v2/markets/event/290035/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290035/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401871060",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "side",
+    "original": {
+      "pick": "Florida International Panthers +5.5",
+      "line": 5.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Delaware Blue Hens −4",
+      "line": -4.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Delaware Blue Hens has moved from −5.5, the number the card was written against, to −4, and has read −4 since 1:39 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at −4 on ESPN). The Formula's fresh rerun projects Delaware Blue Hens 27.4, Florida International Panthers 22.6 (Delaware Blue Hens by 4.8), so the card turns from Florida International Panthers +5.5 into Delaware Blue Hens −4.",
+      "source": "Action Network consensus line history, Florida International Panthers at Delaware Blue Hens (book 15): https://api.actionnetwork.com/web/v2/markets/event/290016/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290016/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401871060",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": -5.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Florida International Panthers +4",
+      "line": 4.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Delaware Blue Hens for Florida International Panthers at Delaware Blue Hens moved from −5 at 11:24 PM ET Tuesday Nov 10, the first consensus after the Monday night game, to −4, which it reached at 1:39 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move toward Florida International Panthers, so the fresh market rerun turns the pending card into Florida International Panthers +4.",
+      "source": "Action Network consensus line history, Florida International Panthers at Delaware Blue Hens (book 15): https://api.actionnetwork.com/web/v2/markets/event/290016/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290016/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856857",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 48.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 47.5",
+      "line": 47.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Arizona State Sun Devils at UCF Knights moved from 49.5 at 9:56 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 47.5, which it reached at 3:53 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 2-point move down, so the fresh market rerun turns the pending card into Under 47.5.",
+      "source": "Action Network consensus line history, Arizona State Sun Devils at UCF Knights (book 15): https://api.actionnetwork.com/web/v2/markets/event/289998/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289998/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856858",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "total",
+    "original": {
+      "pick": "Over 49.5",
+      "line": 49.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 50.5",
+      "line": 50.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The total has moved from 49.5, the number the card was written against, to 50.5 on the Action Network consensus, which has read that number since 4:10 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at 50.5 on ESPN). The Formula's fresh rerun projects BYU Cougars 27.6, Baylor Bears 22.6 (total 50.1), so the card turns from Over 49.5 into Under 50.5.",
+      "source": "Action Network consensus line history, Baylor Bears at BYU Cougars (book 15): https://api.actionnetwork.com/web/v2/markets/event/289966/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289966/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856858",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "side",
+    "original": {
+      "pick": "BYU Cougars −7.5",
+      "line": -7.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Baylor Bears +8.5",
+      "line": 8.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on BYU Cougars has moved from −7.5, the number the card was written against, to −8.5, and has read −8.5 since 8:29 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at −8.5 on ESPN). Next Man Up's fresh rerun projects BYU Cougars 28.3, Baylor Bears 20.2 (BYU Cougars by 8.0), so the card turns from BYU Cougars −7.5 into Baylor Bears +8.5.",
+      "source": "Action Network consensus line history, Baylor Bears at BYU Cougars (book 15): https://api.actionnetwork.com/web/v2/markets/event/289966/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289966/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856858",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": -7.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "BYU Cougars −8.5",
+      "line": -8.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on BYU Cougars for Baylor Bears at BYU Cougars moved from −7.5 at 7:37 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to −8.5, which it reached at 8:29 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move toward BYU Cougars, so the fresh market rerun turns the pending card into BYU Cougars −8.5.",
+      "source": "Action Network consensus line history, Baylor Bears at BYU Cougars (book 15): https://api.actionnetwork.com/web/v2/markets/event/289966/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289966/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856858",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 49.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 50.5",
+      "line": 50.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Baylor Bears at BYU Cougars moved from 49.5 at 10:43 AM ET Wednesday Nov 11, the first consensus after the Monday night game, to 50.5, which it reached at 4:10 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move up, so the fresh market rerun turns the pending card into Over 50.5.",
+      "source": "Action Network consensus line history, Baylor Bears at BYU Cougars (book 15): https://api.actionnetwork.com/web/v2/markets/event/289966/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289966/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856883",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": -15.5,
+      "made_at": "2026-11-12T07:01:50Z"
+    },
+    "final": {
+      "pick": "Georgia Bulldogs −16.5",
+      "line": -16.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Georgia Bulldogs for Missouri Tigers at Georgia Bulldogs moved from −15.5 at 9:53 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to −16.5, which it reached at 4:21 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move toward Georgia Bulldogs, so the fresh market rerun turns the pending card into Georgia Bulldogs −16.5.",
+      "source": "Action Network consensus line history, Missouri Tigers at Georgia Bulldogs (book 15): https://api.actionnetwork.com/web/v2/markets/event/290031/history?bookIds=15 (checked Nov 13, 2026, 9:07 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290031/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858294",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 52.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 51.5",
+      "line": 51.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Boston College Eagles at Notre Dame Fighting Irish moved from 52.5 at 11:30 PM ET Monday Nov 9, the first consensus after the Monday night game, to 51.5, which it reached at 4:13 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move down, so the fresh market rerun turns the pending card into Under 51.5.",
+      "source": "Action Network consensus line history, Boston College Eagles at Notre Dame Fighting Irish (book 15): https://api.actionnetwork.com/web/v2/markets/event/289994/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289994/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858295",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "side",
+    "original": {
+      "pick": "California Golden Bears +12.5",
+      "line": 12.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Virginia Cavaliers −10.5",
+      "line": -10.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Virginia Cavaliers has moved from −12.5, the number the card was written against, to −10.5, and has read −10.5 since 4:24 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at −10.5 on ESPN). The Formula's fresh rerun projects Virginia Cavaliers 31.3, California Golden Bears 19.8 (Virginia Cavaliers by 11.6), so the card turns from California Golden Bears +12.5 into Virginia Cavaliers −10.5.",
+      "source": "Action Network consensus line history, California Golden Bears at Virginia Cavaliers (book 15): https://api.actionnetwork.com/web/v2/markets/event/290029/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290029/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858295",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 47.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 46.5",
+      "line": 46.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for California Golden Bears at Virginia Cavaliers moved from 47.5 at 10:00 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 46.5, which it reached at 3:31 PM ET Tuesday Nov 10 (still there at the 9:04 PM ET check Friday), a 1-point move down, so the fresh market rerun turns the pending card into Under 46.5.",
+      "source": "Action Network consensus line history, California Golden Bears at Virginia Cavaliers (book 15): https://api.actionnetwork.com/web/v2/markets/event/290029/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290029/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858518",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "side",
+    "original": {
+      "pick": "Indiana Hoosiers −7.5",
+      "line": -7.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "USC Trojans +9.5",
+      "line": 9.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Indiana Hoosiers has moved from −7.5, the number the card was written against, to −9.5, and has read −9.5 since 3:25 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at −9.5 on ESPN). The Formula's fresh rerun projects Indiana Hoosiers 29.3, USC Trojans 21.5 (Indiana Hoosiers by 7.7), so the card turns from Indiana Hoosiers −7.5 into USC Trojans +9.5.",
+      "source": "Action Network consensus line history, USC Trojans at Indiana Hoosiers (book 15): https://api.actionnetwork.com/web/v2/markets/event/290000/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290000/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858518",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "side",
+    "original": {
+      "pick": "Indiana Hoosiers −7.5",
+      "line": -7.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "USC Trojans +9.5",
+      "line": 9.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Indiana Hoosiers has moved from −7.5, the number the card was written against, to −9.5, and has read −9.5 since 3:25 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at −9.5 on ESPN). Next Man Up's fresh rerun projects Indiana Hoosiers 30.4, USC Trojans 20.9 (Indiana Hoosiers by 9.4), so the card turns from Indiana Hoosiers −7.5 into USC Trojans +9.5.",
+      "source": "Action Network consensus line history, USC Trojans at Indiana Hoosiers (book 15): https://api.actionnetwork.com/web/v2/markets/event/290000/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290000/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858518",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": -7.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Indiana Hoosiers −9.5",
+      "line": -9.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Indiana Hoosiers for USC Trojans at Indiana Hoosiers moved from −7.5 at 3:08 PM ET Wednesday Nov 11, the first consensus after the Monday night game, to −9.5, which it reached at 3:25 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 2-point move toward Indiana Hoosiers, so the fresh market rerun turns the pending card into Indiana Hoosiers −9.5.",
+      "source": "Action Network consensus line history, USC Trojans at Indiana Hoosiers (book 15): https://api.actionnetwork.com/web/v2/markets/event/290000/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290000/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858518",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 49.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 50.5",
+      "line": 50.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for USC Trojans at Indiana Hoosiers moved from 49.5 at 2:57 PM ET Tuesday Nov 10, the first consensus after the Monday night game, to 50.5, which it reached at 7:51 PM ET Tuesday Nov 10 (still there at the 9:04 PM ET check Friday), a 1-point move up, so the fresh market rerun turns the pending card into Over 50.5.",
+      "source": "Action Network consensus line history, USC Trojans at Indiana Hoosiers (book 15): https://api.actionnetwork.com/web/v2/markets/event/290000/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290000/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858523",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": -10.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Michigan Wolverines +10.5",
+      "line": 10.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Oregon Ducks for Michigan Wolverines at Oregon Ducks moved from −11.5 at 8:38 PM ET Tuesday Nov 10, the first consensus after the Monday night game, to −10.5, which it reached at 11:26 AM ET Thursday Nov 12 (still there at the 9:04 PM ET check Friday), a 1-point move toward Michigan Wolverines, so the fresh market rerun turns the pending card into Michigan Wolverines +10.5.",
+      "source": "Action Network consensus line history, Michigan Wolverines at Oregon Ducks (book 15): https://api.actionnetwork.com/web/v2/markets/event/290042/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290042/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401862826",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": -5.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Tulsa Golden Hurricane −6.5",
+      "line": -6.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Tulsa Golden Hurricane for Florida Atlantic Owls at Tulsa Golden Hurricane moved from −5.5 at 11:45 AM ET Wednesday Nov 11, the first consensus after the Monday night game, to −6.5, which it reached at 7:58 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move toward Tulsa Golden Hurricane, so the fresh market rerun turns the pending card into Tulsa Golden Hurricane −6.5.",
+      "source": "Action Network consensus line history, Florida Atlantic Owls at Tulsa Golden Hurricane (book 15): https://api.actionnetwork.com/web/v2/markets/event/290049/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290049/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401862826",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 74.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 73.5",
+      "line": 73.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Florida Atlantic Owls at Tulsa Golden Hurricane moved from 74.5 at 10:17 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 73.5, which it reached at 4:31 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move down, so the fresh market rerun turns the pending card into Under 73.5.",
+      "source": "Action Network consensus line history, Florida Atlantic Owls at Tulsa Golden Hurricane (book 15): https://api.actionnetwork.com/web/v2/markets/event/290049/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290049/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401864536",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": 7.0,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Northern Illinois Huskies +5.5",
+      "line": 5.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T20:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Northern Illinois Huskies for Nevada Wolf Pack at Northern Illinois Huskies moved from +7 at 12:10 PM ET Tuesday Nov 10, the first consensus after the Monday night game, to +5.5, which it reached at 4:25 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1.5-point move toward Northern Illinois Huskies, so the fresh market rerun turns the pending card into Northern Illinois Huskies +5.5.",
+      "source": "Action Network consensus line history, Nevada Wolf Pack at Northern Illinois Huskies (book 15): https://api.actionnetwork.com/web/v2/markets/event/290040/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290040/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401860916",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 60.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 59.5",
+      "line": 59.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T21:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Fresno State Bulldogs at Texas State Bobcats moved from 60.5 at 11:05 AM ET Wednesday Nov 11, the first consensus after the Monday night game, to 59.5, which it reached at 1:53 PM ET Wednesday Nov 11 (still there at the 9:04 PM ET check Friday), a 1-point move down, so the fresh market rerun turns the pending card into Under 59.5.",
+      "source": "Action Network consensus line history, Fresno State Bulldogs at Texas State Bobcats (book 15): https://api.actionnetwork.com/web/v2/markets/event/289992/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289992/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856887",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "side",
+    "original": {
+      "pick": "Oklahoma Sooners +1.5",
+      "line": 1.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Ole Miss Rebels +2.5",
+      "line": 2.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T21:15Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Oklahoma Sooners has moved from +1.5, the number the card was written against, to −2.5, and has read −2.5 since 6:14 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at −2.5 on ESPN). Next Man Up's fresh rerun projects Oklahoma Sooners 24.6, Ole Miss Rebels 23.3 (Oklahoma Sooners by 1.3), so the card turns from Oklahoma Sooners +1.5 into Ole Miss Rebels +2.5.",
+      "source": "Action Network consensus line history, Ole Miss Rebels at Oklahoma Sooners (book 15): https://api.actionnetwork.com/web/v2/markets/event/290007/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290007/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856887",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": 1.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Oklahoma Sooners −2.5",
+      "line": -2.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T21:15Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Oklahoma Sooners for Ole Miss Rebels at Oklahoma Sooners moved from +1.5 at 2:55 PM ET Tuesday Nov 10, the first consensus after the Monday night game, to −2.5, which it reached at 6:14 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 4-point move toward Oklahoma Sooners, so the fresh market rerun turns the pending card into Oklahoma Sooners −2.5.",
+      "source": "Action Network consensus line history, Ole Miss Rebels at Oklahoma Sooners (book 15): https://api.actionnetwork.com/web/v2/markets/event/290007/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290007/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858521",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "total",
+    "original": {
+      "pick": "Over 43.5",
+      "line": 43.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 44.5",
+      "line": 44.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T21:15Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The total has moved from 43.5, the number the card was written against, to 44.5 on the Action Network consensus, which has read that number since 6:53 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at 44.5 on ESPN). Next Man Up's fresh rerun projects Washington Huskies 22.7, Michigan State Spartans 21.2 (total 44.0), so the card turns from Over 43.5 into Under 44.5.",
+      "source": "Action Network consensus line history, Washington Huskies at Michigan State Spartans (book 15): https://api.actionnetwork.com/web/v2/markets/event/289957/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289957/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858521",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": 4.0,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Michigan State Spartans +2.5",
+      "line": 2.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T21:15Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Michigan State Spartans for Washington Huskies at Michigan State Spartans moved from +3.5 at 10:55 PM ET Tuesday Nov 10, the first consensus after the Monday night game, to +2.5, which it reached at 5:53 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move toward Michigan State Spartans, so the fresh market rerun turns the pending card into Michigan State Spartans +2.5.",
+      "source": "Action Network consensus line history, Washington Huskies at Michigan State Spartans (book 15): https://api.actionnetwork.com/web/v2/markets/event/289957/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289957/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858521",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 43.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 44.5",
+      "line": 44.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T21:15Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Washington Huskies at Michigan State Spartans moved from 43.5 at 9:39 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 44.5, which it reached at 6:53 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move up, so the fresh market rerun turns the pending card into Over 44.5.",
+      "source": "Action Network consensus line history, Washington Huskies at Michigan State Spartans (book 15): https://api.actionnetwork.com/web/v2/markets/event/289957/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289957/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401871099",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 55.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 56.5",
+      "line": 56.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T22:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Southern Miss Golden Eagles at Louisiana Tech Bulldogs moved from 55.5 at 8:32 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 56.5, which it reached at 11:51 AM ET Tuesday Nov 10 (still there at the 9:04 PM ET check Friday), a 1-point move up, so the fresh market rerun turns the pending card into Over 56.5.",
+      "source": "Action Network consensus line history, Southern Miss Golden Eagles at Louisiana Tech Bulldogs (book 15): https://api.actionnetwork.com/web/v2/markets/event/289993/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289993/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856861",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "side",
+    "original": {
+      "pick": "Kansas Jayhawks +3",
+      "line": 3.0,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "West Virginia Mountaineers −2.5",
+      "line": -2.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T22:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on West Virginia Mountaineers has moved from −3, the number the card was written against, to −2.5, and has read −2.5 since 12:26 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at −2.5 on ESPN). Next Man Up's fresh rerun projects West Virginia Mountaineers 37.6, Kansas Jayhawks 35.1 (West Virginia Mountaineers by 2.5), so the card turns from Kansas Jayhawks +3 into West Virginia Mountaineers −2.5.",
+      "source": "Action Network consensus line history, Kansas Jayhawks at West Virginia Mountaineers (book 15): https://api.actionnetwork.com/web/v2/markets/event/289954/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289954/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401860914",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "side",
+    "original": {
+      "pick": "Boise State Broncos −10.5",
+      "line": -10.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Oregon State Beavers +16",
+      "line": 16.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T23:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Boise State Broncos has moved from −10.5, the number the card was written against, to −16, and has read −16 since 8:41 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at −16 on ESPN). Next Man Up's fresh rerun projects Boise State Broncos 39.9, Oregon State Beavers 28.1 (Boise State Broncos by 11.8), so the card turns from Boise State Broncos −10.5 into Oregon State Beavers +16.",
+      "source": "Action Network consensus line history, Oregon State Beavers at Boise State Broncos (book 15): https://api.actionnetwork.com/web/v2/markets/event/290014/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290014/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401860914",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": -10.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Boise State Broncos −16",
+      "line": -16.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T23:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Boise State Broncos for Oregon State Beavers at Boise State Broncos moved from −13 at 9:55 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to −16, which it reached at 8:41 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 3-point move toward Boise State Broncos, so the fresh market rerun turns the pending card into Boise State Broncos −16.",
+      "source": "Action Network consensus line history, Oregon State Beavers at Boise State Broncos (book 15): https://api.actionnetwork.com/web/v2/markets/event/290014/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290014/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401860914",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 66.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 63.5",
+      "line": 63.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T23:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Oregon State Beavers at Boise State Broncos moved from 65.5 at 4:01 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 63.5, which it reached at 8:39 PM ET Thursday Nov 12 (still there at the 9:04 PM ET check Friday), a 2-point move down, so the fresh market rerun turns the pending card into Under 63.5.",
+      "source": "Action Network consensus line history, Oregon State Beavers at Boise State Broncos (book 15): https://api.actionnetwork.com/web/v2/markets/event/290014/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290014/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401869928",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 53.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 54.5",
+      "line": 54.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-14T23:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for App State Mountaineers at Marshall Thundering Herd moved from 53.5 at 9:57 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 54.5, which it reached at 3:20 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move up, so the fresh market rerun turns the pending card into Over 54.5.",
+      "source": "Action Network consensus line history, App State Mountaineers at Marshall Thundering Herd (book 15): https://api.actionnetwork.com/web/v2/markets/event/290043/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290043/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858298",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "total",
+    "original": {
+      "pick": "Under 60.5",
+      "line": 60.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 57.5",
+      "line": 57.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The total has moved from 60.5, the number the card was written against, to 57.5 on the Action Network consensus, which has read that number since 3:34 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at 57.5 on ESPN). Next Man Up's fresh rerun projects Louisville Cardinals 30.0, North Carolina Tar Heels 29.0 (total 59.1), so the card turns from Under 60.5 into Over 57.5.",
+      "source": "Action Network consensus line history, Louisville Cardinals at North Carolina Tar Heels (book 15): https://api.actionnetwork.com/web/v2/markets/event/290022/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290022/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858298",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 60.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 57.5",
+      "line": 57.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Louisville Cardinals at North Carolina Tar Heels moved from 59.5 at 12:13 PM ET Tuesday Nov 10, the first consensus after the Monday night game, to 57.5, which it reached at 3:34 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 2-point move down, so the fresh market rerun turns the pending card into Under 57.5.",
+      "source": "Action Network consensus line history, Louisville Cardinals at North Carolina Tar Heels (book 15): https://api.actionnetwork.com/web/v2/markets/event/290022/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290022/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858524",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "side",
+    "original": {
+      "pick": "Penn State Nittany Lions −9.5",
+      "line": -9.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Minnesota Golden Gophers +11.5",
+      "line": 11.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Penn State Nittany Lions has moved from −9.5, the number the card was written against, to −11.5, and has read −11.5 since 8:09 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at −11.5 on ESPN). The Formula's fresh rerun projects Penn State Nittany Lions 29.7, Minnesota Golden Gophers 18.8 (Penn State Nittany Lions by 11.0), so the card turns from Penn State Nittany Lions −9.5 into Minnesota Golden Gophers +11.5.",
+      "source": "Action Network consensus line history, Minnesota Golden Gophers at Penn State Nittany Lions (book 15): https://api.actionnetwork.com/web/v2/markets/event/289978/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289978/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858524",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": -9.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Penn State Nittany Lions −11.5",
+      "line": -11.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Penn State Nittany Lions for Minnesota Golden Gophers at Penn State Nittany Lions moved from −9.5 at 1:38 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to −11.5, which it reached at 8:09 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 2-point move toward Penn State Nittany Lions, so the fresh market rerun turns the pending card into Penn State Nittany Lions −11.5.",
+      "source": "Action Network consensus line history, Minnesota Golden Gophers at Penn State Nittany Lions (book 15): https://api.actionnetwork.com/web/v2/markets/event/289978/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289978/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858524",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 43.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 42.5",
+      "line": 42.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Minnesota Golden Gophers at Penn State Nittany Lions moved from 41.5 at 1:38 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 42.5, which it reached at 4:15 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move up, so the fresh market rerun turns the pending card into Over 42.5.",
+      "source": "Action Network consensus line history, Minnesota Golden Gophers at Penn State Nittany Lions (book 15): https://api.actionnetwork.com/web/v2/markets/event/289978/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289978/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401864538",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "total",
+    "original": {
+      "pick": "Over 47.5",
+      "line": 47.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 48.5",
+      "line": 48.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The total has moved from 47.5, the number the card was written against, to 48.5 on the Action Network consensus, which has read that number since 5:23 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at 48.5 on ESPN). The Formula's fresh rerun projects Air Force Falcons 28.7, San José State Spartans 19.1 (total 47.7), so the card turns from Over 47.5 into Under 48.5.",
+      "source": "Action Network consensus line history, San José State Spartans at Air Force Falcons (book 15): https://api.actionnetwork.com/web/v2/markets/event/290017/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290017/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401864538",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "side",
+    "original": {
+      "pick": "Air Force Falcons −11.5",
+      "line": -11.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "San José State Spartans +13.5",
+      "line": 13.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Air Force Falcons has moved from −11.5, the number the card was written against, to −13.5, and has read −13.5 since 8:04 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at −13.5 on ESPN). Next Man Up's fresh rerun projects Air Force Falcons 28.6, San José State Spartans 16.9 (Air Force Falcons by 11.7), so the card turns from Air Force Falcons −11.5 into San José State Spartans +13.5.",
+      "source": "Action Network consensus line history, San José State Spartans at Air Force Falcons (book 15): https://api.actionnetwork.com/web/v2/markets/event/290017/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290017/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401864538",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": -11.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Air Force Falcons −13.5",
+      "line": -13.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Air Force Falcons for San José State Spartans at Air Force Falcons moved from −12 at 11:47 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to −13.5, which it reached at 8:04 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1.5-point move toward Air Force Falcons, so the fresh market rerun turns the pending card into Air Force Falcons −13.5.",
+      "source": "Action Network consensus line history, San José State Spartans at Air Force Falcons (book 15): https://api.actionnetwork.com/web/v2/markets/event/290017/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290017/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401864538",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 47.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 48.5",
+      "line": 48.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for San José State Spartans at Air Force Falcons moved from 47.5 at 11:48 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 48.5, which it reached at 5:23 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move up, so the fresh market rerun turns the pending card into Over 48.5.",
+      "source": "Action Network consensus line history, San José State Spartans at Air Force Falcons (book 15): https://api.actionnetwork.com/web/v2/markets/event/290017/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290017/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401871100",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "side",
+    "original": {
+      "pick": "South Alabama Jaguars −2.5",
+      "line": -2.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Troy Trojans +3",
+      "line": 3.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on South Alabama Jaguars has moved from −2.5, the number the card was written against, to −3, and has read −3 since 9:53 AM ET Monday Nov 9 (still there at the 9:04 PM ET check Friday, with DraftKings at −3 on ESPN). The Formula's fresh rerun projects South Alabama Jaguars 28.8, Troy Trojans 26.0 (South Alabama Jaguars by 2.8), so the card turns from South Alabama Jaguars −2.5 into Troy Trojans +3.",
+      "source": "Action Network consensus line history, Troy Trojans at South Alabama Jaguars (book 15): https://api.actionnetwork.com/web/v2/markets/event/290028/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290028/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401871100",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 55.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 55.5",
+      "line": 55.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Troy Trojans at South Alabama Jaguars moved from 56.5 at 9:38 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 55.5, which it reached at 10:29 PM ET Tuesday Nov 10 (still there at the 9:04 PM ET check Friday), a 1-point move down, so the fresh market rerun turns the pending card into Under 55.5.",
+      "source": "Action Network consensus line history, Troy Trojans at South Alabama Jaguars (book 15): https://api.actionnetwork.com/web/v2/markets/event/290028/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290028/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856864",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "total",
+    "original": {
+      "pick": "Over 53.5",
+      "line": 53.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 55.5",
+      "line": 55.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The total has moved from 53.5, the number the card was written against, to 55.5 on the Action Network consensus, which has read that number since 4:02 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at 55.5 on ESPN). Next Man Up's fresh rerun projects Utah Utes 29.3, Arizona Wildcats 26.1 (total 55.4), so the card turns from Over 53.5 into Under 55.5.",
+      "source": "Action Network consensus line history, Utah Utes at Arizona Wildcats (book 15): https://api.actionnetwork.com/web/v2/markets/event/289961/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289961/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856864",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": 2.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Arizona Wildcats +1.5",
+      "line": 1.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Arizona Wildcats for Utah Utes at Arizona Wildcats moved from +2.5 at 12:43 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to +1.5, which it reached at 7:49 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move toward Arizona Wildcats, so the fresh market rerun turns the pending card into Arizona Wildcats +1.5.",
+      "source": "Action Network consensus line history, Utah Utes at Arizona Wildcats (book 15): https://api.actionnetwork.com/web/v2/markets/event/289961/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289961/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856864",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 53.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 55.5",
+      "line": 55.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Utah Utes at Arizona Wildcats moved from 54.5 at 4:49 PM ET Thursday Nov 12, the first consensus after the Monday night game, to 55.5, which it reached at 4:02 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 1-point move up, so the fresh market rerun turns the pending card into Over 55.5.",
+      "source": "Action Network consensus line history, Utah Utes at Arizona Wildcats (book 15): https://api.actionnetwork.com/web/v2/markets/event/289961/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289961/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401858299",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 59.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 57.5",
+      "line": 57.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Stanford Cardinal at Virginia Tech Hokies moved from 58.5 at 11:27 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 57.5, which it reached at 7:50 PM ET Thursday Nov 12 (still there at the 9:04 PM ET check Friday), a 1-point move down, so the fresh market rerun turns the pending card into Under 57.5.",
+      "source": "Action Network consensus line history, Stanford Cardinal at Virginia Tech Hokies (book 15): https://api.actionnetwork.com/web/v2/markets/event/289989/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289989/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401864539",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "side",
+    "original": {
+      "pick": "No pick",
+      "line": -14.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "New Mexico Lobos −16.5",
+      "line": -16.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T00:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on New Mexico Lobos for UNLV Rebels at New Mexico Lobos moved from −14 at 12:04 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to −16.5, which it reached at 7:29 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 2.5-point move toward New Mexico Lobos, so the fresh market rerun turns the pending card into New Mexico Lobos −16.5.",
+      "source": "Action Network consensus line history, UNLV Rebels at New Mexico Lobos (book 15): https://api.actionnetwork.com/web/v2/markets/event/290004/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290004/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856863",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "total",
+    "original": {
+      "pick": "Over 72.5",
+      "line": 72.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 73.5",
+      "line": 73.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T02:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The total has moved from 72.5, the number the card was written against, to 73.5 on the Action Network consensus, which has read that number since 10:07 AM ET Thursday Nov 12 (still there at the 9:04 PM ET check Friday, with DraftKings at 73.5 on ESPN). Next Man Up's fresh rerun projects Oklahoma State Cowboys 37.6, Texas Tech Red Raiders 35.6 (total 73.2), so the card turns from Over 72.5 into Under 73.5.",
+      "source": "Action Network consensus line history, Texas Tech Red Raiders at Oklahoma State Cowboys (book 15): https://api.actionnetwork.com/web/v2/markets/event/290039/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290039/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401856863",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 72.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 73.5",
+      "line": 73.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T02:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Texas Tech Red Raiders at Oklahoma State Cowboys moved from 72.5 at 8:43 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 73.5, which it reached at 10:07 AM ET Thursday Nov 12 (still there at the 9:04 PM ET check Friday), a 1-point move up, so the fresh market rerun turns the pending card into Over 73.5.",
+      "source": "Action Network consensus line history, Texas Tech Red Raiders at Oklahoma State Cowboys (book 15): https://api.actionnetwork.com/web/v2/markets/event/290039/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290039/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401860915",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "side",
+    "original": {
+      "pick": "Utah State Aggies −1.5",
+      "line": -1.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "San Diego State Aztecs +2.5",
+      "line": 2.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T02:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on San Diego State Aztecs has moved from +1.5, the number the card was written against, to +2.5, and has read +2.5 since 10:15 AM ET Monday Nov 9 (still there at the 9:04 PM ET check Friday, with DraftKings at +2.5 on ESPN). The Formula's fresh rerun projects Utah State Aggies 26.0, San Diego State Aztecs 23.6 (Utah State Aggies by 2.4), so the card turns from Utah State Aggies −1.5 into San Diego State Aztecs +2.5.",
+      "source": "Action Network consensus line history, Utah State Aggies at San Diego State Aztecs (book 15): https://api.actionnetwork.com/web/v2/markets/event/290034/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290034/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401860915",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 41.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 44.5",
+      "line": 44.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T02:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Utah State Aggies at San Diego State Aztecs moved from 42.5 at 11:39 PM ET Monday Nov 9, the first consensus after the Monday night game, to 44.5, which it reached at 4:36 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 2-point move up, so the fresh market rerun turns the pending card into Over 44.5.",
+      "source": "Action Network consensus line history, Utah State Aggies at San Diego State Aztecs (book 15): https://api.actionnetwork.com/web/v2/markets/event/290034/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290034/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401864540",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "side",
+    "original": {
+      "pick": "UTEP Miners +9.5",
+      "line": 9.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Wyoming Cowboys −7",
+      "line": -7.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T03:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on UTEP Miners has moved from +9.5, the number the card was written against, to +7, and has read +7 since 7:49 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at +7 on ESPN). The Formula's fresh rerun projects Wyoming Cowboys 28.2, UTEP Miners 19.3 (Wyoming Cowboys by 8.9), so the card turns from UTEP Miners +9.5 into Wyoming Cowboys −7.",
+      "source": "Action Network consensus line history, Wyoming Cowboys at UTEP Miners (book 15): https://api.actionnetwork.com/web/v2/markets/event/289981/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289981/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401864540",
+    "league": "college",
+    "handicapper": "Next Man Up",
+    "market": "side",
+    "original": {
+      "pick": "UTEP Miners +9.5",
+      "line": 9.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Wyoming Cowboys −7",
+      "line": -7.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T03:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on UTEP Miners has moved from +9.5, the number the card was written against, to +7, and has read +7 since 7:49 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at +7 on ESPN). Next Man Up's fresh rerun projects Wyoming Cowboys 25.7, UTEP Miners 17.8 (Wyoming Cowboys by 7.9), so the card turns from UTEP Miners +9.5 into Wyoming Cowboys −7.",
+      "source": "Action Network consensus line history, Wyoming Cowboys at UTEP Miners (book 15): https://api.actionnetwork.com/web/v2/markets/event/289981/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289981/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401864540",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 40.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Over 40.5",
+      "line": 40.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T03:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Wyoming Cowboys at UTEP Miners moved from 39.5 at 9:15 AM ET Tuesday Nov 10, the first consensus after the Monday night game, to 40.5, which it reached at 9:37 PM ET Thursday Nov 12 (still there at the 9:04 PM ET check Friday), a 1-point move up, so the fresh market rerun turns the pending card into Over 40.5.",
+      "source": "Action Network consensus line history, Wyoming Cowboys at UTEP Miners (book 15): https://api.actionnetwork.com/web/v2/markets/event/289981/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289981/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401860917",
+    "league": "college",
+    "handicapper": "Follow The Money",
+    "market": "total",
+    "original": {
+      "pick": "No pick",
+      "line": 67.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Under 65.5",
+      "line": 65.5
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T03:30Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus total for Colorado State Rams at Washington State Cougars moved from 67.5 at 1:11 PM ET Wednesday Nov 11, the first consensus after the Monday night game, to 65.5, which it reached at 7:31 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday), a 2-point move down, so the fresh market rerun turns the pending card into Under 65.5.",
+      "source": "Action Network consensus line history, Colorado State Rams at Washington State Cougars (book 15): https://api.actionnetwork.com/web/v2/markets/event/289997/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289997/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
+  },
+  {
+    "game_id": "401864537",
+    "league": "college",
+    "handicapper": "The Formula",
+    "market": "side",
+    "original": {
+      "pick": "North Dakota State Bison −6.5",
+      "line": -6.5,
+      "made_at": "2026-11-09T17:52:59Z"
+    },
+    "final": {
+      "pick": "Hawai'i Rainbow Warriors +7",
+      "line": 7.0
+    },
+    "changed_at": "2026-11-14T02:16:00Z",
+    "kickoff": "2026-11-15T04:00Z",
+    "reason": {
+      "type": "line_move",
+      "detail": "The Action Network consensus spread on Hawai'i Rainbow Warriors has moved from +6.5, the number the card was written against, to +7, and has read +7 since 5:04 PM ET Friday Nov 13 (still there at the 9:04 PM ET check Friday, with DraftKings at +7 on ESPN). The Formula's fresh rerun projects North Dakota State Bison 25.7, Hawai'i Rainbow Warriors 18.9 (North Dakota State Bison by 6.9), so the card turns from North Dakota State Bison −6.5 into Hawai'i Rainbow Warriors +7.",
+      "source": "Action Network consensus line history, North Dakota State Bison at Hawai'i Rainbow Warriors (book 15): https://api.actionnetwork.com/web/v2/markets/event/289987/history?bookIds=15 (checked Nov 13, 2026, 9:04 PM ET)",
+      "source_url": "https://api.actionnetwork.com/web/v2/markets/event/289987/history?bookIds=15",
+      "persuaded_by": null,
+      "argument_quote": null
+    },
+    "status": "final"
   }
 ]
