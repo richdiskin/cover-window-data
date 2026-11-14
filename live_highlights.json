@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-14T22:46:45Z",
+ "updated_utc": "2026-11-14T23:38:53Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -2924,7 +2924,24 @@
    "kickoff_utc": "2026-11-14T20:00Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "CZIvkf94YiA",
+    "title": "Tennessee Volunteers vs. Texas A&M Aggies | Game Highlights | 2026 SEC Football",
+    "channel": "SEC",
+    "channel_id": "UC60q_WUDde_NK-ze3frvtiA",
+    "url": "https://www.youtube.com/watch?v=CZIvkf94YiA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/CZIvkf94YiA",
+    "thumb": "https://i.ytimg.com/vi/CZIvkf94YiA/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-14T23:28:56Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-14T23:37:33Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401870796": {
    "game_id": "401870796",
