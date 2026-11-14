@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "nfl",
- "updated_utc": "2026-11-13T01:39:56Z",
+ "updated_utc": "2026-11-14T17:14:20Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401873026": {
@@ -302,6 +302,14 @@
    "kickoff_utc": "2026-11-13T01:15Z",
    "first_seen_utc": "2026-11-13T01:39:46Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 4:04",
+   "halftime_eligible": true
+  },
+  "401873053": {
+   "game_id": "401873053",
+   "matchup": "New England Patriots at Detroit Lions",
+   "kickoff_utc": "2026-11-15T14:30Z",
+   "first_seen_utc": "2026-11-14T17:14:14Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
    "halftime_eligible": true
   }
  }
