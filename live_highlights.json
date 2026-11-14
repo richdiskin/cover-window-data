@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-14T17:14:20Z",
+ "updated_utc": "2026-11-14T18:11:54Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -3048,6 +3048,14 @@
    "matchup": "North Dakota State Bison at Hawai'i Rainbow Warriors",
    "kickoff_utc": "2026-11-15T04:00Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401856887": {
+   "game_id": "401856887",
+   "matchup": "Ole Miss Rebels at Oklahoma Sooners",
+   "kickoff_utc": "2026-11-15T18:00Z",
+   "first_seen_utc": "2026-11-14T18:11:52Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
    "halftime_eligible": true
   }
