@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-14T20:41:26Z",
+ "updated_utc": "2026-11-14T21:18:16Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -2642,7 +2642,24 @@
    "kickoff_utc": "2026-11-14T17:00Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 12:39",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "lgLiXL-Qc-E",
+    "title": "Duke Blue Devils vs. Miami Hurricanes | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=lgLiXL-Qc-E",
+    "embed_url": "https://www.youtube-nocookie.com/embed/lgLiXL-Qc-E",
+    "thumb": "https://i.ytimg.com/vi/lgLiXL-Qc-E/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-14T21:08:31Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-14T21:15:24Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858300": {
    "game_id": "401858300",
@@ -2650,7 +2667,24 @@
    "kickoff_utc": "2026-11-14T17:00Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 7:44",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "L5bnlxq1QKE",
+    "title": "Syracuse Orange vs. NC State Wolfpack | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=L5bnlxq1QKE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/L5bnlxq1QKE",
+    "thumb": "https://i.ytimg.com/vi/L5bnlxq1QKE/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-14T20:40:30Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-14T21:15:24Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858301": {
    "game_id": "401858301",
@@ -2658,7 +2692,24 @@
    "kickoff_utc": "2026-11-14T17:00Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 11:05",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "f_Fsi6QxOW8",
+    "title": "Wake Forest Demon Deacons vs. SMU Mustangs | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=f_Fsi6QxOW8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/f_Fsi6QxOW8",
+    "thumb": "https://i.ytimg.com/vi/f_Fsi6QxOW8/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-14T20:56:41Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-14T21:15:24Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858520": {
    "game_id": "401858520",
@@ -2666,7 +2717,24 @@
    "kickoff_utc": "2026-11-14T17:00Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 11:01",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "fyla8gfRK2o",
+    "title": "Wisconsin Badgers vs Maryland Terrapins Highlights | FOX College Football",
+    "channel": "CFB ON FOX",
+    "channel_id": "UCpwix-O6ceqMgdxhqIynzFA",
+    "url": "https://www.youtube.com/watch?v=fyla8gfRK2o",
+    "embed_url": "https://www.youtube-nocookie.com/embed/fyla8gfRK2o",
+    "thumb": "https://i.ytimg.com/vi/fyla8gfRK2o/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-14T20:49:48Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-14T21:16:27Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858522": {
    "game_id": "401858522",
@@ -2674,7 +2742,24 @@
    "kickoff_utc": "2026-11-14T17:00Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 15:00",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "-4cqXDnktus",
+    "title": "Northwestern at Ohio State | Highlights | Big Ten Football | 11/14/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=-4cqXDnktus",
+    "embed_url": "https://www.youtube-nocookie.com/embed/-4cqXDnktus",
+    "thumb": "https://i.ytimg.com/vi/-4cqXDnktus/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-14T21:03:22Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-14T21:16:39Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401861967": {
    "game_id": "401861967",
@@ -2698,7 +2783,24 @@
    "kickoff_utc": "2026-11-14T17:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "-NOktCLBw4c",
+    "title": "Nebraska Cornhuskers vs. Rutgers Scarlet Knights Highlights 🏈 FOX College Football",
+    "channel": "CFB ON FOX",
+    "channel_id": "UCpwix-O6ceqMgdxhqIynzFA",
+    "url": "https://www.youtube.com/watch?v=-NOktCLBw4c",
+    "embed_url": "https://www.youtube-nocookie.com/embed/-NOktCLBw4c",
+    "thumb": "https://i.ytimg.com/vi/-NOktCLBw4c/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-14T21:13:01Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-14T21:17:37Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856889": {
    "game_id": "401856889",
@@ -2706,7 +2808,24 @@
    "kickoff_utc": "2026-11-14T17:45Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "U6v1QEamzD8",
+    "title": "Alabama Crimson Tide vs. Vanderbilt Commodores | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=U6v1QEamzD8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/U6v1QEamzD8",
+    "thumb": "https://i.ytimg.com/vi/U6v1QEamzD8/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-14T21:05:34Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-14T21:17:43Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401862825": {
    "game_id": "401862825",

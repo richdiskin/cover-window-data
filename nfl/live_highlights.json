@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "nfl",
- "updated_utc": "2026-11-14T18:11:55Z",
+ "updated_utc": "2026-11-14T21:18:16Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401873026": {
@@ -365,6 +365,22 @@
    "matchup": "Buffalo Bills at New York Jets",
    "kickoff_utc": "2026-11-15T18:00Z",
    "first_seen_utc": "2026-11-14T18:11:52Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873062": {
+   "game_id": "401873062",
+   "matchup": "Seattle Seahawks at Las Vegas Raiders",
+   "kickoff_utc": "2026-11-15T21:05Z",
+   "first_seen_utc": "2026-11-14T21:14:06Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873061": {
+   "game_id": "401873061",
+   "matchup": "Los Angeles Rams at Arizona Cardinals",
+   "kickoff_utc": "2026-11-15T21:05Z",
+   "first_seen_utc": "2026-11-14T21:14:06Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
    "halftime_eligible": true
   }
