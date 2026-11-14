@@ -4789,13 +4789,13 @@
     "georgia-tech",
     "clemson"
    ],
-   "spread": "Clemson Tigers −13.5",
+   "spread": "Clemson Tigers −15.5",
    "total_line": 47.5,
    "prediction": {
     "away_score": 18,
     "home_score": 31,
     "winner": "Clemson Tigers",
-    "covers": "Georgia Tech Yellow Jackets +13.5"
+    "covers": "Georgia Tech Yellow Jackets +15.5"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -4804,73 +4804,73 @@
    "display": {
     "writer": {
      "score_line": "Projected: Clemson Tigers 31, Georgia Tech Yellow Jackets 18 (Total 49)",
-     "side": "Georgia Tech Yellow Jackets +13.5",
+     "side": "Georgia Tech Yellow Jackets +15.5",
      "ou": "Over 47.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Georgia Tech Yellow Jackets +13.5",
+      "side_line": "Side: Georgia Tech Yellow Jackets +15.5",
       "ou_line": "O/U: Over 47.5",
       "score_line": "Projected: Clemson Tigers 31, Georgia Tech Yellow Jackets 19 (Total 50)",
       "basis_line": "Net ratings Georgia Tech Yellow Jackets −4.5, Clemson Tigers 7.2 (ESPN Football Power Index, Nov 9, 2026)",
       "independent": true,
-      "distance_from_spread": 1.5,
+      "distance_from_spread": 3.5,
       "distance_from_total": 2.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Clemson Tigers −13.5",
+      "side_line": "Side: Georgia Tech Yellow Jackets +15.5",
       "ou_line": "O/U: Under 47.5",
       "score_line": "Projected: Clemson Tigers 30, Georgia Tech Yellow Jackets 16 (Total 46)",
       "basis_line": "With the players available: projected points Georgia Tech Yellow Jackets 15.5, Clemson Tigers 30.3.",
       "independent": true,
-      "distance_from_spread": 0.5,
+      "distance_from_spread": 1.5,
       "distance_from_total": 1.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Georgia Tech Yellow Jackets +13.5",
+      "side_line": "Side: Georgia Tech Yellow Jackets +15.5",
       "ou_line": "O/U: Over 47.5",
       "score_line": "Projected: Clemson Tigers 30, Georgia Tech Yellow Jackets 19 (Total 49)",
       "basis_line": "Rest and travel read: projected points Georgia Tech Yellow Jackets 18.5, Clemson Tigers 30.3.",
       "independent": true,
-      "distance_from_spread": 2.5,
+      "distance_from_spread": 4.5,
       "distance_from_total": 1.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: Clemson Tigers −15 · Likes this side",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Clemson Tigers −13.5 (Nov 10, 8:39 AM ET) and is −15 now, a 1.5-point move. The side pick quotes the consensus spread now (Clemson Tigers −15), not the game line listed on this page (Clemson Tigers −15.5). Consensus total opened 47.5 (Nov 11, 3:21 AM ET) and is 47.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 14, 9:56 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Georgia Tech Yellow Jackets +13.5 · Likes this side",
-      "ou_line": "O/U: this card reads sides only",
+      "side_line": "Side: Georgia Tech Yellow Jackets +15.5 · Likes this side",
+      "ou_line": "O/U: no pick",
       "score_line": "Projected: Clemson Tigers 32, Georgia Tech Yellow Jackets 19 (Total 51)",
-      "basis_line": "This read points to a side only. Georgia Tech Yellow Jackets 3.9 ypc vs Clemson Tigers allowing 3.6; Clemson Tigers 4.1 ypc vs Georgia Tech Yellow Jackets allowing 5.1 (2026 season). Clemson Tigers run game 1.1 ypc below what the opponent allows, which favours Georgia Tech Yellow Jackets. Side: Georgia Tech Yellow Jackets +13.5.",
+      "basis_line": "This read points to a side only. Georgia Tech Yellow Jackets 3.9 ypc vs Clemson Tigers allowing 3.6; Clemson Tigers 4.1 ypc vs Georgia Tech Yellow Jackets allowing 5.1 (2026 season). Clemson Tigers run game 1.1 ypc below what the opponent allows, which favours Georgia Tech Yellow Jackets. Side: Georgia Tech Yellow Jackets +15.5.",
       "independent": true,
-      "distance_from_spread": 0.5,
+      "distance_from_spread": 2.5,
       "distance_from_total": 3.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "Market check, Georgia Tech at Clemson: DraftKings CLEM -15.5, total 47.5.\n\nGeorgia Tech rolls into Clemson with a new voice calling its defense, days after the old one was let go. The AJC reports Brent Key fired defensive coordinator Jason Semore and three other staff members this week, and defensive backs coach Vinnie Sunseri now calls the plays. Key isn't promising a makeover. “You can't wholesale change things,” he said.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at CLEM -15.5, total 47.5. The Cover Window's published pick is Georgia Tech +13.5 and Over 47.5. The market has grown to Clemson -15.5 with the total holding at 47.5, so the Jackets now get two more points than the card. The card's projected final is Clemson Tigers 31, Georgia Tech Yellow Jackets 18 (Total 49). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: TigerNet (Nov. 13, evening) lists Davidson and Brown out for Clemson. The AJC's Georgia Tech list (Nov. 13) has 19 out.\n\nIt's been a rough stretch for the Jackets. An AJC photo from last week's 42-7 home loss to Louisville shows Tech fans with paper bags over their heads. The roster is just as worn down, with 19 players listed out for this trip, among them running backs Malachi Hosley and Chad Alexander and cornerbacks Kelvin Hill, Jaedyn Terry and Trae Stevenson. Tech is 2-7 and has dropped four straight.\n\nClemson has holes too. TigerNet reports running back Gideon Davidson and receiver Tyler Brown, both starters, were ruled out again with ankle injuries. Juju Preston steps in at slot receiver and Jarvis Green at running back. ESPN's data capsule has the Tigers 135th nationally on third down, converting 29.9 percent. That number tells you why a 6-3 season has felt bumpy around town.\n\nA little Upstate gossip for you: TigerNet's message board under that injury story got testy, with some fans grumbling about the direction of the program. One poster answered the grumbling plainly: “Life is good. Go Tigers!” Clemson is 6-3 and still matters in the ACC picture. AP's Miami preview notes a Clemson loss today is one path to Miami clinching. So the orange crowd has a reason to show up loud and early, and Tech has a reason to make them nervous.\n\nThe published card stays Georgia Tech Yellow Jackets +13.5 and Over 47.5 at the numbers it was written against. My final is Clemson Tigers 31, Georgia Tech Yellow Jackets 18. Follow The Money's side and total are both pending.\n\nClemson Tigers 31, Georgia Tech Yellow Jackets 18. Georgia Tech Yellow Jackets cover the 13.5. Over 47.5.",
+    "story_text": "Market check, Georgia Tech at Clemson, Nov. 14, 2026, 9:56 AM ET: DraftKings Clemson −15.5, total 47.5.\n\nGeorgia Tech rolls into Clemson with a new voice calling its defense, days after the old one was let go. The AJC reports Brent Key fired defensive coordinator Jason Semore and three other staff members this week, and defensive backs coach Vinnie Sunseri now calls the plays. Key isn't promising a makeover. “You can't wholesale change things,” he said.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at Clemson −15.5, total 47.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Georgia Tech +13.5 with a 47.5 total. Full preview at thecoverwindow.com.\n\nInjuries: TigerNet (Nov. 13, evening) lists Davidson and Brown out for Clemson. The AJC's Georgia Tech list (Nov. 13) has 19 out.\n\nIt's been a rough stretch for the Jackets. An AJC photo from last week's 42-7 home loss to Louisville shows Tech fans with paper bags over their heads. The roster is just as worn down, with 19 players listed out for this trip, among them running backs Malachi Hosley and Chad Alexander and cornerbacks Kelvin Hill, Jaedyn Terry and Trae Stevenson. Tech is 2-7 and has dropped four straight.\n\nClemson has holes too. TigerNet reports running back Gideon Davidson and receiver Tyler Brown, both starters, were ruled out again with ankle injuries. Juju Preston steps in at slot receiver and Jarvis Green at running back. ESPN's data capsule has the Tigers 135th nationally on third down, converting 29.9 percent. That number tells you why a 6-3 season has felt bumpy around town.\n\nA little Upstate gossip for you: TigerNet's message board under that injury story got testy, with some fans grumbling about the direction of the program. One poster answered the grumbling plainly: “Life is good. Go Tigers!” Clemson is 6-3 and still matters in the ACC picture. AP's Miami preview notes a Clemson loss today is one path to Miami clinching. So the orange crowd has a reason to show up loud and early, and Tech has a reason to make them nervous.\n\nThe desks at today's number. Follow The Money likes Clemson −15 and has no total pick. The Formula: Clemson 31, Georgia Tech 19. That makes it Georgia Tech +15.5 and Over 47.5. Next Man Up: Clemson 30, Georgia Tech 16. That makes it Georgia Tech +15.5 and Under 47.5. Letdown Watch: Clemson 30, Georgia Tech 19. That makes it Georgia Tech +15.5 and Over 47.5. In The Trenches: Clemson 32, Georgia Tech 19, and it stays with Georgia Tech +15.5 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: Georgia Tech Yellow Jackets +15.5 and Over 47.5. My final is Clemson Tigers 31, Georgia Tech Yellow Jackets 18. The spread grew two points since Monday, so Georgia Tech now gets 15.5. Our 13-point margin still sits inside it. Same pick, two more points of cushion. In this business, that counts as a raise.\n\nClemson Tigers 31, Georgia Tech Yellow Jackets 18. Georgia Tech Yellow Jackets cover the 15.5. Over 47.5.",
     "fanatic_score_line": "Projected: Clemson Tigers 31, Georgia Tech Yellow Jackets 18",
     "line_used": {
-     "home_line": "Clemson Tigers −13.5",
+     "home_line": "Clemson Tigers −15.5",
      "total": "47.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T14:56Z"
     },
     "injuries": {
      "away": [],
@@ -4890,15 +4890,15 @@
     "fanatic_story": "Georgia Tech rolls into Clemson with a new voice calling its defense, days after the old one was let go. The AJC reports Brent Key fired defensive coordinator Jason Semore and three other staff members this week, and defensive backs coach Vinnie Sunseri now calls the plays. Key isn't promising a makeover. “You can't wholesale change things,” he said.\n\nIt's been a rough stretch for the Jackets. An AJC photo from last week's 42-7 home loss to Louisville shows Tech fans with paper bags over their heads. The roster is just as worn down, with 19 players listed out for this trip, among them running backs Malachi Hosley and Chad Alexander and cornerbacks Kelvin Hill, Jaedyn Terry and Trae Stevenson. Tech is 2-7 and has dropped four straight.\n\nClemson has holes too. TigerNet reports running back Gideon Davidson and receiver Tyler Brown, both starters, were ruled out again with ankle injuries. Juju Preston steps in at slot receiver and Jarvis Green at running back. ESPN's data capsule has the Tigers 135th nationally on third down, converting 29.9 percent. That number tells you why a 6-3 season has felt bumpy around town.\n\nA little Upstate gossip for you: TigerNet's message board under that injury story got testy, with some fans grumbling about the direction of the program. One poster answered the grumbling plainly: “Life is good. Go Tigers!” Clemson is 6-3 and still matters in the ACC picture. AP's Miami preview notes a Clemson loss today is one path to Miami clinching. So the orange crowd has a reason to show up loud and early, and Tech has a reason to make them nervous.\n\nMy call: Clemson Tigers 31, Georgia Tech Yellow Jackets 18.",
     "market": {
      "score_line": "",
-     "spread": "Clemson Tigers −13.5",
+     "spread": "Clemson Tigers −15.5",
      "total": "47.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "Georgia Tech at Clemson: Tech Brings a New Defensive Play-Caller Into Memorial Stadium",
     "fanatic_headline": "Georgia Tech at Clemson: Tech Brings a New Defensive Play-Caller Into Memorial Stadium"
    },
-   "gambler_story": "Market check, Georgia Tech at Clemson: DraftKings CLEM -15.5, total 47.5.\n\nGeorgia Tech rolls into Clemson with a new voice calling its defense, days after the old one was let go. The AJC reports Brent Key fired defensive coordinator Jason Semore and three other staff members this week, and defensive backs coach Vinnie Sunseri now calls the plays. Key isn't promising a makeover. “You can't wholesale change things,” he said.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at CLEM -15.5, total 47.5. The Cover Window's published pick is Georgia Tech +13.5 and Over 47.5. The market has grown to Clemson -15.5 with the total holding at 47.5, so the Jackets now get two more points than the card. The card's projected final is Clemson Tigers 31, Georgia Tech Yellow Jackets 18 (Total 49). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: TigerNet (Nov. 13, evening) lists Davidson and Brown out for Clemson. The AJC's Georgia Tech list (Nov. 13) has 19 out.\n\nIt's been a rough stretch for the Jackets. An AJC photo from last week's 42-7 home loss to Louisville shows Tech fans with paper bags over their heads. The roster is just as worn down, with 19 players listed out for this trip, among them running backs Malachi Hosley and Chad Alexander and cornerbacks Kelvin Hill, Jaedyn Terry and Trae Stevenson. Tech is 2-7 and has dropped four straight.\n\nClemson has holes too. TigerNet reports running back Gideon Davidson and receiver Tyler Brown, both starters, were ruled out again with ankle injuries. Juju Preston steps in at slot receiver and Jarvis Green at running back. ESPN's data capsule has the Tigers 135th nationally on third down, converting 29.9 percent. That number tells you why a 6-3 season has felt bumpy around town.\n\nA little Upstate gossip for you: TigerNet's message board under that injury story got testy, with some fans grumbling about the direction of the program. One poster answered the grumbling plainly: “Life is good. Go Tigers!” Clemson is 6-3 and still matters in the ACC picture. AP's Miami preview notes a Clemson loss today is one path to Miami clinching. So the orange crowd has a reason to show up loud and early, and Tech has a reason to make them nervous.\n\nThe published card stays Georgia Tech Yellow Jackets +13.5 and Over 47.5 at the numbers it was written against. My final is Clemson Tigers 31, Georgia Tech Yellow Jackets 18. Follow The Money's side and total are both pending.\n\nClemson Tigers 31, Georgia Tech Yellow Jackets 18. Georgia Tech Yellow Jackets cover the 13.5. Over 47.5.",
+   "gambler_story": "Market check, Georgia Tech at Clemson, Nov. 14, 2026, 9:56 AM ET: DraftKings Clemson −15.5, total 47.5.\n\nGeorgia Tech rolls into Clemson with a new voice calling its defense, days after the old one was let go. The AJC reports Brent Key fired defensive coordinator Jason Semore and three other staff members this week, and defensive backs coach Vinnie Sunseri now calls the plays. Key isn't promising a makeover. “You can't wholesale change things,” he said.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at Clemson −15.5, total 47.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Georgia Tech +13.5 with a 47.5 total. Full preview at thecoverwindow.com.\n\nInjuries: TigerNet (Nov. 13, evening) lists Davidson and Brown out for Clemson. The AJC's Georgia Tech list (Nov. 13) has 19 out.\n\nIt's been a rough stretch for the Jackets. An AJC photo from last week's 42-7 home loss to Louisville shows Tech fans with paper bags over their heads. The roster is just as worn down, with 19 players listed out for this trip, among them running backs Malachi Hosley and Chad Alexander and cornerbacks Kelvin Hill, Jaedyn Terry and Trae Stevenson. Tech is 2-7 and has dropped four straight.\n\nClemson has holes too. TigerNet reports running back Gideon Davidson and receiver Tyler Brown, both starters, were ruled out again with ankle injuries. Juju Preston steps in at slot receiver and Jarvis Green at running back. ESPN's data capsule has the Tigers 135th nationally on third down, converting 29.9 percent. That number tells you why a 6-3 season has felt bumpy around town.\n\nA little Upstate gossip for you: TigerNet's message board under that injury story got testy, with some fans grumbling about the direction of the program. One poster answered the grumbling plainly: “Life is good. Go Tigers!” Clemson is 6-3 and still matters in the ACC picture. AP's Miami preview notes a Clemson loss today is one path to Miami clinching. So the orange crowd has a reason to show up loud and early, and Tech has a reason to make them nervous.\n\nThe desks at today's number. Follow The Money likes Clemson −15 and has no total pick. The Formula: Clemson 31, Georgia Tech 19. That makes it Georgia Tech +15.5 and Over 47.5. Next Man Up: Clemson 30, Georgia Tech 16. That makes it Georgia Tech +15.5 and Under 47.5. Letdown Watch: Clemson 30, Georgia Tech 19. That makes it Georgia Tech +15.5 and Over 47.5. In The Trenches: Clemson 32, Georgia Tech 19, and it stays with Georgia Tech +15.5 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: Georgia Tech Yellow Jackets +15.5 and Over 47.5. My final is Clemson Tigers 31, Georgia Tech Yellow Jackets 18. The spread grew two points since Monday, so Georgia Tech now gets 15.5. Our 13-point margin still sits inside it. Same pick, two more points of cushion. In this business, that counts as a raise.\n\nClemson Tigers 31, Georgia Tech Yellow Jackets 18. Georgia Tech Yellow Jackets cover the 15.5. Over 47.5.",
    "videos": [
     {
      "youtube_id": "45vS0ZkEDvQ",
@@ -5032,13 +5032,13 @@
     "nebraska",
     "rutgers"
    ],
-   "spread": "Nebraska Cornhuskers −13.5",
-   "total_line": 53.5,
+   "spread": "Nebraska Cornhuskers −14.5",
+   "total_line": 51.5,
    "prediction": {
     "away_score": 33,
     "home_score": 21,
     "winner": "Nebraska Cornhuskers",
-    "covers": "Rutgers Scarlet Knights +13.5"
+    "covers": "Rutgers Scarlet Knights +14.5"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -5047,73 +5047,73 @@
    "display": {
     "writer": {
      "score_line": "Projected: Nebraska Cornhuskers 33, Rutgers Scarlet Knights 21 (Total 54)",
-     "side": "Rutgers Scarlet Knights +13.5",
-     "ou": "Over 53.5",
+     "side": "Rutgers Scarlet Knights +14.5",
+     "ou": "Over 51.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Nebraska Cornhuskers −13.5",
-      "ou_line": "O/U: Under 53.5",
+      "side_line": "Side: Rutgers Scarlet Knights +14.5",
+      "ou_line": "O/U: Over 51.5",
       "score_line": "Projected: Nebraska Cornhuskers 33, Rutgers Scarlet Knights 19 (Total 52)",
       "basis_line": "Net ratings Nebraska Cornhuskers 13.3, Rutgers Scarlet Knights −5.2 (ESPN Football Power Index, Nov 9, 2026)",
       "independent": true,
       "distance_from_spread": 0.5,
-      "distance_from_total": 1.5,
+      "distance_from_total": 0.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Rutgers Scarlet Knights +13.5",
-      "ou_line": "O/U: Over 53.5 · Likes this total",
+      "side_line": "Side: Rutgers Scarlet Knights +14.5",
+      "ou_line": "O/U: Over 51.5",
       "score_line": "Projected: Nebraska Cornhuskers 35, Rutgers Scarlet Knights 23 (Total 58)",
       "basis_line": "With the players available: projected points Nebraska Cornhuskers 35.3, Rutgers Scarlet Knights 22.5.",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 4.5,
+      "distance_from_spread": 2.5,
+      "distance_from_total": 6.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Rutgers Scarlet Knights +13.5",
-      "ou_line": "O/U: Under 53.5",
+      "side_line": "Side: Rutgers Scarlet Knights +14.5",
+      "ou_line": "O/U: Over 51.5",
       "score_line": "Projected: Nebraska Cornhuskers 32, Rutgers Scarlet Knights 20 (Total 52)",
       "basis_line": "Rest and travel read: projected points Nebraska Cornhuskers 31.8, Rutgers Scarlet Knights 20.1.",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 1.5,
+      "distance_from_spread": 2.5,
+      "distance_from_total": 0.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: Nebraska Cornhuskers −14.5 · Likes this side",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Nebraska Cornhuskers −13.5 (Nov 11, 12:40 PM ET) and is −14.5 now, a 1-point move. The side pick quotes the consensus spread now (Nebraska Cornhuskers −14.5). Consensus total opened 51.5 (Nov 11, 11:08 AM ET) and is 51.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 14, 9:56 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Rutgers Scarlet Knights +13.5 · Likes this side",
-      "ou_line": "O/U: this card reads sides only",
+      "side_line": "Side: Rutgers Scarlet Knights +14.5 · Likes this side",
+      "ou_line": "O/U: no pick",
       "score_line": "Projected: Nebraska Cornhuskers 32, Rutgers Scarlet Knights 20 (Total 52)",
-      "basis_line": "This read points to a side only. Nebraska Cornhuskers 5.0 ypc vs Rutgers Scarlet Knights allowing 5.4; Rutgers Scarlet Knights 4.0 ypc vs Nebraska Cornhuskers allowing 3.1 (2026 season). Rutgers Scarlet Knights run game 1.0 ypc above what the opponent allows, which favours Rutgers Scarlet Knights. Side: Rutgers Scarlet Knights +13.5.",
+      "basis_line": "This read points to a side only. Nebraska Cornhuskers 5.0 ypc vs Rutgers Scarlet Knights allowing 5.4; Rutgers Scarlet Knights 4.0 ypc vs Nebraska Cornhuskers allowing 3.1 (2026 season). Rutgers Scarlet Knights run game 1.0 ypc above what the opponent allows, which favours Rutgers Scarlet Knights. Side: Rutgers Scarlet Knights +14.5.",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 1.5,
+      "distance_from_spread": 2.5,
+      "distance_from_total": 0.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "Market check, Nebraska at Rutgers: DraftKings NEB -14.5, total 51.5.\n\nPiscataway is honoring the military Saturday, per On the Banks, and Rutgers enters with one big question already settled. Athletic director Keli Zinn confirmed Tuesday that Greg Schiano will be back in 2027. That's the same week the Scarlet Knights learned top receiver KJ Duff needs season-ending ankle surgery. It's been a long week on the Banks.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at NEB -14.5, total 51.5. The Cover Window's published pick is Rutgers +13.5 and Over 53.5. The market is now Nebraska -14.5 with a total of 51.5, so the Knights get a point more than the card, and the total has dropped two points below the published Over. The card's projected final is Nebraska Cornhuskers 33, Rutgers Scarlet Knights 21 (Total 54). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: the first Big Ten report (On3, Nov. 12) has Lonergan, Duff and Asamoah out and Surace questionable for Rutgers, with Chambliss and Marshall out and McDougle questionable for Nebraska. The final Big Ten update comes Saturday morning.\n\nNebraska's week was no calmer. The Huskers have lost four straight, and SI's Nebraska site reports offensive coordinator Dana Holgorsen was fired less than 24 hours after the Illinois loss, with Glenn Thomas promoted. One more win makes Nebraska bowl eligible for a third straight season. With Ohio State and Iowa still ahead, SI calls this trip the Huskers' last best chance.\n\nRutgers is running low on quarterbacks. Starter Dylan Lonergan is out, and AJ Surace was listed questionable on the first report, with true freshman Sean Ashenfelder next up. The Knights still have Antwan Raymond, tied for the Big Ten lead with 789 rushing yards. Nebraska will play without linebacker Owen Chambliss, who wears the green dot, and starting cornerback Andrew Marshall. Safety Dwayne McDougle was listed questionable.\n\nNebraska leads the series 7-0, and the last meeting was a 14-7 grind in 2024. Anthony Colandrea has thrown three touchdowns and five interceptions during the losing run, per On the Banks, so the Huskers' passing game has some proving to do too. For both teams this is a day to salute those who served and to give their own fan bases something to cheer about. Somebody's November gets a little lighter by mid-afternoon.\n\nThe published card stays Rutgers Scarlet Knights +13.5 and Over 53.5 at the numbers it was written against. My final is Nebraska Cornhuskers 33, Rutgers Scarlet Knights 21. Follow The Money's side and total are both pending.\n\nNebraska Cornhuskers 33, Rutgers Scarlet Knights 21. Rutgers Scarlet Knights cover the 13.5. Over 53.5.",
+    "story_text": "Market check, Nebraska at Rutgers, Nov. 14, 2026, 9:56 AM ET: DraftKings Nebraska −14.5, total 51.5.\n\nPiscataway is honoring the military Saturday, per On the Banks, and Rutgers enters with one big question already settled. Athletic director Keli Zinn confirmed Tuesday that Greg Schiano will be back in 2027. That's the same week the Scarlet Knights learned top receiver KJ Duff needs season-ending ankle surgery. It's been a long week on the Banks.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at Nebraska −14.5, total 51.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Rutgers +13.5 with a 53.5 total. Full preview at thecoverwindow.com.\n\nInjuries: the first Big Ten report (On3, Nov. 12) has Lonergan, Duff and Asamoah out and Surace questionable for Rutgers, with Chambliss and Marshall out and McDougle questionable for Nebraska. The final Big Ten update comes Saturday morning.\n\nNebraska's week was no calmer. The Huskers have lost four straight, and SI's Nebraska site reports offensive coordinator Dana Holgorsen was fired less than 24 hours after the Illinois loss, with Glenn Thomas promoted. One more win makes Nebraska bowl eligible for a third straight season. With Ohio State and Iowa still ahead, SI calls this trip the Huskers' last best chance.\n\nRutgers is running low on quarterbacks. Starter Dylan Lonergan is out, and AJ Surace was listed questionable on the first report, with true freshman Sean Ashenfelder next up. The Knights still have Antwan Raymond, tied for the Big Ten lead with 789 rushing yards. Nebraska will play without linebacker Owen Chambliss, who wears the green dot, and starting cornerback Andrew Marshall. Safety Dwayne McDougle was listed questionable.\n\nNebraska leads the series 7-0, and the last meeting was a 14-7 grind in 2024. Anthony Colandrea has thrown three touchdowns and five interceptions during the losing run, per On the Banks, so the Huskers' passing game has some proving to do too. For both teams this is a day to salute those who served and to give their own fan bases something to cheer about. Somebody's November gets a little lighter by mid-afternoon.\n\nThe desks at today's number. Follow The Money likes Nebraska −14.5 and has no total pick. The Formula: Nebraska 33, Rutgers 19. That makes it Rutgers +14.5 and Over 51.5. Next Man Up: Nebraska 35, Rutgers 23. That makes it Rutgers +14.5 and Over 51.5. Letdown Watch: Nebraska 32, Rutgers 20. That makes it Rutgers +14.5 and Over 51.5. In The Trenches: Nebraska 32, Rutgers 20, and it stays with Rutgers +14.5 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: Rutgers Scarlet Knights +14.5 and Over 51.5. My final is Nebraska Cornhuskers 33, Rutgers Scarlet Knights 21. The Big Ten report (Update 2, Friday 8:00 PM ET) still lists Rutgers starter Dylan Lonergan out. The spread grew a point and the total fell two since Monday, and our 33-21 clears both. Rutgers gets 14.5, and all I need is for them to lose by 14 or less. That's the kind of loyalty I can afford.\n\nNebraska Cornhuskers 33, Rutgers Scarlet Knights 21. Rutgers Scarlet Knights cover the 14.5. Over 51.5.",
     "fanatic_score_line": "Projected: Nebraska Cornhuskers 33, Rutgers Scarlet Knights 21",
     "line_used": {
-     "home_line": "Rutgers Scarlet Knights +13.5",
-     "total": "53.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "home_line": "Rutgers Scarlet Knights +14.5",
+     "total": "51.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T14:56Z"
     },
     "injuries": {
      "away": [],
@@ -5133,15 +5133,15 @@
     "fanatic_story": "Piscataway is honoring the military Saturday, per On the Banks, and Rutgers enters with one big question already settled. Athletic director Keli Zinn confirmed Tuesday that Greg Schiano will be back in 2027. That's the same week the Scarlet Knights learned top receiver KJ Duff needs season-ending ankle surgery. It's been a long week on the Banks.\n\nNebraska's week was no calmer. The Huskers have lost four straight, and SI's Nebraska site reports offensive coordinator Dana Holgorsen was fired less than 24 hours after the Illinois loss, with Glenn Thomas promoted. One more win makes Nebraska bowl eligible for a third straight season. With Ohio State and Iowa still ahead, SI calls this trip the Huskers' last best chance.\n\nRutgers is running low on quarterbacks. Starter Dylan Lonergan is out, and AJ Surace was listed questionable on the first report, with true freshman Sean Ashenfelder next up. The Knights still have Antwan Raymond, tied for the Big Ten lead with 789 rushing yards. Nebraska will play without linebacker Owen Chambliss, who wears the green dot, and starting cornerback Andrew Marshall. Safety Dwayne McDougle was listed questionable.\n\nNebraska leads the series 7-0, and the last meeting was a 14-7 grind in 2024. Anthony Colandrea has thrown three touchdowns and five interceptions during the losing streak, per On the Banks, so the Huskers' passing game has some proving to do too. For both teams this is a day to salute those who served and to give their own fan bases something to cheer about. Somebody's November gets a little lighter by mid-afternoon.\n\nMy call: Nebraska Cornhuskers 33, Rutgers Scarlet Knights 21.",
     "market": {
      "score_line": "",
-     "spread": "Nebraska Cornhuskers −13.5",
-     "total": "53.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "spread": "Nebraska Cornhuskers −14.5",
+     "total": "51.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "Nebraska at Rutgers: The Huskers Need One More, and Piscataway Is Short-Handed",
     "fanatic_headline": "Nebraska at Rutgers: The Huskers Need One More, and Piscataway Is Short-Handed"
    },
-   "gambler_story": "Market check, Nebraska at Rutgers: DraftKings NEB -14.5, total 51.5.\n\nPiscataway is honoring the military Saturday, per On the Banks, and Rutgers enters with one big question already settled. Athletic director Keli Zinn confirmed Tuesday that Greg Schiano will be back in 2027. That's the same week the Scarlet Knights learned top receiver KJ Duff needs season-ending ankle surgery. It's been a long week on the Banks.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at NEB -14.5, total 51.5. The Cover Window's published pick is Rutgers +13.5 and Over 53.5. The market is now Nebraska -14.5 with a total of 51.5, so the Knights get a point more than the card, and the total has dropped two points below the published Over. The card's projected final is Nebraska Cornhuskers 33, Rutgers Scarlet Knights 21 (Total 54). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: the first Big Ten report (On3, Nov. 12) has Lonergan, Duff and Asamoah out and Surace questionable for Rutgers, with Chambliss and Marshall out and McDougle questionable for Nebraska. The final Big Ten update comes Saturday morning.\n\nNebraska's week was no calmer. The Huskers have lost four straight, and SI's Nebraska site reports offensive coordinator Dana Holgorsen was fired less than 24 hours after the Illinois loss, with Glenn Thomas promoted. One more win makes Nebraska bowl eligible for a third straight season. With Ohio State and Iowa still ahead, SI calls this trip the Huskers' last best chance.\n\nRutgers is running low on quarterbacks. Starter Dylan Lonergan is out, and AJ Surace was listed questionable on the first report, with true freshman Sean Ashenfelder next up. The Knights still have Antwan Raymond, tied for the Big Ten lead with 789 rushing yards. Nebraska will play without linebacker Owen Chambliss, who wears the green dot, and starting cornerback Andrew Marshall. Safety Dwayne McDougle was listed questionable.\n\nNebraska leads the series 7-0, and the last meeting was a 14-7 grind in 2024. Anthony Colandrea has thrown three touchdowns and five interceptions during the losing run, per On the Banks, so the Huskers' passing game has some proving to do too. For both teams this is a day to salute those who served and to give their own fan bases something to cheer about. Somebody's November gets a little lighter by mid-afternoon.\n\nThe published card stays Rutgers Scarlet Knights +13.5 and Over 53.5 at the numbers it was written against. My final is Nebraska Cornhuskers 33, Rutgers Scarlet Knights 21. Follow The Money's side and total are both pending.\n\nNebraska Cornhuskers 33, Rutgers Scarlet Knights 21. Rutgers Scarlet Knights cover the 13.5. Over 53.5.",
+   "gambler_story": "Market check, Nebraska at Rutgers, Nov. 14, 2026, 9:56 AM ET: DraftKings Nebraska −14.5, total 51.5.\n\nPiscataway is honoring the military Saturday, per On the Banks, and Rutgers enters with one big question already settled. Athletic director Keli Zinn confirmed Tuesday that Greg Schiano will be back in 2027. That's the same week the Scarlet Knights learned top receiver KJ Duff needs season-ending ankle surgery. It's been a long week on the Banks.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at Nebraska −14.5, total 51.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Rutgers +13.5 with a 53.5 total. Full preview at thecoverwindow.com.\n\nInjuries: the first Big Ten report (On3, Nov. 12) has Lonergan, Duff and Asamoah out and Surace questionable for Rutgers, with Chambliss and Marshall out and McDougle questionable for Nebraska. The final Big Ten update comes Saturday morning.\n\nNebraska's week was no calmer. The Huskers have lost four straight, and SI's Nebraska site reports offensive coordinator Dana Holgorsen was fired less than 24 hours after the Illinois loss, with Glenn Thomas promoted. One more win makes Nebraska bowl eligible for a third straight season. With Ohio State and Iowa still ahead, SI calls this trip the Huskers' last best chance.\n\nRutgers is running low on quarterbacks. Starter Dylan Lonergan is out, and AJ Surace was listed questionable on the first report, with true freshman Sean Ashenfelder next up. The Knights still have Antwan Raymond, tied for the Big Ten lead with 789 rushing yards. Nebraska will play without linebacker Owen Chambliss, who wears the green dot, and starting cornerback Andrew Marshall. Safety Dwayne McDougle was listed questionable.\n\nNebraska leads the series 7-0, and the last meeting was a 14-7 grind in 2024. Anthony Colandrea has thrown three touchdowns and five interceptions during the losing run, per On the Banks, so the Huskers' passing game has some proving to do too. For both teams this is a day to salute those who served and to give their own fan bases something to cheer about. Somebody's November gets a little lighter by mid-afternoon.\n\nThe desks at today's number. Follow The Money likes Nebraska −14.5 and has no total pick. The Formula: Nebraska 33, Rutgers 19. That makes it Rutgers +14.5 and Over 51.5. Next Man Up: Nebraska 35, Rutgers 23. That makes it Rutgers +14.5 and Over 51.5. Letdown Watch: Nebraska 32, Rutgers 20. That makes it Rutgers +14.5 and Over 51.5. In The Trenches: Nebraska 32, Rutgers 20, and it stays with Rutgers +14.5 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: Rutgers Scarlet Knights +14.5 and Over 51.5. My final is Nebraska Cornhuskers 33, Rutgers Scarlet Knights 21. The Big Ten report (Update 2, Friday 8:00 PM ET) still lists Rutgers starter Dylan Lonergan out. The spread grew a point and the total fell two since Monday, and our 33-21 clears both. Rutgers gets 14.5, and all I need is for them to lose by 14 or less. That's the kind of loyalty I can afford.\n\nNebraska Cornhuskers 33, Rutgers Scarlet Knights 21. Rutgers Scarlet Knights cover the 14.5. Over 51.5.",
    "videos": [
     {
      "youtube_id": "WFnQKVERQhc",
@@ -5290,13 +5290,13 @@
     "alabama",
     "vanderbilt"
    ],
-   "spread": "Alabama Crimson Tide −17.5",
-   "total_line": 52.5,
+   "spread": "Alabama Crimson Tide −14",
+   "total_line": 47.5,
    "prediction": {
     "away_score": 35,
     "home_score": 18,
     "winner": "Alabama Crimson Tide",
-    "covers": "Vanderbilt Commodores +17.5"
+    "covers": "Alabama Crimson Tide −14"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -5305,58 +5305,58 @@
    "display": {
     "writer": {
      "score_line": "Projected: Alabama Crimson Tide 35, Vanderbilt Commodores 18 (Total 53)",
-     "side": "Vanderbilt Commodores +17.5",
-     "ou": "Over 52.5",
+     "side": "Alabama Crimson Tide −14",
+     "ou": "Over 47.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Alabama Crimson Tide −17.5",
-      "ou_line": "O/U: Over 52.5",
+      "side_line": "Side: Alabama Crimson Tide −14",
+      "ou_line": "O/U: Over 47.5",
       "score_line": "Projected: Alabama Crimson Tide 37, Vanderbilt Commodores 17 (Total 54)",
       "basis_line": "Net ratings Alabama Crimson Tide 26.1, Vanderbilt Commodores 0.7 (ESPN Football Power Index, Nov 9, 2026)",
       "independent": true,
-      "distance_from_spread": 2.5,
-      "distance_from_total": 1.5,
+      "distance_from_spread": 6.0,
+      "distance_from_total": 6.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Vanderbilt Commodores +17.5",
-      "ou_line": "O/U: Over 52.5 · Likes this total",
+      "side_line": "Side: Alabama Crimson Tide −14",
+      "ou_line": "O/U: Over 47.5",
       "score_line": "Projected: Alabama Crimson Tide 36, Vanderbilt Commodores 19 (Total 55)",
       "basis_line": "With the players available: projected points Alabama Crimson Tide 36.3, Vanderbilt Commodores 19.3.",
       "independent": true,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 2.5,
+      "distance_from_spread": 3.0,
+      "distance_from_total": 7.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Vanderbilt Commodores +17.5",
-      "ou_line": "O/U: Over 52.5",
+      "side_line": "Side: Alabama Crimson Tide −14",
+      "ou_line": "O/U: Over 47.5",
       "score_line": "Projected: Alabama Crimson Tide 35, Vanderbilt Commodores 19 (Total 54)",
       "basis_line": "Rest and travel read: projected points Alabama Crimson Tide 34.6, Vanderbilt Commodores 18.9.",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 1.5,
+      "distance_from_spread": 2.0,
+      "distance_from_total": 6.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: Vanderbilt Commodores +14 · Likes this side",
+      "ou_line": "O/U: Under 47.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Vanderbilt Commodores +15.5 (Nov 10, 11:30 AM ET) and is +14 now, a 1.5-point move. The side pick quotes the consensus spread now (Vanderbilt Commodores +14). Consensus total opened 50.5 (Nov 10, 4:14 AM ET) and is 47.5 now, a 3-point move: Under. The total pick quotes the consensus total now (47.5). Lines are the Action Network consensus as of Nov 14, 9:56 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: the trenches look even, so no side",
-      "ou_line": "O/U: this card reads sides only",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week.",
       "basis_line": "Alabama Crimson Tide 4.3 ypc vs Vanderbilt Commodores allowing 4.1; Vanderbilt Commodores 3.3 ypc vs Alabama Crimson Tide allowing 3.0 (2026 season). In The Trenches has no pick.",
       "independent": false,
@@ -5364,13 +5364,13 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "Market check, Alabama at Vanderbilt: DraftKings ALA -14, total 47.5.\n\nNashville has told this story plenty: the last time Alabama played at Vanderbilt, in 2024, Commodores fans tore down the goalposts and, per AP, dumped them in a river two miles from campus. It was Vanderbilt's first win ever over a No. 1 team. Kalen DeBoer says this group is different. “This is a different team than we had last year, which is different than the year before, too,” he said.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at ALA -14, total 47.5. The Cover Window's published pick is Vanderbilt +17.5 and Over 52.5. Since then the market has crashed to Alabama -14 with a total of 47.5, which tracks the Russell news. The Commodores now get three and a half points fewer than the card did, and the total is five points under the published Over. The card's projected final is Alabama Crimson Tide 35, Vanderbilt Commodores 18 (Total 53). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: Roll Tide Wire's Friday SEC report (Nov. 13, 9:03 PM ET) has Russell probable, but Thamel reports he is expected to sit. Eight are out for each team, including Vanderbilt's Kolenge and Gregoire.\n\nAlabama (7-2) arrives off a 31-13 win at LSU that pushed it to third in the College Football Playoff rankings, according to AP. The Tide still owns this series 64-19-4. Vanderbilt is 4-5 and just got its first SEC win, 25-23 at Mississippi State, behind freshman quarterback Jared Curtis, the hometown recruit who flipped from Georgia. Clark Lea kept it plain: “If we can do that we can win but we're going to have to do that,” he said about protecting the ball and staying resilient.\n\nHere's the big news. Keelon Russell is listed probable with the ankle he hurt at LSU, but ESPN's Pete Thamel reported Friday that Alabama is expected to hold him out and start Austin Mack, per Roll Tide Wire. Before that report, DeBoer said: “I'd expect him to do everything he can to get on the football field.” Russell has 2,263 passing yards, 18 touchdowns and five interceptions, per AP.\n\nAlabama's run game has been a sore spot. AP has the Tide 87th nationally on the ground. Vanderbilt moved Martel Hight to receiver full time. Vanderbilt's out list includes outside rusher Edwin Kolenge, linebacker Josiah Broxton and quarterback Blaze Berlowitz. Alabama is missing linebackers Desmond Umeozulu and Cayden Jones and tight end Josh Ford, among others. Vanderbilt fans have a long memory. Alabama would like this visit to end without anybody needing a river.\n\nThe published card stays Vanderbilt Commodores +17.5 and Over 52.5 at the numbers it was written against. My final is Alabama Crimson Tide 35, Vanderbilt Commodores 18. Follow The Money's side and total are both pending.\n\nAlabama Crimson Tide 35, Vanderbilt Commodores 18. Vanderbilt Commodores cover the 17.5. Over 52.5.",
+    "story_text": "Market check, Alabama at Vanderbilt, Nov. 14, 2026, 9:56 AM ET: DraftKings Alabama −14, total 47.5.\n\nNashville has told this story plenty: the last time Alabama played at Vanderbilt, in 2024, Commodores fans tore down the goalposts and, per AP, dumped them in a river two miles from campus. It was Vanderbilt's first win ever over a No. 1 team. Kalen DeBoer says this group is different. “This is a different team than we had last year, which is different than the year before, too,” he said.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at Alabama −14, total 47.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Vanderbilt +17.5 with a 52.5 total. Full preview at thecoverwindow.com.\n\nInjuries: Roll Tide Wire's Friday SEC report (Nov. 13, 9:03 PM ET) has Russell probable, but Thamel reports he is expected to sit. Eight are out for each team, including Vanderbilt's Kolenge and Gregoire.\n\nAlabama (7-2) arrives off a 31-13 win at LSU that pushed it to third in the College Football Playoff rankings, according to AP. The Tide still owns this series 64-19-4. Vanderbilt is 4-5 and just got its first SEC win, 25-23 at Mississippi State, behind freshman quarterback Jared Curtis, the hometown recruit who flipped from Georgia. Clark Lea kept it plain: “If we can do that we can win but we're going to have to do that,” he said about protecting the ball and staying resilient.\n\nHere's the big news. Keelon Russell is listed probable with the ankle he hurt at LSU, but ESPN's Pete Thamel reported Friday that Alabama is expected to hold him out and start Austin Mack, per Roll Tide Wire. Before that report, DeBoer said: “I'd expect him to do everything he can to get on the football field.” Russell has 2,263 passing yards, 18 touchdowns and five interceptions, per AP.\n\nAlabama's run game has been a sore spot. AP has the Tide 87th nationally on the ground. Vanderbilt moved Martel Hight to receiver full time. Vanderbilt's out list includes outside rusher Edwin Kolenge, linebacker Josiah Broxton and quarterback Blaze Berlowitz. Alabama is missing linebackers Desmond Umeozulu and Cayden Jones and tight end Josh Ford, among others. Vanderbilt fans have a long memory. Alabama would like this visit to end without anybody needing a river.\n\nThe desks at today's number. Follow The Money likes Vanderbilt +14 and the Under 47.5. The Formula: Alabama 37, Vanderbilt 17. That makes it Alabama −14 and Over 47.5. Next Man Up: Alabama 36, Vanderbilt 19. That makes it Alabama −14 and Over 47.5. Letdown Watch: Alabama 35, Vanderbilt 19. That makes it Alabama −14 and Over 47.5. In The Trenches has no pick: the trenches look even.\n\nThe Cover Writer's card at today's number: Alabama Crimson Tide −14 and Over 47.5. My final is Alabama Crimson Tide 35, Vanderbilt Commodores 18. Monday's card took Vanderbilt +17.5. The number has come down to 14, and our 35-18 is a 17-point Alabama win, so the honest pick flips to Alabama. Next Man Up made the same move last night. The caution is in the injury note above: Thamel reports Russell is expected to sit.\n\nAlabama Crimson Tide 35, Vanderbilt Commodores 18. Alabama Crimson Tide cover the 14. Over 47.5.",
     "fanatic_score_line": "Projected: Alabama Crimson Tide 35, Vanderbilt Commodores 18",
     "line_used": {
-     "home_line": "Vanderbilt Commodores +17.5",
-     "total": "52.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "home_line": "Vanderbilt Commodores +14",
+     "total": "47.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T14:56Z"
     },
     "injuries": {
      "away": [],
@@ -5390,15 +5390,15 @@
     "fanatic_story": "Nashville has told this story plenty: the last time Alabama played at Vanderbilt, in 2024, Commodores fans tore down the goalposts and, per AP, dumped them in a river two miles from campus. It was Vanderbilt's first win ever over a No. 1 team. Kalen DeBoer says this group is different. “This is a different team than we had last year, which is different than the year before, too,” he said.\n\nAlabama (7-2) arrives off a 31-13 win at LSU that pushed it to third in the College Football Playoff rankings, according to AP. The Tide still owns this series 64-19-4. Vanderbilt is 4-5 and just got its first SEC win, 25-23 at Mississippi State, behind freshman quarterback Jared Curtis, the hometown recruit who flipped from Georgia. Clark Lea kept it plain: “If we can do that we can win but we're going to have to do that,” he said about protecting the ball and staying resilient.\n\nHere's the big news. Keelon Russell is listed probable with the ankle he hurt at LSU, but ESPN's Pete Thamel reported Friday that Alabama is expected to hold him out and start Austin Mack, per Roll Tide Wire. Before that report, DeBoer said: “I'd expect him to do everything he can to get on the football field.” Russell has 2,263 passing yards, 18 touchdowns and five interceptions, per AP.\n\nAlabama's run game has been a sore spot. AP has the Tide 87th nationally on the ground. Vanderbilt moved Martel Hight to receiver full time. Vanderbilt's out list includes outside rusher Edwin Kolenge, linebacker Josiah Broxton and quarterback Blaze Berlowitz. Alabama is missing linebackers Desmond Umeozulu and Cayden Jones and tight end Josh Ford, among others. Vanderbilt fans have a long memory. Alabama would like this visit to end without anybody needing a river.\n\nMy call: Alabama Crimson Tide 35, Vanderbilt Commodores 18.",
     "market": {
      "score_line": "",
-     "spread": "Alabama Crimson Tide −17.5",
-     "total": "52.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "spread": "Alabama Crimson Tide −14",
+     "total": "47.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "Alabama at Vanderbilt: Nashville Still Has the Goalpost Story, and Alabama Has Heard It",
     "fanatic_headline": "Alabama at Vanderbilt: Nashville Still Has the Goalpost Story, and Alabama Has Heard It"
    },
-   "gambler_story": "Market check, Alabama at Vanderbilt: DraftKings ALA -14, total 47.5.\n\nNashville has told this story plenty: the last time Alabama played at Vanderbilt, in 2024, Commodores fans tore down the goalposts and, per AP, dumped them in a river two miles from campus. It was Vanderbilt's first win ever over a No. 1 team. Kalen DeBoer says this group is different. “This is a different team than we had last year, which is different than the year before, too,” he said.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at ALA -14, total 47.5. The Cover Window's published pick is Vanderbilt +17.5 and Over 52.5. Since then the market has crashed to Alabama -14 with a total of 47.5, which tracks the Russell news. The Commodores now get three and a half points fewer than the card did, and the total is five points under the published Over. The card's projected final is Alabama Crimson Tide 35, Vanderbilt Commodores 18 (Total 53). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: Roll Tide Wire's Friday SEC report (Nov. 13, 9:03 PM ET) has Russell probable, but Thamel reports he is expected to sit. Eight are out for each team, including Vanderbilt's Kolenge and Gregoire.\n\nAlabama (7-2) arrives off a 31-13 win at LSU that pushed it to third in the College Football Playoff rankings, according to AP. The Tide still owns this series 64-19-4. Vanderbilt is 4-5 and just got its first SEC win, 25-23 at Mississippi State, behind freshman quarterback Jared Curtis, the hometown recruit who flipped from Georgia. Clark Lea kept it plain: “If we can do that we can win but we're going to have to do that,” he said about protecting the ball and staying resilient.\n\nHere's the big news. Keelon Russell is listed probable with the ankle he hurt at LSU, but ESPN's Pete Thamel reported Friday that Alabama is expected to hold him out and start Austin Mack, per Roll Tide Wire. Before that report, DeBoer said: “I'd expect him to do everything he can to get on the football field.” Russell has 2,263 passing yards, 18 touchdowns and five interceptions, per AP.\n\nAlabama's run game has been a sore spot. AP has the Tide 87th nationally on the ground. Vanderbilt moved Martel Hight to receiver full time. Vanderbilt's out list includes outside rusher Edwin Kolenge, linebacker Josiah Broxton and quarterback Blaze Berlowitz. Alabama is missing linebackers Desmond Umeozulu and Cayden Jones and tight end Josh Ford, among others. Vanderbilt fans have a long memory. Alabama would like this visit to end without anybody needing a river.\n\nThe published card stays Vanderbilt Commodores +17.5 and Over 52.5 at the numbers it was written against. My final is Alabama Crimson Tide 35, Vanderbilt Commodores 18. Follow The Money's side and total are both pending.\n\nAlabama Crimson Tide 35, Vanderbilt Commodores 18. Vanderbilt Commodores cover the 17.5. Over 52.5.",
+   "gambler_story": "Market check, Alabama at Vanderbilt, Nov. 14, 2026, 9:56 AM ET: DraftKings Alabama −14, total 47.5.\n\nNashville has told this story plenty: the last time Alabama played at Vanderbilt, in 2024, Commodores fans tore down the goalposts and, per AP, dumped them in a river two miles from campus. It was Vanderbilt's first win ever over a No. 1 team. Kalen DeBoer says this group is different. “This is a different team than we had last year, which is different than the year before, too,” he said.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at Alabama −14, total 47.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Vanderbilt +17.5 with a 52.5 total. Full preview at thecoverwindow.com.\n\nInjuries: Roll Tide Wire's Friday SEC report (Nov. 13, 9:03 PM ET) has Russell probable, but Thamel reports he is expected to sit. Eight are out for each team, including Vanderbilt's Kolenge and Gregoire.\n\nAlabama (7-2) arrives off a 31-13 win at LSU that pushed it to third in the College Football Playoff rankings, according to AP. The Tide still owns this series 64-19-4. Vanderbilt is 4-5 and just got its first SEC win, 25-23 at Mississippi State, behind freshman quarterback Jared Curtis, the hometown recruit who flipped from Georgia. Clark Lea kept it plain: “If we can do that we can win but we're going to have to do that,” he said about protecting the ball and staying resilient.\n\nHere's the big news. Keelon Russell is listed probable with the ankle he hurt at LSU, but ESPN's Pete Thamel reported Friday that Alabama is expected to hold him out and start Austin Mack, per Roll Tide Wire. Before that report, DeBoer said: “I'd expect him to do everything he can to get on the football field.” Russell has 2,263 passing yards, 18 touchdowns and five interceptions, per AP.\n\nAlabama's run game has been a sore spot. AP has the Tide 87th nationally on the ground. Vanderbilt moved Martel Hight to receiver full time. Vanderbilt's out list includes outside rusher Edwin Kolenge, linebacker Josiah Broxton and quarterback Blaze Berlowitz. Alabama is missing linebackers Desmond Umeozulu and Cayden Jones and tight end Josh Ford, among others. Vanderbilt fans have a long memory. Alabama would like this visit to end without anybody needing a river.\n\nThe desks at today's number. Follow The Money likes Vanderbilt +14 and the Under 47.5. The Formula: Alabama 37, Vanderbilt 17. That makes it Alabama −14 and Over 47.5. Next Man Up: Alabama 36, Vanderbilt 19. That makes it Alabama −14 and Over 47.5. Letdown Watch: Alabama 35, Vanderbilt 19. That makes it Alabama −14 and Over 47.5. In The Trenches has no pick: the trenches look even.\n\nThe Cover Writer's card at today's number: Alabama Crimson Tide −14 and Over 47.5. My final is Alabama Crimson Tide 35, Vanderbilt Commodores 18. Monday's card took Vanderbilt +17.5. The number has come down to 14, and our 35-18 is a 17-point Alabama win, so the honest pick flips to Alabama. Next Man Up made the same move last night. The caution is in the injury note above: Thamel reports Russell is expected to sit.\n\nAlabama Crimson Tide 35, Vanderbilt Commodores 18. Alabama Crimson Tide cover the 14. Over 47.5.",
    "videos": [
     {
      "youtube_id": "vPrgHDlu1XE",
@@ -5547,13 +5547,13 @@
     "east-carolina",
     "charlotte"
    ],
-   "spread": "East Carolina Pirates −11.5",
-   "total_line": 44.5,
+   "spread": "East Carolina Pirates −10.5",
+   "total_line": 45.5,
    "prediction": {
     "away_score": 32,
     "home_score": 19,
     "winner": "East Carolina Pirates",
-    "covers": "East Carolina Pirates −11.5"
+    "covers": "East Carolina Pirates −10.5"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -5562,58 +5562,58 @@
    "display": {
     "writer": {
      "score_line": "Projected: East Carolina Pirates 32, Charlotte 49ers 19 (Total 51)",
-     "side": "East Carolina Pirates −11.5",
-     "ou": "Over 44.5",
+     "side": "East Carolina Pirates −10.5",
+     "ou": "Over 45.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: East Carolina Pirates −11.5",
-      "ou_line": "O/U: Over 44.5 · Likes this total",
+      "side_line": "Side: East Carolina Pirates −10.5",
+      "ou_line": "O/U: Over 45.5",
       "score_line": "Projected: East Carolina Pirates 32, Charlotte 49ers 19 (Total 51)",
       "basis_line": "Net ratings East Carolina Pirates −3.6, Charlotte 49ers −21.5 (ESPN Football Power Index, Nov 9, 2026)",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 6.5,
-      "landed_on_number": []
-     },
-     {
-      "name": "Next Man Up",
-      "side_line": "Side: Charlotte 49ers +11.5",
-      "ou_line": "O/U: Over 44.5 · Likes this total",
-      "score_line": "Projected: East Carolina Pirates 31, Charlotte 49ers 19 (Total 50)",
-      "basis_line": "With the players available: projected points East Carolina Pirates 30.8, Charlotte 49ers 19.4.",
-      "independent": true,
-      "distance_from_spread": 0.5,
+      "distance_from_spread": 2.5,
       "distance_from_total": 5.5,
       "landed_on_number": []
      },
      {
+      "name": "Next Man Up",
+      "side_line": "Side: East Carolina Pirates −10.5",
+      "ou_line": "O/U: Over 45.5",
+      "score_line": "Projected: East Carolina Pirates 31, Charlotte 49ers 19 (Total 50)",
+      "basis_line": "With the players available: projected points East Carolina Pirates 30.8, Charlotte 49ers 19.4.",
+      "independent": true,
+      "distance_from_spread": 1.5,
+      "distance_from_total": 4.5,
+      "landed_on_number": []
+     },
+     {
       "name": "Letdown Watch",
-      "side_line": "Side: East Carolina Pirates −11.5 · Likes this side",
-      "ou_line": "O/U: Over 44.5 · Likes this total",
+      "side_line": "Side: East Carolina Pirates −10.5",
+      "ou_line": "O/U: Over 45.5",
       "score_line": "Projected: East Carolina Pirates 33, Charlotte 49ers 18 (Total 51)",
       "basis_line": "Rest and travel read: projected points East Carolina Pirates 32.5, Charlotte 49ers 18.4.",
       "independent": true,
-      "distance_from_spread": 3.5,
-      "distance_from_total": 6.5,
+      "distance_from_spread": 4.5,
+      "distance_from_total": 5.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Charlotte 49ers +11.5 (Nov 10, 11:50 AM ET) and is +11 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 45.5 (Nov 10, 8:20 AM ET) and is 45.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 14, 9:56 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: the trenches look even, so no side",
-      "ou_line": "O/U: this card reads sides only",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week.",
       "basis_line": "East Carolina Pirates 4.4 ypc vs Charlotte 49ers allowing 4.7; Charlotte 49ers 3.8 ypc vs East Carolina Pirates allowing 3.5 (2026 season). In The Trenches has no pick.",
       "independent": false,
@@ -5621,13 +5621,13 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "Market check, East Carolina at Charlotte: DraftKings ECU -10.5, total 45.5.\n\nThis game has two Harrells, and only one of them is wearing a headset. Blake Harrell coaches East Carolina. Connor Harrell, a former North Carolina quarterback, plays quarterback for Charlotte. Nothing we found says they are related, but the name will get some laughs in the Queen City. NCFootballNews says this is Charlotte's annual “Gold Rush” game at Jerry Richardson Stadium.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at ECU -10.5, total 45.5. The Cover Window's published pick is East Carolina -11.5 and Over 44.5. The market has slipped to ECU -10.5 with the total up to 45.5, so the side is a point cheaper than the card and the Over now sits a point below the current total. The card's projected final is East Carolina Pirates 32, Charlotte 49ers 19 (Total 51). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: NCFootballNews (updated Nov. 11, 11:10 PM ET) says the American's availability report isn't expected until game day. Griffis (concussion) and Engleman (knee) are the names to watch for ECU.\n\nThe Daily Reflector reports that the Pirates' locker room has two countdown clocks, and this week they'll be synced for Charlotte. Coach Harrell: “We got a huge challenge ahead of us.” He said his team has to bring some bite and go down there and “play the game the right way.” ECU remembers the 55-24 loss here in 2024. David Glenn of North Carolina Sports Network writes that the result contributed to Mike Houston's dismissal.\n\nLast week Emory Williams came on for a concussed Mitch Griffis and threw two touchdowns to Landon Sides. Kicker Andrew Conrad, who had not tried a field goal all season, hit a 55-yarder at the horn to beat South Florida 20-17. “Just making sure you're taking advantage of the reps,” Williams said. Ashton Gray ran for 101 after T.J. Engleman Jr. hurt his knee.\n\nA win makes ECU bowl eligible for a third straight year, something the program hasn't done since 2012-14, and it would be the Pirates' first win at Jerry Richardson Stadium. Charlotte is 1-8 but beat Temple and took Tulane to overtime. Henry Rutledge and receiver Jaden Barnes, an App State transfer, give the 49ers their best moments. ECU wants its bowl ticket punched in the Queen City. The Niners would love nothing more than to tear it up.\n\nThe published card stays East Carolina Pirates −11.5 and Over 44.5 at the numbers it was written against. My final is East Carolina Pirates 32, Charlotte 49ers 19. Follow The Money's side and total are both pending.\n\nEast Carolina Pirates 32, Charlotte 49ers 19. East Carolina Pirates cover the 11.5. Over 44.5.",
+    "story_text": "Market check, East Carolina at Charlotte, Nov. 14, 2026, 9:56 AM ET: DraftKings East Carolina −10.5, total 45.5.\n\nThis game has two Harrells, and only one of them is wearing a headset. Blake Harrell coaches East Carolina. Connor Harrell, a former North Carolina quarterback, plays quarterback for Charlotte. Nothing we found says they are related, but the name will get some laughs in the Queen City. NCFootballNews says this is Charlotte's annual “Gold Rush” game at Jerry Richardson Stadium.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at East Carolina −10.5, total 45.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had East Carolina −11.5 with a 44.5 total. Full preview at thecoverwindow.com.\n\nInjuries: NCFootballNews (updated Nov. 11, 11:10 PM ET) says the American's availability report isn't expected until game day. Griffis (concussion) and Engleman (knee) are the names to watch for ECU.\n\nThe Daily Reflector reports that the Pirates' locker room has two countdown clocks, and this week they'll be synced for Charlotte. Coach Harrell: “We got a huge challenge ahead of us.” He said his team has to bring some bite and go down there and “play the game the right way.” ECU remembers the 55-24 loss here in 2024. David Glenn of North Carolina Sports Network writes that the result contributed to Mike Houston's dismissal.\n\nLast week Emory Williams came on for a concussed Mitch Griffis and threw two touchdowns to Landon Sides. Kicker Andrew Conrad, who had not tried a field goal all season, hit a 55-yarder at the horn to beat South Florida 20-17. “Just making sure you're taking advantage of the reps,” Williams said. Ashton Gray ran for 101 after T.J. Engleman Jr. hurt his knee.\n\nA win makes ECU bowl eligible for a third straight year, something the program hasn't done since 2012-14, and it would be the Pirates' first win at Jerry Richardson Stadium. Charlotte is 1-8 but beat Temple and took Tulane to overtime. Henry Rutledge and receiver Jaden Barnes, an App State transfer, give the 49ers their best moments. ECU wants its bowl ticket punched in the Queen City. The Niners would love nothing more than to tear it up.\n\nThe desks at today's number. Follow The Money has no side pick and no total pick. The Formula: East Carolina 32, Charlotte 19. That makes it East Carolina −10.5 and Over 45.5. Next Man Up: East Carolina 31, Charlotte 19. That makes it East Carolina −10.5 and Over 45.5. Letdown Watch: East Carolina 33, Charlotte 18. That makes it East Carolina −10.5 and Over 45.5. In The Trenches has no pick: the trenches look even.\n\nThe Cover Writer's card at today's number: East Carolina Pirates −10.5 and Over 45.5. My final is East Carolina Pirates 32, Charlotte 49ers 19. The number came down a point and the total went up one. Our 32-19 clears both by more than it did Monday. When the market moves toward you, the polite thing is to say nothing. I've never been polite.\n\nEast Carolina Pirates 32, Charlotte 49ers 19. East Carolina Pirates cover the 10.5. Over 45.5.",
     "fanatic_score_line": "Projected: East Carolina Pirates 32, Charlotte 49ers 19",
     "line_used": {
-     "home_line": "Charlotte 49ers +11.5",
-     "total": "44.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "home_line": "Charlotte 49ers +10.5",
+     "total": "45.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T14:56Z"
     },
     "injuries": {
      "away": [],
@@ -5647,15 +5647,15 @@
     "fanatic_story": "This game has two Harrells, and only one of them is wearing a headset. Blake Harrell coaches East Carolina. Connor Harrell, a former North Carolina quarterback, plays quarterback for Charlotte. Nothing we found says they are related, but the name will get some laughs in the Queen City. NCFootballNews says this is Charlotte's annual “Gold Rush” game at Jerry Richardson Stadium.\n\nThe Daily Reflector reports that the Pirates' locker room has two countdown clocks, and this week they'll be synced for Charlotte. Coach Harrell: “We got a huge challenge ahead of us.” He said his team has to bring some bite and go down there and “play the game the right way.” ECU remembers the 55-24 loss here in 2024. David Glenn of North Carolina Sports Network writes that the result contributed to Mike Houston's dismissal.\n\nLast week Emory Williams came on for a concussed Mitch Griffis and threw two touchdowns to Landon Sides. Kicker Andrew Conrad, who had not tried a field goal all season, hit a 55-yarder at the horn to beat South Florida 20-17. “Just making sure you're taking advantage of the reps,” Williams said. Ashton Gray ran for 101 after T.J. Engleman Jr. hurt his knee.\n\nA win makes ECU bowl eligible for a third straight year, something the program hasn't done since 2012-14, and it would be the Pirates' first win at Jerry Richardson Stadium. Charlotte is 1-8 but beat Temple and took Tulane to overtime. Henry Rutledge and receiver Jaden Barnes, an App State transfer, give the 49ers their best moments. ECU wants its bowl ticket punched in the Queen City. The Niners would love nothing more than to tear it up.\n\nMy call: East Carolina Pirates 32, Charlotte 49ers 19.",
     "market": {
      "score_line": "",
-     "spread": "East Carolina Pirates −11.5",
-     "total": "44.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "spread": "East Carolina Pirates −10.5",
+     "total": "45.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "East Carolina at Charlotte: Two Harrells, One Gold Rush Game in the Queen City",
     "fanatic_headline": "East Carolina at Charlotte: Two Harrells, One Gold Rush Game in the Queen City"
    },
-   "gambler_story": "Market check, East Carolina at Charlotte: DraftKings ECU -10.5, total 45.5.\n\nThis game has two Harrells, and only one of them is wearing a headset. Blake Harrell coaches East Carolina. Connor Harrell, a former North Carolina quarterback, plays quarterback for Charlotte. Nothing we found says they are related, but the name will get some laughs in the Queen City. NCFootballNews says this is Charlotte's annual “Gold Rush” game at Jerry Richardson Stadium.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at ECU -10.5, total 45.5. The Cover Window's published pick is East Carolina -11.5 and Over 44.5. The market has slipped to ECU -10.5 with the total up to 45.5, so the side is a point cheaper than the card and the Over now sits a point below the current total. The card's projected final is East Carolina Pirates 32, Charlotte 49ers 19 (Total 51). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: NCFootballNews (updated Nov. 11, 11:10 PM ET) says the American's availability report isn't expected until game day. Griffis (concussion) and Engleman (knee) are the names to watch for ECU.\n\nThe Daily Reflector reports that the Pirates' locker room has two countdown clocks, and this week they'll be synced for Charlotte. Coach Harrell: “We got a huge challenge ahead of us.” He said his team has to bring some bite and go down there and “play the game the right way.” ECU remembers the 55-24 loss here in 2024. David Glenn of North Carolina Sports Network writes that the result contributed to Mike Houston's dismissal.\n\nLast week Emory Williams came on for a concussed Mitch Griffis and threw two touchdowns to Landon Sides. Kicker Andrew Conrad, who had not tried a field goal all season, hit a 55-yarder at the horn to beat South Florida 20-17. “Just making sure you're taking advantage of the reps,” Williams said. Ashton Gray ran for 101 after T.J. Engleman Jr. hurt his knee.\n\nA win makes ECU bowl eligible for a third straight year, something the program hasn't done since 2012-14, and it would be the Pirates' first win at Jerry Richardson Stadium. Charlotte is 1-8 but beat Temple and took Tulane to overtime. Henry Rutledge and receiver Jaden Barnes, an App State transfer, give the 49ers their best moments. ECU wants its bowl ticket punched in the Queen City. The Niners would love nothing more than to tear it up.\n\nThe published card stays East Carolina Pirates −11.5 and Over 44.5 at the numbers it was written against. My final is East Carolina Pirates 32, Charlotte 49ers 19. Follow The Money's side and total are both pending.\n\nEast Carolina Pirates 32, Charlotte 49ers 19. East Carolina Pirates cover the 11.5. Over 44.5.",
+   "gambler_story": "Market check, East Carolina at Charlotte, Nov. 14, 2026, 9:56 AM ET: DraftKings East Carolina −10.5, total 45.5.\n\nThis game has two Harrells, and only one of them is wearing a headset. Blake Harrell coaches East Carolina. Connor Harrell, a former North Carolina quarterback, plays quarterback for Charlotte. Nothing we found says they are related, but the name will get some laughs in the Queen City. NCFootballNews says this is Charlotte's annual “Gold Rush” game at Jerry Richardson Stadium.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at East Carolina −10.5, total 45.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had East Carolina −11.5 with a 44.5 total. Full preview at thecoverwindow.com.\n\nInjuries: NCFootballNews (updated Nov. 11, 11:10 PM ET) says the American's availability report isn't expected until game day. Griffis (concussion) and Engleman (knee) are the names to watch for ECU.\n\nThe Daily Reflector reports that the Pirates' locker room has two countdown clocks, and this week they'll be synced for Charlotte. Coach Harrell: “We got a huge challenge ahead of us.” He said his team has to bring some bite and go down there and “play the game the right way.” ECU remembers the 55-24 loss here in 2024. David Glenn of North Carolina Sports Network writes that the result contributed to Mike Houston's dismissal.\n\nLast week Emory Williams came on for a concussed Mitch Griffis and threw two touchdowns to Landon Sides. Kicker Andrew Conrad, who had not tried a field goal all season, hit a 55-yarder at the horn to beat South Florida 20-17. “Just making sure you're taking advantage of the reps,” Williams said. Ashton Gray ran for 101 after T.J. Engleman Jr. hurt his knee.\n\nA win makes ECU bowl eligible for a third straight year, something the program hasn't done since 2012-14, and it would be the Pirates' first win at Jerry Richardson Stadium. Charlotte is 1-8 but beat Temple and took Tulane to overtime. Henry Rutledge and receiver Jaden Barnes, an App State transfer, give the 49ers their best moments. ECU wants its bowl ticket punched in the Queen City. The Niners would love nothing more than to tear it up.\n\nThe desks at today's number. Follow The Money has no side pick and no total pick. The Formula: East Carolina 32, Charlotte 19. That makes it East Carolina −10.5 and Over 45.5. Next Man Up: East Carolina 31, Charlotte 19. That makes it East Carolina −10.5 and Over 45.5. Letdown Watch: East Carolina 33, Charlotte 18. That makes it East Carolina −10.5 and Over 45.5. In The Trenches has no pick: the trenches look even.\n\nThe Cover Writer's card at today's number: East Carolina Pirates −10.5 and Over 45.5. My final is East Carolina Pirates 32, Charlotte 49ers 19. The number came down a point and the total went up one. Our 32-19 clears both by more than it did Monday. When the market moves toward you, the polite thing is to say nothing. I've never been polite.\n\nEast Carolina Pirates 32, Charlotte 49ers 19. East Carolina Pirates cover the 10.5. Over 45.5.",
    "videos": [
     {
      "youtube_id": "O9yCsaju3zY",
@@ -5736,7 +5736,7 @@
     "temple"
    ],
    "spread": "Temple Owls −2.5",
-   "total_line": 48.5,
+   "total_line": 47.5,
    "prediction": {
     "away_score": 23,
     "home_score": 27,
@@ -5751,57 +5751,57 @@
     "writer": {
      "score_line": "Projected: Temple Owls 27, UAB Blazers 23 (Total 50)",
      "side": "Temple Owls −2.5",
-     "ou": "Over 48.5",
+     "ou": "Over 47.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Temple Owls −2.5 · Likes this side",
-      "ou_line": "O/U: Over 48.5",
+      "side_line": "Side: Temple Owls −2.5",
+      "ou_line": "O/U: Over 47.5",
       "score_line": "Projected: Temple Owls 27, UAB Blazers 22 (Total 49)",
       "basis_line": "Net ratings UAB Blazers −13.8, Temple Owls −10.4 (ESPN Football Power Index, Nov 9, 2026)",
       "independent": true,
       "distance_from_spread": 2.5,
-      "distance_from_total": 0.5,
+      "distance_from_total": 1.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Temple Owls −2.5 · Likes this side",
-      "ou_line": "O/U: Over 48.5",
+      "side_line": "Side: Temple Owls −2.5",
+      "ou_line": "O/U: Over 47.5",
       "score_line": "Projected: Temple Owls 28, UAB Blazers 22 (Total 50)",
       "basis_line": "With the players available: projected points UAB Blazers 22.0, Temple Owls 27.9.",
       "independent": true,
       "distance_from_spread": 3.5,
-      "distance_from_total": 1.5,
+      "distance_from_total": 2.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
       "side_line": "Side: UAB Blazers +2.5",
-      "ou_line": "O/U: Over 48.5",
+      "ou_line": "O/U: Over 47.5",
       "score_line": "Projected: Temple Owls 25, UAB Blazers 25 (Total 50)",
       "basis_line": "Rest and travel read: projected points UAB Blazers 25.3, Temple Owls 25.4.",
       "independent": true,
       "distance_from_spread": 2.5,
-      "distance_from_total": 1.5,
+      "distance_from_total": 2.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: Under 47.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Temple Owls −2.5 (Nov 10, 1:13 PM ET) and is −2.5 now. Follow The Money has no side pick. Consensus total opened 48.5 (Nov 10, 1:13 PM ET) and is 47.5 now, a 1-point move: Under. The total pick quotes the consensus total now (47.5). Lines are the Action Network consensus as of Nov 14, 9:56 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: the trench reads split, so no side",
-      "ou_line": "O/U: this card reads sides only",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week.",
       "basis_line": "UAB Blazers 3.7 ypc vs Temple Owls allowing 4.6; Temple Owls 5.1 ypc vs UAB Blazers allowing 4.2 (2026 season). The run-game reads favour different teams. In The Trenches has no pick.",
       "independent": false,
@@ -5809,13 +5809,13 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "Market check, UAB at Temple: DraftKings TEM -2.5, total 47.5.\n\nUAB has never played a football game in Philadelphia, per its own notes. Its only other trip to Pennsylvania was a 24-6 loss at Pittsburgh in 2001. For two Blazers it's a homecoming of sorts: linebacker Muaaz Byard is from York and lineman Cooper Young is from Downingtown. They walk into Lincoln Financial Field on Temple's Senior Day and Family Day, with 23 Owls seniors set to be honored.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at TEM -2.5, total 47.5. The Cover Window's published pick is Temple -2.5 and Over 48.5. The side still sits at Temple -2.5 and the total has dipped to 47.5, so the card matches on the side and the Over is a point above the current total. The card's projected final is Temple Owls 27, UAB Blazers 23 (Total 50). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: Owl Scoop says Sheppard was coming back from a right foot injury and RB Sam Brown missed Monday's practice. UAB's Nov. 12 notes flag none. No American report had been published as of this writing.\n\nUAB needs one more win for bowl eligibility for the first time since 2022. The catch is that the Blazers are 5-0 at home and 0-4 on the road, and Owl Scoop notes they've been outscored 131-60 away from Birmingham. UAB's passing defense leads FBS, allowing 122.6 yards through the air per game. End Marlin Dean has 10.5 sacks and five forced fumbles, which ties for the national lead.\n\nTemple is 2-7 but nobody's quitting. Last week at Navy the Owls trailed 28-0 and tied it at 35 before losing late. JoJo Bermudez set a school record with 159 punt-return yards in that game. K.C. Keeler, the winningest active FBS head coach, opened the door for Ajani Sheppard to return from a foot injury: “He's definitely given us a spark when he's gotten in there.”\n\nDefensive tackle Kevin Hornbeak returns from a two-game suspension. “I think Kevin's a guy that wants to be great,” Keeler said. “He's handled it and he's ready to play on senior day.” UAB kicker Jonah Delange is one field goal from tying the school's single-season mark of 22. Philly gets a road-weary team chasing a bowl and a home team sending off its seniors. Keep an eye on every punt. Bermudez can flip this one by himself.\n\nThe published card stays Temple Owls −2.5 and Over 48.5 at the numbers it was written against. My final is Temple Owls 27, UAB Blazers 23. Follow The Money's side and total are both pending.\n\nTemple Owls 27, UAB Blazers 23. Temple Owls cover the 2.5. Over 48.5.",
+    "story_text": "Market check, UAB at Temple, Nov. 14, 2026, 9:56 AM ET: DraftKings Temple −2.5, total 47.5.\n\nUAB has never played a football game in Philadelphia, per its own notes. Its only other trip to Pennsylvania was a 24-6 loss at Pittsburgh in 2001. For two Blazers it's a homecoming of sorts: linebacker Muaaz Byard is from York and lineman Cooper Young is from Downingtown. They walk into Lincoln Financial Field on Temple's Senior Day and Family Day, with 23 Owls seniors set to be honored.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at Temple −2.5, total 47.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Temple −2.5 with a 48.5 total. Full preview at thecoverwindow.com.\n\nInjuries: Owl Scoop says Sheppard was coming back from a right foot injury and RB Sam Brown missed Monday's practice. UAB's Nov. 12 notes flag none. No American report had been published as of this writing.\n\nUAB needs one more win for bowl eligibility for the first time since 2022. The catch is that the Blazers are 5-0 at home and 0-4 on the road, and Owl Scoop notes they've been outscored 131-60 away from Birmingham. UAB's passing defense leads FBS, allowing 122.6 yards through the air per game. End Marlin Dean has 10.5 sacks and five forced fumbles, which ties for the national lead.\n\nTemple is 2-7 but nobody's quitting. Last week at Navy the Owls trailed 28-0 and tied it at 35 before losing late. JoJo Bermudez set a school record with 159 punt-return yards in that game. K.C. Keeler, the winningest active FBS head coach, opened the door for Ajani Sheppard to return from a foot injury: “He's definitely given us a spark when he's gotten in there.”\n\nDefensive tackle Kevin Hornbeak returns from a two-game suspension. “I think Kevin's a guy that wants to be great,” Keeler said. “He's handled it and he's ready to play on senior day.” UAB kicker Jonah Delange is one field goal from tying the school's single-season mark of 22. Philly gets a road-weary team chasing a bowl and a home team sending off its seniors. Keep an eye on every punt. Bermudez can flip this one by himself.\n\nThe desks at today's number. Follow The Money has no side pick and likes the Under 47.5. The Formula: Temple 27, UAB 22. That makes it Temple −2.5 and Over 47.5. Next Man Up: Temple 28, UAB 22. That makes it Temple −2.5 and Over 47.5. Letdown Watch: Temple 25, UAB 25. That makes it UAB +2.5 and Over 47.5. In The Trenches has no pick: its run-game reads favour different teams.\n\nThe Cover Writer's card at today's number: Temple Owls −2.5 and Over 47.5. My final is Temple Owls 27, UAB Blazers 23. Same spread as Monday, and the total dropped a point. Our 50 sits further over it. Temple by four isn't a prediction you brag about at parties, but it covers.\n\nTemple Owls 27, UAB Blazers 23. Temple Owls cover the 2.5. Over 47.5.",
     "fanatic_score_line": "Projected: Temple Owls 27, UAB Blazers 23",
     "line_used": {
      "home_line": "Temple Owls −2.5",
-     "total": "48.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "total": "47.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T14:56Z"
     },
     "injuries": {
      "away": [],
@@ -5836,14 +5836,14 @@
     "market": {
      "score_line": "",
      "spread": "Temple Owls −2.5",
-     "total": "48.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "total": "47.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "UAB at Temple: The Blazers' First Trip to Philly Lands on Temple's Senior Day",
     "fanatic_headline": "UAB at Temple: The Blazers' First Trip to Philly Lands on Temple's Senior Day"
    },
-   "gambler_story": "Market check, UAB at Temple: DraftKings TEM -2.5, total 47.5.\n\nUAB has never played a football game in Philadelphia, per its own notes. Its only other trip to Pennsylvania was a 24-6 loss at Pittsburgh in 2001. For two Blazers it's a homecoming of sorts: linebacker Muaaz Byard is from York and lineman Cooper Young is from Downingtown. They walk into Lincoln Financial Field on Temple's Senior Day and Family Day, with 23 Owls seniors set to be honored.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at TEM -2.5, total 47.5. The Cover Window's published pick is Temple -2.5 and Over 48.5. The side still sits at Temple -2.5 and the total has dipped to 47.5, so the card matches on the side and the Over is a point above the current total. The card's projected final is Temple Owls 27, UAB Blazers 23 (Total 50). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: Owl Scoop says Sheppard was coming back from a right foot injury and RB Sam Brown missed Monday's practice. UAB's Nov. 12 notes flag none. No American report had been published as of this writing.\n\nUAB needs one more win for bowl eligibility for the first time since 2022. The catch is that the Blazers are 5-0 at home and 0-4 on the road, and Owl Scoop notes they've been outscored 131-60 away from Birmingham. UAB's passing defense leads FBS, allowing 122.6 yards through the air per game. End Marlin Dean has 10.5 sacks and five forced fumbles, which ties for the national lead.\n\nTemple is 2-7 but nobody's quitting. Last week at Navy the Owls trailed 28-0 and tied it at 35 before losing late. JoJo Bermudez set a school record with 159 punt-return yards in that game. K.C. Keeler, the winningest active FBS head coach, opened the door for Ajani Sheppard to return from a foot injury: “He's definitely given us a spark when he's gotten in there.”\n\nDefensive tackle Kevin Hornbeak returns from a two-game suspension. “I think Kevin's a guy that wants to be great,” Keeler said. “He's handled it and he's ready to play on senior day.” UAB kicker Jonah Delange is one field goal from tying the school's single-season mark of 22. Philly gets a road-weary team chasing a bowl and a home team sending off its seniors. Keep an eye on every punt. Bermudez can flip this one by himself.\n\nThe published card stays Temple Owls −2.5 and Over 48.5 at the numbers it was written against. My final is Temple Owls 27, UAB Blazers 23. Follow The Money's side and total are both pending.\n\nTemple Owls 27, UAB Blazers 23. Temple Owls cover the 2.5. Over 48.5.",
+   "gambler_story": "Market check, UAB at Temple, Nov. 14, 2026, 9:56 AM ET: DraftKings Temple −2.5, total 47.5.\n\nUAB has never played a football game in Philadelphia, per its own notes. Its only other trip to Pennsylvania was a 24-6 loss at Pittsburgh in 2001. For two Blazers it's a homecoming of sorts: linebacker Muaaz Byard is from York and lineman Cooper Young is from Downingtown. They walk into Lincoln Financial Field on Temple's Senior Day and Family Day, with 23 Owls seniors set to be honored.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at Temple −2.5, total 47.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Temple −2.5 with a 48.5 total. Full preview at thecoverwindow.com.\n\nInjuries: Owl Scoop says Sheppard was coming back from a right foot injury and RB Sam Brown missed Monday's practice. UAB's Nov. 12 notes flag none. No American report had been published as of this writing.\n\nUAB needs one more win for bowl eligibility for the first time since 2022. The catch is that the Blazers are 5-0 at home and 0-4 on the road, and Owl Scoop notes they've been outscored 131-60 away from Birmingham. UAB's passing defense leads FBS, allowing 122.6 yards through the air per game. End Marlin Dean has 10.5 sacks and five forced fumbles, which ties for the national lead.\n\nTemple is 2-7 but nobody's quitting. Last week at Navy the Owls trailed 28-0 and tied it at 35 before losing late. JoJo Bermudez set a school record with 159 punt-return yards in that game. K.C. Keeler, the winningest active FBS head coach, opened the door for Ajani Sheppard to return from a foot injury: “He's definitely given us a spark when he's gotten in there.”\n\nDefensive tackle Kevin Hornbeak returns from a two-game suspension. “I think Kevin's a guy that wants to be great,” Keeler said. “He's handled it and he's ready to play on senior day.” UAB kicker Jonah Delange is one field goal from tying the school's single-season mark of 22. Philly gets a road-weary team chasing a bowl and a home team sending off its seniors. Keep an eye on every punt. Bermudez can flip this one by himself.\n\nThe desks at today's number. Follow The Money has no side pick and likes the Under 47.5. The Formula: Temple 27, UAB 22. That makes it Temple −2.5 and Over 47.5. Next Man Up: Temple 28, UAB 22. That makes it Temple −2.5 and Over 47.5. Letdown Watch: Temple 25, UAB 25. That makes it UAB +2.5 and Over 47.5. In The Trenches has no pick: its run-game reads favour different teams.\n\nThe Cover Writer's card at today's number: Temple Owls −2.5 and Over 47.5. My final is Temple Owls 27, UAB Blazers 23. Same spread as Monday, and the total dropped a point. Our 50 sits further over it. Temple by four isn't a prediction you brag about at parties, but it covers.\n\nTemple Owls 27, UAB Blazers 23. Temple Owls cover the 2.5. Over 47.5.",
    "videos": [
     {
      "youtube_id": "8Ru1EKlYMXA",
@@ -5924,14 +5924,14 @@
     "coastal-carolina"
    ],
    "spread": "Coastal Carolina Chanticleers −1.5",
-   "total_line": 50.5,
+   "total_line": 53.5,
    "prediction": {
     "away_score": 24,
     "home_score": 27,
     "winner": "Coastal Carolina Chanticleers",
     "covers": "Coastal Carolina Chanticleers −1.5"
    },
-   "total_pick": "Over",
+   "total_pick": "Under",
    "status_at_build": {
     "state": "pre"
    },
@@ -5939,49 +5939,49 @@
     "writer": {
      "score_line": "Projected: Coastal Carolina Chanticleers 27, Arkansas State Red Wolves 24 (Total 51)",
      "side": "Coastal Carolina Chanticleers −1.5",
-     "ou": "Over 50.5",
+     "ou": "Under 53.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
       "side_line": "Side: Arkansas State Red Wolves +1.5",
-      "ou_line": "O/U: Over 50.5",
+      "ou_line": "O/U: Under 53.5",
       "score_line": "Projected: Coastal Carolina Chanticleers 26, Arkansas State Red Wolves 25 (Total 51)",
       "basis_line": "Net ratings Arkansas State Red Wolves −10.3, Coastal Carolina Chanticleers −12.1 (ESPN Football Power Index, Nov 9, 2026)",
       "independent": true,
       "distance_from_spread": 0.5,
-      "distance_from_total": 0.5,
+      "distance_from_total": 2.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: Coastal Carolina Chanticleers −1.5",
-      "ou_line": "O/U: Under 50.5 · Likes this total",
+      "ou_line": "O/U: Under 53.5",
       "score_line": "Projected: Coastal Carolina Chanticleers 26, Arkansas State Red Wolves 22 (Total 48)",
       "basis_line": "With the players available: projected points Arkansas State Red Wolves 22.3, Coastal Carolina Chanticleers 25.7.",
       "independent": true,
       "distance_from_spread": 2.5,
-      "distance_from_total": 2.5,
+      "distance_from_total": 5.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Coastal Carolina Chanticleers −1.5",
-      "ou_line": "O/U: Over 50.5",
+      "side_line": "Side: Arkansas State Red Wolves +1.5",
+      "ou_line": "O/U: Under 53.5",
       "score_line": "Projected: Coastal Carolina Chanticleers 26, Arkansas State Red Wolves 25 (Total 51)",
       "basis_line": "Rest and travel read: projected points Arkansas State Red Wolves 24.5, Coastal Carolina Chanticleers 26.2.",
       "independent": true,
       "distance_from_spread": 0.5,
-      "distance_from_total": 0.5,
+      "distance_from_total": 2.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: Over 52.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Coastal Carolina Chanticleers −1.5 (Nov 14, 12:36 AM ET) and is −1.5 now. Follow The Money has no side pick. Consensus total opened 50.5 (Nov 10, 12:12 AM ET) and is 52.5 now, a 2-point move: Over. The total pick quotes the consensus total now (52.5), not the game total listed on this page (53.5). Lines are the Action Network consensus as of Nov 14, 9:56 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -5989,22 +5989,22 @@
      {
       "name": "In The Trenches",
       "side_line": "Side: Arkansas State Red Wolves +1.5 · Likes this side",
-      "ou_line": "O/U: this card reads sides only",
+      "ou_line": "O/U: no pick",
       "score_line": "Projected: Coastal Carolina Chanticleers 29, Arkansas State Red Wolves 24 (Total 53)",
       "basis_line": "This read points to a side only. Arkansas State Red Wolves 4.2 ypc vs Coastal Carolina Chanticleers allowing 4.6; Coastal Carolina Chanticleers 3.6 ypc vs Arkansas State Red Wolves allowing 5.3 (2026 season). Coastal Carolina Chanticleers run game 1.6 ypc below what the opponent allows, which favours Arkansas State Red Wolves. Side: Arkansas State Red Wolves +1.5.",
       "independent": true,
       "distance_from_spread": 3.5,
-      "distance_from_total": 2.5,
+      "distance_from_total": 0.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "Market check, Arkansas State at Coastal Carolina: DraftKings CCU -1.5, total 52.5.\n\nConway closes the home schedule with a full afternoon. Brooks Stadium hosts Senior Day and Salute to Service, and 23 Chanticleers are expected to be recognized before kickoff, per the school. Then the work starts: Coastal is 3-6 and has to win out to reach six wins and a seventh straight bowl.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at CCU -1.5, total 52.5. The Cover Window's published pick is Coastal Carolina -1.5 and Over 50.5. The side still sits at Coastal -1.5 and the total has risen to 52.5, so the card matches on the side and the published Over is now two points under the current total. The card's projected final is Coastal Carolina Chanticleers 27, Arkansas State Red Wolves 24 (Total 51). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: we found no posted Sun Belt availability list in our check, and neither team's notes flag a key absence.\n\nArkansas State coach Butch Jones knows where this gets decided. He told the Arkansas Democrat-Gazette that the biggest thing that sticks out about Coastal is the play up front: “They're all fourth- and fifth-year players.” He was blunt about his own front: “We're undersized up front right now in the defensive front. It is what it is.” Louisiana-Monroe ran for 268 yards on the Red Wolves in last week's 19-17 upset.\n\nQuarterback Trey Owens isn't sulking. “There is no reason for us to waver off of one loss,” he said. Cornerback Noah Flores has his eye on Deuce Bailey, who followed coach Ryan Beard from Missouri State and leads the Sun Belt with 19 touchdown passes. Flores said the front has to “create some pressure so we can get him off balance.”\n\nThere's a fun side story. Beard guided Missouri State to its first bowl appearance, then left for Coastal before that game, which Arkansas State won 34-28 in the Xbox Bowl. Linebacker Marcellius Pulliam set Coastal's single-game record with 22 tackles against Old Dominion and needs three more for 100 on the season. The Chants have won three straight in this series. Teal will be all over the place for the seniors, and a must-win always gets a crowd's attention.\n\nThe published card stays Coastal Carolina Chanticleers −1.5 and Over 50.5 at the numbers it was written against. My final is Coastal Carolina Chanticleers 27, Arkansas State Red Wolves 24. Follow The Money's side and total are both pending.\n\nCoastal Carolina Chanticleers 27, Arkansas State Red Wolves 24. Coastal Carolina Chanticleers cover the 1.5. Over 50.5.",
+    "story_text": "Market check, Arkansas State at Coastal Carolina, Nov. 14, 2026, 9:56 AM ET: DraftKings Coastal Carolina −1.5, total 53.5.\n\nConway closes the home schedule with a full afternoon. Brooks Stadium hosts Senior Day and Salute to Service, and 23 Chanticleers are expected to be recognized before kickoff, per the school. Then the work starts: Coastal is 3-6 and has to win out to reach six wins and a seventh straight bowl.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at Coastal Carolina −1.5, total 53.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Coastal Carolina −1.5 with a 50.5 total. Full preview at thecoverwindow.com.\n\nInjuries: we found no posted Sun Belt availability list in our check, and neither team's notes flag a key absence.\n\nArkansas State coach Butch Jones knows where this gets decided. He told the Arkansas Democrat-Gazette that the biggest thing that sticks out about Coastal is the play up front: “They're all fourth- and fifth-year players.” He was blunt about his own front: “We're undersized up front right now in the defensive front. It is what it is.” Louisiana-Monroe ran for 268 yards on the Red Wolves in last week's 19-17 upset.\n\nQuarterback Trey Owens isn't sulking. “There is no reason for us to waver off of one loss,” he said. Cornerback Noah Flores has his eye on Deuce Bailey, who followed coach Ryan Beard from Missouri State and leads the Sun Belt with 19 touchdown passes. Flores said the front has to “create some pressure so we can get him off balance.”\n\nThere's a fun side story. Beard guided Missouri State to its first bowl appearance, then left for Coastal before that game, which Arkansas State won 34-28 in the Xbox Bowl. Linebacker Marcellius Pulliam set Coastal's single-game record with 22 tackles against Old Dominion and needs three more for 100 on the season. The Chants have won three straight in this series. Teal will be all over the place for the seniors, and a must-win always gets a crowd's attention.\n\nThe desks at today's number. Follow The Money has no side pick and likes the Over 52.5. The Formula: Coastal Carolina 26, Arkansas State 25. That makes it Arkansas State +1.5 and Under 53.5. Next Man Up: Coastal Carolina 26, Arkansas State 22. That makes it Coastal Carolina −1.5 and Under 53.5. Letdown Watch: Coastal Carolina 26, Arkansas State 25. That makes it Arkansas State +1.5 and Under 53.5. In The Trenches: Coastal Carolina 29, Arkansas State 24, and it stays with Arkansas State +1.5 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: Coastal Carolina Chanticleers −1.5 and Under 53.5. My final is Coastal Carolina Chanticleers 27, Arkansas State Red Wolves 24. The total climbed three points since Monday, and our 51 now sits below it, so the total flips from the Over to the Under. The side holds: Coastal by three against a point and a half.\n\nCoastal Carolina Chanticleers 27, Arkansas State Red Wolves 24. Coastal Carolina Chanticleers cover the 1.5. Under 53.5.",
     "fanatic_score_line": "Projected: Coastal Carolina Chanticleers 27, Arkansas State Red Wolves 24",
     "line_used": {
      "home_line": "Coastal Carolina Chanticleers −1.5",
-     "total": "50.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "total": "53.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T14:56Z"
     },
     "injuries": {
      "away": [],
@@ -6025,14 +6025,14 @@
     "market": {
      "score_line": "",
      "spread": "Coastal Carolina Chanticleers −1.5",
-     "total": "50.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "total": "53.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "Arkansas State at Coastal Carolina: Conway Says Goodbye to 23 Seniors and Hello to a Must-Win",
     "fanatic_headline": "Arkansas State at Coastal Carolina: Conway Says Goodbye to 23 Seniors and Hello to a Must-Win"
    },
-   "gambler_story": "Market check, Arkansas State at Coastal Carolina: DraftKings CCU -1.5, total 52.5.\n\nConway closes the home schedule with a full afternoon. Brooks Stadium hosts Senior Day and Salute to Service, and 23 Chanticleers are expected to be recognized before kickoff, per the school. Then the work starts: Coastal is 3-6 and has to win out to reach six wins and a seventh straight bowl.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at CCU -1.5, total 52.5. The Cover Window's published pick is Coastal Carolina -1.5 and Over 50.5. The side still sits at Coastal -1.5 and the total has risen to 52.5, so the card matches on the side and the published Over is now two points under the current total. The card's projected final is Coastal Carolina Chanticleers 27, Arkansas State Red Wolves 24 (Total 51). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: we found no posted Sun Belt availability list in our check, and neither team's notes flag a key absence.\n\nArkansas State coach Butch Jones knows where this gets decided. He told the Arkansas Democrat-Gazette that the biggest thing that sticks out about Coastal is the play up front: “They're all fourth- and fifth-year players.” He was blunt about his own front: “We're undersized up front right now in the defensive front. It is what it is.” Louisiana-Monroe ran for 268 yards on the Red Wolves in last week's 19-17 upset.\n\nQuarterback Trey Owens isn't sulking. “There is no reason for us to waver off of one loss,” he said. Cornerback Noah Flores has his eye on Deuce Bailey, who followed coach Ryan Beard from Missouri State and leads the Sun Belt with 19 touchdown passes. Flores said the front has to “create some pressure so we can get him off balance.”\n\nThere's a fun side story. Beard guided Missouri State to its first bowl appearance, then left for Coastal before that game, which Arkansas State won 34-28 in the Xbox Bowl. Linebacker Marcellius Pulliam set Coastal's single-game record with 22 tackles against Old Dominion and needs three more for 100 on the season. The Chants have won three straight in this series. Teal will be all over the place for the seniors, and a must-win always gets a crowd's attention.\n\nThe published card stays Coastal Carolina Chanticleers −1.5 and Over 50.5 at the numbers it was written against. My final is Coastal Carolina Chanticleers 27, Arkansas State Red Wolves 24. Follow The Money's side and total are both pending.\n\nCoastal Carolina Chanticleers 27, Arkansas State Red Wolves 24. Coastal Carolina Chanticleers cover the 1.5. Over 50.5.",
+   "gambler_story": "Market check, Arkansas State at Coastal Carolina, Nov. 14, 2026, 9:56 AM ET: DraftKings Coastal Carolina −1.5, total 53.5.\n\nConway closes the home schedule with a full afternoon. Brooks Stadium hosts Senior Day and Salute to Service, and 23 Chanticleers are expected to be recognized before kickoff, per the school. Then the work starts: Coastal is 3-6 and has to win out to reach six wins and a seventh straight bowl.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at Coastal Carolina −1.5, total 53.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Coastal Carolina −1.5 with a 50.5 total. Full preview at thecoverwindow.com.\n\nInjuries: we found no posted Sun Belt availability list in our check, and neither team's notes flag a key absence.\n\nArkansas State coach Butch Jones knows where this gets decided. He told the Arkansas Democrat-Gazette that the biggest thing that sticks out about Coastal is the play up front: “They're all fourth- and fifth-year players.” He was blunt about his own front: “We're undersized up front right now in the defensive front. It is what it is.” Louisiana-Monroe ran for 268 yards on the Red Wolves in last week's 19-17 upset.\n\nQuarterback Trey Owens isn't sulking. “There is no reason for us to waver off of one loss,” he said. Cornerback Noah Flores has his eye on Deuce Bailey, who followed coach Ryan Beard from Missouri State and leads the Sun Belt with 19 touchdown passes. Flores said the front has to “create some pressure so we can get him off balance.”\n\nThere's a fun side story. Beard guided Missouri State to its first bowl appearance, then left for Coastal before that game, which Arkansas State won 34-28 in the Xbox Bowl. Linebacker Marcellius Pulliam set Coastal's single-game record with 22 tackles against Old Dominion and needs three more for 100 on the season. The Chants have won three straight in this series. Teal will be all over the place for the seniors, and a must-win always gets a crowd's attention.\n\nThe desks at today's number. Follow The Money has no side pick and likes the Over 52.5. The Formula: Coastal Carolina 26, Arkansas State 25. That makes it Arkansas State +1.5 and Under 53.5. Next Man Up: Coastal Carolina 26, Arkansas State 22. That makes it Coastal Carolina −1.5 and Under 53.5. Letdown Watch: Coastal Carolina 26, Arkansas State 25. That makes it Arkansas State +1.5 and Under 53.5. In The Trenches: Coastal Carolina 29, Arkansas State 24, and it stays with Arkansas State +1.5 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: Coastal Carolina Chanticleers −1.5 and Under 53.5. My final is Coastal Carolina Chanticleers 27, Arkansas State Red Wolves 24. The total climbed three points since Monday, and our 51 now sits below it, so the total flips from the Over to the Under. The side holds: Coastal by three against a point and a half.\n\nCoastal Carolina Chanticleers 27, Arkansas State Red Wolves 24. Coastal Carolina Chanticleers cover the 1.5. Under 53.5.",
    "videos": [
     {
      "youtube_id": "Mxh0a_0d8xM",
@@ -6112,13 +6112,13 @@
     "kansas-state",
     "tcu"
    ],
-   "spread": "TCU Horned Frogs −9.5",
-   "total_line": 46.5,
+   "spread": "TCU Horned Frogs −13.5",
+   "total_line": 44.5,
    "prediction": {
     "away_score": 21,
     "home_score": 27,
     "winner": "TCU Horned Frogs",
-    "covers": "Kansas State Wildcats +9.5"
+    "covers": "Kansas State Wildcats +13.5"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -6127,73 +6127,73 @@
    "display": {
     "writer": {
      "score_line": "Projected: TCU Horned Frogs 27, Kansas State Wildcats 21 (Total 48)",
-     "side": "Kansas State Wildcats +9.5",
-     "ou": "Over 46.5",
+     "side": "Kansas State Wildcats +13.5",
+     "ou": "Over 44.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Kansas State Wildcats +9.5",
-      "ou_line": "O/U: Over 46.5 · Likes this total",
+      "side_line": "Side: Kansas State Wildcats +13.5",
+      "ou_line": "O/U: Over 44.5",
       "score_line": "Projected: TCU Horned Frogs 28, Kansas State Wildcats 21 (Total 49)",
       "basis_line": "Net ratings Kansas State Wildcats 1.5, TCU Horned Frogs 7.6 (ESPN Football Power Index, Nov 9, 2026)",
       "independent": true,
-      "distance_from_spread": 2.5,
-      "distance_from_total": 2.5,
+      "distance_from_spread": 6.5,
+      "distance_from_total": 4.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Kansas State Wildcats +9.5",
-      "ou_line": "O/U: Under 46.5 · Likes this total",
+      "side_line": "Side: Kansas State Wildcats +13.5",
+      "ou_line": "O/U: Under 44.5",
       "score_line": "Projected: TCU Horned Frogs 26, Kansas State Wildcats 17 (Total 43)",
       "basis_line": "With the players available: projected points Kansas State Wildcats 17.5, TCU Horned Frogs 26.3.",
       "independent": true,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 3.5,
+      "distance_from_spread": 4.5,
+      "distance_from_total": 1.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Kansas State Wildcats +9.5",
-      "ou_line": "O/U: Over 46.5",
+      "side_line": "Side: Kansas State Wildcats +13.5",
+      "ou_line": "O/U: Over 44.5",
       "score_line": "Projected: TCU Horned Frogs 29, Kansas State Wildcats 20 (Total 49)",
       "basis_line": "Rest and travel read: projected points Kansas State Wildcats 19.8, TCU Horned Frogs 29.1.",
       "independent": true,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 2.5,
+      "distance_from_spread": 4.5,
+      "distance_from_total": 4.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: TCU Horned Frogs −13.5 · Likes this side",
+      "ou_line": "O/U: Under 44.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened TCU Horned Frogs −10 (Nov 10, 10:09 AM ET) and is −13.5 now, a 3.5-point move. The side pick quotes the consensus spread now (TCU Horned Frogs −13.5). Consensus total opened 46.5 (Nov 10, 9:53 AM ET) and is 44.5 now, a 2-point move: Under. The total pick quotes the consensus total now (44.5). Lines are the Action Network consensus as of Nov 14, 9:56 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Kansas State Wildcats +9.5 · Likes this side",
-      "ou_line": "O/U: this card reads sides only",
+      "side_line": "Side: Kansas State Wildcats +13.5 · Likes this side",
+      "ou_line": "O/U: no pick",
       "score_line": "Projected: TCU Horned Frogs 26, Kansas State Wildcats 24 (Total 50)",
-      "basis_line": "This read points to a side only. Kansas State Wildcats 5.2 ypc vs TCU Horned Frogs allowing 3.3; TCU Horned Frogs 3.4 ypc vs Kansas State Wildcats allowing 4.6 (2026 season). Kansas State Wildcats run game 1.9 ypc above what the opponent allows; TCU Horned Frogs run game 1.3 ypc below what the opponent allows, which favours Kansas State Wildcats. Side: Kansas State Wildcats +9.5.",
+      "basis_line": "This read points to a side only. Kansas State Wildcats 5.2 ypc vs TCU Horned Frogs allowing 3.3; TCU Horned Frogs 3.4 ypc vs Kansas State Wildcats allowing 4.6 (2026 season). Kansas State Wildcats run game 1.9 ypc above what the opponent allows; TCU Horned Frogs run game 1.3 ypc below what the opponent allows, which favours Kansas State Wildcats. Side: Kansas State Wildcats +13.5.",
       "independent": true,
-      "distance_from_spread": 7.5,
-      "distance_from_total": 3.5,
+      "distance_from_spread": 11.5,
+      "distance_from_total": 5.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "Market check, Kansas State at TCU: DraftKings TCU -13.5, total 44.5.\n\nFort Worth will see a Kansas State quarterback Saturday. The question is which one. The Wildcats have started four different quarterbacks in four straight games, a first in program history, per the Kansas State Collegian. Collin Klein says Blake Barnett and Dillon Duff are both competing, and both could play at Amon G. Carter Stadium.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at TCU -13.5, total 44.5. The Cover Window's published pick is Kansas State +9.5 and Over 46.5. The market has gone to TCU -13.5 with a total of 44.5, so the Wildcats now get four more points than the card did and the total is two points below the published Over. The card's projected final is TCU Horned Frogs 27, Kansas State Wildcats 21 (Total 48). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries and lineup: the Collegian (Nov. 13) reports the Barnett-Duff quarterback competition is unresolved. We found no Big 12 availability list in our check.\n\nK-State is coming off a 66-28 loss to Oklahoma State that Klein called one of the most frustrating losses of his coaching career. Now he gets a defense he respects. “It's their front seven,” Klein said. “They're extremely disruptive. They can rush the passer. They really get off blocks and destroy blocks in the run game.”\n\nTCU is hurting in its own way. The Frogs led Arizona by eight with under seven minutes left last week, then lost 29-28 after a late score, a recovered pooch kick and a field goal with 38 seconds to go. Jaden Craig accounted for all three touchdowns, tight end Kari Ashley caught a career-high 14 passes, and linebacker Hudson Hooper returned an interception 93 yards for a score.\n\nBoth teams are 4-5. K-State has won the last three meetings, but its last trip to Fort Worth in 2022 went sideways when TCU erased a 28-10 deficit to win 38-28. ESPN's data capsule has TCU allowing 15.8 points a game, 12th in FBS, and K-State running for 196.8 a game. The Frogs' fans want a finish that doesn't sting. The Wildcats just want to know who's under center.\n\nThe published card stays Kansas State Wildcats +9.5 and Over 46.5 at the numbers it was written against. My final is TCU Horned Frogs 27, Kansas State Wildcats 21. Follow The Money's side and total are both pending.\n\nTCU Horned Frogs 27, Kansas State Wildcats 21. Kansas State Wildcats cover the 9.5. Over 46.5.",
+    "story_text": "Market check, Kansas State at TCU, Nov. 14, 2026, 9:56 AM ET: DraftKings TCU −13.5, total 44.5.\n\nFort Worth will see a Kansas State quarterback Saturday. The question is which one. The Wildcats have started four different quarterbacks in four straight games, a first in program history, per the Kansas State Collegian. Collin Klein says Blake Barnett and Dillon Duff are both competing, and both could play at Amon G. Carter Stadium.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at TCU −13.5, total 44.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Kansas State +9.5 with a 46.5 total. Full preview at thecoverwindow.com.\n\nInjuries and lineup: the Big 12 report (Update 1, Thursday 10:00 PM ET) lists Kansas State quarterbacks Avery Johnson and Jacob Knuth out. Blake Barnett is listed available and has thrown the most for K-State the last two weeks. The Collegian (Nov. 13) reports the Barnett-Duff quarterback competition is unresolved.\n\nK-State is coming off a 66-28 loss to Oklahoma State that Klein called one of the most frustrating losses of his coaching career. Now he gets a defense he respects. “It's their front seven,” Klein said. “They're extremely disruptive. They can rush the passer. They really get off blocks and destroy blocks in the run game.”\n\nTCU is hurting in its own way. The Frogs led Arizona by eight with under seven minutes left last week, then lost 29-28 after a late score, a recovered pooch kick and a field goal with 38 seconds to go. Jaden Craig accounted for all three touchdowns, tight end Kari Ashley caught a career-high 14 passes, and linebacker Hudson Hooper returned an interception 93 yards for a score.\n\nBoth teams are 4-5. K-State has won the last three meetings, but its last trip to Fort Worth in 2022 went sideways when TCU erased a 28-10 deficit to win 38-28. ESPN's data capsule has TCU allowing 15.8 points a game, 12th in FBS, and K-State running for 196.8 a game. The Frogs' fans want a finish that doesn't sting. The Wildcats just want to know who's under center.\n\nThe desks at today's number. Follow The Money likes TCU −13.5 and the Under 44.5. The Formula: TCU 28, Kansas State 21. That makes it Kansas State +13.5 and Over 44.5. Next Man Up: TCU 26, Kansas State 17. That makes it Kansas State +13.5 and Under 44.5. Letdown Watch: TCU 29, Kansas State 20. That makes it Kansas State +13.5 and Over 44.5. In The Trenches: TCU 26, Kansas State 24, and it stays with Kansas State +13.5 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: Kansas State Wildcats +13.5 and Over 44.5. My final is TCU Horned Frogs 27, Kansas State Wildcats 21. Our 27-21 was written before the Big 12 report listed Johnson and Knuth out, and the spread has jumped from 9.5 to 13.5 since Monday. A six-point TCU win still sits well inside 13.5, so K-State stays the side. Thirteen and a half is a lot of points. So is not knowing your quarterback.\n\nTCU Horned Frogs 27, Kansas State Wildcats 21. Kansas State Wildcats cover the 13.5. Over 44.5.",
     "fanatic_score_line": "Projected: TCU Horned Frogs 27, Kansas State Wildcats 21",
     "line_used": {
-     "home_line": "TCU Horned Frogs −9.5",
-     "total": "46.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "home_line": "TCU Horned Frogs −13.5",
+     "total": "44.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T14:56Z"
     },
     "injuries": {
      "away": [],
@@ -6213,15 +6213,15 @@
     "fanatic_story": "Fort Worth will see a Kansas State quarterback Saturday. The question is which one. The Wildcats have started four different quarterbacks in four straight games, a first in program history, per the Kansas State Collegian. Collin Klein says Blake Barnett and Dillon Duff are both competing, and both could play at Amon G. Carter Stadium.\n\nK-State is coming off a 66-28 loss to Oklahoma State that Klein called one of the most frustrating losses of his coaching career. Now he gets a defense he respects. “It's their front seven,” Klein said. “They're extremely disruptive. They can rush the passer. They really get off blocks and destroy blocks in the run game.”\n\nTCU is hurting in its own way. The Frogs led Arizona by eight with under seven minutes left last week, then lost 29-28 after a late score, a recovered pooch kick and a field goal with 38 seconds to go. Jaden Craig accounted for all three touchdowns, tight end Kari Ashley caught a career-high 14 passes, and linebacker Hudson Hooper returned an interception 93 yards for a score.\n\nBoth teams are 4-5. K-State has won the last three meetings, but its last trip to Fort Worth in 2022 went sideways when TCU erased a 28-10 deficit to win 38-28. ESPN's data capsule has TCU allowing 15.8 points a game, 12th in FBS, and K-State running for 196.8 a game. The Frogs' fans want a finish that doesn't sting. The Wildcats just want to know who's under center.\n\nMy call: TCU Horned Frogs 27, Kansas State Wildcats 21.",
     "market": {
      "score_line": "",
-     "spread": "TCU Horned Frogs −9.5",
-     "total": "46.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "spread": "TCU Horned Frogs −13.5",
+     "total": "44.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "Kansas State at TCU: Fort Worth Waits to See Which Wildcat Takes the Snap",
     "fanatic_headline": "Kansas State at TCU: Fort Worth Waits to See Which Wildcat Takes the Snap"
    },
-   "gambler_story": "Market check, Kansas State at TCU: DraftKings TCU -13.5, total 44.5.\n\nFort Worth will see a Kansas State quarterback Saturday. The question is which one. The Wildcats have started four different quarterbacks in four straight games, a first in program history, per the Kansas State Collegian. Collin Klein says Blake Barnett and Dillon Duff are both competing, and both could play at Amon G. Carter Stadium.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at TCU -13.5, total 44.5. The Cover Window's published pick is Kansas State +9.5 and Over 46.5. The market has gone to TCU -13.5 with a total of 44.5, so the Wildcats now get four more points than the card did and the total is two points below the published Over. The card's projected final is TCU Horned Frogs 27, Kansas State Wildcats 21 (Total 48). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries and lineup: the Collegian (Nov. 13) reports the Barnett-Duff quarterback competition is unresolved. We found no Big 12 availability list in our check.\n\nK-State is coming off a 66-28 loss to Oklahoma State that Klein called one of the most frustrating losses of his coaching career. Now he gets a defense he respects. “It's their front seven,” Klein said. “They're extremely disruptive. They can rush the passer. They really get off blocks and destroy blocks in the run game.”\n\nTCU is hurting in its own way. The Frogs led Arizona by eight with under seven minutes left last week, then lost 29-28 after a late score, a recovered pooch kick and a field goal with 38 seconds to go. Jaden Craig accounted for all three touchdowns, tight end Kari Ashley caught a career-high 14 passes, and linebacker Hudson Hooper returned an interception 93 yards for a score.\n\nBoth teams are 4-5. K-State has won the last three meetings, but its last trip to Fort Worth in 2022 went sideways when TCU erased a 28-10 deficit to win 38-28. ESPN's data capsule has TCU allowing 15.8 points a game, 12th in FBS, and K-State running for 196.8 a game. The Frogs' fans want a finish that doesn't sting. The Wildcats just want to know who's under center.\n\nThe published card stays Kansas State Wildcats +9.5 and Over 46.5 at the numbers it was written against. My final is TCU Horned Frogs 27, Kansas State Wildcats 21. Follow The Money's side and total are both pending.\n\nTCU Horned Frogs 27, Kansas State Wildcats 21. Kansas State Wildcats cover the 9.5. Over 46.5.",
+   "gambler_story": "Market check, Kansas State at TCU, Nov. 14, 2026, 9:56 AM ET: DraftKings TCU −13.5, total 44.5.\n\nFort Worth will see a Kansas State quarterback Saturday. The question is which one. The Wildcats have started four different quarterbacks in four straight games, a first in program history, per the Kansas State Collegian. Collin Klein says Blake Barnett and Dillon Duff are both competing, and both could play at Amon G. Carter Stadium.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at TCU −13.5, total 44.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Kansas State +9.5 with a 46.5 total. Full preview at thecoverwindow.com.\n\nInjuries and lineup: the Big 12 report (Update 1, Thursday 10:00 PM ET) lists Kansas State quarterbacks Avery Johnson and Jacob Knuth out. Blake Barnett is listed available and has thrown the most for K-State the last two weeks. The Collegian (Nov. 13) reports the Barnett-Duff quarterback competition is unresolved.\n\nK-State is coming off a 66-28 loss to Oklahoma State that Klein called one of the most frustrating losses of his coaching career. Now he gets a defense he respects. “It's their front seven,” Klein said. “They're extremely disruptive. They can rush the passer. They really get off blocks and destroy blocks in the run game.”\n\nTCU is hurting in its own way. The Frogs led Arizona by eight with under seven minutes left last week, then lost 29-28 after a late score, a recovered pooch kick and a field goal with 38 seconds to go. Jaden Craig accounted for all three touchdowns, tight end Kari Ashley caught a career-high 14 passes, and linebacker Hudson Hooper returned an interception 93 yards for a score.\n\nBoth teams are 4-5. K-State has won the last three meetings, but its last trip to Fort Worth in 2022 went sideways when TCU erased a 28-10 deficit to win 38-28. ESPN's data capsule has TCU allowing 15.8 points a game, 12th in FBS, and K-State running for 196.8 a game. The Frogs' fans want a finish that doesn't sting. The Wildcats just want to know who's under center.\n\nThe desks at today's number. Follow The Money likes TCU −13.5 and the Under 44.5. The Formula: TCU 28, Kansas State 21. That makes it Kansas State +13.5 and Over 44.5. Next Man Up: TCU 26, Kansas State 17. That makes it Kansas State +13.5 and Under 44.5. Letdown Watch: TCU 29, Kansas State 20. That makes it Kansas State +13.5 and Over 44.5. In The Trenches: TCU 26, Kansas State 24, and it stays with Kansas State +13.5 off the run-game matchup, no total pick.\n\nThe Cover Writer's card at today's number: Kansas State Wildcats +13.5 and Over 44.5. My final is TCU Horned Frogs 27, Kansas State Wildcats 21. Our 27-21 was written before the Big 12 report listed Johnson and Knuth out, and the spread has jumped from 9.5 to 13.5 since Monday. A six-point TCU win still sits well inside 13.5, so K-State stays the side. Thirteen and a half is a lot of points. So is not knowing your quarterback.\n\nTCU Horned Frogs 27, Kansas State Wildcats 21. Kansas State Wildcats cover the 13.5. Over 44.5.",
    "videos": [
     {
      "youtube_id": "xCcZ-DP9XZI",
@@ -6352,73 +6352,73 @@
     "kennesaw-state",
     "sam-houston"
    ],
-   "spread": "Kennesaw State Owls −8.5",
-   "total_line": 47.5,
+   "spread": "Kennesaw State Owls −7",
+   "total_line": 45.5,
    "prediction": {
     "away_score": 27,
-    "home_score": 20,
+    "home_score": 21,
     "winner": "Kennesaw State Owls",
-    "covers": "Sam Houston Bearkats +8.5"
+    "covers": "Sam Houston Bearkats +7"
    },
-   "total_pick": "Under",
+   "total_pick": "Over",
    "status_at_build": {
     "state": "pre"
    },
    "display": {
     "writer": {
-     "score_line": "Projected: Kennesaw State Owls 27, Sam Houston Bearkats 20 (Total 47)",
-     "side": "Sam Houston Bearkats +8.5",
-     "ou": "Under 47.5",
+     "score_line": "Projected: Kennesaw State Owls 27, Sam Houston Bearkats 21 (Total 48)",
+     "side": "Sam Houston Bearkats +7",
+     "ou": "Over 45.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Sam Houston Bearkats +8.5 · Likes this side",
-      "ou_line": "O/U: Over 47.5",
+      "side_line": "Side: Sam Houston Bearkats +7",
+      "ou_line": "O/U: Over 45.5",
       "score_line": "Projected: Kennesaw State Owls 27, Sam Houston Bearkats 22 (Total 49)",
       "basis_line": "Net ratings Kennesaw State Owls −11.9, Sam Houston Bearkats −20.7 (ESPN Football Power Index, Nov 9, 2026)",
       "independent": true,
-      "distance_from_spread": 3.5,
-      "distance_from_total": 1.5,
-      "landed_on_number": []
-     },
-     {
-      "name": "Next Man Up",
-      "side_line": "Side: Sam Houston Bearkats +8.5 · Likes this side",
-      "ou_line": "O/U: Under 47.5 · Likes this total",
-      "score_line": "Projected: Kennesaw State Owls 24, Sam Houston Bearkats 20 (Total 44)",
-      "basis_line": "With the players available: projected points Kennesaw State Owls 24.1, Sam Houston Bearkats 20.0.",
-      "independent": true,
-      "distance_from_spread": 4.5,
+      "distance_from_spread": 2.0,
       "distance_from_total": 3.5,
       "landed_on_number": []
      },
      {
+      "name": "Next Man Up",
+      "side_line": "Side: Sam Houston Bearkats +7",
+      "ou_line": "O/U: Under 45.5",
+      "score_line": "Projected: Kennesaw State Owls 24, Sam Houston Bearkats 20 (Total 44)",
+      "basis_line": "With the players available: projected points Kennesaw State Owls 24.1, Sam Houston Bearkats 20.0.",
+      "independent": true,
+      "distance_from_spread": 3.0,
+      "distance_from_total": 1.5,
+      "landed_on_number": []
+     },
+     {
       "name": "Letdown Watch",
-      "side_line": "Side: Sam Houston Bearkats +8.5",
-      "ou_line": "O/U: Over 47.5",
+      "side_line": "Side: Kennesaw State Owls −7",
+      "ou_line": "O/U: Over 45.5",
       "score_line": "Projected: Kennesaw State Owls 28, Sam Houston Bearkats 20 (Total 48)",
       "basis_line": "Rest and travel read: projected points Kennesaw State Owls 28.5, Sam Houston Bearkats 20.0.",
       "independent": true,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 0.5,
+      "distance_from_spread": 1.0,
+      "distance_from_total": 2.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: Under 45.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:18 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Sam Houston Bearkats +7.5 (Nov 10, 9:57 AM ET) and is +7 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 46.5 (Nov 9, 11:38 PM ET) and is 45.5 now, a 1-point move: Under. The total pick quotes the consensus total now (45.5). Lines are the Action Network consensus as of Nov 14, 9:56 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: the trench reads split, so no side",
-      "ou_line": "O/U: this card reads sides only",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week.",
       "basis_line": "Kennesaw State Owls 4.2 ypc vs Sam Houston Bearkats allowing 5.0; Sam Houston Bearkats 2.7 ypc vs Kennesaw State Owls allowing 4.2 (2026 season). The run-game reads favour different teams. In The Trenches has no pick.",
       "independent": false,
@@ -6426,13 +6426,13 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "Market check, Kennesaw State at Sam Houston: DraftKings KENN -7, total 46.5.\n\nBowers Stadium hosts a first Saturday: Sam Houston's first home game under co-interim head coaches Eric Raisbeck and Freddie Aughtry-Lindsay, who took over Oct. 28. The school notes that the Kats will become one of only a handful of FBS programs since 2013 with three head coaches of record in one season, and per NCAA guidance both interims get credit for the same final four games.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at KENN -7, total 46.5. The Cover Window's published pick is Sam Houston +8.5 and Under 47.5. The market is now Kennesaw State -7 with a total of 46.5, so the Kats get a point and a half less than the card did, and the Under is a point above the current total. The card's projected final is Kennesaw State Owls 27, Sam Houston Bearkats 20 (Total 47). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: we found no posted Conference USA availability report in our check, and Sam Houston's Nov. 12 notes flag none.\n\nHuntsville has a reason to hope that has nothing to do with the record. Since moving to FBS in 2023, Sam Houston is 7-5 in November and 8-25 from August through October, per the school, and November accounted for every one of the program's wins in 2023 and 2025. The Kats are 1-8 and still looking for their first Conference USA win.\n\nThis series has a habit of going late. Sam Houston has won all three meetings, every one by seven points or fewer. There was a fourth-down stop at its own 15 with 1:24 left in the 2017 FCS quarterfinals, then Colby Sessums' 35-yard field goal at the horn in 2023 for the program's first FBS win, then a 23-17 overtime win in 2024. The defense has made the biggest jump in FBS against the throw, from 275.9 passing yards a game allowed last year to 161.4 now.\n\nKennesaw State comes in fresh off a 42-40 win over Delaware. Rickie Collins has 1,687 passing yards and Boogie Woods III has eight rushing touchdowns. Landyn Locke is 37 yards from moving up to 19th on Sam Houston's career passing list, and eight of his 13 touchdown passes this season have gone for 30 yards or more. Two interim coaches, one home crowd and a November habit: Huntsville gets to find out if that habit is real.\n\nThe published card stays Sam Houston Bearkats +8.5 and Under 47.5 at the numbers it was written against. My final is Kennesaw State Owls 27, Sam Houston Bearkats 20. Follow The Money's side and total are both pending.\n\nKennesaw State Owls 27, Sam Houston Bearkats 20. Sam Houston Bearkats cover the 8.5. Under 47.5.",
-    "fanatic_score_line": "Projected: Kennesaw State Owls 27, Sam Houston Bearkats 20",
+    "story_text": "Market check, Kennesaw State at Sam Houston, Nov. 14, 2026, 9:56 AM ET: DraftKings Kennesaw State −7, total 45.5.\n\nBowers Stadium hosts a first Saturday: Sam Houston's first home game under co-interim head coaches Eric Raisbeck and Freddie Aughtry-Lindsay, who took over Oct. 28. The school notes that the Kats will become one of only a handful of FBS programs since 2013 with three head coaches of record in one season, and per NCAA guidance both interims get credit for the same final four games.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at Kennesaw State −7, total 45.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Sam Houston +8.5 with a 47.5 total. Full preview at thecoverwindow.com.\n\nInjuries: we found no posted Conference USA availability report in our check, and Sam Houston's Nov. 12 notes flag none.\n\nHuntsville has a reason to hope that has nothing to do with the record. Since moving to FBS in 2023, Sam Houston is 7-5 in November and 8-25 from August through October, per the school, and November accounted for every one of the program's wins in 2023 and 2025. The Kats are 1-8 and still looking for their first Conference USA win.\n\nThis series has a habit of going late. Sam Houston has won all three meetings, every one by seven points or fewer. There was a fourth-down stop at its own 15 with 1:24 left in the 2017 FCS quarterfinals, then Colby Sessums' 35-yard field goal at the horn in 2023 for the program's first FBS win, then a 23-17 overtime win in 2024. The defense has made the biggest jump in FBS against the throw, from 275.9 passing yards a game allowed last year to 161.4 now.\n\nKennesaw State comes in fresh off a 42-40 win over Delaware. Rickie Collins has 1,687 passing yards and Boogie Woods III has eight rushing touchdowns. Landyn Locke is 37 yards from moving up to 19th on Sam Houston's career passing list, and eight of his 13 touchdown passes this season have gone for 30 yards or more. Two interim coaches, one home crowd and a November habit: Huntsville gets to find out if that habit is real.\n\nThe desks at today's number. Follow The Money has no side pick and likes the Under 45.5. The Formula: Kennesaw State 27, Sam Houston 22. That makes it Sam Houston +7 and Over 45.5. Next Man Up: Kennesaw State 24, Sam Houston 20. That makes it Sam Houston +7 and Under 45.5. Letdown Watch: Kennesaw State 28, Sam Houston 20. That makes it Kennesaw State −7 and Over 45.5. In The Trenches has no pick: its run-game reads favour different teams.\n\nThe Cover Writer's card at today's number: Sam Houston Bearkats +7 and Over 45.5. My final is Kennesaw State Owls 27, Sam Houston Bearkats 21. Monday's 27-20 landed right on today's 7, so I moved Sam Houston up a point. That puts the total at 48, over today's 45.5, so the total flips from the Under to the Over. When the number moves to your score, you move the score. Your principles can stay where they are.\n\nKennesaw State Owls 27, Sam Houston Bearkats 21. Sam Houston Bearkats cover the 7. Over 45.5.",
+    "fanatic_score_line": "Projected: Kennesaw State Owls 27, Sam Houston Bearkats 21",
     "line_used": {
-     "home_line": "Sam Houston Bearkats +8.5",
-     "total": "47.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "home_line": "Sam Houston Bearkats +7",
+     "total": "45.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-14T14:56Z"
     },
     "injuries": {
      "away": [],
@@ -6449,18 +6449,18 @@
      "Trench stats: ESPN team stats for Sam Houston (espn.com)",
      "Schedule history: collegefootballdata.com 2018–2025"
     ],
-    "fanatic_story": "Bowers Stadium hosts a first Saturday: Sam Houston's first home game under co-interim head coaches Eric Raisbeck and Freddie Aughtry-Lindsay, who took over Oct. 28. The school notes that the Kats will become one of only a handful of FBS programs since 2013 with three head coaches of record in one season, and per NCAA guidance both interims get credit for the same final four games.\n\nHuntsville has a reason to hope that has nothing to do with the record. Since moving to FBS in 2023, Sam Houston is 7-5 in November and 8-25 from August through October, per the school, and November accounted for every one of the program's wins in 2023 and 2025. The Kats are 1-8 and still looking for their first Conference USA win.\n\nThis series has a habit of going late. Sam Houston has won all three meetings, every one by seven points or fewer. There was a fourth-down stop at its own 15 with 1:24 left in the 2017 FCS quarterfinals, then Colby Sessums' 35-yard field goal at the horn in 2023 for the program's first FBS win, then a 23-17 overtime win in 2024. The defense has made the biggest jump in FBS against the throw, from 275.9 passing yards a game allowed last year to 161.4 now.\n\nKennesaw State comes in fresh off a 42-40 win over Delaware. Rickie Collins has 1,687 passing yards and Boogie Woods III has eight rushing touchdowns. Landyn Locke is 37 yards from moving up to 19th on Sam Houston's career passing list, and eight of his 13 touchdown passes this season have gone for 30 yards or more. Two interim coaches, one home crowd and a November habit: Huntsville gets to find out if that habit is real.\n\nMy call: Kennesaw State Owls 27, Sam Houston Bearkats 20.",
+    "fanatic_story": "Bowers Stadium hosts a first Saturday: Sam Houston's first home game under co-interim head coaches Eric Raisbeck and Freddie Aughtry-Lindsay, who took over Oct. 28. The school notes that the Kats will become one of only a handful of FBS programs since 2013 with three head coaches of record in one season, and per NCAA guidance both interims get credit for the same final four games.\n\nHuntsville has a reason to hope that has nothing to do with the record. Since moving to FBS in 2023, Sam Houston is 7-5 in November and 8-25 from August through October, per the school, and November accounted for every one of the program's wins in 2023 and 2025. The Kats are 1-8 and still looking for their first Conference USA win.\n\nThis series has a habit of going late. Sam Houston has won all three meetings, every one by seven points or fewer. There was a fourth-down stop at its own 15 with 1:24 left in the 2017 FCS quarterfinals, then Colby Sessums' 35-yard field goal at the horn in 2023 for the program's first FBS win, then a 23-17 overtime win in 2024. The defense has made the biggest jump in FBS against the throw, from 275.9 passing yards a game allowed last year to 161.4 now.\n\nKennesaw State comes in fresh off a 42-40 win over Delaware. Rickie Collins has 1,687 passing yards and Boogie Woods III has eight rushing touchdowns. Landyn Locke is 37 yards from moving up to 19th on Sam Houston's career passing list, and eight of his 13 touchdown passes this season have gone for 30 yards or more. Two interim coaches, one home crowd and a November habit: Huntsville gets to find out if that habit is real.\n\nMy call: Kennesaw State Owls 27, Sam Houston Bearkats 21.",
     "market": {
      "score_line": "",
-     "spread": "Kennesaw State Owls −8.5",
-     "total": "47.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "spread": "Kennesaw State Owls −7",
+     "total": "45.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "gambler_headline": "Kennesaw State at Sam Houston: Two Interim Coaches, One First Home Game in Huntsville",
     "fanatic_headline": "Kennesaw State at Sam Houston: Two Interim Coaches, One First Home Game in Huntsville"
    },
-   "gambler_story": "Market check, Kennesaw State at Sam Houston: DraftKings KENN -7, total 46.5.\n\nBowers Stadium hosts a first Saturday: Sam Houston's first home game under co-interim head coaches Eric Raisbeck and Freddie Aughtry-Lindsay, who took over Oct. 28. The school notes that the Kats will become one of only a handful of FBS programs since 2013 with three head coaches of record in one season, and per NCAA guidance both interims get credit for the same final four games.\n\nThe number as of Nov. 14, 2026, 4:18 AM ET: ESPN lists DraftKings at KENN -7, total 46.5. The Cover Window's published pick is Sam Houston +8.5 and Under 47.5. The market is now Kennesaw State -7 with a total of 46.5, so the Kats get a point and a half less than the card did, and the Under is a point above the current total. The card's projected final is Kennesaw State Owls 27, Sam Houston Bearkats 20 (Total 47). That pick was published against the Nov. 9, 2026, 9:18 AM ET line, it has not been changed, and this story issues no new one. Prices move, so check yours before kickoff. Full preview at thecoverwindow.com.\n\nInjuries: we found no posted Conference USA availability report in our check, and Sam Houston's Nov. 12 notes flag none.\n\nHuntsville has a reason to hope that has nothing to do with the record. Since moving to FBS in 2023, Sam Houston is 7-5 in November and 8-25 from August through October, per the school, and November accounted for every one of the program's wins in 2023 and 2025. The Kats are 1-8 and still looking for their first Conference USA win.\n\nThis series has a habit of going late. Sam Houston has won all three meetings, every one by seven points or fewer. There was a fourth-down stop at its own 15 with 1:24 left in the 2017 FCS quarterfinals, then Colby Sessums' 35-yard field goal at the horn in 2023 for the program's first FBS win, then a 23-17 overtime win in 2024. The defense has made the biggest jump in FBS against the throw, from 275.9 passing yards a game allowed last year to 161.4 now.\n\nKennesaw State comes in fresh off a 42-40 win over Delaware. Rickie Collins has 1,687 passing yards and Boogie Woods III has eight rushing touchdowns. Landyn Locke is 37 yards from moving up to 19th on Sam Houston's career passing list, and eight of his 13 touchdown passes this season have gone for 30 yards or more. Two interim coaches, one home crowd and a November habit: Huntsville gets to find out if that habit is real.\n\nThe published card stays Sam Houston Bearkats +8.5 and Under 47.5 at the numbers it was written against. My final is Kennesaw State Owls 27, Sam Houston Bearkats 20. Follow The Money's side and total are both pending.\n\nKennesaw State Owls 27, Sam Houston Bearkats 20. Sam Houston Bearkats cover the 8.5. Under 47.5.",
+   "gambler_story": "Market check, Kennesaw State at Sam Houston, Nov. 14, 2026, 9:56 AM ET: DraftKings Kennesaw State −7, total 45.5.\n\nBowers Stadium hosts a first Saturday: Sam Houston's first home game under co-interim head coaches Eric Raisbeck and Freddie Aughtry-Lindsay, who took over Oct. 28. The school notes that the Kats will become one of only a handful of FBS programs since 2013 with three head coaches of record in one season, and per NCAA guidance both interims get credit for the same final four games.\n\nThe number as of Nov. 14, 2026, 9:56 AM ET: ESPN lists DraftKings at Kennesaw State −7, total 45.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Sam Houston +8.5 with a 47.5 total. Full preview at thecoverwindow.com.\n\nInjuries: we found no posted Conference USA availability report in our check, and Sam Houston's Nov. 12 notes flag none.\n\nHuntsville has a reason to hope that has nothing to do with the record. Since moving to FBS in 2023, Sam Houston is 7-5 in November and 8-25 from August through October, per the school, and November accounted for every one of the program's wins in 2023 and 2025. The Kats are 1-8 and still looking for their first Conference USA win.\n\nThis series has a habit of going late. Sam Houston has won all three meetings, every one by seven points or fewer. There was a fourth-down stop at its own 15 with 1:24 left in the 2017 FCS quarterfinals, then Colby Sessums' 35-yard field goal at the horn in 2023 for the program's first FBS win, then a 23-17 overtime win in 2024. The defense has made the biggest jump in FBS against the throw, from 275.9 passing yards a game allowed last year to 161.4 now.\n\nKennesaw State comes in fresh off a 42-40 win over Delaware. Rickie Collins has 1,687 passing yards and Boogie Woods III has eight rushing touchdowns. Landyn Locke is 37 yards from moving up to 19th on Sam Houston's career passing list, and eight of his 13 touchdown passes this season have gone for 30 yards or more. Two interim coaches, one home crowd and a November habit: Huntsville gets to find out if that habit is real.\n\nThe desks at today's number. Follow The Money has no side pick and likes the Under 45.5. The Formula: Kennesaw State 27, Sam Houston 22. That makes it Sam Houston +7 and Over 45.5. Next Man Up: Kennesaw State 24, Sam Houston 20. That makes it Sam Houston +7 and Under 45.5. Letdown Watch: Kennesaw State 28, Sam Houston 20. That makes it Kennesaw State −7 and Over 45.5. In The Trenches has no pick: its run-game reads favour different teams.\n\nThe Cover Writer's card at today's number: Sam Houston Bearkats +7 and Over 45.5. My final is Kennesaw State Owls 27, Sam Houston Bearkats 21. Monday's 27-20 landed right on today's 7, so I moved Sam Houston up a point. That puts the total at 48, over today's 45.5, so the total flips from the Under to the Over. When the number moves to your score, you move the score. Your principles can stay where they are.\n\nKennesaw State Owls 27, Sam Houston Bearkats 21. Sam Houston Bearkats cover the 7. Over 45.5.",
    "videos": [
     {
      "youtube_id": "9pHC00VG214",
