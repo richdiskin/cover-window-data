@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-14T18:11:54Z",
+ "updated_utc": "2026-11-14T20:41:26Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -2617,7 +2617,24 @@
    "kickoff_utc": "2026-11-14T17:00Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 9:22",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "hOtiZn0N6SQ",
+    "title": "Cincinnati vs. Iowa State Highlights | 2026 Monster Energy Big 12 Football",
+    "channel": "Big 12 Conference",
+    "channel_id": "UCLnfOCTbfqMy_3ah8OmTHEQ",
+    "url": "https://www.youtube.com/watch?v=hOtiZn0N6SQ",
+    "embed_url": "https://www.youtube-nocookie.com/embed/hOtiZn0N6SQ",
+    "thumb": "https://i.ytimg.com/vi/hOtiZn0N6SQ/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-14T20:20:55Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-14T20:41:09Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858296": {
    "game_id": "401858296",
