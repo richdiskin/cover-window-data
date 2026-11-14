@@ -4,9 +4,183 @@
   "theme": "mmqb",
   "theme_label": "Monday recaps coming this morning",
   "published_at": "2026-11-11T05:37:32Z",
-  "count": 16,
+  "count": 20,
   "lead_id": null,
   "articles": [
+    {
+      "id": "fanatic_team-pittsburgh",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "pittsburgh",
+      "team_ids": [
+        "pittsburgh"
+      ],
+      "tab_id": "acc",
+      "game_id": "401858293",
+      "title": "Pittsburgh vs Florida State: Panthers Defense Battles, Falls 16-10 at Home",
+      "byline": "Dominic 'Yinz' Bertolucci, The Pittsburgh Fanatic",
+      "matchup": "Final: Florida State Seminoles (5-5) 16, Pittsburgh Panthers (6-4) 10, Fri., Nov. 13, Acrisure Stadium, Pittsburgh. Next: at Louisville, Sat., Nov. 21, time TBA, L&N Federal Credit Union Stadium, Louisville",
+      "date": "2026-11-13",
+      "word_count": 364,
+      "text": "Yinz, I'm not gonna sugarcoat it. Florida State 16, Pittsburgh 10 on Friday night at Acrisure Stadium, and the Panthers are 6-4. There were 45,734 of us bundled up on the North Shore, and we deserved a happier walk home across the river.\n\nThe defense showed up, I'll give 'em that. Florida State managed 260 yards, ran for just 97 on 33 carries and converted 3 of 13 third downs. Cruce Brookins was everywhere with 10 tackles. Braylan Lovelace forced a fumble and had a tackle and a half for loss. Early in the fourth, Alex Sanford Jr. knocked the ball loose from Ashton Daniels and Shawn Lee Jr. fell on it at our 6 to keep it a 13-10 game.\n\nOur lone touchdown was a beauty. Corey Dailey moved us 85 yards in 10 plays late in the second quarter, hit Malik Knight for 28 deep down the left side and found Ja'Kyrian Turner for an 11-yard score to put us up 7-6 at the half. Turner finished with seven catches.\n\nThen came the play that stung. On our second snap of the third quarter, a throw was intercepted at our 39, and five plays later Florida State was in the end zone. Antonio Chadha's 34-yard field goal pulled us to 13-10, but their kicker answered from 47 with 6:27 left.\n\nWe had our chances. Three times we went for it on fourth down and came up short, including a sack near midfield with 8:44 left. After a 64-yard punt pinned us at our own 2 with 1:49 to go, Dailey took off for 24 yards on the first snap and got us to their 48, but the last fourth-down throw fell incomplete with 43 seconds left. Dailey ran for 58 yards on nine carries and battled every snap.\n\nPittsburgh doesn't do quit. We're still 6-4, still 5-2 at home, and cold November football is our kind of weather. Three rivers, one city, and a whole lot of fight left in this bunch.\n\nNext: at Louisville, Saturday, Nov. 21, kickoff time to be announced. Wear the blue and gold, make some noise on the road, and let's bring one home. Hail to Pitt.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Yinz, I'm not gonna sugarcoat it. Florida State 16, Pittsburgh 10 on Friday night at Acrisure Stadium, and the Panthers are 6-4. There were 45,734 of us bundled up on the North Shore, and we deserved a happier walk home across the river."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense showed up, I'll give 'em that. Florida State managed 260 yards, ran for just 97 on 33 carries and converted 3 of 13 third downs. Cruce Brookins was everywhere with 10 tackles. Braylan Lovelace forced a fumble and had a tackle and a half for loss. Early in the fourth, Alex Sanford Jr. knocked the ball loose from Ashton Daniels and Shawn Lee Jr. fell on it at our 6 to keep it a 13-10 game."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our lone touchdown was a beauty. Corey Dailey moved us 85 yards in 10 plays late in the second quarter, hit Malik Knight for 28 deep down the left side and found Ja'Kyrian Turner for an 11-yard score to put us up 7-6 at the half. Turner finished with seven catches."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the play that stung. On our second snap of the third quarter, a throw was intercepted at our 39, and five plays later Florida State was in the end zone. Antonio Chadha's 34-yard field goal pulled us to 13-10, but their kicker answered from 47 with 6:27 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "We had our chances. Three times we went for it on fourth down and came up short, including a sack near midfield with 8:44 left. After a 64-yard punt pinned us at our own 2 with 1:49 to go, Dailey took off for 24 yards on the first snap and got us to their 48, but the last fourth-down throw fell incomplete with 43 seconds left. Dailey ran for 58 yards on nine carries and battled every snap."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pittsburgh doesn't do quit. We're still 6-4, still 5-2 at home, and cold November football is our kind of weather. Three rivers, one city, and a whole lot of fight left in this bunch."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next: at Louisville, Saturday, Nov. 21, kickoff time to be announced. Wear the blue and gold, make some noise on the road, and let's bring one home. Hail to Pitt."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Pittsburgh lost 16-10 to Florida State on Friday, Nov. 13, at Acrisure Stadium. The Panthers are 6-4."
+        },
+        {
+          "type": "fact",
+          "text": "Corey Dailey threw an 11-yard touchdown to Ja'Kyrian Turner for a 7-6 halftime lead, and Cruce Brookins made 10 tackles as the defense held Florida State to 260 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Florida State scored one touchdown all night and needed three field goals to sneak out of town. We'll take that as respect."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Louisville, Saturday, Nov. 21, time TBA, L&N Federal Credit Union Stadium, Louisville."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Florida State 16, Pittsburgh 10 (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858293"
+        },
+        {
+          "label": "ESPN play-by-play, Florida State at Pittsburgh (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858293"
+        },
+        {
+          "label": "ESPN game page, Florida State at Pittsburgh (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858293"
+        },
+        {
+          "label": "ESPN Pittsburgh Panthers 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/221"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-florida-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "florida-state",
+      "team_ids": [
+        "florida-state"
+      ],
+      "tab_id": "acc",
+      "game_id": "401858293",
+      "title": "Florida State vs Pittsburgh: Panikowski and a Stingy Defense Win 16-10",
+      "byline": "Gianna Ravello, The Florida State Fanatic",
+      "matchup": "Final: Florida State Seminoles (5-5) 16, Pittsburgh Panthers (6-4) 10, Fri., Nov. 13, Acrisure Stadium, Pittsburgh. Next: vs NC State, Sat., Nov. 21, 3:30 PM ET, Doak Campbell Stadium, Tallahassee",
+      "date": "2026-11-13",
+      "word_count": 367,
+      "text": "Garnet and gold just froze out Pittsburgh. Florida State 16, Pittsburgh 10 on Friday night at Acrisure Stadium, and the Seminoles are 5-5. I packed my one Tallahassee sweater for a November night on the North Shore, and I would wear it every week for wins like this.\n\nGabe Panikowski was the coolest man in western Pennsylvania. He hit from 37 and 27 yards in the first half, then drilled a 47-yarder with 6:27 left to make it 16-10. Three tries, three makes. Somebody put that young man's right leg in a museum.\n\nThe turning point came on Pittsburgh's second snap of the third quarter. We trailed 7-6 at the half, and Rylan Kennedy jumped a throw at the Pitt 39 and brought it back to the 32. Amari Thomas ripped off 16 yards on the very next play, and five snaps after the takeaway, Thomas punched it in from a yard out. 13-7, Noles, and I was hollering in a sea of Pitt gold.\n\nAshton Daniels kept the offense steady, going 16 of 24 for 163 yards with no interceptions. Jasen Lopez caught five balls for 72 yards, including a 46-yard grab down the left side that set up our second field goal.\n\nBut this one belongs to the defense. Pittsburgh converted 5 of 15 third downs and came up empty on three different fourth downs. Caleb LaVallee sacked Corey Dailey on fourth down near midfield with 8:44 left. Then Daniel Hughes boomed a 64-yard punt that pinned Pitt at its own 2 with 1:49 to go, and Charles Lester III broke up a deep ball on that last drive before the final fourth-down throw fell incomplete with 43 seconds left. Chris Jones led us with seven tackles, and CJ Richard Jr. and Ashlynd Barker had six apiece.\n\nIt wasn't pretty everywhere. We ran for 97 yards on 33 carries and lost a fumble at their 12 early in the fourth. A road win in Pittsburgh in November is a road win, though, and I will take gritty and happy every single time.\n\nNext: NC State comes to Doak Campbell Stadium on Saturday, Nov. 21, at 3:30 PM ET. Sweater off, sunscreen on. Tallahassee, get loud.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Garnet and gold just froze out Pittsburgh. Florida State 16, Pittsburgh 10 on Friday night at Acrisure Stadium, and the Seminoles are 5-5. I packed my one Tallahassee sweater for a November night on the North Shore, and I would wear it every week for wins like this."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gabe Panikowski was the coolest man in western Pennsylvania. He hit from 37 and 27 yards in the first half, then drilled a 47-yarder with 6:27 left to make it 16-10. Three tries, three makes. Somebody put that young man's right leg in a museum."
+        },
+        {
+          "type": "paragraph",
+          "text": "The turning point came on Pittsburgh's second snap of the third quarter. We trailed 7-6 at the half, and Rylan Kennedy jumped a throw at the Pitt 39 and brought it back to the 32. Amari Thomas ripped off 16 yards on the very next play, and five snaps after the takeaway, Thomas punched it in from a yard out. 13-7, Noles, and I was hollering in a sea of Pitt gold."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ashton Daniels kept the offense steady, going 16 of 24 for 163 yards with no interceptions. Jasen Lopez caught five balls for 72 yards, including a 46-yard grab down the left side that set up our second field goal."
+        },
+        {
+          "type": "paragraph",
+          "text": "But this one belongs to the defense. Pittsburgh converted 5 of 15 third downs and came up empty on three different fourth downs. Caleb LaVallee sacked Corey Dailey on fourth down near midfield with 8:44 left. Then Daniel Hughes boomed a 64-yard punt that pinned Pitt at its own 2 with 1:49 to go, and Charles Lester III broke up a deep ball on that last drive before the final fourth-down throw fell incomplete with 43 seconds left. Chris Jones led us with seven tackles, and CJ Richard Jr. and Ashlynd Barker had six apiece."
+        },
+        {
+          "type": "paragraph",
+          "text": "It wasn't pretty everywhere. We ran for 97 yards on 33 carries and lost a fumble at their 12 early in the fourth. A road win in Pittsburgh in November is a road win, though, and I will take gritty and happy every single time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next: NC State comes to Doak Campbell Stadium on Saturday, Nov. 21, at 3:30 PM ET. Sweater off, sunscreen on. Tallahassee, get loud."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Florida State beat Pittsburgh 16-10 on Friday, Nov. 13, at Acrisure Stadium. The Seminoles are 5-5."
+        },
+        {
+          "type": "fact",
+          "text": "Gabe Panikowski made field goals from 37, 27 and 47 yards, and Rylan Kennedy's third-quarter interception set up Amari Thomas's 1-yard touchdown run."
+        },
+        {
+          "type": "jab",
+          "text": "Pittsburgh went for it on fourth down three times and came away empty all three. The North Shore gets quiet fast."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs NC State, Saturday, Nov. 21, 3:30 PM ET, Doak Campbell Stadium, Tallahassee."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Florida State 16, Pittsburgh 10 (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858293"
+        },
+        {
+          "label": "ESPN play-by-play, Florida State at Pittsburgh (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858293"
+        },
+        {
+          "label": "ESPN game page, Florida State at Pittsburgh (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858293"
+        },
+        {
+          "label": "ESPN Florida State Seminoles 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/52"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
     {
       "id": "fanatic_team-nyg",
       "kind": "fanatic_team",
@@ -348,6 +522,180 @@
         {
           "label": "ESPN Memphis Tigers 2026 schedule",
           "url": "https://www.espn.com/college-football/team/schedule/_/id/235"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ul-monroe",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "ul-monroe",
+      "team_ids": [
+        "ul-monroe"
+      ],
+      "tab_id": "sunbelt",
+      "game_id": "401869969",
+      "title": "UL Monroe vs Louisiana: Warhawks Strike First, Fall 42-21 at Malone",
+      "byline": "Darnell Vidrine, The UL Monroe Fanatic",
+      "matchup": "Final: Louisiana Ragin' Cajuns (7-3) 42, UL Monroe Warhawks (2-8) 21, Thu., Nov. 12, Malone Stadium, Monroe. Next: at App State, Sat., Nov. 21, 2:30 PM ET, Boone, N.C.",
+      "date": "2026-11-12",
+      "word_count": 348,
+      "text": "Malone Stadium was rocking early, and for one half the Warhawks had the Cajuns in a real fight. Louisiana 42, UL Monroe 21 on Thursday night in Monroe, and we're 2-8, but don't let that final fool you about how hard these guys played.\n\nOur opening drive was a work of art: 15 plays, 73 yards, 8:18 off the clock, and Austin Carlisle pushing in from a yard out. After Louisiana tied it, 24-yard runs from Carlisle and Bryson Roland set up a 5-yard scoring throw from Carlisle to Jaiden Tucker, and we led 14-7 early in the second quarter.\n\nThat was Warhawks football the way folks along the Ouachita River like it. Carlisle carried 21 times for 102 yards, Roland went for 111 on 17 carries, and we held the ball for 35:27. We moved the chains on 9 of 17 third downs and outgained Louisiana 372 yards to 339.\n\nThe trouble was the football itself. Our late first-half drive ended with an interception at their 13 with five seconds left. Then a fumble early in the third went back 18 yards for a Louisiana score, and another fumble at our own 19 turned into a touchdown on the very next snap. Three turnovers, 14 points off them, and a 14-14 game became 28-14.\n\nFrom there JJ Garner and Steven Blanco did what fast backs do, and Louisiana ran for 274 yards. I won't pretend that part was fun to watch from my seat.\n\nBut these Warhawks never quit. Down 35-14, with Aidan Armenta at quarterback, we marched 75 yards in 15 plays. Facing fourth-and-10 near midfield, Armenta found Bryce Anderson for 27 yards, and Don Chaney finished it from 6 yards out to make it 35-21. Jabari Tiller made nine tackles and Chris Payne made seven, and nobody in maroon and gold stopped hitting.\n\nNext: at App State, Saturday, Nov. 21, at 2:30 PM ET in Boone. It's a long trip to the mountains, so pack a coat and bring that opening-drive energy for all four quarters. Warhawk fans, I'll see you there, loud as ever.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Malone Stadium was rocking early, and for one half the Warhawks had the Cajuns in a real fight. Louisiana 42, UL Monroe 21 on Thursday night in Monroe, and we're 2-8, but don't let that final fool you about how hard these guys played."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our opening drive was a work of art: 15 plays, 73 yards, 8:18 off the clock, and Austin Carlisle pushing in from a yard out. After Louisiana tied it, 24-yard runs from Carlisle and Bryson Roland set up a 5-yard scoring throw from Carlisle to Jaiden Tucker, and we led 14-7 early in the second quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "That was Warhawks football the way folks along the Ouachita River like it. Carlisle carried 21 times for 102 yards, Roland went for 111 on 17 carries, and we held the ball for 35:27. We moved the chains on 9 of 17 third downs and outgained Louisiana 372 yards to 339."
+        },
+        {
+          "type": "paragraph",
+          "text": "The trouble was the football itself. Our late first-half drive ended with an interception at their 13 with five seconds left. Then a fumble early in the third went back 18 yards for a Louisiana score, and another fumble at our own 19 turned into a touchdown on the very next snap. Three turnovers, 14 points off them, and a 14-14 game became 28-14."
+        },
+        {
+          "type": "paragraph",
+          "text": "From there JJ Garner and Steven Blanco did what fast backs do, and Louisiana ran for 274 yards. I won't pretend that part was fun to watch from my seat."
+        },
+        {
+          "type": "paragraph",
+          "text": "But these Warhawks never quit. Down 35-14, with Aidan Armenta at quarterback, we marched 75 yards in 15 plays. Facing fourth-and-10 near midfield, Armenta found Bryce Anderson for 27 yards, and Don Chaney finished it from 6 yards out to make it 35-21. Jabari Tiller made nine tackles and Chris Payne made seven, and nobody in maroon and gold stopped hitting."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next: at App State, Saturday, Nov. 21, at 2:30 PM ET in Boone. It's a long trip to the mountains, so pack a coat and bring that opening-drive energy for all four quarters. Warhawk fans, I'll see you there, loud as ever."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "UL Monroe fell 42-21 to Louisiana on Thursday, Nov. 12, at Malone Stadium in Monroe. The Warhawks are 2-8."
+        },
+        {
+          "type": "fact",
+          "text": "Austin Carlisle ran for 102 yards and a score and threw a touchdown to Jaiden Tucker, and Bryson Roland ran for 111 yards as ULM held the ball for 35:27."
+        },
+        {
+          "type": "jab",
+          "text": "Louisiana needed two of our fumbles to break a 14-14 tie. We'll be carrying the ball with both arms in Boone."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at App State, Saturday, Nov. 21, 2:30 PM ET, Boone, N.C."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Louisiana 42, UL Monroe 21 (Nov. 12, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401869969"
+        },
+        {
+          "label": "ESPN play-by-play, Louisiana at UL Monroe (Nov. 12, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401869969"
+        },
+        {
+          "label": "ESPN game page, Louisiana at UL Monroe (Nov. 12, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401869969"
+        },
+        {
+          "label": "ESPN UL Monroe Warhawks 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2433"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-louisiana",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "louisiana",
+      "team_ids": [
+        "louisiana"
+      ],
+      "tab_id": "sunbelt",
+      "game_id": "401869969",
+      "title": "Louisiana vs UL Monroe: JJ Garner and Steven Blanco Run the Cajuns to 7-3",
+      "byline": "Amélie 'Mimi' Fontenot, The Louisiana Fanatic",
+      "matchup": "Final: Louisiana Ragin' Cajuns (7-3) 42, UL Monroe Warhawks (2-8) 21, Thu., Nov. 12, Malone Stadium, Monroe. Next: vs Coastal Carolina, Sat., Nov. 21, 3:00 PM ET, Our Lady of Lourdes Stadium, Lafayette",
+      "date": "2026-11-12",
+      "word_count": 407,
+      "text": "Somebody tell Lafayette to warm up the boudin, because the Ragin' Cajuns are coming home happy. Louisiana 42, UL Monroe 21 on Thursday night at Malone Stadium in Monroe, and we are 7-3. I drove up from Acadiana with a full voice, and I'm driving home with none.\n\nFor one half, those Warhawks made me sweat. They opened with a 15-play march that ate 8:18 off the clock, and Austin Carlisle pushed in from a yard out. Lunch Winfield answered with a 13-yard strike to Shelton Sampson Jr., ULM went back ahead 14-7, and then KeDarius Wade slipped in from 8 yards with 40 seconds left in the half to tie it. Kody Jackson intercepted a throw at our 13 five seconds before the break, and I hugged a complete stranger.\n\nThen our defense took charge of the whole parish. Early in the third, Micah Johnson scooped up a Warhawks fumble and rumbled 18 yards to the end zone for a 21-14 lead. A few series later, Maurion Eleam punched the ball loose, Johnson fell on it at the ULM 19, and JJ Garner went 19 yards on the very next snap. 28-14, and the Cajun side of the stadium was dancing.\n\nGarner was the lightning all night. Nine carries, 104 yards, two scores, including an 18-yarder early in the fourth that made it 35-14. Steven Blanco was the thunder, with 113 yards on 15 carries. After ULM answered to make it 35-21, Blanco carried on all six snaps of a 50-yard drive, had a score wiped out by a flag, shrugged, and walked in from 2 yards anyway with 1:57 left.\n\nWe ran for 274 yards on 33 carries and gave the ball away zero times. One Warhawks fumble went the other way for six, and another turned into six more on the next snap. Jake St. Andre made 14 tackles, Collin Jacob made nine, and Johnson had nine to go with that touchdown.\n\nCredit to Monroe, though. Those Warhawks ran it right at us, held the ball for 35:27 and kept swinging into the fourth quarter. Bryson Roland and Carlisle both cleared 100 yards on the ground. But the bragging rights ride back down to Acadiana with us tonight.\n\nNext up, Coastal Carolina visits Our Lady of Lourdes Stadium in Lafayette on Saturday, Nov. 21, at 3:00 PM ET. Come hungry, come loud, and wear that vermilion. Seven wins, and the gumbo is still simmering.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Somebody tell Lafayette to warm up the boudin, because the Ragin' Cajuns are coming home happy. Louisiana 42, UL Monroe 21 on Thursday night at Malone Stadium in Monroe, and we are 7-3. I drove up from Acadiana with a full voice, and I'm driving home with none."
+        },
+        {
+          "type": "paragraph",
+          "text": "For one half, those Warhawks made me sweat. They opened with a 15-play march that ate 8:18 off the clock, and Austin Carlisle pushed in from a yard out. Lunch Winfield answered with a 13-yard strike to Shelton Sampson Jr., ULM went back ahead 14-7, and then KeDarius Wade slipped in from 8 yards with 40 seconds left in the half to tie it. Kody Jackson intercepted a throw at our 13 five seconds before the break, and I hugged a complete stranger."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then our defense took charge of the whole parish. Early in the third, Micah Johnson scooped up a Warhawks fumble and rumbled 18 yards to the end zone for a 21-14 lead. A few series later, Maurion Eleam punched the ball loose, Johnson fell on it at the ULM 19, and JJ Garner went 19 yards on the very next snap. 28-14, and the Cajun side of the stadium was dancing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Garner was the lightning all night. Nine carries, 104 yards, two scores, including an 18-yarder early in the fourth that made it 35-14. Steven Blanco was the thunder, with 113 yards on 15 carries. After ULM answered to make it 35-21, Blanco carried on all six snaps of a 50-yard drive, had a score wiped out by a flag, shrugged, and walked in from 2 yards anyway with 1:57 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "We ran for 274 yards on 33 carries and gave the ball away zero times. One Warhawks fumble went the other way for six, and another turned into six more on the next snap. Jake St. Andre made 14 tackles, Collin Jacob made nine, and Johnson had nine to go with that touchdown."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit to Monroe, though. Those Warhawks ran it right at us, held the ball for 35:27 and kept swinging into the fourth quarter. Bryson Roland and Carlisle both cleared 100 yards on the ground. But the bragging rights ride back down to Acadiana with us tonight."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up, Coastal Carolina visits Our Lady of Lourdes Stadium in Lafayette on Saturday, Nov. 21, at 3:00 PM ET. Come hungry, come loud, and wear that vermilion. Seven wins, and the gumbo is still simmering."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Louisiana beat UL Monroe 42-21 on Thursday, Nov. 12, at Malone Stadium in Monroe. The Ragin' Cajuns are 7-3."
+        },
+        {
+          "type": "fact",
+          "text": "JJ Garner ran for 104 yards and two scores on nine carries, Steven Blanco added 113 yards, and Micah Johnson returned a fumble 18 yards for a touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "ULM kept the ball for 35:27. We only needed 24:33 to score 42."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Coastal Carolina, Saturday, Nov. 21, 3:00 PM ET, Our Lady of Lourdes Stadium, Lafayette."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Louisiana 42, UL Monroe 21 (Nov. 12, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401869969"
+        },
+        {
+          "label": "ESPN play-by-play, Louisiana at UL Monroe (Nov. 12, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401869969"
+        },
+        {
+          "label": "ESPN game page, Louisiana at UL Monroe (Nov. 12, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401869969"
+        },
+        {
+          "label": "ESPN Louisiana Ragin' Cajuns 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/309"
         }
       ],
       "sources_display": "button",
