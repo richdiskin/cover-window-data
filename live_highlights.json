@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-14T21:43:45Z",
+ "updated_utc": "2026-11-14T22:46:45Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -2891,7 +2891,24 @@
    "kickoff_utc": "2026-11-14T19:00Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "meUbFprIfw8",
+    "title": "Kansas State Wildcats vs. TCU Horned Frogs | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=meUbFprIfw8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/meUbFprIfw8",
+    "thumb": "https://i.ytimg.com/vi/meUbFprIfw8/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-14T22:18:45Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-14T22:46:35Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401870769": {
    "game_id": "401870769",
