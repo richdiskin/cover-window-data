@@ -557,13 +557,13 @@
        "team": "Kansas City Chiefs",
        "label": "Share as a Chiefs fan",
        "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/kansas-city-chiefs-at-atlanta-falcons__gambler__kansas-city-chiefs.png",
-       "caption": "Our final: Chiefs 24, Falcons 21. William Andrews and Todd McClure are not walking through that door; Andrews made four Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/kansas-city-chiefs-at-atlanta-falcons"
+       "caption": "Our final: Chiefs 24, Falcons 20. William Andrews and Todd McClure are not walking through that door; Andrews made four Pro Bowls: https://www.thecoverwindow.com/nfl/gambler/kansas-city-chiefs-at-atlanta-falcons"
       },
       {
        "team": "Atlanta Falcons",
        "label": "Share as a Falcons fan",
        "image_url": "https://raw.githubusercontent.com/richdiskin/tcw-share/main/x/v5/kansas-city-chiefs-at-atlanta-falcons__gambler__atlanta-falcons.png",
-       "caption": "Our final: Chiefs 24, Falcons 21. Deron Cherry and Dante Hall are not walking through that door; Cherry won the 1988 Whizzer White Award: https://www.thecoverwindow.com/nfl/gambler/kansas-city-chiefs-at-atlanta-falcons"
+       "caption": "Our final: Chiefs 24, Falcons 20. Deron Cherry and Dante Hall are not walking through that door; Cherry won the 1988 Whizzer White Award: https://www.thecoverwindow.com/nfl/gambler/kansas-city-chiefs-at-atlanta-falcons"
       }
      ]
     }
@@ -606,11 +606,11 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-10T15:17:37Z",
+    "fetched_at_utc": "2026-11-15T11:14:41Z",
     "action_network_game_id": 290977,
     "home_line": 3.5,
-    "total": 45.5,
-    "open_home_line": 4.5,
+    "total": 47.5,
+    "open_home_line": 3.5,
     "open_total": 45.5,
     "spread_display": "Atlanta Falcons +3.5",
     "open_timestamp": ""
@@ -622,24 +622,24 @@
     "home": null
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261115",
-   "spread": "Atlanta Falcons +3.5",
-   "story_text": "Chiefs 24, Falcons 21. Falcons cover the 3.5. Under 45.5. Our handicappers land on the Falcons +3.5.",
+   "spread": "Kansas City Chiefs −3",
+   "story_text": "Chiefs 24, Falcons 20. Chiefs cover the 3. Under 47.5. The Formula, Next Man Up, Letdown Watch, and In The Trenches also land on the Chiefs −3.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "line_used": {
-    "home_line": 3.5,
-    "total": 45.5,
-    "source": "Consensus line as of Nov 10, 10:17 AM ET",
-    "as_of_utc": "2026-11-10T15:17:37Z"
+    "home_line": 3.0,
+    "total": 47.5,
+    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
+    "as_of_utc": "2026-11-15T11:14:40Z"
    },
-   "total_line": 45.5,
+   "total_line": 47.5,
    "prediction": {
     "away_score": 24,
-    "home_score": 21,
+    "home_score": 20,
     "winner": "Kansas City Chiefs",
-    "covers": "Atlanta Falcons +3.5"
+    "covers": "Kansas City Chiefs −3"
    },
    "handicappers": [
     {
@@ -662,7 +662,7 @@
     },
     {
      "id": "H4",
-     "public_case": "No consensus spread posted since Nov 10, 12:15 AM ET, so no line move is measured. No consensus total posted since then, so no total move is measured. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Consensus spread opened Atlanta Falcons +3.5 (Nov 10, 3:39 PM ET) and is +3.5 now. Follow The Money has no side pick. Consensus total opened 45.5 (Nov 11, 1:05 PM ET) and is 47.5 now, a 2-point move: Over. The total pick quotes the consensus total now (47.5). Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -679,7 +679,7 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 10, 10:17 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 10, 10:17 AM ET.",
+    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 15, 6:14 AM ET; Follow The Money uses the Action Network consensus line history.",
     "The Formula ratings: nflverse play-by-play as of Nov 10, 10:17 AM ET, Weeks 1–9 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–9 finals.",
     "Injuries: NFL.com official Week 10 injury report, fetched Nov 11, 3:59 PM ET (not yet posted for this game); Next Man Up uses each team’s last starter.",
@@ -694,84 +694,84 @@
    "writer_total": {
     "label": "",
     "source": "Cover Writer",
-    "projected_total": 45,
-    "market_total": 45.5,
+    "projected_total": 44,
+    "market_total": 47.5,
     "pick": "Under",
-    "text": "Under 45.5"
+    "text": "Under 47.5"
    },
    "display": {
     "writer": {
-     "score_line": "Projected: Atlanta Falcons 21, Kansas City Chiefs 24 (Total 45)",
-     "side": "Atlanta Falcons +3.5",
-     "ou": "Under 45.5",
+     "score_line": "Projected: Atlanta Falcons 20, Kansas City Chiefs 24 (Total 44)",
+     "side": "Kansas City Chiefs −3",
+     "ou": "Under 47.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Kansas City Chiefs −3.5",
-      "ou_line": "O/U: Under 45.5",
+      "side_line": "Side: Kansas City Chiefs −3",
+      "ou_line": "O/U: Under 47.5 · Likes this total",
       "score_line": "Projected: Atlanta Falcons 20, Kansas City Chiefs 24 (Total 44)",
       "basis_line": "Net ratings Atlanta Falcons −2.9, Kansas City Chiefs 2.8 (nflverse play-by-play, Nov 10, 2026)",
       "independent": true,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 1.5
+      "distance_from_spread": 1.0,
+      "distance_from_total": 3.5
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Atlanta Falcons +3.5",
-      "ou_line": "O/U: Under 45.5",
-      "score_line": "Projected: Atlanta Falcons 20, Kansas City Chiefs 23 (Total 43)",
+      "side_line": "Side: Kansas City Chiefs −3",
+      "ou_line": "O/U: Under 47.5 · Likes this total",
+      "score_line": "Projected: Atlanta Falcons 20, Kansas City Chiefs 24 (Total 44)",
       "basis_line": "Projected points: Atlanta Falcons 20.1, Kansas City Chiefs 23.5. Availability: expected starting quarterbacks Michael Penix Jr. (ATL) and Patrick Mahomes (KC). NFL.com official Week 10 injury report (fetched Nov 11, 3:59 PM ET): not yet posted for this game, so it lists no quarterback.",
       "independent": true,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 2.5
+      "distance_from_spread": 1.0,
+      "distance_from_total": 4.5
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Atlanta Falcons +3.5",
-      "ou_line": "O/U: Under 45.5",
-      "score_line": "Projected: Atlanta Falcons 20, Kansas City Chiefs 23 (Total 43)",
+      "side_line": "Side: Kansas City Chiefs −3",
+      "ou_line": "O/U: Under 47.5 · Likes this total",
+      "score_line": "Projected: Atlanta Falcons 20, Kansas City Chiefs 24 (Total 44)",
       "basis_line": "Rest and travel: Kansas City Chiefs: 7 days since its last game, travels 669 miles; Atlanta Falcons: 7 days since its last game, plays at home. Projected: Chiefs by 3.1, total 43.2.",
       "independent": true,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 2.5
+      "distance_from_spread": 1.0,
+      "distance_from_total": 4.5
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (no line move measured)",
-      "ou_line": "O/U: no pick (no total move measured)",
+      "side_line": "Side: no pick (not enough line movement)",
+      "ou_line": "O/U: Over 47.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "No consensus spread posted since Nov 10, 12:15 AM ET, so no line move is measured. No consensus total posted since then, so no total move is measured. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Atlanta Falcons +3.5 (Nov 10, 3:39 PM ET) and is +3.5 now. Follow The Money has no side pick. Consensus total opened 45.5 (Nov 11, 1:05 PM ET) and is 47.5 now, a 2-point move: Over. The total pick quotes the consensus total now (47.5). Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 0.5
+      "distance_from_spread": 0.0,
+      "distance_from_total": 2.0
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Kansas City Chiefs −3.5",
-      "ou_line": "O/U: Over 45.5",
+      "side_line": "Side: Kansas City Chiefs −3",
+      "ou_line": "O/U: Under 47.5",
       "score_line": "Projected: Atlanta Falcons 21, Kansas City Chiefs 25 (Total 46)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 9). Projected points: Atlanta Falcons 21, Kansas City Chiefs 24.8.",
       "independent": true,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 0.5
+      "distance_from_spread": 1.0,
+      "distance_from_total": 1.5
      }
     ],
     "best_bets": [],
-    "story_text": "My Chiefs vs Falcons prediction starts on Ponce de Leon Avenue, where a church festival that got rained out of October came back this weekend instead of quitting. Atlanta +3.5 is the spread pick that follows from it, Under 45.5 handles the over/under, and the final reads Chiefs 24, Falcons 21.\n\nThe St. Elias Mid-East Festival is a nearly fifty-year Atlanta tradition, and when weather wiped out its fall dates, it didn't cancel; it rescheduled. The Falcons need the same stubbornness. They're 3-6, 1-4 at home, and they traded safety Jessie Bates to Jacksonville on Monday. They also have the league's leading rusher, and that's where the cover lives.\n\nThe Formula: Net ratings Atlanta Falcons −2.9, Kansas City Chiefs 2.8 (nflverse play-by-play, Nov 10, 2026).\n\nKansas City is 6-2 with 202 points scored and only 143 allowed, but it's 2-2 on the road, including losses in Seattle and Denver. The Chiefs blew out the Jets at home last week, and that's where Patrick Mahomes hurt his elbow on a strip sack. He stayed in the game, the MRI showed no major injury, and the team is monitoring pain and swelling this week. I'm pricing him as the starter. I'm also not assuming that elbow is a non-factor by the fourth quarter.\n\nBijan Robinson leads the league with eight hundred eighty rushing yards and went for exactly a hundred on nineteen carries against Cincinnati last week. The Falcons gain 4.9 yards a carry as a team. Kansas City allows only 3.7, so this isn't a matchup Robinson wins easily, but it's one that eats clock. Michael Penix Jr. handing off thirty times would shorten the game, and short games are how a 3.5-point home underdog stays inside the number.\n\nThe Under is built on the same clock. Kansas City runs for 5.3 against a Falcons defense that allows 4.7, which points to two teams running into each other for sixty minutes. The Chiefs' defense has allowed 143 points in eight games. Chiefs 24, Falcons 21 lands on 45, a half-point under 45.5.\n\nThe room is split down the middle on the side. Next Man Up and Letdown Watch both have Chiefs 23, Falcons 20 and take Atlanta with the points. The Formula, at Chiefs 24, Falcons 20, and In The Trenches, at Chiefs 25, Falcons 21, both lay the 3.5. On the total, The Formula, Next Man Up and Letdown Watch are Under, and In The Trenches is the lone Over. Follow The Money has no pick.\n\nChet Morrell is rereading the Mahomes elbow updates for the fourth time. Russ Amundsen is just waiting for the second plate of food. Kansas City wins the game; Atlanta keeps it inside a field goal.\n\nChiefs 24, Falcons 21. Falcons cover the 3.5. Under 45.5.",
-    "fanatic_score_line": "Projected: Atlanta Falcons 21, Kansas City Chiefs 24",
+    "story_text": "My Chiefs vs Falcons prediction starts on Ponce de Leon Avenue, where a church festival that got rained out of October came back this weekend instead of quitting. Kansas City −3 is the spread pick after the number moved, Under 47.5 handles the over/under, and the final reads Chiefs 24, Falcons 20.\n\nThe St. Elias Mid-East Festival is a nearly fifty-year Atlanta tradition, and when weather wiped out its fall dates, it didn't cancel; it rescheduled. The Falcons need the same stubbornness. They're 3-6, 1-4 at home, and they traded safety Jessie Bates to Jacksonville on Monday. They also have the league's leading rusher, and that's the best argument for them. The half-point matters, though: at 3, a three-point Chiefs win is a push, and The Formula, Next Man Up, Letdown Watch and In The Trenches all have Kansas City winning by four, so I'm laying the 3.\n\nThe Formula: Net ratings Atlanta Falcons −2.9, Kansas City Chiefs 2.8 (nflverse play-by-play, Nov 10, 2026).\n\nKansas City is 6-2 with 202 points scored and only 143 allowed, but it's 2-2 on the road, including losses in Seattle and Denver. The Chiefs blew out the Jets at home last week, and that's where Patrick Mahomes hurt his elbow on a strip sack. He stayed in the game, the MRI showed no major injury, and the team is monitoring pain and swelling this week. I'm pricing him as the starter. I'm also not assuming that elbow is a non-factor by the fourth quarter.\n\nBijan Robinson leads the league with eight hundred eighty rushing yards and went for exactly a hundred on nineteen carries against Cincinnati last week. The Falcons gain 4.9 yards a carry as a team. Kansas City allows only 3.7, so this isn't a matchup Robinson wins easily, but it's one that eats clock. Michael Penix Jr. handing off thirty times would shorten the game, and short games are how a home underdog stays close.\n\nThe Under is built on the same clock. Kansas City runs for 5.3 against a Falcons defense that allows 4.7, which points to two teams running into each other for sixty minutes. The Chiefs' defense has allowed 143 points in eight games. Chiefs 24, Falcons 20 lands on 44, three and a half under the 47.5 posted.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Chiefs −3, total 47.5. This preview was written against Chiefs −3.5, total 45.5, so the spread moved from Chiefs −3.5 to Chiefs −3 and the total rose from 45.5 to 47.5. The Cover Writer now takes Chiefs −3 instead of Falcons +3.5. The old final, Chiefs 24, Falcons 21, was a three-point Chiefs win, inside the 3.5, but at today's 3 it lands exactly on the number, a push. So the final moves to Chiefs 24, Falcons 20, a four-point Chiefs win that covers the 3 by a point. The Under holds, now 47.5: 44 points sits three and a half below it.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread has not moved from Chiefs −3.5, and the consensus total opened 45.5 and is 47.5 now, so it has no side pick (no move of a full point) and moves to the Over 47.5. The Formula: Chiefs 24, Falcons 20 on net ratings. It stays on Chiefs −3 (Chiefs by 4 clears the 3) and stays on the Under, now 47.5 (44 points). Next Man Up: Chiefs 24, Falcons 20 on who's playing. It moves from Falcons +3.5 to Chiefs −3 (Chiefs by 4 clears the 3) and stays on the Under, now 47.5 (44 points). Letdown Watch: Chiefs 24, Falcons 20 on rest and travel. It moves from Falcons +3.5 to Chiefs −3 (Chiefs by 4 clears the 3) and stays on the Under, now 47.5 (44 points). In The Trenches: Chiefs 25, Falcons 21 on the line of scrimmage. It stays on Chiefs −3 (Chiefs by 4 clears the 3) and moves from the Over 45.5 to the Under 47.5 (46 points).\n\nChet Morrell is rereading the Mahomes elbow updates for the fourth time. Russ Amundsen is just waiting for the second plate of food. Kansas City wins the game and covers the three by a point.\n\nChiefs 24, Falcons 20. Chiefs cover the 3. Under 47.5.",
+    "fanatic_score_line": "Projected: Atlanta Falcons 20, Kansas City Chiefs 24",
     "market": {
-     "score_line": "Market: Atlanta Falcons 21, Kansas City Chiefs 25 (Total 46)",
-     "spread": "Kansas City Chiefs −3.5",
-     "total": "45.5",
-     "source": "Consensus line as of Nov 10, 10:17 AM ET",
+     "score_line": "Market: Atlanta Falcons 22, Kansas City Chiefs 25 (Total 47)",
+     "spread": "Kansas City Chiefs −3",
+     "total": "47.5",
+     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     }
    },
-   "gambler_story": "My Chiefs vs Falcons prediction starts on Ponce de Leon Avenue, where a church festival that got rained out of October came back this weekend instead of quitting. Atlanta +3.5 is the spread pick that follows from it, Under 45.5 handles the over/under, and the final reads Chiefs 24, Falcons 21.\n\nThe St. Elias Mid-East Festival is a nearly fifty-year Atlanta tradition, and when weather wiped out its fall dates, it didn't cancel; it rescheduled. The Falcons need the same stubbornness. They're 3-6, 1-4 at home, and they traded safety Jessie Bates to Jacksonville on Monday. They also have the league's leading rusher, and that's where the cover lives.\n\nThe Formula: Net ratings Atlanta Falcons −2.9, Kansas City Chiefs 2.8 (nflverse play-by-play, Nov 10, 2026).\n\nKansas City is 6-2 with 202 points scored and only 143 allowed, but it's 2-2 on the road, including losses in Seattle and Denver. The Chiefs blew out the Jets at home last week, and that's where Patrick Mahomes hurt his elbow on a strip sack. He stayed in the game, the MRI showed no major injury, and the team is monitoring pain and swelling this week. I'm pricing him as the starter. I'm also not assuming that elbow is a non-factor by the fourth quarter.\n\nBijan Robinson leads the league with eight hundred eighty rushing yards and went for exactly a hundred on nineteen carries against Cincinnati last week. The Falcons gain 4.9 yards a carry as a team. Kansas City allows only 3.7, so this isn't a matchup Robinson wins easily, but it's one that eats clock. Michael Penix Jr. handing off thirty times would shorten the game, and short games are how a 3.5-point home underdog stays inside the number.\n\nThe Under is built on the same clock. Kansas City runs for 5.3 against a Falcons defense that allows 4.7, which points to two teams running into each other for sixty minutes. The Chiefs' defense has allowed 143 points in eight games. Chiefs 24, Falcons 21 lands on 45, a half-point under 45.5.\n\nThe room is split down the middle on the side. Next Man Up and Letdown Watch both have Chiefs 23, Falcons 20 and take Atlanta with the points. The Formula, at Chiefs 24, Falcons 20, and In The Trenches, at Chiefs 25, Falcons 21, both lay the 3.5. On the total, The Formula, Next Man Up and Letdown Watch are Under, and In The Trenches is the lone Over. Follow The Money has no pick.\n\nChet Morrell is rereading the Mahomes elbow updates for the fourth time. Russ Amundsen is just waiting for the second plate of food. Kansas City wins the game; Atlanta keeps it inside a field goal.\n\nChiefs 24, Falcons 21. Falcons cover the 3.5. Under 45.5.",
-   "fanatic_story": "Kansas City Chiefs vs Atlanta Falcons in Week 10 shares a weekend with a church festival that got rained out of October and refused to stay gone. The St. Elias Mid-East Festival, a nearly fifty-year Atlanta tradition, was rescheduled to Saturday and Sunday on Ponce de Leon Avenue after its fall dates were called off for weather, and Russ Amundsen has decided Patrick Mahomes and the Chiefs are walking into exactly that kind of town: one that doesn't cancel, it reschedules.\n\nChet Morrell, who drove in from Kansas City with a notebook full of dynasty audits, would like it noted that his team has never needed a rain date for anything.\n\nRuss measures the Falcons in NFC South math, and he showed up at St. Elias on Saturday afternoon with the division standings on his phone and a plate of food from the church kitchen. The festival's food is cooked by members of the St. Elias community from family recipes, and Russ has been going long enough that the volunteers know his order.\n\nChet: You brought me to a church festival to talk about a 3-6 team.\n\nRuss: I brought you to a place that's been doing this for almost half a century. You could learn something about patience.\n\nChet audits every Chiefs season against the old Hank Stram teams and the Andy Reid run, and this year's ledger has a strange shape. Kansas City started 5-0, lost in Seattle and Denver, then blew out the Jets at home last Sunday. The Chiefs are 6-2, 4-0 at home and 2-2 on the road, with 202 points scored and only 143 allowed. Chet's notebook has one word circled next to all that: road.\n\nThen there's the elbow. Mahomes took a strip sack from Jets rookie David Bailey on Sunday, never missed an offensive snap, and then went for an MRI. The tests didn't show a major injury, and the team is watching the elbow for pain and swelling this week. Chet has read every update twice. He watched Mahomes miss the end of last season with a torn knee, and he watched Kansas City miss the playoffs for the first time in the Mahomes era.\n\nChet: He didn't come off the field, Russ. He's fine.\n\nRuss: Then why are you rereading the same article?\n\nRuss has his own problem, and it's a home record that makes no sense. Atlanta is 1-4 in its own building and 2-2 on the road. The Falcons beat San Francisco 29-20 in Week 7, then got shut out 16-0 by Tampa Bay and lost 34-17 to Cincinnati. On Monday they traded Jessie Bates to Jacksonville, which Russ took personally and Chet took as a sign.\n\nChet: Your team just sold its safety. That's not a team planning on January.\n\nRuss: That's a team planning on Bijan.\n\nAnd Bijan Robinson is the one thing Chet can't audit away. He leads the league with eight hundred eighty rushing yards, and last week he went for exactly a hundred on nineteen carries against the Bengals. Atlanta runs for 4.9 yards a carry. The catch is that Kansas City allows only 3.7, the meanest number on Chet's whole sheet. The Chiefs run for 5.3 the other way against a Falcons defense that gives up 4.7.\n\nRuss: Michael Penix just has to hand it to Bijan and get out of the way.\n\nChet: Thirty times? Against our front? Bring a chair.\n\nRuss wants a slow, grinding afternoon where Robinson keeps Mahomes on the sideline and the building gets loud in the fourth quarter. Chet wants Mahomes to throw one early to prove the elbow is just an elbow. Both of them are quietly afraid of the same thing, which is a close game decided by whoever blinks last.\n\nOn Sunday morning the festival opens at 11:30, and Russ will stop for one more plate before he drives downtown. Chet says he'll come along. He's bringing the notebook, and Russ says that's fine as long as the first entry reads: Atlanta doesn't cancel, it reschedules.\n\nMy call: Chiefs 24, Falcons 21.",
-   "fanatic_final_sentence": "Chiefs 24, Falcons 21.",
+   "gambler_story": "My Chiefs vs Falcons prediction starts on Ponce de Leon Avenue, where a church festival that got rained out of October came back this weekend instead of quitting. Kansas City −3 is the spread pick after the number moved, Under 47.5 handles the over/under, and the final reads Chiefs 24, Falcons 20.\n\nThe St. Elias Mid-East Festival is a nearly fifty-year Atlanta tradition, and when weather wiped out its fall dates, it didn't cancel; it rescheduled. The Falcons need the same stubbornness. They're 3-6, 1-4 at home, and they traded safety Jessie Bates to Jacksonville on Monday. They also have the league's leading rusher, and that's the best argument for them. The half-point matters, though: at 3, a three-point Chiefs win is a push, and The Formula, Next Man Up, Letdown Watch and In The Trenches all have Kansas City winning by four, so I'm laying the 3.\n\nThe Formula: Net ratings Atlanta Falcons −2.9, Kansas City Chiefs 2.8 (nflverse play-by-play, Nov 10, 2026).\n\nKansas City is 6-2 with 202 points scored and only 143 allowed, but it's 2-2 on the road, including losses in Seattle and Denver. The Chiefs blew out the Jets at home last week, and that's where Patrick Mahomes hurt his elbow on a strip sack. He stayed in the game, the MRI showed no major injury, and the team is monitoring pain and swelling this week. I'm pricing him as the starter. I'm also not assuming that elbow is a non-factor by the fourth quarter.\n\nBijan Robinson leads the league with eight hundred eighty rushing yards and went for exactly a hundred on nineteen carries against Cincinnati last week. The Falcons gain 4.9 yards a carry as a team. Kansas City allows only 3.7, so this isn't a matchup Robinson wins easily, but it's one that eats clock. Michael Penix Jr. handing off thirty times would shorten the game, and short games are how a home underdog stays close.\n\nThe Under is built on the same clock. Kansas City runs for 5.3 against a Falcons defense that allows 4.7, which points to two teams running into each other for sixty minutes. The Chiefs' defense has allowed 143 points in eight games. Chiefs 24, Falcons 20 lands on 44, three and a half under the 47.5 posted.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Chiefs −3, total 47.5. This preview was written against Chiefs −3.5, total 45.5, so the spread moved from Chiefs −3.5 to Chiefs −3 and the total rose from 45.5 to 47.5. The Cover Writer now takes Chiefs −3 instead of Falcons +3.5. The old final, Chiefs 24, Falcons 21, was a three-point Chiefs win, inside the 3.5, but at today's 3 it lands exactly on the number, a push. So the final moves to Chiefs 24, Falcons 20, a four-point Chiefs win that covers the 3 by a point. The Under holds, now 47.5: 44 points sits three and a half below it.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread has not moved from Chiefs −3.5, and the consensus total opened 45.5 and is 47.5 now, so it has no side pick (no move of a full point) and moves to the Over 47.5. The Formula: Chiefs 24, Falcons 20 on net ratings. It stays on Chiefs −3 (Chiefs by 4 clears the 3) and stays on the Under, now 47.5 (44 points). Next Man Up: Chiefs 24, Falcons 20 on who's playing. It moves from Falcons +3.5 to Chiefs −3 (Chiefs by 4 clears the 3) and stays on the Under, now 47.5 (44 points). Letdown Watch: Chiefs 24, Falcons 20 on rest and travel. It moves from Falcons +3.5 to Chiefs −3 (Chiefs by 4 clears the 3) and stays on the Under, now 47.5 (44 points). In The Trenches: Chiefs 25, Falcons 21 on the line of scrimmage. It stays on Chiefs −3 (Chiefs by 4 clears the 3) and moves from the Over 45.5 to the Under 47.5 (46 points).\n\nChet Morrell is rereading the Mahomes elbow updates for the fourth time. Russ Amundsen is just waiting for the second plate of food. Kansas City wins the game and covers the three by a point.\n\nChiefs 24, Falcons 20. Chiefs cover the 3. Under 47.5.",
+   "fanatic_story": "Kansas City Chiefs vs Atlanta Falcons in Week 10 shares a weekend with a church festival that got rained out of October and refused to stay gone. The St. Elias Mid-East Festival, a nearly fifty-year Atlanta tradition, was rescheduled to Saturday and Sunday on Ponce de Leon Avenue after its fall dates were called off for weather, and Russ Amundsen has decided Patrick Mahomes and the Chiefs are walking into exactly that kind of town: one that doesn't cancel, it reschedules.\n\nChet Morrell, who drove in from Kansas City with a notebook full of dynasty audits, would like it noted that his team has never needed a rain date for anything.\n\nRuss measures the Falcons in NFC South math, and he showed up at St. Elias on Saturday afternoon with the division standings on his phone and a plate of food from the church kitchen. The festival's food is cooked by members of the St. Elias community from family recipes, and Russ has been going long enough that the volunteers know his order.\n\nChet: You brought me to a church festival to talk about a 3-6 team.\n\nRuss: I brought you to a place that's been doing this for almost half a century. You could learn something about patience.\n\nChet audits every Chiefs season against the old Hank Stram teams and the Andy Reid run, and this year's ledger has a strange shape. Kansas City started 5-0, lost in Seattle and Denver, then blew out the Jets at home last Sunday. The Chiefs are 6-2, 4-0 at home and 2-2 on the road, with 202 points scored and only 143 allowed. Chet's notebook has one word circled next to all that: road.\n\nThen there's the elbow. Mahomes took a strip sack from Jets rookie David Bailey on Sunday, never missed an offensive snap, and then went for an MRI. The tests didn't show a major injury, and the team is watching the elbow for pain and swelling this week. Chet has read every update twice. He watched Mahomes miss the end of last season with a torn knee, and he watched Kansas City miss the playoffs for the first time in the Mahomes era.\n\nChet: He didn't come off the field, Russ. He's fine.\n\nRuss: Then why are you rereading the same article?\n\nRuss has his own problem, and it's a home record that makes no sense. Atlanta is 1-4 in its own building and 2-2 on the road. The Falcons beat San Francisco 29-20 in Week 7, then got shut out 16-0 by Tampa Bay and lost 34-17 to Cincinnati. On Monday they traded Jessie Bates to Jacksonville, which Russ took personally and Chet took as a sign.\n\nChet: Your team just sold its safety. That's not a team planning on January.\n\nRuss: That's a team planning on Bijan.\n\nAnd Bijan Robinson is the one thing Chet can't audit away. He leads the league with eight hundred eighty rushing yards, and last week he went for exactly a hundred on nineteen carries against the Bengals. Atlanta runs for 4.9 yards a carry. The catch is that Kansas City allows only 3.7, the meanest number on Chet's whole sheet. The Chiefs run for 5.3 the other way against a Falcons defense that gives up 4.7.\n\nRuss: Michael Penix just has to hand it to Bijan and get out of the way.\n\nChet: Thirty times? Against our front? Bring a chair.\n\nRuss wants a slow, grinding afternoon where Robinson keeps Mahomes on the sideline and the building gets loud in the fourth quarter. Chet wants Mahomes to throw one early to prove the elbow is just an elbow. Both of them are quietly afraid of the same thing, which is a close game decided by whoever blinks last.\n\nOn Sunday morning the festival opens at 11:30, and Russ will stop for one more plate before he drives downtown. Chet says he'll come along. He's bringing the notebook, and Russ says that's fine as long as the first entry reads: Atlanta doesn't cancel, it reschedules.\n\nMy call: Chiefs 24, Falcons 20.",
+   "fanatic_final_sentence": "Chiefs 24, Falcons 20.",
    "preview_sources": [],
    "story_sources": [
     "ESPN team pages https://www.espn.com/nfl/team/_/name/kc and https://www.espn.com/nfl/team/_/name/atl, retrieved Nov 10, 10:17 AM ET"
@@ -883,12 +883,12 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-10T15:17:37Z",
+    "fetched_at_utc": "2026-11-15T11:14:41Z",
     "action_network_game_id": 290971,
     "home_line": 4.5,
-    "total": 39.5,
-    "open_home_line": 4.5,
-    "open_total": 38.5,
+    "total": 40.5,
+    "open_home_line": 5,
+    "open_total": 39.5,
     "spread_display": "Cleveland Browns +4.5",
     "open_timestamp": ""
    },
@@ -900,18 +900,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261115",
    "spread": "Cleveland Browns +4.5",
-   "story_text": "Texans 23, Browns 19. Browns cover the 4.5. Over 39.5. Our handicappers land on the Browns +4.5.",
+   "story_text": "Texans 23, Browns 19. Browns cover the 4.5. Over 40.5. Next Man Up and Letdown Watch also land on the Browns +4.5.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
    "line_used": {
     "home_line": 4.5,
-    "total": 39.5,
-    "source": "Consensus line as of Nov 10, 10:17 AM ET",
-    "as_of_utc": "2026-11-10T15:17:37Z"
+    "total": 40.5,
+    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
+    "as_of_utc": "2026-11-15T11:14:41Z"
    },
-   "total_line": 39.5,
+   "total_line": 40.5,
    "prediction": {
     "away_score": 23,
     "home_score": 19,
@@ -939,7 +939,7 @@
     },
     {
      "id": "H4",
-     "public_case": "No consensus spread posted since Nov 10, 12:15 AM ET, so no line move is measured. Total opened 39.5 (Nov 10, 2:26 AM ET) and is 39.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Consensus spread opened Cleveland Browns +5 (Nov 11, 9:41 AM ET) and is +4.5 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 39.5 (Nov 10, 2:26 AM ET) and is 40.5 now, a 1-point move: Over. The total pick quotes the consensus total now (40.5). Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -956,7 +956,7 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 10, 10:17 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 10, 10:17 AM ET.",
+    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 15, 6:14 AM ET; Follow The Money uses the Action Network consensus line history.",
     "The Formula ratings: nflverse play-by-play as of Nov 10, 10:17 AM ET, Weeks 1–9 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–9 finals.",
     "Injuries: NFL.com official Week 10 injury report, fetched Nov 11, 3:59 PM ET (not yet posted for this game); Next Man Up uses the starter named by the team (see Next Man Up).",
@@ -972,62 +972,62 @@
     "label": "",
     "source": "Cover Writer",
     "projected_total": 42,
-    "market_total": 39.5,
+    "market_total": 40.5,
     "pick": "Over",
-    "text": "Over 39.5"
+    "text": "Over 40.5"
    },
    "display": {
     "writer": {
      "score_line": "Projected: Cleveland Browns 19, Houston Texans 23 (Total 42)",
      "side": "Cleveland Browns +4.5",
-     "ou": "Over 39.5",
+     "ou": "Over 40.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
       "side_line": "Side: Houston Texans −4.5",
-      "ou_line": "O/U: Over 39.5 · Likes this total",
+      "ou_line": "O/U: Over 40.5 · Likes this total",
       "score_line": "Projected: Cleveland Browns 20, Houston Texans 25 (Total 45)",
       "basis_line": "Net ratings Cleveland Browns −8.1, Houston Texans −1.5 (nflverse play-by-play, Nov 10, 2026)",
       "independent": true,
       "distance_from_spread": 0.5,
-      "distance_from_total": 5.5
+      "distance_from_total": 4.5
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: Cleveland Browns +4.5",
-      "ou_line": "O/U: Over 39.5 · Likes this total",
+      "ou_line": "O/U: Over 40.5",
       "score_line": "Projected: Cleveland Browns 19, Houston Texans 23 (Total 42)",
       "basis_line": "Projected points: Cleveland Browns 18.8, Houston Texans 23.3. Availability: expected starting quarterbacks Deshaun Watson (CLE) and C.J. Stroud (HOU). NFL.com official Week 10 injury report (fetched Nov 11, 3:59 PM ET): not yet posted for this game, so it lists no quarterback. Cleveland announced Wednesday that Deshaun Watson will start against Houston; Watson cleared concussion protocol before Week 9 but was inactive as Shedeur Sanders started (NFL.com, Nov 11).",
       "independent": true,
       "distance_from_spread": 0.5,
-      "distance_from_total": 2.5
+      "distance_from_total": 1.5
      },
      {
       "name": "Letdown Watch",
       "side_line": "Side: Cleveland Browns +4.5",
-      "ou_line": "O/U: Over 39.5 · Likes this total",
+      "ou_line": "O/U: Over 40.5",
       "score_line": "Projected: Cleveland Browns 20, Houston Texans 22 (Total 42)",
       "basis_line": "Rest and travel: Houston Texans: 7 days since its last game, travels 1120 miles, last game was also away from home; Cleveland Browns: 7 days since its last game, plays at home. Projected: Texans by 2.1, total 42.6.",
       "independent": true,
       "distance_from_spread": 2.5,
-      "distance_from_total": 2.5
+      "distance_from_total": 1.5
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (no line move measured)",
-      "ou_line": "O/U: no pick (not enough total movement)",
+      "side_line": "Side: no pick (not enough line movement)",
+      "ou_line": "O/U: Over 40.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "No consensus spread posted since Nov 10, 12:15 AM ET, so no line move is measured. Total opened 39.5 (Nov 10, 2:26 AM ET) and is 39.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Cleveland Browns +5 (Nov 11, 9:41 AM ET) and is +4.5 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 39.5 (Nov 10, 2:26 AM ET) and is 40.5 now, a 1-point move: Over. The total pick quotes the consensus total now (40.5). Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
-      "distance_from_total": 0.5
+      "distance_from_total": 1.0
      },
      {
       "name": "In The Trenches",
       "side_line": "Side: Houston Texans −4.5",
-      "ou_line": "O/U: Over 39.5",
+      "ou_line": "O/U: Under 40.5",
       "score_line": "Projected: Cleveland Browns 17, Houston Texans 23 (Total 40)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 9). Projected points: Cleveland Browns 17.4, Houston Texans 22.5.",
       "independent": true,
@@ -1036,18 +1036,18 @@
      }
     ],
     "best_bets": [],
-    "story_text": "Cleveland gets the Cavaliers and the Mavericks downtown on Saturday night and Deshaun Watson against his old team on Sunday, and my Texans vs Browns prediction says Houston wins the reunion, just not by enough. Cleveland getting 4.5 is my pick on the spread, the Over 39.5 gets my over/under vote, and Texans 23, Browns 19 is the final.\n\nStart with the quarterback news. Cleveland announced Wednesday that Watson starts against Houston, a week after a concussion kept him out in New Orleans and Shedeur Sanders started in his place. Watson was Houston's starter for four seasons, and this is his first game against C.J. Stroud. He has seven touchdown throws and three interceptions this season and has quarterbacked five wins. It's the quarterback Cleveland chose in camp, and having him back is why I have the Browns inside the number.\n\nThe Formula: Net ratings Cleveland Browns −8.1, Houston Texans −1.5 (nflverse play-by-play, Nov 10, 2026).\n\nThe splits are the strangest on the board. Houston is 3-5 overall but 3-1 on the road and 0-4 at home. Cleveland is 5-4, 3-0 at home and 2-4 away, and it has lost two straight, the last one in overtime when a two-point try failed in New Orleans. Cleveland's scoreboard reads 161 for and 196 against, while Houston's reads 209 for and 192 against. One of these offenses scores; the other mostly hangs around.\n\nThat's why Houston still wins. A road team with a winning road record should handle a home team that's been outscored by 35 on the season, but Cleveland is 3-0 at home with its starter back, so I'm taking the 4.5 with the Browns. Texans 23, Browns 19 is a four-point win, a half-point inside the spread.\n\nThe Over comes from the one mismatch on the ground. Houston runs for only 3.7 yards a carry, but Cleveland allows 5.0, the softest number in this matchup. The Browns run for 3.9 into a Texans defense that allows 3.9. Houston's run game should finally find some air, and 42 points clears 39.5 by two and a half.\n\nThe cards split two and two. The Formula has Texans 25, Browns 20, and In The Trenches has Texans 23, Browns 17, and both lay the 4.5. Next Man Up has Texans 23, Browns 19, and Letdown Watch has Texans 22, Browns 20, and both take Cleveland with the points. Every card with a score has the Over. Follow The Money has no pick.\n\nFrank Haller will tell you the lakefront eats visitors. Nate Coleman will tell you Houston already ate there three times this year, just in other cities.\n\nTexans 23, Browns 19. Browns cover the 4.5. Over 39.5.",
+    "story_text": "Cleveland gets the Cavaliers and the Mavericks downtown on Saturday night and Deshaun Watson against his old team on Sunday, and my Texans vs Browns prediction says Houston wins the reunion, just not by enough. Cleveland getting 4.5 is my pick on the spread, the Over 40.5 gets my over/under vote, and Texans 23, Browns 19 is the final.\n\nStart with the quarterback news. Cleveland announced Wednesday that Watson starts against Houston, a week after a concussion kept him out in New Orleans and Shedeur Sanders started in his place. Watson was Houston's starter for four seasons, and this is his first game against C.J. Stroud. He has seven touchdown throws and three interceptions this season and has quarterbacked five wins. It's the quarterback Cleveland chose in camp, and having him back is why I have the Browns inside the number.\n\nThe Formula: Net ratings Cleveland Browns −8.1, Houston Texans −1.5 (nflverse play-by-play, Nov 10, 2026).\n\nThe splits are the strangest on the board. Houston is 3-5 overall but 3-1 on the road and 0-4 at home. Cleveland is 5-4, 3-0 at home and 2-4 away, and it has lost two straight, the last one in overtime when a two-point try failed in New Orleans. Cleveland's scoreboard reads 161 for and 196 against, while Houston's reads 209 for and 192 against. One of these offenses scores; the other mostly hangs around.\n\nThat's why Houston still wins. A road team with a winning road record should handle a home team that's been outscored by 35 on the season, but Cleveland is 3-0 at home with its starter back, so I'm taking the 4.5 with the Browns. Texans 23, Browns 19 is a four-point win, a half-point inside the spread.\n\nThe Over comes from the one mismatch on the ground. Houston runs for only 3.7 yards a carry, but Cleveland allows 5.0, the softest number in this matchup. The Browns run for 3.9 into a Texans defense that allows 3.9. Houston's run game should finally find some air, and 42 points clears 40.5 by one and a half.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Texans −4.5, total 40.5. This preview was written against Texans −4.5, total 39.5, so the spread is unchanged and the total rose from 39.5 to 40.5. The Cover Writer stays on Browns +4.5 with Texans 23, Browns 19, because Texans by 4 stays inside the 4.5. The Over holds, now 40.5, with 42 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Texans −5 and is Texans −4.5 now, and the consensus total opened 39.5 and is 40.5 now, so it has no side pick (no move of a full point) and moves to the Over 40.5. The Formula: Texans 25, Browns 20 on net ratings. It stays on Texans −4.5 (Texans by 5 clears the 4.5) and stays on the Over, now 40.5 (45 points). Next Man Up: Texans 23, Browns 19 on who's playing. It stays on Browns +4.5 (Texans by 4 stays inside the 4.5) and stays on the Over, now 40.5 (42 points). Letdown Watch: Texans 22, Browns 20 on rest and travel. It stays on Browns +4.5 (Texans by 2 stays inside the 4.5) and stays on the Over, now 40.5 (42 points). In The Trenches: Texans 23, Browns 17 on the line of scrimmage. It stays on Texans −4.5 (Texans by 6 clears the 4.5) and moves from the Over 39.5 to the Under 40.5 (40 points).\n\nFrank Haller will tell you the lakefront eats visitors. Nate Coleman will tell you Houston already ate there three times this year, just in other cities.\n\nTexans 23, Browns 19. Browns cover the 4.5. Over 40.5.",
     "fanatic_score_line": "Projected: Cleveland Browns 19, Houston Texans 23",
     "market": {
-     "score_line": "Market: Cleveland Browns 18, Houston Texans 22 (Total 40)",
+     "score_line": "Market: Cleveland Browns 18, Houston Texans 23 (Total 41)",
      "spread": "Houston Texans −4.5",
-     "total": "39.5",
-     "source": "Consensus line as of Nov 10, 10:17 AM ET",
+     "total": "40.5",
+     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_story": "Downtown Cleveland gets a two-night stand this weekend: the Cavaliers host the Dallas Mavericks at Rocket Arena at 7:30 Saturday, and less than a day later the Houston Texans vs Cleveland Browns in Week 10 fills the lakefront. Frank Haller will be at both, and Nate Coleman, in from Houston with a Texans hoodie he refuses to zip, has agreed to the Cavs game only because Frank promised to explain Deshaun Watson on the walk there.\n\nFrank never explains anything on a walk. He lectures. He carries the Browns' old championship scrolls around in his head, and he'll remind anyone within earshot that Cleveland was the gold standard of pro football before there was a Super Bowl to win.\n\nNate: Just tell me the quarterback, Frank.\n\nFrank: Watson.\n\nNate: Our Watson?\n\nFrank: He hasn't been yours for a long time.\n\nThat's the story of the week in both towns. The Browns made it official Wednesday: Watson starts against Houston, his old team, after a concussion kept him out last Sunday in New Orleans and Shedeur Sanders started instead. Watson started four seasons in Houston. This will be the first time he faces C.J. Stroud, the quarterback who replaced him there, and Nate has been thinking about that sentence since Wednesday morning.\n\nNate judges every team by how fast it gets to the quarterback, and he's never been more interested in a quarterback's footwork in his life. He's watched Watson come back from two Achilles tears and win the job back from Sanders in the summer. He's watched him get Cleveland to five wins. He's also watched the numbers: seven touchdown throws, three interceptions.\n\nNate: Pressure tells the truth, Frank. Ours is about to have a conversation with your guy.\n\nFrank: Pressure has to get there first. This place eats visitors.\n\nHe's not wrong about that part. The Browns are 3-0 at home this season and 2-4 everywhere else. The Texans are the strangest team in the league: 0-4 at home and 3-1 on the road, which means Nate has finally found a stadium he likes, and it's not his own.\n\nFrank: You're 3-5, Nate. You're road warriors with a losing record.\n\nNate: You're 5-4 and you've lost two straight. One of them in overtime on a two-point try.\n\nThat one still hurts. Sanders threw for nearly three hundred yards and two touchdowns in New Orleans, Harold Fannin scored late, and the Browns went for two to win it and didn't get it. Frank watched from his couch and didn't speak for an hour. His wife timed it.\n\nThen they get to the part neither of them likes. Houston runs for only 3.7 yards a carry, which is no way to live, but Cleveland's defense gives up 5.0, which might rescue the Texans' ground game for one afternoon. The Browns run for 3.9 against a Houston defense that allows 3.9. Nobody is getting fat on the ground in this one.\n\nNate: Stroud's having a bounce-back year. Yours is a comeback story.\n\nFrank: Comeback stories are the only kind we tell here. Read a history book.\n\nThe Browns have scored 161 points and allowed 196. The Texans have scored 209 and allowed 192. Frank has done that subtraction and does not want to discuss it.\n\nOn Saturday night they'll sit in the upper level at Rocket Arena, and Frank will spend timeouts arguing that Todd Monken's offense looks different with Watson's legs back in it. Nate will spend them reminding Frank that Houston already knows every one of Watson's habits by heart.\n\nSunday, Frank will wear the same brown sweater he wore the day the Browns came back to Cleveland, and Nate will finally zip the hoodie. It's November on the lake. Even road warriors get cold.\n\nMy call: Texans 23, Browns 19."
    },
-   "gambler_story": "Cleveland gets the Cavaliers and the Mavericks downtown on Saturday night and Deshaun Watson against his old team on Sunday, and my Texans vs Browns prediction says Houston wins the reunion, just not by enough. Cleveland getting 4.5 is my pick on the spread, the Over 39.5 gets my over/under vote, and Texans 23, Browns 19 is the final.\n\nStart with the quarterback news. Cleveland announced Wednesday that Watson starts against Houston, a week after a concussion kept him out in New Orleans and Shedeur Sanders started in his place. Watson was Houston's starter for four seasons, and this is his first game against C.J. Stroud. He has seven touchdown throws and three interceptions this season and has quarterbacked five wins. It's the quarterback Cleveland chose in camp, and having him back is why I have the Browns inside the number.\n\nThe Formula: Net ratings Cleveland Browns −8.1, Houston Texans −1.5 (nflverse play-by-play, Nov 10, 2026).\n\nThe splits are the strangest on the board. Houston is 3-5 overall but 3-1 on the road and 0-4 at home. Cleveland is 5-4, 3-0 at home and 2-4 away, and it has lost two straight, the last one in overtime when a two-point try failed in New Orleans. Cleveland's scoreboard reads 161 for and 196 against, while Houston's reads 209 for and 192 against. One of these offenses scores; the other mostly hangs around.\n\nThat's why Houston still wins. A road team with a winning road record should handle a home team that's been outscored by 35 on the season, but Cleveland is 3-0 at home with its starter back, so I'm taking the 4.5 with the Browns. Texans 23, Browns 19 is a four-point win, a half-point inside the spread.\n\nThe Over comes from the one mismatch on the ground. Houston runs for only 3.7 yards a carry, but Cleveland allows 5.0, the softest number in this matchup. The Browns run for 3.9 into a Texans defense that allows 3.9. Houston's run game should finally find some air, and 42 points clears 39.5 by two and a half.\n\nThe cards split two and two. The Formula has Texans 25, Browns 20, and In The Trenches has Texans 23, Browns 17, and both lay the 4.5. Next Man Up has Texans 23, Browns 19, and Letdown Watch has Texans 22, Browns 20, and both take Cleveland with the points. Every card with a score has the Over. Follow The Money has no pick.\n\nFrank Haller will tell you the lakefront eats visitors. Nate Coleman will tell you Houston already ate there three times this year, just in other cities.\n\nTexans 23, Browns 19. Browns cover the 4.5. Over 39.5.",
+   "gambler_story": "Cleveland gets the Cavaliers and the Mavericks downtown on Saturday night and Deshaun Watson against his old team on Sunday, and my Texans vs Browns prediction says Houston wins the reunion, just not by enough. Cleveland getting 4.5 is my pick on the spread, the Over 40.5 gets my over/under vote, and Texans 23, Browns 19 is the final.\n\nStart with the quarterback news. Cleveland announced Wednesday that Watson starts against Houston, a week after a concussion kept him out in New Orleans and Shedeur Sanders started in his place. Watson was Houston's starter for four seasons, and this is his first game against C.J. Stroud. He has seven touchdown throws and three interceptions this season and has quarterbacked five wins. It's the quarterback Cleveland chose in camp, and having him back is why I have the Browns inside the number.\n\nThe Formula: Net ratings Cleveland Browns −8.1, Houston Texans −1.5 (nflverse play-by-play, Nov 10, 2026).\n\nThe splits are the strangest on the board. Houston is 3-5 overall but 3-1 on the road and 0-4 at home. Cleveland is 5-4, 3-0 at home and 2-4 away, and it has lost two straight, the last one in overtime when a two-point try failed in New Orleans. Cleveland's scoreboard reads 161 for and 196 against, while Houston's reads 209 for and 192 against. One of these offenses scores; the other mostly hangs around.\n\nThat's why Houston still wins. A road team with a winning road record should handle a home team that's been outscored by 35 on the season, but Cleveland is 3-0 at home with its starter back, so I'm taking the 4.5 with the Browns. Texans 23, Browns 19 is a four-point win, a half-point inside the spread.\n\nThe Over comes from the one mismatch on the ground. Houston runs for only 3.7 yards a carry, but Cleveland allows 5.0, the softest number in this matchup. The Browns run for 3.9 into a Texans defense that allows 3.9. Houston's run game should finally find some air, and 42 points clears 40.5 by one and a half.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Texans −4.5, total 40.5. This preview was written against Texans −4.5, total 39.5, so the spread is unchanged and the total rose from 39.5 to 40.5. The Cover Writer stays on Browns +4.5 with Texans 23, Browns 19, because Texans by 4 stays inside the 4.5. The Over holds, now 40.5, with 42 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Texans −5 and is Texans −4.5 now, and the consensus total opened 39.5 and is 40.5 now, so it has no side pick (no move of a full point) and moves to the Over 40.5. The Formula: Texans 25, Browns 20 on net ratings. It stays on Texans −4.5 (Texans by 5 clears the 4.5) and stays on the Over, now 40.5 (45 points). Next Man Up: Texans 23, Browns 19 on who's playing. It stays on Browns +4.5 (Texans by 4 stays inside the 4.5) and stays on the Over, now 40.5 (42 points). Letdown Watch: Texans 22, Browns 20 on rest and travel. It stays on Browns +4.5 (Texans by 2 stays inside the 4.5) and stays on the Over, now 40.5 (42 points). In The Trenches: Texans 23, Browns 17 on the line of scrimmage. It stays on Texans −4.5 (Texans by 6 clears the 4.5) and moves from the Over 39.5 to the Under 40.5 (40 points).\n\nFrank Haller will tell you the lakefront eats visitors. Nate Coleman will tell you Houston already ate there three times this year, just in other cities.\n\nTexans 23, Browns 19. Browns cover the 4.5. Over 40.5.",
    "fanatic_story": "Downtown Cleveland gets a two-night stand this weekend: the Cavaliers host the Dallas Mavericks at Rocket Arena at 7:30 Saturday, and less than a day later the Houston Texans vs Cleveland Browns in Week 10 fills the lakefront. Frank Haller will be at both, and Nate Coleman, in from Houston with a Texans hoodie he refuses to zip, has agreed to the Cavs game only because Frank promised to explain Deshaun Watson on the walk there.\n\nFrank never explains anything on a walk. He lectures. He carries the Browns' old championship scrolls around in his head, and he'll remind anyone within earshot that Cleveland was the gold standard of pro football before there was a Super Bowl to win.\n\nNate: Just tell me the quarterback, Frank.\n\nFrank: Watson.\n\nNate: Our Watson?\n\nFrank: He hasn't been yours for a long time.\n\nThat's the story of the week in both towns. The Browns made it official Wednesday: Watson starts against Houston, his old team, after a concussion kept him out last Sunday in New Orleans and Shedeur Sanders started instead. Watson started four seasons in Houston. This will be the first time he faces C.J. Stroud, the quarterback who replaced him there, and Nate has been thinking about that sentence since Wednesday morning.\n\nNate judges every team by how fast it gets to the quarterback, and he's never been more interested in a quarterback's footwork in his life. He's watched Watson come back from two Achilles tears and win the job back from Sanders in the summer. He's watched him get Cleveland to five wins. He's also watched the numbers: seven touchdown throws, three interceptions.\n\nNate: Pressure tells the truth, Frank. Ours is about to have a conversation with your guy.\n\nFrank: Pressure has to get there first. This place eats visitors.\n\nHe's not wrong about that part. The Browns are 3-0 at home this season and 2-4 everywhere else. The Texans are the strangest team in the league: 0-4 at home and 3-1 on the road, which means Nate has finally found a stadium he likes, and it's not his own.\n\nFrank: You're 3-5, Nate. You're road warriors with a losing record.\n\nNate: You're 5-4 and you've lost two straight. One of them in overtime on a two-point try.\n\nThat one still hurts. Sanders threw for nearly three hundred yards and two touchdowns in New Orleans, Harold Fannin scored late, and the Browns went for two to win it and didn't get it. Frank watched from his couch and didn't speak for an hour. His wife timed it.\n\nThen they get to the part neither of them likes. Houston runs for only 3.7 yards a carry, which is no way to live, but Cleveland's defense gives up 5.0, which might rescue the Texans' ground game for one afternoon. The Browns run for 3.9 against a Houston defense that allows 3.9. Nobody is getting fat on the ground in this one.\n\nNate: Stroud's having a bounce-back year. Yours is a comeback story.\n\nFrank: Comeback stories are the only kind we tell here. Read a history book.\n\nThe Browns have scored 161 points and allowed 196. The Texans have scored 209 and allowed 192. Frank has done that subtraction and does not want to discuss it.\n\nOn Saturday night they'll sit in the upper level at Rocket Arena, and Frank will spend timeouts arguing that Todd Monken's offense looks different with Watson's legs back in it. Nate will spend them reminding Frank that Houston already knows every one of Watson's habits by heart.\n\nSunday, Frank will wear the same brown sweater he wore the day the Browns came back to Cleveland, and Nate will finally zip the hoodie. It's November on the lake. Even road warriors get cold.\n\nMy call: Texans 23, Browns 19.",
    "fanatic_final_sentence": "Texans 23, Browns 19.",
    "preview_sources": [],
@@ -1161,13 +1161,13 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-11T21:06:52Z",
+    "fetched_at_utc": "2026-11-15T11:14:41Z",
     "action_network_game_id": 290973,
-    "home_line": -3,
-    "total": 42,
+    "home_line": -2.5,
+    "total": 42.5,
     "open_home_line": -4.5,
-    "open_total": 45.5,
-    "spread_display": "Green Bay Packers −3",
+    "open_total": 41.5,
+    "spread_display": "Green Bay Packers −2.5",
     "open_timestamp": ""
    },
    "injuries": {
@@ -1177,24 +1177,24 @@
     "home": null
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261115",
-   "spread": "Minnesota Vikings +3",
-   "story_text": "Packers 20, Vikings 18. Vikings cover the 3. Under 42.",
+   "spread": "Minnesota Vikings +2.5",
+   "story_text": "Packers 20, Vikings 18. Vikings cover the 2.5. Under 42.5.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "line_used": {
-    "home_line": -3,
-    "total": 42,
-    "source": "Consensus line as of Nov 11, 4:06 PM ET",
-    "as_of_utc": "2026-11-11T21:06:52Z"
+    "home_line": -2.5,
+    "total": 42.5,
+    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
+    "as_of_utc": "2026-11-15T11:14:41Z"
    },
-   "total_line": 42,
+   "total_line": 42.5,
    "prediction": {
     "away_score": 18,
     "home_score": 20,
     "winner": "Green Bay Packers",
-    "covers": "Minnesota Vikings +3"
+    "covers": "Minnesota Vikings +2.5"
    },
    "handicappers": [
     {
@@ -1217,7 +1217,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Green Bay Packers −4.5 (Nov 10, 1:02 AM ET) and is Green Bay Packers −3 now (Nov 11, 4:06 PM ET), a 1.5-point move. Total opened 41.5 (Nov 10, 1:02 AM ET) and is 42 now, a 0.5-point move. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Consensus spread opened Minnesota Vikings +4.5 (Nov 10, 1:02 AM ET) and is +2.5 now, a 2-point move. The side pick quotes the consensus spread now (Minnesota Vikings +2.5). Consensus total opened 41.5 (Nov 10, 1:02 AM ET) and is 42.5 now, a 1-point move: Over. The total pick quotes the consensus total now (42.5). Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -1234,7 +1234,7 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 10, 10:17 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 11, 4:06 PM ET.",
+    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 15, 6:14 AM ET; Follow The Money uses the Action Network consensus line history.",
     "The Formula ratings: nflverse play-by-play as of Nov 10, 10:17 AM ET, Weeks 1–9 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–9 finals.",
     "Injuries: NFL.com official Week 10 injury report, fetched Nov 11, 4:21 PM ET (Vikings and Packers listed as No Injuries Reported; lists no quarterback); Next Man Up uses Kirk Cousins, the most-reported starter (see Next Man Up).",
@@ -1250,82 +1250,82 @@
     "label": "",
     "source": "Cover Writer",
     "projected_total": 38,
-    "market_total": 42,
+    "market_total": 42.5,
     "pick": "Under",
-    "text": "Under 42"
+    "text": "Under 42.5"
    },
    "display": {
     "writer": {
      "score_line": "Projected: Green Bay Packers 20, Minnesota Vikings 18 (Total 38)",
-     "side": "Minnesota Vikings +3",
-     "ou": "Under 42",
+     "side": "Minnesota Vikings +2.5",
+     "ou": "Under 42.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Green Bay Packers −3 · Likes this side",
-      "ou_line": "O/U: Under 42 · Likes this total",
+      "side_line": "Side: Green Bay Packers −2.5 · Likes this side",
+      "ou_line": "O/U: Under 42.5 · Likes this total",
       "score_line": "Projected: Green Bay Packers 22, Minnesota Vikings 17 (Total 39)",
       "basis_line": "Net ratings Green Bay Packers −2.3, Minnesota Vikings −6.2 (nflverse play-by-play, Nov 10, 2026)",
       "independent": true,
-      "distance_from_spread": 2.0,
-      "distance_from_total": 3.0
+      "distance_from_spread": 2.5,
+      "distance_from_total": 3.5
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Minnesota Vikings +3",
-      "ou_line": "O/U: Under 42 · Likes this total",
+      "side_line": "Side: Minnesota Vikings +2.5",
+      "ou_line": "O/U: Under 42.5 · Likes this total",
       "score_line": "Projected: Green Bay Packers 19, Minnesota Vikings 17 (Total 36)",
       "basis_line": "Projected points: Green Bay Packers 19.7, Minnesota Vikings 17.2. Availability: expected starting quarterbacks Jordan Love (GB) and Kirk Cousins (MIN). NFL.com official Week 10 injury report (fetched Nov 11, 3:59 PM ET): not yet posted for this game, so it lists no quarterback. Coach Kevin O’Connell said Wednesday it is “too early” to commit to Kirk Cousins; Carson Wentz (ankle) was expected to be limited (NFL.com, Nov 11). Minnesota traded for Kirk Cousins on Nov 10 and is working toward starting him at Green Bay (coach Kevin O’Connell, Nov 11, has not formally named him; Packers coach Matt LaFleur expects Cousins; Carson Wentz has an ankle issue) (CBS Sports, Yardbarker, Sporting News, Nov 11); Kirk Cousins is not MIN’s main starter this season (Kyler Murray).",
       "independent": true,
-      "distance_from_spread": 1.0,
-      "distance_from_total": 6.0
+      "distance_from_spread": 0.5,
+      "distance_from_total": 6.5
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Minnesota Vikings +3",
-      "ou_line": "O/U: Under 42",
+      "side_line": "Side: Minnesota Vikings +2.5",
+      "ou_line": "O/U: Under 42.5",
       "score_line": "Projected: Green Bay Packers 21, Minnesota Vikings 19 (Total 40)",
       "basis_line": "Rest and travel: Minnesota Vikings: 6 days since its last game, travels 257 miles; Green Bay Packers: 7 days since its last game, plays at home. Projected: Packers by 2.2, total 40.9.",
       "independent": true,
-      "distance_from_spread": 1.0,
-      "distance_from_total": 2.0
+      "distance_from_spread": 0.5,
+      "distance_from_total": 2.5
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: Minnesota Vikings +3 · Likes this side",
-      "ou_line": "O/U: no pick (not enough total movement)",
+      "side_line": "Side: Minnesota Vikings +2.5 · Likes this side",
+      "ou_line": "O/U: Over 42.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Green Bay Packers −4.5 (Nov 10, 1:02 AM ET) and is Green Bay Packers −3 now (Nov 11, 4:06 PM ET), a 1.5-point move. Total opened 41.5 (Nov 10, 1:02 AM ET) and is 42 now, a 0.5-point move. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Minnesota Vikings +4.5 (Nov 10, 1:02 AM ET) and is +2.5 now, a 2-point move. The side pick quotes the consensus spread now (Minnesota Vikings +2.5). Consensus total opened 41.5 (Nov 10, 1:02 AM ET) and is 42.5 now, a 1-point move: Over. The total pick quotes the consensus total now (42.5). Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.0,
-      "distance_from_total": 0.0
+      "distance_from_spread": 2.0,
+      "distance_from_total": 1.0
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Minnesota Vikings +3",
-      "ou_line": "O/U: Under 42 · Likes this total",
+      "side_line": "Side: Minnesota Vikings +2.5",
+      "ou_line": "O/U: Under 42.5 · Likes this total",
       "score_line": "Projected: Green Bay Packers 19, Minnesota Vikings 17 (Total 36)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 9). Projected points: Green Bay Packers 19.1, Minnesota Vikings 16.1.",
       "independent": true,
-      "distance_from_spread": 1.0,
-      "distance_from_total": 6.0
+      "distance_from_spread": 0.5,
+      "distance_from_total": 6.5
      }
     ],
     "best_bets": [],
-    "story_text": "Green Bay spends Saturday riding the Packers Heritage Trail trolley out to old City Stadium, and my Vikings vs Packers prediction says Green Bay wins a close one. Minnesota getting 3 on the spread is the side I want, the Under 42 is my over/under, and Packers 20, Vikings 18 is my pick for the final.\n\nThe quarterback situation is ugly, and I'm pricing it that way. Kyler Murray has a Grade 2 hamstring strain, and Carson Wentz went 8-of-25 with two interceptions and a lost fumble in Monday's loss to Buffalo before Max Brosmer finished the game. At Tuesday's deadline, Minnesota sent a third-round pick to Las Vegas to bring back Kirk Cousins. Kevin O'Connell said Wednesday it's still too early to commit to Cousins starting Sunday, so it's Cousins or Wentz at Lambeau, and my score doesn't change either way.\n\nThe Formula: Net ratings Green Bay Packers −2.3, Minnesota Vikings −6.2 (nflverse play-by-play, Nov 10, 2026).\n\nHere's why it's Green Bay, but by less than a field goal. Minnesota has allowed 116 points in eight games, the stingiest number in this game by a mile, and it won the first meeting 39-22 in September. Green Bay is 6-3 and just scored forty-five in Foxborough behind Jordan Love, but it runs for only 3.3 yards a carry. Against a defense this good, the Packers have to throw for everything, and that tends to produce long drives that stall and field goals instead of touchdowns. A two-point Packers win is the real shape of that game. The spread has come down from 4.5 to 3 since the Cousins trade, and two doesn't get there.\n\nThe Under is the stronger half. Minnesota has scored only 146 points in eight games, and neither a quarterback who just walked back into the building nor the one who went 8-of-25 on Monday is going to fix that in five days. The Vikings run for 4.3 against a Packers defense that allows 4.1, so the plan is handoffs and a running clock. Kickoff is 1:00 PM ET (noon local) at Lambeau in mid-November. Packers 20, Vikings 18 is 38 points, four under 42.\n\nThe room tilts toward Minnesota and the Under: four of the five cards take the Vikings, and only The Formula lays the points. Next Man Up has Packers 19, Vikings 17, Letdown Watch has Packers 21, Vikings 19, and In The Trenches has Packers 19, Vikings 17, and all three take the Vikings with the 3. The Formula is the lone card laying the 3, at Packers 22, Vikings 17. All four cards with a score are Under. Follow The Money: Vikings +3 (Action Network consensus, Nov. 11, 4:06 PM ET). Follow The Money has no total pick.\n\nPaul Lindgren will narrate the whole trolley ride. Erik Dahl will spend it refreshing his phone to find out who starts at quarterback. Neither one is going to enjoy watching this offense, but only one of them needs it to be pretty.\n\nPackers 20, Vikings 18. Vikings cover the 3. Under 42.",
+    "story_text": "Green Bay spends Saturday riding the Packers Heritage Trail trolley out to old City Stadium, and my Vikings vs Packers prediction says Green Bay wins a close one. Minnesota getting 2.5 on the spread is the side I want, the Under 42.5 is my over/under, and Packers 20, Vikings 18 is my pick for the final.\n\nThe quarterback situation is ugly, and I'm pricing it that way. Kyler Murray has a Grade 2 hamstring strain, and Carson Wentz went 8-of-25 with two interceptions and a lost fumble in Monday's loss to Buffalo before Max Brosmer finished the game. At Tuesday's deadline, Minnesota sent a third-round pick to Las Vegas to bring back Kirk Cousins. Kevin O'Connell said Wednesday it's still too early to commit to Cousins starting Sunday, so it's Cousins or Wentz at Lambeau, and my score doesn't change either way.\n\nThe Formula: Net ratings Green Bay Packers −2.3, Minnesota Vikings −6.2 (nflverse play-by-play, Nov 10, 2026).\n\nHere's why it's Green Bay, but by less than a field goal. Minnesota has allowed 116 points in eight games, the stingiest number in this game by a mile, and it won the first meeting 39-22 in September. Green Bay is 6-3 and just scored forty-five in Foxborough behind Jordan Love, but it runs for only 3.3 yards a carry. Against a defense this good, the Packers have to throw for everything, and that tends to produce long drives that stall and field goals instead of touchdowns. A two-point Packers win is the real shape of that game. The spread has come down from 4.5 to 2.5 since the Cousins trade, and a two-point win still stays inside it.\n\nThe Under is the stronger half. Minnesota has scored only 146 points in eight games, and neither a quarterback who just walked back into the building nor the one who went 8-of-25 on Monday is going to fix that in five days. The Vikings run for 4.3 against a Packers defense that allows 4.1, so the plan is handoffs and a running clock. Kickoff is 1:00 PM ET (noon local) at Lambeau in mid-November. Packers 20, Vikings 18 is 38 points, four and a half under 42.5.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Packers −2.5, total 42.5. This preview was written against Packers −3, total 42, so the spread moved from Packers −3 to Packers −2.5 and the total rose from 42 to 42.5. The Cover Writer stays on Vikings +2.5 with Packers 20, Vikings 18, because Packers by 2 stays inside the 2.5. The Under holds, now 42.5, with 38 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Packers −4.5 and is Packers −2.5 now, and the consensus total opened 41.5 and is 42.5 now, so it stays on Vikings +2.5 and moves to the Over 42.5. The Formula: Packers 22, Vikings 17 on net ratings. It stays on Packers −2.5 (Packers by 5 clears the 2.5) and stays on the Under, now 42.5 (39 points). Next Man Up: Packers 19, Vikings 17 on who's playing. It stays on Vikings +2.5 (Packers by 2 stays inside the 2.5) and stays on the Under, now 42.5 (36 points). Letdown Watch: Packers 21, Vikings 19 on rest and travel. It stays on Vikings +2.5 (Packers by 2 stays inside the 2.5) and stays on the Under, now 42.5 (40 points). In The Trenches: Packers 19, Vikings 17 on the line of scrimmage. It stays on Vikings +2.5 (Packers by 2 stays inside the 2.5) and stays on the Under, now 42.5 (36 points).\n\nPaul Lindgren will narrate the whole trolley ride. Erik Dahl will spend it refreshing his phone to find out who starts at quarterback. Neither one is going to enjoy watching this offense, but only one of them needs it to be pretty.\n\nPackers 20, Vikings 18. Vikings cover the 2.5. Under 42.5.",
     "fanatic_score_line": "Projected: Green Bay Packers 20, Minnesota Vikings 18",
     "market": {
-     "score_line": "Market: Green Bay Packers 22, Minnesota Vikings 20 (Total 42)",
-     "spread": "Green Bay Packers −3",
-     "total": "42",
-     "source": "Consensus line as of Nov 11, 4:06 PM ET",
+     "score_line": "Market: Green Bay Packers 23, Minnesota Vikings 20 (Total 43)",
+     "spread": "Green Bay Packers −2.5",
+     "total": "42.5",
+     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_story": "The Packers Heritage Trail trolley pulls out of the Lambeau Field Atrium every half hour on Saturday, and Paul Lindgren has booked the 10:30 for himself and for Erik Dahl, who drove across from the Twin Cities a day early for Minnesota Vikings vs Green Bay Packers in Week 10. The ride runs an hour and a half past old train depots and churches and stops at old City Stadium, and Paul intends to narrate every block of it whether the guide likes it or not.\n\nErik came for one reason, and it wasn't the trolley. It was Week 1.\n\nErik: Thirty-nine to twenty-two, Paul. You want to talk history? That's history. September history, but it counts.\n\nPaul: Ask me in January who remembers September.\n\nPaul keeps the Packers' championship ledger, and it's a long one, and he reads from it at the old City Stadium stop like a man at a lectern. Erik guards the Vikings' old NFL title from the moon-landing year and trusts no hot start, including his own team's, which has turned out to be a useful habit this month. Minnesota started 6-0 and then lost two straight, the last one Monday night to Buffalo, and slid out of first place in the NFC North.\n\nErik doesn't want to talk about Monday night. Paul wants to talk about nothing else.\n\nWith Kyler Murray out with a Grade 2 hamstring strain, Carson Wentz went 8-of-25 against the Bills with two interceptions and a lost fumble, and Max Brosmer finished the game. Kevin O'Connell blamed himself for not getting Wentz into a rhythm, and on Tuesday the Vikings traded with Las Vegas for Kirk Cousins, the man who played quarterback in Minnesota for six seasons. On Wednesday, O'Connell said it was still too early to commit to Cousins for Sunday. Erik has been refreshing his phone so often the battery gave up somewhere around De Pere.\n\nPaul: Your general manager went quarterback shopping at the deadline and came home with your old one. Mine was shopping for groceries.\n\nErik: Mine's also got the best defense in the division, and you know it.\n\nHe does know it. Minnesota has allowed 116 points in eight games, and that defense is the reason Erik still sleeps at night. Green Bay has scored 216 and allowed 191, and the Packers just went into Foxborough and dropped forty-five on New England, with Jordan Love throwing for more than three hundred and seventy yards and three touchdowns. There's also talk that Micah Parsons, coming back from the knee he tore last season, could finally be on the field Sunday, which Paul mentions roughly every eight minutes.\n\nThe ground game gives Erik something to hold. Green Bay runs for only 3.3 yards a carry, and the Vikings allow 4.4, so the Packers have been winning with Love's arm, not their backs. Minnesota runs for 4.3 against a Packers defense that allows 4.1. Whether it's Cousins or Wentz trying to survive Lambeau, it'll be on handoffs, and Erik is already drawing them up on a napkin.\n\nErik: Hand it off, play defense, and wait for one mistake. That's how we won in Week 1.\n\nPaul: You won in Week 1 with a different quarterback.\n\nErik let that sit for two full trolley stops. Then he pointed out that he might have yet another one Sunday, and this one already knows the way to Lambeau.\n\nThe other thing in the air around Green Bay is orange. Wisconsin's nine-day gun deer season opens the following Saturday, and half the town will spend this Sunday's tailgate talking about stands, scent blockers and who gets the good spot at camp. Paul hunts. Erik doesn't, which Paul regards as a character flaw on the level of the purple pants.\n\nKickoff is at 1:00 PM ET (noon local), and both of them plan to be in the lot by eight. Erik is bringing the napkin with the handoffs on it. Paul is bringing a blaze-orange hat for Erik, which he swears is for safety and not for laughs, and Erik is going to wear it anyway because Lambeau in November doesn't care about pride.\n\nMy call: Packers 20, Vikings 18."
    },
-   "gambler_story": "Green Bay spends Saturday riding the Packers Heritage Trail trolley out to old City Stadium, and my Vikings vs Packers prediction says Green Bay wins a close one. Minnesota getting 3 on the spread is the side I want, the Under 42 is my over/under, and Packers 20, Vikings 18 is my pick for the final.\n\nThe quarterback situation is ugly, and I'm pricing it that way. Kyler Murray has a Grade 2 hamstring strain, and Carson Wentz went 8-of-25 with two interceptions and a lost fumble in Monday's loss to Buffalo before Max Brosmer finished the game. At Tuesday's deadline, Minnesota sent a third-round pick to Las Vegas to bring back Kirk Cousins. Kevin O'Connell said Wednesday it's still too early to commit to Cousins starting Sunday, so it's Cousins or Wentz at Lambeau, and my score doesn't change either way.\n\nThe Formula: Net ratings Green Bay Packers −2.3, Minnesota Vikings −6.2 (nflverse play-by-play, Nov 10, 2026).\n\nHere's why it's Green Bay, but by less than a field goal. Minnesota has allowed 116 points in eight games, the stingiest number in this game by a mile, and it won the first meeting 39-22 in September. Green Bay is 6-3 and just scored forty-five in Foxborough behind Jordan Love, but it runs for only 3.3 yards a carry. Against a defense this good, the Packers have to throw for everything, and that tends to produce long drives that stall and field goals instead of touchdowns. A two-point Packers win is the real shape of that game. The spread has come down from 4.5 to 3 since the Cousins trade, and two doesn't get there.\n\nThe Under is the stronger half. Minnesota has scored only 146 points in eight games, and neither a quarterback who just walked back into the building nor the one who went 8-of-25 on Monday is going to fix that in five days. The Vikings run for 4.3 against a Packers defense that allows 4.1, so the plan is handoffs and a running clock. Kickoff is 1:00 PM ET (noon local) at Lambeau in mid-November. Packers 20, Vikings 18 is 38 points, four under 42.\n\nThe room tilts toward Minnesota and the Under: four of the five cards take the Vikings, and only The Formula lays the points. Next Man Up has Packers 19, Vikings 17, Letdown Watch has Packers 21, Vikings 19, and In The Trenches has Packers 19, Vikings 17, and all three take the Vikings with the 3. The Formula is the lone card laying the 3, at Packers 22, Vikings 17. All four cards with a score are Under. Follow The Money: Vikings +3 (Action Network consensus, Nov. 11, 4:06 PM ET). Follow The Money has no total pick.\n\nPaul Lindgren will narrate the whole trolley ride. Erik Dahl will spend it refreshing his phone to find out who starts at quarterback. Neither one is going to enjoy watching this offense, but only one of them needs it to be pretty.\n\nPackers 20, Vikings 18. Vikings cover the 3. Under 42.",
+   "gambler_story": "Green Bay spends Saturday riding the Packers Heritage Trail trolley out to old City Stadium, and my Vikings vs Packers prediction says Green Bay wins a close one. Minnesota getting 2.5 on the spread is the side I want, the Under 42.5 is my over/under, and Packers 20, Vikings 18 is my pick for the final.\n\nThe quarterback situation is ugly, and I'm pricing it that way. Kyler Murray has a Grade 2 hamstring strain, and Carson Wentz went 8-of-25 with two interceptions and a lost fumble in Monday's loss to Buffalo before Max Brosmer finished the game. At Tuesday's deadline, Minnesota sent a third-round pick to Las Vegas to bring back Kirk Cousins. Kevin O'Connell said Wednesday it's still too early to commit to Cousins starting Sunday, so it's Cousins or Wentz at Lambeau, and my score doesn't change either way.\n\nThe Formula: Net ratings Green Bay Packers −2.3, Minnesota Vikings −6.2 (nflverse play-by-play, Nov 10, 2026).\n\nHere's why it's Green Bay, but by less than a field goal. Minnesota has allowed 116 points in eight games, the stingiest number in this game by a mile, and it won the first meeting 39-22 in September. Green Bay is 6-3 and just scored forty-five in Foxborough behind Jordan Love, but it runs for only 3.3 yards a carry. Against a defense this good, the Packers have to throw for everything, and that tends to produce long drives that stall and field goals instead of touchdowns. A two-point Packers win is the real shape of that game. The spread has come down from 4.5 to 2.5 since the Cousins trade, and a two-point win still stays inside it.\n\nThe Under is the stronger half. Minnesota has scored only 146 points in eight games, and neither a quarterback who just walked back into the building nor the one who went 8-of-25 on Monday is going to fix that in five days. The Vikings run for 4.3 against a Packers defense that allows 4.1, so the plan is handoffs and a running clock. Kickoff is 1:00 PM ET (noon local) at Lambeau in mid-November. Packers 20, Vikings 18 is 38 points, four and a half under 42.5.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Packers −2.5, total 42.5. This preview was written against Packers −3, total 42, so the spread moved from Packers −3 to Packers −2.5 and the total rose from 42 to 42.5. The Cover Writer stays on Vikings +2.5 with Packers 20, Vikings 18, because Packers by 2 stays inside the 2.5. The Under holds, now 42.5, with 38 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Packers −4.5 and is Packers −2.5 now, and the consensus total opened 41.5 and is 42.5 now, so it stays on Vikings +2.5 and moves to the Over 42.5. The Formula: Packers 22, Vikings 17 on net ratings. It stays on Packers −2.5 (Packers by 5 clears the 2.5) and stays on the Under, now 42.5 (39 points). Next Man Up: Packers 19, Vikings 17 on who's playing. It stays on Vikings +2.5 (Packers by 2 stays inside the 2.5) and stays on the Under, now 42.5 (36 points). Letdown Watch: Packers 21, Vikings 19 on rest and travel. It stays on Vikings +2.5 (Packers by 2 stays inside the 2.5) and stays on the Under, now 42.5 (40 points). In The Trenches: Packers 19, Vikings 17 on the line of scrimmage. It stays on Vikings +2.5 (Packers by 2 stays inside the 2.5) and stays on the Under, now 42.5 (36 points).\n\nPaul Lindgren will narrate the whole trolley ride. Erik Dahl will spend it refreshing his phone to find out who starts at quarterback. Neither one is going to enjoy watching this offense, but only one of them needs it to be pretty.\n\nPackers 20, Vikings 18. Vikings cover the 2.5. Under 42.5.",
    "fanatic_story": "The Packers Heritage Trail trolley pulls out of the Lambeau Field Atrium every half hour on Saturday, and Paul Lindgren has booked the 10:30 for himself and for Erik Dahl, who drove across from the Twin Cities a day early for Minnesota Vikings vs Green Bay Packers in Week 10. The ride runs an hour and a half past old train depots and churches and stops at old City Stadium, and Paul intends to narrate every block of it whether the guide likes it or not.\n\nErik came for one reason, and it wasn't the trolley. It was Week 1.\n\nErik: Thirty-nine to twenty-two, Paul. You want to talk history? That's history. September history, but it counts.\n\nPaul: Ask me in January who remembers September.\n\nPaul keeps the Packers' championship ledger, and it's a long one, and he reads from it at the old City Stadium stop like a man at a lectern. Erik guards the Vikings' old NFL title from the moon-landing year and trusts no hot start, including his own team's, which has turned out to be a useful habit this month. Minnesota started 6-0 and then lost two straight, the last one Monday night to Buffalo, and slid out of first place in the NFC North.\n\nErik doesn't want to talk about Monday night. Paul wants to talk about nothing else.\n\nWith Kyler Murray out with a Grade 2 hamstring strain, Carson Wentz went 8-of-25 against the Bills with two interceptions and a lost fumble, and Max Brosmer finished the game. Kevin O'Connell blamed himself for not getting Wentz into a rhythm, and on Tuesday the Vikings traded with Las Vegas for Kirk Cousins, the man who played quarterback in Minnesota for six seasons. On Wednesday, O'Connell said it was still too early to commit to Cousins for Sunday. Erik has been refreshing his phone so often the battery gave up somewhere around De Pere.\n\nPaul: Your general manager went quarterback shopping at the deadline and came home with your old one. Mine was shopping for groceries.\n\nErik: Mine's also got the best defense in the division, and you know it.\n\nHe does know it. Minnesota has allowed 116 points in eight games, and that defense is the reason Erik still sleeps at night. Green Bay has scored 216 and allowed 191, and the Packers just went into Foxborough and dropped forty-five on New England, with Jordan Love throwing for more than three hundred and seventy yards and three touchdowns. There's also talk that Micah Parsons, coming back from the knee he tore last season, could finally be on the field Sunday, which Paul mentions roughly every eight minutes.\n\nThe ground game gives Erik something to hold. Green Bay runs for only 3.3 yards a carry, and the Vikings allow 4.4, so the Packers have been winning with Love's arm, not their backs. Minnesota runs for 4.3 against a Packers defense that allows 4.1. Whether it's Cousins or Wentz trying to survive Lambeau, it'll be on handoffs, and Erik is already drawing them up on a napkin.\n\nErik: Hand it off, play defense, and wait for one mistake. That's how we won in Week 1.\n\nPaul: You won in Week 1 with a different quarterback.\n\nErik let that sit for two full trolley stops. Then he pointed out that he might have yet another one Sunday, and this one already knows the way to Lambeau.\n\nThe other thing in the air around Green Bay is orange. Wisconsin's nine-day gun deer season opens the following Saturday, and half the town will spend this Sunday's tailgate talking about stands, scent blockers and who gets the good spot at camp. Paul hunts. Erik doesn't, which Paul regards as a character flaw on the level of the purple pants.\n\nKickoff is at 1:00 PM ET (noon local), and both of them plan to be in the lot by eight. Erik is bringing the napkin with the handoffs on it. Paul is bringing a blaze-orange hat for Erik, which he swears is for safety and not for laughs, and Erik is going to wear it anyway because Lambeau in November doesn't care about pride.\n\nMy call: Packers 20, Vikings 18.",
    "fanatic_final_sentence": "Packers 20, Vikings 18.",
    "preview_sources": [],
@@ -1746,13 +1746,13 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-10T15:17:37Z",
+    "fetched_at_utc": "2026-11-15T11:14:41Z",
     "action_network_game_id": 290974,
-    "home_line": -2.5,
-    "total": 40.5,
-    "open_home_line": -6.5,
-    "open_total": 47.5,
-    "spread_display": "Indianapolis Colts −2.5",
+    "home_line": -4.5,
+    "total": 37.5,
+    "open_home_line": -2.5,
+    "open_total": 40.5,
+    "spread_display": "Indianapolis Colts −4.5",
     "open_timestamp": ""
    },
    "injuries": {
@@ -1762,24 +1762,24 @@
     "home": null
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261115",
-   "spread": "Indianapolis Colts −2.5",
-   "story_text": "Colts 24, Dolphins 20. Colts cover the 2.5. Over 40.5. Our handicappers land on the Colts −2.5.",
+   "spread": "Miami Dolphins +4.5",
+   "story_text": "Colts 24, Dolphins 20. Dolphins cover the 4.5. Over 37.5. The Formula, Letdown Watch, and In The Trenches also land on the Dolphins +4.5.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
    "line_used": {
-    "home_line": -2.5,
-    "total": 40.5,
-    "source": "Consensus line as of Nov 10, 10:17 AM ET",
-    "as_of_utc": "2026-11-10T15:17:37Z"
+    "home_line": -4.5,
+    "total": 37.5,
+    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
+    "as_of_utc": "2026-11-15T11:14:41Z"
    },
-   "total_line": 40.5,
+   "total_line": 37.5,
    "prediction": {
     "away_score": 20,
     "home_score": 24,
     "winner": "Indianapolis Colts",
-    "covers": "Indianapolis Colts −2.5"
+    "covers": "Miami Dolphins +4.5"
    },
    "handicappers": [
     {
@@ -1802,7 +1802,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Indianapolis Colts −2.5 (Nov 10, 5:35 AM ET) and is Indianapolis Colts −2.5 now (Nov 10, 10:17 AM ET), a 0-point move. Total opened 40.5 (Nov 10, 9:00 AM ET) and is 40.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Consensus spread opened Indianapolis Colts −2.5 (Nov 10, 5:35 AM ET) and is −4.5 now, a 2-point move. The side pick quotes the consensus spread now (Indianapolis Colts −4.5). Consensus total opened 40.5 (Nov 10, 9:00 AM ET) and is 37.5 now, a 3-point move: Under. The total pick quotes the consensus total now (37.5). Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -1819,7 +1819,7 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 10, 10:17 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 10, 10:17 AM ET.",
+    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 15, 6:14 AM ET; Follow The Money uses the Action Network consensus line history.",
     "The Formula ratings: nflverse play-by-play as of Nov 10, 10:17 AM ET, Weeks 1–9 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–9 finals.",
     "Injuries: NFL.com official Week 10 injury report, fetched Nov 11, 3:59 PM ET (not yet posted for this game); Next Man Up uses the starter named by the team (see Next Man Up).",
@@ -1835,81 +1835,81 @@
     "label": "",
     "source": "Cover Writer",
     "projected_total": 44,
-    "market_total": 40.5,
+    "market_total": 37.5,
     "pick": "Over",
-    "text": "Over 40.5"
+    "text": "Over 37.5"
    },
    "display": {
     "writer": {
      "score_line": "Projected: Indianapolis Colts 24, Miami Dolphins 20 (Total 44)",
-     "side": "Indianapolis Colts −2.5",
-     "ou": "Over 40.5",
+     "side": "Miami Dolphins +4.5",
+     "ou": "Over 37.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Miami Dolphins +2.5",
-      "ou_line": "O/U: Over 40.5 · Likes this total",
+      "side_line": "Side: Miami Dolphins +4.5 · Likes this side",
+      "ou_line": "O/U: Over 37.5 · Likes this total",
       "score_line": "Projected: Indianapolis Colts 23, Miami Dolphins 22 (Total 45)",
       "basis_line": "Net ratings Indianapolis Colts −8.9, Miami Dolphins −8.5 (nflverse play-by-play, Nov 10, 2026)",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 4.5
+      "distance_from_spread": 3.5,
+      "distance_from_total": 7.5
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Indianapolis Colts −2.5 · Likes this side",
-      "ou_line": "O/U: Over 40.5 · Likes this total",
+      "side_line": "Side: Indianapolis Colts −4.5",
+      "ou_line": "O/U: Over 37.5 · Likes this total",
       "score_line": "Projected: Indianapolis Colts 25, Miami Dolphins 19 (Total 44)",
       "basis_line": "Projected points: Indianapolis Colts 24.6, Miami Dolphins 19.5. Availability: expected starting quarterbacks Daniel Jones (IND) and Kyle McCord (MIA). NFL.com official Week 10 injury report (fetched Nov 11, 3:59 PM ET): not yet posted for this game, so it lists no quarterback. Malik Willis was placed on injured reserve (core muscle) on Nov 10, so Kyle McCord is the expected Dolphins starter (coach Jeff Hafley, Nov 11, UPI; NFL.com, Nov 10); Kyle McCord is not MIA’s main starter this season (Malik Willis).",
       "independent": true,
-      "distance_from_spread": 3.5,
-      "distance_from_total": 3.5
+      "distance_from_spread": 1.5,
+      "distance_from_total": 6.5
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Indianapolis Colts −2.5",
-      "ou_line": "O/U: Over 40.5 · Likes this total",
+      "side_line": "Side: Miami Dolphins +4.5",
+      "ou_line": "O/U: Over 37.5 · Likes this total",
       "score_line": "Projected: Indianapolis Colts 23, Miami Dolphins 20 (Total 43)",
       "basis_line": "Rest and travel: Miami Dolphins: 7 days since its last game, travels 1013 miles; Indianapolis Colts: 7 days since its last game, plays at home. Projected: Colts by 2.8, total 43.1.",
       "independent": true,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 2.5
+      "distance_from_spread": 1.5,
+      "distance_from_total": 5.5
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (not enough line movement)",
-      "ou_line": "O/U: no pick (not enough total movement)",
+      "side_line": "Side: Indianapolis Colts −4.5 · Likes this side",
+      "ou_line": "O/U: Under 37.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Indianapolis Colts −2.5 (Nov 10, 5:35 AM ET) and is Indianapolis Colts −2.5 now (Nov 10, 10:17 AM ET), a 0-point move. Total opened 40.5 (Nov 10, 9:00 AM ET) and is 40.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Indianapolis Colts −2.5 (Nov 10, 5:35 AM ET) and is −4.5 now, a 2-point move. The side pick quotes the consensus spread now (Indianapolis Colts −4.5). Consensus total opened 40.5 (Nov 10, 9:00 AM ET) and is 37.5 now, a 3-point move: Under. The total pick quotes the consensus total now (37.5). Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 0.5
+      "distance_from_spread": 2.0,
+      "distance_from_total": 3.0
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Indianapolis Colts −2.5",
-      "ou_line": "O/U: Over 40.5 · Likes this total",
+      "side_line": "Side: Miami Dolphins +4.5",
+      "ou_line": "O/U: Over 37.5 · Likes this total",
       "score_line": "Projected: Indianapolis Colts 24, Miami Dolphins 20 (Total 44)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 9). Projected points: Indianapolis Colts 24, Miami Dolphins 20.3.",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 3.5
+      "distance_from_spread": 0.5,
+      "distance_from_total": 6.5
      }
     ],
     "best_bets": [],
-    "story_text": "Indiana's favorite underdog movie turns forty, and Hoosiers gets a Sunday screening with a Q and A at the Palladium in Carmel while the Colts are playing. My Dolphins vs Colts prediction doesn't need a miracle: the pick is Colts 24, Dolphins 20, which hands Indianapolis −2.5 my spread vote and sends the over/under to the Over at 40.5.\n\nTwo bad teams, and I'm not dressing it up. Miami is 1-7 and winless at home, with 126 points scored and 200 allowed. Indianapolis is 2-7 and has lost five straight, with 184 scored and 249 allowed. The question isn't who's good. It's who's less broken in this building on this afternoon.\n\nThe Formula: Net ratings Indianapolis Colts −8.9, Miami Dolphins −8.5 (nflverse play-by-play, Nov 10, 2026).\n\nThe Colts have the stronger offense and home field, and that's enough. They're 1-3 at home, not great, but Miami is 1-3 on the road, and its last game was a 19-9 loss in which it never reached the end zone against Detroit. The Colts have also won three straight in the series. A four-point Colts win lands a point and a half past the 2.5, and that's the score I'm defending.\n\nThe risk is Daniel Jones. He's thrown ten interceptions against six touchdowns and has been picked off in eight of nine games, including four straight. That's why this isn't a bigger number, and it's why Miami can hang around. Kyle McCord makes his first NFL start now that Malik Willis is on injured reserve, and Miami needs its run game to keep him in manageable downs.\n\nThe Over is about the run defenses. Miami runs for 4.5 yards a carry, and Indianapolis allows 5.3, the worst number on either side of this matchup. The Colts run for 4.2 against a Dolphins defense that allows 4.2. Indianapolis has allowed 249 points in nine games, and Jones's turnovers hand out short fields. Colts 24, Dolphins 20 adds up to 44, three and a half clear of 40.5.\n\nThree cards lay the 2.5 with Indianapolis: Next Man Up has Colts 25, Dolphins 19, In The Trenches has Colts 24, Dolphins 20, and Letdown Watch has Colts 23, Dolphins 20. The Formula is the lone card on Miami with the points, at Colts 23, Dolphins 22. All four cards with a score are Over. Follow The Money has no pick.\n\nLou Ferraro will skip the movie for the game and say he planned it that way. Carla Ruiz will watch Hoosiers on the flight home and admit the ending works. Sunday's ending is smaller: the home team by four, with plenty of points.\n\nColts 24, Dolphins 20. Colts cover the 2.5. Over 40.5.",
+    "story_text": "Indiana's favorite underdog movie turns forty, and Hoosiers gets a Sunday screening with a Q and A at the Palladium in Carmel while the Colts are playing. My Dolphins vs Colts prediction doesn't need a miracle: the pick is Colts 24, Dolphins 20, which takes Miami +4.5 for my spread vote after the line moved from Colts −2.5, and sends the over/under to the Over at 37.5.\n\nTwo bad teams, and I'm not dressing it up. Miami is 1-7 and winless at home, with 126 points scored and 200 allowed. Indianapolis is 2-7 and has lost five straight, with 184 scored and 249 allowed. The question isn't who's good. It's who's less broken in this building on this afternoon.\n\nThe Formula: Net ratings Indianapolis Colts −8.9, Miami Dolphins −8.5 (nflverse play-by-play, Nov 10, 2026).\n\nThe Colts have the stronger offense and home field, and that's enough. They're 1-3 at home, not great, but Miami is 1-3 on the road, and its last game was a 19-9 loss in which it never reached the end zone against Detroit. The Colts have also won three straight in the series. A four-point Colts win falls a half-point short of the 4.5, which is why I'm taking Miami with the points, and that's the score I'm defending.\n\nThe risk is Daniel Jones. He's thrown ten interceptions against six touchdowns and has been picked off in eight of nine games, including four straight. That's why this isn't a bigger number, and it's why Miami can hang around. Kyle McCord makes his first NFL start now that Malik Willis is on injured reserve, and Miami needs its run game to keep him in manageable downs.\n\nThe Over is about the run defenses. Miami runs for 4.5 yards a carry, and Indianapolis allows 5.3, the worst number on either side of this matchup. The Colts run for 4.2 against a Dolphins defense that allows 4.2. Indianapolis has allowed 249 points in nine games, and Jones's turnovers hand out short fields. Colts 24, Dolphins 20 adds up to 44, six and a half clear of 37.5.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Colts −4.5, total 37.5. This preview was written against Colts −2.5, total 40.5, so the spread moved from Colts −2.5 to Colts −4.5 and the total dropped from 40.5 to 37.5. The Cover Writer now takes Dolphins +4.5 instead of Colts −2.5, with the same final, Colts 24, Dolphins 20. Colts by 4 was more than the old 2.5 and falls short of today's 4.5. The Over holds, now 37.5, with 44 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Colts −2.5 and is Colts −4.5 now, and the consensus total opened 40.5 and is 37.5 now, so it moves to Colts −4.5 and moves to the Under 37.5. The Formula: Colts 23, Dolphins 22 on net ratings. It stays on Dolphins +4.5 (Colts by 1 stays inside the 4.5) and stays on the Over, now 37.5 (45 points). Next Man Up: Colts 25, Dolphins 19 on who's playing. It stays on Colts −4.5 (Colts by 6 clears the 4.5) and stays on the Over, now 37.5 (44 points). Letdown Watch: Colts 23, Dolphins 20 on rest and travel. It moves from Colts −2.5 to Dolphins +4.5 (Colts by 3 stays inside the 4.5) and stays on the Over, now 37.5 (43 points). In The Trenches: Colts 24, Dolphins 20 on the line of scrimmage. It moves from Colts −2.5 to Dolphins +4.5 (Colts by 4 stays inside the 4.5) and stays on the Over, now 37.5 (44 points).\n\nLou Ferraro will skip the movie for the game and say he planned it that way. Carla Ruiz will watch Hoosiers on the flight home and admit the ending works. Sunday's ending is smaller: the home team by four, with plenty of points.\n\nColts 24, Dolphins 20. Dolphins cover the 4.5. Over 37.5.",
     "fanatic_score_line": "Projected: Indianapolis Colts 24, Miami Dolphins 20",
     "market": {
-     "score_line": "Market: Indianapolis Colts 22, Miami Dolphins 19 (Total 41)",
-     "spread": "Indianapolis Colts −2.5",
-     "total": "40.5",
-     "source": "Consensus line as of Nov 10, 10:17 AM ET",
+     "score_line": "Market: Indianapolis Colts 21, Miami Dolphins 17 (Total 38)",
+     "spread": "Indianapolis Colts −4.5",
+     "total": "37.5",
+     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     }
    },
-   "gambler_story": "Indiana's favorite underdog movie turns forty, and Hoosiers gets a Sunday screening with a Q and A at the Palladium in Carmel while the Colts are playing. My Dolphins vs Colts prediction doesn't need a miracle: the pick is Colts 24, Dolphins 20, which hands Indianapolis −2.5 my spread vote and sends the over/under to the Over at 40.5.\n\nTwo bad teams, and I'm not dressing it up. Miami is 1-7 and winless at home, with 126 points scored and 200 allowed. Indianapolis is 2-7 and has lost five straight, with 184 scored and 249 allowed. The question isn't who's good. It's who's less broken in this building on this afternoon.\n\nThe Formula: Net ratings Indianapolis Colts −8.9, Miami Dolphins −8.5 (nflverse play-by-play, Nov 10, 2026).\n\nThe Colts have the stronger offense and home field, and that's enough. They're 1-3 at home, not great, but Miami is 1-3 on the road, and its last game was a 19-9 loss in which it never reached the end zone against Detroit. The Colts have also won three straight in the series. A four-point Colts win lands a point and a half past the 2.5, and that's the score I'm defending.\n\nThe risk is Daniel Jones. He's thrown ten interceptions against six touchdowns and has been picked off in eight of nine games, including four straight. That's why this isn't a bigger number, and it's why Miami can hang around. Kyle McCord makes his first NFL start now that Malik Willis is on injured reserve, and Miami needs its run game to keep him in manageable downs.\n\nThe Over is about the run defenses. Miami runs for 4.5 yards a carry, and Indianapolis allows 5.3, the worst number on either side of this matchup. The Colts run for 4.2 against a Dolphins defense that allows 4.2. Indianapolis has allowed 249 points in nine games, and Jones's turnovers hand out short fields. Colts 24, Dolphins 20 adds up to 44, three and a half clear of 40.5.\n\nThree cards lay the 2.5 with Indianapolis: Next Man Up has Colts 25, Dolphins 19, In The Trenches has Colts 24, Dolphins 20, and Letdown Watch has Colts 23, Dolphins 20. The Formula is the lone card on Miami with the points, at Colts 23, Dolphins 22. All four cards with a score are Over. Follow The Money has no pick.\n\nLou Ferraro will skip the movie for the game and say he planned it that way. Carla Ruiz will watch Hoosiers on the flight home and admit the ending works. Sunday's ending is smaller: the home team by four, with plenty of points.\n\nColts 24, Dolphins 20. Colts cover the 2.5. Over 40.5.",
+   "gambler_story": "Indiana's favorite underdog movie turns forty, and Hoosiers gets a Sunday screening with a Q and A at the Palladium in Carmel while the Colts are playing. My Dolphins vs Colts prediction doesn't need a miracle: the pick is Colts 24, Dolphins 20, which takes Miami +4.5 for my spread vote after the line moved from Colts −2.5, and sends the over/under to the Over at 37.5.\n\nTwo bad teams, and I'm not dressing it up. Miami is 1-7 and winless at home, with 126 points scored and 200 allowed. Indianapolis is 2-7 and has lost five straight, with 184 scored and 249 allowed. The question isn't who's good. It's who's less broken in this building on this afternoon.\n\nThe Formula: Net ratings Indianapolis Colts −8.9, Miami Dolphins −8.5 (nflverse play-by-play, Nov 10, 2026).\n\nThe Colts have the stronger offense and home field, and that's enough. They're 1-3 at home, not great, but Miami is 1-3 on the road, and its last game was a 19-9 loss in which it never reached the end zone against Detroit. The Colts have also won three straight in the series. A four-point Colts win falls a half-point short of the 4.5, which is why I'm taking Miami with the points, and that's the score I'm defending.\n\nThe risk is Daniel Jones. He's thrown ten interceptions against six touchdowns and has been picked off in eight of nine games, including four straight. That's why this isn't a bigger number, and it's why Miami can hang around. Kyle McCord makes his first NFL start now that Malik Willis is on injured reserve, and Miami needs its run game to keep him in manageable downs.\n\nThe Over is about the run defenses. Miami runs for 4.5 yards a carry, and Indianapolis allows 5.3, the worst number on either side of this matchup. The Colts run for 4.2 against a Dolphins defense that allows 4.2. Indianapolis has allowed 249 points in nine games, and Jones's turnovers hand out short fields. Colts 24, Dolphins 20 adds up to 44, six and a half clear of 37.5.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Colts −4.5, total 37.5. This preview was written against Colts −2.5, total 40.5, so the spread moved from Colts −2.5 to Colts −4.5 and the total dropped from 40.5 to 37.5. The Cover Writer now takes Dolphins +4.5 instead of Colts −2.5, with the same final, Colts 24, Dolphins 20. Colts by 4 was more than the old 2.5 and falls short of today's 4.5. The Over holds, now 37.5, with 44 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Colts −2.5 and is Colts −4.5 now, and the consensus total opened 40.5 and is 37.5 now, so it moves to Colts −4.5 and moves to the Under 37.5. The Formula: Colts 23, Dolphins 22 on net ratings. It stays on Dolphins +4.5 (Colts by 1 stays inside the 4.5) and stays on the Over, now 37.5 (45 points). Next Man Up: Colts 25, Dolphins 19 on who's playing. It stays on Colts −4.5 (Colts by 6 clears the 4.5) and stays on the Over, now 37.5 (44 points). Letdown Watch: Colts 23, Dolphins 20 on rest and travel. It moves from Colts −2.5 to Dolphins +4.5 (Colts by 3 stays inside the 4.5) and stays on the Over, now 37.5 (43 points). In The Trenches: Colts 24, Dolphins 20 on the line of scrimmage. It moves from Colts −2.5 to Dolphins +4.5 (Colts by 4 stays inside the 4.5) and stays on the Over, now 37.5 (44 points).\n\nLou Ferraro will skip the movie for the game and say he planned it that way. Carla Ruiz will watch Hoosiers on the flight home and admit the ending works. Sunday's ending is smaller: the home team by four, with plenty of points.\n\nColts 24, Dolphins 20. Dolphins cover the 4.5. Over 37.5.",
    "fanatic_story": "Hoosiers turns forty this fall, and on Sunday afternoon the Payne and Mencias Palladium is screening it with a question-and-answer session at three o'clock, right in the middle of Miami Dolphins vs Indianapolis Colts in Week 10. Lou Ferraro has the movie ticket in one pocket and his Colts season ticket in the other, and he has spent the whole week pretending that's a hard choice.\n\nIt isn't. It never was. But Lou likes the drama of it, and he likes telling Carla Ruiz, who flew up from Miami and has never seen the movie, that the greatest long-shot story ever filmed is pure Indiana.\n\nCarla: It's a basketball movie, Lou.\n\nLou: It's an Indiana movie. Small school, nobody gives them a chance, they win anyway. Sound familiar?\n\nCarla: Your team has lost five straight.\n\nLou: So did Hickory, probably, at some point. Doesn't matter. Watch the ending.\n\nLou guards a Colts story that runs from Baltimore to Indianapolis, two Super Bowls and all, and he tells it at the speed of a man who knows he has a captive audience. Carla talks Miami like someone who has sat in the room where the decisions get made, and she reminds Lou during every history lesson that her team owns the only perfect season in the league.\n\nHere's the uncomfortable truth they share: these are two of the worst teams in the league, and both of them know it. Miami is 1-7, winless at home, with its only win on the road against the Jets. The Dolphins lost 19-9 to Detroit last week. Indianapolis is 2-7 after starting 2-2, and Lou has spent five straight Sundays explaining to his neighbors that it's a process.\n\nCarla: You've allowed 249 points. That's not a process, that's a leak.\n\nLou: You've scored 126. A leak needs water, Carla.\n\nThat one gets a laugh out of both of them, because it's true on both sides.\n\nLou's real problem is his quarterback. Daniel Jones has thrown an interception in eight of the Colts' nine games, including four straight, and he has ten of them against only six touchdown throws. Lou defends Jones the way you defend a cousin at a wedding: loudly and without much evidence. Carla would bring up Malik Willis, but Miami put him on injured reserve Tuesday, so Kyle McCord gets his first NFL start, and Carla is calling that a fresh look the Colts haven't seen.\n\nThe ground game is where Carla gets excited. Miami runs for 4.5 yards a carry, and Indianapolis gives up 5.3, the softest number in the whole matchup. The Colts run for 4.2 against a Dolphins defense that allows 4.2, which Lou calls even and Carla calls boring.\n\nCarla: We run it down your throat for three hours and you're home in time to see the end of your movie.\n\nLou: The Colts beat you three straight times, including by twenty-five last year. Look it up.\n\nShe already had. Indianapolis has won the last three meetings, and Lou has those scores in his head the way other men remember birthdays.\n\nStill, neither of them is pretending this is a heavyweight fight. The Colts have lost Alec Pierce to injured reserve. The Dolphins have scored only 126 points in eight games. Somebody is going to win this game ugly, and the other fan is going to fly or drive home very quiet.\n\nLou will be in his seat at one o'clock, and if the Colts are ahead by enough at halftime, he'll tell Carla he's thinking about the three o'clock screening. He won't go. He'll text a friend in Carmel to ask how the Q and A went and pretend that was the plan all along.\n\nCarla says she'll watch Hoosiers on the flight home. Lou says that's the first smart thing anybody from Miami has done all season, and Carla lets it go, because for once he might be right.\n\nMy call: Colts 24, Dolphins 20.",
    "fanatic_final_sentence": "Colts 24, Dolphins 20.",
    "preview_sources": [],
@@ -2312,13 +2312,13 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-10T15:17:37Z",
+    "fetched_at_utc": "2026-11-15T11:14:42Z",
     "action_network_game_id": 290975,
-    "home_line": 8,
-    "total": 50.5,
-    "open_home_line": 7,
-    "open_total": 46.5,
-    "spread_display": "New York Jets +8",
+    "home_line": 7.5,
+    "total": 51,
+    "open_home_line": 7.5,
+    "open_total": 50.5,
+    "spread_display": "New York Jets +7.5",
     "open_timestamp": ""
    },
    "injuries": {
@@ -2328,24 +2328,24 @@
     "home": null
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261115",
-   "spread": "New York Jets +8",
-   "story_text": "Bills 28, Jets 21. Jets cover the 8. Under 50.5. The Formula projects Buffalo by 4.4 against a 8-point line.",
+   "spread": "New York Jets +8.5",
+   "story_text": "Bills 28, Jets 21. Jets cover the 8.5. Under 51.5. The Formula projects Buffalo by 4.4 against an 8.5-point line.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "line_used": {
-    "home_line": 8,
-    "total": 50.5,
-    "source": "Consensus line as of Nov 10, 10:17 AM ET",
-    "as_of_utc": "2026-11-10T15:17:37Z"
+    "home_line": 8.5,
+    "total": 51.5,
+    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
+    "as_of_utc": "2026-11-15T11:14:41Z"
    },
-   "total_line": 50.5,
+   "total_line": 51.5,
    "prediction": {
     "away_score": 28,
     "home_score": 21,
     "winner": "Buffalo Bills",
-    "covers": "New York Jets +8"
+    "covers": "New York Jets +8.5"
    },
    "handicappers": [
     {
@@ -2368,7 +2368,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Buffalo Bills −7.5 (Nov 10, 1:02 AM ET) and is Buffalo Bills −8 now (Nov 10, 10:17 AM ET), a 0.5-point move. Total opened 50.5 (Nov 10, 1:02 AM ET) and is 50.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Consensus spread opened New York Jets +7.5 (Nov 10, 1:02 AM ET) and is +7.5 now. Follow The Money has no side pick. Consensus total opened 50.5 (Nov 10, 1:02 AM ET) and is 51 now, a 0.5-point move. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -2385,7 +2385,7 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 10, 10:17 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 10, 10:17 AM ET.",
+    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 15, 6:14 AM ET; Follow The Money uses the Action Network consensus line history.",
     "The Formula ratings: nflverse play-by-play as of Nov 10, 10:17 AM ET, Weeks 1–9 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–9 finals.",
     "Injuries: NFL.com official Week 10 injury report, fetched Nov 11, 3:59 PM ET (not yet posted for this game); Next Man Up uses each team’s last starter.",
@@ -2401,81 +2401,81 @@
     "label": "",
     "source": "Cover Writer",
     "projected_total": 49,
-    "market_total": 50.5,
+    "market_total": 51.5,
     "pick": "Under",
-    "text": "Under 50.5"
+    "text": "Under 51.5"
    },
    "display": {
     "writer": {
      "score_line": "Projected: New York Jets 21, Buffalo Bills 28 (Total 49)",
-     "side": "New York Jets +8",
-     "ou": "Under 50.5",
+     "side": "New York Jets +8.5",
+     "ou": "Under 51.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: New York Jets +8 · Likes this side",
-      "ou_line": "O/U: Under 50.5",
+      "side_line": "Side: New York Jets +8.5 · Likes this side",
+      "ou_line": "O/U: Under 51.5",
       "score_line": "Projected: New York Jets 23, Buffalo Bills 27 (Total 50)",
       "basis_line": "Net ratings New York Jets −3.1, Buffalo Bills 3.1 (nflverse play-by-play, Nov 10, 2026)",
       "independent": true,
-      "distance_from_spread": 4.0,
-      "distance_from_total": 0.5
-     },
-     {
-      "name": "Next Man Up",
-      "side_line": "Side: New York Jets +8",
-      "ou_line": "O/U: Under 50.5",
-      "score_line": "Projected: New York Jets 21, Buffalo Bills 28 (Total 49)",
-      "basis_line": "Projected points: New York Jets 21.3, Buffalo Bills 28.6. Availability: expected starting quarterbacks Geno Smith (NYJ) and Josh Allen (BUF). NFL.com official Week 10 injury report (fetched Nov 11, 3:59 PM ET): not yet posted for this game, so it lists no quarterback.",
-      "independent": true,
-      "distance_from_spread": 1.0,
+      "distance_from_spread": 4.5,
       "distance_from_total": 1.5
      },
      {
+      "name": "Next Man Up",
+      "side_line": "Side: New York Jets +8.5",
+      "ou_line": "O/U: Under 51.5",
+      "score_line": "Projected: New York Jets 21, Buffalo Bills 28 (Total 49)",
+      "basis_line": "Projected points: New York Jets 21.3, Buffalo Bills 28.6. Availability: expected starting quarterbacks Geno Smith (NYJ) and Josh Allen (BUF). NFL.com official Week 10 injury report (fetched Nov 11, 3:59 PM ET): not yet posted for this game, so it lists no quarterback.",
+      "independent": true,
+      "distance_from_spread": 1.5,
+      "distance_from_total": 2.5
+     },
+     {
       "name": "Letdown Watch",
-      "side_line": "Side: Buffalo Bills −8 · Likes this side",
-      "ou_line": "O/U: Under 50.5",
+      "side_line": "Side: Buffalo Bills −8.5 · Likes this side",
+      "ou_line": "O/U: Under 51.5 · Likes this total",
       "score_line": "Projected: New York Jets 18, Buffalo Bills 30 (Total 48)",
       "basis_line": "Rest and travel: Buffalo Bills: 6 days since its last game, travels 278 miles, last game was also away from home; New York Jets: 7 days since its last game, plays at home. Projected: Bills by 12.8, total 48.2.",
       "independent": true,
-      "distance_from_spread": 4.0,
-      "distance_from_total": 2.5
+      "distance_from_spread": 3.5,
+      "distance_from_total": 3.5
      },
      {
       "name": "Follow The Money",
       "side_line": "Side: no pick (not enough line movement)",
       "ou_line": "O/U: no pick (not enough total movement)",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Buffalo Bills −7.5 (Nov 10, 1:02 AM ET) and is Buffalo Bills −8 now (Nov 10, 10:17 AM ET), a 0.5-point move. Total opened 50.5 (Nov 10, 1:02 AM ET) and is 50.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened New York Jets +7.5 (Nov 10, 1:02 AM ET) and is +7.5 now. Follow The Money has no side pick. Consensus total opened 50.5 (Nov 10, 1:02 AM ET) and is 51 now, a 0.5-point move. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.0,
       "distance_from_total": 0.5
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: New York Jets +8",
-      "ou_line": "O/U: Under 50.5",
+      "side_line": "Side: New York Jets +8.5",
+      "ou_line": "O/U: Under 51.5 · Likes this total",
       "score_line": "Projected: New York Jets 21, Buffalo Bills 28 (Total 49)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 9). Projected points: New York Jets 21.1, Buffalo Bills 27.7.",
       "independent": true,
-      "distance_from_spread": 1.0,
-      "distance_from_total": 1.5
+      "distance_from_spread": 1.5,
+      "distance_from_total": 2.5
      }
     ],
     "best_bets": [],
-    "story_text": "Lot J at MetLife Stadium turns into the New Meadowlands Market every Saturday morning, and I'm shopping this Bills vs Jets spread the same way I'd shop those tables. My Week 10 pick is the New York Jets +8, with the Under 50.5 on the total. The sticker says Buffalo by more than a touchdown, and I'm not paying it.\n\nBuffalo is −8 in Tuesday morning's Action Network consensus, with the total at 50.5. The Bills are 7-1 and 4-0 on the road, with 256 points scored and 187 allowed. The Jets have scored 182 and allowed 223, and they're 1-3 at home. Nobody's arguing about which team is better.\n\nThe Formula: Net ratings New York Jets −3.1, Buffalo Bills 3.1 (nflverse play-by-play, Nov 10, 2026).\n\nBuffalo is better, but not eight points better on the road. The schedule isn't doing Buffalo any favors either. The Bills won 23-6 in Minnesota on Monday night, so they get six days before another road kickoff at 1 p.m. Sunday. That's a second straight trip on a short week, against a division opponent that sees them twice a year.\n\nJosh Allen is still the best player on the field, and James Cook gives Buffalo a run game that gains 4.8 yards a carry. The Jets allow 4.3, which isn't a wall but isn't a welcome mat either. Geno Smith has Garrett Wilson and Breece Hall, and that's enough to grab a late touchdown if Buffalo gets comfortable.\n\nThe total is where the cards agree completely. All four that post a score are on the Under. The side is three to one for New York. The Formula has Bills 27, Jets 23. Next Man Up and In The Trenches both land on Bills 28, Jets 21. Letdown Watch goes the other way at Bills 30, Jets 18, the one card willing to lay the eight. Follow The Money stays quiet on both.\n\nMy card says Buffalo Bills 28, New York Jets 21. That's a seven-point Bills win, inside the eight, and 49 points, a point and a half short of 50.5. A Buffalo defense that just held Minnesota to six shouldn't let this turn into a track meet, and a Bills team on six days of rest has no reason to be in a hurry once it's ahead.\n\nAllen and Geno Smith both started last week. No official Week 10 injury report was up when I checked Tuesday, so nothing in this call depends on a status I haven't seen.\n\nI'm not calling an upset. I'm calling a Buffalo win that doesn't match the sticker.\n\nBills 28, Jets 21. Jets cover the 8. Under 50.5.",
+    "story_text": "Lot J at MetLife Stadium turns into the New Meadowlands Market every Saturday morning, and I'm shopping this Bills vs Jets spread the same way I'd shop those tables. My Week 10 pick is the New York Jets +8.5, with the Under 51.5 on the total. The sticker says Buffalo by more than a touchdown, and I'm not paying it.\n\nBuffalo is −8.5 at DraftKings as of Nov 15, 6:14 AM ET, with the total at 51.5; Tuesday morning's Action Network consensus had −8 and 50.5. The Bills are 7-1 and 4-0 on the road, with 256 points scored and 187 allowed. The Jets have scored 182 and allowed 223, and they're 1-3 at home. Nobody's arguing about which team is better.\n\nThe Formula: Net ratings New York Jets −3.1, Buffalo Bills 3.1 (nflverse play-by-play, Nov 10, 2026).\n\nBuffalo is better, but not eight points better on the road. The schedule isn't doing Buffalo any favors either. The Bills won 23-6 in Minnesota on Monday night, so they get six days before another road kickoff at 1 p.m. Sunday. That's a second straight trip on a short week, against a division opponent that sees them twice a year.\n\nJosh Allen is still the best player on the field, and James Cook gives Buffalo a run game that gains 4.8 yards a carry. The Jets allow 4.3, which isn't a wall but isn't a welcome mat either. Geno Smith has Garrett Wilson and Breece Hall, and that's enough to grab a late touchdown if Buffalo gets comfortable.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Bills −8.5, total 51.5. This preview was written against Bills −8, total 50.5, so the spread moved from Bills −8 to Bills −8.5 and the total rose from 50.5 to 51.5. The Cover Writer stays on Jets +8.5 with Bills 28, Jets 21, because Bills by 7 stays inside the 8.5. The Under holds, now 51.5, with 49 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread has not moved from Bills −7.5, and the consensus total opened 50.5 and is 51 now, so it has no side pick (no move of a full point) and has no total pick (no move of a full point). The Formula: Bills 27, Jets 23 on net ratings. It stays on Jets +8.5 (Bills by 4 stays inside the 8.5) and stays on the Under, now 51.5 (50 points). Next Man Up: Bills 28, Jets 21 on who's playing. It stays on Jets +8.5 (Bills by 7 stays inside the 8.5) and stays on the Under, now 51.5 (49 points). Letdown Watch: Bills 30, Jets 18 on rest and travel. It stays on Bills −8.5 (Bills by 12 clears the 8.5) and stays on the Under, now 51.5 (48 points). In The Trenches: Bills 28, Jets 21 on the line of scrimmage. It stays on Jets +8.5 (Bills by 7 stays inside the 8.5) and stays on the Under, now 51.5 (49 points).\n\nMy card says Buffalo Bills 28, New York Jets 21. That's a seven-point Bills win, inside the 8.5, and 49 points, two and a half short of 51.5. A Buffalo defense that just held Minnesota to six shouldn't let this turn into a track meet, and a Bills team on six days of rest has no reason to be in a hurry once it's ahead.\n\nAllen and Geno Smith both started last week. No official Week 10 injury report was up when I checked Tuesday, so nothing in this call depends on a status I haven't seen.\n\nI'm not calling an upset. I'm calling a Buffalo win that doesn't match the sticker.\n\nBills 28, Jets 21. Jets cover the 8.5. Under 51.5.",
     "fanatic_score_line": "Projected: New York Jets 21, Buffalo Bills 28",
     "market": {
-     "score_line": "Market: New York Jets 21, Buffalo Bills 29 (Total 50)",
-     "spread": "Buffalo Bills −8",
-     "total": "50.5",
-     "source": "Consensus line as of Nov 10, 10:17 AM ET",
+     "score_line": "Market: New York Jets 22, Buffalo Bills 30 (Total 52)",
+     "spread": "Buffalo Bills −8.5",
+     "total": "51.5",
+     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     }
    },
-   "gambler_story": "Lot J at MetLife Stadium turns into the New Meadowlands Market every Saturday morning, and I'm shopping this Bills vs Jets spread the same way I'd shop those tables. My Week 10 pick is the New York Jets +8, with the Under 50.5 on the total. The sticker says Buffalo by more than a touchdown, and I'm not paying it.\n\nBuffalo is −8 in Tuesday morning's Action Network consensus, with the total at 50.5. The Bills are 7-1 and 4-0 on the road, with 256 points scored and 187 allowed. The Jets have scored 182 and allowed 223, and they're 1-3 at home. Nobody's arguing about which team is better.\n\nThe Formula: Net ratings New York Jets −3.1, Buffalo Bills 3.1 (nflverse play-by-play, Nov 10, 2026).\n\nBuffalo is better, but not eight points better on the road. The schedule isn't doing Buffalo any favors either. The Bills won 23-6 in Minnesota on Monday night, so they get six days before another road kickoff at 1 p.m. Sunday. That's a second straight trip on a short week, against a division opponent that sees them twice a year.\n\nJosh Allen is still the best player on the field, and James Cook gives Buffalo a run game that gains 4.8 yards a carry. The Jets allow 4.3, which isn't a wall but isn't a welcome mat either. Geno Smith has Garrett Wilson and Breece Hall, and that's enough to grab a late touchdown if Buffalo gets comfortable.\n\nThe total is where the cards agree completely. All four that post a score are on the Under. The side is three to one for New York. The Formula has Bills 27, Jets 23. Next Man Up and In The Trenches both land on Bills 28, Jets 21. Letdown Watch goes the other way at Bills 30, Jets 18, the one card willing to lay the eight. Follow The Money stays quiet on both.\n\nMy card says Buffalo Bills 28, New York Jets 21. That's a seven-point Bills win, inside the eight, and 49 points, a point and a half short of 50.5. A Buffalo defense that just held Minnesota to six shouldn't let this turn into a track meet, and a Bills team on six days of rest has no reason to be in a hurry once it's ahead.\n\nAllen and Geno Smith both started last week. No official Week 10 injury report was up when I checked Tuesday, so nothing in this call depends on a status I haven't seen.\n\nI'm not calling an upset. I'm calling a Buffalo win that doesn't match the sticker.\n\nBills 28, Jets 21. Jets cover the 8. Under 50.5.",
+   "gambler_story": "Lot J at MetLife Stadium turns into the New Meadowlands Market every Saturday morning, and I'm shopping this Bills vs Jets spread the same way I'd shop those tables. My Week 10 pick is the New York Jets +8.5, with the Under 51.5 on the total. The sticker says Buffalo by more than a touchdown, and I'm not paying it.\n\nBuffalo is −8.5 at DraftKings as of Nov 15, 6:14 AM ET, with the total at 51.5; Tuesday morning's Action Network consensus had −8 and 50.5. The Bills are 7-1 and 4-0 on the road, with 256 points scored and 187 allowed. The Jets have scored 182 and allowed 223, and they're 1-3 at home. Nobody's arguing about which team is better.\n\nThe Formula: Net ratings New York Jets −3.1, Buffalo Bills 3.1 (nflverse play-by-play, Nov 10, 2026).\n\nBuffalo is better, but not eight points better on the road. The schedule isn't doing Buffalo any favors either. The Bills won 23-6 in Minnesota on Monday night, so they get six days before another road kickoff at 1 p.m. Sunday. That's a second straight trip on a short week, against a division opponent that sees them twice a year.\n\nJosh Allen is still the best player on the field, and James Cook gives Buffalo a run game that gains 4.8 yards a carry. The Jets allow 4.3, which isn't a wall but isn't a welcome mat either. Geno Smith has Garrett Wilson and Breece Hall, and that's enough to grab a late touchdown if Buffalo gets comfortable.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Bills −8.5, total 51.5. This preview was written against Bills −8, total 50.5, so the spread moved from Bills −8 to Bills −8.5 and the total rose from 50.5 to 51.5. The Cover Writer stays on Jets +8.5 with Bills 28, Jets 21, because Bills by 7 stays inside the 8.5. The Under holds, now 51.5, with 49 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread has not moved from Bills −7.5, and the consensus total opened 50.5 and is 51 now, so it has no side pick (no move of a full point) and has no total pick (no move of a full point). The Formula: Bills 27, Jets 23 on net ratings. It stays on Jets +8.5 (Bills by 4 stays inside the 8.5) and stays on the Under, now 51.5 (50 points). Next Man Up: Bills 28, Jets 21 on who's playing. It stays on Jets +8.5 (Bills by 7 stays inside the 8.5) and stays on the Under, now 51.5 (49 points). Letdown Watch: Bills 30, Jets 18 on rest and travel. It stays on Bills −8.5 (Bills by 12 clears the 8.5) and stays on the Under, now 51.5 (48 points). In The Trenches: Bills 28, Jets 21 on the line of scrimmage. It stays on Jets +8.5 (Bills by 7 stays inside the 8.5) and stays on the Under, now 51.5 (49 points).\n\nMy card says Buffalo Bills 28, New York Jets 21. That's a seven-point Bills win, inside the 8.5, and 49 points, two and a half short of 51.5. A Buffalo defense that just held Minnesota to six shouldn't let this turn into a track meet, and a Bills team on six days of rest has no reason to be in a hurry once it's ahead.\n\nAllen and Geno Smith both started last week. No official Week 10 injury report was up when I checked Tuesday, so nothing in this call depends on a status I haven't seen.\n\nI'm not calling an upset. I'm calling a Buffalo win that doesn't match the sticker.\n\nBills 28, Jets 21. Jets cover the 8.5. Under 51.5.",
    "fanatic_story": "Mike Lasker bought a football-shaped lamp at the Saturday flea in MetLife Stadium's Lot J, and Ellen Marsh hasn't stopped laughing at him since. That was the opening act for Buffalo Bills vs New York Jets in Week 10, when Josh Allen brings a 7-1 Bills team into the same stadium as Geno Smith and a 2-7 Jets team Mike still refuses to quit on.\n\nThe New Meadowlands flea sets up in Lot J every Saturday from 8 a.m. to 4 p.m., free to get in and free to park, and Mike walked it end to end with Ellen. She bought a scarf. He bought the lamp and swore it was vintage.\n\nEllen: \"That lamp still has the dollar-store sticker on it.\"\n\nMike: \"Everybody says that about my lamps. Everybody is usually wrong.\"\n\nMike's whole personality grew out of one January afternoon in Miami. Everybody said the AFL champion had no chance in Super Bowl III. Joe Namath said otherwise, and the Jets beat Baltimore. Mike was raised on the idea that when the whole world agrees on something, you go check the work.\n\nEllen has the opposite problem. She's a Bills fan who stopped clapping for division titles years ago. Buffalo has a shelf full of them, and she'll remind you the last time this franchise finished a season as champion was 1965, in the AFL. Everything since then is a question she asks out loud every winter. Her saying is short: wake me in January.\n\nMike: \"You're 7-1 and you're bored.\"\n\nEllen: \"I'm not bored. I'm waiting. There's a difference.\"\n\nHere's what Ellen can't wave off. The Bills are 4-0 on the road, and they just went into Minnesota on Monday night and won 23-6. Allen did Allen things, James Cook kept the chains moving, and the defense never let the Vikings breathe.\n\nMike: \"Monday night in Minnesota, Sunday afternoon in Jersey. That's six days. Your guys are going to be dragging by halftime.\"\n\nEllen: \"Our guys are going to be tired of scoring.\"\n\nMike has his own mess. The Jets are 2-7, and last week was rough, a 35-12 loss at Kansas City. They're 1-3 at home. Aaron Glenn's season hasn't gone the way the green half of MetLife hoped in August.\n\nEllen: \"Two and seven, Mike.\"\n\nMike: \"Two and seven is when the Jets are most dangerous. Nobody's watching. Nobody's scared. That's when you get them.\"\n\nThere are real arguments buried in the noise. Garrett Wilson can take a game and run off with it. Breece Hall can turn a nothing carry into a stadium on its feet. Demario Davis and Minkah Fitzpatrick have been around long enough to know where Allen likes to go when he scrambles. And this is the AFC East, where nobody is a stranger.\n\nEllen: \"You just described a highlight package.\"\n\nMike: \"I described Sunday.\"\n\nThe history lives in both of them. The Bills and Jets started together in 1960, original AFL teams. Ellen's two titles came in 1964 and 1965. Mike's came in Super Bowl III. They've been fighting about which one weighs more since the day they met.\n\nEllen: \"Two championships.\"\n\nMike: \"One Super Bowl.\"\n\nEllen: \"Ours were real championships.\"\n\nMike: \"Ours had Namath. Yours had a trophy nobody outside Buffalo remembers.\"\n\nEllen: \"Everybody in Buffalo remembers. That's plenty.\"\n\nSunday, Mike is setting up in Lot J again, minus the lamp. Ellen is getting there early so she can watch him explain to strangers why this is the week. She's heard the speech. She's also watched Buffalo let teams hang around long enough to make a fourth quarter tense. Mike says the Jets make it uncomfortable for a while. Ellen says she'll be wide awake for the part where Allen ends it.\n\nMy call: Bills 28, Jets 21.",
    "fanatic_final_sentence": "Bills 28, Jets 21.",
    "preview_sources": [],
