@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-15T03:42:59Z",
+ "updated_utc": "2026-11-15T04:14:24Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -3430,7 +3430,24 @@
    "kickoff_utc": "2026-11-15T00:00Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "DtYy4f4vpJ4",
+    "title": "San Jose State Spartans vs Air Force Falcons College Football Highlights | Week 11 Condensed Game",
+    "channel": "CBS Sports College Football",
+    "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+    "url": "https://www.youtube.com/watch?v=DtYy4f4vpJ4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/DtYy4f4vpJ4",
+    "thumb": "https://i.ytimg.com/vi/DtYy4f4vpJ4/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T03:41:37Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-15T04:12:32Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401871100": {
    "game_id": "401871100",
@@ -3470,7 +3487,24 @@
    "kickoff_utc": "2026-11-15T00:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "11Gyn2aUg94",
+    "title": "Purdue at Iowa | Highlights | Big Ten Football | 11/14/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=11Gyn2aUg94",
+    "embed_url": "https://www.youtube-nocookie.com/embed/11Gyn2aUg94",
+    "thumb": "https://i.ytimg.com/vi/11Gyn2aUg94/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T04:06:22Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-15T04:13:45Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401864539": {
    "game_id": "401864539",
