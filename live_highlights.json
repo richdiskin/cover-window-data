@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-15T15:36:22Z",
+ "updated_utc": "2026-11-15T21:41:41Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -3754,7 +3754,24 @@
    "kickoff_utc": "2026-11-15T18:00Z",
    "first_seen_utc": "2026-11-14T18:11:52Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "P-zr0AB6MNY",
+    "title": "No. 19 Ole Miss Rebels vs. Oklahoma Sooners | Game Highlights | 2026 SEC Football",
+    "channel": "SEC",
+    "channel_id": "UC60q_WUDde_NK-ze3frvtiA",
+    "url": "https://www.youtube.com/watch?v=P-zr0AB6MNY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/P-zr0AB6MNY",
+    "thumb": "https://i.ytimg.com/vi/P-zr0AB6MNY/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T21:35:06Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-15T21:41:41Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   }
  }
 }
