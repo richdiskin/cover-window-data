@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "nfl",
- "updated_utc": "2026-11-15T01:43:41Z",
+ "updated_utc": "2026-11-15T18:10:49Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401873026": {
@@ -310,7 +310,24 @@
    "kickoff_utc": "2026-11-15T14:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "yDQil-gPlgY",
+    "title": "2026 Week 10: Lions vs Patriots | Highlights 🎥",
+    "channel": "Detroit Lions",
+    "channel_id": "UCv5J06V-ESk5_1uriG65f3w",
+    "url": "https://www.youtube.com/watch?v=yDQil-gPlgY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/yDQil-gPlgY",
+    "thumb": "https://i.ytimg.com/vi/yDQil-gPlgY/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T17:41:25Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-15T18:10:49Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401873058": {
    "game_id": "401873058",
