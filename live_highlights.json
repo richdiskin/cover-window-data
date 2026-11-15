@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-15T04:51:25Z",
+ "updated_utc": "2026-11-15T05:18:28Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -3455,7 +3455,24 @@
    "kickoff_utc": "2026-11-15T00:00Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "xescxjtM60g",
+    "title": "Troy Trojans vs South Alabama Jaguars Highlights | 2026 Sun Belt Conference Football",
+    "channel": "Sun Belt Conference",
+    "channel_id": "UCwRkms-Zb61HtMDIjmKofmw",
+    "url": "https://www.youtube.com/watch?v=xescxjtM60g",
+    "embed_url": "https://www.youtube-nocookie.com/embed/xescxjtM60g",
+    "thumb": "https://i.ytimg.com/vi/xescxjtM60g/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T04:15:07Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-15T05:16:34Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401862826": {
    "game_id": "401862826",
@@ -3554,7 +3571,24 @@
    "kickoff_utc": "2026-11-15T00:45Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "kHHqrYIY1qw",
+    "title": "South Carolina Gamecocks vs. Arkansas Razorbacks | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=kHHqrYIY1qw",
+    "embed_url": "https://www.youtube-nocookie.com/embed/kHHqrYIY1qw",
+    "thumb": "https://i.ytimg.com/vi/kHHqrYIY1qw/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T04:49:09Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-15T05:17:37Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401862827": {
    "game_id": "401862827",
