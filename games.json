@@ -13500,13 +13500,13 @@
     "ole-miss",
     "oklahoma"
    ],
-   "spread": "Ole Miss Rebels −1.5",
-   "total_line": 49.5,
+   "spread": "Oklahoma Sooners −2.5",
+   "total_line": 48.5,
    "prediction": {
-    "away_score": 25,
-    "home_score": 22,
-    "winner": "Ole Miss Rebels",
-    "covers": "Ole Miss Rebels −1.5"
+    "away_score": 19,
+    "home_score": 26,
+    "winner": "Oklahoma Sooners",
+    "covers": "Oklahoma Sooners −2.5"
    },
    "total_pick": "Under",
    "status_at_build": {
@@ -13514,59 +13514,59 @@
    },
    "display": {
     "writer": {
-     "score_line": "Projected: Ole Miss Rebels 25, Oklahoma Sooners 22 (Total 47)",
-     "side": "Ole Miss Rebels −1.5",
-     "ou": "Under 49.5",
+     "score_line": "Projected: Oklahoma Sooners 26, Ole Miss Rebels 19 (Total 45)",
+     "side": "Oklahoma Sooners −2.5",
+     "ou": "Under 48.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Ole Miss Rebels −1.5",
-      "ou_line": "O/U: Over 49.5",
+      "side_line": "Side: Ole Miss Rebels +2.5",
+      "ou_line": "O/U: Over 48.5",
       "score_line": "Projected: Ole Miss Rebels 26, Oklahoma Sooners 24 (Total 50)",
       "basis_line": "Net ratings Ole Miss Rebels 18.3, Oklahoma Sooners 13.6 (ESPN Football Power Index, Nov 9, 2026)",
+      "independent": true,
+      "distance_from_spread": 4.5,
+      "distance_from_total": 1.5,
+      "landed_on_number": []
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: Ole Miss Rebels +2.5",
+      "ou_line": "O/U: Under 48.5",
+      "score_line": "Projected: Oklahoma Sooners 25, Ole Miss Rebels 23 (Total 48)",
+      "basis_line": "With the players available: projected points Ole Miss Rebels 23.3, Oklahoma Sooners 24.6.",
       "independent": true,
       "distance_from_spread": 0.5,
       "distance_from_total": 0.5,
       "landed_on_number": []
      },
      {
-      "name": "Next Man Up",
-      "side_line": "Side: Oklahoma Sooners +1.5 · Likes this side",
-      "ou_line": "O/U: Under 49.5",
-      "score_line": "Projected: Oklahoma Sooners 25, Ole Miss Rebels 23 (Total 48)",
-      "basis_line": "With the players available: projected points Ole Miss Rebels 23.3, Oklahoma Sooners 24.6.",
-      "independent": true,
-      "distance_from_spread": 3.5,
-      "distance_from_total": 1.5,
-      "landed_on_number": []
-     },
-     {
       "name": "Letdown Watch",
-      "side_line": "Side: Ole Miss Rebels −1.5 · Likes this side",
-      "ou_line": "O/U: Under 49.5",
+      "side_line": "Side: Ole Miss Rebels +2.5",
+      "ou_line": "O/U: Under 48.5",
       "score_line": "Projected: Ole Miss Rebels 26, Oklahoma Sooners 22 (Total 48)",
       "basis_line": "Rest and travel read: projected points Ole Miss Rebels 26.5, Oklahoma Sooners 22.1.",
       "independent": true,
-      "distance_from_spread": 2.5,
-      "distance_from_total": 1.5,
+      "distance_from_spread": 6.5,
+      "distance_from_total": 0.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: Oklahoma Sooners −2.5 · Likes this side",
+      "ou_line": "O/U: Under 48.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 9, 9:19 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Oklahoma Sooners +1.5 (Nov 10, 2:55 PM ET) and is −2.5 now, a 4-point move. The side pick quotes the consensus spread now (Oklahoma Sooners −2.5). Consensus total opened 49.5 (Nov 11, 8:03 AM ET) and is 48.5 now, a 1-point move: Under. The total pick quotes the consensus total now (48.5). Lines are the Action Network consensus as of Nov 15, 1:39 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 9, 11:27 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: the trench reads split, so no side",
-      "ou_line": "O/U: this card reads sides only",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score this week.",
       "basis_line": "Ole Miss Rebels 4.4 ypc vs Oklahoma Sooners allowing 3.6; Oklahoma Sooners 3.2 ypc vs Ole Miss Rebels allowing 4.3 (2026 season). The run-game reads favour different teams. In The Trenches has no pick.",
       "independent": false,
@@ -13574,13 +13574,13 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "Ole Miss at Oklahoma lands on American Heritage Saturday in Norman, a 4:15 p.m. ET date at Gaylord Family Oklahoma Memorial Stadium for two SEC teams that both need a November answer. My Ole Miss vs Oklahoma prediction is Ole Miss Rebels 25, Oklahoma Sooners 22, with Ole Miss Rebels −1.5 and Under 49.5.\n\nLangston Fairbanks, the Rebels insider, talks like the visitors already own the loudest voice. \"Trinidad Chambliss has 18 touchdowns. We can win in Norman.\" Savannah Redbird-Lowe, Oklahoma's insider, answers with John Mateer. \"15 touchdowns. We just won at Florida. Your number is still a road number.\"\n\nThe market flipped. DraftKings opened Oklahoma −4 with 53.5 on the over/under, and by Monday morning it was Ole Miss −1.5 with 49.5. I will take the visitor at this price. Ole Miss scores 33.8 a game. Oklahoma allows 19.2. That sounds like a problem until you remember Ole Miss just lost 7-42 to Georgia and Oklahoma just won 23-7 at Florida. The open had Oklahoma as a home favorite. The move put Ole Miss in the spot of laying points on the road. I trust the Rebels' offense more than I trust Oklahoma's recent scoring pace of 22.1 points a game.\n\nChambliss has 2,359 passing yards. Deuce Alexander has 669 receiving yards. Kewan Lacy has five rushing scores. Mateer has 2,042 yards. Isaiah Sategna III has 625 receiving yards. Lloyd Avant has 394 rushing yards. One quarterback just got punched by Georgia. The other just controlled Florida. I still think Chambliss answers first in a one-possession game.\n\nThe Under is about Oklahoma's ceiling and Ole Miss's last script. The Georgia game finished at 49 combined points with almost all of them on one side. Oklahoma's Florida win finished at 30. My 47 points sit under 49.5, and the market already cut four points off the open.\n\nThe side divides the room. The Formula has Ole Miss Rebels −1.5 and likes Over 49.5 at 26-24. Next Man Up likes Oklahoma Sooners +1.5 and Under 49.5 at 25-23. Letdown Watch likes Ole Miss Rebels −1.5 and Under 49.5 at 26-22. In The Trenches has no side and no over/under call this week. Follow The Money's side and total are both pending.\n\nLetdown Watch: \"Next Man Up took the home points after the market flipped.\" Next Man Up: \"Mateer just won in Gainesville. The flip can wait.\"\n\nAmerican Heritage gets the theme. Ole Miss get a road one-possession win in a total that already came down.\n\nOle Miss Rebels 25, Oklahoma Sooners 22. Ole Miss Rebels cover the 1.5. Under 49.5.",
-    "fanatic_score_line": "Projected: Ole Miss Rebels 25, Oklahoma Sooners 22",
+    "story_text": "Ole Miss at Oklahoma got bumped a day. The SEC moved it to Sunday, Nov. 15, at 1 p.m. ET on SEC Network, after the FAA's nationwide ground stop Friday left Ole Miss stuck in Oxford. My Ole Miss vs Oklahoma prediction is Oklahoma Sooners 26, Ole Miss Rebels 19, with Oklahoma Sooners −2.5 and Under 48.5.\n\nThe number as of Nov. 15, 2026, 1:39 AM ET: ESPN lists DraftKings at Oklahoma −2.5, total 48.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Ole Miss −1.5 with a 49.5 total. Full preview at thecoverwindow.com.\n\nLangston Fairbanks, the Rebels insider, spent Saturday refreshing a flight tracker like it owed him money. \"Chambliss has 18 touchdowns. He can throw them on a Sunday.\" Savannah Redbird-Lowe, Oklahoma's insider: \"Our athletic director said this isn't fair. Fine. We'll make it unfair on the field too.\"\n\nPer the SEC statement reported by ESPN, Ole Miss could not leave Oxford Friday night, its charter could not take a late-night departure once the ground stop lifted, and the trip slid to Saturday afternoon. It was the only game moved to Sunday.\n\nInjury check, SEC availability report Friday, Nov. 13 (On SI): Ole Miss has 12 out, including RB Kewan Lacy, LB Keaton Thomas, OL Patrick Kutas and four defensive backs; RB Makhi Frazier is questionable. Oklahoma lists WR Trell Harris, TE Trynae Washington, OL Fred Hinton, LB Taylor Heim and DB Dakoda Fields out; RB Tory Blaylock is questionable. That report was filed for Saturday, so check game-day updates.\n\nI had Ole Miss on Monday. That report moved me. Lacy is the Rebels' leading rusher with 388 yards and five scores. Thomas is their leading tackler with 55. Ole Miss scored seven against Georgia, and now it gets an Oklahoma defense that allows 19.2 and just held Florida to seven. Mateer has 15 touchdowns and Isaiah Sategna III has 625 receiving yards. Oklahoma does not need a shootout. It needs Ole Miss to play like a team whose Friday flight never left.\n\nThe Under is the weather and the injuries. ESPN's forecast for kickoff is 42 degrees, gusts to 18 mph and a 49 percent chance of precipitation. My 45 points sit 3.5 under 48.5.\n\nThe desks at today's number. Follow The Money likes Oklahoma −2.5 and the Under 48.5. The Formula: Ole Miss 26, Oklahoma 24. That makes it Ole Miss +2.5 and Over 48.5. Next Man Up: Oklahoma 25, Ole Miss 23. That makes it Ole Miss +2.5 and Under 48.5. Letdown Watch: Ole Miss 26, Oklahoma 22. That makes it Ole Miss +2.5 and Under 48.5. In The Trenches has no pick: its run-game reads favour different teams.\n\nLetdown Watch: \"Next Man Up finally came over to the Rebels.\" Next Man Up: \"The number moved four points. I moved with it.\"\n\nThe Cover Writer's card at today's number: Oklahoma Sooners −2.5 and Under 48.5. My final is Oklahoma Sooners 26, Ole Miss Rebels 19. Monday's card had Ole Miss winning 25-22. The Friday availability report and a trip that slid a day changed my read: Oklahoma by seven clears 2.5, and 45 sits 3.5 under 48.5. The Rebels' plane ran late. The Sooners' defense does not plan to.\n\nOklahoma Sooners 26, Ole Miss Rebels 19. Oklahoma Sooners cover the 2.5. Under 48.5.",
+    "fanatic_score_line": "Projected: Oklahoma Sooners 26, Ole Miss Rebels 19",
     "line_used": {
-     "home_line": "Oklahoma Sooners +1.5",
-     "total": "49.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-09T14:18Z"
+     "home_line": "Oklahoma Sooners −2.5",
+     "total": "48.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
+     "fetched_at_utc": "2026-11-15T06:39Z"
     },
     "injuries": {
      "away": [],
@@ -13597,18 +13597,18 @@
      "Trench stats: ESPN team stats for Oklahoma (espn.com)",
      "Schedule history: collegefootballdata.com 2018–2025"
     ],
-    "fanatic_story": "Ole Miss Rebels vs Oklahoma Sooners is American Heritage Saturday in Norman, a late-afternoon kickoff at Gaylord Family Oklahoma Memorial Stadium for two SEC teams carrying very different memories from last week. Langston Fairbanks shows up talking about Trinidad Chambliss like the Georgia loss was a closed book. Savannah Redbird-Lowe arrives with John Mateer's Florida tape and a reminder that Norman still expects the home team to finish.\n\nLangston: Chambliss has 18 touchdowns. Alexander can win the route. We did not come to Norman to be quiet.\n\nSavannah: Mateer just won at Florida. Avant runs between the tackles. Your quiet still has to deal with that.\n\nOle Miss is coming off a 7-42 loss to Georgia that emptied the air out of an otherwise productive offense. Oklahoma is coming off a 23-7 win at Florida that looked like the version of this team the preseason promised. The Rebels still score 33.8 points a game and allow 26.0. The Sooners score 22.1 and allow 19.2. That is a collision between a visitor that can put up points and a home team that has spent November trying to remember how.\n\nTrinidad Chambliss has 2,359 passing yards with 18 touchdowns and nine interceptions. Deuce Alexander has 669 receiving yards. Kewan Lacy has 388 rushing yards and five scores. Blake Purchase has 4.5 sacks. Keaton Thomas has 55 tackles. When Chambliss is clean, Ole Miss looks like the team that hung crooked numbers earlier this fall. When he is not, Georgia tape starts replaying itself.\n\nOklahoma's answer is Mateer and a defense that just held Florida to seven. Mateer has 2,042 yards with 15 touchdowns. Isaiah Sategna III has 625 receiving yards. Lloyd Avant has 394 rushing yards. Adepoju Adebawore has 4 sacks. Owen Heinecke has 73 tackles. The Sooners do not need a track meet. They need to keep Chambliss uncomfortable and let Mateer win a one-possession game in front of the home crowd.\n\nSavannah: American Heritage is nice. A third-down sack is nicer.\n\nLangston: Themes are nice. Chambliss on schedule is nicer.\n\nNorman will treat the afternoon like a statement chance after Florida. Ole Miss will treat it like a reset after Georgia. One of those moods usually wins in November, and Memorial Stadium will decide which one before the lights take over the evening.\n\nLangston will talk Chambliss. Savannah will talk Mateer. American Heritage will talk about whether the home team finished the job.\n\nAmerican Heritage Saturday is not Military Appreciation — that theme lands next week against Texas A&M — but it still puts Norman in a reflective mood before a game that feels like a measuring stick. Ole Miss wants to prove Georgia was an outlier. Oklahoma wants to prove Florida was a beginning. Those two proofs cannot both be true by the end of the night.\n\nLangston keeps talking about Chambliss. Savannah keeps talking about Mateer. Memorial Stadium will decide which November story gets to keep going.\n\nNorman in mid-November is loud even when the theme is reflective. American Heritage Saturday puts history on the pregame board and then asks two quarterbacks to write a new chapter anyway. Chambliss has the volume numbers. Mateer has the fresher win. Ole Miss has the higher scoring pace. Oklahoma has the home crowd and the harder defense. That is enough material for a one-possession game that will not feel decided until somebody blinks on fourth down.\n\nThe Georgia hangover is real. The Florida bounce is real. Memorial Stadium gets to choose which one was louder.\n\nOne possession. Two quarterbacks. A Norman evening that will not feel settled early.\n\nNorman never settles down, and the Rebels fly home anyway. My call: Ole Miss Rebels 25, Oklahoma Sooners 22.",
+    "fanatic_story": "Ole Miss Rebels vs Oklahoma Sooners was supposed to be a Saturday game. It is a Sunday game now, 1 p.m. ET, noon in Norman, on SEC Network at Gaylord Family Oklahoma Memorial Stadium, after the FAA's ground stop Friday kept Ole Miss grounded in Oxford and the SEC moved it a full day. Langston Fairbanks spent the delay defending his team's travel plans like a lawyer with a carry-on. Savannah Redbird-Lowe spent it reading her athletic director's statement out loud, twice, for emphasis.\n\nLangston: We did not skip Saturday. Saturday skipped us. Chambliss has 18 touchdowns, and he throws them any day of the week.\n\nSavannah: Our AD said this isn't fair to our athletes, our institution or Sooner Nation. I would like to add my brunch reservation to that list.\n\nHere is how it went down, per the SEC statement reported by ESPN. The Rebels could not leave Oxford Friday night because of the ground stop, the charter company could not take a late-night departure once it lifted, and the trip slid to Saturday afternoon. It was the only game moved to Sunday. Oklahoma athletic director Roger Denny objected and said the Sooners were told that not playing Sunday would mean a forfeit. Former Sooners coach Bob Stoops went further on X: \"This decision by Greg Sankey is absolutely wrong.\"\n\nThen there is the football. Ole Miss is coming off a 7-42 loss to Georgia. Oklahoma is coming off a 23-7 win at Florida. The Rebels score 33.8 points a game and allow 26.0. The Sooners score 22.1 and allow 19.2.\n\nThe Rebels arrive short-handed. The SEC's Friday availability report listed leading rusher Kewan Lacy, with 388 yards and five scores, and leading tackler Keaton Thomas, with 55 tackles, as out, along with offensive lineman Patrick Kutas and four defensive backs. Trinidad Chambliss still has 2,359 passing yards with 18 touchdowns and nine interceptions. Deuce Alexander has 669 receiving yards. Blake Purchase has 4.5 sacks. Against Georgia, Shekai Mills-Knight led the ground game with 52 yards and a score.\n\nOklahoma brings John Mateer, with 2,042 yards and 15 touchdowns, Isaiah Sategna III with 625 receiving yards and Lloyd Avant with 394 rushing yards. Adepoju Adebawore has 4 sacks and Owen Heinecke has 73 tackles. The Sooners have their own list: wide receiver Trell Harris, tight end Trynae Washington, offensive lineman Fred Hinton, linebacker Taylor Heim and defensive back Dakoda Fields are out, offensive lineman Ryan Fodje is doubtful and running back Tory Blaylock is questionable.\n\nLangston: We beat you two years running. 26-14, then 34-26. Look it up.\n\nSavannah: I did. Neither one was played on a Sunday after your plane took a personal day.\n\nESPN's forecast for kickoff is 42 degrees, gusts to 18 mph and a 49 percent chance of precipitation. A noon start in a November chill, on a day nobody planned for. Norman will be loud anyway, and a little grumpy about it, and the visitors will hear every bit of it.\n\nOne extra day. Two quarterbacks. A home crowd with a grievance and a visitor with something to prove after Georgia.\n\nSavannah gets her Sunday statement. Langston gets a quiet flight home. My call: Oklahoma Sooners 26, Ole Miss Rebels 19.",
     "market": {
      "score_line": "",
-     "spread": "Ole Miss Rebels −1.5",
-     "total": "49.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "spread": "Oklahoma Sooners −2.5",
+     "total": "48.5",
+     "source": "ESPN game summary pickcenter (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
-    "gambler_headline": "Ole Miss vs Oklahoma Prediction: Rebels −1.5, Under 49.5",
-    "fanatic_headline": "Ole Miss vs Oklahoma: American Heritage Saturday in Norman"
+    "gambler_headline": "Ole Miss vs Oklahoma Prediction: Sooners −2.5, Under 48.5",
+    "fanatic_headline": "Ole Miss at Oklahoma: Sunday in Norman, One Day Late"
    },
-   "gambler_story": "Ole Miss at Oklahoma lands on American Heritage Saturday in Norman, a 4:15 p.m. ET date at Gaylord Family Oklahoma Memorial Stadium for two SEC teams that both need a November answer. My Ole Miss vs Oklahoma prediction is Ole Miss Rebels 25, Oklahoma Sooners 22, with Ole Miss Rebels −1.5 and Under 49.5.\n\nLangston Fairbanks, the Rebels insider, talks like the visitors already own the loudest voice. \"Trinidad Chambliss has 18 touchdowns. We can win in Norman.\" Savannah Redbird-Lowe, Oklahoma's insider, answers with John Mateer. \"15 touchdowns. We just won at Florida. Your number is still a road number.\"\n\nThe market flipped. DraftKings opened Oklahoma −4 with 53.5 on the over/under, and by Monday morning it was Ole Miss −1.5 with 49.5. I will take the visitor at this price. Ole Miss scores 33.8 a game. Oklahoma allows 19.2. That sounds like a problem until you remember Ole Miss just lost 7-42 to Georgia and Oklahoma just won 23-7 at Florida. The open had Oklahoma as a home favorite. The move put Ole Miss in the spot of laying points on the road. I trust the Rebels' offense more than I trust Oklahoma's recent scoring pace of 22.1 points a game.\n\nChambliss has 2,359 passing yards. Deuce Alexander has 669 receiving yards. Kewan Lacy has five rushing scores. Mateer has 2,042 yards. Isaiah Sategna III has 625 receiving yards. Lloyd Avant has 394 rushing yards. One quarterback just got punched by Georgia. The other just controlled Florida. I still think Chambliss answers first in a one-possession game.\n\nThe Under is about Oklahoma's ceiling and Ole Miss's last script. The Georgia game finished at 49 combined points with almost all of them on one side. Oklahoma's Florida win finished at 30. My 47 points sit under 49.5, and the market already cut four points off the open.\n\nThe side divides the room. The Formula has Ole Miss Rebels −1.5 and likes Over 49.5 at 26-24. Next Man Up likes Oklahoma Sooners +1.5 and Under 49.5 at 25-23. Letdown Watch likes Ole Miss Rebels −1.5 and Under 49.5 at 26-22. In The Trenches has no side and no over/under call this week. Follow The Money's side and total are both pending.\n\nLetdown Watch: \"Next Man Up took the home points after the market flipped.\" Next Man Up: \"Mateer just won in Gainesville. The flip can wait.\"\n\nAmerican Heritage gets the theme. Ole Miss get a road one-possession win in a total that already came down.\n\nOle Miss Rebels 25, Oklahoma Sooners 22. Ole Miss Rebels cover the 1.5. Under 49.5.",
+   "gambler_story": "Ole Miss at Oklahoma got bumped a day. The SEC moved it to Sunday, Nov. 15, at 1 p.m. ET on SEC Network, after the FAA's nationwide ground stop Friday left Ole Miss stuck in Oxford. My Ole Miss vs Oklahoma prediction is Oklahoma Sooners 26, Ole Miss Rebels 19, with Oklahoma Sooners −2.5 and Under 48.5.\n\nThe number as of Nov. 15, 2026, 1:39 AM ET: ESPN lists DraftKings at Oklahoma −2.5, total 48.5. Every pick in this story, mine and each handicapper's, is checked against that number, not Monday's. Monday's card had Ole Miss −1.5 with a 49.5 total. Full preview at thecoverwindow.com.\n\nLangston Fairbanks, the Rebels insider, spent Saturday refreshing a flight tracker like it owed him money. \"Chambliss has 18 touchdowns. He can throw them on a Sunday.\" Savannah Redbird-Lowe, Oklahoma's insider: \"Our athletic director said this isn't fair. Fine. We'll make it unfair on the field too.\"\n\nPer the SEC statement reported by ESPN, Ole Miss could not leave Oxford Friday night, its charter could not take a late-night departure once the ground stop lifted, and the trip slid to Saturday afternoon. It was the only game moved to Sunday.\n\nInjury check, SEC availability report Friday, Nov. 13 (On SI): Ole Miss has 12 out, including RB Kewan Lacy, LB Keaton Thomas, OL Patrick Kutas and four defensive backs; RB Makhi Frazier is questionable. Oklahoma lists WR Trell Harris, TE Trynae Washington, OL Fred Hinton, LB Taylor Heim and DB Dakoda Fields out; RB Tory Blaylock is questionable. That report was filed for Saturday, so check game-day updates.\n\nI had Ole Miss on Monday. That report moved me. Lacy is the Rebels' leading rusher with 388 yards and five scores. Thomas is their leading tackler with 55. Ole Miss scored seven against Georgia, and now it gets an Oklahoma defense that allows 19.2 and just held Florida to seven. Mateer has 15 touchdowns and Isaiah Sategna III has 625 receiving yards. Oklahoma does not need a shootout. It needs Ole Miss to play like a team whose Friday flight never left.\n\nThe Under is the weather and the injuries. ESPN's forecast for kickoff is 42 degrees, gusts to 18 mph and a 49 percent chance of precipitation. My 45 points sit 3.5 under 48.5.\n\nThe desks at today's number. Follow The Money likes Oklahoma −2.5 and the Under 48.5. The Formula: Ole Miss 26, Oklahoma 24. That makes it Ole Miss +2.5 and Over 48.5. Next Man Up: Oklahoma 25, Ole Miss 23. That makes it Ole Miss +2.5 and Under 48.5. Letdown Watch: Ole Miss 26, Oklahoma 22. That makes it Ole Miss +2.5 and Under 48.5. In The Trenches has no pick: its run-game reads favour different teams.\n\nLetdown Watch: \"Next Man Up finally came over to the Rebels.\" Next Man Up: \"The number moved four points. I moved with it.\"\n\nThe Cover Writer's card at today's number: Oklahoma Sooners −2.5 and Under 48.5. My final is Oklahoma Sooners 26, Ole Miss Rebels 19. Monday's card had Ole Miss winning 25-22. The Friday availability report and a trip that slid a day changed my read: Oklahoma by seven clears 2.5, and 45 sits 3.5 under 48.5. The Rebels' plane ran late. The Sooners' defense does not plan to.\n\nOklahoma Sooners 26, Ole Miss Rebels 19. Oklahoma Sooners cover the 2.5. Under 48.5.",
    "videos": [],
    "key_players": [
     {
