@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-15T06:56:42Z",
+ "updated_utc": "2026-11-15T15:36:22Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -3239,7 +3239,24 @@
    "kickoff_utc": "2026-11-14T22:00Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "ijcNE601XR8",
+    "title": "Southern Miss Golden Eagles vs Louisiana Tech Bulldogs Highlights | 2026 Sun Belt Conference Footbal",
+    "channel": "Sun Belt Conference",
+    "channel_id": "UCwRkms-Zb61HtMDIjmKofmw",
+    "url": "https://www.youtube.com/watch?v=ijcNE601XR8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/ijcNE601XR8",
+    "thumb": "https://i.ytimg.com/vi/ijcNE601XR8/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T01:49:02Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-15T15:36:12Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856857": {
    "game_id": "401856857",
@@ -3629,7 +3646,24 @@
    "kickoff_utc": "2026-11-15T02:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "ha0_hl7ZSpE",
+    "title": "SDSU FOOTBALL HIGHLIGHTS: AZTECS 30, UTAH STATE 13 - NOV 14, 2026",
+    "channel": "SDSU Athletics",
+    "channel_id": "UCZB5DwBy4rb4T6zyx19oFVw",
+    "url": "https://www.youtube.com/watch?v=ha0_hl7ZSpE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/ha0_hl7ZSpE",
+    "thumb": "https://i.ytimg.com/vi/ha0_hl7ZSpE/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T09:10:03Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-15T15:36:22Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401864540": {
    "game_id": "401864540",
@@ -3637,7 +3671,24 @@
    "kickoff_utc": "2026-11-15T03:00Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "wvuurWKep2I",
+    "title": "Wyoming Cowboys vs UTEP Miners Highlights | FOX College Football",
+    "channel": "CFB ON FOX",
+    "channel_id": "UCpwix-O6ceqMgdxhqIynzFA",
+    "url": "https://www.youtube.com/watch?v=wvuurWKep2I",
+    "embed_url": "https://www.youtube-nocookie.com/embed/wvuurWKep2I",
+    "thumb": "https://i.ytimg.com/vi/wvuurWKep2I/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T07:30:29Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-15T15:36:22Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856864": {
    "game_id": "401856864",
@@ -3645,7 +3696,24 @@
    "kickoff_utc": "2026-11-15T03:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "6lpbgR70FWg",
+    "title": "#2 Utah vs. #23 Arizona Extended Highlights | 2026 Monster Energy Big 12 Football",
+    "channel": "Big 12 Conference",
+    "channel_id": "UCLnfOCTbfqMy_3ah8OmTHEQ",
+    "url": "https://www.youtube.com/watch?v=6lpbgR70FWg",
+    "embed_url": "https://www.youtube-nocookie.com/embed/6lpbgR70FWg",
+    "thumb": "https://i.ytimg.com/vi/6lpbgR70FWg/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T07:53:27Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-15T15:36:22Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401860917": {
    "game_id": "401860917",
@@ -3653,7 +3721,24 @@
    "kickoff_utc": "2026-11-15T03:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "Sc2i9RsZSaY",
+    "title": "Colorado State Rams vs Washington State Cougars College Football Highlights | Week 11 Condensed Game",
+    "channel": "CBS Sports College Football",
+    "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+    "url": "https://www.youtube.com/watch?v=Sc2i9RsZSaY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Sc2i9RsZSaY",
+    "thumb": "https://i.ytimg.com/vi/Sc2i9RsZSaY/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T07:38:07Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-15T15:36:22Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401864537": {
    "game_id": "401864537",
