@@ -2312,10 +2312,10 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-15T11:14:42Z",
+    "fetched_at_utc": "2026-11-15T14:58:35Z",
     "action_network_game_id": 290975,
     "home_line": 7.5,
-    "total": 51,
+    "total": 50.5,
     "open_home_line": 7.5,
     "open_total": 50.5,
     "spread_display": "New York Jets +7.5",
@@ -2329,18 +2329,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261115",
    "spread": "New York Jets +8.5",
-   "story_text": "Bills 28, Jets 21. Jets cover the 8.5. Under 51.5. The Formula projects Buffalo by 4.4 against an 8.5-point line.",
+   "story_text": "Bills 28, Jets 21. Jets cover the 8.5. Under 50.5. The Formula projects Buffalo by 4.4 against an 8.5-point line.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "line_used": {
     "home_line": 8.5,
-    "total": 51.5,
-    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
-    "as_of_utc": "2026-11-15T11:14:41Z"
+    "total": 50.5,
+    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 9:59 AM ET",
+    "as_of_utc": "2026-11-15T14:59:49Z"
    },
-   "total_line": 51.5,
+   "total_line": 50.5,
    "prediction": {
     "away_score": 28,
     "home_score": 21,
@@ -2368,7 +2368,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Consensus spread opened New York Jets +7.5 (Nov 10, 1:02 AM ET) and is +7.5 now. Follow The Money has no side pick. Consensus total opened 50.5 (Nov 10, 1:02 AM ET) and is 51 now, a 0.5-point move. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Consensus spread opened New York Jets +7.5 (Nov 10, 1:02 AM ET) and is +7.5 now. Follow The Money has no side pick. Consensus total opened 50.5 (Nov 10, 1:02 AM ET) and is 50.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 15, 9:58 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -2385,7 +2385,7 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 10, 10:17 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 15, 6:14 AM ET; Follow The Money uses the Action Network consensus line history.",
+    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 15, 9:59 AM ET; Follow The Money uses the Action Network consensus line history.",
     "The Formula ratings: nflverse play-by-play as of Nov 10, 10:17 AM ET, Weeks 1–9 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–9 finals.",
     "Injuries: NFL.com official Week 10 injury report, fetched Nov 11, 3:59 PM ET (not yet posted for this game); Next Man Up uses each team’s last starter.",
@@ -2401,81 +2401,81 @@
     "label": "",
     "source": "Cover Writer",
     "projected_total": 49,
-    "market_total": 51.5,
+    "market_total": 50.5,
     "pick": "Under",
-    "text": "Under 51.5"
+    "text": "Under 50.5"
    },
    "display": {
     "writer": {
      "score_line": "Projected: New York Jets 21, Buffalo Bills 28 (Total 49)",
      "side": "New York Jets +8.5",
-     "ou": "Under 51.5",
+     "ou": "Under 50.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
       "side_line": "Side: New York Jets +8.5 · Likes this side",
-      "ou_line": "O/U: Under 51.5",
+      "ou_line": "O/U: Under 50.5",
       "score_line": "Projected: New York Jets 23, Buffalo Bills 27 (Total 50)",
       "basis_line": "Net ratings New York Jets −3.1, Buffalo Bills 3.1 (nflverse play-by-play, Nov 10, 2026)",
       "independent": true,
       "distance_from_spread": 4.5,
-      "distance_from_total": 1.5
+      "distance_from_total": 0.5
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: New York Jets +8.5",
-      "ou_line": "O/U: Under 51.5",
+      "ou_line": "O/U: Under 50.5",
       "score_line": "Projected: New York Jets 21, Buffalo Bills 28 (Total 49)",
       "basis_line": "Projected points: New York Jets 21.3, Buffalo Bills 28.6. Availability: expected starting quarterbacks Geno Smith (NYJ) and Josh Allen (BUF). NFL.com official Week 10 injury report (fetched Nov 11, 3:59 PM ET): not yet posted for this game, so it lists no quarterback.",
       "independent": true,
       "distance_from_spread": 1.5,
-      "distance_from_total": 2.5
+      "distance_from_total": 1.5
      },
      {
       "name": "Letdown Watch",
       "side_line": "Side: Buffalo Bills −8.5 · Likes this side",
-      "ou_line": "O/U: Under 51.5 · Likes this total",
+      "ou_line": "O/U: Under 50.5",
       "score_line": "Projected: New York Jets 18, Buffalo Bills 30 (Total 48)",
       "basis_line": "Rest and travel: Buffalo Bills: 6 days since its last game, travels 278 miles, last game was also away from home; New York Jets: 7 days since its last game, plays at home. Projected: Bills by 12.8, total 48.2.",
       "independent": true,
       "distance_from_spread": 3.5,
-      "distance_from_total": 3.5
+      "distance_from_total": 2.5
      },
      {
       "name": "Follow The Money",
       "side_line": "Side: no pick (not enough line movement)",
       "ou_line": "O/U: no pick (not enough total movement)",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Consensus spread opened New York Jets +7.5 (Nov 10, 1:02 AM ET) and is +7.5 now. Follow The Money has no side pick. Consensus total opened 50.5 (Nov 10, 1:02 AM ET) and is 51 now, a 0.5-point move. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened New York Jets +7.5 (Nov 10, 1:02 AM ET) and is +7.5 now. Follow The Money has no side pick. Consensus total opened 50.5 (Nov 10, 1:02 AM ET) and is 50.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 15, 9:58 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.0,
-      "distance_from_total": 0.5
+      "distance_from_total": 0.0
      },
      {
       "name": "In The Trenches",
       "side_line": "Side: New York Jets +8.5",
-      "ou_line": "O/U: Under 51.5 · Likes this total",
+      "ou_line": "O/U: Under 50.5",
       "score_line": "Projected: New York Jets 21, Buffalo Bills 28 (Total 49)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 9). Projected points: New York Jets 21.1, Buffalo Bills 27.7.",
       "independent": true,
       "distance_from_spread": 1.5,
-      "distance_from_total": 2.5
+      "distance_from_total": 1.5
      }
     ],
     "best_bets": [],
-    "story_text": "Lot J at MetLife Stadium turns into the New Meadowlands Market every Saturday morning, and I'm shopping this Bills vs Jets spread the same way I'd shop those tables. My Week 10 pick is the New York Jets +8.5, with the Under 51.5 on the total. The sticker says Buffalo by more than a touchdown, and I'm not paying it.\n\nBuffalo is −8.5 at DraftKings as of Nov 15, 6:14 AM ET, with the total at 51.5; Tuesday morning's Action Network consensus had −8 and 50.5. The Bills are 7-1 and 4-0 on the road, with 256 points scored and 187 allowed. The Jets have scored 182 and allowed 223, and they're 1-3 at home. Nobody's arguing about which team is better.\n\nThe Formula: Net ratings New York Jets −3.1, Buffalo Bills 3.1 (nflverse play-by-play, Nov 10, 2026).\n\nBuffalo is better, but not eight points better on the road. The schedule isn't doing Buffalo any favors either. The Bills won 23-6 in Minnesota on Monday night, so they get six days before another road kickoff at 1 p.m. Sunday. That's a second straight trip on a short week, against a division opponent that sees them twice a year.\n\nJosh Allen is still the best player on the field, and James Cook gives Buffalo a run game that gains 4.8 yards a carry. The Jets allow 4.3, which isn't a wall but isn't a welcome mat either. Geno Smith has Garrett Wilson and Breece Hall, and that's enough to grab a late touchdown if Buffalo gets comfortable.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Bills −8.5, total 51.5. This preview was written against Bills −8, total 50.5, so the spread moved from Bills −8 to Bills −8.5 and the total rose from 50.5 to 51.5. The Cover Writer stays on Jets +8.5 with Bills 28, Jets 21, because Bills by 7 stays inside the 8.5. The Under holds, now 51.5, with 49 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread has not moved from Bills −7.5, and the consensus total opened 50.5 and is 51 now, so it has no side pick (no move of a full point) and has no total pick (no move of a full point). The Formula: Bills 27, Jets 23 on net ratings. It stays on Jets +8.5 (Bills by 4 stays inside the 8.5) and stays on the Under, now 51.5 (50 points). Next Man Up: Bills 28, Jets 21 on who's playing. It stays on Jets +8.5 (Bills by 7 stays inside the 8.5) and stays on the Under, now 51.5 (49 points). Letdown Watch: Bills 30, Jets 18 on rest and travel. It stays on Bills −8.5 (Bills by 12 clears the 8.5) and stays on the Under, now 51.5 (48 points). In The Trenches: Bills 28, Jets 21 on the line of scrimmage. It stays on Jets +8.5 (Bills by 7 stays inside the 8.5) and stays on the Under, now 51.5 (49 points).\n\nMy card says Buffalo Bills 28, New York Jets 21. That's a seven-point Bills win, inside the 8.5, and 49 points, two and a half short of 51.5. A Buffalo defense that just held Minnesota to six shouldn't let this turn into a track meet, and a Bills team on six days of rest has no reason to be in a hurry once it's ahead.\n\nAllen and Geno Smith both started last week. No official Week 10 injury report was up when I checked Tuesday, so nothing in this call depends on a status I haven't seen.\n\nI'm not calling an upset. I'm calling a Buffalo win that doesn't match the sticker.\n\nBills 28, Jets 21. Jets cover the 8.5. Under 51.5.",
+    "story_text": "Lot J at MetLife Stadium turns into the New Meadowlands Market every Saturday morning, and I'm shopping this Bills vs Jets spread the same way I'd shop those tables. My Week 10 pick is the New York Jets +8.5, with the Under 50.5 on the total. The sticker says Buffalo by more than a touchdown, and I'm not paying it.\n\nBuffalo is −8.5 at DraftKings as of Nov 15, 9:59 AM ET, with the total at 50.5; Tuesday morning's Action Network consensus had −8 and 50.5. The Bills are 7-1 and 4-0 on the road, with 256 points scored and 187 allowed. The Jets have scored 182 and allowed 223, and they're 1-3 at home. Nobody's arguing about which team is better.\n\nThe Formula: Net ratings New York Jets −3.1, Buffalo Bills 3.1 (nflverse play-by-play, Nov 10, 2026).\n\nBuffalo is better, but not eight points better on the road. The schedule isn't doing Buffalo any favors either. The Bills won 23-6 in Minnesota on Monday night, so they get six days before another road kickoff at 1 p.m. Sunday. That's a second straight trip on a short week, against a division opponent that sees them twice a year.\n\nJosh Allen is still the best player on the field, and James Cook gives Buffalo a run game that gains 4.8 yards a carry. The Jets allow 4.3, which isn't a wall but isn't a welcome mat either. Geno Smith has Garrett Wilson and Breece Hall, and that's enough to grab a late touchdown if Buffalo gets comfortable.\n\nSunday morning update: as of Nov 15, 9:59 AM ET, DraftKings has Bills −8.5, total 50.5. This preview was written against Bills −8, total 50.5, so the spread moved from Bills −8 to Bills −8.5, and the total, which rose to 51.5 earlier this morning, is back down to 50.5. The Cover Writer stays on Jets +8.5 with Bills 28, Jets 21, because Bills by 7 stays inside the 8.5. The Under holds at 50.5 with 49 points, a point and a half short.\n\nFollow The Money, which follows the Action Network consensus: as of Nov 15, 9:58 AM ET, the consensus spread has not moved from Bills −7.5, and the consensus total opened 50.5, went as high as 51.5 overnight and is back at 50.5, so it has no side pick and no total pick (neither number is a full point off its open). The Formula: Bills 27, Jets 23 on net ratings. It stays on Jets +8.5 (Bills by 4 stays inside the 8.5) and stays on the Under, now 50.5 (50 points). Next Man Up: Bills 28, Jets 21 on who's playing. It stays on Jets +8.5 (Bills by 7 stays inside the 8.5) and stays on the Under, now 50.5 (49 points). Letdown Watch: Bills 30, Jets 18 on rest and travel. It stays on Bills −8.5 (Bills by 12 clears the 8.5) and stays on the Under, now 50.5 (48 points). In The Trenches: Bills 28, Jets 21 on the line of scrimmage. It stays on Jets +8.5 (Bills by 7 stays inside the 8.5) and stays on the Under, now 50.5 (49 points).\n\nMy card says Buffalo Bills 28, New York Jets 21. That's a seven-point Bills win, inside the 8.5, and 49 points, a point and a half short of 50.5. A Buffalo defense that just held Minnesota to six shouldn't let this turn into a track meet, and a Bills team on six days of rest has no reason to be in a hurry once it's ahead.\n\nAllen and Geno Smith both started last week. No official Week 10 injury report was up when I checked Tuesday, so nothing in this call depends on a status I haven't seen.\n\nI'm not calling an upset. I'm calling a Buffalo win that doesn't match the sticker.\n\nBills 28, Jets 21. Jets cover the 8.5. Under 50.5.",
     "fanatic_score_line": "Projected: New York Jets 21, Buffalo Bills 28",
     "market": {
-     "score_line": "Market: New York Jets 22, Buffalo Bills 30 (Total 52)",
+     "score_line": "Market: New York Jets 21, Buffalo Bills 30 (Total 51)",
      "spread": "Buffalo Bills −8.5",
-     "total": "51.5",
-     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
+     "total": "50.5",
+     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 9:59 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     }
    },
-   "gambler_story": "Lot J at MetLife Stadium turns into the New Meadowlands Market every Saturday morning, and I'm shopping this Bills vs Jets spread the same way I'd shop those tables. My Week 10 pick is the New York Jets +8.5, with the Under 51.5 on the total. The sticker says Buffalo by more than a touchdown, and I'm not paying it.\n\nBuffalo is −8.5 at DraftKings as of Nov 15, 6:14 AM ET, with the total at 51.5; Tuesday morning's Action Network consensus had −8 and 50.5. The Bills are 7-1 and 4-0 on the road, with 256 points scored and 187 allowed. The Jets have scored 182 and allowed 223, and they're 1-3 at home. Nobody's arguing about which team is better.\n\nThe Formula: Net ratings New York Jets −3.1, Buffalo Bills 3.1 (nflverse play-by-play, Nov 10, 2026).\n\nBuffalo is better, but not eight points better on the road. The schedule isn't doing Buffalo any favors either. The Bills won 23-6 in Minnesota on Monday night, so they get six days before another road kickoff at 1 p.m. Sunday. That's a second straight trip on a short week, against a division opponent that sees them twice a year.\n\nJosh Allen is still the best player on the field, and James Cook gives Buffalo a run game that gains 4.8 yards a carry. The Jets allow 4.3, which isn't a wall but isn't a welcome mat either. Geno Smith has Garrett Wilson and Breece Hall, and that's enough to grab a late touchdown if Buffalo gets comfortable.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Bills −8.5, total 51.5. This preview was written against Bills −8, total 50.5, so the spread moved from Bills −8 to Bills −8.5 and the total rose from 50.5 to 51.5. The Cover Writer stays on Jets +8.5 with Bills 28, Jets 21, because Bills by 7 stays inside the 8.5. The Under holds, now 51.5, with 49 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread has not moved from Bills −7.5, and the consensus total opened 50.5 and is 51 now, so it has no side pick (no move of a full point) and has no total pick (no move of a full point). The Formula: Bills 27, Jets 23 on net ratings. It stays on Jets +8.5 (Bills by 4 stays inside the 8.5) and stays on the Under, now 51.5 (50 points). Next Man Up: Bills 28, Jets 21 on who's playing. It stays on Jets +8.5 (Bills by 7 stays inside the 8.5) and stays on the Under, now 51.5 (49 points). Letdown Watch: Bills 30, Jets 18 on rest and travel. It stays on Bills −8.5 (Bills by 12 clears the 8.5) and stays on the Under, now 51.5 (48 points). In The Trenches: Bills 28, Jets 21 on the line of scrimmage. It stays on Jets +8.5 (Bills by 7 stays inside the 8.5) and stays on the Under, now 51.5 (49 points).\n\nMy card says Buffalo Bills 28, New York Jets 21. That's a seven-point Bills win, inside the 8.5, and 49 points, two and a half short of 51.5. A Buffalo defense that just held Minnesota to six shouldn't let this turn into a track meet, and a Bills team on six days of rest has no reason to be in a hurry once it's ahead.\n\nAllen and Geno Smith both started last week. No official Week 10 injury report was up when I checked Tuesday, so nothing in this call depends on a status I haven't seen.\n\nI'm not calling an upset. I'm calling a Buffalo win that doesn't match the sticker.\n\nBills 28, Jets 21. Jets cover the 8.5. Under 51.5.",
+   "gambler_story": "Lot J at MetLife Stadium turns into the New Meadowlands Market every Saturday morning, and I'm shopping this Bills vs Jets spread the same way I'd shop those tables. My Week 10 pick is the New York Jets +8.5, with the Under 50.5 on the total. The sticker says Buffalo by more than a touchdown, and I'm not paying it.\n\nBuffalo is −8.5 at DraftKings as of Nov 15, 9:59 AM ET, with the total at 50.5; Tuesday morning's Action Network consensus had −8 and 50.5. The Bills are 7-1 and 4-0 on the road, with 256 points scored and 187 allowed. The Jets have scored 182 and allowed 223, and they're 1-3 at home. Nobody's arguing about which team is better.\n\nThe Formula: Net ratings New York Jets −3.1, Buffalo Bills 3.1 (nflverse play-by-play, Nov 10, 2026).\n\nBuffalo is better, but not eight points better on the road. The schedule isn't doing Buffalo any favors either. The Bills won 23-6 in Minnesota on Monday night, so they get six days before another road kickoff at 1 p.m. Sunday. That's a second straight trip on a short week, against a division opponent that sees them twice a year.\n\nJosh Allen is still the best player on the field, and James Cook gives Buffalo a run game that gains 4.8 yards a carry. The Jets allow 4.3, which isn't a wall but isn't a welcome mat either. Geno Smith has Garrett Wilson and Breece Hall, and that's enough to grab a late touchdown if Buffalo gets comfortable.\n\nSunday morning update: as of Nov 15, 9:59 AM ET, DraftKings has Bills −8.5, total 50.5. This preview was written against Bills −8, total 50.5, so the spread moved from Bills −8 to Bills −8.5, and the total, which rose to 51.5 earlier this morning, is back down to 50.5. The Cover Writer stays on Jets +8.5 with Bills 28, Jets 21, because Bills by 7 stays inside the 8.5. The Under holds at 50.5 with 49 points, a point and a half short.\n\nFollow The Money, which follows the Action Network consensus: as of Nov 15, 9:58 AM ET, the consensus spread has not moved from Bills −7.5, and the consensus total opened 50.5, went as high as 51.5 overnight and is back at 50.5, so it has no side pick and no total pick (neither number is a full point off its open). The Formula: Bills 27, Jets 23 on net ratings. It stays on Jets +8.5 (Bills by 4 stays inside the 8.5) and stays on the Under, now 50.5 (50 points). Next Man Up: Bills 28, Jets 21 on who's playing. It stays on Jets +8.5 (Bills by 7 stays inside the 8.5) and stays on the Under, now 50.5 (49 points). Letdown Watch: Bills 30, Jets 18 on rest and travel. It stays on Bills −8.5 (Bills by 12 clears the 8.5) and stays on the Under, now 50.5 (48 points). In The Trenches: Bills 28, Jets 21 on the line of scrimmage. It stays on Jets +8.5 (Bills by 7 stays inside the 8.5) and stays on the Under, now 50.5 (49 points).\n\nMy card says Buffalo Bills 28, New York Jets 21. That's a seven-point Bills win, inside the 8.5, and 49 points, a point and a half short of 50.5. A Buffalo defense that just held Minnesota to six shouldn't let this turn into a track meet, and a Bills team on six days of rest has no reason to be in a hurry once it's ahead.\n\nAllen and Geno Smith both started last week. No official Week 10 injury report was up when I checked Tuesday, so nothing in this call depends on a status I haven't seen.\n\nI'm not calling an upset. I'm calling a Buffalo win that doesn't match the sticker.\n\nBills 28, Jets 21. Jets cover the 8.5. Under 50.5.",
    "fanatic_story": "Mike Lasker bought a football-shaped lamp at the Saturday flea in MetLife Stadium's Lot J, and Ellen Marsh hasn't stopped laughing at him since. That was the opening act for Buffalo Bills vs New York Jets in Week 10, when Josh Allen brings a 7-1 Bills team into the same stadium as Geno Smith and a 2-7 Jets team Mike still refuses to quit on.\n\nThe New Meadowlands flea sets up in Lot J every Saturday from 8 a.m. to 4 p.m., free to get in and free to park, and Mike walked it end to end with Ellen. She bought a scarf. He bought the lamp and swore it was vintage.\n\nEllen: \"That lamp still has the dollar-store sticker on it.\"\n\nMike: \"Everybody says that about my lamps. Everybody is usually wrong.\"\n\nMike's whole personality grew out of one January afternoon in Miami. Everybody said the AFL champion had no chance in Super Bowl III. Joe Namath said otherwise, and the Jets beat Baltimore. Mike was raised on the idea that when the whole world agrees on something, you go check the work.\n\nEllen has the opposite problem. She's a Bills fan who stopped clapping for division titles years ago. Buffalo has a shelf full of them, and she'll remind you the last time this franchise finished a season as champion was 1965, in the AFL. Everything since then is a question she asks out loud every winter. Her saying is short: wake me in January.\n\nMike: \"You're 7-1 and you're bored.\"\n\nEllen: \"I'm not bored. I'm waiting. There's a difference.\"\n\nHere's what Ellen can't wave off. The Bills are 4-0 on the road, and they just went into Minnesota on Monday night and won 23-6. Allen did Allen things, James Cook kept the chains moving, and the defense never let the Vikings breathe.\n\nMike: \"Monday night in Minnesota, Sunday afternoon in Jersey. That's six days. Your guys are going to be dragging by halftime.\"\n\nEllen: \"Our guys are going to be tired of scoring.\"\n\nMike has his own mess. The Jets are 2-7, and last week was rough, a 35-12 loss at Kansas City. They're 1-3 at home. Aaron Glenn's season hasn't gone the way the green half of MetLife hoped in August.\n\nEllen: \"Two and seven, Mike.\"\n\nMike: \"Two and seven is when the Jets are most dangerous. Nobody's watching. Nobody's scared. That's when you get them.\"\n\nThere are real arguments buried in the noise. Garrett Wilson can take a game and run off with it. Breece Hall can turn a nothing carry into a stadium on its feet. Demario Davis and Minkah Fitzpatrick have been around long enough to know where Allen likes to go when he scrambles. And this is the AFC East, where nobody is a stranger.\n\nEllen: \"You just described a highlight package.\"\n\nMike: \"I described Sunday.\"\n\nThe history lives in both of them. The Bills and Jets started together in 1960, original AFL teams. Ellen's two titles came in 1964 and 1965. Mike's came in Super Bowl III. They've been fighting about which one weighs more since the day they met.\n\nEllen: \"Two championships.\"\n\nMike: \"One Super Bowl.\"\n\nEllen: \"Ours were real championships.\"\n\nMike: \"Ours had Namath. Yours had a trophy nobody outside Buffalo remembers.\"\n\nEllen: \"Everybody in Buffalo remembers. That's plenty.\"\n\nSunday, Mike is setting up in Lot J again, minus the lamp. Ellen is getting there early so she can watch him explain to strangers why this is the week. She's heard the speech. She's also watched Buffalo let teams hang around long enough to make a fourth quarter tense. Mike says the Jets make it uncomfortable for a while. Ellen says she'll be wide awake for the part where Allen ends it.\n\nMy call: Bills 28, Jets 21.",
    "fanatic_final_sentence": "Bills 28, Jets 21.",
    "preview_sources": [],
