@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-14T23:38:53Z",
+ "updated_utc": "2026-11-15T00:17:39Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -2965,7 +2965,24 @@
    "kickoff_utc": "2026-11-14T20:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "R2kDHdoC0Ng",
+    "title": "Kansas vs. West Virginia Highlights | 2026 Monster Energy Big 12 Football",
+    "channel": "Big 12 Conference",
+    "channel_id": "UCLnfOCTbfqMy_3ah8OmTHEQ",
+    "url": "https://www.youtube.com/watch?v=R2kDHdoC0Ng",
+    "embed_url": "https://www.youtube-nocookie.com/embed/R2kDHdoC0Ng",
+    "thumb": "https://i.ytimg.com/vi/R2kDHdoC0Ng/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T00:02:52Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-15T00:13:31Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856883": {
    "game_id": "401856883",
@@ -2989,7 +3006,24 @@
    "kickoff_utc": "2026-11-14T20:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "eowIEU9Z-Y4",
+    "title": "California Golden Bears vs. Virginia Cavaliers | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=eowIEU9Z-Y4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/eowIEU9Z-Y4",
+    "thumb": "https://i.ytimg.com/vi/eowIEU9Z-Y4/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-14T23:45:46Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-15T00:14:34Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858518": {
    "game_id": "401858518",
@@ -3021,7 +3055,24 @@
    "kickoff_utc": "2026-11-14T20:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "q5NNIBAoYps",
+    "title": "Georgia Southern Eagles vs Georgia State Panthers Highlights | 2026 Sun Belt Conference Football",
+    "channel": "Sun Belt Conference",
+    "channel_id": "UCwRkms-Zb61HtMDIjmKofmw",
+    "url": "https://www.youtube.com/watch?v=q5NNIBAoYps",
+    "embed_url": "https://www.youtube-nocookie.com/embed/q5NNIBAoYps",
+    "thumb": "https://i.ytimg.com/vi/q5NNIBAoYps/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T00:08:14Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-15T00:15:44Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401870752": {
    "game_id": "401870752",
