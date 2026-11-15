@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-15T00:17:39Z",
+ "updated_utc": "2026-11-15T00:41:28Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -2990,7 +2990,24 @@
    "kickoff_utc": "2026-11-14T20:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "fQ0LPoxkan4",
+    "title": "Missouri Tigers vs. Georgia Bulldogs | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=fQ0LPoxkan4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/fQ0LPoxkan4",
+    "thumb": "https://i.ytimg.com/vi/fQ0LPoxkan4/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T00:07:38Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-15T00:39:07Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858294": {
    "game_id": "401858294",
@@ -3031,7 +3048,24 @@
    "kickoff_utc": "2026-11-14T20:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "7AHIr4yUElE",
+    "title": "No. 18 USC Trojans vs No. 9 Indiana Hoosiers | Week 11 Full Game Highlights",
+    "channel": "CBS Sports",
+    "channel_id": "UCja8sZ2T4ylIqjggA1Zuukg",
+    "url": "https://www.youtube.com/watch?v=7AHIr4yUElE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/7AHIr4yUElE",
+    "thumb": "https://i.ytimg.com/vi/7AHIr4yUElE/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T00:23:45Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-15T00:39:53Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858523": {
    "game_id": "401858523",
@@ -3039,7 +3073,24 @@
    "kickoff_utc": "2026-11-14T20:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "iWcESDUUNaQ",
+    "title": "Michigan Wolverines vs No. 16 Oregon Ducks Highlights | FOX College Football",
+    "channel": "CFB ON FOX",
+    "channel_id": "UCpwix-O6ceqMgdxhqIynzFA",
+    "url": "https://www.youtube.com/watch?v=iWcESDUUNaQ",
+    "embed_url": "https://www.youtube-nocookie.com/embed/iWcESDUUNaQ",
+    "thumb": "https://i.ytimg.com/vi/iWcESDUUNaQ/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T00:29:18Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-15T00:40:09Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401864536": {
    "game_id": "401864536",
@@ -3088,7 +3139,24 @@
    "kickoff_utc": "2026-11-14T20:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "B47QV_UQCMk",
+    "title": "Middle Tennessee State Blue Raiders vs Liberty Flames College Football Highlights | Week 11 Condense",
+    "channel": "CBS Sports College Football",
+    "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+    "url": "https://www.youtube.com/watch?v=B47QV_UQCMk",
+    "embed_url": "https://www.youtube-nocookie.com/embed/B47QV_UQCMk",
+    "thumb": "https://i.ytimg.com/vi/B47QV_UQCMk/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T00:35:55Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-15T00:40:49Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401860916": {
    "game_id": "401860916",
