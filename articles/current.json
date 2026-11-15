@@ -4,7 +4,7 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-11-11T05:37:32Z",
-  "count": 20,
+  "count": 24,
   "lead_id": null,
   "articles": [
     {
@@ -174,6 +174,354 @@
         {
           "label": "ESPN Florida State Seminoles 2026 schedule",
           "url": "https://www.espn.com/college-football/team/schedule/_/id/52"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-colorado",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "colorado",
+      "team_ids": [
+        "colorado"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856860",
+      "title": "Colorado vs Houston: 28 Straight Points and a Stampede Onto Folsom Field",
+      "byline": "Moss Feldstein, The Colorado Fanatic",
+      "matchup": "Final: Colorado Buffaloes (4-6) 42, Houston Cougars (7-3) 32, Fri., Nov. 13, Folsom Field, Boulder. Next: at Cincinnati, Sat., Nov. 21, 12:00 PM ET, Nippert Stadium, Cincinnati",
+      "date": "2026-11-13",
+      "word_count": 366,
+      "text": "The kids rushed the field at Folsom, and I was right behind them with my knees creaking. Colorado 42, Houston 32 on Friday night in Boulder. The Buffaloes are 4-6, and we just beat a top-15 team for the first time since 2007. The Flatirons were dark, the air was cold, and I have never felt warmer in my life.\n\nIt did not start pretty. Houston kicked a field goal, scored again seconds into the second quarter, and was up 20-7 after a 52-yard kick with 2:36 left in the half. I was muttering at the scoreboard. Then the Go-Go offense finally went, went.\n\nDeKalon Taylor took one carry and turned it into a 67-yard touchdown with 1:49 left. JaQuail Smith ripped off a 32-yarder with 15 seconds on the clock, and suddenly we led 21-20 at halftime. Richard Young had already gone 38 yards for our first score, and he finished with 99 yards on 21 carries and two touchdowns. Colorado ran for 249 yards, the most of the Sanders era. Boulder, we can run the ball!\n\nThe third quarter was the knockout. Right after Randon Fontenette forced a fumble on Houston's first snap of the half, Isaac Wilson hit Joseph Williams for a 53-yard touchdown, and after Wilson limped off, Kaneal Sweetwyne scored on his very first snap, a 14-yard keeper that made it 35-20. Twenty-eight straight points. Wilson finished 17 of 25 for 217 yards, and he came back on that ankle, which tells you everything about the kid.\n\nRandon Fontenette was the best player on the field on defense. Thirteen tackles, 12 of them solo, plus that sack that knocked the ball loose from Conner Weigman. Boo Carter picked off a throw late in the third. We converted 10 of 14 third downs, and that is how you keep a good offense on the sideline.\n\nHouston kept coming. Weigman threw for 272 yards and three scores, and when they made it 35-26, my heart did a little dance I didn't enjoy. Young's 2-yard run with 3:59 left settled it.\n\nTwo more to go, Buffs. Ralphie's ready. So am I. The Colorado Buffaloes travel to face Cincinnati in Cincinnati, Nov. 21, noon ET.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The kids rushed the field at Folsom, and I was right behind them with my knees creaking. Colorado 42, Houston 32 on Friday night in Boulder. The Buffaloes are 4-6, and we just beat a top-15 team for the first time since 2007. The Flatirons were dark, the air was cold, and I have never felt warmer in my life."
+        },
+        {
+          "type": "paragraph",
+          "text": "It did not start pretty. Houston kicked a field goal, scored again seconds into the second quarter, and was up 20-7 after a 52-yard kick with 2:36 left in the half. I was muttering at the scoreboard. Then the Go-Go offense finally went, went."
+        },
+        {
+          "type": "paragraph",
+          "text": "DeKalon Taylor took one carry and turned it into a 67-yard touchdown with 1:49 left. JaQuail Smith ripped off a 32-yarder with 15 seconds on the clock, and suddenly we led 21-20 at halftime. Richard Young had already gone 38 yards for our first score, and he finished with 99 yards on 21 carries and two touchdowns. Colorado ran for 249 yards, the most of the Sanders era. Boulder, we can run the ball!"
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter was the knockout. Right after Randon Fontenette forced a fumble on Houston's first snap of the half, Isaac Wilson hit Joseph Williams for a 53-yard touchdown, and after Wilson limped off, Kaneal Sweetwyne scored on his very first snap, a 14-yard keeper that made it 35-20. Twenty-eight straight points. Wilson finished 17 of 25 for 217 yards, and he came back on that ankle, which tells you everything about the kid."
+        },
+        {
+          "type": "paragraph",
+          "text": "Randon Fontenette was the best player on the field on defense. Thirteen tackles, 12 of them solo, plus that sack that knocked the ball loose from Conner Weigman. Boo Carter picked off a throw late in the third. We converted 10 of 14 third downs, and that is how you keep a good offense on the sideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Houston kept coming. Weigman threw for 272 yards and three scores, and when they made it 35-26, my heart did a little dance I didn't enjoy. Young's 2-yard run with 3:59 left settled it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Two more to go, Buffs. Ralphie's ready. So am I. The Colorado Buffaloes travel to face Cincinnati in Cincinnati, Nov. 21, noon ET."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Colorado beat Houston 42-32 on Friday, Nov. 13, at Folsom Field, the program's first win against an AP top-15 team since 2007."
+        },
+        {
+          "type": "fact",
+          "text": "The Buffaloes scored 28 straight points and ran for 249 yards, with Richard Young scoring twice and DeKalon Taylor breaking a 67-yard touchdown run."
+        },
+        {
+          "type": "jab",
+          "text": "Houston led 20-7 and then watched us score four times in a row. Welcome to Boulder."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Cincinnati, Saturday, Nov. 21, 12:00 PM ET, Nippert Stadium, Cincinnati."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Colorado 42, Houston 32 (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856860"
+        },
+        {
+          "label": "ESPN game recap, Houston at Colorado (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856860"
+        },
+        {
+          "label": "ESPN play-by-play, Houston at Colorado (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856860"
+        },
+        {
+          "label": "ESPN Colorado Buffaloes 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/38"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-houston",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "houston",
+      "team_ids": [
+        "houston"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856860",
+      "title": "Houston vs Colorado: Weigman Battles, Cougars Fall 42-32 in Boulder",
+      "byline": "Yolanda 'Yo' Pacheco, The Houston Fanatic",
+      "matchup": "Final: Colorado Buffaloes (4-6) 42, Houston Cougars (7-3) 32, Fri., Nov. 13, Folsom Field, Boulder. Next: at West Virginia, Sat., Nov. 21, time TBA, Milan Puskar Stadium, Morgantown",
+      "date": "2026-11-13",
+      "word_count": 359,
+      "text": "Coogs, I need a minute. Colorado 42, Houston 32 on Friday night at Folsom Field, and we're 7-3. I wore my red in the Boulder cold, I watched the Buffaloes fans pour onto the field, and I drove the long way back to the hotel so I could think about what happened between the last two minutes of the first half and the end of the third quarter.\n\nBecause for a while, this was our night. Jonathan Dimas opened with a 27-yard field goal. Makhi Hughes punched in an 8-yarder seconds into the second quarter. Conner Weigman hit Amare Thomas for a 4-yard score, and then Dimas drilled a 52-yarder with 2:36 left in the half. 20-7, Houston. The mountains looked friendlier at that moment.\n\nThen it all slipped away. Colorado broke a 67-yard run, then a 32-yarder with 15 seconds left, and we went to the locker room down 21-20. On our first snap of the third quarter, Weigman got sacked and fumbled, and they cashed it in with a 53-yard throw. We came up empty on fourth down at their 25, then they added a 14-yard keeper, and that was 28 straight points against a defense I'd put up with anybody's.\n\nI'm proud of how the offense answered. Weigman threw for 272 yards and three touchdowns. Patrick Overmyer was terrific with nine catches for 116 yards and a 22-yard score. Hughes ran for 106 yards on 15 carries, and Re'Shaun Sanford II added 70. Trent Walker caught a 4-yard touchdown with 1:51 left. We put up 477 yards in their building.\n\nOn defense, Kentrell Webb made nine tackles and Javion White picked off a throw to open the second half. But Colorado ran for 249 yards and converted 10 of 14 third downs, and nobody wins in the mountains giving up that.\n\nThis one stings because it was there for the taking. But this team is 7-3, Willie Fritz has built something real, and a single bad stretch in Boulder doesn't change that.\n\nBring a coat, Coogs. Then bring the fight. Go Coogs. The Houston Cougars travel to face West Virginia in Morgantown, Nov. 21, time TBA.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Coogs, I need a minute. Colorado 42, Houston 32 on Friday night at Folsom Field, and we're 7-3. I wore my red in the Boulder cold, I watched the Buffaloes fans pour onto the field, and I drove the long way back to the hotel so I could think about what happened between the last two minutes of the first half and the end of the third quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Because for a while, this was our night. Jonathan Dimas opened with a 27-yard field goal. Makhi Hughes punched in an 8-yarder seconds into the second quarter. Conner Weigman hit Amare Thomas for a 4-yard score, and then Dimas drilled a 52-yarder with 2:36 left in the half. 20-7, Houston. The mountains looked friendlier at that moment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then it all slipped away. Colorado broke a 67-yard run, then a 32-yarder with 15 seconds left, and we went to the locker room down 21-20. On our first snap of the third quarter, Weigman got sacked and fumbled, and they cashed it in with a 53-yard throw. We came up empty on fourth down at their 25, then they added a 14-yard keeper, and that was 28 straight points against a defense I'd put up with anybody's."
+        },
+        {
+          "type": "paragraph",
+          "text": "I'm proud of how the offense answered. Weigman threw for 272 yards and three touchdowns. Patrick Overmyer was terrific with nine catches for 116 yards and a 22-yard score. Hughes ran for 106 yards on 15 carries, and Re'Shaun Sanford II added 70. Trent Walker caught a 4-yard touchdown with 1:51 left. We put up 477 yards in their building."
+        },
+        {
+          "type": "paragraph",
+          "text": "On defense, Kentrell Webb made nine tackles and Javion White picked off a throw to open the second half. But Colorado ran for 249 yards and converted 10 of 14 third downs, and nobody wins in the mountains giving up that."
+        },
+        {
+          "type": "paragraph",
+          "text": "This one stings because it was there for the taking. But this team is 7-3, Willie Fritz has built something real, and a single bad stretch in Boulder doesn't change that."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bring a coat, Coogs. Then bring the fight. Go Coogs. The Houston Cougars travel to face West Virginia in Morgantown, Nov. 21, time TBA."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Houston lost 42-32 at Colorado on Friday, Nov. 13, at Folsom Field. The Cougars are 7-3."
+        },
+        {
+          "type": "fact",
+          "text": "Conner Weigman threw for 272 yards and three touchdowns, and Patrick Overmyer caught nine balls for 116 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Colorado needed a 28-point run and a backup keeper to get past us. We'll see them again in the record books."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at West Virginia, Saturday, Nov. 21, time TBA, Milan Puskar Stadium, Morgantown."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Colorado 42, Houston 32 (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856860"
+        },
+        {
+          "label": "ESPN game recap, Houston at Colorado (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856860"
+        },
+        {
+          "label": "ESPN play-by-play, Houston at Colorado (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856860"
+        },
+        {
+          "label": "ESPN Houston Cougars 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/248"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ucla",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "ucla",
+      "team_ids": [
+        "ucla"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858526",
+      "title": "UCLA vs Illinois: Scooter Jackson, Aidan Mizell and a Rain-Soaked 10-0",
+      "byline": "Kensington 'Kenzie' Rhee, The UCLA Fanatic",
+      "matchup": "Final: UCLA Bruins (10-0) 22, Illinois Fighting Illini (6-4) 14, Fri., Nov. 13, Rose Bowl, Pasadena. Next: at Michigan, Sat., Nov. 21, time TBA, Michigan Stadium, Ann Arbor",
+      "date": "2026-11-13",
+      "word_count": 388,
+      "text": "Ten and oh. Say it slowly, Westwood. UCLA 22, Illinois 14 on Friday night at the Rose Bowl, and the Bruins are 10-0 for the third time in program history. It rained in Pasadena, which basically never happens, and I stood in the Arroyo with a soggy blue poncho and the biggest grin in Southern California.\n\nLet's start with Aidan Mizell, because the man refuses to be slowed by anything, rain included. Six catches, 176 yards. On our opening drive he hauled in a 54-yard touchdown from Ty Dieffenbach, and the whole stadium knew right away this was going to be his night.\n\nThen came the scare. Dieffenbach went down on that elbow late in the second quarter and headed to the locker room, and I swear you could hear 45,800 people hold their breath at once. Madden Iamaleava kept the ship upright for three series. When Ty jogged back onto the field with 55 seconds left in the third, the noise was something I will tell my grandkids about. His first drive back went 75 yards in eight plays and ended with Semaj Morgan catching a 26-yarder in the end zone. 19-7, Bruins. Dieffenbach finished 13 of 20 for 232 yards and two scores. Warrior stuff.\n\nBut the best part of this whole wet night was the defense. Scooter Jackson picked off two throws, including the one with 2:50 left that he took back 41 yards to the Illinois 19. Derrick Barksdale grabbed another. Aiden Gobaira sacked Katin Houser in the end zone for a safety in the third quarter, and Sammy Omosigho led us with seven tackles. Illinois managed 240 yards and 64 on the ground. Seven straight opponents held to 20 points or fewer. Pasadena, that's a wall.\n\nMateen Bhaghani was perfect, too: a 20-yarder before halftime and a 37-yarder with 1:56 left that made it a two-score game. Curtis Gerrand dropped three punts inside the 20. Special teams win wet games.\n\nIllinois never quit, I'll give the Illini that. They cut it to 19-14 with 7:14 to go, and I was not breathing again for a while. But this group just keeps finding a way.\n\nBig House, big stage, 10-0 Bruins. Pack a sweater, Westwood. We're going to need it. The UCLA Bruins travel to face Michigan in Ann Arbor, Nov. 21, time TBA.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ten and oh. Say it slowly, Westwood. UCLA 22, Illinois 14 on Friday night at the Rose Bowl, and the Bruins are 10-0 for the third time in program history. It rained in Pasadena, which basically never happens, and I stood in the Arroyo with a soggy blue poncho and the biggest grin in Southern California."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let's start with Aidan Mizell, because the man refuses to be slowed by anything, rain included. Six catches, 176 yards. On our opening drive he hauled in a 54-yard touchdown from Ty Dieffenbach, and the whole stadium knew right away this was going to be his night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the scare. Dieffenbach went down on that elbow late in the second quarter and headed to the locker room, and I swear you could hear 45,800 people hold their breath at once. Madden Iamaleava kept the ship upright for three series. When Ty jogged back onto the field with 55 seconds left in the third, the noise was something I will tell my grandkids about. His first drive back went 75 yards in eight plays and ended with Semaj Morgan catching a 26-yarder in the end zone. 19-7, Bruins. Dieffenbach finished 13 of 20 for 232 yards and two scores. Warrior stuff."
+        },
+        {
+          "type": "paragraph",
+          "text": "But the best part of this whole wet night was the defense. Scooter Jackson picked off two throws, including the one with 2:50 left that he took back 41 yards to the Illinois 19. Derrick Barksdale grabbed another. Aiden Gobaira sacked Katin Houser in the end zone for a safety in the third quarter, and Sammy Omosigho led us with seven tackles. Illinois managed 240 yards and 64 on the ground. Seven straight opponents held to 20 points or fewer. Pasadena, that's a wall."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mateen Bhaghani was perfect, too: a 20-yarder before halftime and a 37-yarder with 1:56 left that made it a two-score game. Curtis Gerrand dropped three punts inside the 20. Special teams win wet games."
+        },
+        {
+          "type": "paragraph",
+          "text": "Illinois never quit, I'll give the Illini that. They cut it to 19-14 with 7:14 to go, and I was not breathing again for a while. But this group just keeps finding a way."
+        },
+        {
+          "type": "paragraph",
+          "text": "Big House, big stage, 10-0 Bruins. Pack a sweater, Westwood. We're going to need it. The UCLA Bruins travel to face Michigan in Ann Arbor, Nov. 21, time TBA."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "UCLA beat Illinois 22-14 on Friday, Nov. 13, at the Rose Bowl to move to 10-0, the third 10-0 start in program history."
+        },
+        {
+          "type": "fact",
+          "text": "Aidan Mizell caught six balls for 176 yards and a touchdown, and Scooter Jackson intercepted two throws."
+        },
+        {
+          "type": "jab",
+          "text": "Illinois found 64 rushing yards all night in the rain. Our defense does not do sharing."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Michigan, Saturday, Nov. 21, time TBA, Michigan Stadium, Ann Arbor."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, UCLA 22, Illinois 14 (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858526"
+        },
+        {
+          "label": "ESPN game recap, Illinois at UCLA (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858526"
+        },
+        {
+          "label": "ESPN play-by-play, Illinois at UCLA (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858526"
+        },
+        {
+          "label": "ESPN UCLA Bruins 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/26"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-illinois",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "illinois",
+      "team_ids": [
+        "illinois"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858526",
+      "title": "Illinois vs UCLA: Illini Fight Back in the Rain, Fall 22-14 in Pasadena",
+      "byline": "Margery Vandermolen, The Illinois Fanatic",
+      "matchup": "Final: UCLA Bruins (10-0) 22, Illinois Fighting Illini (6-4) 14, Fri., Nov. 13, Rose Bowl, Pasadena. Next: vs Iowa, Sat., Nov. 21, 2:30 PM ET, Gies Memorial Stadium, Champaign",
+      "date": "2026-11-13",
+      "word_count": 377,
+      "text": "Well, Illini Nation, we came to the Rose Bowl and it rained on us. Of course it did. UCLA 22, Illinois 14 on Friday night in Pasadena, and we're 6-4. I flew out of Champaign hoping for sunshine and palm trees and got a wet seat and a long walk back to the car.\n\nThe first half was rough, and there's no use pretending otherwise. UCLA hit a 54-yard touchdown on its first drive, kicked a field goal before halftime, and we went into the locker room down 10-0 without a point to show for our trouble. Then in the third quarter Katin Houser got sacked in the end zone for a safety, and it was 12-0. That's when you find out what a team is made of.\n\nOurs is made of fight. Late in the third, Houser found Kaden Feagin for an 18-yard touchdown, and the orange in our corner of the stadium came alive. After UCLA answered, Houser marched us right back and hit Collin Dixon from 7 yards out with 7:14 left. 19-14. We were one stop and one drive from stealing one at the Rose Bowl.\n\nJames Kreutz played like a man possessed. Eleven tackles, three for loss, and he seemed to be in on every big stop. Matthew Bailey added nine tackles, Ismael Kante got a sack, and Clarke picked off a throw in our end zone in the second quarter to keep it close. That defense deserved better than this result.\n\nThe turnovers are what got us. Houser threw three interceptions, two to Scooter Jackson, and the last one came with 2:50 left and the game still in reach. UCLA kicked a 37-yarder at 1:56, and our last try ended on a fourth-down throw that fell incomplete. Hudson Clement had three catches for 62 yards and Aidan Laughery ran hard for 49, but against an unbeaten team, three giveaways are too many.\n\nHere's what I know about this program. We went into the Rose Bowl against an unbeaten team and made them sweat into the final two minutes. We converted 8 of 16 on third down. Nobody packed it in.\n\nDry socks, loud voices. Oskee-wow-wow, Champaign. The Illinois Fighting Illini host Iowa at Gies Memorial Stadium, Nov. 21, 2:30 PM ET.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Well, Illini Nation, we came to the Rose Bowl and it rained on us. Of course it did. UCLA 22, Illinois 14 on Friday night in Pasadena, and we're 6-4. I flew out of Champaign hoping for sunshine and palm trees and got a wet seat and a long walk back to the car."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half was rough, and there's no use pretending otherwise. UCLA hit a 54-yard touchdown on its first drive, kicked a field goal before halftime, and we went into the locker room down 10-0 without a point to show for our trouble. Then in the third quarter Katin Houser got sacked in the end zone for a safety, and it was 12-0. That's when you find out what a team is made of."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ours is made of fight. Late in the third, Houser found Kaden Feagin for an 18-yard touchdown, and the orange in our corner of the stadium came alive. After UCLA answered, Houser marched us right back and hit Collin Dixon from 7 yards out with 7:14 left. 19-14. We were one stop and one drive from stealing one at the Rose Bowl."
+        },
+        {
+          "type": "paragraph",
+          "text": "James Kreutz played like a man possessed. Eleven tackles, three for loss, and he seemed to be in on every big stop. Matthew Bailey added nine tackles, Ismael Kante got a sack, and Clarke picked off a throw in our end zone in the second quarter to keep it close. That defense deserved better than this result."
+        },
+        {
+          "type": "paragraph",
+          "text": "The turnovers are what got us. Houser threw three interceptions, two to Scooter Jackson, and the last one came with 2:50 left and the game still in reach. UCLA kicked a 37-yarder at 1:56, and our last try ended on a fourth-down throw that fell incomplete. Hudson Clement had three catches for 62 yards and Aidan Laughery ran hard for 49, but against an unbeaten team, three giveaways are too many."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's what I know about this program. We went into the Rose Bowl against an unbeaten team and made them sweat into the final two minutes. We converted 8 of 16 on third down. Nobody packed it in."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dry socks, loud voices. Oskee-wow-wow, Champaign. The Illinois Fighting Illini host Iowa at Gies Memorial Stadium, Nov. 21, 2:30 PM ET."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Illinois lost 22-14 at UCLA on Friday, Nov. 13, at the Rose Bowl. The Illini are 6-4."
+        },
+        {
+          "type": "fact",
+          "text": "Katin Houser threw touchdowns to Kaden Feagin and Collin Dixon, and James Kreutz made 11 tackles with three for loss."
+        },
+        {
+          "type": "jab",
+          "text": "UCLA needed a safety and two field goals to get there. We'll remember that when the sun comes out."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Iowa, Saturday, Nov. 21, 2:30 PM ET, Gies Memorial Stadium, Champaign."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, UCLA 22, Illinois 14 (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858526"
+        },
+        {
+          "label": "ESPN game recap, Illinois at UCLA (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858526"
+        },
+        {
+          "label": "ESPN play-by-play, Illinois at UCLA (Nov. 13, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858526"
+        },
+        {
+          "label": "ESPN Illinois Fighting Illini 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/356"
         }
       ],
       "sources_display": "button",
