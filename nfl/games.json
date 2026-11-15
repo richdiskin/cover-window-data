@@ -329,12 +329,12 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-10T15:17:37Z",
+    "fetched_at_utc": "2026-11-15T11:26:45Z",
     "action_network_game_id": 290823,
     "home_line": -2.5,
-    "total": 51.5,
-    "open_home_line": -1.5,
-    "open_total": 48.5,
+    "total": 50,
+    "open_home_line": -2.5,
+    "open_total": 51,
     "spread_display": "Detroit Lions −2.5",
     "open_timestamp": ""
    },
@@ -346,18 +346,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261115",
    "spread": "New England Patriots +2.5",
-   "story_text": "Patriots 26, Lions 25. Patriots cover the 2.5. Under 51.5. The Formula projects New England by 2.4 against a 2.5-point line.",
+   "story_text": "Patriots 26, Lions 25. Patriots cover the 2.5. Over 50.5. The Formula projects New England by 2.4 against a 2.5-point line.",
    "why_this_score": "",
    "betting_text": "",
-   "total_pick": "Under",
+   "total_pick": "Over",
    "total_reason_public": "",
    "line_used": {
     "home_line": -2.5,
-    "total": 51.5,
-    "source": "Consensus line as of Nov 10, 10:17 AM ET",
-    "as_of_utc": "2026-11-10T15:17:37Z"
+    "total": 50.5,
+    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:26 AM ET",
+    "as_of_utc": "2026-11-15T11:26:44Z"
    },
-   "total_line": 51.5,
+   "total_line": 50.5,
    "prediction": {
     "away_score": 26,
     "home_score": 25,
@@ -385,7 +385,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Detroit Lions −2.5 (Nov 10, 3:00 AM ET) and is Detroit Lions −2.5 now (Nov 10, 10:17 AM ET), a 0-point move. Total opened 51 (Nov 10, 12:30 AM ET) and is 51.5 now, a 0.5-point move. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Consensus spread opened Detroit Lions −2.5 (Nov 10, 3:00 AM ET) and is −2.5 now. Follow The Money has no side pick. Consensus total opened 51 (Nov 10, 12:30 AM ET) and is 50 now, a 1-point move: Under. The total pick quotes the consensus total now (50), not the game total listed on this page (50.5). Lines are the Action Network consensus as of Nov 15, 6:26 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -402,7 +402,7 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 10, 10:17 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 10, 10:17 AM ET.",
+    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 15, 6:26 AM ET; Follow The Money uses the Action Network consensus line history.",
     "The Formula ratings: nflverse play-by-play as of Nov 10, 10:17 AM ET, Weeks 1–9 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–9 finals.",
     "Injuries: NFL.com official Week 10 injury report, fetched Nov 11, 3:59 PM ET (not yet posted for this game); Next Man Up uses each team’s last starter.",
@@ -418,42 +418,42 @@
     "label": "",
     "source": "Cover Writer",
     "projected_total": 51,
-    "market_total": 51.5,
-    "pick": "Under",
-    "text": "Under 51.5"
+    "market_total": 50.5,
+    "pick": "Over",
+    "text": "Over 50.5"
    },
    "display": {
     "writer": {
      "score_line": "Projected: Detroit Lions 25, New England Patriots 26 (Total 51)",
      "side": "New England Patriots +2.5",
-     "ou": "Under 51.5",
+     "ou": "Over 50.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
       "side_line": "Side: New England Patriots +2.5 · Likes this side",
-      "ou_line": "O/U: Under 51.5 · Likes this total",
+      "ou_line": "O/U: Under 50.5",
       "score_line": "Projected: Detroit Lions 23, New England Patriots 26 (Total 49)",
       "basis_line": "Net ratings Detroit Lions −2.5, New England Patriots −0.1 (nflverse play-by-play, Nov 10, 2026)",
       "independent": true,
       "distance_from_spread": 5.5,
-      "distance_from_total": 2.5
+      "distance_from_total": 1.5
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: New England Patriots +2.5",
-      "ou_line": "O/U: Under 51.5",
+      "ou_line": "O/U: Under 50.5",
       "score_line": "Projected: Detroit Lions 25, New England Patriots 24 (Total 49)",
       "basis_line": "Projected points: Detroit Lions 24.9, New England Patriots 24.7. Availability: expected starting quarterbacks Jared Goff (DET) and Drake Maye (NE). NFL.com official Week 10 injury report (fetched Nov 11, 3:59 PM ET): not yet posted for this game, so it lists no quarterback.",
       "independent": true,
       "distance_from_spread": 1.5,
-      "distance_from_total": 2.5
+      "distance_from_total": 1.5
      },
      {
       "name": "Letdown Watch",
       "side_line": "Side: New England Patriots +2.5",
-      "ou_line": "O/U: Under 51.5",
+      "ou_line": "O/U: Over 50.5",
       "score_line": "Projected: Detroit Lions 26, New England Patriots 25 (Total 51)",
       "basis_line": "Rest and travel: New England Patriots: 7 days since its last game, travels 3860 miles; Detroit Lions: 7 days since its last game, travels 4317 miles, last game was also away from home. Projected: Lions by 1.7, total 51.1.",
       "independent": true,
@@ -463,17 +463,17 @@
      {
       "name": "Follow The Money",
       "side_line": "Side: no pick (not enough line movement)",
-      "ou_line": "O/U: no pick (not enough total movement)",
+      "ou_line": "O/U: Under 50 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Detroit Lions −2.5 (Nov 10, 3:00 AM ET) and is Detroit Lions −2.5 now (Nov 10, 10:17 AM ET), a 0-point move. Total opened 51 (Nov 10, 12:30 AM ET) and is 51.5 now, a 0.5-point move. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Detroit Lions −2.5 (Nov 10, 3:00 AM ET) and is −2.5 now. Follow The Money has no side pick. Consensus total opened 51 (Nov 10, 12:30 AM ET) and is 50 now, a 1-point move: Under. The total pick quotes the consensus total now (50), not the game total listed on this page (50.5). Lines are the Action Network consensus as of Nov 15, 6:26 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 0.5
+      "distance_from_spread": 0.0,
+      "distance_from_total": 1
      },
      {
       "name": "In The Trenches",
       "side_line": "Side: New England Patriots +2.5",
-      "ou_line": "O/U: Under 51.5",
+      "ou_line": "O/U: Over 50.5",
       "score_line": "Projected: Detroit Lions 26, New England Patriots 25 (Total 51)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 9). Projected points: Detroit Lions 25.4, New England Patriots 25.3.",
       "independent": true,
@@ -482,17 +482,17 @@
      }
     ],
     "best_bets": [],
-    "story_text": "Munich gets an American weekend, and the Patriots vs Lions spread at 2.5 asks whether Detroit's home-field magic packs into a suitcase. My prediction for Week 10 is Patriots 26, Lions 25, so New England with the points is my pick, and Under 51.5 is where I land on the over/under.\n\nThe Lions are the designated home team, and they brought a show: a Fan Fest on Odeonsplatz Friday and Saturday with Kevin Saunderson and Big Sean on stage. The Patriots answered with a Patriots Haus and all six Super Bowl rings on display. None of that travels onto the field on Sunday, and neither does Detroit's 4-0 home record. Kickoff is 3:30 in Munich, 9:30 in the morning on the East Coast, and the Lions practice at home Wednesday and Thursday before they fly out, which gives them about 48 hours on the ground.\n\nThe Formula: Net ratings Detroit Lions −2.5, New England Patriots −0.1 (nflverse play-by-play, Nov 10, 2026).\n\nNew England is coming off the most points it has ever allowed at Gillette Stadium, a forty-five to twenty-seven loss to Green Bay in which Drake Maye threw three interceptions before halftime. It's also 5-4, it's scored 211 points, and Maye still finished that game with three touchdown throws. Detroit is 6-2 with four straight wins, but the last one was a 19-9 grinder in Miami in which Jared Goff was sacked three times. Take the home building away and these are two teams separated by a field goal at most.\n\nThe injuries are real on both sides. Mike Vrabel doesn't expect left guard Ben Brown to play, with Mike Onwenu and Alijah Vera-Tucker already on injured reserve, and Rhamondre Stevenson was headed for an MRI on his knee. Detroit lost Jack Campbell to injured reserve with a neck injury. Aidan Hutchinson leads the league in pressures, and Milton Williams leads a deep Patriots front against a short-handed Lions interior. Those cancel more than they tilt.\n\nThe Under is the cleaner half. Detroit has held four straight opponents to 21 points or fewer, the first time it's done that in a decade. The Lions run for 4.7 yards a carry against a defense that allows 4.0, and a patched-up Patriots front will want the ball on the ground too. A neutral-site game on a short body clock, with both teams wanting to run it, finishes at 51, a half-point shy of the posted 51.5.\n\nThe room is unanimous. The Formula has Patriots 26, Lions 23. Next Man Up has Lions 25, Patriots 24, and Letdown Watch and In The Trenches both land on Lions 26, Patriots 25. All four take New England plus the 2.5 and the Under. Follow The Money has no pick.\n\nGlen Tolliver gets his rings photo and a one-point win. Martin Sorensen gets to keep telling everyone the window is open, just not this Sunday in Bavaria.\n\nPatriots 26, Lions 25. Patriots cover the 2.5. Under 51.5.",
+    "story_text": "Munich gets an American weekend, and the Patriots vs Lions spread at 2.5 asks whether Detroit's home-field magic packs into a suitcase. My prediction for Week 10 is Patriots 26, Lions 25, so New England with the points is my pick, and Over 50.5 is where I land on the over/under.\n\nThe Lions are the designated home team, and they brought a show: a Fan Fest on Odeonsplatz Friday and Saturday with Kevin Saunderson and Big Sean on stage. The Patriots answered with a Patriots Haus and all six Super Bowl rings on display. None of that travels onto the field on Sunday, and neither does Detroit's 4-0 home record. Kickoff is 3:30 in Munich, 9:30 in the morning on the East Coast, and the Lions practice at home Wednesday and Thursday before they fly out, which gives them about 48 hours on the ground.\n\nThe Formula: Net ratings Detroit Lions −2.5, New England Patriots −0.1 (nflverse play-by-play, Nov 10, 2026).\n\nNew England is coming off the most points it has ever allowed at Gillette Stadium, a forty-five to twenty-seven loss to Green Bay in which Drake Maye threw three interceptions before halftime. It's also 5-4, it's scored 211 points, and Maye still finished that game with three touchdown throws. Detroit is 6-2 with four straight wins, but the last one was a 19-9 grinder in Miami in which Jared Goff was sacked three times. Take the home building away and these are two teams separated by a field goal at most.\n\nThe injuries are real on both sides. Mike Vrabel doesn't expect left guard Ben Brown to play, with Mike Onwenu and Alijah Vera-Tucker already on injured reserve, and Rhamondre Stevenson was headed for an MRI on his knee. Detroit lost Jack Campbell to injured reserve with a neck injury. Aidan Hutchinson leads the league in pressures, and Milton Williams leads a deep Patriots front against a short-handed Lions interior. Those cancel more than they tilt.\n\nThe total came down a point since Tuesday, to 50.5, and that moves my side of it. Detroit has held four straight opponents to 21 points or fewer, the first time it has done that in a decade, and a patched-up Patriots front will want the ball on the ground too, so the Under has a case. But New England just gave up forty-five at home, and the Lions run for 4.7 yards a carry against a defense that allows 4.0. A neutral-site game on a short body clock finishes at 51, a half-point over the posted 50.5.\n\nSunday morning update: as of Nov 15, 6:26 AM ET, DraftKings has Lions −2.5, total 50.5. This preview was written against Lions −2.5, total 51.5, so the spread is unchanged and the total dropped from 51.5 to 50.5. The Cover Writer stays on Patriots +2.5 with Patriots 26, Lions 25, because that is an outright Patriots win. The Cover Writer now takes the Over 50.5 instead of the Under 51.5: 51 points was under 51.5 and is over 50.5.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread has not moved from Lions −2.5, and the consensus total opened 51 and is 50 now, so it has no side pick (no move of a full point) and moves to the Under 50. The Formula: Patriots 26, Lions 23 on net ratings. It stays on Patriots +2.5 (an outright Patriots win) and stays on the Under, now 50.5 (49 points). Next Man Up: Lions 25, Patriots 24 on who's playing. It stays on Patriots +2.5 (Lions by 1 stays inside the 2.5) and stays on the Under, now 50.5 (49 points). Letdown Watch: Lions 26, Patriots 25 on rest and travel. It stays on Patriots +2.5 (Lions by 1 stays inside the 2.5) and moves from the Under 51.5 to the Over 50.5 (51 points). In The Trenches: Lions 26, Patriots 25 on the line of scrimmage. It stays on Patriots +2.5 (Lions by 1 stays inside the 2.5) and moves from the Under 51.5 to the Over 50.5 (51 points).\n\nGlen Tolliver gets his rings photo and a one-point win. Martin Sorensen gets to keep telling everyone the window is open, just not this Sunday in Bavaria.\n\nPatriots 26, Lions 25. Patriots cover the 2.5. Over 50.5.",
     "fanatic_score_line": "Projected: Detroit Lions 25, New England Patriots 26",
     "market": {
-     "score_line": "Market: Detroit Lions 27, New England Patriots 25 (Total 52)",
+     "score_line": "Market: Detroit Lions 27, New England Patriots 24 (Total 51)",
      "spread": "Detroit Lions −2.5",
-     "total": "51.5",
-     "source": "Consensus line as of Nov 10, 10:17 AM ET",
+     "total": "50.5",
+     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:26 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     }
    },
-   "gambler_story": "Munich gets an American weekend, and the Patriots vs Lions spread at 2.5 asks whether Detroit's home-field magic packs into a suitcase. My prediction for Week 10 is Patriots 26, Lions 25, so New England with the points is my pick, and Under 51.5 is where I land on the over/under.\n\nThe Lions are the designated home team, and they brought a show: a Fan Fest on Odeonsplatz Friday and Saturday with Kevin Saunderson and Big Sean on stage. The Patriots answered with a Patriots Haus and all six Super Bowl rings on display. None of that travels onto the field on Sunday, and neither does Detroit's 4-0 home record. Kickoff is 3:30 in Munich, 9:30 in the morning on the East Coast, and the Lions practice at home Wednesday and Thursday before they fly out, which gives them about 48 hours on the ground.\n\nThe Formula: Net ratings Detroit Lions −2.5, New England Patriots −0.1 (nflverse play-by-play, Nov 10, 2026).\n\nNew England is coming off the most points it has ever allowed at Gillette Stadium, a forty-five to twenty-seven loss to Green Bay in which Drake Maye threw three interceptions before halftime. It's also 5-4, it's scored 211 points, and Maye still finished that game with three touchdown throws. Detroit is 6-2 with four straight wins, but the last one was a 19-9 grinder in Miami in which Jared Goff was sacked three times. Take the home building away and these are two teams separated by a field goal at most.\n\nThe injuries are real on both sides. Mike Vrabel doesn't expect left guard Ben Brown to play, with Mike Onwenu and Alijah Vera-Tucker already on injured reserve, and Rhamondre Stevenson was headed for an MRI on his knee. Detroit lost Jack Campbell to injured reserve with a neck injury. Aidan Hutchinson leads the league in pressures, and Milton Williams leads a deep Patriots front against a short-handed Lions interior. Those cancel more than they tilt.\n\nThe Under is the cleaner half. Detroit has held four straight opponents to 21 points or fewer, the first time it's done that in a decade. The Lions run for 4.7 yards a carry against a defense that allows 4.0, and a patched-up Patriots front will want the ball on the ground too. A neutral-site game on a short body clock, with both teams wanting to run it, finishes at 51, a half-point shy of the posted 51.5.\n\nThe room is unanimous. The Formula has Patriots 26, Lions 23. Next Man Up has Lions 25, Patriots 24, and Letdown Watch and In The Trenches both land on Lions 26, Patriots 25. All four take New England plus the 2.5 and the Under. Follow The Money has no pick.\n\nGlen Tolliver gets his rings photo and a one-point win. Martin Sorensen gets to keep telling everyone the window is open, just not this Sunday in Bavaria.\n\nPatriots 26, Lions 25. Patriots cover the 2.5. Under 51.5.",
+   "gambler_story": "Munich gets an American weekend, and the Patriots vs Lions spread at 2.5 asks whether Detroit's home-field magic packs into a suitcase. My prediction for Week 10 is Patriots 26, Lions 25, so New England with the points is my pick, and Over 50.5 is where I land on the over/under.\n\nThe Lions are the designated home team, and they brought a show: a Fan Fest on Odeonsplatz Friday and Saturday with Kevin Saunderson and Big Sean on stage. The Patriots answered with a Patriots Haus and all six Super Bowl rings on display. None of that travels onto the field on Sunday, and neither does Detroit's 4-0 home record. Kickoff is 3:30 in Munich, 9:30 in the morning on the East Coast, and the Lions practice at home Wednesday and Thursday before they fly out, which gives them about 48 hours on the ground.\n\nThe Formula: Net ratings Detroit Lions −2.5, New England Patriots −0.1 (nflverse play-by-play, Nov 10, 2026).\n\nNew England is coming off the most points it has ever allowed at Gillette Stadium, a forty-five to twenty-seven loss to Green Bay in which Drake Maye threw three interceptions before halftime. It's also 5-4, it's scored 211 points, and Maye still finished that game with three touchdown throws. Detroit is 6-2 with four straight wins, but the last one was a 19-9 grinder in Miami in which Jared Goff was sacked three times. Take the home building away and these are two teams separated by a field goal at most.\n\nThe injuries are real on both sides. Mike Vrabel doesn't expect left guard Ben Brown to play, with Mike Onwenu and Alijah Vera-Tucker already on injured reserve, and Rhamondre Stevenson was headed for an MRI on his knee. Detroit lost Jack Campbell to injured reserve with a neck injury. Aidan Hutchinson leads the league in pressures, and Milton Williams leads a deep Patriots front against a short-handed Lions interior. Those cancel more than they tilt.\n\nThe total came down a point since Tuesday, to 50.5, and that moves my side of it. Detroit has held four straight opponents to 21 points or fewer, the first time it has done that in a decade, and a patched-up Patriots front will want the ball on the ground too, so the Under has a case. But New England just gave up forty-five at home, and the Lions run for 4.7 yards a carry against a defense that allows 4.0. A neutral-site game on a short body clock finishes at 51, a half-point over the posted 50.5.\n\nSunday morning update: as of Nov 15, 6:26 AM ET, DraftKings has Lions −2.5, total 50.5. This preview was written against Lions −2.5, total 51.5, so the spread is unchanged and the total dropped from 51.5 to 50.5. The Cover Writer stays on Patriots +2.5 with Patriots 26, Lions 25, because that is an outright Patriots win. The Cover Writer now takes the Over 50.5 instead of the Under 51.5: 51 points was under 51.5 and is over 50.5.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread has not moved from Lions −2.5, and the consensus total opened 51 and is 50 now, so it has no side pick (no move of a full point) and moves to the Under 50. The Formula: Patriots 26, Lions 23 on net ratings. It stays on Patriots +2.5 (an outright Patriots win) and stays on the Under, now 50.5 (49 points). Next Man Up: Lions 25, Patriots 24 on who's playing. It stays on Patriots +2.5 (Lions by 1 stays inside the 2.5) and stays on the Under, now 50.5 (49 points). Letdown Watch: Lions 26, Patriots 25 on rest and travel. It stays on Patriots +2.5 (Lions by 1 stays inside the 2.5) and moves from the Under 51.5 to the Over 50.5 (51 points). In The Trenches: Lions 26, Patriots 25 on the line of scrimmage. It stays on Patriots +2.5 (Lions by 1 stays inside the 2.5) and moves from the Under 51.5 to the Over 50.5 (51 points).\n\nGlen Tolliver gets his rings photo and a one-point win. Martin Sorensen gets to keep telling everyone the window is open, just not this Sunday in Bavaria.\n\nPatriots 26, Lions 25. Patriots cover the 2.5. Over 50.5.",
    "fanatic_story": "Two American fan bases have taken the middle of Munich for New England Patriots vs Detroit Lions in Week 10, and they've set up camp a few blocks apart. Detroit's Fan Fest fills Odeonsplatz on Friday and Saturday, with Kevin Saunderson spinning Detroit techno on Friday evening and Big Sean on stage Saturday, while the Patriots Haus a short walk away has all six Super Bowl rings on display, plus a Tom Brady glove and a Drew Bledsoe shoe.\n\nMartin Sorensen went to the Lions show first. Glen Tolliver went straight to the rings.\n\nGlen keeps the Patriots' receipts, and this weekend the receipts flew across in their own luggage. He stood in front of those rings for twenty minutes, then texted Martin a photo of it with no words at all.\n\nMartin: Real mature, Glen. You know what I've got? A Detroit rapper headlining the biggest square in the middle of Munich.\n\nGlen: I've got six of those little circles. You can count them from the door.\n\nMartin runs on one idea, the same one he's carried since this Lions run started: a window doesn't stay open forever, and Detroit's is open right now. The Lions are 6-2, they've won four straight, and they've held four opponents in a row to 21 points or fewer for the first time in a decade. They won 19-9 in Miami on Sunday without needing Jared Goff to do much, which Martin considers a sign of maturity and Glen considers a warning light.\n\nGlen: Your quarterback got sacked three times by the Dolphins. The Dolphins, Martin.\n\nMartin: And we still held them out of the end zone. That's the whole point.\n\nThen Martin brings up Sunday in Foxborough, because he's a fair man but not a kind one. Green Bay hung forty-five on New England, the most points anybody has ever put up on the Patriots at Gillette Stadium, and Drake Maye threw three interceptions before halftime. He still finished with three touchdown throws, and Glen will tell you that nobody else's quarterback climbs out of a hole like that. Martin will tell you nobody else's quarterback digs it.\n\nThe injury list is where Glen gets quiet. Mike Vrabel said Monday he doesn't expect left guard Ben Brown to play, and New England already had Mike Onwenu and Alijah Vera-Tucker on injured reserve. Rhamondre Stevenson left Sunday with a knee and was headed for an MRI. A.J. Brown has missed two straight games with a knee. That leaves a patched-up front five trying to hold off Aidan Hutchinson, who leads the league in pressures and hasn't had a sack in two weeks, which Martin considers a debt about to be collected.\n\nGlen has his own answer. Detroit lost Jack Campbell to injured reserve with a neck injury, and the Lions' interior is short of bodies. Milton Williams lives in that space.\n\nGlen: Your middle is hollow, and our best lineman lives in the middle.\n\nMartin: Your quarterback's going to be throwing from his own end zone.\n\nThe numbers keep them honest. Detroit runs for 4.7 yards a carry against a Patriots defense that allows 4.0. New England runs for 4.4 against a Lions defense that allows 4.2. The Lions are 4-0 in their real home building, but this one is in Munich at 3:30 local time, which is 9:30 back in Michigan and no kind of home for anyone. Detroit has scored 222 and allowed 189. New England has scored 211 and allowed 207 and sits at 5-4, needing this one more than it wants to admit.\n\nOn Saturday Martin will be in Odeonsplatz screaming every word Big Sean throws at him. Glen will be across town at Marienplatz, waiting his turn to shake Troy Brown's hand.\n\nMartin: Six rings is history. I'm here for this year.\n\nGlen: This year's going to need some history, pal.\n\nSunday morning the two of them ride out to the stadium together on the same train, Honolulu blue next to navy, not speaking. Whoever leaves happy gets to choose dinner, and the other one has to find his own way back to the hotel.\n\nMy call: Patriots 26, Lions 25.",
    "fanatic_final_sentence": "Patriots 26, Lions 25.",
    "preview_sources": [],
