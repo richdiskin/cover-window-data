@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-15T01:43:41Z",
+ "updated_utc": "2026-11-15T02:16:34Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -3247,7 +3247,24 @@
    "kickoff_utc": "2026-11-14T22:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "QmuFBVHytEU",
+    "title": "Arizona State Sun Devils vs. UCF Knights | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=QmuFBVHytEU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/QmuFBVHytEU",
+    "thumb": "https://i.ytimg.com/vi/QmuFBVHytEU/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T02:00:23Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-15T02:13:11Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858521": {
    "game_id": "401858521",
