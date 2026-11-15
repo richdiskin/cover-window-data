@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-15T04:14:24Z",
+ "updated_utc": "2026-11-15T04:51:25Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -3471,7 +3471,24 @@
    "kickoff_utc": "2026-11-15T00:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "zxdJnIenKKA",
+    "title": "Texas Longhorns vs. LSU Tigers | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=zxdJnIenKKA",
+    "embed_url": "https://www.youtube-nocookie.com/embed/zxdJnIenKKA",
+    "thumb": "https://i.ytimg.com/vi/zxdJnIenKKA/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T04:35:16Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-15T04:48:41Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858299": {
    "game_id": "401858299",
@@ -3479,7 +3496,24 @@
    "kickoff_utc": "2026-11-15T00:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "5mZCO5Qing4",
+    "title": "Stanford Cardinal vs. Virginia Tech Hokies | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=5mZCO5Qing4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/5mZCO5Qing4",
+    "thumb": "https://i.ytimg.com/vi/5mZCO5Qing4/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T04:12:40Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-15T04:48:56Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858519": {
    "game_id": "401858519",
