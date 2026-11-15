@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-15T02:16:34Z",
+ "updated_utc": "2026-11-15T02:45:45Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -3272,7 +3272,24 @@
    "kickoff_utc": "2026-11-14T22:30Z",
    "first_seen_utc": "2026-11-14T17:14:14Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "mG2-k8zoJss",
+    "title": "Washington Huskies vs Michigan State Spartans Highlights | FOX College Football",
+    "channel": "CFB ON FOX",
+    "channel_id": "UCpwix-O6ceqMgdxhqIynzFA",
+    "url": "https://www.youtube.com/watch?v=mG2-k8zoJss",
+    "embed_url": "https://www.youtube-nocookie.com/embed/mG2-k8zoJss",
+    "thumb": "https://i.ytimg.com/vi/mG2-k8zoJss/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-15T02:17:08Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-15T02:41:58Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401860914": {
    "game_id": "401860914",
