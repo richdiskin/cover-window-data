@@ -2589,13 +2589,13 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-10T15:17:37Z",
+    "fetched_at_utc": "2026-11-15T11:14:42Z",
     "action_network_game_id": 290979,
-    "home_line": 3.5,
-    "total": 43.5,
-    "open_home_line": 7,
+    "home_line": 6.5,
+    "total": 40.5,
+    "open_home_line": 3.5,
     "open_total": 43.5,
-    "spread_display": "Las Vegas Raiders +3.5",
+    "spread_display": "Las Vegas Raiders +6.5",
     "open_timestamp": ""
    },
    "injuries": {
@@ -2605,24 +2605,24 @@
     "home": null
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261115",
-   "spread": "Seattle Seahawks −3.5",
-   "story_text": "Seahawks 26, Raiders 19. Seahawks cover the 3.5. Over 43.5. The Formula projects Seattle by 8.1 against a 3.5-point line.",
+   "spread": "Seattle Seahawks −6.5",
+   "story_text": "Seahawks 26, Raiders 19. Seahawks cover the 6.5. Over 40.5. The Formula projects Seattle by 8.1 against a 6.5-point line.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
    "line_used": {
-    "home_line": 3.5,
-    "total": 43.5,
-    "source": "Consensus line as of Nov 10, 10:17 AM ET",
-    "as_of_utc": "2026-11-10T15:17:37Z"
+    "home_line": 6.5,
+    "total": 40.5,
+    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
+    "as_of_utc": "2026-11-15T11:14:42Z"
    },
-   "total_line": 43.5,
+   "total_line": 40.5,
    "prediction": {
     "away_score": 26,
     "home_score": 19,
     "winner": "Seattle Seahawks",
-    "covers": "Seattle Seahawks −3.5"
+    "covers": "Seattle Seahawks −6.5"
    },
    "handicappers": [
     {
@@ -2645,7 +2645,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Seattle Seahawks −3.5 (Nov 10, 7:11 AM ET) and is Seattle Seahawks −3.5 now (Nov 10, 10:17 AM ET), a 0-point move. Total opened 43.5 (Nov 10, 7:11 AM ET) and is 43.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Consensus spread opened Seattle Seahawks −3.5 (Nov 10, 7:11 AM ET) and is −6.5 now, a 3-point move. The side pick quotes the consensus spread now (Seattle Seahawks −6.5). Consensus total opened 43.5 (Nov 10, 7:11 AM ET) and is 40.5 now, a 3-point move: Under. The total pick quotes the consensus total now (40.5). Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -2662,7 +2662,7 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 10, 10:17 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 10, 10:17 AM ET.",
+    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 15, 6:14 AM ET; Follow The Money uses the Action Network consensus line history.",
     "The Formula ratings: nflverse play-by-play as of Nov 10, 10:17 AM ET, Weeks 1–9 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–9 finals.",
     "Injuries: NFL.com official Week 10 injury report, fetched Nov 11, 3:59 PM ET (not yet posted for this game); Next Man Up uses the starter named by the team (see Next Man Up).",
@@ -2678,81 +2678,81 @@
     "label": "",
     "source": "Cover Writer",
     "projected_total": 45,
-    "market_total": 43.5,
+    "market_total": 40.5,
     "pick": "Over",
-    "text": "Over 43.5"
+    "text": "Over 40.5"
    },
    "display": {
     "writer": {
      "score_line": "Projected: Las Vegas Raiders 19, Seattle Seahawks 26 (Total 45)",
-     "side": "Seattle Seahawks −3.5",
-     "ou": "Over 43.5",
+     "side": "Seattle Seahawks −6.5",
+     "ou": "Over 40.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Seattle Seahawks −3.5 · Likes this side",
-      "ou_line": "O/U: Over 43.5 · Likes this total",
+      "side_line": "Side: Seattle Seahawks −6.5",
+      "ou_line": "O/U: Over 40.5 · Likes this total",
       "score_line": "Projected: Las Vegas Raiders 20, Seattle Seahawks 28 (Total 48)",
       "basis_line": "Net ratings Las Vegas Raiders −7.4, Seattle Seahawks 2.4 (nflverse play-by-play, Nov 10, 2026)",
       "independent": true,
-      "distance_from_spread": 4.5,
-      "distance_from_total": 4.5
+      "distance_from_spread": 1.5,
+      "distance_from_total": 7.5
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Seattle Seahawks −3.5 · Likes this side",
-      "ou_line": "O/U: Under 43.5",
+      "side_line": "Side: Las Vegas Raiders +6.5",
+      "ou_line": "O/U: Over 40.5",
       "score_line": "Projected: Las Vegas Raiders 18, Seattle Seahawks 24 (Total 42)",
       "basis_line": "Projected points: Las Vegas Raiders 18.1, Seattle Seahawks 24.3. Availability: expected starting quarterbacks Fernando Mendoza (LV) and Drew Lock (SEA). NFL.com official Week 10 injury report (fetched Nov 11, 3:59 PM ET): not yet posted for this game, so it lists no quarterback. Las Vegas traded Kirk Cousins to Minnesota on Nov 10 and named Fernando Mendoza its starter (Las Vegas Raiders, Nov 11; NFL.com); Fernando Mendoza is not LV’s main starter this season (Kirk Cousins); Drew Lock is not SEA’s main starter this season (Sam Darnold). Seattle has ruled out Sam Darnold, and Drew Lock is expected to start (NFL.com, Nov 11).",
       "independent": true,
-      "distance_from_spread": 2.5,
+      "distance_from_spread": 0.5,
       "distance_from_total": 1.5
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Seattle Seahawks −3.5 · Likes this side",
-      "ou_line": "O/U: Over 43.5 · Likes this total",
+      "side_line": "Side: Seattle Seahawks −6.5",
+      "ou_line": "O/U: Over 40.5 · Likes this total",
       "score_line": "Projected: Las Vegas Raiders 21, Seattle Seahawks 28 (Total 49)",
       "basis_line": "Rest and travel: Seattle Seahawks: 7 days since its last game, travels 875 miles; Las Vegas Raiders: 7 days since its last game, plays at home. Projected: Seahawks by 7, total 48.3.",
       "independent": true,
-      "distance_from_spread": 3.5,
-      "distance_from_total": 5.5
+      "distance_from_spread": 0.5,
+      "distance_from_total": 8.5
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick (not enough line movement)",
-      "ou_line": "O/U: no pick (not enough total movement)",
+      "side_line": "Side: Seattle Seahawks −6.5 · Likes this side",
+      "ou_line": "O/U: Under 40.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Seattle Seahawks −3.5 (Nov 10, 7:11 AM ET) and is Seattle Seahawks −3.5 now (Nov 10, 10:17 AM ET), a 0-point move. Total opened 43.5 (Nov 10, 7:11 AM ET) and is 43.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Seattle Seahawks −3.5 (Nov 10, 7:11 AM ET) and is −6.5 now, a 3-point move. The side pick quotes the consensus spread now (Seattle Seahawks −6.5). Consensus total opened 43.5 (Nov 10, 7:11 AM ET) and is 40.5 now, a 3-point move: Under. The total pick quotes the consensus total now (40.5). Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 0.5
+      "distance_from_spread": 3.0,
+      "distance_from_total": 3.0
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Seattle Seahawks −3.5",
-      "ou_line": "O/U: Under 43.5",
+      "side_line": "Side: Las Vegas Raiders +6.5",
+      "ou_line": "O/U: Over 40.5",
       "score_line": "Projected: Las Vegas Raiders 18, Seattle Seahawks 23 (Total 41)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 9). Projected points: Las Vegas Raiders 18.3, Seattle Seahawks 23.2.",
       "independent": true,
       "distance_from_spread": 1.5,
-      "distance_from_total": 2.5
+      "distance_from_total": 0.5
      }
     ],
     "best_bets": [],
-    "story_text": "Grand Prix crews have the Las Vegas Strip torn up all week, with Koval Lane closed from Saturday through Nov. 23, and the Raiders' run game has looked stuck in that kind of traffic all season. My Seahawks vs Raiders prediction for Week 10 is the Seattle Seahawks −3.5 against the spread, and my over/under call is Over 43.5.\n\nTuesday's Action Network consensus has Seattle laying 3.5 on the road, total 43.5.\n\nThe Formula: Net ratings Las Vegas Raiders −7.4, Seattle Seahawks 2.4 (nflverse play-by-play, Nov 10, 2026).\n\nStart on the ground, because that's where this one tilts. Las Vegas gains 3.1 yards a carry, and Seattle allows 3.6. Ashton Jeanty has the talent, but he hasn't had the room. Going the other way, the Raiders allow 5.3 a carry, which lets Seattle stay ahead of the chains no matter who's lined up in the backfield.\n\nMike Macdonald cleared up the quarterback plan on Monday. Sam Darnold will miss another week with quad and rib injuries, and Drew Lock, who started last week's 17-3 win against Arizona, is expected to start again through an oblique injury. I'm pricing this with the backup taking the snaps, and the Seahawks still look like the better team.\n\nThe records back it up. Seattle is 5-4 with 202 points scored and only 162 allowed. Las Vegas is 4-5 and 1-3 at home, with 238 scored and 268 allowed, and it's coming off a 38-17 loss at San Francisco. The Raiders traded Kirk Cousins to Minnesota at Tuesday's deadline, so No. 1 pick Fernando Mendoza makes his first NFL start, and Brock Bowers is the first place he'll look. Maxx Crosby can still wreck a game by himself. That doesn't fix a defense that has given up 268 points in nine games.\n\nThat number drives the Over. Seattle doesn't need a big day to put points on that defense, and Las Vegas has scored 238, and Bowers gives a rookie somewhere to go. Allegiant Stadium has a roof, so there's no wind to worry about.\n\nThe cards line up behind Seattle. All four with a score lay the 3.5: The Formula at Seahawks 28, Raiders 20, Letdown Watch at Seahawks 28, Raiders 21, Next Man Up at Seahawks 24, Raiders 18, and In The Trenches at Seahawks 23, Raiders 18. Two of the four are Over. Next Man Up and In The Trenches both see a grind. Follow The Money has no call on either question.\n\nThere's a coaching subplot too. Klint Kubiak called Seattle's offense in 2025, won Super Bowl LX, and now runs the Raiders. Familiarity cuts both ways, though, and Mike Macdonald has had a full week to change what Kubiak thinks he knows.\n\nMy card says Seattle Seahawks 26, Las Vegas Raiders 19. Seven points clears the 3.5, and 45 total points clears 43.5 by one and a half.\n\nThe race cars arrive next week. This week, Seattle gets through the traffic first.\n\nSeahawks 26, Raiders 19. Seahawks cover the 3.5. Over 43.5.",
+    "story_text": "Grand Prix crews have the Las Vegas Strip torn up all week, with Koval Lane closed from Saturday through Nov. 23, and the Raiders' run game has looked stuck in that kind of traffic all season. My Seahawks vs Raiders prediction for Week 10 is the Seattle Seahawks −6.5 against the spread, and my over/under call is Over 40.5.\n\nAs of Nov 15, 6:14 AM ET, DraftKings has Seattle laying 6.5 on the road with a total of 40.5; Tuesday's Action Network consensus had 3.5 and 43.5.\n\nThe Formula: Net ratings Las Vegas Raiders −7.4, Seattle Seahawks 2.4 (nflverse play-by-play, Nov 10, 2026).\n\nStart on the ground, because that's where this one tilts. Las Vegas gains 3.1 yards a carry, and Seattle allows 3.6. Ashton Jeanty has the talent, but he hasn't had the room. Going the other way, the Raiders allow 5.3 a carry, which lets Seattle stay ahead of the chains no matter who's lined up in the backfield.\n\nMike Macdonald cleared up the quarterback plan on Monday. Sam Darnold will miss another week with quad and rib injuries, and Drew Lock, who started last week's 17-3 win against Arizona, is expected to start again through an oblique injury. I'm pricing this with the backup taking the snaps, and the Seahawks still look like the better team.\n\nThe records back it up. Seattle is 5-4 with 202 points scored and only 162 allowed. Las Vegas is 4-5 and 1-3 at home, with 238 scored and 268 allowed, and it's coming off a 38-17 loss at San Francisco. The Raiders traded Kirk Cousins to Minnesota at Tuesday's deadline, so No. 1 pick Fernando Mendoza makes his first NFL start, and Brock Bowers is the first place he'll look. Maxx Crosby can still wreck a game by himself. That doesn't fix a defense that has given up 268 points in nine games.\n\nThat number drives the Over. Seattle doesn't need a big day to put points on that defense, and Las Vegas has scored 238, and Bowers gives a rookie somewhere to go. Allegiant Stadium has a roof, so there's no wind to worry about.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Seahawks −6.5, total 40.5. This preview was written against Seahawks −3.5, total 43.5, so the spread moved from Seahawks −3.5 to Seahawks −6.5 and the total dropped from 43.5 to 40.5. The Cover Writer stays on Seahawks −6.5 with Seahawks 26, Raiders 19, because Seahawks by 7 is more than the 6.5. The Over holds, now 40.5, with 45 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Seahawks −3.5 and is Seahawks −6.5 now, and the consensus total opened 43.5 and is 40.5 now, so it moves to Seahawks −6.5 and moves to the Under 40.5. The Formula: Seahawks 28, Raiders 20 on net ratings. It stays on Seahawks −6.5 (Seahawks by 8 clears the 6.5) and stays on the Over, now 40.5 (48 points). Next Man Up: Seahawks 24, Raiders 18 on who's playing. It moves from Seahawks −3.5 to Raiders +6.5 (Seahawks by 6 stays inside the 6.5) and moves from the Under 43.5 to the Over 40.5 (42 points). Letdown Watch: Seahawks 28, Raiders 21 on rest and travel. It stays on Seahawks −6.5 (Seahawks by 7 clears the 6.5) and stays on the Over, now 40.5 (49 points). In The Trenches: Seahawks 23, Raiders 18 on the line of scrimmage. It moves from Seahawks −3.5 to Raiders +6.5 (Seahawks by 5 stays inside the 6.5) and moves from the Under 43.5 to the Over 40.5 (41 points).\n\nThere's a coaching subplot too. Klint Kubiak called Seattle's offense in 2025, won Super Bowl LX, and now runs the Raiders. Familiarity cuts both ways, though, and Mike Macdonald has had a full week to change what Kubiak thinks he knows.\n\nMy card says Seattle Seahawks 26, Las Vegas Raiders 19. Seven points clears the 6.5 by a half-point, and 45 total points clears 40.5 by four and a half.\n\nThe race cars arrive next week. This week, Seattle gets through the traffic first.\n\nSeahawks 26, Raiders 19. Seahawks cover the 6.5. Over 40.5.",
     "fanatic_score_line": "Projected: Las Vegas Raiders 19, Seattle Seahawks 26",
     "market": {
-     "score_line": "Market: Las Vegas Raiders 20, Seattle Seahawks 24 (Total 44)",
-     "spread": "Seattle Seahawks −3.5",
-     "total": "43.5",
-     "source": "Consensus line as of Nov 10, 10:17 AM ET",
+     "score_line": "Market: Las Vegas Raiders 17, Seattle Seahawks 24 (Total 41)",
+     "spread": "Seattle Seahawks −6.5",
+     "total": "40.5",
+     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     }
    },
-   "gambler_story": "Grand Prix crews have the Las Vegas Strip torn up all week, with Koval Lane closed from Saturday through Nov. 23, and the Raiders' run game has looked stuck in that kind of traffic all season. My Seahawks vs Raiders prediction for Week 10 is the Seattle Seahawks −3.5 against the spread, and my over/under call is Over 43.5.\n\nTuesday's Action Network consensus has Seattle laying 3.5 on the road, total 43.5.\n\nThe Formula: Net ratings Las Vegas Raiders −7.4, Seattle Seahawks 2.4 (nflverse play-by-play, Nov 10, 2026).\n\nStart on the ground, because that's where this one tilts. Las Vegas gains 3.1 yards a carry, and Seattle allows 3.6. Ashton Jeanty has the talent, but he hasn't had the room. Going the other way, the Raiders allow 5.3 a carry, which lets Seattle stay ahead of the chains no matter who's lined up in the backfield.\n\nMike Macdonald cleared up the quarterback plan on Monday. Sam Darnold will miss another week with quad and rib injuries, and Drew Lock, who started last week's 17-3 win against Arizona, is expected to start again through an oblique injury. I'm pricing this with the backup taking the snaps, and the Seahawks still look like the better team.\n\nThe records back it up. Seattle is 5-4 with 202 points scored and only 162 allowed. Las Vegas is 4-5 and 1-3 at home, with 238 scored and 268 allowed, and it's coming off a 38-17 loss at San Francisco. The Raiders traded Kirk Cousins to Minnesota at Tuesday's deadline, so No. 1 pick Fernando Mendoza makes his first NFL start, and Brock Bowers is the first place he'll look. Maxx Crosby can still wreck a game by himself. That doesn't fix a defense that has given up 268 points in nine games.\n\nThat number drives the Over. Seattle doesn't need a big day to put points on that defense, and Las Vegas has scored 238, and Bowers gives a rookie somewhere to go. Allegiant Stadium has a roof, so there's no wind to worry about.\n\nThe cards line up behind Seattle. All four with a score lay the 3.5: The Formula at Seahawks 28, Raiders 20, Letdown Watch at Seahawks 28, Raiders 21, Next Man Up at Seahawks 24, Raiders 18, and In The Trenches at Seahawks 23, Raiders 18. Two of the four are Over. Next Man Up and In The Trenches both see a grind. Follow The Money has no call on either question.\n\nThere's a coaching subplot too. Klint Kubiak called Seattle's offense in 2025, won Super Bowl LX, and now runs the Raiders. Familiarity cuts both ways, though, and Mike Macdonald has had a full week to change what Kubiak thinks he knows.\n\nMy card says Seattle Seahawks 26, Las Vegas Raiders 19. Seven points clears the 3.5, and 45 total points clears 43.5 by one and a half.\n\nThe race cars arrive next week. This week, Seattle gets through the traffic first.\n\nSeahawks 26, Raiders 19. Seahawks cover the 3.5. Over 43.5.",
+   "gambler_story": "Grand Prix crews have the Las Vegas Strip torn up all week, with Koval Lane closed from Saturday through Nov. 23, and the Raiders' run game has looked stuck in that kind of traffic all season. My Seahawks vs Raiders prediction for Week 10 is the Seattle Seahawks −6.5 against the spread, and my over/under call is Over 40.5.\n\nAs of Nov 15, 6:14 AM ET, DraftKings has Seattle laying 6.5 on the road with a total of 40.5; Tuesday's Action Network consensus had 3.5 and 43.5.\n\nThe Formula: Net ratings Las Vegas Raiders −7.4, Seattle Seahawks 2.4 (nflverse play-by-play, Nov 10, 2026).\n\nStart on the ground, because that's where this one tilts. Las Vegas gains 3.1 yards a carry, and Seattle allows 3.6. Ashton Jeanty has the talent, but he hasn't had the room. Going the other way, the Raiders allow 5.3 a carry, which lets Seattle stay ahead of the chains no matter who's lined up in the backfield.\n\nMike Macdonald cleared up the quarterback plan on Monday. Sam Darnold will miss another week with quad and rib injuries, and Drew Lock, who started last week's 17-3 win against Arizona, is expected to start again through an oblique injury. I'm pricing this with the backup taking the snaps, and the Seahawks still look like the better team.\n\nThe records back it up. Seattle is 5-4 with 202 points scored and only 162 allowed. Las Vegas is 4-5 and 1-3 at home, with 238 scored and 268 allowed, and it's coming off a 38-17 loss at San Francisco. The Raiders traded Kirk Cousins to Minnesota at Tuesday's deadline, so No. 1 pick Fernando Mendoza makes his first NFL start, and Brock Bowers is the first place he'll look. Maxx Crosby can still wreck a game by himself. That doesn't fix a defense that has given up 268 points in nine games.\n\nThat number drives the Over. Seattle doesn't need a big day to put points on that defense, and Las Vegas has scored 238, and Bowers gives a rookie somewhere to go. Allegiant Stadium has a roof, so there's no wind to worry about.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Seahawks −6.5, total 40.5. This preview was written against Seahawks −3.5, total 43.5, so the spread moved from Seahawks −3.5 to Seahawks −6.5 and the total dropped from 43.5 to 40.5. The Cover Writer stays on Seahawks −6.5 with Seahawks 26, Raiders 19, because Seahawks by 7 is more than the 6.5. The Over holds, now 40.5, with 45 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Seahawks −3.5 and is Seahawks −6.5 now, and the consensus total opened 43.5 and is 40.5 now, so it moves to Seahawks −6.5 and moves to the Under 40.5. The Formula: Seahawks 28, Raiders 20 on net ratings. It stays on Seahawks −6.5 (Seahawks by 8 clears the 6.5) and stays on the Over, now 40.5 (48 points). Next Man Up: Seahawks 24, Raiders 18 on who's playing. It moves from Seahawks −3.5 to Raiders +6.5 (Seahawks by 6 stays inside the 6.5) and moves from the Under 43.5 to the Over 40.5 (42 points). Letdown Watch: Seahawks 28, Raiders 21 on rest and travel. It stays on Seahawks −6.5 (Seahawks by 7 clears the 6.5) and stays on the Over, now 40.5 (49 points). In The Trenches: Seahawks 23, Raiders 18 on the line of scrimmage. It moves from Seahawks −3.5 to Raiders +6.5 (Seahawks by 5 stays inside the 6.5) and moves from the Under 43.5 to the Over 40.5 (41 points).\n\nThere's a coaching subplot too. Klint Kubiak called Seattle's offense in 2025, won Super Bowl LX, and now runs the Raiders. Familiarity cuts both ways, though, and Mike Macdonald has had a full week to change what Kubiak thinks he knows.\n\nMy card says Seattle Seahawks 26, Las Vegas Raiders 19. Seven points clears the 6.5 by a half-point, and 45 total points clears 40.5 by four and a half.\n\nThe race cars arrive next week. This week, Seattle gets through the traffic first.\n\nSeahawks 26, Raiders 19. Seahawks cover the 6.5. Over 40.5.",
    "fanatic_story": "Klint Kubiak helped Seattle win Super Bowl LX in February, and on Sunday he coaches the Las Vegas Raiders against the team he left. Kara Holm flew down for Seattle Seahawks vs Las Vegas Raiders in Week 10 to watch it happen, and Vic Moreno spent her first night in town complaining about the Grand Prix construction choking the Strip.\n\nCrews spent the week bolting up gantries along the circuit, and Koval Lane shut down completely early Saturday. The Strip is half football town and half racetrack in the making.\n\nKara: \"You live in Las Vegas and you're surprised by traffic?\"\n\nVic: \"I'm not surprised. I'm offended. The race isn't until next week.\"\n\nHe has a point. The Grand Prix runs Nov. 19 to 21, and the city is already bending itself around it. Bus stops closed on Koval, pedestrian bridges shut overnight, lanes pinched on Las Vegas Boulevard. Vic has followed this franchise through three relocations and kept a grudge from every one of them. A few orange barrels aren't going to break him.\n\nVic grades every game by who's across the field. Kansas City is a war. Denver is a war. Seattle is a different flavor, an old AFC West grudge from the years the Seahawks lived in the division.\n\nKara: \"We left your division a long time ago.\"\n\nVic: \"You left. The grudge stayed.\"\n\nKara is the rare fan who refuses to enjoy being champion. Seattle beat New England 29-13 in Super Bowl LX, and she spent the whole offseason telling anybody who would listen that champions get hunted. At 5-4, she's been proven right more than she'd like.\n\nKara: \"Every team we play treats it like their own Super Bowl. Even you guys.\"\n\nVic: \"Especially us. Your offensive coordinator is our head coach now.\"\n\nThat's the Kubiak thing, and for Vic it's the whole weekend. Klint Kubiak ran Seattle's offense in 2025, won a ring, and took the Raiders job. Vic is sure Kubiak walked out the door with every Seahawks secret. Kara is sure he left the good stuff in Seattle.\n\nKara: \"He knows our old offense. Mike Macdonald's defense is a different conversation.\"\n\nShe's got numbers on her side. Seattle has allowed 162 points in nine games, and its run defense gives up 3.6 yards a carry. That's bad news for a Raiders team that runs for 3.1. Ashton Jeanty has spent a lot of this season running into a crowd.\n\nVic: \"Jeanty is one crease from going the distance.\"\n\nKara: \"Then Devon Witherspoon will meet him at the crease.\"\n\nVic's real hope is Brock Bowers and Maxx Crosby. Bowers is the one guy on the Raiders' offense every defense circles on Monday, and Crosby is the guy every right tackle in the AFC West sees in his sleep. The Raiders lost 38-17 at San Francisco last week, and Vic needs Crosby to make Seattle's quarterback miserable.\n\nThat's the other twist. Sam Darnold, the guy with the Super Bowl ring, didn't start last week's 17-3 win against Arizona, and Mike Macdonald said Monday he's out another week. Drew Lock gets the start again, oblique and all. Kara isn't complaining. She watched her team grind that one out at home, and she wants the same thing with a roof overhead.\n\nKara: \"Seventeen points and a defense that gave up three. I'll sign for that every week.\"\n\nVic: \"Sign for it somewhere else.\"\n\nThe Seahawks are 1-2 on the road, and that's the only number Vic keeps repeating. The Raiders are 1-3 at home, and that's the one Kara keeps repeating back. Allegiant Stadium will be loud with both colors in it, and half the crowd will be sitting in Strip traffic afterward. Vic says Crosby won't let the Raiders quit. Kara says champions get hunted, and sometimes the hunted team just wins by seven.\n\nMy call: Seahawks 26, Raiders 19.",
    "fanatic_final_sentence": "Seahawks 26, Raiders 19.",
    "preview_sources": [],
@@ -2859,12 +2859,12 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-10T15:17:37Z",
+    "fetched_at_utc": "2026-11-15T11:14:42Z",
     "action_network_game_id": 290978,
     "home_line": 9.5,
-    "total": 40.5,
-    "open_home_line": 10.5,
-    "open_total": 47.5,
+    "total": 38.5,
+    "open_home_line": 9.5,
+    "open_total": 40.5,
     "spread_display": "Arizona Cardinals +9.5",
     "open_timestamp": ""
    },
@@ -2876,18 +2876,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261115",
    "spread": "Arizona Cardinals +9.5",
-   "story_text": "Rams 27, Cardinals 19. Cardinals cover the 9.5. Over 40.5. The Formula projects the Rams by 7.1 against a 9.5-point line.",
+   "story_text": "Rams 27, Cardinals 19. Cardinals cover the 9.5. Over 38.5. The Formula projects the Rams by 7.1 against a 9.5-point line.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
    "line_used": {
     "home_line": 9.5,
-    "total": 40.5,
-    "source": "Consensus line as of Nov 10, 10:17 AM ET",
-    "as_of_utc": "2026-11-10T15:17:37Z"
+    "total": 38.5,
+    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
+    "as_of_utc": "2026-11-15T11:14:42Z"
    },
-   "total_line": 40.5,
+   "total_line": 38.5,
    "prediction": {
     "away_score": 27,
     "home_score": 19,
@@ -2915,7 +2915,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Los Angeles Rams −9.5 (Nov 10, 12:23 AM ET) and is Los Angeles Rams −9.5 now (Nov 10, 10:17 AM ET), a 0-point move. No consensus total posted since then, so no total move is measured. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Consensus spread opened Arizona Cardinals +9.5 (Nov 10, 12:23 AM ET) and is +9.5 now. Follow The Money has no side pick. Consensus total opened 40.5 (Nov 10, 12:27 PM ET) and is 38.5 now, a 2-point move: Under. The total pick quotes the consensus total now (38.5). Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -2932,7 +2932,7 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 10, 10:17 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 10, 10:17 AM ET.",
+    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 15, 6:14 AM ET; Follow The Money uses the Action Network consensus line history.",
     "The Formula ratings: nflverse play-by-play as of Nov 10, 10:17 AM ET, Weeks 1–9 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–9 finals.",
     "Injuries: NFL.com official Week 10 injury report, fetched Nov 11, 3:59 PM ET (not yet posted for this game); Next Man Up uses the starter named by the team (see Next Man Up).",
@@ -2948,81 +2948,81 @@
     "label": "",
     "source": "Cover Writer",
     "projected_total": 46,
-    "market_total": 40.5,
+    "market_total": 38.5,
     "pick": "Over",
-    "text": "Over 40.5"
+    "text": "Over 38.5"
    },
    "display": {
     "writer": {
      "score_line": "Projected: Arizona Cardinals 19, Los Angeles Rams 27 (Total 46)",
      "side": "Arizona Cardinals +9.5",
-     "ou": "Over 40.5",
+     "ou": "Over 38.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
       "side_line": "Side: Arizona Cardinals +9.5",
-      "ou_line": "O/U: Over 40.5 · Likes this total",
+      "ou_line": "O/U: Over 38.5 · Likes this total",
       "score_line": "Projected: Arizona Cardinals 19, Los Angeles Rams 27 (Total 46)",
       "basis_line": "Net ratings Arizona Cardinals −6.5, Los Angeles Rams 2.3 (nflverse play-by-play, Nov 10, 2026)",
       "independent": true,
       "distance_from_spread": 1.5,
-      "distance_from_total": 5.5
+      "distance_from_total": 7.5
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: Arizona Cardinals +9.5",
-      "ou_line": "O/U: Over 40.5 · Likes this total",
+      "ou_line": "O/U: Over 38.5 · Likes this total",
       "score_line": "Projected: Arizona Cardinals 19, Los Angeles Rams 27 (Total 46)",
       "basis_line": "Projected points: Arizona Cardinals 18.6, Los Angeles Rams 26.5. Availability: expected starting quarterbacks Carson Beck (ARI) and Matthew Stafford (LA). NFL.com official Week 10 injury report (fetched Nov 11, 3:59 PM ET): not yet posted for this game, so it lists no quarterback. Gardner Minshew was placed on injured reserve (elbow) on Nov 10, so Carson Beck is the expected Cardinals starter (Arizona Cardinals, Nov 10; Week 10 depth chart, Nov 11); Carson Beck is not ARI’s main starter this season (Jacoby Brissett). Coach Mike LaFleur said Wednesday that Carson Beck will start (NFL.com, Nov 11).",
       "independent": true,
       "distance_from_spread": 1.5,
-      "distance_from_total": 5.5
+      "distance_from_total": 7.5
      },
      {
       "name": "Letdown Watch",
       "side_line": "Side: Arizona Cardinals +9.5 · Likes this side",
-      "ou_line": "O/U: Over 40.5 · Likes this total",
+      "ou_line": "O/U: Over 38.5 · Likes this total",
       "score_line": "Projected: Arizona Cardinals 19, Los Angeles Rams 26 (Total 45)",
       "basis_line": "Rest and travel: Los Angeles Rams: 7 days since its last game, travels 350 miles, last game was also away from home; Arizona Cardinals: 7 days since its last game, plays at home. Projected: Rams by 6.9, total 45.9.",
       "independent": true,
       "distance_from_spread": 2.5,
-      "distance_from_total": 4.5
+      "distance_from_total": 6.5
      },
      {
       "name": "Follow The Money",
       "side_line": "Side: no pick (not enough line movement)",
-      "ou_line": "O/U: no pick (no total move measured)",
+      "ou_line": "O/U: Under 38.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Los Angeles Rams −9.5 (Nov 10, 12:23 AM ET) and is Los Angeles Rams −9.5 now (Nov 10, 10:17 AM ET), a 0-point move. No consensus total posted since then, so no total move is measured. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Arizona Cardinals +9.5 (Nov 10, 12:23 AM ET) and is +9.5 now. Follow The Money has no side pick. Consensus total opened 40.5 (Nov 10, 12:27 PM ET) and is 38.5 now, a 2-point move: Under. The total pick quotes the consensus total now (38.5). Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 0.5
+      "distance_from_spread": 0.0,
+      "distance_from_total": 2.0
      },
      {
       "name": "In The Trenches",
       "side_line": "Side: Arizona Cardinals +9.5 · Likes this side",
-      "ou_line": "O/U: Over 40.5 · Likes this total",
+      "ou_line": "O/U: Over 38.5 · Likes this total",
       "score_line": "Projected: Arizona Cardinals 20, Los Angeles Rams 26 (Total 46)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 9). Projected points: Arizona Cardinals 20.4, Los Angeles Rams 25.9.",
       "independent": true,
       "distance_from_spread": 3.5,
-      "distance_from_total": 5.5
+      "distance_from_total": 7.5
      }
     ],
     "best_bets": [],
-    "story_text": "Nine and a half points is a long walk across the State Farm Stadium lots, and those lots spent Friday and Saturday packed for Dino's Git Down, a free GM car show with more than 250 vendors. My Rams vs Cardinals prediction for Week 10 takes the Arizona Cardinals +9.5 against the spread, and my over/under call is Over 40.5.\n\nThe Rams are 9.5-point road favorites in the Action Network consensus as of Nov. 10, with the total sitting at 40.5.\n\nThe Formula: Net ratings Arizona Cardinals −6.5, Los Angeles Rams 2.3 (nflverse play-by-play, Nov 10, 2026).\n\nThe Rams are the better team, and I'm not pretending otherwise. They're 5-4 and 3-1 on the road, with 214 points scored and 181 allowed, and they won 20-13 at Washington last week. Arizona is 3-6 with 178 scored and 255 allowed, and it hasn't won at home.\n\nBut Arizona already beat these Rams once, 18-16 in Los Angeles in Week 6. The Cardinals are 3-3 on the road. And their head coach, Mike LaFleur, was the Rams' offensive coordinator from 2023 through 2025. Nobody in that building is going to be surprised by what Sean McVay wants to do on first down.\n\nThe quarterback situation deserves a straight answer. Jacoby Brissett started Arizona's first eight games before he was benched in Week 8 and traded to Baltimore, and Gardner Minshew started last week's 17-3 loss at Seattle. Minshew went on injured reserve Tuesday with a season-ending arm injury, so rookie Carson Beck makes his first NFL start. Even with that, nine and a half in a division game is a big ask.\n\nNow the total, which looks low to me. The Rams have scored 214 in nine games, and Arizona has given up 255. Los Angeles runs for 4.9 yards a carry against a defense that allows 4.3, so Kyren Williams should keep Matthew Stafford ahead of schedule, with Puka Nacua waiting downfield. Arizona doesn't need much from Trey McBride and Jeremiyah Love to push this past 40.5.\n\nThis is the rare game where the room doesn't argue. All four cards with a score take Arizona plus the points, and all four are on the Over. The Formula and Next Man Up both have Rams 27, Cardinals 19. Letdown Watch has Rams 26, Cardinals 19, and In The Trenches has Rams 26, Cardinals 20. Follow The Money has no position on either.\n\nMy card says Los Angeles Rams 27, Arizona Cardinals 19. That's an eight-point Rams win, inside the 9.5, and 46 points, five and a half clear of 40.5.\n\nThe car show in Glendale had one hard rule this weekend: no burnouts. The Rams win this game without leaving tire marks on the spread.\n\nRams 27, Cardinals 19. Cardinals cover the 9.5. Over 40.5.",
+    "story_text": "Nine and a half points is a long walk across the State Farm Stadium lots, and those lots spent Friday and Saturday packed for Dino's Git Down, a free GM car show with more than 250 vendors. My Rams vs Cardinals prediction for Week 10 takes the Arizona Cardinals +9.5 against the spread, and my over/under call is Over 38.5.\n\nThe Rams are 9.5-point road favorites at DraftKings as of Nov 15, 6:14 AM ET, with the total at 38.5, down two points from Tuesday's 40.5 in the Action Network consensus.\n\nThe Formula: Net ratings Arizona Cardinals −6.5, Los Angeles Rams 2.3 (nflverse play-by-play, Nov 10, 2026).\n\nThe Rams are the better team, and I'm not pretending otherwise. They're 5-4 and 3-1 on the road, with 214 points scored and 181 allowed, and they won 20-13 at Washington last week. Arizona is 3-6 with 178 scored and 255 allowed, and it hasn't won at home.\n\nBut Arizona already beat these Rams once, 18-16 in Los Angeles in Week 6. The Cardinals are 3-3 on the road. And their head coach, Mike LaFleur, was the Rams' offensive coordinator from 2023 through 2025. Nobody in that building is going to be surprised by what Sean McVay wants to do on first down.\n\nThe quarterback situation deserves a straight answer. Jacoby Brissett started Arizona's first eight games before he was benched in Week 8 and traded to Baltimore, and Gardner Minshew started last week's 17-3 loss at Seattle. Minshew went on injured reserve Tuesday with a season-ending arm injury, so rookie Carson Beck makes his first NFL start. Even with that, nine and a half in a division game is a big ask.\n\nNow the total, which looks low to me. The Rams have scored 214 in nine games, and Arizona has given up 255. Los Angeles runs for 4.9 yards a carry against a defense that allows 4.3, so Kyren Williams should keep Matthew Stafford ahead of schedule, with Puka Nacua waiting downfield. Arizona doesn't need much from Trey McBride and Jeremiyah Love to push this past 38.5.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Rams −9.5, total 38.5. This preview was written against Rams −9.5, total 40.5, so the spread is unchanged and the total dropped from 40.5 to 38.5. The Cover Writer stays on Cardinals +9.5 with Rams 27, Cardinals 19, because Rams by 8 stays inside the 9.5. The Over holds, now 38.5, with 46 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread has not moved from Rams −9.5, and the consensus total opened 40.5 and is 38.5 now, so it has no side pick (no move of a full point) and moves to the Under 38.5. The Formula: Rams 27, Cardinals 19 on net ratings. It stays on Cardinals +9.5 (Rams by 8 stays inside the 9.5) and stays on the Over, now 38.5 (46 points). Next Man Up: Rams 27, Cardinals 19 on who's playing. It stays on Cardinals +9.5 (Rams by 8 stays inside the 9.5) and stays on the Over, now 38.5 (46 points). Letdown Watch: Rams 26, Cardinals 19 on rest and travel. It stays on Cardinals +9.5 (Rams by 7 stays inside the 9.5) and stays on the Over, now 38.5 (45 points). In The Trenches: Rams 26, Cardinals 20 on the line of scrimmage. It stays on Cardinals +9.5 (Rams by 6 stays inside the 9.5) and stays on the Over, now 38.5 (46 points).\n\nMy card says Los Angeles Rams 27, Arizona Cardinals 19. That's an eight-point Rams win, inside the 9.5, and 46 points, seven and a half clear of 38.5.\n\nThe car show in Glendale had one hard rule this weekend: no burnouts. The Rams win this game without leaving tire marks on the spread.\n\nRams 27, Cardinals 19. Cardinals cover the 9.5. Over 38.5.",
     "fanatic_score_line": "Projected: Arizona Cardinals 19, Los Angeles Rams 27",
     "market": {
-     "score_line": "Market: Arizona Cardinals 16, Los Angeles Rams 25 (Total 41)",
+     "score_line": "Market: Arizona Cardinals 15, Los Angeles Rams 24 (Total 39)",
      "spread": "Los Angeles Rams −9.5",
-     "total": "40.5",
-     "source": "Consensus line as of Nov 10, 10:17 AM ET",
+     "total": "38.5",
+     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     }
    },
-   "gambler_story": "Nine and a half points is a long walk across the State Farm Stadium lots, and those lots spent Friday and Saturday packed for Dino's Git Down, a free GM car show with more than 250 vendors. My Rams vs Cardinals prediction for Week 10 takes the Arizona Cardinals +9.5 against the spread, and my over/under call is Over 40.5.\n\nThe Rams are 9.5-point road favorites in the Action Network consensus as of Nov. 10, with the total sitting at 40.5.\n\nThe Formula: Net ratings Arizona Cardinals −6.5, Los Angeles Rams 2.3 (nflverse play-by-play, Nov 10, 2026).\n\nThe Rams are the better team, and I'm not pretending otherwise. They're 5-4 and 3-1 on the road, with 214 points scored and 181 allowed, and they won 20-13 at Washington last week. Arizona is 3-6 with 178 scored and 255 allowed, and it hasn't won at home.\n\nBut Arizona already beat these Rams once, 18-16 in Los Angeles in Week 6. The Cardinals are 3-3 on the road. And their head coach, Mike LaFleur, was the Rams' offensive coordinator from 2023 through 2025. Nobody in that building is going to be surprised by what Sean McVay wants to do on first down.\n\nThe quarterback situation deserves a straight answer. Jacoby Brissett started Arizona's first eight games before he was benched in Week 8 and traded to Baltimore, and Gardner Minshew started last week's 17-3 loss at Seattle. Minshew went on injured reserve Tuesday with a season-ending arm injury, so rookie Carson Beck makes his first NFL start. Even with that, nine and a half in a division game is a big ask.\n\nNow the total, which looks low to me. The Rams have scored 214 in nine games, and Arizona has given up 255. Los Angeles runs for 4.9 yards a carry against a defense that allows 4.3, so Kyren Williams should keep Matthew Stafford ahead of schedule, with Puka Nacua waiting downfield. Arizona doesn't need much from Trey McBride and Jeremiyah Love to push this past 40.5.\n\nThis is the rare game where the room doesn't argue. All four cards with a score take Arizona plus the points, and all four are on the Over. The Formula and Next Man Up both have Rams 27, Cardinals 19. Letdown Watch has Rams 26, Cardinals 19, and In The Trenches has Rams 26, Cardinals 20. Follow The Money has no position on either.\n\nMy card says Los Angeles Rams 27, Arizona Cardinals 19. That's an eight-point Rams win, inside the 9.5, and 46 points, five and a half clear of 40.5.\n\nThe car show in Glendale had one hard rule this weekend: no burnouts. The Rams win this game without leaving tire marks on the spread.\n\nRams 27, Cardinals 19. Cardinals cover the 9.5. Over 40.5.",
+   "gambler_story": "Nine and a half points is a long walk across the State Farm Stadium lots, and those lots spent Friday and Saturday packed for Dino's Git Down, a free GM car show with more than 250 vendors. My Rams vs Cardinals prediction for Week 10 takes the Arizona Cardinals +9.5 against the spread, and my over/under call is Over 38.5.\n\nThe Rams are 9.5-point road favorites at DraftKings as of Nov 15, 6:14 AM ET, with the total at 38.5, down two points from Tuesday's 40.5 in the Action Network consensus.\n\nThe Formula: Net ratings Arizona Cardinals −6.5, Los Angeles Rams 2.3 (nflverse play-by-play, Nov 10, 2026).\n\nThe Rams are the better team, and I'm not pretending otherwise. They're 5-4 and 3-1 on the road, with 214 points scored and 181 allowed, and they won 20-13 at Washington last week. Arizona is 3-6 with 178 scored and 255 allowed, and it hasn't won at home.\n\nBut Arizona already beat these Rams once, 18-16 in Los Angeles in Week 6. The Cardinals are 3-3 on the road. And their head coach, Mike LaFleur, was the Rams' offensive coordinator from 2023 through 2025. Nobody in that building is going to be surprised by what Sean McVay wants to do on first down.\n\nThe quarterback situation deserves a straight answer. Jacoby Brissett started Arizona's first eight games before he was benched in Week 8 and traded to Baltimore, and Gardner Minshew started last week's 17-3 loss at Seattle. Minshew went on injured reserve Tuesday with a season-ending arm injury, so rookie Carson Beck makes his first NFL start. Even with that, nine and a half in a division game is a big ask.\n\nNow the total, which looks low to me. The Rams have scored 214 in nine games, and Arizona has given up 255. Los Angeles runs for 4.9 yards a carry against a defense that allows 4.3, so Kyren Williams should keep Matthew Stafford ahead of schedule, with Puka Nacua waiting downfield. Arizona doesn't need much from Trey McBride and Jeremiyah Love to push this past 38.5.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Rams −9.5, total 38.5. This preview was written against Rams −9.5, total 40.5, so the spread is unchanged and the total dropped from 40.5 to 38.5. The Cover Writer stays on Cardinals +9.5 with Rams 27, Cardinals 19, because Rams by 8 stays inside the 9.5. The Over holds, now 38.5, with 46 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread has not moved from Rams −9.5, and the consensus total opened 40.5 and is 38.5 now, so it has no side pick (no move of a full point) and moves to the Under 38.5. The Formula: Rams 27, Cardinals 19 on net ratings. It stays on Cardinals +9.5 (Rams by 8 stays inside the 9.5) and stays on the Over, now 38.5 (46 points). Next Man Up: Rams 27, Cardinals 19 on who's playing. It stays on Cardinals +9.5 (Rams by 8 stays inside the 9.5) and stays on the Over, now 38.5 (46 points). Letdown Watch: Rams 26, Cardinals 19 on rest and travel. It stays on Cardinals +9.5 (Rams by 7 stays inside the 9.5) and stays on the Over, now 38.5 (45 points). In The Trenches: Rams 26, Cardinals 20 on the line of scrimmage. It stays on Cardinals +9.5 (Rams by 6 stays inside the 9.5) and stays on the Over, now 38.5 (46 points).\n\nMy card says Los Angeles Rams 27, Arizona Cardinals 19. That's an eight-point Rams win, inside the 9.5, and 46 points, seven and a half clear of 38.5.\n\nThe car show in Glendale had one hard rule this weekend: no burnouts. The Rams win this game without leaving tire marks on the spread.\n\nRams 27, Cardinals 19. Cardinals cover the 9.5. Over 38.5.",
    "fanatic_story": "Neil Carver spent Saturday walking rows of lifted Chevys in the State Farm Stadium lots, and he still couldn't escape Diane Kerr's coaching-tree lecture. Dino's Git Down brought its free GM car and truck show to Glendale for a 16th year, one day before Los Angeles Rams vs Arizona Cardinals in Week 10 fills the same building, with Matthew Stafford and Sean McVay facing a Cardinals team coached by one of McVay's own guys.\n\nThat would be Mike LaFleur. He was the Rams' offensive coordinator from 2023 through 2025, and now he's the head coach in Arizona. Diane has brought it up roughly once a minute since she landed.\n\nDiane: \"Follow the tree, Neil. Half the branches in this league grow out of Sean's office.\"\n\nNeil: \"This branch has a home game Sunday.\"\n\nDiane: \"This branch is 0-3 at home.\"\n\nNeil didn't have an answer for that one, so he pointed at a Silverado with chrome wheels instead.\n\nNeil Carver measures every Cardinals team against 2008, the club that won the NFC and made the franchise's only Super Bowl trip. He's read through the Chicago years and the St. Louis years and come out convinced the 1925 and 1947 titles count in the record book and nowhere else. His challenge to anybody hyping a new Cardinals team is always the same: show me the 2008 comparison. Most weeks, nobody can.\n\nDiane is a different kind of obsessive. She reads the Rams through the coaching staff first and the roster second. She can tell you which coordinator learned from whom, where he went next, and why it matters on third down. She's been at it since well before Super Bowl LVI. This year she also gets to talk about Aaron Donald again, who retired after 2023 and came back in 2026.\n\nDiane: \"Donald's back, Puka Nacua is Puka Nacua, and Stafford is still Stafford. What exactly is the 2008 comparison here?\"\n\nNeil: \"In 2008 we knew who our quarterback was in November.\"\n\nThat's the sore spot. Jacoby Brissett started the first eight games and is now in Baltimore. Gardner Minshew took the snaps in a 17-3 loss at Seattle, hurt his arm, and is done for the year. Now it's rookie Carson Beck's turn, in his first NFL start. Neil just knows the offense managed one field goal last week.\n\nThe car show had a rule printed right on its event page: a burnout will get you thrown out, no exceptions. Neil loved it. He'd like the same rule enforced on the Rams' running game.\n\nNeil: \"Kyren Williams gets no burnouts in my building.\"\n\nDiane: \"Kyren doesn't need burnouts. He needs four or five yards a carry, and he usually gets them.\"\n\nThe Rams run for 4.9 a carry, and Arizona allows 4.3. On the other side, Jeremiyah Love and the Cardinals run for 4.2 into a Rams defense that gives up 4.0. Neil is excited about Love, but he refuses to crown a rookie in November. Five games wasn't a verdict, and nine isn't one either.\n\nThe strange part about Arizona is that the Cardinals have been better away from Glendale. They're 3-3 on the road, including a 33-30 win at Dallas in Week 8, and they beat these Rams 18-16 in Los Angeles back in Week 6. At home, they haven't won yet.\n\nDiane: \"So play the game in Dallas.\"\n\nNeil: \"Don't think I haven't asked.\"\n\nThe Rams are 5-4 and 3-1 on the road, coming off a 20-13 win at Washington. Diane admits this isn't the 2021 team. She still trusts the tree to hold. The Cardinal she watches nervously is Trey McBride, because a tight end who finds the soft spots can keep any defense busy for four quarters.\n\nNeil is straight about Sunday too. He thinks LaFleur keeps it respectable, with Budda Baker flying around and McBride keeping drives alive. He also thinks the tree in Los Angeles is a little taller than the one in Glendale.\n\nMy call: Rams 27, Cardinals 19.",
    "fanatic_final_sentence": "Rams 27, Cardinals 19.",
    "preview_sources": [],
@@ -3432,12 +3432,12 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-10T15:17:37Z",
+    "fetched_at_utc": "2026-11-15T11:14:42Z",
     "action_network_game_id": 290981,
     "home_line": -3.5,
-    "total": 48.5,
+    "total": 49.5,
     "open_home_line": -3.5,
-    "open_total": 47.5,
+    "open_total": 48.5,
     "spread_display": "Cincinnati Bengals −3.5",
     "open_timestamp": ""
    },
@@ -3449,18 +3449,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261115",
    "spread": "Pittsburgh Steelers +3.5",
-   "story_text": "Bengals 25, Steelers 22. Steelers cover the 3.5. Under 48.5. Our handicappers land on the Steelers +3.5.",
+   "story_text": "Bengals 25, Steelers 22. Steelers cover the 3.5. Under 49.5. Next Man Up, Letdown Watch, and In The Trenches also land on the Steelers +3.5.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "line_used": {
     "home_line": -3.5,
-    "total": 48.5,
-    "source": "Consensus line as of Nov 10, 10:17 AM ET",
-    "as_of_utc": "2026-11-10T15:17:37Z"
+    "total": 49.5,
+    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
+    "as_of_utc": "2026-11-15T11:14:42Z"
    },
-   "total_line": 48.5,
+   "total_line": 49.5,
    "prediction": {
     "away_score": 22,
     "home_score": 25,
@@ -3488,7 +3488,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Cincinnati Bengals −3.5 (Nov 10, 2:58 AM ET) and is Cincinnati Bengals −3.5 now (Nov 10, 10:17 AM ET), a 0-point move. Total opened 48.5 (Nov 10, 9:49 AM ET) and is 48.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Consensus spread opened Cincinnati Bengals −3.5 (Nov 10, 2:58 AM ET) and is −3.5 now. Follow The Money has no side pick. Consensus total opened 48.5 (Nov 10, 9:49 AM ET) and is 49.5 now, a 1-point move: Over. The total pick quotes the consensus total now (49.5). Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -3505,7 +3505,7 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 10, 10:17 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 10, 10:17 AM ET.",
+    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 15, 6:14 AM ET; Follow The Money uses the Action Network consensus line history.",
     "The Formula ratings: nflverse play-by-play as of Nov 10, 10:17 AM ET, Weeks 1–9 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–9 finals.",
     "Injuries: NFL.com official Week 10 injury report, fetched Nov 11, 3:59 PM ET (not yet posted for this game); Next Man Up uses each team’s last starter.",
@@ -3521,62 +3521,62 @@
     "label": "",
     "source": "Cover Writer",
     "projected_total": 47,
-    "market_total": 48.5,
+    "market_total": 49.5,
     "pick": "Under",
-    "text": "Under 48.5"
+    "text": "Under 49.5"
    },
    "display": {
     "writer": {
      "score_line": "Projected: Cincinnati Bengals 25, Pittsburgh Steelers 22 (Total 47)",
      "side": "Pittsburgh Steelers +3.5",
-     "ou": "Under 48.5",
+     "ou": "Under 49.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
       "side_line": "Side: Cincinnati Bengals −3.5",
-      "ou_line": "O/U: Under 48.5",
+      "ou_line": "O/U: Under 49.5 · Likes this total",
       "score_line": "Projected: Cincinnati Bengals 26, Pittsburgh Steelers 20 (Total 46)",
       "basis_line": "Net ratings Cincinnati Bengals −1.2, Pittsburgh Steelers −4.8 (nflverse play-by-play, Nov 10, 2026)",
+      "independent": true,
+      "distance_from_spread": 2.5,
+      "distance_from_total": 3.5
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: Pittsburgh Steelers +3.5",
+      "ou_line": "O/U: Under 49.5",
+      "score_line": "Projected: Cincinnati Bengals 24, Pittsburgh Steelers 23 (Total 47)",
+      "basis_line": "Projected points: Cincinnati Bengals 24.4, Pittsburgh Steelers 23.3. Availability: expected starting quarterbacks Joe Burrow (CIN) and Aaron Rodgers (PIT). NFL.com official Week 10 injury report (fetched Nov 11, 3:59 PM ET): not yet posted for this game, so it lists no quarterback.",
       "independent": true,
       "distance_from_spread": 2.5,
       "distance_from_total": 2.5
      },
      {
-      "name": "Next Man Up",
-      "side_line": "Side: Pittsburgh Steelers +3.5",
-      "ou_line": "O/U: Under 48.5",
-      "score_line": "Projected: Cincinnati Bengals 24, Pittsburgh Steelers 23 (Total 47)",
-      "basis_line": "Projected points: Cincinnati Bengals 24.4, Pittsburgh Steelers 23.3. Availability: expected starting quarterbacks Joe Burrow (CIN) and Aaron Rodgers (PIT). NFL.com official Week 10 injury report (fetched Nov 11, 3:59 PM ET): not yet posted for this game, so it lists no quarterback.",
-      "independent": true,
-      "distance_from_spread": 2.5,
-      "distance_from_total": 1.5
-     },
-     {
       "name": "Letdown Watch",
       "side_line": "Side: Pittsburgh Steelers +3.5",
-      "ou_line": "O/U: Under 48.5",
+      "ou_line": "O/U: Under 49.5 · Likes this total",
       "score_line": "Projected: Cincinnati Bengals 24, Pittsburgh Steelers 23 (Total 47)",
       "basis_line": "Rest and travel: Pittsburgh Steelers: coming off a bye, travels 257 miles; Cincinnati Bengals: 7 days since its last game, plays at home. Projected: Bengals by 1.5, total 47.",
       "independent": true,
       "distance_from_spread": 2.5,
-      "distance_from_total": 1.5
+      "distance_from_total": 2.5
      },
      {
       "name": "Follow The Money",
       "side_line": "Side: no pick (not enough line movement)",
-      "ou_line": "O/U: no pick (not enough total movement)",
+      "ou_line": "O/U: Over 49.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Cincinnati Bengals −3.5 (Nov 10, 2:58 AM ET) and is Cincinnati Bengals −3.5 now (Nov 10, 10:17 AM ET), a 0-point move. Total opened 48.5 (Nov 10, 9:49 AM ET) and is 48.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Cincinnati Bengals −3.5 (Nov 10, 2:58 AM ET) and is −3.5 now. Follow The Money has no side pick. Consensus total opened 48.5 (Nov 10, 9:49 AM ET) and is 49.5 now, a 1-point move: Over. The total pick quotes the consensus total now (49.5). Lines are the Action Network consensus as of Nov 15, 6:14 AM ET; the open is the first consensus line posted at or after Nov 10, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 0.5
+      "distance_from_spread": 0.0,
+      "distance_from_total": 1.0
      },
      {
       "name": "In The Trenches",
       "side_line": "Side: Pittsburgh Steelers +3.5",
-      "ou_line": "O/U: Over 48.5",
+      "ou_line": "O/U: Under 49.5",
       "score_line": "Projected: Cincinnati Bengals 26, Pittsburgh Steelers 23 (Total 49)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 9). Projected points: Cincinnati Bengals 26.2, Pittsburgh Steelers 23.",
       "independent": true,
@@ -3585,17 +3585,17 @@
      }
     ],
     "best_bets": [],
-    "story_text": "Three and a half points looks about as big to me as the 24-foot Fiona nutcracker the Cincinnati Zoo just stood at its front gate. My Steelers vs Bengals prediction for Week 10 is the Pittsburgh Steelers +3.5 against the spread and the Under 48.5 on Sunday night, in a game between two 6-2 division rivals.\n\nCincinnati is −3.5 at home in the Nov. 10 Action Network consensus, and the total is 48.5.\n\nThe Formula: Net ratings Cincinnati Bengals −1.2, Pittsburgh Steelers −4.8 (nflverse play-by-play, Nov 10, 2026).\n\nStart with the schedule. Pittsburgh had last week off after beating Cleveland 27-6, so Mike McCarthy and Aaron Rodgers get two weeks to prepare. Cincinnati is on normal rest after a 34-17 win over Atlanta in Madrid. In a division game this tight, the extra week is worth something.\n\nThen the trenches. The Steelers gain 5.2 yards a carry, and the Bengals allow 5.2. Jaylen Warren should find room. Going the other way, Cincinnati runs for 4.0 against a Pittsburgh defense that allows 3.8, so Joe Burrow and Ja'Marr Chase have to carry it through the air into T.J. Watt and Cam Heyward. The Steelers have 26 sacks.\n\nRodgers and Burrow both started their last games. The league's Week 10 injury report hadn't posted when I checked Tuesday morning.\n\nThe Under comes from Pittsburgh's profile. The Steelers have scored 180 and allowed only 144 in eight games. Their games don't get loose. Cincinnati has scored 240 and allowed 175, so the Bengals bring the points, but a Pittsburgh team that runs well and rushes the passer can shorten this game. My total is 47, a point and a half under the number.\n\nThe side is three to one for Pittsburgh. Next Man Up and Letdown Watch both have Bengals 24, Steelers 23, and In The Trenches has Bengals 26, Steelers 23. The Formula is the outlier at Bengals 26, Steelers 20, laying the 3.5. On the total, three cards are Under and In The Trenches goes Over at 49. Follow The Money doesn't weigh in.\n\nMy card says Cincinnati Bengals 25, Pittsburgh Steelers 22. That's a three-point Bengals win, inside the 3.5, and it's a field goal finish, which is about what two teams this even should produce. Cincinnati is 2-1 at Paycor Stadium. Pittsburgh is 2-2 on the road. Nothing about either number says blowout.\n\nFiona's Festival of Lights opens Nov. 19. Sunday night, Cincinnati gets the win and Pittsburgh gets the hook.\n\nBengals 25, Steelers 22. Steelers cover the 3.5. Under 48.5.",
+    "story_text": "Three and a half points looks about as big to me as the 24-foot Fiona nutcracker the Cincinnati Zoo just stood at its front gate. My Steelers vs Bengals prediction for Week 10 is the Pittsburgh Steelers +3.5 against the spread and the Under 49.5 on Sunday night, in a game between two 6-2 division rivals.\n\nCincinnati is −3.5 at home at DraftKings as of Nov 15, 6:14 AM ET, and the total is 49.5, up a point from the 48.5 in Tuesday's Action Network consensus.\n\nThe Formula: Net ratings Cincinnati Bengals −1.2, Pittsburgh Steelers −4.8 (nflverse play-by-play, Nov 10, 2026).\n\nStart with the schedule. Pittsburgh had last week off after beating Cleveland 27-6, so Mike McCarthy and Aaron Rodgers get two weeks to prepare. Cincinnati is on normal rest after a 34-17 win over Atlanta in Madrid. In a division game this tight, the extra week is worth something.\n\nThen the trenches. The Steelers gain 5.2 yards a carry, and the Bengals allow 5.2. Jaylen Warren should find room. Going the other way, Cincinnati runs for 4.0 against a Pittsburgh defense that allows 3.8, so Joe Burrow and Ja'Marr Chase have to carry it through the air into T.J. Watt and Cam Heyward. The Steelers have 26 sacks.\n\nRodgers and Burrow both started their last games. The league's Week 10 injury report hadn't posted when I checked Tuesday morning.\n\nThe Under comes from Pittsburgh's profile. The Steelers have scored 180 and allowed only 144 in eight games. Their games don't get loose. Cincinnati has scored 240 and allowed 175, so the Bengals bring the points, but a Pittsburgh team that runs well and rushes the passer can shorten this game. My total is 47, two and a half under the number.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Bengals −3.5, total 49.5. This preview was written against Bengals −3.5, total 48.5, so the spread is unchanged and the total rose from 48.5 to 49.5. The Cover Writer stays on Steelers +3.5 with Bengals 25, Steelers 22, because Bengals by 3 stays inside the 3.5. The Under holds, now 49.5, with 47 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread has not moved from Bengals −3.5, and the consensus total opened 48.5 and is 49.5 now, so it has no side pick (no move of a full point) and moves to the Over 49.5. The Formula: Bengals 26, Steelers 20 on net ratings. It stays on Bengals −3.5 (Bengals by 6 clears the 3.5) and stays on the Under, now 49.5 (46 points). Next Man Up: Bengals 24, Steelers 23 on who's playing. It stays on Steelers +3.5 (Bengals by 1 stays inside the 3.5) and stays on the Under, now 49.5 (47 points). Letdown Watch: Bengals 24, Steelers 23 on rest and travel. It stays on Steelers +3.5 (Bengals by 1 stays inside the 3.5) and stays on the Under, now 49.5 (47 points). In The Trenches: Bengals 26, Steelers 23 on the line of scrimmage. It stays on Steelers +3.5 (Bengals by 3 stays inside the 3.5) and moves from the Over 48.5 to the Under 49.5 (49 points).\n\nMy card says Cincinnati Bengals 25, Pittsburgh Steelers 22. That's a three-point Bengals win, inside the 3.5, and it's a field goal finish, which is about what two teams this even should produce. Cincinnati is 2-1 at Paycor Stadium. Pittsburgh is 2-2 on the road. Nothing about either number says blowout.\n\nFiona's Festival of Lights opens Nov. 19. Sunday night, Cincinnati gets the win and Pittsburgh gets the hook.\n\nBengals 25, Steelers 22. Steelers cover the 3.5. Under 49.5.",
     "fanatic_score_line": "Projected: Cincinnati Bengals 25, Pittsburgh Steelers 22",
     "market": {
-     "score_line": "Market: Cincinnati Bengals 26, Pittsburgh Steelers 23 (Total 49)",
+     "score_line": "Market: Cincinnati Bengals 27, Pittsburgh Steelers 23 (Total 50)",
      "spread": "Cincinnati Bengals −3.5",
-     "total": "48.5",
-     "source": "Consensus line as of Nov 10, 10:17 AM ET",
+     "total": "49.5",
+     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 15, 6:14 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     }
    },
-   "gambler_story": "Three and a half points looks about as big to me as the 24-foot Fiona nutcracker the Cincinnati Zoo just stood at its front gate. My Steelers vs Bengals prediction for Week 10 is the Pittsburgh Steelers +3.5 against the spread and the Under 48.5 on Sunday night, in a game between two 6-2 division rivals.\n\nCincinnati is −3.5 at home in the Nov. 10 Action Network consensus, and the total is 48.5.\n\nThe Formula: Net ratings Cincinnati Bengals −1.2, Pittsburgh Steelers −4.8 (nflverse play-by-play, Nov 10, 2026).\n\nStart with the schedule. Pittsburgh had last week off after beating Cleveland 27-6, so Mike McCarthy and Aaron Rodgers get two weeks to prepare. Cincinnati is on normal rest after a 34-17 win over Atlanta in Madrid. In a division game this tight, the extra week is worth something.\n\nThen the trenches. The Steelers gain 5.2 yards a carry, and the Bengals allow 5.2. Jaylen Warren should find room. Going the other way, Cincinnati runs for 4.0 against a Pittsburgh defense that allows 3.8, so Joe Burrow and Ja'Marr Chase have to carry it through the air into T.J. Watt and Cam Heyward. The Steelers have 26 sacks.\n\nRodgers and Burrow both started their last games. The league's Week 10 injury report hadn't posted when I checked Tuesday morning.\n\nThe Under comes from Pittsburgh's profile. The Steelers have scored 180 and allowed only 144 in eight games. Their games don't get loose. Cincinnati has scored 240 and allowed 175, so the Bengals bring the points, but a Pittsburgh team that runs well and rushes the passer can shorten this game. My total is 47, a point and a half under the number.\n\nThe side is three to one for Pittsburgh. Next Man Up and Letdown Watch both have Bengals 24, Steelers 23, and In The Trenches has Bengals 26, Steelers 23. The Formula is the outlier at Bengals 26, Steelers 20, laying the 3.5. On the total, three cards are Under and In The Trenches goes Over at 49. Follow The Money doesn't weigh in.\n\nMy card says Cincinnati Bengals 25, Pittsburgh Steelers 22. That's a three-point Bengals win, inside the 3.5, and it's a field goal finish, which is about what two teams this even should produce. Cincinnati is 2-1 at Paycor Stadium. Pittsburgh is 2-2 on the road. Nothing about either number says blowout.\n\nFiona's Festival of Lights opens Nov. 19. Sunday night, Cincinnati gets the win and Pittsburgh gets the hook.\n\nBengals 25, Steelers 22. Steelers cover the 3.5. Under 48.5.",
+   "gambler_story": "Three and a half points looks about as big to me as the 24-foot Fiona nutcracker the Cincinnati Zoo just stood at its front gate. My Steelers vs Bengals prediction for Week 10 is the Pittsburgh Steelers +3.5 against the spread and the Under 49.5 on Sunday night, in a game between two 6-2 division rivals.\n\nCincinnati is −3.5 at home at DraftKings as of Nov 15, 6:14 AM ET, and the total is 49.5, up a point from the 48.5 in Tuesday's Action Network consensus.\n\nThe Formula: Net ratings Cincinnati Bengals −1.2, Pittsburgh Steelers −4.8 (nflverse play-by-play, Nov 10, 2026).\n\nStart with the schedule. Pittsburgh had last week off after beating Cleveland 27-6, so Mike McCarthy and Aaron Rodgers get two weeks to prepare. Cincinnati is on normal rest after a 34-17 win over Atlanta in Madrid. In a division game this tight, the extra week is worth something.\n\nThen the trenches. The Steelers gain 5.2 yards a carry, and the Bengals allow 5.2. Jaylen Warren should find room. Going the other way, Cincinnati runs for 4.0 against a Pittsburgh defense that allows 3.8, so Joe Burrow and Ja'Marr Chase have to carry it through the air into T.J. Watt and Cam Heyward. The Steelers have 26 sacks.\n\nRodgers and Burrow both started their last games. The league's Week 10 injury report hadn't posted when I checked Tuesday morning.\n\nThe Under comes from Pittsburgh's profile. The Steelers have scored 180 and allowed only 144 in eight games. Their games don't get loose. Cincinnati has scored 240 and allowed 175, so the Bengals bring the points, but a Pittsburgh team that runs well and rushes the passer can shorten this game. My total is 47, two and a half under the number.\n\nSunday morning update: as of Nov 15, 6:14 AM ET, DraftKings has Bengals −3.5, total 49.5. This preview was written against Bengals −3.5, total 48.5, so the spread is unchanged and the total rose from 48.5 to 49.5. The Cover Writer stays on Steelers +3.5 with Bengals 25, Steelers 22, because Bengals by 3 stays inside the 3.5. The Under holds, now 49.5, with 47 points.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread has not moved from Bengals −3.5, and the consensus total opened 48.5 and is 49.5 now, so it has no side pick (no move of a full point) and moves to the Over 49.5. The Formula: Bengals 26, Steelers 20 on net ratings. It stays on Bengals −3.5 (Bengals by 6 clears the 3.5) and stays on the Under, now 49.5 (46 points). Next Man Up: Bengals 24, Steelers 23 on who's playing. It stays on Steelers +3.5 (Bengals by 1 stays inside the 3.5) and stays on the Under, now 49.5 (47 points). Letdown Watch: Bengals 24, Steelers 23 on rest and travel. It stays on Steelers +3.5 (Bengals by 1 stays inside the 3.5) and stays on the Under, now 49.5 (47 points). In The Trenches: Bengals 26, Steelers 23 on the line of scrimmage. It stays on Steelers +3.5 (Bengals by 3 stays inside the 3.5) and moves from the Over 48.5 to the Under 49.5 (49 points).\n\nMy card says Cincinnati Bengals 25, Pittsburgh Steelers 22. That's a three-point Bengals win, inside the 3.5, and it's a field goal finish, which is about what two teams this even should produce. Cincinnati is 2-1 at Paycor Stadium. Pittsburgh is 2-2 on the road. Nothing about either number says blowout.\n\nFiona's Festival of Lights opens Nov. 19. Sunday night, Cincinnati gets the win and Pittsburgh gets the hook.\n\nBengals 25, Steelers 22. Steelers cover the 3.5. Under 49.5.",
    "fanatic_story": "A 24-foot hippo dressed as a nutcracker was the first thing Ed Kowalski saw in Cincinnati. Laura Kessel made sure of it, dragging him to the Cincinnati Zoo's new Fiona nutcracker on Saturday before Pittsburgh Steelers vs Cincinnati Bengals in Week 10, when Aaron Rodgers and Joe Burrow settle who runs the AFC North on Sunday night.\n\nThe zoo put Fiona up at its entrance last week, and Laura wanted a Steelers fan standing next to something bigger than his attitude.\n\nLaura knows every detail. Twenty-nine buttons for Fiona's birth weight. Six slices of watermelon, because Fiona came six weeks early and loves the stuff. Her little brother Fritz painted on a toenail.\n\nEd: \"You people built a 24-foot hippo for the holidays.\"\n\nLaura: \"We built a hippo. You built a whole personality out of one deflected ball in 1972.\"\n\nEd: \"December 23, 1972. Fourth down, 22 seconds left, down 7-6 to Oakland. Say it with respect.\"\n\nEd Kowalski judges everything by stability. Chuck Noll held one head coaching job in his life, from 1969 to 1991, and won four Super Bowls in it. To Ed, that's the only blueprint that matters. So when Pittsburgh brought in Mike McCarthy and Aaron Rodgers, he didn't call it a splash. He called it a reunion. The two of them won Super Bowl XLV together in Green Bay, and they won it against the Steelers, which Ed tries very hard not to think about.\n\nLaura: \"Your coach and your quarterback beat your team in a Super Bowl.\"\n\nEd: \"And now they work for us. That's called continuity.\"\n\nLaura starts every conversation with the quarterback, and in Cincinnati that means Burrow. With him, she says, the ceiling is always February. The floor is everybody else on the roster. Her personal hero is Ken Riley, the cornerback with 65 career interceptions who wasn't elected to the Hall of Fame until 2023, decades after he retired.\n\nBoth teams are 6-2. Pittsburgh is 4-0 at home and 2-2 on the road. Cincinnati is 4-1 away and 2-1 at Paycor Stadium. The Bengals just beat Atlanta 34-17. The Steelers had last week off after a 27-6 win against Cleveland, so they arrive with two weeks to get ready.\n\nLaura: \"Two weeks off. Rodgers needed the nap.\"\n\nEd: \"Rodgers needed nothing. T.J. Watt needed two weeks to study your tackles.\"\n\nThe fight Ed actually cares about is on the ground. The Steelers run for 5.2 yards a carry, and the Bengals give up 5.2. Jaylen Warren has been the guy, and Ed wants him carrying it 25 times. The Bengals run for 4.0, and Pittsburgh gives up just 3.8, so Burrow and Ja'Marr Chase are going to have to do it through the air against a defense with 26 sacks.\n\nLaura: \"Start with the quarterback. Mine throws to Ja'Marr Chase.\"\n\nEd: \"Mine throws to DK Metcalf, and mine has a ring.\"\n\nLaura: \"One ring with a different team, coached by a guy who also beat you.\"\n\nEd didn't love that one.\n\nCincinnati can rush the quarterback too, with 23 sacks of its own, and Laura has been telling Ed all weekend that Rodgers doesn't scramble like he used to. Ed has been telling her that Rodgers doesn't have to.\n\nThe zoo's Festival of Lights doesn't open until Nov. 19, so on Sunday night the brightest lights in town will be at Paycor. Laura thinks Burrow wins it late. Ed won't concede anything, but he admits the Bengals might get one more field goal than his guys. Neither of them is leaving early.\n\nMy call: Bengals 25, Steelers 22.",
    "fanatic_final_sentence": "Bengals 25, Steelers 22.",
    "preview_sources": [],
