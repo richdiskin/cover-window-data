@@ -4,7 +4,7 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-11-11T05:37:32Z",
-  "count": 148,
+  "count": 160,
   "lead_id": null,
   "articles": [
     {
@@ -10704,6 +10704,1046 @@
         {
           "label": "ESPN Texas Longhorns 2026 schedule",
           "url": "https://www.espn.com/college-football/team/schedule/_/id/251"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-hawai-i",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "hawai-i",
+      "team_ids": [
+        "hawai-i"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864537",
+      "title": "Hawai'i vs North Dakota State: A 13-7 Lead Slips Away in the Fourth, 21-13",
+      "byline": "Kainoa Akana-Baird, The Hawai'i Fanatic",
+      "matchup": "Final: North Dakota State Bison (8-2) 21, Hawai'i Rainbow Warriors (3-7) 13, Sat., Nov. 14, Clarence T.C. Ching Athletics Complex, Honolulu. Next: at Nevada, Sat., Nov. 21, 10:30 PM ET, Mackay Stadium, Reno",
+      "date": "2026-11-14",
+      "word_count": 311,
+      "text": "Warrior fans, this one stings. North Dakota State 21, Hawai'i 13 on Saturday night at the Ching Complex, and we're 3-7. We led 13-7 going into the fourth quarter with 15,014 of us making all the noise we could. We just couldn't close it.\n\nThe first half was a slog. An early interception at our 15 set them up for a quick touchdown, and it was 7-0. But right before the break, DeVon Rice took a handoff 15 yards for a touchdown with 4 seconds left, and Sean Olvera-Harle tied it with the kick. That's a Rainbow Warrior answer.\n\nThen Olvera-Harle went to work. He drilled a 28-yard field goal midway through the third and a 33-yarder late in the quarter. 13-7, us. Our defense was flying around, too. Jamih Otis made seven tackles with three for loss, and Kona Moore had seven with two for loss. North Dakota State managed 86 rushing yards and 183 yards of offense all night.\n\nThe fourth quarter is what hurts. They put together a 16-play drive that ate more than eight minutes and scored to go up 14-13. Then on our next possession, a throw got jumped and returned 49 yards for a touchdown. In about two minutes, a lead turned into an eight-point hole.\n\nMicah Alejado battled. He completed 31 of 47 throws for 231 yards. Kainoa Carvalho caught seven for 63, Titan Lacaden had six, and Tama Uiliata had five catches and 34 punt return yards. We went for it on fourth down twice late and came up short both times.\n\nGehrig Heil punted five times, with four inside the 20, and pinned them deep almost every time. I'm proud of how hard these guys played. We just needed one more stop.\n\nNext up: Hawai'i heads to Reno to face Nevada at Mackay Stadium, Saturday, Nov. 21, 10:30 PM ET. Imua, Warriors.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Warrior fans, this one stings. North Dakota State 21, Hawai'i 13 on Saturday night at the Ching Complex, and we're 3-7. We led 13-7 going into the fourth quarter with 15,014 of us making all the noise we could. We just couldn't close it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half was a slog. An early interception at our 15 set them up for a quick touchdown, and it was 7-0. But right before the break, DeVon Rice took a handoff 15 yards for a touchdown with 4 seconds left, and Sean Olvera-Harle tied it with the kick. That's a Rainbow Warrior answer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Olvera-Harle went to work. He drilled a 28-yard field goal midway through the third and a 33-yarder late in the quarter. 13-7, us. Our defense was flying around, too. Jamih Otis made seven tackles with three for loss, and Kona Moore had seven with two for loss. North Dakota State managed 86 rushing yards and 183 yards of offense all night."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fourth quarter is what hurts. They put together a 16-play drive that ate more than eight minutes and scored to go up 14-13. Then on our next possession, a throw got jumped and returned 49 yards for a touchdown. In about two minutes, a lead turned into an eight-point hole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Micah Alejado battled. He completed 31 of 47 throws for 231 yards. Kainoa Carvalho caught seven for 63, Titan Lacaden had six, and Tama Uiliata had five catches and 34 punt return yards. We went for it on fourth down twice late and came up short both times."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gehrig Heil punted five times, with four inside the 20, and pinned them deep almost every time. I'm proud of how hard these guys played. We just needed one more stop."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: Hawai'i heads to Reno to face Nevada at Mackay Stadium, Saturday, Nov. 21, 10:30 PM ET. Imua, Warriors."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Hawai'i lost 21-13 to North Dakota State on Saturday, Nov. 14, at the Ching Complex in Honolulu. The Rainbow Warriors are 3-7."
+        },
+        {
+          "type": "fact",
+          "text": "DeVon Rice scored on a 15-yard run before halftime, and Sean Olvera-Harle kicked two third-quarter field goals for a 13-7 lead."
+        },
+        {
+          "type": "jab",
+          "text": "North Dakota State won with 183 yards of offense. We'll take that as a compliment to our defense."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Nevada, Saturday, Nov. 21, 10:30 PM ET, Mackay Stadium, Reno."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, North Dakota State 21, Hawai'i 13 (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864537"
+        },
+        {
+          "label": "ESPN game recap, North Dakota State at Hawai'i (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864537"
+        },
+        {
+          "label": "ESPN play-by-play, North Dakota State at Hawai'i (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864537"
+        },
+        {
+          "label": "ESPN Hawai'i Rainbow Warriors 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/62"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-north-dakota-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "north-dakota-state",
+      "team_ids": [
+        "north-dakota-state"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864537",
+      "title": "North Dakota State vs Hawai'i: Ray James Jr. Takes One Back as the Bison Rally, 21-13",
+      "byline": "Ingeborg 'Inga' Halvorsen, The North Dakota State Fanatic",
+      "matchup": "Final: North Dakota State Bison (8-2) 21, Hawai'i Rainbow Warriors (3-7) 13, Sat., Nov. 14, Clarence T.C. Ching Athletics Complex, Honolulu. Next: vs Northern Illinois, Sat., Nov. 21, 4:00 PM ET, Fargodome, Fargo",
+      "date": "2026-11-14",
+      "word_count": 321,
+      "text": "Go Bison! North Dakota State 21, Hawai'i 13 on Saturday night at the Ching Complex in Honolulu, and we are 8-2 and 5-2 in the Mountain West. Somewhere back in Fargo it was well past bedtime, and I promise you every one of us was still awake for the fourth quarter.\n\nIt started like we drew it up. Logan Larson intercepted Micah Alejado on their second possession and set us up at their 11. Two plays later, Nathan Hayes hit Mekhi Collins for a 7-yard touchdown. 7-0 after one.\n\nThen it got sticky. Our offense couldn't get rolling, they scored with 4 seconds left before the half, and their kicker hit two field goals in the third quarter. We went into the fourth down 13-7, and I had my rally cap on backward and inside out.\n\nThat's when this team did what it always does. We took the ball at our own 31 and went 69 yards in 16 plays, eating 8:37 off the clock. Pure Bison football. DJ Scott finished it with a 1-yard plunge and Drew Klein made the kick. 14-13, us, with 8:34 left.\n\nLess than two minutes later, Ray James Jr. jumped a throw and ran it back 49 yards for a touchdown. 21-13. The Ching Complex went quiet, and I nearly fell off my couch. James also made 10 solo tackles. What a night.\n\nThe defense held Hawai'i to 31 rushing yards on 26 carries and stopped them on fourth down twice in the final minutes. Matthew Stenbroten had 1.5 sacks and 3.5 tackles for loss. Keenan Wilson had two sacks. Aaron Bickerton averaged 46 yards on seven punts and kept flipping the field all night. We only gained 183 yards and still won by eight. That's how you win in November.\n\nNext up: the Bison come home to the Fargodome to host Northern Illinois, Saturday, Nov. 21, 4 PM ET. Bring the noise, Bison Nation.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Go Bison! North Dakota State 21, Hawai'i 13 on Saturday night at the Ching Complex in Honolulu, and we are 8-2 and 5-2 in the Mountain West. Somewhere back in Fargo it was well past bedtime, and I promise you every one of us was still awake for the fourth quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "It started like we drew it up. Logan Larson intercepted Micah Alejado on their second possession and set us up at their 11. Two plays later, Nathan Hayes hit Mekhi Collins for a 7-yard touchdown. 7-0 after one."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then it got sticky. Our offense couldn't get rolling, they scored with 4 seconds left before the half, and their kicker hit two field goals in the third quarter. We went into the fourth down 13-7, and I had my rally cap on backward and inside out."
+        },
+        {
+          "type": "paragraph",
+          "text": "That's when this team did what it always does. We took the ball at our own 31 and went 69 yards in 16 plays, eating 8:37 off the clock. Pure Bison football. DJ Scott finished it with a 1-yard plunge and Drew Klein made the kick. 14-13, us, with 8:34 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Less than two minutes later, Ray James Jr. jumped a throw and ran it back 49 yards for a touchdown. 21-13. The Ching Complex went quiet, and I nearly fell off my couch. James also made 10 solo tackles. What a night."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense held Hawai'i to 31 rushing yards on 26 carries and stopped them on fourth down twice in the final minutes. Matthew Stenbroten had 1.5 sacks and 3.5 tackles for loss. Keenan Wilson had two sacks. Aaron Bickerton averaged 46 yards on seven punts and kept flipping the field all night. We only gained 183 yards and still won by eight. That's how you win in November."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: the Bison come home to the Fargodome to host Northern Illinois, Saturday, Nov. 21, 4 PM ET. Bring the noise, Bison Nation."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "North Dakota State beat Hawai'i 21-13 on Saturday, Nov. 14, at the Ching Complex in Honolulu. The Bison are 8-2, 5-2 in the Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "DJ Scott capped a 16-play, 69-yard drive with a 1-yard touchdown, and Ray James Jr. returned an interception 49 yards for the clinching score."
+        },
+        {
+          "type": "jab",
+          "text": "Hawai'i ran for 31 yards. We've had longer snow-shoveling sessions than their whole ground game."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Northern Illinois, Saturday, Nov. 21, 4:00 PM ET, Fargodome, Fargo."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, North Dakota State 21, Hawai'i 13 (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864537"
+        },
+        {
+          "label": "ESPN game recap, North Dakota State at Hawai'i (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864537"
+        },
+        {
+          "label": "ESPN play-by-play, North Dakota State at Hawai'i (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864537"
+        },
+        {
+          "label": "ESPN North Dakota State Bison 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2449"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-colorado-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "colorado-state",
+      "team_ids": [
+        "colorado-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860917",
+      "title": "Colorado State vs Washington State: A Long Night in Pullman Ends 73-7",
+      "byline": "Ansel Rimrock, The Colorado State Fanatic",
+      "matchup": "Final: Washington State Cougars (2-8) 73, Colorado State Rams (3-7) 7, Sat., Nov. 14, Martin Stadium, Pullman. Next: at Fresno State, Sat., Nov. 21, 7:30 PM ET, Valley Children's Stadium, Fresno",
+      "date": "2026-11-14",
+      "word_count": 313,
+      "text": "Rams fans, I drove a long way to Pullman, and I'll drive a long way home. Washington State 73, Colorado State 7 on Saturday night at Martin Stadium. We're 3-7 and 1-5 in the Pac-12, and there is no sugarcoating this one. We got flattened by a train in crimson.\n\nThe numbers hurt to type. They ran for 535 yards and nine touchdowns, both school records for them. One of their backs went 98 yards from his own 2. Their quarterback missed one throw all night. We were down 35-0 before we scored.\n\nWhen we did score, it was a good one. With 38 seconds left in the half, RJ Vick plunged in from a yard out and Kali Nguma added the kick. Vick also caught two balls for 47 yards. Hauss Hejny threw for 199 yards, completing 14 of 24, and Tommy Maher caught four for 76 yards. Durell Robinson had a 35-yard catch. There were a few moments where you could see what this offense wants to be.\n\nBut we lost a fumble late in the first quarter, threw an interception in the third, and went 0 for 3 on fourth down. We converted 3 of 11 third downs. You can't win like that anywhere, and you really can't win like that in Pullman.\n\nI want to give credit to the guys who never stopped hitting. Oumar Diomande made eight tackles. Tre'Shawn Moore had seven, and Jaylen King and D'Angelo Hagans Jr. had six apiece. Mel Brown returned four kickoffs for 70 yards. Nathan Sutcliffe punted five times.\n\nWe're still winless on the road this year, and that has to change. Lift your heads, Rams. Nobody remembers a night like this if the next one is better.\n\nNext up: Colorado State travels to Fresno to face Fresno State at Valley Children's Stadium, Saturday, Nov. 21, 7:30 PM ET. Let's go, Rams.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Rams fans, I drove a long way to Pullman, and I'll drive a long way home. Washington State 73, Colorado State 7 on Saturday night at Martin Stadium. We're 3-7 and 1-5 in the Pac-12, and there is no sugarcoating this one. We got flattened by a train in crimson."
+        },
+        {
+          "type": "paragraph",
+          "text": "The numbers hurt to type. They ran for 535 yards and nine touchdowns, both school records for them. One of their backs went 98 yards from his own 2. Their quarterback missed one throw all night. We were down 35-0 before we scored."
+        },
+        {
+          "type": "paragraph",
+          "text": "When we did score, it was a good one. With 38 seconds left in the half, RJ Vick plunged in from a yard out and Kali Nguma added the kick. Vick also caught two balls for 47 yards. Hauss Hejny threw for 199 yards, completing 14 of 24, and Tommy Maher caught four for 76 yards. Durell Robinson had a 35-yard catch. There were a few moments where you could see what this offense wants to be."
+        },
+        {
+          "type": "paragraph",
+          "text": "But we lost a fumble late in the first quarter, threw an interception in the third, and went 0 for 3 on fourth down. We converted 3 of 11 third downs. You can't win like that anywhere, and you really can't win like that in Pullman."
+        },
+        {
+          "type": "paragraph",
+          "text": "I want to give credit to the guys who never stopped hitting. Oumar Diomande made eight tackles. Tre'Shawn Moore had seven, and Jaylen King and D'Angelo Hagans Jr. had six apiece. Mel Brown returned four kickoffs for 70 yards. Nathan Sutcliffe punted five times."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're still winless on the road this year, and that has to change. Lift your heads, Rams. Nobody remembers a night like this if the next one is better."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: Colorado State travels to Fresno to face Fresno State at Valley Children's Stadium, Saturday, Nov. 21, 7:30 PM ET. Let's go, Rams."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Colorado State lost 73-7 to Washington State on Saturday, Nov. 14, at Martin Stadium in Pullman. The Rams are 3-7."
+        },
+        {
+          "type": "fact",
+          "text": "RJ Vick scored on a 1-yard run late in the first half, and Hauss Hejny threw for 199 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Washington State needed nine rushing touchdowns to snap a six-game skid. That says plenty about how their season has gone."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Fresno State, Saturday, Nov. 21, 7:30 PM ET, Valley Children's Stadium, Fresno."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Washington State 73, Colorado State 7 (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860917"
+        },
+        {
+          "label": "ESPN game recap, Colorado State at Washington State (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401860917"
+        },
+        {
+          "label": "ESPN play-by-play, Colorado State at Washington State (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860917"
+        },
+        {
+          "label": "ESPN Colorado State Rams 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/36"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-washington-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "washington-state",
+      "team_ids": [
+        "washington-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860917",
+      "title": "Washington State vs Colorado State: Kirby Vorhees Goes 98 Yards in a Record 73-7 Romp",
+      "byline": "Hank Palouse, The Washington State Fanatic",
+      "matchup": "Final: Washington State Cougars (2-8) 73, Colorado State Rams (3-7) 7, Sat., Nov. 14, Martin Stadium, Pullman. Next: at Texas State, Sat., Nov. 21, 6:00 PM ET, UFCU Stadium, San Marcos",
+      "date": "2026-11-14",
+      "word_count": 334,
+      "text": "Go Cougs, and I mean GO. Washington State 73, Colorado State 7 on Saturday night at Martin Stadium in Pullman. Six straight losses, gone. We're 2-8, 1-5 in the Pac-12, and I don't care what the record says this morning. That was the most fun I've had on the Palouse in a long, long time.\n\nKirby Vorhees, come on down. Twelve carries. 197 yards. Four touchdowns. Both are career highs. He scored from 3 yards to open it, and then with 55 seconds left in the first quarter, he took a first-down handoff from our own 2 and ran 98 yards. Ninety-eight! It's a Pac-12 record and the longest touchdown run in the country this season. I spilled my coffee and didn't even notice.\n\nOwen Eshelman was nearly perfect. He completed 13 of 14 throws for 135 yards, hit Branden Ganashamoorthy for a 30-yard touchdown three plays into the third quarter, and ran for three more scores from 4, 9 and 1 yards. Maxwell Woods ran for 108 yards and a 2-yard score. Then Julian Dugger came in and took off for 60 yards for the final touchdown.\n\nCount them up. Nine rushing touchdowns, a school record. 535 rushing yards, also a school record, beating the 424 we put up against Idaho in 1975. We had 300 on the ground by halftime and led 38-7 after Jack Stevens kicked a 33-yard field goal on the final play of the half. Stevens went 9 for 9 on extra points.\n\nThe defense deserves love, too. Matyus McLain recovered a fumble late in the first quarter, and Jaylen Thomas intercepted a throw in the third and returned three punts for 43 yards. Keith Brown made nine tackles. Jalil Tucker had a sack. Colorado State went 0 for 3 on fourth down and finished with 61 rushing yards.\n\nSeventy-three points. Let the whole Palouse hear it, Cougs. Next up: Washington State heads to San Marcos to face Texas State at UFCU Stadium, Saturday, Nov. 21, 6 PM ET.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Go Cougs, and I mean GO. Washington State 73, Colorado State 7 on Saturday night at Martin Stadium in Pullman. Six straight losses, gone. We're 2-8, 1-5 in the Pac-12, and I don't care what the record says this morning. That was the most fun I've had on the Palouse in a long, long time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kirby Vorhees, come on down. Twelve carries. 197 yards. Four touchdowns. Both are career highs. He scored from 3 yards to open it, and then with 55 seconds left in the first quarter, he took a first-down handoff from our own 2 and ran 98 yards. Ninety-eight! It's a Pac-12 record and the longest touchdown run in the country this season. I spilled my coffee and didn't even notice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Owen Eshelman was nearly perfect. He completed 13 of 14 throws for 135 yards, hit Branden Ganashamoorthy for a 30-yard touchdown three plays into the third quarter, and ran for three more scores from 4, 9 and 1 yards. Maxwell Woods ran for 108 yards and a 2-yard score. Then Julian Dugger came in and took off for 60 yards for the final touchdown."
+        },
+        {
+          "type": "paragraph",
+          "text": "Count them up. Nine rushing touchdowns, a school record. 535 rushing yards, also a school record, beating the 424 we put up against Idaho in 1975. We had 300 on the ground by halftime and led 38-7 after Jack Stevens kicked a 33-yard field goal on the final play of the half. Stevens went 9 for 9 on extra points."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense deserves love, too. Matyus McLain recovered a fumble late in the first quarter, and Jaylen Thomas intercepted a throw in the third and returned three punts for 43 yards. Keith Brown made nine tackles. Jalil Tucker had a sack. Colorado State went 0 for 3 on fourth down and finished with 61 rushing yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seventy-three points. Let the whole Palouse hear it, Cougs. Next up: Washington State heads to San Marcos to face Texas State at UFCU Stadium, Saturday, Nov. 21, 6 PM ET."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Washington State beat Colorado State 73-7 on Saturday, Nov. 14, at Martin Stadium in Pullman, snapping a six-game losing streak. The Cougars are 2-8."
+        },
+        {
+          "type": "fact",
+          "text": "Kirby Vorhees ran for 197 yards and four touchdowns, including a Pac-12 record 98-yarder, and the Cougars set school records with nine rushing touchdowns and 535 rushing yards."
+        },
+        {
+          "type": "jab",
+          "text": "Colorado State's kickoff team got more exercise than our punter. We never punted."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Texas State, Saturday, Nov. 21, 6:00 PM ET, UFCU Stadium, San Marcos."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Washington State 73, Colorado State 7 (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860917"
+        },
+        {
+          "label": "ESPN game recap, Colorado State at Washington State (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401860917"
+        },
+        {
+          "label": "ESPN play-by-play, Colorado State at Washington State (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860917"
+        },
+        {
+          "label": "ESPN Washington State Cougars 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/265"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-arizona",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "arizona",
+      "team_ids": [
+        "arizona"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856864",
+      "title": "Arizona vs Utah: Fifita Throws for 356, but the Wildcats Fall 40-39 in a Midnight Thriller",
+      "byline": "Inez Paloverde, The Arizona Fanatic",
+      "matchup": "Final: Utah Utes (10-0) 40, Arizona Wildcats (7-3) 39, Sat., Nov. 14, Casino Del Sol Stadium, Tucson. Next: at Kansas State, Sat., Nov. 21, 7:00 PM ET, Bill Snyder Family Stadium, Manhattan",
+      "date": "2026-11-14",
+      "word_count": 311,
+      "text": "Wildcat fans, I have been staring at the ceiling for an hour. Utah 40, Arizona 39 at Casino Del Sol Stadium, and we're 7-3. It was the highest-ranked opponent to play in Tucson since Oregon in 2007, and we were 38 seconds away from beating them.\n\nWe came out swinging. Quincy Craig plunged in from a yard in the first quarter. Kedrick Reescano scored from 5 in the second. It was 14-3, and 48,858 people in Tucson were losing their minds. Utah answered with two quarterback runs to lead 17-14 at the half.\n\nThen Mays Pese recovered a fumble at their 18 on the first snap of the third quarter, and Noah Fifita hit Isaiah Mizell for a 6-yard touchdown. 21-17, us. Jay'Vion Cole intercepted a throw at our own 1 later in the quarter, and Fifita found Giovanni Richardson for a 19-yard score to make it 28-24.\n\nFifita was magnificent. He finished 27 of 43 for 356 yards and three touchdowns. Chris Hunter III caught six balls for 119 yards. Mizell had seven catches for 115 and two scores. Richardson had seven for 94.\n\nThe fourth quarter was a heavyweight fight. Drew Nicolson recovered a muffed punt at their 17, and Michael Salgado-Medina kicked a 47-yarder to make it 33-31. Then Fifita found Mizell from 10 yards with 3:13 left and ran in the two-point try himself. 39-33.\n\nAnd 38 seconds later, Utah hit a 70-yard touchdown. We got one more chance near midfield, but the fourth-down throw was broken up with 1:56 left. Chase Kennedy made nine tackles and Tyrese Boss broke up two throws. Nobody on this team has anything to hang their heads about.\n\nSeven and three, and still plenty to play for. Next up: the Wildcats head to Manhattan to face Kansas State at Bill Snyder Family Stadium, Saturday, Nov. 21, 7 PM ET. Bear Down!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Wildcat fans, I have been staring at the ceiling for an hour. Utah 40, Arizona 39 at Casino Del Sol Stadium, and we're 7-3. It was the highest-ranked opponent to play in Tucson since Oregon in 2007, and we were 38 seconds away from beating them."
+        },
+        {
+          "type": "paragraph",
+          "text": "We came out swinging. Quincy Craig plunged in from a yard in the first quarter. Kedrick Reescano scored from 5 in the second. It was 14-3, and 48,858 people in Tucson were losing their minds. Utah answered with two quarterback runs to lead 17-14 at the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Mays Pese recovered a fumble at their 18 on the first snap of the third quarter, and Noah Fifita hit Isaiah Mizell for a 6-yard touchdown. 21-17, us. Jay'Vion Cole intercepted a throw at our own 1 later in the quarter, and Fifita found Giovanni Richardson for a 19-yard score to make it 28-24."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fifita was magnificent. He finished 27 of 43 for 356 yards and three touchdowns. Chris Hunter III caught six balls for 119 yards. Mizell had seven catches for 115 and two scores. Richardson had seven for 94."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fourth quarter was a heavyweight fight. Drew Nicolson recovered a muffed punt at their 17, and Michael Salgado-Medina kicked a 47-yarder to make it 33-31. Then Fifita found Mizell from 10 yards with 3:13 left and ran in the two-point try himself. 39-33."
+        },
+        {
+          "type": "paragraph",
+          "text": "And 38 seconds later, Utah hit a 70-yard touchdown. We got one more chance near midfield, but the fourth-down throw was broken up with 1:56 left. Chase Kennedy made nine tackles and Tyrese Boss broke up two throws. Nobody on this team has anything to hang their heads about."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seven and three, and still plenty to play for. Next up: the Wildcats head to Manhattan to face Kansas State at Bill Snyder Family Stadium, Saturday, Nov. 21, 7 PM ET. Bear Down!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Arizona lost 40-39 to Utah early Sunday at Casino Del Sol Stadium in a game that began Saturday, Nov. 14. The Wildcats are 7-3."
+        },
+        {
+          "type": "fact",
+          "text": "Noah Fifita threw for 356 yards and three touchdowns, two to Isaiah Mizell, and ran in a two-point try for a 39-33 lead with 3:13 left."
+        },
+        {
+          "type": "jab",
+          "text": "Utah needed a ground stop, a three-hour delay and a 70-yard bomb to get out of Tucson alive."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Kansas State, Saturday, Nov. 21, 7:00 PM ET, Bill Snyder Family Stadium, Manhattan."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Utah 40, Arizona 39 (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856864"
+        },
+        {
+          "label": "ESPN game recap, Utah at Arizona (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856864"
+        },
+        {
+          "label": "ESPN play-by-play, Utah at Arizona (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856864"
+        },
+        {
+          "label": "ESPN Arizona Wildcats 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/12"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-utah",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "utah",
+      "team_ids": [
+        "utah"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856864",
+      "title": "Utah vs Arizona: Dampier to Whittemore for 70 Yards, Utes Survive 40-39 and Stay Perfect",
+      "byline": "Aspen Mortensen, The Utah Fanatic",
+      "matchup": "Final: Utah Utes (10-0) 40, Arizona Wildcats (7-3) 39, Sat., Nov. 14, Casino Del Sol Stadium, Tucson. Next: at TCU, Sat., Nov. 21, 9:00 PM ET, Amon G. Carter Stadium, Fort Worth",
+      "date": "2026-11-14",
+      "word_count": 352,
+      "text": "Utes fans, I need a minute. Utah 40, Arizona 39 at Casino Del Sol Stadium in Tucson, in a game that ended early Sunday morning, and we are 10-0 and 7-0 in the Big 12. Sixteen straight wins across two seasons. My heart rate may never recover.\n\nRemember, this team didn't even land in Tucson until just after noon on Saturday after Friday's FAA ground stop, and the game got pushed back three hours. Then we fell behind 14-3. No excuses, though. That's not how we do it in Salt Lake.\n\nDevon Dampier dragged us back. He ran for scores from 14 and 18 yards in the second quarter, and we led 17-14 at the half. Braden Pegan even intercepted a heave on the final play of the half. Dampier fumbled on the first snap of the third and threw an interception at their 1 later in the quarter, but he also hit Byrd Ficklin for a 4-yard touchdown in between. He finished with 100 rushing yards and 204 through the air.\n\nAnd Daniel Bray. Oh, Daniel Bray. Eighteen carries, 197 yards, a 62-yard burst, and an 8-yard touchdown that made it 33-28 early in the fourth. Dillon Curtis drilled field goals from 53 and 39. Orion Phillips averaged 56.3 yards a punt, with a long of 84. Let that sink in.\n\nThen it got scary. A muffed punt set up an Arizona field goal, and their quarterback threw a 10-yard touchdown and ran in the two-point try to put them up 39-33 with 3:13 left. Thirty-eight seconds later, Dampier let it fly and Creed Whittemore ran it down for a 70-yard touchdown. Curtis made the kick. 40-39. I screamed loud enough to wake the whole block.\n\nThe defense still had to finish. On fourth down near midfield with less than two minutes left, Jackson Bennee broke up the throw. Ballgame. Rabbit Evans had seven tackles, and Elijah Davis and Trey Reynolds had six each.\n\nPerfect in November. Next up, the Utes head to Fort Worth to face TCU at Amon G. Carter Stadium, Saturday, Nov. 21, 9 PM ET. Go Utes!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Utes fans, I need a minute. Utah 40, Arizona 39 at Casino Del Sol Stadium in Tucson, in a game that ended early Sunday morning, and we are 10-0 and 7-0 in the Big 12. Sixteen straight wins across two seasons. My heart rate may never recover."
+        },
+        {
+          "type": "paragraph",
+          "text": "Remember, this team didn't even land in Tucson until just after noon on Saturday after Friday's FAA ground stop, and the game got pushed back three hours. Then we fell behind 14-3. No excuses, though. That's not how we do it in Salt Lake."
+        },
+        {
+          "type": "paragraph",
+          "text": "Devon Dampier dragged us back. He ran for scores from 14 and 18 yards in the second quarter, and we led 17-14 at the half. Braden Pegan even intercepted a heave on the final play of the half. Dampier fumbled on the first snap of the third and threw an interception at their 1 later in the quarter, but he also hit Byrd Ficklin for a 4-yard touchdown in between. He finished with 100 rushing yards and 204 through the air."
+        },
+        {
+          "type": "paragraph",
+          "text": "And Daniel Bray. Oh, Daniel Bray. Eighteen carries, 197 yards, a 62-yard burst, and an 8-yard touchdown that made it 33-28 early in the fourth. Dillon Curtis drilled field goals from 53 and 39. Orion Phillips averaged 56.3 yards a punt, with a long of 84. Let that sink in."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then it got scary. A muffed punt set up an Arizona field goal, and their quarterback threw a 10-yard touchdown and ran in the two-point try to put them up 39-33 with 3:13 left. Thirty-eight seconds later, Dampier let it fly and Creed Whittemore ran it down for a 70-yard touchdown. Curtis made the kick. 40-39. I screamed loud enough to wake the whole block."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense still had to finish. On fourth down near midfield with less than two minutes left, Jackson Bennee broke up the throw. Ballgame. Rabbit Evans had seven tackles, and Elijah Davis and Trey Reynolds had six each."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perfect in November. Next up, the Utes head to Fort Worth to face TCU at Amon G. Carter Stadium, Saturday, Nov. 21, 9 PM ET. Go Utes!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Utah beat Arizona 40-39 early Sunday at Casino Del Sol Stadium in Tucson in a game that began Saturday, Nov. 14. The Utes are 10-0, 7-0 in the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "Devon Dampier threw a 70-yard touchdown to Creed Whittemore with 2:35 left and ran for two scores, and Daniel Bray ran for 197 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Arizona had a midnight miracle last week. This week the midnight belonged to us."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at TCU, Saturday, Nov. 21, 9:00 PM ET, Amon G. Carter Stadium, Fort Worth."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Utah 40, Arizona 39 (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856864"
+        },
+        {
+          "label": "ESPN game recap, Utah at Arizona (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856864"
+        },
+        {
+          "label": "ESPN play-by-play, Utah at Arizona (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856864"
+        },
+        {
+          "label": "ESPN Utah Utes 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/254"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-utep",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "utep",
+      "team_ids": [
+        "utep"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864540",
+      "title": "UTEP vs Wyoming: Raymond Moore III Runs Wild, but the Miners Fall 27-15",
+      "byline": "Ernesto 'Neto' Galindo, The UTEP Fanatic",
+      "matchup": "Final: Wyoming Cowboys (7-3) 27, UTEP Miners (1-9) 15, Sat., Nov. 14, Sun Bowl, El Paso. Next: at Air Force, Fri., Nov. 20, 8:00 PM ET, Falcon Stadium, USAF Academy",
+      "date": "2026-11-14",
+      "word_count": 331,
+      "text": "Miner fans, I'm going to start with the good, because there was good. Raymond Moore III took off on an 80-yard touchdown run about seven minutes into Saturday night's game at the Sun Bowl, and for a minute, El Paso was flying. Then the rest of the night happened. Wyoming 27, UTEP 15. We're 1-9.\n\nMoore was the best player on the field for us. He ran 20 times for 164 yards and completed 11 of 19 throws. When he got loose, the whole stadium came to its feet. He's a gamer, and he keeps getting up.\n\nBut the first half got away. Wyoming went 93 yards for a touchdown to take a 7-6 lead, and then a bad snap got past our punter, Brady Braun, at our 21. One play later, it was 14-6. They added a touchdown run and a field goal before the half, and it was 24-6 at the break. Braun, for the record, still averaged 53 yards a punt. The man has a leg.\n\nThe defense kept fighting, and I want them to hear it. Kode Lowe forced a fumble that Leander Parrish recovered early in the second quarter. Jayden Wilson knocked another one loose late in the third, and Justin Content fell on it. Shakaun Bowser forced a third one in the fourth, and Parrish scooped it up again and returned it 11 yards. Garrett Hawkins made 10 tackles. Wilson had nine.\n\nCarlos Arreola nailed a 55-yard field goal at the end of the third quarter, and Elijah McCoy powered in from a yard out to make it 24-15 with 12:00 left. We missed the two-point try, missed a field goal later, and came up short on a fourth down. Close, but not enough.\n\nEight straight losses is hard to type. But this team keeps showing up, and so will I.\n\nNext up: the Miners travel to Colorado Springs to face Air Force at Falcon Stadium, Friday, Nov. 20, 8 PM ET. Keep swinging, Miners.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Miner fans, I'm going to start with the good, because there was good. Raymond Moore III took off on an 80-yard touchdown run about seven minutes into Saturday night's game at the Sun Bowl, and for a minute, El Paso was flying. Then the rest of the night happened. Wyoming 27, UTEP 15. We're 1-9."
+        },
+        {
+          "type": "paragraph",
+          "text": "Moore was the best player on the field for us. He ran 20 times for 164 yards and completed 11 of 19 throws. When he got loose, the whole stadium came to its feet. He's a gamer, and he keeps getting up."
+        },
+        {
+          "type": "paragraph",
+          "text": "But the first half got away. Wyoming went 93 yards for a touchdown to take a 7-6 lead, and then a bad snap got past our punter, Brady Braun, at our 21. One play later, it was 14-6. They added a touchdown run and a field goal before the half, and it was 24-6 at the break. Braun, for the record, still averaged 53 yards a punt. The man has a leg."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense kept fighting, and I want them to hear it. Kode Lowe forced a fumble that Leander Parrish recovered early in the second quarter. Jayden Wilson knocked another one loose late in the third, and Justin Content fell on it. Shakaun Bowser forced a third one in the fourth, and Parrish scooped it up again and returned it 11 yards. Garrett Hawkins made 10 tackles. Wilson had nine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carlos Arreola nailed a 55-yard field goal at the end of the third quarter, and Elijah McCoy powered in from a yard out to make it 24-15 with 12:00 left. We missed the two-point try, missed a field goal later, and came up short on a fourth down. Close, but not enough."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eight straight losses is hard to type. But this team keeps showing up, and so will I."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: the Miners travel to Colorado Springs to face Air Force at Falcon Stadium, Friday, Nov. 20, 8 PM ET. Keep swinging, Miners."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "UTEP lost 27-15 to Wyoming on Saturday, Nov. 14, at the Sun Bowl. The Miners are 1-9."
+        },
+        {
+          "type": "fact",
+          "text": "Raymond Moore III ran for 164 yards, including an 80-yard touchdown, and the defense forced three Wyoming fumbles."
+        },
+        {
+          "type": "jab",
+          "text": "Wyoming fumbled three times and still needed a running back to throw a touchdown to get going."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Air Force, Friday, Nov. 20, 8:00 PM ET, Falcon Stadium, USAF Academy."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Wyoming 27, UTEP 15 (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864540"
+        },
+        {
+          "label": "ESPN game recap, Wyoming at UTEP (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864540"
+        },
+        {
+          "label": "ESPN play-by-play, Wyoming at UTEP (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864540"
+        },
+        {
+          "label": "ESPN UTEP Miners 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2638"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-wyoming",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "wyoming",
+      "team_ids": [
+        "wyoming"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864540",
+      "title": "Wyoming vs UTEP: Landon Sims Shines in His First Start as the Pokes Win 27-15",
+      "byline": "Colter Sprague, The Wyoming Fanatic",
+      "matchup": "Final: Wyoming Cowboys (7-3) 27, UTEP Miners (1-9) 15, Sat., Nov. 14, Sun Bowl, El Paso. Next: vs New Mexico, Fri., Nov. 20, 9:00 PM ET, War Memorial Stadium, Laramie",
+      "date": "2026-11-14",
+      "word_count": 356,
+      "text": "Ride 'em, Pokes! Wyoming 27, UTEP 15 on Saturday night at the Sun Bowl in El Paso, and we are 7-3 and 6-1 in the Mountain West. And after New Mexico lost 21-17 to UNLV earlier in the night, we're tied with the Lobos at the top of the league. I'm wearing my brown and gold to bed.\n\nLandon Sims made his first career start and played like he'd been doing it for years. He finished 19 of 25 for 289 yards and a touchdown. Kyle Frendt caught four balls for 113 yards, and Samuel Harris did a little of everything with 66 rushing yards, 82 receiving yards and two scores.\n\nWe did fall behind first. Their quarterback broke an 80-yard touchdown run about seven minutes in, and it was 6-0. So we marched 93 yards, and our running back, Markell Holman, threw a 3-yard touchdown to Landon Pace. That's our first touchdown throw by a non-quarterback since Austin Conway threw one to Josh Allen back in 2016. Laramie remembers. 7-6, us.\n\nThen UTEP's punter couldn't handle the snap, Jett Vincent fell on it at their 21, and Sims hit Harris for a 21-yard touchdown on the very next play. Harris added a 33-yard touchdown run in the second quarter, Erik Sandvik made a 30-yard field goal before the half, and it was 24-6.\n\nI won't pretend the second half was clean. We lost three fumbles, and UTEP kicked a 55-yarder and scored on a 1-yard run to make it 24-15 early in the fourth. Sandvik settled it with a 41-yard field goal with 6:40 left. Then Jack Dunkley sacked their quarterback on fourth down to end their last real threat.\n\nEthan Stuhlsatz led the defense with 11 tackles and 1.5 tackles for loss, Gary Rutherford had eight, and Bart Edmiston averaged 46.3 yards a punt. Sandvik went 2 for 2 on field goals and 3 for 3 on extra points.\n\nNow the big one. New Mexico comes to War Memorial Stadium in Laramie on Friday, Nov. 20, 9 PM ET, with first place on the table. Bundle up and get loud, Cowboy Joe is waiting.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ride 'em, Pokes! Wyoming 27, UTEP 15 on Saturday night at the Sun Bowl in El Paso, and we are 7-3 and 6-1 in the Mountain West. And after New Mexico lost 21-17 to UNLV earlier in the night, we're tied with the Lobos at the top of the league. I'm wearing my brown and gold to bed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Landon Sims made his first career start and played like he'd been doing it for years. He finished 19 of 25 for 289 yards and a touchdown. Kyle Frendt caught four balls for 113 yards, and Samuel Harris did a little of everything with 66 rushing yards, 82 receiving yards and two scores."
+        },
+        {
+          "type": "paragraph",
+          "text": "We did fall behind first. Their quarterback broke an 80-yard touchdown run about seven minutes in, and it was 6-0. So we marched 93 yards, and our running back, Markell Holman, threw a 3-yard touchdown to Landon Pace. That's our first touchdown throw by a non-quarterback since Austin Conway threw one to Josh Allen back in 2016. Laramie remembers. 7-6, us."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then UTEP's punter couldn't handle the snap, Jett Vincent fell on it at their 21, and Sims hit Harris for a 21-yard touchdown on the very next play. Harris added a 33-yard touchdown run in the second quarter, Erik Sandvik made a 30-yard field goal before the half, and it was 24-6."
+        },
+        {
+          "type": "paragraph",
+          "text": "I won't pretend the second half was clean. We lost three fumbles, and UTEP kicked a 55-yarder and scored on a 1-yard run to make it 24-15 early in the fourth. Sandvik settled it with a 41-yard field goal with 6:40 left. Then Jack Dunkley sacked their quarterback on fourth down to end their last real threat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ethan Stuhlsatz led the defense with 11 tackles and 1.5 tackles for loss, Gary Rutherford had eight, and Bart Edmiston averaged 46.3 yards a punt. Sandvik went 2 for 2 on field goals and 3 for 3 on extra points."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the big one. New Mexico comes to War Memorial Stadium in Laramie on Friday, Nov. 20, 9 PM ET, with first place on the table. Bundle up and get loud, Cowboy Joe is waiting."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Wyoming beat UTEP 27-15 on Saturday, Nov. 14, at the Sun Bowl in El Paso. The Cowboys are 7-3, 6-1 in the Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "Landon Sims threw for 289 yards in his first career start, and Samuel Harris scored twice. Running back Markell Holman threw a 3-yard touchdown to Landon Pace."
+        },
+        {
+          "type": "jab",
+          "text": "UTEP's punter handed us the ball at their 21. We said thanks in one play."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs New Mexico, Friday, Nov. 20, 9:00 PM ET, War Memorial Stadium, Laramie."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Wyoming 27, UTEP 15 (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864540"
+        },
+        {
+          "label": "ESPN game recap, Wyoming at UTEP (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864540"
+        },
+        {
+          "label": "ESPN play-by-play, Wyoming at UTEP (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864540"
+        },
+        {
+          "label": "ESPN Wyoming Cowboys 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2751"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-utah-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "utah-state",
+      "team_ids": [
+        "utah-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860915",
+      "title": "Utah State vs San Diego State: A Kicker's Throw Sinks the Aggies, 30-13",
+      "byline": "Hyrum Tolleson, The Utah State Fanatic",
+      "matchup": "Final: San Diego State Aztecs (5-5) 30, Utah State Aggies (4-6) 13, Sat., Nov. 14, Snapdragon Stadium, San Diego. Next: at Oregon State, Sat., Nov. 21, 10:30 PM ET, Reser Stadium, Corvallis",
+      "date": "2026-11-14",
+      "word_count": 324,
+      "text": "Aggie fans, I've got a sore throat and a heavy heart. San Diego State 30, Utah State 13 on Saturday night at Snapdragon Stadium. We're 4-6, and we are still looking for our first road win of the year.\n\nThe opening was weird but wonderful. McCae Hillstead carried it into the end zone from 2 yards and lost the ball as he got there, and Nehemiah Washington pounced on it for the touchdown. Washington gets the stat, Hillstead gets the effort, and we led 7-0 midway through the first. Kian Afrookhteh added the kick.\n\nThat was our last lead. The Aztecs kicked a field goal, scored late in the half to go up 10-7, and then pulled a fake field goal in the third quarter, with their kicker throwing a 20-yard touchdown to a linebacker. I've seen a lot of football in Logan. I'm still in shock. Down 17-7, and the offense never found its feet again.\n\nHillstead finished 17 of 34 for 139 yards. We ran for 61 yards on 29 carries. We were 3 of 14 on third down, and twice in the fourth quarter we went for it on fourth down and got sacked. That's a hard way to live.\n\nI'll give our guys this: nobody quit. D'Angelo Mayes intercepted a throw early in the third quarter and returned it 29 yards, and he made nine tackles. Bobby Arnold had 10 tackles, and Brevin Hamblin had nine. Hillstead hit Anthony Garcia for a 5-yard touchdown with 1:10 left, and we didn't give the ball away once all night. Landon Rehkow punted eight times and kept us in the fight.\n\nGarcia caught three balls for 36 yards. Noah White ran for 36 more and caught four. There are pieces here, and there's still football left.\n\nNext up: the Aggies travel to Corvallis to face Oregon State at Reser Stadium, Saturday, Nov. 21, 10:30 PM ET. Let's go get that road win, Aggies.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Aggie fans, I've got a sore throat and a heavy heart. San Diego State 30, Utah State 13 on Saturday night at Snapdragon Stadium. We're 4-6, and we are still looking for our first road win of the year."
+        },
+        {
+          "type": "paragraph",
+          "text": "The opening was weird but wonderful. McCae Hillstead carried it into the end zone from 2 yards and lost the ball as he got there, and Nehemiah Washington pounced on it for the touchdown. Washington gets the stat, Hillstead gets the effort, and we led 7-0 midway through the first. Kian Afrookhteh added the kick."
+        },
+        {
+          "type": "paragraph",
+          "text": "That was our last lead. The Aztecs kicked a field goal, scored late in the half to go up 10-7, and then pulled a fake field goal in the third quarter, with their kicker throwing a 20-yard touchdown to a linebacker. I've seen a lot of football in Logan. I'm still in shock. Down 17-7, and the offense never found its feet again."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hillstead finished 17 of 34 for 139 yards. We ran for 61 yards on 29 carries. We were 3 of 14 on third down, and twice in the fourth quarter we went for it on fourth down and got sacked. That's a hard way to live."
+        },
+        {
+          "type": "paragraph",
+          "text": "I'll give our guys this: nobody quit. D'Angelo Mayes intercepted a throw early in the third quarter and returned it 29 yards, and he made nine tackles. Bobby Arnold had 10 tackles, and Brevin Hamblin had nine. Hillstead hit Anthony Garcia for a 5-yard touchdown with 1:10 left, and we didn't give the ball away once all night. Landon Rehkow punted eight times and kept us in the fight."
+        },
+        {
+          "type": "paragraph",
+          "text": "Garcia caught three balls for 36 yards. Noah White ran for 36 more and caught four. There are pieces here, and there's still football left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: the Aggies travel to Corvallis to face Oregon State at Reser Stadium, Saturday, Nov. 21, 10:30 PM ET. Let's go get that road win, Aggies."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Utah State lost 30-13 to San Diego State on Saturday, Nov. 14, at Snapdragon Stadium. The Aggies are 4-6."
+        },
+        {
+          "type": "fact",
+          "text": "Nehemiah Washington recovered a fumble in the end zone for a first-quarter touchdown, and McCae Hillstead threw a 5-yard score to Anthony Garcia late."
+        },
+        {
+          "type": "jab",
+          "text": "It took a kicker throwing a touchdown to a linebacker to get past us. Nobody else in San Diego could do it."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Oregon State, Saturday, Nov. 21, 10:30 PM ET, Reser Stadium, Corvallis."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, San Diego State 30, Utah State 13 (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860915"
+        },
+        {
+          "label": "ESPN game recap, Utah State at San Diego State (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401860915"
+        },
+        {
+          "label": "ESPN play-by-play, Utah State at San Diego State (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860915"
+        },
+        {
+          "label": "ESPN Utah State Aggies 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/328"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-san-diego-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "san-diego-state",
+      "team_ids": [
+        "san-diego-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860915",
+      "title": "San Diego State vs Utah State: Cooper DiLeva Kicks Three and Throws One in a 30-13 Win",
+      "byline": "Kai Delgado-Sorensen, The San Diego State Fanatic",
+      "matchup": "Final: San Diego State Aztecs (5-5) 30, Utah State Aggies (4-6) 13, Sat., Nov. 14, Snapdragon Stadium, San Diego. Next: at Boise State, Sat., Nov. 21, 9:30 PM ET, Albertsons Stadium, Boise",
+      "date": "2026-11-14",
+      "word_count": 353,
+      "text": "Aztec fans, our kicker threw a touchdown. Let me say that again for the folks in the back at Snapdragon Stadium: our kicker threw a touchdown. San Diego State 30, Utah State 13 on Saturday night, and we're 5-5 with a 4-2 conference mark.\n\nIt did not begin pretty. Utah State scored first on a fumble that their own guy fell on in the end zone, and it was 7-0 midway through the first quarter. Cooper DiLeva got us on the board with a 31-yard field goal, and late in the half Lucky Sutton punched in a 4-yard run. 10-7 at the break.\n\nThen came the play I'll be telling my grandkids about. Midway through the third quarter, DiLeva set up for what looked like a 38-yard try. The holder flicked the ball behind his back to DiLeva, he rolled right, and he floated it to linebacker Kai Wallin, who was so wide open he could have stopped for a fish taco. Twenty yards, touchdown, 17-7. A linebacker scoring on a throw from a kicker. That's Aztec football, baby.\n\nDiLeva wasn't done. He hit from 42 yards before the third quarter ended and from 34 early in the fourth. Three field goals, one touchdown throw, three extra points. Twelve points from one guy. Somebody get that man a parking spot.\n\nThe ground game carried the rest. Javion Kinnard ran 19 times for 113 yards and added 47 yards on punt returns. Sutton had 96 yards on 21 carries and sealed it with a 2-yard score with 2:12 left. Nathan Acevedo caught eight balls for 92 yards. Stone Saunders threw one interception, but we outgained them 410 to 200.\n\nAnd the defense was nasty. Utah State managed 61 rushing yards. Sione Hala had a sack and two tackles for loss, and his sack ended a fourth-down try in our territory. Tano Letuli made eight tackles. Three of the last four are wins for us.\n\nBig one next. The Aztecs head to Boise to face Boise State at Albertsons Stadium, Saturday, Nov. 21, 9:30 PM ET. Let's go steal one on the blue turf, fellas.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Aztec fans, our kicker threw a touchdown. Let me say that again for the folks in the back at Snapdragon Stadium: our kicker threw a touchdown. San Diego State 30, Utah State 13 on Saturday night, and we're 5-5 with a 4-2 conference mark."
+        },
+        {
+          "type": "paragraph",
+          "text": "It did not begin pretty. Utah State scored first on a fumble that their own guy fell on in the end zone, and it was 7-0 midway through the first quarter. Cooper DiLeva got us on the board with a 31-yard field goal, and late in the half Lucky Sutton punched in a 4-yard run. 10-7 at the break."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the play I'll be telling my grandkids about. Midway through the third quarter, DiLeva set up for what looked like a 38-yard try. The holder flicked the ball behind his back to DiLeva, he rolled right, and he floated it to linebacker Kai Wallin, who was so wide open he could have stopped for a fish taco. Twenty yards, touchdown, 17-7. A linebacker scoring on a throw from a kicker. That's Aztec football, baby."
+        },
+        {
+          "type": "paragraph",
+          "text": "DiLeva wasn't done. He hit from 42 yards before the third quarter ended and from 34 early in the fourth. Three field goals, one touchdown throw, three extra points. Twelve points from one guy. Somebody get that man a parking spot."
+        },
+        {
+          "type": "paragraph",
+          "text": "The ground game carried the rest. Javion Kinnard ran 19 times for 113 yards and added 47 yards on punt returns. Sutton had 96 yards on 21 carries and sealed it with a 2-yard score with 2:12 left. Nathan Acevedo caught eight balls for 92 yards. Stone Saunders threw one interception, but we outgained them 410 to 200."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the defense was nasty. Utah State managed 61 rushing yards. Sione Hala had a sack and two tackles for loss, and his sack ended a fourth-down try in our territory. Tano Letuli made eight tackles. Three of the last four are wins for us."
+        },
+        {
+          "type": "paragraph",
+          "text": "Big one next. The Aztecs head to Boise to face Boise State at Albertsons Stadium, Saturday, Nov. 21, 9:30 PM ET. Let's go steal one on the blue turf, fellas."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "San Diego State beat Utah State 30-13 on Saturday, Nov. 14, at Snapdragon Stadium. The Aztecs are 5-5, 4-2 in conference."
+        },
+        {
+          "type": "fact",
+          "text": "Kicker Cooper DiLeva made three field goals and threw a 20-yard touchdown to linebacker Kai Wallin on a fake."
+        },
+        {
+          "type": "jab",
+          "text": "Utah State's only first-half points came from a fumble. Ours came from the guys who actually meant to score."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Boise State, Saturday, Nov. 21, 9:30 PM ET, Albertsons Stadium, Boise."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, San Diego State 30, Utah State 13 (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860915"
+        },
+        {
+          "label": "ESPN game recap, Utah State at San Diego State (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401860915"
+        },
+        {
+          "label": "ESPN play-by-play, Utah State at San Diego State (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860915"
+        },
+        {
+          "label": "ESPN San Diego State Aztecs 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/21"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-oklahoma-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "oklahoma-state",
+      "team_ids": [
+        "oklahoma-state"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856863",
+      "title": "Oklahoma State vs Texas Tech: A 17-Point Comeback Fades in the Stillwater Rain, 52-27",
+      "byline": "Dusty Lockridge, The Oklahoma State Fanatic",
+      "matchup": "Final: Texas Tech Red Raiders (9-1) 52, Oklahoma State Cowboys (6-4) 27, Sat., Nov. 14, Boone Pickens Stadium, Stillwater. Next: at Arizona State, Sat., Nov. 21, 10:15 PM ET, Mountain America Stadium, Tempe",
+      "date": "2026-11-14",
+      "word_count": 352,
+      "text": "Cowboy fans, I stayed until the very end, soaked through and stubborn. Texas Tech 52, Oklahoma State 27, at Boone Pickens Stadium on a cold, rainy Saturday night that turned into Sunday. We're 6-4, and this one hurt from the opening kick.\n\nLiterally from the opening kick. Their return man went 97 yards for a touchdown 14 seconds in, and by the end of the first quarter it was 21-0. Drew Mestemaker got intercepted at our 29 in that stretch, too. I've seen better openings at a church potluck.\n\nBut this team doesn't quit, and I love them for it. Sam Keltner opened our scoring with a 40-yard field goal. Isaiah Chisom forced a fumble, Jerry Lawson fell on it at their 13, and Mestemaker ran it in himself from 13 yards on the next snap. Then he found Morgan McPhaul for an 18-yard touchdown with 3:55 left in the half, and it was 21-17. Boone Pickens was rocking. We had 17 straight points.\n\nIt lasted 17 seconds. Their quarterback scrambled and found a receiver for 80 yards. Keltner hit a 24-yard field goal before the break to make it 28-20, but the third quarter was where it got away. We went for it on fourth down twice and came up empty both times, and they scored early to go up 35-20.\n\nMestemaker threw for 277 yards before he came out late. He's still the guy who'd thrown for 300 yards in eight straight games, and he'll be fine. Caleb Hawkins ran for 91 yards and caught eight balls. Terrence Lewis and Justin Bowick each had 78 receiving yards. Evan Jackson made 10 solo tackles. Freshman Broderick Vehrs came in and led a drive that William Mason finished with a 10-yard run in the last minute.\n\nSix and four is not where we wanted to be in mid-November. But we beat Kansas State 66-28 a week ago, and this group can still finish strong. Hold your heads high, boys.\n\nNext up: the Cowboys fly to Tempe to face Arizona State at Mountain America Stadium, Saturday, Nov. 21, 10:15 PM ET. Go Pokes!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Cowboy fans, I stayed until the very end, soaked through and stubborn. Texas Tech 52, Oklahoma State 27, at Boone Pickens Stadium on a cold, rainy Saturday night that turned into Sunday. We're 6-4, and this one hurt from the opening kick."
+        },
+        {
+          "type": "paragraph",
+          "text": "Literally from the opening kick. Their return man went 97 yards for a touchdown 14 seconds in, and by the end of the first quarter it was 21-0. Drew Mestemaker got intercepted at our 29 in that stretch, too. I've seen better openings at a church potluck."
+        },
+        {
+          "type": "paragraph",
+          "text": "But this team doesn't quit, and I love them for it. Sam Keltner opened our scoring with a 40-yard field goal. Isaiah Chisom forced a fumble, Jerry Lawson fell on it at their 13, and Mestemaker ran it in himself from 13 yards on the next snap. Then he found Morgan McPhaul for an 18-yard touchdown with 3:55 left in the half, and it was 21-17. Boone Pickens was rocking. We had 17 straight points."
+        },
+        {
+          "type": "paragraph",
+          "text": "It lasted 17 seconds. Their quarterback scrambled and found a receiver for 80 yards. Keltner hit a 24-yard field goal before the break to make it 28-20, but the third quarter was where it got away. We went for it on fourth down twice and came up empty both times, and they scored early to go up 35-20."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mestemaker threw for 277 yards before he came out late. He's still the guy who'd thrown for 300 yards in eight straight games, and he'll be fine. Caleb Hawkins ran for 91 yards and caught eight balls. Terrence Lewis and Justin Bowick each had 78 receiving yards. Evan Jackson made 10 solo tackles. Freshman Broderick Vehrs came in and led a drive that William Mason finished with a 10-yard run in the last minute."
+        },
+        {
+          "type": "paragraph",
+          "text": "Six and four is not where we wanted to be in mid-November. But we beat Kansas State 66-28 a week ago, and this group can still finish strong. Hold your heads high, boys."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: the Cowboys fly to Tempe to face Arizona State at Mountain America Stadium, Saturday, Nov. 21, 10:15 PM ET. Go Pokes!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Oklahoma State lost 52-27 to Texas Tech on Saturday, Nov. 14, at Boone Pickens Stadium. The Cowboys are 6-4."
+        },
+        {
+          "type": "fact",
+          "text": "The Cowboys rallied from 21-0 down to 21-17 behind Drew Mestemaker, who threw for 277 yards and ran for a touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "Their kickoff return took 14 seconds. Our comeback took a whole quarter. Life isn't fair."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Arizona State, Saturday, Nov. 21, 10:15 PM ET, Mountain America Stadium, Tempe."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Texas Tech 52, Oklahoma State 27 (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856863"
+        },
+        {
+          "label": "ESPN game recap, Texas Tech at Oklahoma State (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856863"
+        },
+        {
+          "label": "ESPN play-by-play, Texas Tech at Oklahoma State (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856863"
+        },
+        {
+          "label": "ESPN Oklahoma State Cowboys 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/197"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-texas-tech",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "texas-tech",
+      "team_ids": [
+        "texas-tech"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856863",
+      "title": "Texas Tech vs Oklahoma State: Simmons Takes the Opening Kick 97 Yards in a 52-27 Rout",
+      "byline": "Bodie Ratliff, The Texas Tech Fanatic",
+      "matchup": "Final: Texas Tech Red Raiders (9-1) 52, Oklahoma State Cowboys (6-4) 27, Sat., Nov. 14, Boone Pickens Stadium, Stillwater. Next: at Baylor, Sat., Nov. 21, 3:30 PM ET, McLane Stadium, Waco",
+      "date": "2026-11-14",
+      "word_count": 335,
+      "text": "Raider Power, everybody. Texas Tech 52, Oklahoma State 27, late Saturday night into Sunday morning at Boone Pickens Stadium in Stillwater, and we are 9-1. Cold, rainy, and almost midnight back home in Lubbock, and I would not trade one minute of it.\n\nIt took 14 seconds. Malcolm Simmons fielded the opening kickoff and went 97 yards untouched to the end zone, and you could hear 52,168 people go silent. Then J'Koby Williams ripped off a 34-yard touchdown run less than three minutes later. Thomas Castellanos hit Terrance Carter Jr. from 8 yards before the first quarter ended, and it was 21-0. Guns up, Stillwater.\n\nI'll be honest, the Cowboys made me sweat in the second quarter. Castellanos fumbled at our 14, they ran off 17 straight points, and it was 21-17. But Castellanos answered 17 seconds later by escaping the rush and finding Micah Hudson for an 80-yard touchdown. That throw was the night. We went into the half up 28-20.\n\nThe second half belonged to us. Castellanos hit Simmons for a 45-yard score early in the third quarter, then found Kenny Johnson from 30 yards on the first play of the fourth. He finished 12 of 23 for 263 yards and four touchdowns and then got to sit for most of the last quarter. Simmons had a 97-yard return and a 45-yard catch. Williams ran 19 times for 124 yards. Stone Harrington drilled a 54-yard field goal, and Cameron Dickey punched in a 2-yard run to make it 52-20.\n\nAnd the defense? It intercepted Drew Mestemaker twice, John Curry in the first quarter and Ben Roberts in the fourth. Roberts also made 13 tackles. The Cowboys went for it on fourth down four times and came away with one first down. Austin Romaine had eight stops.\n\nNine and one. That's how the reigning Big 12 champs carry themselves in November.\n\nNext up: the Red Raiders head to Waco to face Baylor at McLane Stadium, Saturday, Nov. 21, 3:30 PM ET. Wreck 'Em, Tech!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Raider Power, everybody. Texas Tech 52, Oklahoma State 27, late Saturday night into Sunday morning at Boone Pickens Stadium in Stillwater, and we are 9-1. Cold, rainy, and almost midnight back home in Lubbock, and I would not trade one minute of it."
+        },
+        {
+          "type": "paragraph",
+          "text": "It took 14 seconds. Malcolm Simmons fielded the opening kickoff and went 97 yards untouched to the end zone, and you could hear 52,168 people go silent. Then J'Koby Williams ripped off a 34-yard touchdown run less than three minutes later. Thomas Castellanos hit Terrance Carter Jr. from 8 yards before the first quarter ended, and it was 21-0. Guns up, Stillwater."
+        },
+        {
+          "type": "paragraph",
+          "text": "I'll be honest, the Cowboys made me sweat in the second quarter. Castellanos fumbled at our 14, they ran off 17 straight points, and it was 21-17. But Castellanos answered 17 seconds later by escaping the rush and finding Micah Hudson for an 80-yard touchdown. That throw was the night. We went into the half up 28-20."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half belonged to us. Castellanos hit Simmons for a 45-yard score early in the third quarter, then found Kenny Johnson from 30 yards on the first play of the fourth. He finished 12 of 23 for 263 yards and four touchdowns and then got to sit for most of the last quarter. Simmons had a 97-yard return and a 45-yard catch. Williams ran 19 times for 124 yards. Stone Harrington drilled a 54-yard field goal, and Cameron Dickey punched in a 2-yard run to make it 52-20."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the defense? It intercepted Drew Mestemaker twice, John Curry in the first quarter and Ben Roberts in the fourth. Roberts also made 13 tackles. The Cowboys went for it on fourth down four times and came away with one first down. Austin Romaine had eight stops."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nine and one. That's how the reigning Big 12 champs carry themselves in November."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: the Red Raiders head to Waco to face Baylor at McLane Stadium, Saturday, Nov. 21, 3:30 PM ET. Wreck 'Em, Tech!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Texas Tech beat Oklahoma State 52-27 on Saturday, Nov. 14, at Boone Pickens Stadium in Stillwater. The Red Raiders are 9-1."
+        },
+        {
+          "type": "fact",
+          "text": "Malcolm Simmons returned the opening kickoff 97 yards, and Thomas Castellanos threw four touchdowns, including an 80-yarder to Micah Hudson."
+        },
+        {
+          "type": "jab",
+          "text": "Stillwater was still finding its seats when we went up 7-0."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Baylor, Saturday, Nov. 21, 3:30 PM ET, McLane Stadium, Waco."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Texas Tech 52, Oklahoma State 27 (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856863"
+        },
+        {
+          "label": "ESPN game recap, Texas Tech at Oklahoma State (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856863"
+        },
+        {
+          "label": "ESPN play-by-play, Texas Tech at Oklahoma State (Nov. 14, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856863"
+        },
+        {
+          "label": "ESPN Texas Tech Red Raiders 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2641"
         }
       ],
       "sources_display": "button",
