@@ -2,14 +2,14 @@
  "status": "published",
  "edition": "monday",
  "title": "Monday Morning Quarterback (on Sunday)",
- "date_line": "Sunday, Nov. 15, 2026. College Saturday review: the Nov. 14 slate, graded, plus Illinois at UCLA and Houston at Colorado from Friday night (Nov. 13). Three late games are still being played and get graded in the next update. Then what's next.",
+ "date_line": "Sunday, Nov. 15, 2026. College Saturday review: the Nov. 14 slate, graded, plus Illinois at UCLA and Houston at Colorado from Friday night (Nov. 13). Then what's next.",
  "misses": {
   "heading": "Part 1: Handicap Recap",
   "items": [
    {
     "paragraphs": [
-     "Saturday put 55 college games on the card, and it was a night for the 1.5-point heartbreak. Four different Overs missed by exactly 1.5: Temple's offense turned it over on downs at the UAB 17 instead of kicking a field goal, Oregon kicked a field goal from the Michigan 3 instead of scoring a touchdown, Auburn and Mississippi State sat at 50 points for the last 13:54, and a pick-six in overtime at Missouri State ended the game at 48. Louisville −3.5 took two knees at the North Carolina 12 and won by two. Miami −14 died on a backdoor touchdown with 21 seconds left, and NC State +3 turned into a push with 48 seconds left. After midnight, the Over 43.5 at San Diego State missed by half a point.",
-     "On the other side of the window, Texas +4.5 cashed on a touchdown with 3 seconds left, Northwestern +14 and the Over 45.5 cashed on the same touchdown with no time on the clock, and Alabama −14 survived a missed Vanderbilt field goal and a fourth-down stop to cash by one point.",
+     "Saturday put 55 college games on the card, and it was a night for the 1.5-point heartbreak. Four different Overs missed by exactly 1.5: Temple's offense turned it over on downs at the UAB 17 instead of kicking a field goal, Oregon kicked a field goal from the Michigan 3 instead of scoring a touchdown, Auburn and Mississippi State sat at 50 points for the last 13:54, and a pick-six in overtime at Missouri State ended the game at 48. Louisville −3.5 took two knees at the North Carolina 12 and won by two. Miami −14 died on a backdoor touchdown with 21 seconds left, and NC State +3 turned into a push with 48 seconds left. After midnight, the Over 43.5 at San Diego State missed by half a point, and Utah −1.5 took two knees at the Arizona 12 with a one-point lead and missed by half a point too.",
+     "On the other side of the window, Texas +4.5 cashed on a touchdown with 3 seconds left, Northwestern +14 and the Over 45.5 cashed on the same touchdown with no time on the clock, Alabama −14 survived a missed Vanderbilt field goal and a fourth-down stop to cash by one point, and North Dakota State −7 cashed by one point on a pick-six in Honolulu.",
      "Every game below is graded against the line printed on the card at kickoff, using ESPN finals and play-by-play, and a push counts as neither a hit nor a miss. Saturday's Lock It Up line moves count at their final lines. The heartbreakers go first, then the escapes, then Friday's two late finishes, Illinois at UCLA and Houston at Colorado, then the rest of the card.",
      "Follow The Money had a side in 21 Saturday games and a total in 33, and In The Trenches had a side in 28 and no totals. Games without a pick aren't graded for them."
     ],
@@ -32,8 +32,10 @@
     "conferences": [
      "SEC",
      "Big Ten",
+     "Big 12",
      "ACC",
      "American",
+     "Mountain West",
      "Sun Belt",
      "Conference USA",
      "Pac-12"
@@ -774,8 +776,10 @@
     "conferences": [
      "SEC",
      "Big Ten",
+     "Big 12",
      "ACC",
      "American",
+     "Mountain West",
      "Sun Belt",
      "Conference USA",
      "Pac-12"
@@ -793,6 +797,36 @@
     ],
     "conferences": [
      "Pac-12"
+    ]
+   },
+   {
+    "matchup": "Utah 40, Arizona 39",
+    "paragraphs": [
+     "Card line: Utah −1.5, total 55.5. The Cover Writer's card had Utah −1.5 and the Under, projecting Utah 28, Arizona 25. Final: Utah 40, Arizona 39. Utah won by 1, and the teams scored 79 points.",
+     "Utah −1.5 missed by half a point, and it had a field goal sitting right there. The Under 55.5 went first. Fifita found Richardson for a 19-yard touchdown at 3:22 of the third, 28-24 Arizona, and that put 52 points on the board. Curtis hit from 39 yards at 14:10 of the fourth, and the Under 55.5 sat at 55, half a point from death, for 2:24 of game clock. Then Bray ran 8 yards for a touchdown at 11:46, and the two-point try failed. Utah led 33-28, the Under was gone at 61, and that failed try is the one Utah −1.5 holders will be talking about all week.",
+     "Arizona came back. A muffed punt gave Arizona the ball at the Utah 17, and Salgado-Medina's 47-yard field goal made it 33-31 at 8:09. Fifita hit Mizell for 59 yards, then found him from 10 yards for the touchdown at 3:13 and ran in the two-point try himself. Arizona led 39-33, and Utah −1.5 needed a touchdown just to stay alive.",
+     "It got one. On the second snap of the next drive, Dampier hit Whittemore deep for a 70-yard touchdown at 2:35, and Curtis's kick made it 40-39 Utah. Utah −1.5 needed one more point. Arizona's fourth-down throw fell incomplete at 1:56, Dampier ran 12 yards to the Arizona 12, and Utah knelt twice. Utah won 40-39, so Utah −1.5 missed by half a point, and the Under 55.5 went over by 23.5 at 79. On the scoreboard as it played out, an extra point at 11:46 instead of the two-point try is a 41-39 final and a cover.",
+     "Called it: Follow The Money on Arizona +1.5, covered by 0.5 points. Follow The Money on the Over 55.5, cleared it by 23.5 points.",
+     "Missed: The Cover Writer, The Formula, Next Man Up, Letdown Watch and In The Trenches on Utah −1.5, missed by 0.5 points. The Cover Writer, The Formula, Next Man Up and Letdown Watch on the Under 55.5, went over by 23.5 points.",
+     "No pick: In The Trenches on the total."
+    ],
+    "conferences": [
+     "Big 12"
+    ]
+   },
+   {
+    "matchup": "North Dakota State 21, Hawai'i 13",
+    "paragraphs": [
+     "Card line: North Dakota State −7, total 39.5. The Cover Writer's card had North Dakota State −7 and the Over, projecting North Dakota State 26, Hawai'i 18. Final: North Dakota State 21, Hawai'i 13. North Dakota State won by 8, and the teams scored 34 points.",
+     "North Dakota State −7 trailed into the fourth quarter, and Hawai'i +7 holders had this one until a single snap took it away. Rice's 15-yard run with 4 seconds left in the half tied it 7-7, and Olvera-Harle kicked field goals of 28 and 33 yards. Hawai'i led 13-7 after three, and the Over 39.5 had 20 points on the board.",
+     "Scott's 1-yard run at 8:34 of the fourth made it 14-13 North Dakota State. North Dakota State −7 still needed another touchdown, and the Over 39.5 sat at 27 and needed 13 more. On the fifth play of Hawai'i's next drive, Ray James Jr. returned an interception 49 yards for a touchdown, and it was 21-13 at 6:27. North Dakota State −7 was covering by one.",
+     "Hawai'i +7 needed any score at all, even a field goal. Hawai'i drove to the North Dakota State 24, and a fourth-down throw fell incomplete at 4:05. Its last drive ended on downs at its own 29 with 42 seconds left. North Dakota State won 21-13, so North Dakota State −7 cashed by one point, Hawai'i +7 missed by one, and the Over 39.5 fell 5.5 short at 34.",
+     "Called it: The Cover Writer and Next Man Up on North Dakota State −7, covered by 1 point. Next Man Up on the Under 39.5, stayed under by 5.5 points.",
+     "Missed: The Formula, Letdown Watch and In The Trenches on Hawai'i +7, missed by 1 point. The Cover Writer, The Formula, Letdown Watch and Follow The Money on the Over 39.5, fell 5.5 points short.",
+     "No pick: Follow The Money on the side; In The Trenches on the total."
+    ],
+    "conferences": [
+     "Mountain West"
     ]
    },
    {
@@ -821,6 +855,20 @@
     "conferences": [
      "Mountain West"
     ]
+   },
+   {
+    "matchup": "Colorado State 7, Washington State 73",
+    "paragraphs": [
+     "Card line: Washington State −8.5, total 64.5. The Cover Writer's card had Colorado State +8.5 and the Under, projecting Washington State 35, Colorado State 27. Final: Colorado State 7, Washington State 73. Washington State won by 66, and the teams scored 80 points.",
+     "Colorado State +8.5 was finished before halftime. Vorhees ran 98 yards for a touchdown at 0:55 of the first quarter, Washington State led 35-0 before Vick's 1-yard run with 38 seconds left in the half, and Stevens's 33-yard field goal at the gun made it 38-7.",
+     "The Under 64.5 was the ticket that hung around, for a while. Eshelman's 1-yard run at 7:14 of the third made it 52-7, 59 points, and Vorhees scored from 10 yards at 3:48 to push it to 66. Washington State kept going: Woods scored at 12:13 of the fourth, and Dugger ran 60 yards for a touchdown at 9:10. Washington State won 73-7, so Colorado State +8.5 missed by 57.5, and the Under 64.5 went over by 15.5 at 80.",
+     "Called it: Next Man Up and Letdown Watch on Washington State −8.5, covered by 57.5 points. Next Man Up on the Over 64.5, cleared it by 15.5 points.",
+     "Missed: The Cover Writer, The Formula, Follow The Money and In The Trenches on Colorado State +8.5, missed by 57.5 points. The Cover Writer, The Formula and Letdown Watch on the Under 64.5, went over by 15.5 points. Follow The Money on the Under 65.5, went over by 14.5 points.",
+     "No pick: In The Trenches on the total."
+    ],
+    "conferences": [
+     "Pac-12"
+    ]
    }
   ]
  },
@@ -829,12 +877,12 @@
   "items": [
    {
     "paragraphs": [
-     "The Cover Writer went 31-20-1 against the spread and 22-30 on totals Saturday, and that runs the week to 38-24-1 against the spread and 27-36 on totals. Texas +4.5 on the last snap, Northwestern +14 and the Over 45.5 on a touchdown with no time on the clock, and Alabama −14 by a single point. That's a side card that can walk into any room. The totals card is another story: four Overs missed by exactly 1.5, and the Over 43.5 at San Diego State missed by half a point. Friday's two late games went Illinois +10 and Colorado +10, both cashed, while the Over at UCLA and the Under at Colorado both lost.",
-     "The Formula went 28-23-1 against the spread and 22-30 on totals Saturday, 34-28-1 and 27-36 for the week. It rode the same four 1.5-point Over misses, plus the Over 43.5 at San Diego State by half a point, and only Alabama −14 by one point and the Over 45.5 at Ohio State on the final play kept the night from getting uglier. Above water on sides, under water on totals, and nobody needs to hear about it.",
-     "Next Man Up went 31-20-1 against the spread and 29-23 on totals Saturday, 34-28-1 and 33-30 for the week. The worst side mark in the room on Friday is back over .500. Next Man Up took the Over 54.5 at Western Kentucky and cashed on a fumble return as time ran out, took San Diego State +3 and the Under 43.5, and cashed both, and it'll tell you that was the plan all along.",
-     "Letdown Watch went 34-17-1 against the spread and 23-29 on totals Saturday, 38-24-1 and 31-32 for the week. Best side day in the room, and it's tied with the Cover Writer for the week's side mark. The totals mark that everybody was chasing on Friday? It got caught.",
-     "Follow The Money went 8-13 against the spread and 20-17 on totals Saturday, 10-14 and 23-18 for the week. It had Ohio State −14 and the Under 44.5 and lost both on one touchdown with no time on the clock. Then it had Vanderbilt +14 and lost by one point. The late Overs at Texas Tech and Wyoming cashed, and the Over 44.5 at San Diego State did not. The money moved; the money got burned, then got some back.",
-     "In The Trenches went 14-15-1 against the spread and made no total picks Saturday, 17-19-1 for the week, still with no totals. Louisville −3.5 lost on two kneel-downs at the North Carolina 12, and Marshall +1.5 lost on a fourth-down incompletion. San Diego State +3 and UTSA +2.5 cashed late. Close calls count the same as blowouts in the record, and the trenches know it."
+     "The Cover Writer went 32-22-1 against the spread and 22-33 on totals Saturday, and that runs the week to 39-26-1 against the spread and 27-39 on totals. Texas +4.5 on the last snap, Northwestern +14 and the Over 45.5 on a touchdown with no time on the clock, and Alabama −14 by a single point. That's a side card that can walk into any room. The totals card is another story: four Overs missed by exactly 1.5, the Over 43.5 at San Diego State missed by half a point, and all three totals after midnight missed too. Utah −1.5 knelt at the Arizona 12 and lost by half a point, and North Dakota State −7 got home on a pick-six. Friday's two late games went Illinois +10 and Colorado +10, both cashed, while the Over at UCLA and the Under at Colorado both lost.",
+     "The Formula went 28-26-1 against the spread and 22-33 on totals Saturday, 34-31-1 and 27-39 for the week. It rode the same four 1.5-point Over misses, plus the Over 43.5 at San Diego State by half a point, and only Alabama −14 by one point and the Over 45.5 at Ohio State on the final play kept the night from getting uglier. Then the three games after midnight didn't cash a single ticket: Utah −1.5, Hawai'i +7 and Colorado State +8.5 all missed, and so did all three totals. Still above water on sides, barely, under water on totals, and nobody needs to hear about it.",
+     "Next Man Up went 33-21-1 against the spread and 31-24 on totals Saturday, 36-29-1 and 35-31 for the week. The worst side mark in the room on Friday is well over .500 now, and over .500 on totals too. Next Man Up took the Over 54.5 at Western Kentucky and cashed on a fumble return as time ran out, took San Diego State +3 and the Under 43.5, and cashed both. After midnight it added Washington State −8.5 and the Over 64.5, plus North Dakota State −7 and the Under 39.5, and it'll tell you that was the plan all along.",
+     "Letdown Watch went 35-19-1 against the spread and 23-32 on totals Saturday, 39-26-1 and 31-35 for the week. Best side day in the room, and it's tied with the Cover Writer for the week's side mark. The totals mark that everybody was chasing on Friday? It got caught.",
+     "Follow The Money went 9-14 against the spread and 21-19 on totals Saturday, 11-15 and 24-20 for the week. It had Ohio State −14 and the Under 44.5 and lost both on one touchdown with no time on the clock. Then it had Vanderbilt +14 and lost by one point. The late Overs at Texas Tech and Wyoming cashed, and the Over 44.5 at San Diego State did not. Arizona +1.5 and the Over 55.5 cashed on Utah's kneel-downs, and the Under 65.5 at Washington State and the Over 39.5 at Hawai'i did not. The money moved; the money got burned, then got some back.",
+     "In The Trenches went 14-18-1 against the spread and made no total picks Saturday, 17-22-1 for the week, still with no totals. Louisville −3.5 lost on two kneel-downs at the North Carolina 12, and Marshall +1.5 lost on a fourth-down incompletion. San Diego State +3 and UTSA +2.5 cashed late, then Utah −1.5, Hawai'i +7 and Colorado State +8.5 all missed after midnight. Close calls count the same as blowouts in the record, and the trenches know it."
     ],
     "conferences": [
      "SEC",
@@ -858,8 +906,7 @@
   "games": [
    {
     "paragraphs": [
-     "Three late games are still being played as this goes up: Utah at Arizona, Colorado State at Washington State and North Dakota State at Hawai'i. They get graded in the next update, and the records above don't include them yet.",
-     "Ole Miss at Oklahoma was moved to Sunday, Nov. 15, at 1:00 p.m. ET, and its card is on the game page at thecoverwindow.com. It gets graded once it's final.",
+     "Ole Miss at Oklahoma was moved to Sunday, Nov. 15, and it is graded in its own Monday Morning Quarterback on the college page at thecoverwindow.com.",
      "Next week's college cards go up on the game pages at thecoverwindow.com once lines are set."
     ],
     "conferences": [
