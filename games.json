@@ -862,10 +862,10 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 16, 10:45 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Western Michigan Broncos −14.5 (Nov 17, 12:13 AM ET) and is −14.5 now. Follow The Money has no side pick. Consensus total opened 46.5 (Nov 16, 11:40 PM ET) and is 46.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 17, 6:03 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 16, 11:23 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -873,22 +873,22 @@
      {
       "name": "In The Trenches",
       "side_line": "Side: Western Michigan Broncos −14.5 · Likes this side",
-      "ou_line": "O/U: this card reads sides only",
+      "ou_line": "O/U: no pick",
       "score_line": "Projected: Western Michigan Broncos 31, Eastern Michigan Eagles 19 (Total 50)",
-      "basis_line": "This read points to a side only. Eastern Michigan Eagles 3.5 ypc vs Western Michigan Broncos allowing 3.8; Western Michigan Broncos 4.7 ypc vs Eastern Michigan Eagles allowing 4.3 (2026 season). Western Michigan Broncos run game 0.5 ypc above what the opponent allows, which favours Western Michigan Broncos. Side: Western Michigan Broncos −14.5.",
+      "basis_line": "This read points to a side only. Eastern Michigan Eagles 3.5 ypc vs Western Michigan Broncos allowing 3.8; Western Michigan Broncos 4.7 ypc vs Eastern Michigan Eagles allowing 4.3 (2026 season). Western Michigan Broncos run game 0.5 ypc above what the opponent allows, which favors Western Michigan Broncos. Side: Western Michigan Broncos −14.5.",
       "independent": true,
       "distance_from_spread": 2.5,
       "distance_from_total": 3.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "Waldo Stadium turns Tuesday night into its annual Military Appreciation Game, and the Eastern Michigan vs Western Michigan spread asks a blunt question: can an Eagles offense that scored 7 points in its last outing stay within two touchdowns of the team sitting first in the MAC? Kickoff was moved up to 6:00 PM ET in Kalamazoo, and my pick is Western Michigan Broncos −14.5 with the Under 46.5.\n\nCorwin Dahlquist has the athletic department's notes folded in his coat pocket. Three United States military veterans work on the Western Michigan football staff, from the strength room to the analytics office. \"We stand for them first,\" Corwin says. \"Then we push you around for four quarters. Politely. This is Kalamazoo.\"\n\nImogen Tremblay has a calendar instead. \"Thirteen days off since Ford Field. You know what a little brother does with thirteen days? He gets mad.\"\n\nMad is not the same as productive. Eastern Michigan is 4-6, sixth in the MAC, scoring 19.9 points a game and allowing 26.6. Noah Kim took the most throws in every game through the Toledo loss on Oct. 17, and Western Michigan's own game notes say he hasn't played since. Brogan McCaughey has led the throwing in the two games after that: 197 yards in a 24-20 loss at Ohio, then 12 of 17 for 59 yards in the 35-7 loss to Central Michigan. I'm pricing McCaughey, and that price is steep against a defense allowing 18.7 a game.\n\nWestern Michigan is 7-3 and 5-1 in the conference. Jalen Buckley has 832 yards and 10 rushing touchdowns, and Broc Lowry has 12 touchdown throws against 3 interceptions. He went 15 for 15 at Akron in a 42-14 win. The Broncos have beaten Eastern three straight, 45-21, 26-18 and 31-21.\n\nThat run game is also the Under case. Six of Western Michigan's ten games finished under 46 combined points, because a team that keeps handing to Buckley keeps the clock moving. DraftKings opened Western Michigan Broncos −14.5 with a 47.5 total and has trimmed the total to 46.5 while the side holds.\n\nThe room is together on Western Michigan and split on the total. The Formula has it 31-16, takes Western Michigan Broncos −14.5 and goes Over 46.5. Next Man Up has 31-12 and likes both the Broncos and the Under 46.5. Letdown Watch sees 31-14 with Western Michigan and the Under. In The Trenches likes the Broncos at 31-19 and makes no over/under call. Follow The Money's side and total are both pending.\n\nNext Man Up: \"Sixteen points for Eastern? McCaughey threw for 59 yards in a dome. The Formula is grading on a curve.\"\n\nThe Formula: \"And you've got them at 12. One field goal apart, and you act like I left the porch light on for them.\"\n\nMy final is Western Michigan Broncos 31, Eastern Michigan Eagles 15. That margin clears the number by a point and a half, and 46 points stays half a point under. The night honors the veterans first. After that it belongs to whoever is carrying the ball for the Broncos.\n\nWestern Michigan Broncos 31, Eastern Michigan Eagles 15. Western Michigan Broncos cover the 14.5. Under 46.5.",
+    "story_text": "Waldo Stadium turns Tuesday night into its annual Military Appreciation Game, and the Eastern Michigan vs Western Michigan spread asks a blunt question: can an Eagles offense that scored 7 points in its last outing stay within two touchdowns of the team sitting first in the MAC? Kickoff was moved up to 6:00 PM ET in Kalamazoo, and my pick is Western Michigan Broncos −14.5 with the Under 46.5.\n\nCorwin Dahlquist has the athletic department's notes folded in his coat pocket. Three United States military veterans work on the Western Michigan football staff, from the strength room to the analytics office. \"We stand for them first,\" Corwin says. \"Then we push you around for four quarters. Politely. This is Kalamazoo.\"\n\nImogen Tremblay has a calendar instead. \"Thirteen days off since Ford Field. You know what a little brother does with thirteen days? He gets mad.\"\n\nMad is not the same as productive. Eastern Michigan is 4-6, sixth in the MAC, scoring 19.9 points a game and allowing 26.6. Noah Kim took the most throws in every game through the Toledo loss on Oct. 17, and Western Michigan's own game notes say he hasn't played since. Brogan McCaughey has led the throwing in the two games after that: 197 yards in a 24-20 loss at Ohio, then 12 of 17 for 59 yards in the 35-7 loss to Central Michigan. I'm pricing McCaughey, and that price is steep against a defense allowing 18.7 a game.\n\nWestern Michigan is 7-3 and 5-1 in the conference. Jalen Buckley has 832 yards and 10 rushing touchdowns, and Broc Lowry has 12 touchdown throws against 3 interceptions. He went 15 for 15 at Akron in a 42-14 win. The Broncos have beaten Eastern three straight, 45-21, 26-18 and 31-21.\n\nThat run game is also the Under case. Six of Western Michigan's ten games finished under 46 combined points, because a team that keeps handing to Buckley keeps the clock moving. DraftKings opened Western Michigan Broncos −14.5 with a 47.5 total and has trimmed the total to 46.5 while the side holds.\n\nThe room is together on Western Michigan and split on the total. The Formula has it 31-16, takes Western Michigan Broncos −14.5 and goes Over 46.5. Next Man Up has 31-12 and likes both the Broncos and the Under 46.5. Letdown Watch sees 31-14 with Western Michigan and the Under. In The Trenches likes the Broncos at 31-19 and makes no over/under call. Follow The Money has no side pick and no total pick.\n\nNext Man Up: \"Sixteen points for Eastern? McCaughey threw for 59 yards in a dome. The Formula is grading on a curve.\"\n\nThe Formula: \"And you've got them at 12. One field goal apart, and you act like I left the porch light on for them.\"\n\nMy final is Western Michigan Broncos 31, Eastern Michigan Eagles 15. That margin clears the number by a point and a half, and 46 points stays half a point under. The night honors the veterans first. After that it belongs to whoever is carrying the ball for the Broncos.\n\nWestern Michigan Broncos 31, Eastern Michigan Eagles 15. Western Michigan Broncos cover the 14.5. Under 46.5.",
     "fanatic_score_line": "Projected: Western Michigan Broncos 31, Eastern Michigan Eagles 15",
     "line_used": {
      "home_line": "Western Michigan Broncos −14.5",
      "total": "46.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-16T15:44Z"
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 17, 2026, 6:03 AM ET",
+     "fetched_at_utc": "2026-11-17T11:03Z"
     },
     "injuries": {
      "away": [],
@@ -910,43 +910,13 @@
      "score_line": "",
      "spread": "Western Michigan Broncos −14.5",
      "total": "46.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 17, 2026, 6:03 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "Eastern Michigan Eagles vs Western Michigan Broncos: Salute at Waldo",
     "gambler_headline": "Eastern Michigan vs Western Michigan Pick: Broncos −14.5, Under 46.5"
    },
-   "gambler_story": "Waldo Stadium turns Tuesday night into its annual Military Appreciation Game, and the Eastern Michigan vs Western Michigan spread asks a blunt question: can an Eagles offense that scored 7 points in its last outing stay within two touchdowns of the team sitting first in the MAC? Kickoff was moved up to 6:00 PM ET in Kalamazoo, and my pick is Western Michigan Broncos −14.5 with the Under 46.5.\n\nCorwin Dahlquist has the athletic department's notes folded in his coat pocket. Three United States military veterans work on the Western Michigan football staff, from the strength room to the analytics office. \"We stand for them first,\" Corwin says. \"Then we push you around for four quarters. Politely. This is Kalamazoo.\"\n\nImogen Tremblay has a calendar instead. \"Thirteen days off since Ford Field. You know what a little brother does with thirteen days? He gets mad.\"\n\nMad is not the same as productive. Eastern Michigan is 4-6, sixth in the MAC, scoring 19.9 points a game and allowing 26.6. Noah Kim took the most throws in every game through the Toledo loss on Oct. 17, and Western Michigan's own game notes say he hasn't played since. Brogan McCaughey has led the throwing in the two games after that: 197 yards in a 24-20 loss at Ohio, then 12 of 17 for 59 yards in the 35-7 loss to Central Michigan. I'm pricing McCaughey, and that price is steep against a defense allowing 18.7 a game.\n\nWestern Michigan is 7-3 and 5-1 in the conference. Jalen Buckley has 832 yards and 10 rushing touchdowns, and Broc Lowry has 12 touchdown throws against 3 interceptions. He went 15 for 15 at Akron in a 42-14 win. The Broncos have beaten Eastern three straight, 45-21, 26-18 and 31-21.\n\nThat run game is also the Under case. Six of Western Michigan's ten games finished under 46 combined points, because a team that keeps handing to Buckley keeps the clock moving. DraftKings opened Western Michigan Broncos −14.5 with a 47.5 total and has trimmed the total to 46.5 while the side holds.\n\nThe room is together on Western Michigan and split on the total. The Formula has it 31-16, takes Western Michigan Broncos −14.5 and goes Over 46.5. Next Man Up has 31-12 and likes both the Broncos and the Under 46.5. Letdown Watch sees 31-14 with Western Michigan and the Under. In The Trenches likes the Broncos at 31-19 and makes no over/under call. Follow The Money's side and total are both pending.\n\nNext Man Up: \"Sixteen points for Eastern? McCaughey threw for 59 yards in a dome. The Formula is grading on a curve.\"\n\nThe Formula: \"And you've got them at 12. One field goal apart, and you act like I left the porch light on for them.\"\n\nMy final is Western Michigan Broncos 31, Eastern Michigan Eagles 15. That margin clears the number by a point and a half, and 46 points stays half a point under. The night honors the veterans first. After that it belongs to whoever is carrying the ball for the Broncos.\n\nWestern Michigan Broncos 31, Eastern Michigan Eagles 15. Western Michigan Broncos cover the 14.5. Under 46.5.",
-   "key_players": [
-    {
-     "team": "Eastern Michigan Eagles",
-     "player": "Noah Kim",
-     "position": "QB",
-     "basis": "ESPN season leader, passing yards",
-     "source": "ESPN game summary, event 401866465"
-    },
-    {
-     "team": "Eastern Michigan Eagles",
-     "player": "Amareon Blue",
-     "position": "RB",
-     "basis": "ESPN season leader, rushing yards",
-     "source": "ESPN game summary, event 401866465"
-    },
-    {
-     "team": "Western Michigan Broncos",
-     "player": "Broc Lowry",
-     "position": "QB",
-     "basis": "ESPN season leader, passing yards",
-     "source": "ESPN game summary, event 401866465"
-    },
-    {
-     "team": "Western Michigan Broncos",
-     "player": "Jalen Buckley",
-     "position": "RB",
-     "basis": "ESPN season leader, rushing yards",
-     "source": "ESPN game summary, event 401866465"
-    }
-   ],
+   "gambler_story": "Waldo Stadium turns Tuesday night into its annual Military Appreciation Game, and the Eastern Michigan vs Western Michigan spread asks a blunt question: can an Eagles offense that scored 7 points in its last outing stay within two touchdowns of the team sitting first in the MAC? Kickoff was moved up to 6:00 PM ET in Kalamazoo, and my pick is Western Michigan Broncos −14.5 with the Under 46.5.\n\nCorwin Dahlquist has the athletic department's notes folded in his coat pocket. Three United States military veterans work on the Western Michigan football staff, from the strength room to the analytics office. \"We stand for them first,\" Corwin says. \"Then we push you around for four quarters. Politely. This is Kalamazoo.\"\n\nImogen Tremblay has a calendar instead. \"Thirteen days off since Ford Field. You know what a little brother does with thirteen days? He gets mad.\"\n\nMad is not the same as productive. Eastern Michigan is 4-6, sixth in the MAC, scoring 19.9 points a game and allowing 26.6. Noah Kim took the most throws in every game through the Toledo loss on Oct. 17, and Western Michigan's own game notes say he hasn't played since. Brogan McCaughey has led the throwing in the two games after that: 197 yards in a 24-20 loss at Ohio, then 12 of 17 for 59 yards in the 35-7 loss to Central Michigan. I'm pricing McCaughey, and that price is steep against a defense allowing 18.7 a game.\n\nWestern Michigan is 7-3 and 5-1 in the conference. Jalen Buckley has 832 yards and 10 rushing touchdowns, and Broc Lowry has 12 touchdown throws against 3 interceptions. He went 15 for 15 at Akron in a 42-14 win. The Broncos have beaten Eastern three straight, 45-21, 26-18 and 31-21.\n\nThat run game is also the Under case. Six of Western Michigan's ten games finished under 46 combined points, because a team that keeps handing to Buckley keeps the clock moving. DraftKings opened Western Michigan Broncos −14.5 with a 47.5 total and has trimmed the total to 46.5 while the side holds.\n\nThe room is together on Western Michigan and split on the total. The Formula has it 31-16, takes Western Michigan Broncos −14.5 and goes Over 46.5. Next Man Up has 31-12 and likes both the Broncos and the Under 46.5. Letdown Watch sees 31-14 with Western Michigan and the Under. In The Trenches likes the Broncos at 31-19 and makes no over/under call. Follow The Money has no side pick and no total pick.\n\nNext Man Up: \"Sixteen points for Eastern? McCaughey threw for 59 yards in a dome. The Formula is grading on a curve.\"\n\nThe Formula: \"And you've got them at 12. One field goal apart, and you act like I left the porch light on for them.\"\n\nMy final is Western Michigan Broncos 31, Eastern Michigan Eagles 15. That margin clears the number by a point and a half, and 46 points stays half a point under. The night honors the veterans first. After that it belongs to whoever is carrying the ball for the Broncos.\n\nWestern Michigan Broncos 31, Eastern Michigan Eagles 15. Western Michigan Broncos cover the 14.5. Under 46.5.",
    "videos": [
     {
      "youtube_id": "XKNOLWpM2Bc",
@@ -998,6 +968,36 @@
      "oembed": 200,
      "official": true,
      "gambling_language": false
+    }
+   ],
+   "key_players": [
+    {
+     "team": "Eastern Michigan Eagles",
+     "player": "Noah Kim",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401866465"
+    },
+    {
+     "team": "Eastern Michigan Eagles",
+     "player": "Amareon Blue",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401866465"
+    },
+    {
+     "team": "Western Michigan Broncos",
+     "player": "Broc Lowry",
+     "position": "QB",
+     "basis": "ESPN season leader, passing yards",
+     "source": "ESPN game summary, event 401866465"
+    },
+    {
+     "team": "Western Michigan Broncos",
+     "player": "Jalen Buckley",
+     "position": "RB",
+     "basis": "ESPN season leader, rushing yards",
+     "source": "ESPN game summary, event 401866465"
     }
    ]
   },
