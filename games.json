@@ -1293,7 +1293,7 @@
       "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
       "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
       "score_line": "No score of its own.",
-      "basis_line": "No consensus spread or total has been posted since the Monday night game ended (Nov 16, 11:23 PM ET), so the side and the total are both pending. Lines are the Action Network consensus as of Nov 17, 6:03 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 16, 11:23 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 16, 10:45 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -1301,9 +1301,9 @@
      {
       "name": "In The Trenches",
       "side_line": "Side: Miami (OH) RedHawks −9.5 · Likes this side",
-      "ou_line": "O/U: no pick",
+      "ou_line": "O/U: this card reads sides only",
       "score_line": "Projected: Miami (OH) RedHawks 27, Kent State Golden Flashes 21 (Total 48)",
-      "basis_line": "This read points to a side only. Miami (OH) RedHawks 4.5 ypc vs Kent State Golden Flashes allowing 4.0; Kent State Golden Flashes 3.0 ypc vs Miami (OH) RedHawks allowing 3.4 (2026 season). Miami (OH) RedHawks run game 0.5 ypc above what the opponent allows, which favors Miami (OH) RedHawks. Side: Miami (OH) RedHawks −9.5.",
+      "basis_line": "This read points to a side only. Miami (OH) RedHawks 4.5 ypc vs Kent State Golden Flashes allowing 4.0; Kent State Golden Flashes 3.0 ypc vs Miami (OH) RedHawks allowing 3.4 (2026 season). Miami (OH) RedHawks run game 0.5 ypc above what the opponent allows, which favours Miami (OH) RedHawks. Side: Miami (OH) RedHawks −9.5.",
       "independent": true,
       "distance_from_spread": 3.5,
       "distance_from_total": 2.5,
@@ -1315,8 +1315,8 @@
     "line_used": {
      "home_line": "Kent State Golden Flashes +9.5",
      "total": "45.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 17, 2026, 6:03 AM ET",
-     "fetched_at_utc": "2026-11-17T11:03Z"
+     "source": "ESPN scoreboard odds (DraftKings)",
+     "fetched_at_utc": "2026-11-16T15:44Z"
     },
     "injuries": {
      "away": [],
@@ -1338,7 +1338,7 @@
      "score_line": "",
      "spread": "Miami (OH) RedHawks −9.5",
      "total": "45.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 17, 2026, 6:03 AM ET",
+     "source": "ESPN scoreboard odds (DraftKings)",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "Miami (OH) RedHawks vs Kent State Golden Flashes: Gold Jacket Night",
