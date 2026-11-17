@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-15T21:41:41Z",
+ "updated_utc": "2026-11-17T01:17:29Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -3772,6 +3772,30 @@
     "oembed": 200,
     "official": true
    }
+  },
+  "401866465": {
+   "game_id": "401866465",
+   "matchup": "Eastern Michigan Eagles at Western Michigan Broncos",
+   "kickoff_utc": "2026-11-17T23:00Z",
+   "first_seen_utc": "2026-11-17T01:17:27Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401866464": {
+   "game_id": "401866464",
+   "matchup": "Ball State Cardinals at Ohio Bobcats",
+   "kickoff_utc": "2026-11-18T00:00Z",
+   "first_seen_utc": "2026-11-17T01:17:27Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401866466": {
+   "game_id": "401866466",
+   "matchup": "Miami (OH) RedHawks at Kent State Golden Flashes",
+   "kickoff_utc": "2026-11-18T00:00Z",
+   "first_seen_utc": "2026-11-17T01:17:27Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
   }
  }
 }
