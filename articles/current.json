@@ -4,9 +4,227 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-11-11T05:37:32Z",
-  "count": 160,
+  "count": 162,
   "lead_id": null,
   "articles": [
+    {
+      "id": "fanatic_team-bal",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "bal",
+      "team_ids": [
+        "bal"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873065",
+      "title": "Baltimore Ravens vs Los Angeles Chargers Week 10: Brissett's Debut, Flowers Fumble, 20-23",
+      "byline": "",
+      "matchup": "Final: Los Angeles Chargers (1-8) 23, Baltimore Ravens (4-6) 20, Mon., Nov. 16, M&T Bank Stadium, Baltimore. Next: at Carolina Panthers, Sun., Nov. 22, 1:00 PM ET, Bank of America Stadium, Charlotte",
+      "date": "2026-11-16",
+      "word_count": 403,
+      "text": "Los Angeles Chargers 23, Baltimore Ravens 20, and I am still in my seat at M&T Bank Stadium trying to figure out how a team with no wins walked out of our building with its first one on Monday Night Football. Across town, Monday night belonged to the Lindy Hoppers at Swing Night at Mobtown Ballroom. Our offense spent the first quarter dancing with two left feet.\n\nThree possessions, three three-and-outs, and the boos rained down. Justin Herbert ran 22 yards for a touchdown on their first drive, Cameron Dicker added a 38-yarder, and we were down 10-0 after one quarter. At home. Again.\n\nThen Jacoby Brissett, in his Ravens debut, found his feet. He hit Rashod Bateman for 24 yards to the 2, and Derrick Henry banged it in to make it 10-7. The building woke up. On our next series, a throw meant for Ja'Kobi Lane deflected into the arms of Del'Shawn Phillips, and the Chargers turned it into a 13-play march, with Omarion Hampton taking the last yard on fourth down. 17-7.\n\nBrissett kept slinging. He finished 33 of 49 for 340 yards. Mark Andrews caught eight for 82, Zay Flowers caught six for 74, and Josh Cuevas made three grabs on the two-minute drive that set up Riley Patterson's 26-yard field goal at the gun. Patterson added a 36-yarder in the third, and it was 20-13.\n\nOur defense deserved better. Mike Green had two sacks and three quarterback hits, Kyle Hamilton made 10 tackles, Roquan Smith made eight, and Los Angeles went 2 of 13 on third down. Down 23-13 in the fourth, we went 71 yards in 10 plays, with a direct snap to Henry that ended in a 16-yard gain for Flowers, and Henry scored from the 1 with 10:23 left. 23-20. Loud again.\n\nThen the play I'll see in my sleep. With about two minutes left, Brissett hit Flowers for 15 yards into Chargers territory, Tarheeb Still ripped the ball loose, and Elijah Molden recovered. The Chargers burned all but 11 seconds, and our last deep throw fell incomplete. Henry scored twice, but our ground game finished with 16 yards on 15 carries, and that's the story.\n\nFive straight losses, our first five-game losing streak since 2021. We're 4-6 and 1-4 at home. Next up: at the Carolina Panthers, Sunday, Nov. 22, 1:00 PM ET, Bank of America Stadium, Charlotte. Shake it off, Baltimore. Caw, caw.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Los Angeles Chargers 23, Baltimore Ravens 20, and I am still in my seat at M&T Bank Stadium trying to figure out how a team with no wins walked out of our building with its first one on Monday Night Football. Across town, Monday night belonged to the Lindy Hoppers at Swing Night at Mobtown Ballroom. Our offense spent the first quarter dancing with two left feet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Three possessions, three three-and-outs, and the boos rained down. Justin Herbert ran 22 yards for a touchdown on their first drive, Cameron Dicker added a 38-yarder, and we were down 10-0 after one quarter. At home. Again."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Jacoby Brissett, in his Ravens debut, found his feet. He hit Rashod Bateman for 24 yards to the 2, and Derrick Henry banged it in to make it 10-7. The building woke up. On our next series, a throw meant for Ja'Kobi Lane deflected into the arms of Del'Shawn Phillips, and the Chargers turned it into a 13-play march, with Omarion Hampton taking the last yard on fourth down. 17-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brissett kept slinging. He finished 33 of 49 for 340 yards. Mark Andrews caught eight for 82, Zay Flowers caught six for 74, and Josh Cuevas made three grabs on the two-minute drive that set up Riley Patterson's 26-yard field goal at the gun. Patterson added a 36-yarder in the third, and it was 20-13."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our defense deserved better. Mike Green had two sacks and three quarterback hits, Kyle Hamilton made 10 tackles, Roquan Smith made eight, and Los Angeles went 2 of 13 on third down. Down 23-13 in the fourth, we went 71 yards in 10 plays, with a direct snap to Henry that ended in a 16-yard gain for Flowers, and Henry scored from the 1 with 10:23 left. 23-20. Loud again."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the play I'll see in my sleep. With about two minutes left, Brissett hit Flowers for 15 yards into Chargers territory, Tarheeb Still ripped the ball loose, and Elijah Molden recovered. The Chargers burned all but 11 seconds, and our last deep throw fell incomplete. Henry scored twice, but our ground game finished with 16 yards on 15 carries, and that's the story."
+        },
+        {
+          "type": "paragraph",
+          "text": "Five straight losses, our first five-game losing streak since 2021. We're 4-6 and 1-4 at home. Next up: at the Carolina Panthers, Sunday, Nov. 22, 1:00 PM ET, Bank of America Stadium, Charlotte. Shake it off, Baltimore. Caw, caw."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Baltimore Ravens lost 23-20 to the Los Angeles Chargers on Monday, Nov. 16, at M&T Bank Stadium. The Ravens are 4-6."
+        },
+        {
+          "type": "fact",
+          "text": "Jacoby Brissett threw for 340 yards in his Ravens debut, and Derrick Henry scored two touchdowns."
+        },
+        {
+          "type": "fact",
+          "text": "Zay Flowers lost a fumble with about two minutes left, and Baltimore finished with 16 rushing yards in its fifth straight loss."
+        },
+        {
+          "type": "jab",
+          "text": "The Chargers came to town with no wins. Somebody had to be first, and we volunteered."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Carolina Panthers, Sunday, Nov. 22, 1:00 PM ET, Bank of America Stadium, Charlotte."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Chargers 23, Ravens 20 (Nov. 16, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873065"
+        },
+        {
+          "label": "ESPN play-by-play, Chargers at Ravens (Nov. 16, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873065"
+        },
+        {
+          "label": "ESPN game page, Chargers at Ravens (Nov. 16, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873065"
+        },
+        {
+          "label": "ESPN Ravens schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/bal/baltimore-ravens"
+        },
+        {
+          "label": "ESPN game recap (AP), Chargers 23, Ravens 20 (Nov. 16, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873065"
+        },
+        {
+          "label": "ESPN: Justin Herbert, defense lift Chargers to 1st win, top Ravens (Nov. 16, 2026)",
+          "url": "https://www.espn.com/nfl/story/_/id/50506286/ravens-chargers-mnf-herbert-first-win"
+        },
+        {
+          "label": "BaltimoreRavens.com: Game Recap: Ravens Fall to Chargers on 'Monday Night Football'",
+          "url": "https://www.baltimoreravens.com/news/ravens-fall-chargers-monday-night-football-five-game-losing-streak"
+        },
+        {
+          "label": "CBS Sports: Los Angeles holds off Baltimore to earn first win of season (Nov. 16, 2026)",
+          "url": "https://www.cbssports.com/nfl/news/ravens-vs-chargers-live-updates-score-highlights/live/"
+        },
+        {
+          "label": "Charm City Yodeller, Monday, Nov. 16, 2026: Swing Night at Mobtown Ballroom",
+          "url": "https://www.newsletter.charmcityyodeller.com/p/charm-city-yodeller-monday-november-16-2026"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-lac",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "lac",
+      "team_ids": [
+        "lac"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873065",
+      "title": "Los Angeles Chargers vs Baltimore Ravens Week 10: Herbert, Hampton Get Win No. 1, 23-20",
+      "byline": "",
+      "matchup": "Final: Los Angeles Chargers (1-8) 23, Baltimore Ravens (4-6) 20, Mon., Nov. 16, M&T Bank Stadium, Baltimore. Next: vs New York Jets, Sun., Nov. 22, 4:05 PM ET, SoFi Stadium, Inglewood",
+      "date": "2026-11-16",
+      "word_count": 434,
+      "text": "Bolt Up, Los Angeles! The Los Angeles Chargers beat the Baltimore Ravens 23-20 on Monday Night Football at M&T Bank Stadium, and the zero in our win column is gone. Back home, The Grove lit its tree Monday evening for its 25th Christmas celebration, with fireworks, a drone show and the season's first snowfall, and the brightest sight in Southern California was still a lightning bolt on a helmet in Baltimore.\n\nJustin Herbert set the tone on our very first possession. On third-and-6 at the Baltimore 22, he took off up the middle and ran 22 yards for a touchdown, 7-0. ESPN says it was his first rushing score since Week 9 last season. Tre' Harris made a 31-yard grab that we won back on a challenge, Cameron Dicker hit from 38, and it was 10-0 after one quarter.\n\nThen came the sequence I'll be rewinding all winter. Del'Shawn Phillips caught a deflected throw for an interception, and Jim Harbaugh kept the offense on the field on fourth down twice. Omarion Hampton pushed for a first down on fourth-and-1, Herbert scrambled to the 1, and Hampton barreled in on fourth-and-goal with 1:56 left in the half. That 13-play, 48-yard march made it 17-7. Baltimore kicked a field goal at the gun, so it was 17-10 at the break.\n\nDicker went 3 for 3 on field goals, and his kicks from 34 and 35 put us up 20-10 and 23-13. Hampton was a bulldozer all night with 22 carries for 105 yards. We ran for 160 yards, a season high. Herbert only needed 12 of 18 throws for 129 yards, plus 51 more on his feet, and for the first time all year we didn't give the ball away once.\n\nAnd the defense? Gorgeous. Baltimore ran 15 times for 16 yards. Derrick Henry scored twice from short range, the second one making it 23-20 with 10:23 left, but he finished with 10 yards on 10 carries. Dalvin Tomlinson had two sacks, Daiyan Henley made 11 tackles, and Tuli Tuipulotu hit the quarterback four times. Then, with about two minutes left, Zay Flowers caught one at our 46, Tarheeb Still ripped the ball out, and Elijah Molden fell on it. Herbert found former Raven Charlie Kolar for 11 yards and a first down, and RJ Mickens knocked away the last deep throw.\n\nOne and eight never felt so good. The 11-game losing streak that went back to last season is finished. Next up: the New York Jets at SoFi Stadium, Sunday, Nov. 22, 4:05 PM ET. Bring that Christmas glow to Inglewood, Bolt fans. Bolt Up!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Bolt Up, Los Angeles! The Los Angeles Chargers beat the Baltimore Ravens 23-20 on Monday Night Football at M&T Bank Stadium, and the zero in our win column is gone. Back home, The Grove lit its tree Monday evening for its 25th Christmas celebration, with fireworks, a drone show and the season's first snowfall, and the brightest sight in Southern California was still a lightning bolt on a helmet in Baltimore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Justin Herbert set the tone on our very first possession. On third-and-6 at the Baltimore 22, he took off up the middle and ran 22 yards for a touchdown, 7-0. ESPN says it was his first rushing score since Week 9 last season. Tre' Harris made a 31-yard grab that we won back on a challenge, Cameron Dicker hit from 38, and it was 10-0 after one quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the sequence I'll be rewinding all winter. Del'Shawn Phillips caught a deflected throw for an interception, and Jim Harbaugh kept the offense on the field on fourth down twice. Omarion Hampton pushed for a first down on fourth-and-1, Herbert scrambled to the 1, and Hampton barreled in on fourth-and-goal with 1:56 left in the half. That 13-play, 48-yard march made it 17-7. Baltimore kicked a field goal at the gun, so it was 17-10 at the break."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dicker went 3 for 3 on field goals, and his kicks from 34 and 35 put us up 20-10 and 23-13. Hampton was a bulldozer all night with 22 carries for 105 yards. We ran for 160 yards, a season high. Herbert only needed 12 of 18 throws for 129 yards, plus 51 more on his feet, and for the first time all year we didn't give the ball away once."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the defense? Gorgeous. Baltimore ran 15 times for 16 yards. Derrick Henry scored twice from short range, the second one making it 23-20 with 10:23 left, but he finished with 10 yards on 10 carries. Dalvin Tomlinson had two sacks, Daiyan Henley made 11 tackles, and Tuli Tuipulotu hit the quarterback four times. Then, with about two minutes left, Zay Flowers caught one at our 46, Tarheeb Still ripped the ball out, and Elijah Molden fell on it. Herbert found former Raven Charlie Kolar for 11 yards and a first down, and RJ Mickens knocked away the last deep throw."
+        },
+        {
+          "type": "paragraph",
+          "text": "One and eight never felt so good. The 11-game losing streak that went back to last season is finished. Next up: the New York Jets at SoFi Stadium, Sunday, Nov. 22, 4:05 PM ET. Bring that Christmas glow to Inglewood, Bolt fans. Bolt Up!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Los Angeles Chargers beat the Baltimore Ravens 23-20 on Monday, Nov. 16, at M&T Bank Stadium for their first win. They are 1-8."
+        },
+        {
+          "type": "fact",
+          "text": "Justin Herbert ran 22 yards for a touchdown on the first drive, and Omarion Hampton ran for 105 yards and a fourth-down touchdown."
+        },
+        {
+          "type": "fact",
+          "text": "Tarheeb Still forced a Zay Flowers fumble that Elijah Molden recovered with about two minutes left, and Baltimore finished with 16 rushing yards."
+        },
+        {
+          "type": "jab",
+          "text": "Baltimore ran 15 times and gained 16 yards. We'll take that trade any Monday."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs New York Jets, Sunday, Nov. 22, 4:05 PM ET, SoFi Stadium, Inglewood."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Chargers 23, Ravens 20 (Nov. 16, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873065"
+        },
+        {
+          "label": "ESPN play-by-play, Chargers at Ravens (Nov. 16, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873065"
+        },
+        {
+          "label": "ESPN game page, Chargers at Ravens (Nov. 16, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873065"
+        },
+        {
+          "label": "ESPN Chargers schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/lac/los-angeles-chargers"
+        },
+        {
+          "label": "ESPN game recap (AP), Chargers 23, Ravens 20 (Nov. 16, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873065"
+        },
+        {
+          "label": "ESPN: Justin Herbert, defense lift Chargers to 1st win, top Ravens (Nov. 16, 2026)",
+          "url": "https://www.espn.com/nfl/story/_/id/50506286/ravens-chargers-mnf-herbert-first-win"
+        },
+        {
+          "label": "Chargers.com Week 10 game recap: Chargers Force Late Turnover to Secure 1st Victory",
+          "url": "https://www.chargers.com/news/game-recap-ravens-week-10-justin-herbert"
+        },
+        {
+          "label": "CBS Sports: Los Angeles holds off Baltimore to earn first win of season (Nov. 16, 2026)",
+          "url": "https://www.cbssports.com/nfl/news/ravens-vs-chargers-live-updates-score-highlights/live/"
+        },
+        {
+          "label": "The Grove: 25th Annual Christmas at The Grove, Tree Lighting, Nov. 16, 2026",
+          "url": "https://thegrovela.com/events/25th-annual-christmas-at-the-grove/"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
     {
       "id": "fanatic_team-pit",
       "kind": "fanatic_team",
