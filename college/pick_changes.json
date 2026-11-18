@@ -2390,5 +2390,31 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401866469",
+  "league": "college",
+  "handicapper": "Letdown Watch",
+  "market": "total",
+  "original": {
+   "pick": "Over 43.5",
+   "line": 43.5,
+   "made_at": "2026-11-16T17:56:20Z"
+  },
+  "final": {
+   "pick": "Under 45.5",
+   "line": 45.5
+  },
+  "changed_at": "2026-11-18T14:10:00Z",
+  "kickoff": "2026-11-19T00:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Central Michigan at Buffalo moved from 43.5 to 44.5 at 4:01 PM ET and to 45.5 at 9:23 PM ET Monday Nov 16, and it was still 45.5 at the 9:02 AM ET check Wednesday Nov 18, so Letdown Watch's projection of Buffalo 25, Central Michigan 19 (44 points) now sits under the number and the fresh rerun turns the card from Over 43.5 into Under 45.5.",
+   "source": "Action Network consensus line history, Central Michigan at Buffalo (book 15): https://api.actionnetwork.com/web/v2/markets/event/290077/history?bookIds=15 (checked Nov 18, 2026, 9:02 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290077/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
