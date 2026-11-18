@@ -1442,13 +1442,13 @@
     "akron",
     "massachusetts"
    ],
-   "spread": "Massachusetts Minutemen −3",
+   "spread": "Massachusetts Minutemen −3.5",
    "total_line": 46.5,
    "prediction": {
     "away_score": 19,
     "home_score": 31,
     "winner": "Massachusetts Minutemen",
-    "covers": "Massachusetts Minutemen −3"
+    "covers": "Massachusetts Minutemen −3.5"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -1457,73 +1457,91 @@
    "display": {
     "writer": {
      "score_line": "Projected: Massachusetts Minutemen 31, Akron Zips 19 (Total 50)",
-     "side": "Massachusetts Minutemen −3",
+     "side": "Massachusetts Minutemen −3.5",
      "ou": "Over 46.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Massachusetts Minutemen −3 · Likes this side",
+      "side_line": "Side: Massachusetts Minutemen −3.5 · Likes this side",
       "ou_line": "O/U: Over 46.5 · Likes this total",
       "score_line": "Projected: Massachusetts Minutemen 29, Akron Zips 21 (Total 50)",
       "basis_line": "Net ratings Akron Zips −23.6, Massachusetts Minutemen −16.5 (ESPN Football Power Index, Nov 16, 2026)",
       "independent": true,
-      "distance_from_spread": 5.0,
+      "distance_from_spread": 4.5,
       "distance_from_total": 3.5,
-      "landed_on_number": []
+      "landed_on_number": [],
+      "_retag": {
+       "team_line": "Massachusetts Minutemen −3.5",
+       "ou": "Over",
+       "clearance_side": 4.5,
+       "clearance_total": 3.5
+      }
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Massachusetts Minutemen −3 · Likes this side",
+      "side_line": "Side: Massachusetts Minutemen −3.5 · Likes this side",
       "ou_line": "O/U: Over 46.5",
       "score_line": "Projected: Massachusetts Minutemen 31, Akron Zips 17 (Total 48)",
       "basis_line": "With the players available: projected points Akron Zips 16.7, Massachusetts Minutemen 31.0.",
       "independent": true,
-      "distance_from_spread": 11.0,
+      "distance_from_spread": 10.5,
       "distance_from_total": 1.5,
-      "landed_on_number": []
+      "landed_on_number": [],
+      "_retag": {
+       "team_line": "Massachusetts Minutemen −3.5",
+       "ou": "Over",
+       "clearance_side": 10.5,
+       "clearance_total": 1.5
+      }
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Massachusetts Minutemen −3 · Likes this side",
+      "side_line": "Side: Massachusetts Minutemen −3.5 · Likes this side",
       "ou_line": "O/U: Over 46.5",
       "score_line": "Projected: Massachusetts Minutemen 30, Akron Zips 18 (Total 48)",
       "basis_line": "Rest and travel read: projected points Akron Zips 17.6, Massachusetts Minutemen 30.4.",
       "independent": true,
-      "distance_from_spread": 9.0,
+      "distance_from_spread": 8.5,
       "distance_from_total": 1.5,
-      "landed_on_number": []
+      "landed_on_number": [],
+      "_retag": {
+       "team_line": "Massachusetts Minutemen −3.5",
+       "ou": "Over",
+       "clearance_side": 8.5,
+       "clearance_total": 1.5
+      }
      },
      {
       "name": "Follow The Money",
       "side_line": "Side: no pick",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own.",
-      "basis_line": "Consensus spread opened Massachusetts Minutemen −3 (Nov 17, 9:28 AM ET) and is −3.5 now. Follow The Money has no side pick. Consensus total opened 46.5 (Nov 17, 11:53 AM ET) and is 46.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 17, 10:46 PM ET; the open is the first consensus line posted after the Monday night game ended (Nov 16, 11:23 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Massachusetts Minutemen −3 (Nov 17, 9:28 AM ET) and is −3.5 now. Follow The Money has no side pick. Consensus total opened 46.5 (Nov 17, 11:53 AM ET) and is 46.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 18, 9:20 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 16, 11:23 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Massachusetts Minutemen −3 · Likes this side",
+      "side_line": "Side: Massachusetts Minutemen −3.5 · Likes this side",
       "ou_line": "O/U: this card reads sides only",
       "score_line": "Projected: Massachusetts Minutemen 34, Akron Zips 20 (Total 54)",
-      "basis_line": "This read points to a side only. Akron Zips 3.9 ypc vs Massachusetts Minutemen allowing 4.1; Massachusetts Minutemen 4.2 ypc vs Akron Zips allowing 5.9 (2026 season). Massachusetts Minutemen run game 1.7 ypc below what the opponent allows. The projected score is Massachusetts Minutemen 34, Akron Zips 20, which does not cover Akron Zips +3. Side: Massachusetts Minutemen −3.",
+      "basis_line": "This read points to a side only. Akron Zips 3.9 ypc vs Massachusetts Minutemen allowing 4.1; Massachusetts Minutemen 4.2 ypc vs Akron Zips allowing 5.9 (2026 season). Massachusetts Minutemen run game 1.7 ypc below what the opponent allows. The projected score is Massachusetts Minutemen 34, Akron Zips 20, which does not cover Akron Zips +3.5. Side: Massachusetts Minutemen −3.5.",
       "independent": true,
-      "distance_from_spread": 11.0,
+      "distance_from_spread": 10.5,
       "distance_from_total": 7.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "Every one of Akron's ten games this season has finished with more than 46.5 points, and that one fact is half my card for Wednesday night in Amherst. So the Akron vs UMass pick is Massachusetts Minutemen −3 to go with Over 46.5, on Senior Night and Fan Appreciation night at McGuirk Alumni Stadium.\n\nAbner Kettleworth wants to talk about the first meeting. \"Our first win as an FBS program came against Akron. Four interceptions. I still have the ticket stub in a jar with my sourdough starter.\"\n\nHollister \"Zip\" Grubbs wants to talk about last year. \"Forty-four to ten, Abner. We sent you home flatter than a blimp with a hole in it.\"\n\nBoth are true, and neither tells me much about this Wednesday. The present does. Akron is 1-9, 0-6 in the MAC and 12th in the conference, allowing 33.2 points a game. The Zips' only win came against Robert Morris in September. UMass is 5-5 and allows 22.3. On a neutral reading this is a mismatch, and three points is a small ask.\n\nThe catch is the UMass quarterback. William Watson III has completed 115 of 167 throws with 9 touchdowns and 2 interceptions, but the UMass game notes say he missed the Miami (OH) and Buffalo games and most of the Toledo game with lower body injuries. Logan Inagawa took the most throws at Toledo and went 10 for 27 in a 24-0 loss. I don't know who starts Wednesday, so I'm pricing Inagawa. Even at that price, UMass is the better team against a defense this soft, and Curtis Kimmons IV and T.Y. Harding give the Minutemen plays that don't need a quarterback to be perfect.\n\nAkron changed quarterbacks too. Cibastian Broughton took over for the last two games and threw 2 touchdowns against Western Michigan, both to Marcel Williams. Jordan Gant has 791 rushing yards. That's enough to put points on the board, and that is the Over case. Akron games have landed at 48 or more combined points all year, every single time. DraftKings opened Massachusetts Minutemen −3.5 with a 47.5 total, and both have come down a little.\n\nThe room is together on Massachusetts. The Formula has UMass 29-21 and likes both Massachusetts Minutemen −3 and the Over 46.5. Next Man Up has 31-17, likes UMass, and goes Over. Letdown Watch has 30-18, likes UMass, and goes Over. In The Trenches has UMass 34-20, takes Massachusetts Minutemen −3, and makes no over/under call. Follow The Money has no side pick and no total pick.\n\nThe Formula: \"In The Trenches has UMass by fourteen. I have them by eight. At least we agree on the Minutemen.\"\n\nIn The Trenches: \"Better than the Cover Writer, who still thinks a 1-9 team can't hang around for three quarters.\"\n\nMy final is Massachusetts Minutemen 31, Akron Zips 19. That's a 12-point win, nine clear of the number, and 50 points, three and a half past the total. Abner rings his colonial bell for the seniors. Hollister drives back down the turnpike muttering about air pressure.\n\nMassachusetts Minutemen 31, Akron Zips 19. Massachusetts Minutemen cover the 3. Over 46.5.",
+    "story_text": "Every one of Akron's ten games this season has finished with more than 46.5 points, and that one fact is half my card for Wednesday night in Amherst. So the Akron vs UMass pick is Massachusetts Minutemen −3.5 to go with Over 46.5, on Senior Night and Fan Appreciation night at McGuirk Alumni Stadium.\n\nAbner Kettleworth wants to talk about the first meeting. \"Our first win as an FBS program came against Akron. Four interceptions. I still have the ticket stub in a jar with my sourdough starter.\"\n\nHollister \"Zip\" Grubbs wants to talk about last year. \"Forty-four to ten, Abner. We sent you home flatter than a blimp with a hole in it.\"\n\nBoth are true, and neither tells me much about this Wednesday. The present does. Akron is 1-9, 0-6 in the MAC and 12th in the conference, allowing 33.2 points a game. The Zips' only win came against Robert Morris in September. UMass is 5-5 and allows 22.3. On a neutral reading this is a mismatch, and three and a half points is a small ask.\n\nThe catch is the UMass quarterback. William Watson III has completed 115 of 167 throws with 9 touchdowns and 2 interceptions, but the UMass game notes say he missed the Miami (OH) and Buffalo games and most of the Toledo game with lower body injuries. Logan Inagawa took the most throws at Toledo and went 10 for 27 in a 24-0 loss. I don't know who starts Wednesday, so I'm pricing Inagawa. Even at that price, UMass is the better team against a defense this soft, and Curtis Kimmons IV and T.Y. Harding give the Minutemen plays that don't need a quarterback to be perfect.\n\nAkron changed quarterbacks too. Cibastian Broughton took over for the last two games and threw 2 touchdowns against Western Michigan, both to Marcel Williams. Jordan Gant has 791 rushing yards. That's enough to put points on the board, and that is the Over case. Akron games have landed at 48 or more combined points all year, every single time. DraftKings opened Massachusetts Minutemen −3.5 with a 47.5 total. As of 9:20 AM ET Wednesday, the side is Massachusetts Minutemen −3.5 and the total is 46.5.\n\nThe room is together on Massachusetts. The Formula has UMass 29-21 and likes both Massachusetts Minutemen −3.5 and the Over 46.5. Next Man Up has 31-17, likes UMass, and goes Over. Letdown Watch has 30-18, likes UMass, and goes Over. In The Trenches has UMass 34-20, takes Massachusetts Minutemen −3.5, and makes no over/under call. Follow The Money has no side pick and no total pick.\n\nThe Formula: \"In The Trenches has UMass by fourteen. I have them by eight. At least we agree on the Minutemen.\"\n\nIn The Trenches: \"Better than the Cover Writer, who still thinks a 1-9 team can't hang around for three quarters.\"\n\nMy final is Massachusetts Minutemen 31, Akron Zips 19. That's a 12-point win, eight and a half clear of the number, and 50 points, three and a half past the total. Abner rings his colonial bell for the seniors. Hollister drives back down the turnpike muttering about air pressure.\n\nMassachusetts Minutemen 31, Akron Zips 19. Massachusetts Minutemen cover the 3.5. Over 46.5.",
     "fanatic_score_line": "Projected: Massachusetts Minutemen 31, Akron Zips 19",
     "line_used": {
-     "home_line": "Massachusetts Minutemen −3",
+     "home_line": "Massachusetts Minutemen −3.5",
      "total": "46.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 17, 2026, 10:46 PM ET",
-     "fetched_at_utc": "2026-11-18T03:46Z"
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 18, 2026, 9:20 AM ET",
+     "fetched_at_utc": "2026-11-18T14:20Z"
     },
     "injuries": {
      "away": [],
@@ -1543,15 +1561,15 @@
     "fanatic_story": "The first time UMass ever won a football game as an FBS program, the visitors were from Akron. That was Nov. 10, 2012, a 22-14 night with four Minutemen interceptions, and Abner Kettleworth has carried it around for fourteen years like a smooth stone in his coat pocket, ready for the night Akron Zips vs Massachusetts Minutemen came back to McGuirk Alumni Stadium.\n\nThat night is Wednesday at 7:00 PM ET. It's also Senior Night and Fan Appreciation night in Amherst, and Hollister \"Zip\" Grubbs has driven in from Ohio with a 1-9 team and the unshakable belief that rubber always comes back to its shape.\n\n\"Fourteen years,\" Hollister says. \"Abner, that's a long time to hold a grudge against a tire company's hometown.\"\n\n\"It's not a grudge,\" Abner says, very slowly, the way people in the Pioneer Valley say everything. \"It's a keepsake. Grudges are heavy. Keepsakes are light. Isaiah Rodgers took one back for six that night. I like to think about it when the leaves fall.\"\n\n\"Well, think about last year too,\" Hollister says. \"Forty-four to ten. In Akron.\"\n\nAbner looks out over the hills for a moment. \"I think about that one when the leaves are already on the ground.\"\n\nThis is the seventh meeting, and Akron leads the series 4-2. But this season doesn't look anything like last season. UMass is 5-5, with a defense that ranks third in the MAC in yards allowed and an offense that has had to find answers at quarterback. William Watson III leads the MAC in completion rate, hitting 115 of 167, but the UMass notes say he missed the Miami (OH) and Buffalo games and most of the Toledo game with lower body injuries. Abner doesn't pretend to know who takes the first snap Wednesday.\n\n\"Whoever it is,\" he says, \"he has T.Y. Harding. Harding has scored on a catch, a run and a punt return this year. Only two players in the whole country can say that. The other one plays in Boca Raton and has never had a proper Amherst apple.\"\n\nAkron's year has been a long one. The Zips beat Robert Morris 45-10 in September and haven't won since, and they're 0-6 in conference play. Hollister knows it. He just refuses to let it shrink him.\n\n\"Jordan Gant has 791 rushing yards,\" he says. \"Donelius Johnson has 89 tackles. And Cibastian Broughton threw 2 touchdowns to Marcel Williams against Western Michigan last week. We've found something. It's small. A blimp starts small too, before you fill it up.\"\n\n\"A blimp starts as a large bag,\" Abner says.\n\n\"A large bag full of hope.\"\n\nThere's one thing about Akron Abner can't shake, and it has nothing to do with the record. Akron games light up the scoreboard. Every one of the Zips' ten games has seen at least 48 points combined. They give up plenty, and lately they've scored some too.\n\n\"So we'll need points,\" Abner says. \"Derek Morris has made four field goals from fifty yards or more this season. Only seven kickers in the country can say that. We don't need touchdowns every trip. We need patience and a strong left leg.\"\n\n\"Is it his left leg?\"\n\n\"I have no idea. It's a figure of speech in the Valley.\"\n\nUMass also does the little things. The Minutemen lead the MAC with a plus-0.40 turnover margin, they've thrown only four interceptions all year, and Edward Phillipson is booming punts 45.6 yards a kick, best in the conference. Abner calls it \"colonial football.\" Hollister calls it boring and then admits it works.\n\nHere's how Wednesday goes. The seniors walk out with their families, Abner rings his little colonial bell, and the Minutemen start fast with Harding getting loose on an early touch. Akron answers with Gant and a Broughton strike to Williams, because these Zips can make a game of it for a half. Then the UMass defense settles in, Johnson piles up tackles on the other side trying to keep Akron close, and Morris drops a long one through the uprights in the third quarter to make the crowd roar. Kimmons grinds out the fourth quarter on the ground, and the Minutemen send their seniors off with a win.\n\nHollister bounces on his heels at the final whistle anyway. \"Tread's still good,\" he says. Abner walks him to the parking lot, hands him a bag of Amherst apples for the drive, and plants a small tree in his own honor, just in case.\n\nMy call: Massachusetts Minutemen 31, Akron Zips 19.",
     "market": {
      "score_line": "",
-     "spread": "Massachusetts Minutemen −3",
+     "spread": "Massachusetts Minutemen −3.5",
      "total": "46.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 17, 2026, 10:46 PM ET",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 18, 2026, 9:20 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "Akron Zips vs Massachusetts Minutemen: Senior Night in Amherst",
-    "gambler_headline": "Akron vs UMass Pick: Minutemen −3 and Over 46.5 in Amherst"
+    "gambler_headline": "Akron vs UMass Pick: Minutemen −3.5 and Over 46.5 in Amherst"
    },
-   "gambler_story": "Every one of Akron's ten games this season has finished with more than 46.5 points, and that one fact is half my card for Wednesday night in Amherst. So the Akron vs UMass pick is Massachusetts Minutemen −3 to go with Over 46.5, on Senior Night and Fan Appreciation night at McGuirk Alumni Stadium.\n\nAbner Kettleworth wants to talk about the first meeting. \"Our first win as an FBS program came against Akron. Four interceptions. I still have the ticket stub in a jar with my sourdough starter.\"\n\nHollister \"Zip\" Grubbs wants to talk about last year. \"Forty-four to ten, Abner. We sent you home flatter than a blimp with a hole in it.\"\n\nBoth are true, and neither tells me much about this Wednesday. The present does. Akron is 1-9, 0-6 in the MAC and 12th in the conference, allowing 33.2 points a game. The Zips' only win came against Robert Morris in September. UMass is 5-5 and allows 22.3. On a neutral reading this is a mismatch, and three points is a small ask.\n\nThe catch is the UMass quarterback. William Watson III has completed 115 of 167 throws with 9 touchdowns and 2 interceptions, but the UMass game notes say he missed the Miami (OH) and Buffalo games and most of the Toledo game with lower body injuries. Logan Inagawa took the most throws at Toledo and went 10 for 27 in a 24-0 loss. I don't know who starts Wednesday, so I'm pricing Inagawa. Even at that price, UMass is the better team against a defense this soft, and Curtis Kimmons IV and T.Y. Harding give the Minutemen plays that don't need a quarterback to be perfect.\n\nAkron changed quarterbacks too. Cibastian Broughton took over for the last two games and threw 2 touchdowns against Western Michigan, both to Marcel Williams. Jordan Gant has 791 rushing yards. That's enough to put points on the board, and that is the Over case. Akron games have landed at 48 or more combined points all year, every single time. DraftKings opened Massachusetts Minutemen −3.5 with a 47.5 total, and both have come down a little.\n\nThe room is together on Massachusetts. The Formula has UMass 29-21 and likes both Massachusetts Minutemen −3 and the Over 46.5. Next Man Up has 31-17, likes UMass, and goes Over. Letdown Watch has 30-18, likes UMass, and goes Over. In The Trenches has UMass 34-20, takes Massachusetts Minutemen −3, and makes no over/under call. Follow The Money has no side pick and no total pick.\n\nThe Formula: \"In The Trenches has UMass by fourteen. I have them by eight. At least we agree on the Minutemen.\"\n\nIn The Trenches: \"Better than the Cover Writer, who still thinks a 1-9 team can't hang around for three quarters.\"\n\nMy final is Massachusetts Minutemen 31, Akron Zips 19. That's a 12-point win, nine clear of the number, and 50 points, three and a half past the total. Abner rings his colonial bell for the seniors. Hollister drives back down the turnpike muttering about air pressure.\n\nMassachusetts Minutemen 31, Akron Zips 19. Massachusetts Minutemen cover the 3. Over 46.5.",
+   "gambler_story": "Every one of Akron's ten games this season has finished with more than 46.5 points, and that one fact is half my card for Wednesday night in Amherst. So the Akron vs UMass pick is Massachusetts Minutemen −3.5 to go with Over 46.5, on Senior Night and Fan Appreciation night at McGuirk Alumni Stadium.\n\nAbner Kettleworth wants to talk about the first meeting. \"Our first win as an FBS program came against Akron. Four interceptions. I still have the ticket stub in a jar with my sourdough starter.\"\n\nHollister \"Zip\" Grubbs wants to talk about last year. \"Forty-four to ten, Abner. We sent you home flatter than a blimp with a hole in it.\"\n\nBoth are true, and neither tells me much about this Wednesday. The present does. Akron is 1-9, 0-6 in the MAC and 12th in the conference, allowing 33.2 points a game. The Zips' only win came against Robert Morris in September. UMass is 5-5 and allows 22.3. On a neutral reading this is a mismatch, and three and a half points is a small ask.\n\nThe catch is the UMass quarterback. William Watson III has completed 115 of 167 throws with 9 touchdowns and 2 interceptions, but the UMass game notes say he missed the Miami (OH) and Buffalo games and most of the Toledo game with lower body injuries. Logan Inagawa took the most throws at Toledo and went 10 for 27 in a 24-0 loss. I don't know who starts Wednesday, so I'm pricing Inagawa. Even at that price, UMass is the better team against a defense this soft, and Curtis Kimmons IV and T.Y. Harding give the Minutemen plays that don't need a quarterback to be perfect.\n\nAkron changed quarterbacks too. Cibastian Broughton took over for the last two games and threw 2 touchdowns against Western Michigan, both to Marcel Williams. Jordan Gant has 791 rushing yards. That's enough to put points on the board, and that is the Over case. Akron games have landed at 48 or more combined points all year, every single time. DraftKings opened Massachusetts Minutemen −3.5 with a 47.5 total. As of 9:20 AM ET Wednesday, the side is Massachusetts Minutemen −3.5 and the total is 46.5.\n\nThe room is together on Massachusetts. The Formula has UMass 29-21 and likes both Massachusetts Minutemen −3.5 and the Over 46.5. Next Man Up has 31-17, likes UMass, and goes Over. Letdown Watch has 30-18, likes UMass, and goes Over. In The Trenches has UMass 34-20, takes Massachusetts Minutemen −3.5, and makes no over/under call. Follow The Money has no side pick and no total pick.\n\nThe Formula: \"In The Trenches has UMass by fourteen. I have them by eight. At least we agree on the Minutemen.\"\n\nIn The Trenches: \"Better than the Cover Writer, who still thinks a 1-9 team can't hang around for three quarters.\"\n\nMy final is Massachusetts Minutemen 31, Akron Zips 19. That's a 12-point win, eight and a half clear of the number, and 50 points, three and a half past the total. Abner rings his colonial bell for the seniors. Hollister drives back down the turnpike muttering about air pressure.\n\nMassachusetts Minutemen 31, Akron Zips 19. Massachusetts Minutemen cover the 3.5. Over 46.5.",
    "key_players": [
     {
      "team": "Akron Zips",
@@ -1664,13 +1682,13 @@
     "central-michigan",
     "buffalo"
    ],
-   "spread": "Buffalo Bulls −1.5",
+   "spread": "Buffalo Bulls −2.5",
    "total_line": 45.5,
    "prediction": {
     "away_score": 20,
     "home_score": 24,
     "winner": "Buffalo Bulls",
-    "covers": "Buffalo Bulls −1.5"
+    "covers": "Buffalo Bulls −2.5"
    },
    "total_pick": "Under",
    "status_at_build": {
@@ -1679,50 +1697,68 @@
    "display": {
     "writer": {
      "score_line": "Projected: Buffalo Bulls 24, Central Michigan Chippewas 20 (Total 44)",
-     "side": "Buffalo Bulls −1.5",
+     "side": "Buffalo Bulls −2.5",
      "ou": "Under 45.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Buffalo Bulls −1.5",
+      "side_line": "Side: Buffalo Bulls −2.5",
       "ou_line": "O/U: Over 45.5",
       "score_line": "Projected: Buffalo Bulls 25, Central Michigan Chippewas 22 (Total 47)",
       "basis_line": "Net ratings Central Michigan Chippewas −12.0, Buffalo Bulls −11.4 (ESPN Football Power Index, Nov 16, 2026)",
       "independent": true,
-      "distance_from_spread": 1.5,
+      "distance_from_spread": 0.5,
       "distance_from_total": 1.5,
-      "landed_on_number": []
+      "landed_on_number": [],
+      "_retag": {
+       "team_line": "Buffalo Bulls −2.5",
+       "ou": "Over",
+       "clearance_side": 0.5,
+       "clearance_total": 1.5
+      }
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Buffalo Bulls −1.5",
+      "side_line": "Side: Buffalo Bulls −2.5",
       "ou_line": "O/U: Under 45.5 · Likes this total",
       "score_line": "Projected: Buffalo Bulls 23, Central Michigan Chippewas 20 (Total 43)",
       "basis_line": "With the players available: projected points Central Michigan Chippewas 19.6, Buffalo Bulls 23.4.",
       "independent": true,
-      "distance_from_spread": 1.5,
+      "distance_from_spread": 0.5,
       "distance_from_total": 2.5,
-      "landed_on_number": []
+      "landed_on_number": [],
+      "_retag": {
+       "team_line": "Buffalo Bulls −2.5",
+       "ou": "Under",
+       "clearance_side": 0.5,
+       "clearance_total": 2.5
+      }
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Buffalo Bulls −1.5 · Likes this side",
+      "side_line": "Side: Buffalo Bulls −2.5 · Likes this side",
       "ou_line": "O/U: Under 45.5",
       "score_line": "Projected: Buffalo Bulls 25, Central Michigan Chippewas 19 (Total 44)",
       "basis_line": "Rest and travel read: projected points Central Michigan Chippewas 19.3, Buffalo Bulls 24.8.",
       "independent": true,
-      "distance_from_spread": 4.5,
+      "distance_from_spread": 3.5,
       "distance_from_total": 1.5,
-      "landed_on_number": []
+      "landed_on_number": [],
+      "_retag": {
+       "team_line": "Buffalo Bulls −2.5",
+       "ou": "Under",
+       "clearance_side": 3.5,
+       "clearance_total": 1.5
+      }
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick",
+      "side_line": "Side: Buffalo Bulls −2.5 · Likes this side",
       "ou_line": "O/U: no pick",
       "score_line": "No score of its own.",
-      "basis_line": "Consensus spread opened Buffalo Bulls −1.5 (Nov 17, 3:11 AM ET) and is −1.5 now. Follow The Money has no side pick. Consensus total opened 45.5 (Nov 16, 11:39 PM ET) and is 45.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 17, 10:46 PM ET; the open is the first consensus line posted after the Monday night game ended (Nov 16, 11:23 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Buffalo Bulls −1.5 (Nov 17, 3:11 AM ET) and is −2.5 now, a 1-point move. The side pick quotes the consensus spread now (Buffalo Bulls −2.5). Consensus total opened 45.5 (Nov 16, 11:39 PM ET) and is 45.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 18, 9:20 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 16, 11:23 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -1738,13 +1774,13 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "Somebody at Broadview Stadium is going home Wednesday with a freezer full of ribeyes, because Buffalo's MACtion Meat Raffle is back for the home finale. The Central Michigan vs Buffalo spread is short, and I'll take the Bulls at Buffalo Bulls −1.5 with the Under 45.5, kickoff 7:30 PM ET.\n\nKendra Woolcott is wearing shorts. It is November in Western New York. \"Hundreds of pounds of meat, Brynn. Roasts. Steaks. And Messiah Burch running through your defense like he's late for the drawing.\"\n\nBrynn Haverkamp zips her parka all the way up. \"Ope, you're going to freeze. We beat you 38-19 last year, and I brought a thermos.\"\n\nThat's the honest starting point. Buffalo is 7-3, 5-1 in the MAC and first in the conference, but its points for and against are almost even at 24.3 and 24.1 a game, and a lot of its wins were tight. Two of the last four came in overtime. Central Michigan is 5-5, has won two in a row, 35-7 and 28-7, and allows 22.1 a game. A point and a half is a fair fight.\n\nI side with Buffalo because of what it does when the offense gets going. The Bulls haven't lost a game this season when they score 21 or more, and they're 7-0 in those games. Burch is the reason they get there. He has 1,110 rushing yards, and he ran 31 times for 209 yards and 2 touchdowns at Ball State last week. Chance Morrow has 9 touchdown catches, and Jason Wright has 10 touchdown throws. Central Michigan has split quarterback duties between Jadyn Glasser and Angel Flores, with Flores also the team's leading rusher at 618 yards. That's a run-first offense, and Buffalo just ran for more than three hundred yards of its own at Ball State.\n\nThe last five meetings all went past 43.5 combined points, the closest by six and a half, and over the last four meetings each team won both of its home games. DraftKings opened Buffalo Bulls −1.5 with a 43.5 total. As of 10:46 PM ET Tuesday, the side is Buffalo Bulls −1.5 and the total is 45.5.\n\nThe room agrees on Buffalo and argues about the total. The Formula has Buffalo 25-22, takes Buffalo Bulls −1.5 and goes Over 45.5. Next Man Up has 23-20 with Buffalo and likes the Under 45.5. Letdown Watch has 25-19, likes Buffalo and goes Under 45.5. In The Trenches has no score this week and calls the fronts even, with no side and no over/under. Follow The Money has no side pick and no total pick.\n\nNext Man Up: \"Forty-three points, two and a half under, and I'll be warm inside while you stand in the raffle line.\"\n\nThe Formula: \"You have Buffalo by three, Next Man Up. That's a field goal and a pot roast. Enjoy the heated seat.\"\n\nMy final is Buffalo Bulls 24, Central Michigan Chippewas 20. A four-point win clears the number by two and a half points, and 44 points stays a point and a half under the total. Kendra spends the third quarter checking raffle numbers in shorts. Brynn retreats to a heated tent somewhere near the parking lot.\n\nBuffalo Bulls 24, Central Michigan Chippewas 20. Buffalo Bulls cover the 1.5. Under 45.5.",
+    "story_text": "Somebody at Broadview Stadium is going home Wednesday with a freezer full of ribeyes, because Buffalo's MACtion Meat Raffle is back for the home finale. The Central Michigan vs Buffalo spread is short, and I'll take the Bulls at Buffalo Bulls −2.5 with the Under 45.5, kickoff 7:30 PM ET.\n\nKendra Woolcott is wearing shorts. It is November in Western New York. \"Hundreds of pounds of meat, Brynn. Roasts. Steaks. And Messiah Burch running through your defense like he's late for the drawing.\"\n\nBrynn Haverkamp zips her parka all the way up. \"Ope, you're going to freeze. We beat you 38-19 last year, and I brought a thermos.\"\n\nThat's the honest starting point. Buffalo is 7-3, 5-1 in the MAC and first in the conference, but its points for and against are almost even at 24.3 and 24.1 a game, and a lot of its wins were tight. Two of the last four came in overtime. Central Michigan is 5-5, has won two in a row, 35-7 and 28-7, and allows 22.1 a game. Two and a half points is a fair fight.\n\nI side with Buffalo because of what it does when the offense gets going. The Bulls haven't lost a game this season when they score 21 or more, and they're 7-0 in those games. Burch is the reason they get there. He has 1,110 rushing yards, and he ran 31 times for 209 yards and 2 touchdowns at Ball State last week. Chance Morrow has 9 touchdown catches, and Jason Wright has 10 touchdown throws. Central Michigan has split quarterback duties between Jadyn Glasser and Angel Flores, with Flores also the team's leading rusher at 618 yards. That's a run-first offense, and Buffalo just ran for more than three hundred yards of its own at Ball State.\n\nThe last five meetings all went past 43.5 combined points, the closest by six and a half, and over the last four meetings each team won both of its home games. DraftKings opened Buffalo Bulls −1.5 with a 43.5 total. As of 9:20 AM ET Wednesday, the side is Buffalo Bulls −2.5 and the total is 45.5.\n\nThe room agrees on Buffalo and argues about the total. The Formula has Buffalo 25-22, takes Buffalo Bulls −2.5 and goes Over 45.5. Next Man Up has 23-20 with Buffalo and likes the Under 45.5. Letdown Watch has 25-19, likes Buffalo and goes Under 45.5. In The Trenches has no score this week and calls the fronts even, with no side and no over/under. Follow The Money takes Buffalo Bulls −2.5 and has no total pick.\n\nNext Man Up: \"Forty-three points, two and a half under, and I'll be warm inside while you stand in the raffle line.\"\n\nThe Formula: \"You have Buffalo by three, Next Man Up. That's a field goal and a pot roast. Enjoy the heated seat.\"\n\nMy final is Buffalo Bulls 24, Central Michigan Chippewas 20. A four-point win clears the number by a point and a half, and 44 points stays a point and a half under the total. Kendra spends the third quarter checking raffle numbers in shorts. Brynn retreats to a heated tent somewhere near the parking lot.\n\nBuffalo Bulls 24, Central Michigan Chippewas 20. Buffalo Bulls cover the 2.5. Under 45.5.",
     "fanatic_score_line": "Projected: Buffalo Bulls 24, Central Michigan Chippewas 20",
     "line_used": {
-     "home_line": "Buffalo Bulls −1.5",
+     "home_line": "Buffalo Bulls −2.5",
      "total": "45.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 17, 2026, 10:46 PM ET",
-     "fetched_at_utc": "2026-11-18T03:46Z"
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 18, 2026, 9:20 AM ET",
+     "fetched_at_utc": "2026-11-18T14:20Z"
     },
     "injuries": {
      "away": [],
@@ -1764,15 +1800,15 @@
     "fanatic_story": "Buffalo is raffling off ribeyes and roasts on Wednesday night, hundreds of pounds of them, and Kendra Woolcott has already cleared a shelf in her freezer. Central Michigan Chippewas vs Buffalo Bulls is the MACtion Meat Raffle game at Broadview Stadium, the Bulls' home finale with a 7:30 PM ET kickoff, and Brynn Haverkamp has come east from Mount Pleasant in a parka, wool socks and the calm of a woman who has survived a lot of deer camps.\n\n\"It's a Buffalo tradition,\" Kendra says, in shorts. \"You buy your raffle tickets, you cheer your Bulls, and if the Lord smiles on you, you carry home a pot roast at halftime.\"\n\n\"Ope,\" Brynn says. \"Sorry. I just can't stop looking at your knees. It's November.\"\n\n\"My knees are fine. My knees are from Cheektowaga.\"\n\nLet's be clear about the stakes, because there are real ones. Buffalo is 7-3 and 5-1 in the MAC, first in the conference, and the Bulls have won five in a row. One more would be six straight, their longest run since 2013. Central Michigan is 5-5 and just found its legs, beating Eastern Michigan 35-7 at Ford Field and Sacramento State 28-7 at home.\n\n\"We're rolling, Kendra,\" Brynn says. \"Two straight, and the defense is mean again. Mayson Hitchens has 72 tackles and he's still hungry.\"\n\n\"Everybody's hungry tonight. That's the whole promotion.\"\n\nThe Bulls have a back who could win the raffle by himself. Messiah Burch has 1,110 rushing yards and leads the MAC at 111 a game. At Ball State last week he ran 31 times for 209 yards and two touchdowns, the most by a Buffalo back since Jaret Patterson's 409-yard day in 2020. Here's the wild part: Burch ran for 294 yards in the first 22 games of his career combined.\n\n\"Two hundred and nine,\" Kendra says. \"He did that in the rain. You should see him in the snow. Actually, you might.\"\n\nChance Morrow is the other problem for Central. He has 54 catches, 693 yards and nine touchdowns, all of them in the end zone, which sounds obvious until you realize the Buffalo notes made a point of it. Tight end Clint Walker is one touchdown catch from tying the school record for a tight end in a season. And Oliver Hautanen has made 15 field goals, the most in the conference.\n\n\"We don't need touchdowns every time,\" Kendra says. \"We need three points and a ribeye.\"\n\nBrynn has an answer, and it's the ground game. Central Michigan's leading rusher is quarterback Angel Flores with 618 yards, and Nick Woodford ran 23 times for 119 against Sacramento State. Jadyn Glasser has taken most of the throws in the last three games and keeps it clean, with just 3 interceptions on the year. Langston Lewis is the deep threat.\n\n\"We move the chains, we keep your Burch on the bench, and your fans eat their raffle prizes cold,\" Brynn says. \"Also, we won 38-19 last year. In Mount Pleasant. I made s'mores.\"\n\n\"In your building,\" Kendra says. \"Over the last four meetings, both teams won both of their home games. This is our building now. It even has a new name.\"\n\nIt does. The old UB Stadium is Broadview Stadium now, and Kendra has been practicing the new name in the mirror. Central Michigan leads the all-time series 9-4, which Brynn mentions twice and then a third time for good measure.\n\nHere's how Wednesday goes. Central comes out running, and Flores breaks one around the outside to give the Chippewas an early lead and Brynn a reason to rev her imaginary snowmobile. Buffalo answers the way it always does, with Burch between the tackles, carry after carry, until the Central defense starts to sag. Morrow catches a touchdown in the end zone, naturally, and Hautanen adds a long field goal. Central keeps it close into the fourth quarter, Glasser hits Lewis to make the last few minutes tense, and Burch runs out the clock on a night that ends with six in a row and a lot of Buffalo freezers a little fuller.\n\nKendra celebrates in shorts, arms up, steam rising. Brynn crawls into the little tent she set up by the parking lot, zips it shut, and tells everybody she's at deer camp until Saturday.\n\nMy call: Buffalo Bulls 24, Central Michigan Chippewas 20.",
     "market": {
      "score_line": "",
-     "spread": "Buffalo Bulls −1.5",
+     "spread": "Buffalo Bulls −2.5",
      "total": "45.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 17, 2026, 10:46 PM ET",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 18, 2026, 9:20 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "Central Michigan Chippewas vs Buffalo Bulls: Meat Raffle Night",
-    "gambler_headline": "Central Michigan vs Buffalo Pick: Bulls −1.5, Under 45.5"
+    "gambler_headline": "Central Michigan vs Buffalo Pick: Bulls −2.5, Under 45.5"
    },
-   "gambler_story": "Somebody at Broadview Stadium is going home Wednesday with a freezer full of ribeyes, because Buffalo's MACtion Meat Raffle is back for the home finale. The Central Michigan vs Buffalo spread is short, and I'll take the Bulls at Buffalo Bulls −1.5 with the Under 45.5, kickoff 7:30 PM ET.\n\nKendra Woolcott is wearing shorts. It is November in Western New York. \"Hundreds of pounds of meat, Brynn. Roasts. Steaks. And Messiah Burch running through your defense like he's late for the drawing.\"\n\nBrynn Haverkamp zips her parka all the way up. \"Ope, you're going to freeze. We beat you 38-19 last year, and I brought a thermos.\"\n\nThat's the honest starting point. Buffalo is 7-3, 5-1 in the MAC and first in the conference, but its points for and against are almost even at 24.3 and 24.1 a game, and a lot of its wins were tight. Two of the last four came in overtime. Central Michigan is 5-5, has won two in a row, 35-7 and 28-7, and allows 22.1 a game. A point and a half is a fair fight.\n\nI side with Buffalo because of what it does when the offense gets going. The Bulls haven't lost a game this season when they score 21 or more, and they're 7-0 in those games. Burch is the reason they get there. He has 1,110 rushing yards, and he ran 31 times for 209 yards and 2 touchdowns at Ball State last week. Chance Morrow has 9 touchdown catches, and Jason Wright has 10 touchdown throws. Central Michigan has split quarterback duties between Jadyn Glasser and Angel Flores, with Flores also the team's leading rusher at 618 yards. That's a run-first offense, and Buffalo just ran for more than three hundred yards of its own at Ball State.\n\nThe last five meetings all went past 43.5 combined points, the closest by six and a half, and over the last four meetings each team won both of its home games. DraftKings opened Buffalo Bulls −1.5 with a 43.5 total. As of 10:46 PM ET Tuesday, the side is Buffalo Bulls −1.5 and the total is 45.5.\n\nThe room agrees on Buffalo and argues about the total. The Formula has Buffalo 25-22, takes Buffalo Bulls −1.5 and goes Over 45.5. Next Man Up has 23-20 with Buffalo and likes the Under 45.5. Letdown Watch has 25-19, likes Buffalo and goes Under 45.5. In The Trenches has no score this week and calls the fronts even, with no side and no over/under. Follow The Money has no side pick and no total pick.\n\nNext Man Up: \"Forty-three points, two and a half under, and I'll be warm inside while you stand in the raffle line.\"\n\nThe Formula: \"You have Buffalo by three, Next Man Up. That's a field goal and a pot roast. Enjoy the heated seat.\"\n\nMy final is Buffalo Bulls 24, Central Michigan Chippewas 20. A four-point win clears the number by two and a half points, and 44 points stays a point and a half under the total. Kendra spends the third quarter checking raffle numbers in shorts. Brynn retreats to a heated tent somewhere near the parking lot.\n\nBuffalo Bulls 24, Central Michigan Chippewas 20. Buffalo Bulls cover the 1.5. Under 45.5.",
+   "gambler_story": "Somebody at Broadview Stadium is going home Wednesday with a freezer full of ribeyes, because Buffalo's MACtion Meat Raffle is back for the home finale. The Central Michigan vs Buffalo spread is short, and I'll take the Bulls at Buffalo Bulls −2.5 with the Under 45.5, kickoff 7:30 PM ET.\n\nKendra Woolcott is wearing shorts. It is November in Western New York. \"Hundreds of pounds of meat, Brynn. Roasts. Steaks. And Messiah Burch running through your defense like he's late for the drawing.\"\n\nBrynn Haverkamp zips her parka all the way up. \"Ope, you're going to freeze. We beat you 38-19 last year, and I brought a thermos.\"\n\nThat's the honest starting point. Buffalo is 7-3, 5-1 in the MAC and first in the conference, but its points for and against are almost even at 24.3 and 24.1 a game, and a lot of its wins were tight. Two of the last four came in overtime. Central Michigan is 5-5, has won two in a row, 35-7 and 28-7, and allows 22.1 a game. Two and a half points is a fair fight.\n\nI side with Buffalo because of what it does when the offense gets going. The Bulls haven't lost a game this season when they score 21 or more, and they're 7-0 in those games. Burch is the reason they get there. He has 1,110 rushing yards, and he ran 31 times for 209 yards and 2 touchdowns at Ball State last week. Chance Morrow has 9 touchdown catches, and Jason Wright has 10 touchdown throws. Central Michigan has split quarterback duties between Jadyn Glasser and Angel Flores, with Flores also the team's leading rusher at 618 yards. That's a run-first offense, and Buffalo just ran for more than three hundred yards of its own at Ball State.\n\nThe last five meetings all went past 43.5 combined points, the closest by six and a half, and over the last four meetings each team won both of its home games. DraftKings opened Buffalo Bulls −1.5 with a 43.5 total. As of 9:20 AM ET Wednesday, the side is Buffalo Bulls −2.5 and the total is 45.5.\n\nThe room agrees on Buffalo and argues about the total. The Formula has Buffalo 25-22, takes Buffalo Bulls −2.5 and goes Over 45.5. Next Man Up has 23-20 with Buffalo and likes the Under 45.5. Letdown Watch has 25-19, likes Buffalo and goes Under 45.5. In The Trenches has no score this week and calls the fronts even, with no side and no over/under. Follow The Money takes Buffalo Bulls −2.5 and has no total pick.\n\nNext Man Up: \"Forty-three points, two and a half under, and I'll be warm inside while you stand in the raffle line.\"\n\nThe Formula: \"You have Buffalo by three, Next Man Up. That's a field goal and a pot roast. Enjoy the heated seat.\"\n\nMy final is Buffalo Bulls 24, Central Michigan Chippewas 20. A four-point win clears the number by a point and a half, and 44 points stays a point and a half under the total. Kendra spends the third quarter checking raffle numbers in shorts. Brynn retreats to a heated tent somewhere near the parking lot.\n\nBuffalo Bulls 24, Central Michigan Chippewas 20. Buffalo Bulls cover the 2.5. Under 45.5.",
    "key_players": [
     {
      "team": "Central Michigan Chippewas",
