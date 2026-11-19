@@ -1,0 +1,447 @@
+{
+  "schema": 1,
+  "date": "2026-11-18",
+  "theme": "mmqb",
+  "theme_label": "Monday Morning Quarterback",
+  "published_at": "2026-10-26T11:53:04Z",
+  "count": 4,
+  "lead_id": "fanatic_team-central-michigan-2026-11-18",
+  "articles": [
+    {
+      "id": "fanatic_team-central-michigan-2026-11-18",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "central-michigan",
+      "team_ids": [
+        "central-michigan"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866469",
+      "title": "Central Michigan vs Buffalo: Glasser Throws Three, and It All Comes Down to Muncie, 40-21",
+      "byline": "Brynn Haverkamp, The Central Michigan Fanatic",
+      "matchup": "Final: Buffalo Bulls (8-3) 40, Central Michigan Chippewas (5-6) 21, Wed., Nov. 18, Broadview Stadium, Buffalo. Next: at Ball State, Sat., Nov. 28, 12:00 PM ET, Scheumann Stadium, Muncie",
+      "date": "2026-11-18",
+      "word_count": 350,
+      "text": "Buffalo 40, Central Michigan 21, and I've had plenty of time to stew since the final whistle Wednesday night at Broadview Stadium. The Chippewas are 5-6, 3-4 in the MAC, and it comes down to one game: win at Ball State on Nov. 28, and we're bowl eligible.\n\nThe first drive went exactly how I'd hoped. Our guys went 11 plays and 75 yards, and Jadyn Glasser found Braylen Naves for a 32-yard touchdown. 7-0. Then came the turnovers: an interception on the first play of one drive and a fumble on the first play of the next, and Buffalo turned them into 10 points.\n\nThen Declan Duley did what no Chippewa had ever done. He boomed an 86-yard punt that was downed at the Buffalo 1, a school record. We forced a three-and-out, got the ball back at the Buffalo 45, and Glasser hit Myles Peters from 5 yards out with 39 seconds left in the half. 14-13, Chippewas!\n\nAnd then 35 seconds of heartbreak. Buffalo hit a 49-yard throw, and Chance Morrow made a 17-yard touchdown catch with four seconds left. 20-14 at the half.\n\nWe didn't fold. Buffalo went up 26-14 early in the third after its two-point try failed, and our guys put together a 12-play, 75-yard march that chewed up 6:51. Glasser found Brock Townsend from 2 yards out with 3:55 left in the third. 26-21. Then Messiah Burch ran 75 yards on Buffalo's next snap, and Terrance Shelton Jr. scored from 2 yards out early in the fourth. 40-21.\n\nGlasser threw a career-high three touchdowns, going 10 of 19 for 101 yards. Jayden Clerveaux ran for 70 yards on 15 carries, Nick Woodford added 57, and Mayson Hitchens led the defense with seven tackles. Coach Matt Drinkall put it plainly: \"Very good team. They made plays and we made too many mistakes.\" Three turnovers against a team like that is too many, and everybody in maroon and gold knows it.\n\nNext up: at Ball State, Saturday, Nov. 28, at 12:00 PM ET, Scheumann Stadium in Muncie. One win for a bowl. Fire Up Chips!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Buffalo 40, Central Michigan 21, and I've had plenty of time to stew since the final whistle Wednesday night at Broadview Stadium. The Chippewas are 5-6, 3-4 in the MAC, and it comes down to one game: win at Ball State on Nov. 28, and we're bowl eligible."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first drive went exactly how I'd hoped. Our guys went 11 plays and 75 yards, and Jadyn Glasser found Braylen Naves for a 32-yard touchdown. 7-0. Then came the turnovers: an interception on the first play of one drive and a fumble on the first play of the next, and Buffalo turned them into 10 points."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Declan Duley did what no Chippewa had ever done. He boomed an 86-yard punt that was downed at the Buffalo 1, a school record. We forced a three-and-out, got the ball back at the Buffalo 45, and Glasser hit Myles Peters from 5 yards out with 39 seconds left in the half. 14-13, Chippewas!"
+        },
+        {
+          "type": "paragraph",
+          "text": "And then 35 seconds of heartbreak. Buffalo hit a 49-yard throw, and Chance Morrow made a 17-yard touchdown catch with four seconds left. 20-14 at the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "We didn't fold. Buffalo went up 26-14 early in the third after its two-point try failed, and our guys put together a 12-play, 75-yard march that chewed up 6:51. Glasser found Brock Townsend from 2 yards out with 3:55 left in the third. 26-21. Then Messiah Burch ran 75 yards on Buffalo's next snap, and Terrance Shelton Jr. scored from 2 yards out early in the fourth. 40-21."
+        },
+        {
+          "type": "paragraph",
+          "text": "Glasser threw a career-high three touchdowns, going 10 of 19 for 101 yards. Jayden Clerveaux ran for 70 yards on 15 carries, Nick Woodford added 57, and Mayson Hitchens led the defense with seven tackles. Coach Matt Drinkall put it plainly: \"Very good team. They made plays and we made too many mistakes.\" Three turnovers against a team like that is too many, and everybody in maroon and gold knows it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: at Ball State, Saturday, Nov. 28, at 12:00 PM ET, Scheumann Stadium in Muncie. One win for a bowl. Fire Up Chips!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Central Michigan lost 40-21 at Buffalo on Wednesday, Nov. 18, at Broadview Stadium. The Chippewas are 5-6, 3-4 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Jadyn Glasser threw a career-high three touchdowns, and Declan Duley's 86-yard punt set a school record."
+        },
+        {
+          "type": "fact",
+          "text": "Central led 14-13 late in the second quarter before Buffalo scored with four seconds left in the half."
+        },
+        {
+          "type": "jab",
+          "text": "Buffalo needed a falling catch in the final seconds of the half to get ahead for good."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Ball State, Saturday, Nov. 28, 12:00 PM ET, Scheumann Stadium, Muncie. A win makes Central Michigan bowl eligible."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Buffalo 40, Central Michigan 21 (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866469"
+        },
+        {
+          "label": "ESPN play-by-play, Central Michigan at Buffalo (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866469"
+        },
+        {
+          "label": "ESPN game page, Central Michigan at Buffalo (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866469"
+        },
+        {
+          "label": "ESPN Central Michigan Chippewas 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2117"
+        },
+        {
+          "label": "ESPN game recap (AP): Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 vs. Central Michigan (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401866469"
+        },
+        {
+          "label": "Central Michigan Athletics: Chippewas Fall at Buffalo, Look to Regular-Season Finale for Bowl Eligibility (Nov. 18, 2026)",
+          "url": "https://cmuchippewas.com/news/2026/11/18/football-chippewas-fall-at-buffalo-look-to-regular-season-finale-for-bowl-eligibility"
+        },
+        {
+          "label": "Central Michigan Athletics: Football vs Buffalo box score (Nov. 18, 2026)",
+          "url": "https://cmuchippewas.com/sports/football/stats/2026/buffalo/boxscore/11278"
+        },
+        {
+          "label": "Buffalo Athletics: Bulls Host Central Michigan in Home Finale on Wednesday (Nov. 13, 2026)",
+          "url": "https://ubbulls.com/news/2026/11/13/football-bulls-host-central-michigan-in-home-finale-on-wednesday"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-buffalo-2026-11-18",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "buffalo",
+      "team_ids": [
+        "buffalo"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866469",
+      "title": "Buffalo vs Central Michigan: Burch Hits 200 Again as the Bulls Win Six Straight, 40-21",
+      "byline": "Kendra Woolcott, The Buffalo Fanatic",
+      "matchup": "Final: Buffalo Bulls (8-3) 40, Central Michigan Chippewas (5-6) 21, Wed., Nov. 18, Broadview Stadium, Buffalo. Next: at Akron, Fri., Nov. 27, 12:00 PM ET, InfoCision Stadium, Akron",
+      "date": "2026-11-18",
+      "word_count": 392,
+      "text": "Buffalo 40, Central Michigan 21, and that's six straight. Wednesday was the home finale at Broadview Stadium, and the Bulls sent everybody home happy. We're 8-3, 6-1 in the MAC, sharing first place, and this is our longest winning streak since the seven-game run in 2013. We finished 5-1 at home, too, matching the best home record since the Bulls joined the FBS.\n\nMessiah Burch, again. He ran for exactly 200 yards and two touchdowns, the second straight game he has hit 200 and scored twice. That gives him 1,310 yards this season, and I'd like the rest of the MAC to know he isn't tired.\n\nIt began a little shaky. Central drove 75 yards on its first possession, and Jadyn Glasser hit Braylen Naves for a 32-yard touchdown. 7-0. Oliver Hautanen got us on the board from 27. Then Ronnell Davis went to work. He intercepted Glasser on the very next snap, and Hautanen kicked a 26-yarder. On Central's next play, Davis forced a fumble, SaVeon Brown fell on it at the CMU 26, and Burch scored from 10 yards out. 13-7.\n\nCentral went ahead 14-13 on a 5-yard Myles Peters catch with 39 seconds left in the half. Jason Wright needed 29 seconds to fix that. He hit Jaylen Andrews for 49 yards, and after two incompletions, Chance Morrow made a falling catch in the end zone from 17 yards out with four seconds left. 20-14. That was Morrow's 10th touchdown catch of the season.\n\nWright opened the third by running in from the 1 to finish a 75-yard drive. The two-point try failed, 26-14. Central answered with a 12-play drive and a 2-yard Brock Townsend catch, 26-21, and my stomach dropped. For one snap. Burch went straight up the middle for 75 yards on the very next play. 33-21. Terrance Shelton Jr. added a 2-yard run early in the fourth, 40-21.\n\nDavis finished with 11 tackles to go with that interception and forced fumble, and Miles Greer also made 11 tackles and came up with an interception of his own. Shelton ran for 81 yards. As a team we ran for 283 yards, piled up 435 yards of offense, and didn't give the ball away once.\n\nNext up: at Akron, Friday, Nov. 27, at 12:00 PM ET, InfoCision Stadium. Seven in a row sounds good to me. Go Bulls!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Buffalo 40, Central Michigan 21, and that's six straight. Wednesday was the home finale at Broadview Stadium, and the Bulls sent everybody home happy. We're 8-3, 6-1 in the MAC, sharing first place, and this is our longest winning streak since the seven-game run in 2013. We finished 5-1 at home, too, matching the best home record since the Bulls joined the FBS."
+        },
+        {
+          "type": "paragraph",
+          "text": "Messiah Burch, again. He ran for exactly 200 yards and two touchdowns, the second straight game he has hit 200 and scored twice. That gives him 1,310 yards this season, and I'd like the rest of the MAC to know he isn't tired."
+        },
+        {
+          "type": "paragraph",
+          "text": "It began a little shaky. Central drove 75 yards on its first possession, and Jadyn Glasser hit Braylen Naves for a 32-yard touchdown. 7-0. Oliver Hautanen got us on the board from 27. Then Ronnell Davis went to work. He intercepted Glasser on the very next snap, and Hautanen kicked a 26-yarder. On Central's next play, Davis forced a fumble, SaVeon Brown fell on it at the CMU 26, and Burch scored from 10 yards out. 13-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "Central went ahead 14-13 on a 5-yard Myles Peters catch with 39 seconds left in the half. Jason Wright needed 29 seconds to fix that. He hit Jaylen Andrews for 49 yards, and after two incompletions, Chance Morrow made a falling catch in the end zone from 17 yards out with four seconds left. 20-14. That was Morrow's 10th touchdown catch of the season."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wright opened the third by running in from the 1 to finish a 75-yard drive. The two-point try failed, 26-14. Central answered with a 12-play drive and a 2-yard Brock Townsend catch, 26-21, and my stomach dropped. For one snap. Burch went straight up the middle for 75 yards on the very next play. 33-21. Terrance Shelton Jr. added a 2-yard run early in the fourth, 40-21."
+        },
+        {
+          "type": "paragraph",
+          "text": "Davis finished with 11 tackles to go with that interception and forced fumble, and Miles Greer also made 11 tackles and came up with an interception of his own. Shelton ran for 81 yards. As a team we ran for 283 yards, piled up 435 yards of offense, and didn't give the ball away once."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: at Akron, Friday, Nov. 27, at 12:00 PM ET, InfoCision Stadium. Seven in a row sounds good to me. Go Bulls!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Buffalo beat Central Michigan 40-21 on Wednesday, Nov. 18, at Broadview Stadium for its sixth straight win. The Bulls are 8-3, 6-1 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Messiah Burch ran for exactly 200 yards and two touchdowns, including a 75-yard score, for the second straight game."
+        },
+        {
+          "type": "fact",
+          "text": "Ronnell Davis intercepted one throw and forced a fumble, and Buffalo ran for 283 yards with no turnovers."
+        },
+        {
+          "type": "jab",
+          "text": "Central held the lead for 35 seconds before halftime. Jason Wright and Chance Morrow took it right back."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Akron, Friday, Nov. 27, 12:00 PM ET, InfoCision Stadium, Akron."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Buffalo 40, Central Michigan 21 (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866469"
+        },
+        {
+          "label": "ESPN play-by-play, Central Michigan at Buffalo (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866469"
+        },
+        {
+          "label": "ESPN game page, Central Michigan at Buffalo (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866469"
+        },
+        {
+          "label": "ESPN Buffalo Bulls 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2084"
+        },
+        {
+          "label": "ESPN game recap (AP): Burch hits 200 yards again and Buffalo wins 6th straight, 40-21 vs. Central Michigan (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401866469"
+        },
+        {
+          "label": "Buffalo Athletics: Bulls Host Central Michigan in Home Finale on Wednesday (Nov. 13, 2026)",
+          "url": "https://ubbulls.com/news/2026/11/13/football-bulls-host-central-michigan-in-home-finale-on-wednesday"
+        },
+        {
+          "label": "Central Michigan Athletics: Chippewas Fall at Buffalo, Look to Regular-Season Finale for Bowl Eligibility (Nov. 18, 2026)",
+          "url": "https://cmuchippewas.com/news/2026/11/18/football-chippewas-fall-at-buffalo-look-to-regular-season-finale-for-bowl-eligibility"
+        },
+        {
+          "label": "Central Michigan Athletics: Football vs Buffalo box score (Nov. 18, 2026)",
+          "url": "https://cmuchippewas.com/sports/football/stats/2026/buffalo/boxscore/11278"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-massachusetts-2026-11-18",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "massachusetts",
+      "team_ids": [
+        "massachusetts"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866467",
+      "title": "UMass vs Akron: A 26-7 Lead Slips Away on Senior Night, 34-33",
+      "byline": "Abner Kettleworth, The Massachusetts Fanatic",
+      "matchup": "Final: Akron Zips (2-9) 34, Massachusetts Minutemen (5-6) 33, Wed., Nov. 18, Warren McGuirk Alumni Stadium, Amherst. Next: at Bowling Green, Sat., Nov. 28, 3:30 PM ET, Doyt L. Perry Stadium, Bowling Green",
+      "date": "2026-11-18",
+      "word_count": 361,
+      "text": "Akron 34, Massachusetts 33, and I'm still in my seat at McGuirk Alumni Stadium trying to figure out how. It was Senior Night and Fan Appreciation in Amherst on Wednesday, we led 26-7 in the second quarter, and we didn't lead at the end. The Minutemen are 5-6, 2-5 in the MAC.\n\nThe first half went exactly the way I wanted. Elijah Faulkner went 52 yards for a touchdown on our opening drive. Isaiah Reed intercepted Cibastian Broughton, and Derek Morris drilled a 49-yard field goal. Akron answered with a 73-yard Jordan Gant run, but Logan Inagawa hit Matt Ogunniyi from 3 yards out, and it was 17-7 after one quarter.\n\nReed got his second interception and returned it 68 yards to the Akron 2. We came away with a 23-yard Morris field goal from there, and that still bugs me. Max Dowling caught a 2-yard touchdown, the two-point try failed, and it was 26-7.\n\nAkron chipped back. Miles Burris caught a 36-yard touchdown, an interception set up a field goal, and Morris missed from 50 right before the break. 26-17.\n\nThen the second-half kickoff. Brandon Hills took it 100 yards, and it was 26-24 just like that. Our guys answered with a 13-play, 75-yard drive, and Inagawa found Dowling from 11 yards for 33-24. Akron came back with Gant from the 1 to make it 33-31, then went 13 plays for a 28-yard Aidan Stire field goal with 5:34 left. 34-33.\n\nWe had our chances. Our last real drive went 11 plays to the Akron 46, and on fourth down with 58 seconds left, the throw to Dowling fell incomplete. A final series from our own 17 ended with a sack.\n\nThere's plenty to be proud of. Faulkner ran for 105 yards on 13 carries. Inagawa threw three touchdowns and ran for 64 yards. Reed's two interceptions for 68 return yards deserve a plaque, and Tyler Martin had seven tackles and a sack. We ran for 269 yards and held the ball for 35:57.\n\nTo the seniors: thank you. One more Saturday. Next up: at Bowling Green, Saturday, Nov. 28, at 3:30 PM ET, Doyt L. Perry Stadium. Go Minutemen!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Akron 34, Massachusetts 33, and I'm still in my seat at McGuirk Alumni Stadium trying to figure out how. It was Senior Night and Fan Appreciation in Amherst on Wednesday, we led 26-7 in the second quarter, and we didn't lead at the end. The Minutemen are 5-6, 2-5 in the MAC."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half went exactly the way I wanted. Elijah Faulkner went 52 yards for a touchdown on our opening drive. Isaiah Reed intercepted Cibastian Broughton, and Derek Morris drilled a 49-yard field goal. Akron answered with a 73-yard Jordan Gant run, but Logan Inagawa hit Matt Ogunniyi from 3 yards out, and it was 17-7 after one quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reed got his second interception and returned it 68 yards to the Akron 2. We came away with a 23-yard Morris field goal from there, and that still bugs me. Max Dowling caught a 2-yard touchdown, the two-point try failed, and it was 26-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akron chipped back. Miles Burris caught a 36-yard touchdown, an interception set up a field goal, and Morris missed from 50 right before the break. 26-17."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the second-half kickoff. Brandon Hills took it 100 yards, and it was 26-24 just like that. Our guys answered with a 13-play, 75-yard drive, and Inagawa found Dowling from 11 yards for 33-24. Akron came back with Gant from the 1 to make it 33-31, then went 13 plays for a 28-yard Aidan Stire field goal with 5:34 left. 34-33."
+        },
+        {
+          "type": "paragraph",
+          "text": "We had our chances. Our last real drive went 11 plays to the Akron 46, and on fourth down with 58 seconds left, the throw to Dowling fell incomplete. A final series from our own 17 ended with a sack."
+        },
+        {
+          "type": "paragraph",
+          "text": "There's plenty to be proud of. Faulkner ran for 105 yards on 13 carries. Inagawa threw three touchdowns and ran for 64 yards. Reed's two interceptions for 68 return yards deserve a plaque, and Tyler Martin had seven tackles and a sack. We ran for 269 yards and held the ball for 35:57."
+        },
+        {
+          "type": "paragraph",
+          "text": "To the seniors: thank you. One more Saturday. Next up: at Bowling Green, Saturday, Nov. 28, at 3:30 PM ET, Doyt L. Perry Stadium. Go Minutemen!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Massachusetts lost 34-33 to Akron on Senior Night, Wednesday, Nov. 18, at McGuirk Alumni Stadium after leading 26-7 in the second quarter. The Minutemen are 5-6, 2-5 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Isaiah Reed intercepted two throws and returned them 68 yards, and Logan Inagawa threw three touchdowns, two to Max Dowling."
+        },
+        {
+          "type": "fact",
+          "text": "Elijah Faulkner ran for 105 yards and a 52-yard touchdown, and UMass ran for 269 yards as a team."
+        },
+        {
+          "type": "jab",
+          "text": "Akron needed a 100-yard kickoff return just to get back in it."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Bowling Green, Saturday, Nov. 28, 3:30 PM ET, Doyt L. Perry Stadium, Bowling Green."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Akron 34, Massachusetts 33 (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866467"
+        },
+        {
+          "label": "ESPN play-by-play, Akron at Massachusetts (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866467"
+        },
+        {
+          "label": "ESPN game page, Akron at Massachusetts (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866467"
+        },
+        {
+          "label": "ESPN Massachusetts Minutemen 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/113"
+        },
+        {
+          "label": "ESPN game recap, Akron 34, Massachusetts 33 (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401866467"
+        },
+        {
+          "label": "UMass Athletics: Massachusetts Football Hosts Akron On Wednesday For Senior Night (Nov. 15, 2026)",
+          "url": "https://umassathletics.com/news/2026/11/15/massachusetts-football-hosts-akron-on-wednesday-for-senior-night"
+        },
+        {
+          "label": "Akron Athletics: Akron Rallies Past UMass, 34-33, to Snap Eight-Game Skid (Nov. 18, 2026)",
+          "url": "https://gozips.com/news/2026/11/18/football-akron-rallies-past-umass-34-33-to-snap-eight-game-skid"
+        },
+        {
+          "label": "CBS Sports game recap, Akron at UMass (Nov. 18, 2026)",
+          "url": "https://www.cbssports.com/college-football/gametracker/recap/NCAAF_20261118_AKRON@UMASS/"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-akron-2026-11-18",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "akron",
+      "team_ids": [
+        "akron"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866467",
+      "title": "Akron vs Massachusetts: Hills' 100-Yard Return and Stire's Kick Snap the Skid, 34-33",
+      "byline": "Hollister 'Zip' Grubbs, The Akron Fanatic",
+      "matchup": "Final: Akron Zips (2-9) 34, Massachusetts Minutemen (5-6) 33, Wed., Nov. 18, Warren McGuirk Alumni Stadium, Amherst. Next: vs Buffalo, Fri., Nov. 27, 12:00 PM ET, InfoCision Stadium, Akron",
+      "date": "2026-11-18",
+      "word_count": 408,
+      "text": "Akron 34, Massachusetts 33, and the eight-game skid is dead. Wednesday night at McGuirk Alumni Stadium, the Zips trailed 26-7 in the second quarter, didn't lead until the final six minutes, and still came home with the win. We're 2-9, 1-6 in the MAC, and it's our first victory since September. I yelled myself hoarse in Amherst and regret not one second of it.\n\nThe first half was rough. UMass scored on a 52-yard Elijah Faulkner run on its first drive, and Isaiah Reed intercepted Cibastian Broughton twice. The second one came back 68 yards to our 2. The best moment of the half? Our defense pushed them backward from the 2, and they had to take a field goal. A short touchdown catch and a failed two-point try later, it was 26-7.\n\nJordan Gant had already given us a spark with a 73-yard touchdown run in the first quarter, the longest of his career. Before the break, Broughton hit Miles Burris for a 36-yard touchdown, Dahvon Frazier intercepted Logan Inagawa, and Aidan Stire knocked through a 23-yard field goal. UMass missed from 50, and it was 26-17 at the half.\n\nThen Brandon Hills took the second-half kickoff 100 yards. Thirteen seconds into the third quarter, it was 26-24. That's the fourth 100-yard kickoff return in program history and the first since 2003. UMass answered with an 11-yard Max Dowling catch for 33-24, and we answered right back with a 10-play, 72-yard drive. Gant finished it from the 1 with 2:15 left in the third. 33-31.\n\nThe winning drive went 13 plays and 73 yards and ate 7:49 of clock. Kyan Mason made a 41-yard catch to get us to the UMass 19, and Stire hit a 28-yard field goal with 5:34 left. 34-33, our first lead of the night.\n\nThen the defense finished it. UMass reached our 46, and on fourth down with 58 seconds left, Mehki Flowers and the rush hurried Inagawa into an incompletion. The last UMass series, from its own 17, ended with Frazier in on a sack.\n\nGant finished with 151 yards on 21 carries and two touchdowns. Hills piled up 157 yards on three kick returns. Flowers and Donelius Johnson made 12 tackles apiece, and Stire went 2 for 2 on field goals.\n\nNext up: Buffalo comes to InfoCision Stadium on Friday, Nov. 27, at 12:00 PM ET, and we send off the seniors. Bring the blue and gold, Akron. Go Zips!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Akron 34, Massachusetts 33, and the eight-game skid is dead. Wednesday night at McGuirk Alumni Stadium, the Zips trailed 26-7 in the second quarter, didn't lead until the final six minutes, and still came home with the win. We're 2-9, 1-6 in the MAC, and it's our first victory since September. I yelled myself hoarse in Amherst and regret not one second of it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half was rough. UMass scored on a 52-yard Elijah Faulkner run on its first drive, and Isaiah Reed intercepted Cibastian Broughton twice. The second one came back 68 yards to our 2. The best moment of the half? Our defense pushed them backward from the 2, and they had to take a field goal. A short touchdown catch and a failed two-point try later, it was 26-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jordan Gant had already given us a spark with a 73-yard touchdown run in the first quarter, the longest of his career. Before the break, Broughton hit Miles Burris for a 36-yard touchdown, Dahvon Frazier intercepted Logan Inagawa, and Aidan Stire knocked through a 23-yard field goal. UMass missed from 50, and it was 26-17 at the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Brandon Hills took the second-half kickoff 100 yards. Thirteen seconds into the third quarter, it was 26-24. That's the fourth 100-yard kickoff return in program history and the first since 2003. UMass answered with an 11-yard Max Dowling catch for 33-24, and we answered right back with a 10-play, 72-yard drive. Gant finished it from the 1 with 2:15 left in the third. 33-31."
+        },
+        {
+          "type": "paragraph",
+          "text": "The winning drive went 13 plays and 73 yards and ate 7:49 of clock. Kyan Mason made a 41-yard catch to get us to the UMass 19, and Stire hit a 28-yard field goal with 5:34 left. 34-33, our first lead of the night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the defense finished it. UMass reached our 46, and on fourth down with 58 seconds left, Mehki Flowers and the rush hurried Inagawa into an incompletion. The last UMass series, from its own 17, ended with Frazier in on a sack."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gant finished with 151 yards on 21 carries and two touchdowns. Hills piled up 157 yards on three kick returns. Flowers and Donelius Johnson made 12 tackles apiece, and Stire went 2 for 2 on field goals."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: Buffalo comes to InfoCision Stadium on Friday, Nov. 27, at 12:00 PM ET, and we send off the seniors. Bring the blue and gold, Akron. Go Zips!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Akron beat Massachusetts 34-33 on Wednesday, Nov. 18, at McGuirk Alumni Stadium to end an eight-game skid. The Zips are 2-9, 1-6 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Brandon Hills returned the second-half kickoff 100 yards for a touchdown, the fourth 100-yard kickoff return in Akron history."
+        },
+        {
+          "type": "fact",
+          "text": "Jordan Gant ran for 151 yards and two touchdowns, and Aidan Stire's 28-yard field goal with 5:34 left gave Akron its first lead."
+        },
+        {
+          "type": "jab",
+          "text": "UMass got the ball at the Akron 2 and walked away with three points. We'll take it."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Buffalo, Friday, Nov. 27, 12:00 PM ET, InfoCision Stadium, Akron."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Akron 34, Massachusetts 33 (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866467"
+        },
+        {
+          "label": "ESPN play-by-play, Akron at Massachusetts (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866467"
+        },
+        {
+          "label": "ESPN game page, Akron at Massachusetts (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866467"
+        },
+        {
+          "label": "ESPN Akron Zips 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2006"
+        },
+        {
+          "label": "ESPN game recap, Akron 34, Massachusetts 33 (Nov. 18, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401866467"
+        },
+        {
+          "label": "Akron Athletics: Akron Rallies Past UMass, 34-33, to Snap Eight-Game Skid (Nov. 18, 2026)",
+          "url": "https://gozips.com/news/2026/11/18/football-akron-rallies-past-umass-34-33-to-snap-eight-game-skid"
+        },
+        {
+          "label": "Akron Athletics: Football At UMass For Wednesday MACTion (Nov. 18, 2026)",
+          "url": "https://gozips.com/news/2026/11/18/football-at-umass-for-wednesday-maction"
+        },
+        {
+          "label": "CBS Sports game recap, Akron at UMass (Nov. 18, 2026)",
+          "url": "https://www.cbssports.com/college-football/gametracker/recap/NCAAF_20261118_AKRON@UMASS/"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    }
+  ]
+}
