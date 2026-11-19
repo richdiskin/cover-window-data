@@ -82,10 +82,10 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-17T14:53:58Z",
+    "fetched_at_utc": "2026-11-19T10:59:43Z",
     "action_network_game_id": 290983,
     "home_line": -12.5,
-    "total": 44.5,
+    "total": 43.5,
     "open_home_line": -5.5,
     "open_total": 45.5,
     "spread_display": "Houston Texans −12.5",
@@ -99,18 +99,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261119",
    "spread": "Indianapolis Colts +12.5",
-   "story_text": "Texans 26, Colts 20. Colts cover the 12.5. Over 44.5. The Formula projects Houston by 7.9 against a 12.5-point line.",
+   "story_text": "Texans 26, Colts 20. Colts cover the 12.5. Over 43.5. The Formula projects Houston by 7.9 against a 12.5-point line.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
    "line_used": {
     "home_line": -12.5,
-    "total": 44.5,
-    "source": "Consensus line as of Nov 17, 9:53 AM ET",
-    "as_of_utc": "2026-11-17T14:53:58Z"
+    "total": 43.5,
+    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 19, 5:59 AM ET",
+    "as_of_utc": "2026-11-19T10:59:43Z"
    },
-   "total_line": 44.5,
+   "total_line": 43.5,
    "prediction": {
     "away_score": 20,
     "home_score": 26,
@@ -138,7 +138,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Houston Texans −11.5 (Nov 17, 3:32 AM ET) and is Houston Texans −12.5 now (Nov 17, 9:53 AM ET), a 1-point move. Total opened 44.5 (Nov 17, 2:48 AM ET) and is 44.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Consensus spread opened Houston Texans −11.5 (Nov 17, 3:32 AM ET) and is −12.5 now, a 1-point move. The side pick quotes the consensus spread now (Houston Texans −12.5). Consensus total opened 44.5 (Nov 17, 2:48 AM ET) and is 43.5 now, a 1-point move: Under. The total pick quotes the consensus total now (43.5). Lines are the Action Network consensus as of Nov 19, 5:59 AM ET; the open is the first consensus line posted at or after Nov 17, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -155,7 +155,7 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 17, 9:53 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 17, 9:53 AM ET.",
+    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 19, 5:59 AM ET; Follow The Money uses the Action Network consensus line history.",
     "The Formula ratings: nflverse play-by-play as of Nov 17, 9:54 AM ET, Weeks 1–10 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–10 finals.",
     "Injuries: NFL.com official Week 11 injury report not out yet (checked Nov 17, 9:54 AM ET); Next Man Up uses each team’s last starter.",
@@ -171,82 +171,82 @@
     "label": "",
     "source": "Cover Writer",
     "projected_total": 46,
-    "market_total": 44.5,
+    "market_total": 43.5,
     "pick": "Over",
-    "text": "Over 44.5"
+    "text": "Over 43.5"
    },
    "display": {
     "writer": {
      "score_line": "Projected: Houston Texans 26, Indianapolis Colts 20 (Total 46)",
      "side": "Indianapolis Colts +12.5",
-     "ou": "Over 44.5",
+     "ou": "Over 43.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
       "side_line": "Side: Indianapolis Colts +12.5 · Likes this side",
-      "ou_line": "O/U: Over 44.5 · Likes this total",
+      "ou_line": "O/U: Over 43.5 · Likes this total",
       "score_line": "Projected: Houston Texans 28, Indianapolis Colts 21 (Total 49)",
       "basis_line": "Net ratings Houston Texans −2.5, Indianapolis Colts −8.7 (nflverse play-by-play, Nov 17, 2026)",
       "independent": true,
       "distance_from_spread": 5.5,
-      "distance_from_total": 4.5
+      "distance_from_total": 5.5
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: Indianapolis Colts +12.5 · Likes this side",
-      "ou_line": "O/U: Over 44.5 · Likes this total",
+      "ou_line": "O/U: Over 43.5 · Likes this total",
       "score_line": "Projected: Houston Texans 26, Indianapolis Colts 22 (Total 48)",
       "basis_line": "Projected points: Houston Texans 26, Indianapolis Colts 22.2. Availability: expected starting quarterbacks C.J. Stroud (HOU) and Daniel Jones (IND). NFL.com official Week 11 injury report (checked Nov 17, 9:54 AM ET): not out yet, so no quarterback is ruled out.",
       "independent": true,
       "distance_from_spread": 8.5,
-      "distance_from_total": 3.5
+      "distance_from_total": 4.5
      },
      {
       "name": "Letdown Watch",
       "side_line": "Side: Indianapolis Colts +12.5 · Likes this side",
-      "ou_line": "O/U: Over 44.5",
+      "ou_line": "O/U: Over 43.5 · Likes this total",
       "score_line": "Projected: Houston Texans 27, Indianapolis Colts 19 (Total 46)",
       "basis_line": "Rest and travel: Indianapolis Colts: 4 days since its last game, travels 871 miles; Houston Texans: 4 days since its last game, plays at home. Projected: Texans by 7.6, total 46.3.",
       "independent": true,
       "distance_from_spread": 4.5,
-      "distance_from_total": 1.5
+      "distance_from_total": 2.5
      },
      {
       "name": "Follow The Money",
       "side_line": "Side: Houston Texans −12.5 · Likes this side",
-      "ou_line": "O/U: no pick (not enough total movement)",
+      "ou_line": "O/U: Under 43.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Houston Texans −11.5 (Nov 17, 3:32 AM ET) and is Houston Texans −12.5 now (Nov 17, 9:53 AM ET), a 1-point move. Total opened 44.5 (Nov 17, 2:48 AM ET) and is 44.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Houston Texans −11.5 (Nov 17, 3:32 AM ET) and is −12.5 now, a 1-point move. The side pick quotes the consensus spread now (Houston Texans −12.5). Consensus total opened 44.5 (Nov 17, 2:48 AM ET) and is 43.5 now, a 1-point move: Under. The total pick quotes the consensus total now (43.5). Lines are the Action Network consensus as of Nov 19, 5:59 AM ET; the open is the first consensus line posted at or after Nov 17, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 0.5
+      "distance_from_spread": 1.0,
+      "distance_from_total": 1.0
      },
      {
       "name": "In The Trenches",
       "side_line": "Side: Indianapolis Colts +12.5 · Likes this side",
-      "ou_line": "O/U: Under 44.5",
+      "ou_line": "O/U: Under 43.5",
       "score_line": "Projected: Houston Texans 24, Indianapolis Colts 19 (Total 43)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 10). Projected points: Houston Texans 23.6, Indianapolis Colts 18.9.",
       "independent": true,
       "distance_from_spread": 7.5,
-      "distance_from_total": 1.5
+      "distance_from_total": 0.5
      }
     ],
     "best_bets": [],
-    "story_text": "My Colts vs Texans prediction for Thursday Night Football starts with a Houston team that has lost all four of its games at Reliant Stadium in the franchise's 25th season. The pick against the spread is Colts +12.5, my over/under pick is Over 44.5, and the score I'll defend is Texans 26, Colts 20.\n\nHouston threw itself a 25th anniversary party on October 4, with Liberty White jerseys, Battle Red socks, Andre Johnson and Arian Foster at halftime, and the Cowboys on the schedule just like the first game back in 2002. Dallas won 34-30. Buffalo, Cincinnati and the Giants have also left Reliant happy. The Texans' three wins came at Tennessee, in London against Jacksonville and 44-22 at the Chargers. A team that hasn't won at home has no business laying 12.5 to anybody on a short week.\n\nThe Formula: Net ratings Houston Texans −2.5, Indianapolis Colts −8.7 (nflverse play-by-play, Nov 17, 2026).\n\nHouston is the better team Thursday, and nobody in Indianapolis is arguing otherwise. Lou Ferraro will remind you the Colts already beat this team 19-17 in Week 3, and he's right. Indianapolis is 3-7 with a 1-4 road record, and Daniel Jones has 12 interceptions, so nobody is selling this roster as pretty. But Jonathan Taylor has 739 yards and eight rushing touchdowns, and a steady run game is how a big underdog keeps a game inside two scores when both teams are on four days of rest and the Colts have to fly 871 miles.\n\nNate Coleman counters with C.J. Stroud's 19 touchdown throws against three interceptions, with Nico Collins and with Will Anderson Jr.'s 10.5 sacks. That's why Houston wins. It isn't why Houston wins by two touchdowns. The money went the other way anyway: the Action Network consensus opened at Houston −11.5 early Tuesday and sits at −12.5 now.\n\nThe room is lopsided. Four cards take Indianapolis with the points: The Formula at Texans 28, Colts 21, Next Man Up at Texans 26, Colts 22, Letdown Watch at Texans 27, Colts 19, and In The Trenches at Texans 24, Colts 19. Follow The Money is the only card laying the 12.5. On the total, The Formula, Next Man Up and Letdown Watch are on the Over 44.5, In The Trenches is on the Under, and Follow The Money has no total pick.\n\nThe Over comes from how much both defenses have given up. Houston has scored 233 and allowed 219 in nine games, and Indianapolis has scored 208 and allowed 271 in ten. Texans 26, Colts 20 adds up to 46, a point and a half clear of the total, and a six-point Houston win leaves the Colts with six and a half points to spare.\n\nNate finally gets his home win in the anniversary season. Lou keeps the laminated Week 3 box score in his pocket, and it still means something on the ride home.\n\nTexans 26, Colts 20. Colts cover the 12.5. Over 44.5.",
+    "story_text": "My Colts vs Texans prediction for Thursday Night Football starts with a Houston team that has lost all four of its games at Reliant Stadium in the franchise's 25th season. The pick against the spread is Colts +12.5, my over/under pick is Over 43.5, and the score I'll defend is Texans 26, Colts 20.\n\nHouston threw itself a 25th anniversary party on October 4, with Liberty White jerseys, Battle Red socks, Andre Johnson and Arian Foster at halftime, and the Cowboys on the schedule just like the first game back in 2002. Dallas won 34-30. Buffalo, Cincinnati and the Giants have also left Reliant happy. The Texans' three wins came at Tennessee, in London against Jacksonville and 44-22 at the Chargers. A team that hasn't won at home has no business laying 12.5 to anybody on a short week.\n\nThe Formula: Net ratings Houston Texans −2.5, Indianapolis Colts −8.7 (nflverse play-by-play, Nov 17, 2026).\n\nHouston is the better team Thursday, and nobody in Indianapolis is arguing otherwise. Lou Ferraro will remind you the Colts already beat this team 19-17 in Week 3, and he's right. Indianapolis is 3-7 with a 1-4 road record, and Daniel Jones has 12 interceptions, so nobody is selling this roster as pretty. But Jonathan Taylor has 739 yards and eight rushing touchdowns, and a steady run game is how a big underdog keeps a game inside two scores when both teams are on four days of rest and the Colts have to fly 871 miles.\n\nNate Coleman counters with C.J. Stroud's 19 touchdown throws against three interceptions, with Nico Collins and with Will Anderson Jr.'s 10.5 sacks. That's why Houston wins. It isn't why Houston wins by two touchdowns. The money went the other way anyway: the Action Network consensus opened at Houston −11.5 early Tuesday and sits at −12.5 now. As of Nov 19, 5:59 AM ET, DraftKings has Houston −12.5 with a 43.5 total, a point lower than the 44.5 this preview was written against.\n\nThe room is lopsided. Four cards take Indianapolis with the points: The Formula at Texans 28, Colts 21, Next Man Up at Texans 26, Colts 22, Letdown Watch at Texans 27, Colts 19, and In The Trenches at Texans 24, Colts 19. Follow The Money is the only card laying the 12.5. On the total, The Formula, Next Man Up and Letdown Watch are on the Over 43.5, In The Trenches is on the Under 43.5, and Follow The Money now takes the Under 43.5 because the consensus total dropped a full point.\n\nThe Over comes from how much both defenses have given up. Houston has scored 233 and allowed 219 in nine games, and Indianapolis has scored 208 and allowed 271 in ten. Texans 26, Colts 20 adds up to 46, two and a half clear of the total, and a six-point Houston win leaves the Colts with six and a half points to spare.\n\nNate finally gets his home win in the anniversary season. Lou keeps the laminated Week 3 box score in his pocket, and it still means something on the ride home.\n\nTexans 26, Colts 20. Colts cover the 12.5. Over 43.5.",
     "fanatic_score_line": "Projected: Houston Texans 26, Indianapolis Colts 20",
     "market": {
-     "score_line": "Market: Houston Texans 29, Indianapolis Colts 16 (Total 45)",
+     "score_line": "Market: Houston Texans 28, Indianapolis Colts 16 (Total 44)",
      "spread": "Houston Texans −12.5",
-     "total": "44.5",
-     "source": "Consensus line as of Nov 17, 9:53 AM ET",
+     "total": "43.5",
+     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 19, 5:59 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_story": "Indianapolis Colts vs Houston Texans on Thursday night in Week 11 lands in a building that threw the Texans a 25th birthday party and still hasn't handed them a win. Nate Coleman was at Reliant Stadium on October 4 when the old Liberty White jerseys came back out, Andre Johnson and Arian Foster waved at halftime and Dallas walked off with a 34-30 win, and Lou Ferraro has texted him that date every morning since.\n\nLou drove down from Indianapolis on Wednesday with a cooler of sandwiches and a printed copy of the Week 3 box score. It says Colts 19, Texans 17. He had it laminated.\n\nNate: You laminated a September game.\n\nLou: I laminate everything that goes right for us. It's a short stack.\n\nHe isn't wrong about the stack. Indianapolis is 3-7. The Colts lost four straight before Sunday, including a 42-7 day in Jacksonville that Lou refers to only as the weather event. Then they beat Miami 24-22 at Lucas Oil, and Lou walked out of that building like somebody had handed him the deed.\n\nNate's problem is a strange one. His team is 3-6, and all three wins came somewhere else: Tennessee, London, and a 44-22 beating of the Chargers in Los Angeles. At home it's four games and four losses, to Buffalo, Cincinnati, Dallas and the Giants. The Texans have been better tourists than hosts all year, and in a 25th season that was sold as a homecoming, that hurts.\n\nNate: We wore the Battle Red socks for Dallas. They invited back Billy Miller, the guy who scored the first touchdown this franchise ever had. And we lost.\n\nLou: Maybe stop inviting people.\n\nWhat Nate does have is C.J. Stroud, and he'll talk about him until you physically leave. Stroud has 19 touchdown throws and only three interceptions. Nico Collins is the target Nate trusts on third down, and Will Anderson Jr. has 10.5 sacks, a figure Nate keeps on a sticky note on the dashboard right next to his toll tag.\n\nLou answers with one name. Jonathan Taylor has 739 rushing yards and eight touchdowns, and Lou's entire plan for Thursday is to hand Taylor the ball until the crowd gets quiet enough to hear the air conditioning. He doesn't enjoy talking about Daniel Jones and his 12 interceptions, so he simply doesn't.\n\nBoth teams are on four days of rest. Houston lost 27-24 in Cleveland on Sunday, the Colts squeezed past Miami by two, and nobody's legs will be fresh by the fourth quarter.\n\nLou: You know what I like about a Thursday game? Nobody has time to fix anything. You are what you are.\n\nNate: We're 0-4 at home. That's what we are.\n\nHe says it, then hears it, and hates every word.\n\nNate does have a theory, the kind only a man who has sat in the same section since 2002 is allowed to have. His Texans have looked loosest on the road, where nobody expected anything and Stroud could just throw. At home, with the anniversary banners and the legends and the H-Town chant, they've pressed. Thursday is just a Thursday. No ceremony, no commemorative ticket, no halftime tribute. Only the Colts.\n\nNate: No more birthday parties. Just football.\n\nLou: That's the saddest thing I've ever heard a man say about his own stadium.\n\nLou will sit in the visitors' corner in a horseshoe cap and hold up the laminated box score after every Taylor first down. Nate will be in his usual seat with his Battle Red socks pulled up to his knees, waiting on luck that hasn't shown up yet. For once he thinks it's his turn.\n\nMy call: Texans 26, Colts 20."
    },
-   "gambler_story": "My Colts vs Texans prediction for Thursday Night Football starts with a Houston team that has lost all four of its games at Reliant Stadium in the franchise's 25th season. The pick against the spread is Colts +12.5, my over/under pick is Over 44.5, and the score I'll defend is Texans 26, Colts 20.\n\nHouston threw itself a 25th anniversary party on October 4, with Liberty White jerseys, Battle Red socks, Andre Johnson and Arian Foster at halftime, and the Cowboys on the schedule just like the first game back in 2002. Dallas won 34-30. Buffalo, Cincinnati and the Giants have also left Reliant happy. The Texans' three wins came at Tennessee, in London against Jacksonville and 44-22 at the Chargers. A team that hasn't won at home has no business laying 12.5 to anybody on a short week.\n\nThe Formula: Net ratings Houston Texans −2.5, Indianapolis Colts −8.7 (nflverse play-by-play, Nov 17, 2026).\n\nHouston is the better team Thursday, and nobody in Indianapolis is arguing otherwise. Lou Ferraro will remind you the Colts already beat this team 19-17 in Week 3, and he's right. Indianapolis is 3-7 with a 1-4 road record, and Daniel Jones has 12 interceptions, so nobody is selling this roster as pretty. But Jonathan Taylor has 739 yards and eight rushing touchdowns, and a steady run game is how a big underdog keeps a game inside two scores when both teams are on four days of rest and the Colts have to fly 871 miles.\n\nNate Coleman counters with C.J. Stroud's 19 touchdown throws against three interceptions, with Nico Collins and with Will Anderson Jr.'s 10.5 sacks. That's why Houston wins. It isn't why Houston wins by two touchdowns. The money went the other way anyway: the Action Network consensus opened at Houston −11.5 early Tuesday and sits at −12.5 now.\n\nThe room is lopsided. Four cards take Indianapolis with the points: The Formula at Texans 28, Colts 21, Next Man Up at Texans 26, Colts 22, Letdown Watch at Texans 27, Colts 19, and In The Trenches at Texans 24, Colts 19. Follow The Money is the only card laying the 12.5. On the total, The Formula, Next Man Up and Letdown Watch are on the Over 44.5, In The Trenches is on the Under, and Follow The Money has no total pick.\n\nThe Over comes from how much both defenses have given up. Houston has scored 233 and allowed 219 in nine games, and Indianapolis has scored 208 and allowed 271 in ten. Texans 26, Colts 20 adds up to 46, a point and a half clear of the total, and a six-point Houston win leaves the Colts with six and a half points to spare.\n\nNate finally gets his home win in the anniversary season. Lou keeps the laminated Week 3 box score in his pocket, and it still means something on the ride home.\n\nTexans 26, Colts 20. Colts cover the 12.5. Over 44.5.",
+   "gambler_story": "My Colts vs Texans prediction for Thursday Night Football starts with a Houston team that has lost all four of its games at Reliant Stadium in the franchise's 25th season. The pick against the spread is Colts +12.5, my over/under pick is Over 43.5, and the score I'll defend is Texans 26, Colts 20.\n\nHouston threw itself a 25th anniversary party on October 4, with Liberty White jerseys, Battle Red socks, Andre Johnson and Arian Foster at halftime, and the Cowboys on the schedule just like the first game back in 2002. Dallas won 34-30. Buffalo, Cincinnati and the Giants have also left Reliant happy. The Texans' three wins came at Tennessee, in London against Jacksonville and 44-22 at the Chargers. A team that hasn't won at home has no business laying 12.5 to anybody on a short week.\n\nThe Formula: Net ratings Houston Texans −2.5, Indianapolis Colts −8.7 (nflverse play-by-play, Nov 17, 2026).\n\nHouston is the better team Thursday, and nobody in Indianapolis is arguing otherwise. Lou Ferraro will remind you the Colts already beat this team 19-17 in Week 3, and he's right. Indianapolis is 3-7 with a 1-4 road record, and Daniel Jones has 12 interceptions, so nobody is selling this roster as pretty. But Jonathan Taylor has 739 yards and eight rushing touchdowns, and a steady run game is how a big underdog keeps a game inside two scores when both teams are on four days of rest and the Colts have to fly 871 miles.\n\nNate Coleman counters with C.J. Stroud's 19 touchdown throws against three interceptions, with Nico Collins and with Will Anderson Jr.'s 10.5 sacks. That's why Houston wins. It isn't why Houston wins by two touchdowns. The money went the other way anyway: the Action Network consensus opened at Houston −11.5 early Tuesday and sits at −12.5 now. As of Nov 19, 5:59 AM ET, DraftKings has Houston −12.5 with a 43.5 total, a point lower than the 44.5 this preview was written against.\n\nThe room is lopsided. Four cards take Indianapolis with the points: The Formula at Texans 28, Colts 21, Next Man Up at Texans 26, Colts 22, Letdown Watch at Texans 27, Colts 19, and In The Trenches at Texans 24, Colts 19. Follow The Money is the only card laying the 12.5. On the total, The Formula, Next Man Up and Letdown Watch are on the Over 43.5, In The Trenches is on the Under 43.5, and Follow The Money now takes the Under 43.5 because the consensus total dropped a full point.\n\nThe Over comes from how much both defenses have given up. Houston has scored 233 and allowed 219 in nine games, and Indianapolis has scored 208 and allowed 271 in ten. Texans 26, Colts 20 adds up to 46, two and a half clear of the total, and a six-point Houston win leaves the Colts with six and a half points to spare.\n\nNate finally gets his home win in the anniversary season. Lou keeps the laminated Week 3 box score in his pocket, and it still means something on the ride home.\n\nTexans 26, Colts 20. Colts cover the 12.5. Over 43.5.",
    "fanatic_story": "Indianapolis Colts vs Houston Texans on Thursday night in Week 11 lands in a building that threw the Texans a 25th birthday party and still hasn't handed them a win. Nate Coleman was at Reliant Stadium on October 4 when the old Liberty White jerseys came back out, Andre Johnson and Arian Foster waved at halftime and Dallas walked off with a 34-30 win, and Lou Ferraro has texted him that date every morning since.\n\nLou drove down from Indianapolis on Wednesday with a cooler of sandwiches and a printed copy of the Week 3 box score. It says Colts 19, Texans 17. He had it laminated.\n\nNate: You laminated a September game.\n\nLou: I laminate everything that goes right for us. It's a short stack.\n\nHe isn't wrong about the stack. Indianapolis is 3-7. The Colts lost four straight before Sunday, including a 42-7 day in Jacksonville that Lou refers to only as the weather event. Then they beat Miami 24-22 at Lucas Oil, and Lou walked out of that building like somebody had handed him the deed.\n\nNate's problem is a strange one. His team is 3-6, and all three wins came somewhere else: Tennessee, London, and a 44-22 beating of the Chargers in Los Angeles. At home it's four games and four losses, to Buffalo, Cincinnati, Dallas and the Giants. The Texans have been better tourists than hosts all year, and in a 25th season that was sold as a homecoming, that hurts.\n\nNate: We wore the Battle Red socks for Dallas. They invited back Billy Miller, the guy who scored the first touchdown this franchise ever had. And we lost.\n\nLou: Maybe stop inviting people.\n\nWhat Nate does have is C.J. Stroud, and he'll talk about him until you physically leave. Stroud has 19 touchdown throws and only three interceptions. Nico Collins is the target Nate trusts on third down, and Will Anderson Jr. has 10.5 sacks, a figure Nate keeps on a sticky note on the dashboard right next to his toll tag.\n\nLou answers with one name. Jonathan Taylor has 739 rushing yards and eight touchdowns, and Lou's entire plan for Thursday is to hand Taylor the ball until the crowd gets quiet enough to hear the air conditioning. He doesn't enjoy talking about Daniel Jones and his 12 interceptions, so he simply doesn't.\n\nBoth teams are on four days of rest. Houston lost 27-24 in Cleveland on Sunday, the Colts squeezed past Miami by two, and nobody's legs will be fresh by the fourth quarter.\n\nLou: You know what I like about a Thursday game? Nobody has time to fix anything. You are what you are.\n\nNate: We're 0-4 at home. That's what we are.\n\nHe says it, then hears it, and hates every word.\n\nNate does have a theory, the kind only a man who has sat in the same section since 2002 is allowed to have. His Texans have looked loosest on the road, where nobody expected anything and Stroud could just throw. At home, with the anniversary banners and the legends and the H-Town chant, they've pressed. Thursday is just a Thursday. No ceremony, no commemorative ticket, no halftime tribute. Only the Colts.\n\nNate: No more birthday parties. Just football.\n\nLou: That's the saddest thing I've ever heard a man say about his own stadium.\n\nLou will sit in the visitors' corner in a horseshoe cap and hold up the laminated box score after every Taylor first down. Nate will be in his usual seat with his Battle Red socks pulled up to his knees, waiting on luck that hasn't shown up yet. For once he thinks it's his turn.\n\nMy call: Texans 26, Colts 20.",
    "fanatic_final_sentence": "Texans 26, Colts 20.",
    "preview_sources": [],
