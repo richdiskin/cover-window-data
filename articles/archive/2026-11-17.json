@@ -1,0 +1,661 @@
+{
+  "schema": 1,
+  "date": "2026-11-17",
+  "theme": "mmqb",
+  "theme_label": "Monday Morning Quarterback",
+  "published_at": "2026-10-26T11:53:04Z",
+  "count": 6,
+  "lead_id": "fanatic_team-kent-state-2026-11-17",
+  "articles": [
+    {
+      "id": "fanatic_team-kent-state-2026-11-17",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "kent-state",
+      "team_ids": [
+        "kent-state"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866466",
+      "title": "Kent State vs Miami (OH): Senior Night Ends in a 20-3 Loss at Dix Stadium",
+      "byline": "Ozzie Brannigan, The Kent State Fanatic",
+      "matchup": "Final: Miami (OH) RedHawks (7-4) 20, Kent State Golden Flashes (3-8) 3, Tue., Nov. 17, Zoeller Field at Dix Stadium, Kent. Next: at Eastern Michigan, Tue., Nov. 24, 7:00 PM ET, Rynearson Stadium, Ypsilanti",
+      "date": "2026-11-17",
+      "word_count": 351,
+      "text": "Miami (OH) 20, Kent State 3, and my Gold Jacket koozie spent the whole night holding cold air. It was Senior Night at Dix Stadium on Tuesday, our home finale, and I stood and clapped for every senior who ran out of that tunnel. Then Miami ran the ball 58 times. We're 3-8, 2-5 in the MAC.\n\nThe hole got dug early. Miami went 67 yards in seven plays, and D'Shawntae Jones scored from the 1. We answered with a 13-play, 61-yard march, and Tommy Newcomb hit a 39-yard field goal. 7-3, and for a minute I was dreaming. Then Jones scored again from the 1 on fourth down with 22 seconds left in the first quarter. 13-3.\n\nWe had our chance early in the second quarter. Dru DeShields hit Da'Realyst Clark for 23 yards to the Miami 39, and on the very next snap his throw got intercepted at the Miami 11. That was as close as we got all night.\n\nCredit where it's due on defense. We forced a missed 30-yard field goal before halftime, and after Miami's 16-play drive reached our 2 early in the fourth, Camdon Wilborn forced a fumble on fourth down for a 6-yard loss and a turnover on downs. Rocco Nicholl and Joel Cordoba made 10 tackles apiece, Nicholl added a sack, and Davion Pritchard had eight stops.\n\nDrew Bellisari's 23-yard touchdown run in the third made it 20-3, and that was the last of the scoring. We managed 170 yards, 31 on the ground, and Miami held the ball for 38:36. That's a long night for any defense.\n\nThere were a couple of bright spots for the record book. Wayne Harris caught four balls for 46 yards and moved past Nykeim Johnson for the 10th-most catches in a season in Kent State history. DeShields, 8 of 15 for 92 yards, climbed to eighth on the program's career list for yards of offense.\n\nThank you, seniors. You showed up every week. Next up: the season finale at Eastern Michigan, Rynearson Stadium, Tuesday, Nov. 24, at 7:00 PM ET. I'll bring the koozie. Go Flashes!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Miami (OH) 20, Kent State 3, and my Gold Jacket koozie spent the whole night holding cold air. It was Senior Night at Dix Stadium on Tuesday, our home finale, and I stood and clapped for every senior who ran out of that tunnel. Then Miami ran the ball 58 times. We're 3-8, 2-5 in the MAC."
+        },
+        {
+          "type": "paragraph",
+          "text": "The hole got dug early. Miami went 67 yards in seven plays, and D'Shawntae Jones scored from the 1. We answered with a 13-play, 61-yard march, and Tommy Newcomb hit a 39-yard field goal. 7-3, and for a minute I was dreaming. Then Jones scored again from the 1 on fourth down with 22 seconds left in the first quarter. 13-3."
+        },
+        {
+          "type": "paragraph",
+          "text": "We had our chance early in the second quarter. Dru DeShields hit Da'Realyst Clark for 23 yards to the Miami 39, and on the very next snap his throw got intercepted at the Miami 11. That was as close as we got all night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit where it's due on defense. We forced a missed 30-yard field goal before halftime, and after Miami's 16-play drive reached our 2 early in the fourth, Camdon Wilborn forced a fumble on fourth down for a 6-yard loss and a turnover on downs. Rocco Nicholl and Joel Cordoba made 10 tackles apiece, Nicholl added a sack, and Davion Pritchard had eight stops."
+        },
+        {
+          "type": "paragraph",
+          "text": "Drew Bellisari's 23-yard touchdown run in the third made it 20-3, and that was the last of the scoring. We managed 170 yards, 31 on the ground, and Miami held the ball for 38:36. That's a long night for any defense."
+        },
+        {
+          "type": "paragraph",
+          "text": "There were a couple of bright spots for the record book. Wayne Harris caught four balls for 46 yards and moved past Nykeim Johnson for the 10th-most catches in a season in Kent State history. DeShields, 8 of 15 for 92 yards, climbed to eighth on the program's career list for yards of offense."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thank you, seniors. You showed up every week. Next up: the season finale at Eastern Michigan, Rynearson Stadium, Tuesday, Nov. 24, at 7:00 PM ET. I'll bring the koozie. Go Flashes!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Kent State lost 20-3 to Miami (OH) on Senior Night, Tuesday, Nov. 17, at Dix Stadium. The Golden Flashes are 3-8, 2-5 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Tommy Newcomb kicked a 39-yard field goal, and Camdon Wilborn forced a fourth-down fumble near our end zone."
+        },
+        {
+          "type": "fact",
+          "text": "Wayne Harris caught four balls for 46 yards and moved into 10th in Kent State history for catches in a season."
+        },
+        {
+          "type": "jab",
+          "text": "Miami needed 58 carries to get past a team handing out koozies. That's a lot of work for a souvenir."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Eastern Michigan, Tuesday, Nov. 24, 7:00 PM ET, Rynearson Stadium, Ypsilanti."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Miami (OH) 20, Kent State 3 (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866466"
+        },
+        {
+          "label": "ESPN play-by-play, Miami (OH) at Kent State (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866466"
+        },
+        {
+          "label": "ESPN game page, Miami (OH) at Kent State (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866466"
+        },
+        {
+          "label": "ESPN Kent State Golden Flashes 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2309"
+        },
+        {
+          "label": "ESPN game recap, Miami (OH) 20, Kent State 3 (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401866466"
+        },
+        {
+          "label": "Kent State Athletics: DeShields and Harris Climb the Record Book in Home Finale (Nov. 17, 2026)",
+          "url": "https://kentstatesports.com/news/2026/11/17/football-deshields-and-harris-climb-the-record-book-in-home-finale"
+        },
+        {
+          "label": "Kent State Athletics game center: Football vs Miami (OH), Nov. 17, 2026 (Senior Night, Gold Jacket Koozies)",
+          "url": "https://kentstatesports.com/game-center/9742"
+        },
+        {
+          "label": "CBS Sports (AP): D'Shawntae Jones powers Miami (Ohio) past Kent State in 20-3 win (Nov. 17, 2026)",
+          "url": "https://www.cbssports.com/college-football/news/dshawntae-jones-powers-miami-ohio-past-kent-state-in-20-3-win/"
+        },
+        {
+          "label": "Miami RedHawks: RedHawks Run Past Kent State, 20-3 (Nov. 17, 2026)",
+          "url": "https://miamiredhawks.com/news/2026/11/17/football-redhawks-run-past-kent-state-20-3"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-miami-oh-2026-11-17",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "miami-oh",
+      "team_ids": [
+        "miami-oh"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866466",
+      "title": "Miami (OH) vs Kent State: 58 Carries, 301 Yards and a 20-3 Win for the RedHawks",
+      "byline": "Cordelia Van Doren, The Miami (OH) Fanatic",
+      "matchup": "Final: Miami (OH) RedHawks (7-4) 20, Kent State Golden Flashes (3-8) 3, Tue., Nov. 17, Zoeller Field at Dix Stadium, Kent. Next: at Western Michigan, Tue., Nov. 24, 7:00 PM ET, Waldo Stadium, Kalamazoo",
+      "date": "2026-11-17",
+      "word_count": 361,
+      "text": "Miami (OH) 20, Kent State 3, and I'd like everyone in Oxford to write down the date. Freshman Drew Bellisari ran the show from the opening snap for the first time Tuesday night at Dix Stadium, the RedHawks are 7-4 and 5-2 in the MAC, and Chuck Martin now has a winning record at Miami: seventy-nine wins, seventy-eight losses. The Cradle of Coaches has a new page to add.\n\nWe ran the ball 58 times for 301 yards. Fifty-eight! Our athletics office says the last time Miami ran that many times in a game was Nov. 8, 1997, with Hall of Famer Travis Prentice in the backfield. I'm adding a footnote to my binder tonight.\n\nD'Shawntae Jones ran like a bulldozer, with a career-high 29 carries for 121 yards and two 1-yard touchdowns. Rodney Nelson set up the first one with a 47-yard catch on a shovel throw, and Jones finished the seven-play march for 7-0. After Kent kicked a field goal, Jones scored again on a fourth-down direct snap with 22 seconds left in the first quarter. The extra point missed, so it was 13-3. Nelson added 90 yards on 16 carries.\n\nBellisari kept it simple and smart. He went 7 of 12 for 124 yards, and in the third quarter Scoop Smith set him up with an 11-yard catch and a 25-yard run. Four plays later, Bellisari kept it himself and ran 23 yards up the middle for a touchdown. 20-3.\n\nNow let's talk about the defense. Kent State gained 170 yards, the fewest by any Miami opponent this season, and just 31 on the ground. Amariyun Knighten intercepted Dru DeShields at our 11 to end their best chance, Malcolm McCain made nine tackles, and Grant Lyons, Devin Bell and OJ Alexander each had a sack. The Flashes went the final 51 minutes without a point.\n\nWe did leave a few chances behind, with a missed 30-yard field goal and a fourth-down stop at their 2, so I'll keep my applause polite. We held the ball for 38:36. I'll take it.\n\nNext up: at Western Michigan, Waldo Stadium, Tuesday, Nov. 24, at 7:00 PM ET. Love and Honor, RedHawks.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Miami (OH) 20, Kent State 3, and I'd like everyone in Oxford to write down the date. Freshman Drew Bellisari ran the show from the opening snap for the first time Tuesday night at Dix Stadium, the RedHawks are 7-4 and 5-2 in the MAC, and Chuck Martin now has a winning record at Miami: seventy-nine wins, seventy-eight losses. The Cradle of Coaches has a new page to add."
+        },
+        {
+          "type": "paragraph",
+          "text": "We ran the ball 58 times for 301 yards. Fifty-eight! Our athletics office says the last time Miami ran that many times in a game was Nov. 8, 1997, with Hall of Famer Travis Prentice in the backfield. I'm adding a footnote to my binder tonight."
+        },
+        {
+          "type": "paragraph",
+          "text": "D'Shawntae Jones ran like a bulldozer, with a career-high 29 carries for 121 yards and two 1-yard touchdowns. Rodney Nelson set up the first one with a 47-yard catch on a shovel throw, and Jones finished the seven-play march for 7-0. After Kent kicked a field goal, Jones scored again on a fourth-down direct snap with 22 seconds left in the first quarter. The extra point missed, so it was 13-3. Nelson added 90 yards on 16 carries."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bellisari kept it simple and smart. He went 7 of 12 for 124 yards, and in the third quarter Scoop Smith set him up with an 11-yard catch and a 25-yard run. Four plays later, Bellisari kept it himself and ran 23 yards up the middle for a touchdown. 20-3."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now let's talk about the defense. Kent State gained 170 yards, the fewest by any Miami opponent this season, and just 31 on the ground. Amariyun Knighten intercepted Dru DeShields at our 11 to end their best chance, Malcolm McCain made nine tackles, and Grant Lyons, Devin Bell and OJ Alexander each had a sack. The Flashes went the final 51 minutes without a point."
+        },
+        {
+          "type": "paragraph",
+          "text": "We did leave a few chances behind, with a missed 30-yard field goal and a fourth-down stop at their 2, so I'll keep my applause polite. We held the ball for 38:36. I'll take it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: at Western Michigan, Waldo Stadium, Tuesday, Nov. 24, at 7:00 PM ET. Love and Honor, RedHawks."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Miami (OH) beat Kent State 20-3 on Tuesday, Nov. 17, at Dix Stadium. The RedHawks are 7-4, 5-2 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Miami ran 58 times for 301 yards, and D'Shawntae Jones had 121 yards and two touchdowns."
+        },
+        {
+          "type": "fact",
+          "text": "Freshman Drew Bellisari threw for 124 yards and ran 23 yards for a touchdown, and the defense allowed 170 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Kent State handed out koozies. We handed out 58 carries."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Western Michigan, Tuesday, Nov. 24, 7:00 PM ET, Waldo Stadium, Kalamazoo."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Miami (OH) 20, Kent State 3 (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866466"
+        },
+        {
+          "label": "ESPN play-by-play, Miami (OH) at Kent State (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866466"
+        },
+        {
+          "label": "ESPN game page, Miami (OH) at Kent State (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866466"
+        },
+        {
+          "label": "ESPN Miami (OH) RedHawks 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/193"
+        },
+        {
+          "label": "ESPN game recap, Miami (OH) 20, Kent State 3 (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401866466"
+        },
+        {
+          "label": "CBS Sports (AP): D'Shawntae Jones powers Miami (Ohio) past Kent State in 20-3 win (Nov. 17, 2026)",
+          "url": "https://www.cbssports.com/college-football/news/dshawntae-jones-powers-miami-ohio-past-kent-state-in-20-3-win/"
+        },
+        {
+          "label": "Miami RedHawks: RedHawks Run Past Kent State, 20-3 (Nov. 17, 2026)",
+          "url": "https://miamiredhawks.com/news/2026/11/17/football-redhawks-run-past-kent-state-20-3"
+        },
+        {
+          "label": "Miami RedHawks: RedHawks Travel to Face Kent State Tuesday Night (Nov. 13, 2026)",
+          "url": "https://miamiredhawks.com/news/2026/11/13/football-redhawks-travel-to-face-kent-state-tuesday-night"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ball-state-2026-11-17",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "ball-state",
+      "team_ids": [
+        "ball-state"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866464",
+      "title": "Ball State vs Ohio: Luster, Hohlt Push the Bobcats to the Wire, 35-28",
+      "byline": "Gus Ponder, The Ball State Fanatic",
+      "matchup": "Final: Ohio Bobcats (8-3) 35, Ball State Cardinals (3-8) 28, Tue., Nov. 17, Peden Stadium, Athens. Next: vs Central Michigan, Sat., Nov. 28, 12:00 PM ET, Scheumann Stadium, Muncie",
+      "date": "2026-11-17",
+      "word_count": 362,
+      "text": "Ohio 35, Ball State 28, and I've never been so proud and so grumpy at the same time. The Cardinals walked into Peden Stadium on Tuesday night, where Ohio hadn't lost in 17 straight home games, and led 20-14 after three quarters. Garfield hates Mondays. After this, I'm not too fond of late Tuesdays. We're 3-8, 2-5 in the MAC.\n\nKeldric Luster was terrific. He threw for 257 yards and two touchdowns and ran for 109 more. His 10-yard throw to Donovan Hamilton gave us a 10-7 lead. Then Quentavius Scandrett intercepted Nick Poulos in our end zone, and two snaps later Luster hit Eli Hohlt on a short throw that turned into an 80-yard touchdown. 17-7! Hohlt caught four balls for 112 yards. Hudson Fiene made both his field goals, including a 43-yarder at the end of the half for 20-14.\n\nThe second half is where it slipped. TJ Horton broke a 26-yard run on our first drive and lost a fumble three snaps later. Our defense still kept Ohio off the board in the third, and Mikeah Webster and Jared Badie dropped their quarterback for a 10-yard sack that forced a punt.\n\nThen the fourth quarter. Darren James-Hamilton intercepted Luster and returned it 34 yards for a touchdown, 21-20 Ohio, and Poulos ran in from 12 to make it 28-20. I put my head in my mittens. But these Cardinals don't quit. Luster drove us 68 yards in 10 plays, Horton scored from the 2 with 2:23 left, and Hamilton caught the two-point try. 28-28!\n\nOhio answered fast. Dom Dorwart caught a 29-yard touchdown with 1:16 left, and the replay booth let it stand. We got to the Ohio 43, but a sack and a last deep throw that James-Hamilton knocked away ended it.\n\nWe outgained Ohio 448 yards to 365. Horton ran for 64 yards and a score, Kaleb Stewart made eight tackles, and Webster made eight more. Coming this close in that building stings, but it beats getting run off the field, and these guys made Athens sweat.\n\nNext up: Central Michigan at Scheumann Stadium, Saturday, Nov. 28, at 12:00 PM ET. Bring the red, Muncie. Chirp Chirp!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ohio 35, Ball State 28, and I've never been so proud and so grumpy at the same time. The Cardinals walked into Peden Stadium on Tuesday night, where Ohio hadn't lost in 17 straight home games, and led 20-14 after three quarters. Garfield hates Mondays. After this, I'm not too fond of late Tuesdays. We're 3-8, 2-5 in the MAC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Keldric Luster was terrific. He threw for 257 yards and two touchdowns and ran for 109 more. His 10-yard throw to Donovan Hamilton gave us a 10-7 lead. Then Quentavius Scandrett intercepted Nick Poulos in our end zone, and two snaps later Luster hit Eli Hohlt on a short throw that turned into an 80-yard touchdown. 17-7! Hohlt caught four balls for 112 yards. Hudson Fiene made both his field goals, including a 43-yarder at the end of the half for 20-14."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half is where it slipped. TJ Horton broke a 26-yard run on our first drive and lost a fumble three snaps later. Our defense still kept Ohio off the board in the third, and Mikeah Webster and Jared Badie dropped their quarterback for a 10-yard sack that forced a punt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the fourth quarter. Darren James-Hamilton intercepted Luster and returned it 34 yards for a touchdown, 21-20 Ohio, and Poulos ran in from 12 to make it 28-20. I put my head in my mittens. But these Cardinals don't quit. Luster drove us 68 yards in 10 plays, Horton scored from the 2 with 2:23 left, and Hamilton caught the two-point try. 28-28!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ohio answered fast. Dom Dorwart caught a 29-yard touchdown with 1:16 left, and the replay booth let it stand. We got to the Ohio 43, but a sack and a last deep throw that James-Hamilton knocked away ended it."
+        },
+        {
+          "type": "paragraph",
+          "text": "We outgained Ohio 448 yards to 365. Horton ran for 64 yards and a score, Kaleb Stewart made eight tackles, and Webster made eight more. Coming this close in that building stings, but it beats getting run off the field, and these guys made Athens sweat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: Central Michigan at Scheumann Stadium, Saturday, Nov. 28, at 12:00 PM ET. Bring the red, Muncie. Chirp Chirp!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Ball State lost 35-28 at Ohio on Tuesday, Nov. 17, at Peden Stadium after leading 20-14 through three quarters. The Cardinals are 3-8, 2-5 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Keldric Luster threw for 257 yards and two touchdowns, including an 80-yarder to Eli Hohlt, and ran for 109 yards."
+        },
+        {
+          "type": "fact",
+          "text": "TJ Horton's touchdown and a two-point try to Donovan Hamilton tied it 28-28 with 2:23 left before Ohio scored the winner."
+        },
+        {
+          "type": "jab",
+          "text": "Ohio's home streak needed an interception return and a replay review to survive the Cardinals."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Central Michigan, Saturday, Nov. 28, 12:00 PM ET, Scheumann Stadium, Muncie."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Ohio 35, Ball State 28 (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866464"
+        },
+        {
+          "label": "ESPN play-by-play, Ball State at Ohio (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866464"
+        },
+        {
+          "label": "ESPN game page, Ball State at Ohio (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866464"
+        },
+        {
+          "label": "ESPN Ball State Cardinals 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2050"
+        },
+        {
+          "label": "ESPN game recap, Ohio 35, Ball State 28 (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401866464"
+        },
+        {
+          "label": "WTOP (AP): Nick Poulos accounts for 3 touchdowns, including the go-ahead score, as Ohio beats Ball State 35-28 (Nov. 17, 2026)",
+          "url": "https://wtop.com/college-sports/2026/11/nick-poulos-accounts-for-3-tds-including-go-ahead-score-to-help-ohio-edge-ball-state-35-28/"
+        },
+        {
+          "label": "Athens Messenger: James-Hamilton, Dorwart deliver as Ohio squeaks by Ball State (Nov. 17, 2026)",
+          "url": "https://www.athensmessenger.com/sports/ohiouniversity/james-hamilton-dorwart-deliver-as-ohio-squeaks-by-ball-state/article_1a4d7f69-aa44-4f0c-80be-f5058f65180c.html"
+        },
+        {
+          "label": "Ball State Athletics: FOOTBALL GAMEDAY: #MACtion Slate Continues, Cardinals and Bobcats Take Tuesday Stage in Athens (Nov. 15, 2026)",
+          "url": "https://ballstatesports.com/news/2026/11/15/football-football-gameday-maction-slate-continues-cardinals-and-bobcats-take-tuesday-stage-in-athens"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ohio-2026-11-17",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "ohio",
+      "team_ids": [
+        "ohio"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866464",
+      "title": "Ohio vs Ball State: Dorwart's Late Catch Makes It 18 Straight at Peden, 35-28",
+      "byline": "Penny Trautman, The Ohio Fanatic",
+      "matchup": "Final: Ohio Bobcats (8-3) 35, Ball State Cardinals (3-8) 28, Tue., Nov. 17, Peden Stadium, Athens. Next: vs Toledo, Fri., Nov. 27, 12:00 PM ET, Peden Stadium, Athens",
+      "date": "2026-11-17",
+      "word_count": 381,
+      "text": "Ohio 35, Ball State 28, and the black-shirted crowd at Peden Stadium got its money's worth Tuesday night. It was Wear Black night in Athens, and the Bobcats spent three quarters in the dark before Darren James-Hamilton and Dom Dorwart turned the lights back on. We're 8-3, 6-1 in the MAC, and that's 18 straight wins at home, still the longest home streak in the country.\n\nIt began the right way. Duncan Brune plunged in from the 1 on our first drive, 7-0. Then Ball State got rolling: a field goal, a 10-yard throw to Donovan Hamilton, and, right after Nick Poulos got intercepted in their end zone, an 80-yard catch-and-run by Eli Hohlt. 17-7. Poulos ran in from 8 to make it 17-14, and the Cardinals kicked a 43-yarder at the horn. 20-14 at the half, and my black boots were nervous.\n\nThe third quarter was a grind. DJ Walker forced a fumble and recovered it on Ball State's first drive, and we built a 13-play drive that ate 9:23 of clock before a sack pushed us back and we punted. Nobody scored. I walked a lap around my seat.\n\nThen James-Hamilton happened. Early in the fourth, he intercepted Keldric Luster and went 34 yards the other way. 21-20, and Peden shook. After a Ball State three-and-out, Poulos capped an eight-play drive by running in from 12 yards, 28-20 with 7:15 left.\n\nBall State tied it with 2:23 to go on a TJ Horton touchdown and a two-point try to Hamilton. 28-28. So Poulos went to work. Riley Neer caught a 14-yarder, and on the next play Poulos threw deep to Dorwart, who came down with it for a 29-yard touchdown with 1:16 left. The review upheld it. 35-28. Ty Neubert and Evan Herrmann shared a late sack, and James-Hamilton knocked away the final heave into the end zone.\n\nPoulos went 9 of 13 for 155 yards, ran for 58 more and had a hand in three touchdowns. Neer caught five for 92. Michael Molnar made 12 tackles, Walker made 11, and our defense allowed just 122 yards after halftime.\n\nNext up: Toledo comes to Peden Stadium on Black Friday, Nov. 27, at 12:00 PM ET. Keep the black shirts handy, Bobcat fans. Nineteen has a nice ring to it.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ohio 35, Ball State 28, and the black-shirted crowd at Peden Stadium got its money's worth Tuesday night. It was Wear Black night in Athens, and the Bobcats spent three quarters in the dark before Darren James-Hamilton and Dom Dorwart turned the lights back on. We're 8-3, 6-1 in the MAC, and that's 18 straight wins at home, still the longest home streak in the country."
+        },
+        {
+          "type": "paragraph",
+          "text": "It began the right way. Duncan Brune plunged in from the 1 on our first drive, 7-0. Then Ball State got rolling: a field goal, a 10-yard throw to Donovan Hamilton, and, right after Nick Poulos got intercepted in their end zone, an 80-yard catch-and-run by Eli Hohlt. 17-7. Poulos ran in from 8 to make it 17-14, and the Cardinals kicked a 43-yarder at the horn. 20-14 at the half, and my black boots were nervous."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter was a grind. DJ Walker forced a fumble and recovered it on Ball State's first drive, and we built a 13-play drive that ate 9:23 of clock before a sack pushed us back and we punted. Nobody scored. I walked a lap around my seat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then James-Hamilton happened. Early in the fourth, he intercepted Keldric Luster and went 34 yards the other way. 21-20, and Peden shook. After a Ball State three-and-out, Poulos capped an eight-play drive by running in from 12 yards, 28-20 with 7:15 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ball State tied it with 2:23 to go on a TJ Horton touchdown and a two-point try to Hamilton. 28-28. So Poulos went to work. Riley Neer caught a 14-yarder, and on the next play Poulos threw deep to Dorwart, who came down with it for a 29-yard touchdown with 1:16 left. The review upheld it. 35-28. Ty Neubert and Evan Herrmann shared a late sack, and James-Hamilton knocked away the final heave into the end zone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poulos went 9 of 13 for 155 yards, ran for 58 more and had a hand in three touchdowns. Neer caught five for 92. Michael Molnar made 12 tackles, Walker made 11, and our defense allowed just 122 yards after halftime."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: Toledo comes to Peden Stadium on Black Friday, Nov. 27, at 12:00 PM ET. Keep the black shirts handy, Bobcat fans. Nineteen has a nice ring to it."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Ohio beat Ball State 35-28 on Tuesday, Nov. 17, at Peden Stadium on Wear Black night for its 18th straight home win. The Bobcats are 8-3, 6-1 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Darren James-Hamilton returned an interception 34 yards for a touchdown, and Dom Dorwart caught the 29-yard winner from Nick Poulos with 1:16 left."
+        },
+        {
+          "type": "fact",
+          "text": "Nick Poulos threw for 155 yards and ran for two touchdowns, and Michael Molnar made 12 tackles."
+        },
+        {
+          "type": "jab",
+          "text": "Ball State brought a red sweater to a black-shirt party and still had to go home early."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Toledo, Friday, Nov. 27, 12:00 PM ET, Peden Stadium, Athens."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Ohio 35, Ball State 28 (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866464"
+        },
+        {
+          "label": "ESPN play-by-play, Ball State at Ohio (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866464"
+        },
+        {
+          "label": "ESPN game page, Ball State at Ohio (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866464"
+        },
+        {
+          "label": "ESPN Ohio Bobcats 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/195"
+        },
+        {
+          "label": "ESPN game recap, Ohio 35, Ball State 28 (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401866464"
+        },
+        {
+          "label": "WTOP (AP): Nick Poulos accounts for 3 touchdowns, including the go-ahead score, as Ohio beats Ball State 35-28 (Nov. 17, 2026)",
+          "url": "https://wtop.com/college-sports/2026/11/nick-poulos-accounts-for-3-tds-including-go-ahead-score-to-help-ohio-edge-ball-state-35-28/"
+        },
+        {
+          "label": "Athens Messenger: James-Hamilton, Dorwart deliver as Ohio squeaks by Ball State (Nov. 17, 2026)",
+          "url": "https://www.athensmessenger.com/sports/ohiouniversity/james-hamilton-dorwart-deliver-as-ohio-squeaks-by-ball-state/article_1a4d7f69-aa44-4f0c-80be-f5058f65180c.html"
+        },
+        {
+          "label": "Ohio Athletics: Athletics Themes & Promotions (football vs. Ball State, Nov. 17: Wear Black)",
+          "url": "https://ohiobobcats.com/sports/2026/4/15/athletics-themes-promotions"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-eastern-michigan",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "eastern-michigan",
+      "team_ids": [
+        "eastern-michigan"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866465",
+      "title": "Eastern Michigan vs Western Michigan: Blue's 160 Yards Fuel a Rally, 34-27",
+      "byline": "Imogen Tremblay, The Eastern Michigan Fanatic",
+      "matchup": "Final: Western Michigan Broncos (8-3) 34, Eastern Michigan Eagles (4-7) 27, Tue., Nov. 17, Waldo Stadium, Kalamazoo. Next: vs Kent State, Tue., Nov. 24, 7:00 PM ET, Rynearson Stadium, Ypsilanti",
+      "date": "2026-11-17",
+      "word_count": 400,
+      "text": "Western Michigan 34, Eastern Michigan 27, and if you left Waldo Stadium at halftime Tuesday night, I feel bad for you. The Eagles trailed 31-7 at the break in Kalamazoo, clawed back to one score, and had the ball at the Broncos' 22 in the final minute. We're 4-7, 3-4 in the MAC, and I'm worn out in the proudest way.\n\nWe came in after a 13-day break with the Michigan MAC Trophy already staying in Kalamazoo, so this one was for pride, and the first half didn't give us much. Jalen Buckley ran 72 yards on their first snap, then capped a 93-yard drive, and it was 14-0. Our bright spot came off a Daniel Hull punt, when their returner muffed it and Donmiel Rogers fell on it. On the very next play, Amareon Blue ran it in from 7 yards. 14-7.\n\nWe stopped them on fourth down at our 3 early in the second quarter, and then it got away. A field goal, a 2-yard Cole Cabana touchdown with 40 seconds left, and a 50-yard interception return by Dillon Moore with two seconds on the clock. 31-7.\n\nThen Brogan McCaughey came in at quarterback, and the Eagles woke up. We scored on our first three drives of the second half. Blue broke a 41-yard touchdown run, and the two-point try didn't make it, 31-13. McCaughey hit Joshua Long from 1 yard out to finish an 81-yard drive, 31-20. After their field goal, Blue scored from the 1 with 7:36 left. 34-27. McCaughey went 12 of 16 for 135 yards.\n\nBlue was the whole show. He's listed at 5-foot-6, and he ran for a career-high 160 yards on 27 carries with three touchdowns, the first 100-yard game of his career. He caught six balls, too. Nick Devereaux added four catches for 62 yards.\n\nOur defense forced two straight punts and gave us one last chance from our 23 with 1:51 to go. Blue ran for 10, Long made a 21-yard grab, a face mask flag moved us to their 25, and we reached the 22. On fourth down, McCaughey got sacked. I sat down on a cold bleacher and stayed there a while. Eleven flags for 125 yards didn't help us, either.\n\nOne game left, and it's at home. Next up: Kent State at Rynearson Stadium, Tuesday, Nov. 24, at 7:00 PM ET. Bring the green, Ypsi. Go Eagles!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Western Michigan 34, Eastern Michigan 27, and if you left Waldo Stadium at halftime Tuesday night, I feel bad for you. The Eagles trailed 31-7 at the break in Kalamazoo, clawed back to one score, and had the ball at the Broncos' 22 in the final minute. We're 4-7, 3-4 in the MAC, and I'm worn out in the proudest way."
+        },
+        {
+          "type": "paragraph",
+          "text": "We came in after a 13-day break with the Michigan MAC Trophy already staying in Kalamazoo, so this one was for pride, and the first half didn't give us much. Jalen Buckley ran 72 yards on their first snap, then capped a 93-yard drive, and it was 14-0. Our bright spot came off a Daniel Hull punt, when their returner muffed it and Donmiel Rogers fell on it. On the very next play, Amareon Blue ran it in from 7 yards. 14-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "We stopped them on fourth down at our 3 early in the second quarter, and then it got away. A field goal, a 2-yard Cole Cabana touchdown with 40 seconds left, and a 50-yard interception return by Dillon Moore with two seconds on the clock. 31-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Brogan McCaughey came in at quarterback, and the Eagles woke up. We scored on our first three drives of the second half. Blue broke a 41-yard touchdown run, and the two-point try didn't make it, 31-13. McCaughey hit Joshua Long from 1 yard out to finish an 81-yard drive, 31-20. After their field goal, Blue scored from the 1 with 7:36 left. 34-27. McCaughey went 12 of 16 for 135 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Blue was the whole show. He's listed at 5-foot-6, and he ran for a career-high 160 yards on 27 carries with three touchdowns, the first 100-yard game of his career. He caught six balls, too. Nick Devereaux added four catches for 62 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our defense forced two straight punts and gave us one last chance from our 23 with 1:51 to go. Blue ran for 10, Long made a 21-yard grab, a face mask flag moved us to their 25, and we reached the 22. On fourth down, McCaughey got sacked. I sat down on a cold bleacher and stayed there a while. Eleven flags for 125 yards didn't help us, either."
+        },
+        {
+          "type": "paragraph",
+          "text": "One game left, and it's at home. Next up: Kent State at Rynearson Stadium, Tuesday, Nov. 24, at 7:00 PM ET. Bring the green, Ypsi. Go Eagles!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Eastern Michigan lost 34-27 at Western Michigan on Tuesday, Nov. 17, at Waldo Stadium after trailing 31-7 at halftime. The Eagles are 4-7, 3-4 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Amareon Blue ran for a career-high 160 yards and three touchdowns, and Brogan McCaughey threw a 1-yard touchdown to Joshua Long."
+        },
+        {
+          "type": "fact",
+          "text": "Eastern's last drive reached the Western Michigan 22 before a fourth-down sack in the final minute."
+        },
+        {
+          "type": "jab",
+          "text": "Western Michigan needed 30 minutes to build a lead and the whole second half to hang onto it."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Kent State, Tuesday, Nov. 24, 7:00 PM ET, Rynearson Stadium, Ypsilanti."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Western Michigan 34, Eastern Michigan 27 (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866465"
+        },
+        {
+          "label": "ESPN play-by-play, Eastern Michigan at Western Michigan (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866465"
+        },
+        {
+          "label": "ESPN game page, Eastern Michigan at Western Michigan (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866465"
+        },
+        {
+          "label": "ESPN Eastern Michigan Eagles 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2199"
+        },
+        {
+          "label": "ESPN game recap, Western Michigan 34, Eastern Michigan 27 (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401866465"
+        },
+        {
+          "label": "Eastern Michigan Athletics: Eastern Comeback Bid Falls Short at Western Michigan (Nov. 17, 2026)",
+          "url": "https://emueagles.com/news/2026/11/17/football-eastern-comeback-bid-falls-short-at-western-michigan"
+        },
+        {
+          "label": "CBS Sports (AP): Jalen Buckley leads Western Michigan past Eastern Michigan 34-27 (Nov. 17, 2026)",
+          "url": "https://www.cbssports.com/college-football/news/jalen-buckley-leads-western-michigan-past-eastern-michigan-34-27/"
+        },
+        {
+          "label": "MLive: WMU nearly blows 24-point lead, survives EMU with final sack (Nov. 17, 2026)",
+          "url": "https://www.mlive.com/broncos/2026/11/wmu-nearly-blows-24-point-lead-survives-emu-with-final-sack-to-stay-tied-atop-mac-race.html"
+        },
+        {
+          "label": "Eastern Michigan Athletics: Football Hits the Road For a Tuesday Battle in Kalamazoo (Nov. 12, 2026)",
+          "url": "https://emueagles.com/news/2026/11/12/football-hits-the-road-for-a-tuesday-battle-in-kalamazoo"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-western-michigan-2026-11-17",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "western-michigan",
+      "team_ids": [
+        "western-michigan"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866465",
+      "title": "Western Michigan vs Eastern Michigan: Buckley, Franklin Seal a 34-27 Win",
+      "byline": "Corwin Dahlquist, The Western Michigan Fanatic",
+      "matchup": "Final: Western Michigan Broncos (8-3) 34, Eastern Michigan Eagles (4-7) 27, Tue., Nov. 17, Waldo Stadium, Kalamazoo. Next: vs Miami (OH), Tue., Nov. 24, 7:00 PM ET, Waldo Stadium, Kalamazoo",
+      "date": "2026-11-17",
+      "word_count": 400,
+      "text": "Western Michigan 34, Eastern Michigan 27, and Waldo Stadium can finally breathe again. Tuesday was the Broncos' annual Military Appreciation Game, the night Kalamazoo honored the veterans on our own staff, and our defense saved its best salute for the very last snap. We're 8-3, 6-1 in the MAC, and the Michigan MAC Trophy stays in Kalamazoo for a third straight year.\n\nEight seconds. That's how long it took. Jalen Buckley took our first snap 72 yards for a touchdown, and I spilled cocoa on my own boots. He added a 1-yard score to cap a 93-yard march, and it was 14-0. Buckley finished with 140 yards on 20 carries, and that second score moved him to third in program history in rushing touchdowns.\n\nThen came the last minute of the half, which I would frame if I could. Cole Cabana punched in a 2-yard run with 40 seconds left for 24-7. Eastern tried one more throw, and Dillon Moore jumped it and ran 50 yards the other way with two seconds on the clock. 31-7 at the break. Moore also made 12 tackles, because one big play wasn't enough for him.\n\nThe second half was a test of my heart. Eastern scored on its first three drives. Amareon Blue broke a 41-yard touchdown run, the two-point try failed, and a 1-yard throw to Joshua Long made it 31-20. Our kicker steadied us with a 27-yard field goal for 34-20 with 12:45 left, and Blue answered from the 1 at 7:36. 34-27. Blue ran for 160 yards and three scores, and I tip my cap to him.\n\nThen the finish. Eastern got the ball at its own 23 with 1:51 left and pushed all the way to our 22. Fourth down. Joshua Franklin came on a blitz from the secondary and sacked Brogan McCaughey for a 17-yard loss, and Broc Lowry took a knee. Scoop Gardner Jr. added 1.5 sacks, and our ground game rolled up 235 yards, with Lowry running for 57 of them.\n\nIt wasn't pretty after halftime, and I'll admit I aged a little. But on a night set aside to thank the people who served, a defense that answered the call on fourth down felt about right. That's four straight wins against Eastern, too.\n\nNext up: Miami (OH) comes to Waldo Stadium on Tuesday, Nov. 24, at 7:00 PM ET. Bring your voice, Kalamazoo. Go Broncos!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Western Michigan 34, Eastern Michigan 27, and Waldo Stadium can finally breathe again. Tuesday was the Broncos' annual Military Appreciation Game, the night Kalamazoo honored the veterans on our own staff, and our defense saved its best salute for the very last snap. We're 8-3, 6-1 in the MAC, and the Michigan MAC Trophy stays in Kalamazoo for a third straight year."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eight seconds. That's how long it took. Jalen Buckley took our first snap 72 yards for a touchdown, and I spilled cocoa on my own boots. He added a 1-yard score to cap a 93-yard march, and it was 14-0. Buckley finished with 140 yards on 20 carries, and that second score moved him to third in program history in rushing touchdowns."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the last minute of the half, which I would frame if I could. Cole Cabana punched in a 2-yard run with 40 seconds left for 24-7. Eastern tried one more throw, and Dillon Moore jumped it and ran 50 yards the other way with two seconds on the clock. 31-7 at the break. Moore also made 12 tackles, because one big play wasn't enough for him."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half was a test of my heart. Eastern scored on its first three drives. Amareon Blue broke a 41-yard touchdown run, the two-point try failed, and a 1-yard throw to Joshua Long made it 31-20. Our kicker steadied us with a 27-yard field goal for 34-20 with 12:45 left, and Blue answered from the 1 at 7:36. 34-27. Blue ran for 160 yards and three scores, and I tip my cap to him."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the finish. Eastern got the ball at its own 23 with 1:51 left and pushed all the way to our 22. Fourth down. Joshua Franklin came on a blitz from the secondary and sacked Brogan McCaughey for a 17-yard loss, and Broc Lowry took a knee. Scoop Gardner Jr. added 1.5 sacks, and our ground game rolled up 235 yards, with Lowry running for 57 of them."
+        },
+        {
+          "type": "paragraph",
+          "text": "It wasn't pretty after halftime, and I'll admit I aged a little. But on a night set aside to thank the people who served, a defense that answered the call on fourth down felt about right. That's four straight wins against Eastern, too."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: Miami (OH) comes to Waldo Stadium on Tuesday, Nov. 24, at 7:00 PM ET. Bring your voice, Kalamazoo. Go Broncos!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Western Michigan beat Eastern Michigan 34-27 on Tuesday, Nov. 17, at Waldo Stadium on Military Appreciation night. The Broncos are 8-3, 6-1 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Jalen Buckley ran 72 yards for a touchdown on the first snap and finished with 140 yards, and Dillon Moore returned an interception 50 yards for a score before halftime."
+        },
+        {
+          "type": "fact",
+          "text": "Joshua Franklin sacked Brogan McCaughey on fourth down in the final minute to end Eastern's comeback."
+        },
+        {
+          "type": "jab",
+          "text": "Eastern came back from 31-7 and still had to drive home with the trophy staying in Kalamazoo."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Miami (OH), Tuesday, Nov. 24, 7:00 PM ET, Waldo Stadium, Kalamazoo."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Western Michigan 34, Eastern Michigan 27 (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866465"
+        },
+        {
+          "label": "ESPN play-by-play, Eastern Michigan at Western Michigan (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866465"
+        },
+        {
+          "label": "ESPN game page, Eastern Michigan at Western Michigan (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866465"
+        },
+        {
+          "label": "ESPN Western Michigan Broncos 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2711"
+        },
+        {
+          "label": "ESPN game recap, Western Michigan 34, Eastern Michigan 27 (Nov. 17, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401866465"
+        },
+        {
+          "label": "CBS Sports (AP): Jalen Buckley leads Western Michigan past Eastern Michigan 34-27 (Nov. 17, 2026)",
+          "url": "https://www.cbssports.com/college-football/news/jalen-buckley-leads-western-michigan-past-eastern-michigan-34-27/"
+        },
+        {
+          "label": "MLive: WMU nearly blows 24-point lead, survives EMU with final sack (Nov. 17, 2026)",
+          "url": "https://www.mlive.com/broncos/2026/11/wmu-nearly-blows-24-point-lead-survives-emu-with-final-sack-to-stay-tied-atop-mac-race.html"
+        },
+        {
+          "label": "Western Michigan Athletics: Broncos Welcome Eastern Michigan for Tuesday Night #MACtion (Nov. 16, 2026)",
+          "url": "https://wmubroncos.com/news/2026/11/16/football-broncos-welcome-eastern-michigan-for-tuesday-night-maction.aspx"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    }
+  ]
+}
