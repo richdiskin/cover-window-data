@@ -3,115 +3,74 @@
  "feature": "Lock It Up",
  "league": "college",
  "season": 2026,
- "slate": "Wednesday, Nov 18, 2026",
+ "slate": "Thursday, Nov 19, 2026",
  "edition": "gambler",
  "gambler_only": true,
- "inputs_as_of": "9:24-9:25 AM ET Wed Nov 18, 2026",
- "published_at": "2026-11-18T14:28Z",
- "headline": "Two Points of Total in Buffalo, and a Point of Spread",
- "dek": "Wednesday morning conference call, five lines, two MACtion games on the invite. Somebody joins with a leaf blower running outside the window, and the whole call learns what November sounds like in the Northeast.",
- "body_markdown": "**IN THE TRENCHES:** \"Is that a leaf blower or a pass rush? Either way, mute it.\"\n\n**Who's holding**\n- The Formula: both games, unchanged. Sticking with Massachusetts Minutemen −3.5 and Over 46.5, and Buffalo Bulls −2.5 and Over 45.5.\n- Next Man Up: both games, unchanged. Sticking with Massachusetts Minutemen −3.5 and Over 46.5, and Buffalo Bulls −2.5 and Under 45.5.\n- Letdown Watch: one change (see Central Michigan at Buffalo). Sticking with Massachusetts Minutemen −3.5 and Over 46.5, and Buffalo Bulls −2.5.\n- Follow The Money: one change (see Central Michigan at Buffalo). Nothing on Akron at UMass. Shows the market only and has no score of its own.\n- In The Trenches: Massachusetts Minutemen −3.5. That card was corrected Tuesday morning to the side its own score covers (UMass 34-20); the first post was Akron Zips +3. Nothing on Central Michigan at Buffalo, no over/under calls.\n\n**Central Michigan at Buffalo: the total went to 45.5, and the spread walked back**\n\n**LETDOWN WATCH:** \"The Action Network consensus total was 43.5 when I posted. It went to 44.5 at 4:01 PM ET Monday and 45.5 at 9:23 PM ET, and it hasn't budged since. My number is Buffalo 25, Central Michigan 19. That's 44 points, which used to be over and is now under. I'm flipping. Original pick stays on record: Over 43.5. Final pick: Under 45.5.\"\n\n**NEXT MAN UP:** \"Welcome to the Under. I've had the heated seat warm since Monday.\"\n\n**THE FORMULA:** \"Enjoy it, both of you. My 47 still clears 45.5. I'm staying Over, and I'll be the only one cheering for a late field goal.\"\n\n**FOLLOW THE MONEY:** \"The spread is mine. The first consensus number after Monday night was Buffalo −1.5 at 3:11 AM ET Tuesday. It went to −2.5 at 8:58 AM ET, and DraftKings is −2.5 too. That's a full point toward Buffalo. Original pick stays on record: No pick. Final pick: Buffalo Bulls −2.5.\"\n\n**LETDOWN WATCH:** \"And I'm keeping Buffalo. The spread is back to 2.5, and my six-point win still clears it.\"\n\n**Everybody else: sticking**\n- Akron at UMass: DraftKings and the Action Network consensus both moved from UMass −3 to −3.5, with the total still 46.5. Every UMass card projects a win of eight points or more, and every Over card projects 48 or more. Nobody moves. William \"Pop\" Watson III re-aggravated his ankle injury at Toledo, and Joe Harasymiak told reporters he is \"hopeful\" Watson takes the first snaps. Nothing is confirmed, so nothing moves.\n- Central Michigan at Buffalo: DraftKings and the Action Network consensus are both Buffalo −2.5, with the total still 45.5. Every Buffalo card still covers. Central Michigan's game notes have Jadyn Glasser at quarterback for a third straight start, with Angel Flores out for the season. That was already true when the cards were posted.\n- Injury reports: MAC availability reports are not up yet (due 6:00 PM ET for Amherst and 6:30 PM ET for Buffalo). ESPN lists no injuries for either game.\n- Weather: no rain in the National Weather Service forecast for either game. Amherst is 41 degrees with a 3 mph wind at 7 PM, and Buffalo is 46 degrees with a 7 mph wind at 7 PM.\n- The Cover Writer: the side holds in both games, and one total moves. Sticking with Massachusetts Minutemen −3.5 and Over 46.5 (UMass 31, Akron 19). In Buffalo, the score stays Buffalo 24, Central Michigan 20, and the pick is Buffalo Bulls −2.5 and Under 45.5. The total moved from 43.5 to 45.5, so a 44-point game went from over to under. The first post was Buffalo Bulls −2.5 and Over 43.5.\n\n**Closing button:** Two points of total in Buffalo moved two cards to the Under and left The Formula alone on the Over. A point of spread brought Follow The Money onto Buffalo. Next up are the MAC availability reports at 6:00 and 6:30 PM ET. And somebody please finish raking that yard.\n\n**Changes**\n\n- game_id: 401866469 (Central Michigan Chippewas at Buffalo Bulls)\n- handicapper: Letdown Watch\n- market: total\n- original: Over 43.5 at 43.5, made Nov 16, 2026, 12:56 PM ET\n- final: Under 45.5 at 45.5\n- changed_at: Nov 18, 2026, 9:10 AM ET; kickoff Nov 18, 2026, 7:30 PM ET\n- reason.type: line_move\n- reason.detail: Action Network consensus total for Central Michigan at Buffalo moved from 43.5 to 44.5 at 4:01 PM ET and to 45.5 at 9:23 PM ET Monday Nov 16, and it was still 45.5 at the 9:02 AM ET check Wednesday Nov 18, so Letdown Watch's projection of Buffalo 25, Central Michigan 19 (44 points) now sits under the number and the fresh rerun turns the card from Over 43.5 into Under 45.5.\n- reason.source: Action Network consensus line history, Central Michigan at Buffalo (book 15), https://api.actionnetwork.com/web/v2/markets/event/290077/history?bookIds=15 (checked Nov 18, 2026, 9:02 AM ET)\n- status: final\n\n- game_id: 401866469 (Central Michigan Chippewas at Buffalo Bulls)\n- handicapper: Follow The Money\n- market: side\n- original: No pick at −1.5, made Nov 16, 2026, 12:56 PM ET\n- final: Buffalo Bulls −2.5 at −2.5\n- changed_at: Nov 18, 2026, 9:25 AM ET; kickoff Nov 18, 2026, 7:30 PM ET\n- reason.type: line_move\n- reason.detail: The first Action Network consensus spread for Central Michigan at Buffalo after the Monday night game ended was Buffalo −1.5 (Tuesday Nov 17, 3:11 AM ET), and it moved from −1.5 to −2.5 at 8:58 AM ET Wednesday Nov 18 (still −2.5 at the 9:25 AM ET check, with DraftKings also at −2.5 on ESPN), a full point toward Buffalo, so the fresh market rerun turns the card from no pick into Buffalo Bulls −2.5.\n- reason.source: Action Network consensus line history, Central Michigan at Buffalo (book 15), https://api.actionnetwork.com/web/v2/markets/event/290077/history?bookIds=15 (checked Nov 18, 2026, 9:25 AM ET); ESPN game summary pickcenter (DraftKings BUF −2.5, total 45.5): https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401866469 (checked Nov 18, 2026, 9:25 AM ET)\n- status: final\n",
+ "inputs_as_of": "9:05-9:15 AM ET Thu Nov 19, 2026",
+ "published_at": "2026-11-19T14:56Z",
+ "headline": "Half a Point in Philadelphia, a New Quarterback, and One Card Moves",
+ "dek": "Thursday morning conference call, five lines, one game on the invite. Somebody dials in from a car wash, and for ninety seconds the whole call sounds like it is happening underwater.",
+ "body_markdown": "**THE FORMULA:** \"Whoever is in the car wash, I can hear the wax option. Mute it.\"\n\n**Who's holding**\n- The Formula: unchanged. Sticking with Temple Owls −3 and the Over. Temple 28, Rice 24 still covers −2.5, and 52 points still clears 51.5.\n- Next Man Up: unchanged. Sticking with Temple Owls −3 and the Over. Temple 29, Rice 23 is a six-point win and 52 points.\n- Letdown Watch: unchanged. Sticking with Temple Owls −3 and the Over. Temple 31, Rice 21 clears both numbers easily.\n- In The Trenches: unchanged. Sticking with Rice Owls +3. Temple by two on that card, and two is still short of 2.5. Sides only, no over/under calls.\n- Follow The Money: one change (see below). Shows the market only and has no score of its own.\n\n**Rice at Temple: the total went to 51.5**\n\n**FOLLOW THE MONEY:** \"The first consensus total after Monday night was 50.5. It went to 51.5 at 9:47 AM ET Wednesday, and it is still 51.5 this morning. That is a full point toward the Over, so I finally have something to say. Original pick stays on record: No pick. Final pick: Over 51.5. The spread went from Temple −3 to −2.5 at 7:21 AM ET today. Half a point toward Rice is not enough for me to pick a side.\"\n\n**IN THE TRENCHES:** \"Half a point toward Rice. The market is coming around to my side of the trenches.\"\n\n**LETDOWN WATCH:** \"The market is coming around to half a point, my friend. Relax.\"\n\n**Everybody else: sticking**\n- Quarterback news: K.C. Keeler said Monday that Jaxon Smolik starts tonight for Temple. Ajani Sheppard hurt his ankle at East Carolina, got banged up against UAB, and did not practice Monday. Smolik's last start was at Navy on Nov. 7, when he threw for 173 yards and three touchdowns and Temple scored 35. Sheppard threw for 85 yards on 30 attempts in the 36-10 loss to UAB. Nobody's projection drops with Smolik under center, so nobody moves.\n- Also from Monday: Temple running back Sam Brown V is out for the season with a rib injury. On the Rice side, Gael Ochoa stays at quarterback, which the cards already had.\n- Lines: the Action Network consensus is Temple −2.5 and 51.5, and DraftKings on ESPN is the same. Every Temple card projects a win of four points or more, and every Over card projects 52 or more. Nobody else flips.\n- Injury reports: the American Conference availability report is not up yet (it comes about two hours before kickoff). ESPN lists no injuries for this game.\n- Weather: the National Weather Service has clear skies in Philadelphia, 51 degrees with a 5 mph wind at 7 PM and no rain.\n- The Cover Writer: the side and the total both hold. Sticking with Temple Owls −3 and the Over (Temple 29, Rice 24, which still covers −2.5, and 53 points still clears 51.5). The Over was first posted at 48.5.\n\n**Closing button:** One full point of total got Follow The Money off the bench, a new quarterback got everybody's attention, and nobody's side moved. Next up is the availability report around 5:30 PM ET. And whoever was in the car wash, we hope the car came out clean.\n\n**Changes**\n\n- game_id: 401862830 (Rice Owls at Temple Owls)\n- handicapper: Follow The Money\n- market: total\n- original: No pick (consensus total 50.5), made Nov 16, 2026, 12:56 PM ET\n- final: Over 51.5 at 51.5\n- changed_at: Nov 19, 2026, 9:15 AM ET; kickoff Nov 19, 2026, 7:30 PM ET\n- reason.type: line_move\n- reason.detail: Action Network consensus total for Rice at Temple moved from 50.5 to 51.5 at 9:47 AM ET Wednesday Nov 18 (50.5 was the first consensus total after the Monday night game ended, posted since Nov 16, 4:18 PM ET), and it was still 51.5 at the 9:06 AM ET check Thursday Nov 19 with DraftKings also at 51.5 on ESPN, a full point toward the Over, so the fresh market rerun turns the card from no pick into Over 51.5.\n- reason.source: Action Network consensus line history, Rice at Temple (book 15), https://api.actionnetwork.com/web/v2/markets/event/290081/history?bookIds=15 (checked Nov 19, 2026, 9:06 AM ET)\n- status: final\n",
  "changes_file": "college/pick_changes.json",
- "change_count": 2,
+ "change_count": 1,
  "game_ids": [
-  "401866467",
-  "401866469"
+  "401862830"
  ],
  "sources": [
   {
-   "label": "Action Network consensus line history, Central Michigan at Buffalo (total 43.5 to 44.5 at 4:01 PM ET and 45.5 at 9:23 PM ET Nov 16, still 45.5 at the 9:25 AM ET check; spread Buffalo −2.5 to −1.5 at 9:27 PM ET Nov 16, then −1.5 to −2.5 at 8:58 AM ET Nov 18, still −2.5 at the 9:25 AM ET check)",
+   "label": "Action Network consensus line history, Rice at Temple (spread Temple −3 since Nov 16, 10:13 AM ET to −2.5 at 7:21 AM ET Nov 19; total 50.5 since Nov 16, 4:18 PM ET to 51.5 at 9:47 AM ET Nov 18)",
    "urls": [
-    "https://api.actionnetwork.com/web/v2/markets/event/290077/history?bookIds=15"
+    "https://api.actionnetwork.com/web/v2/markets/event/290081/history?bookIds=15"
    ],
-   "checked_et": "9:25 AM ET Nov 18, 2026",
+   "checked_et": "9:06 AM ET Nov 19, 2026",
    "note": null
   },
   {
-   "label": "Action Network consensus line history, Akron at UMass (UMass −3 to −3.5 at 10:30 PM ET Nov 17; total 46.5)",
+   "label": "ESPN game summary, Rice at Temple (DraftKings Temple −2.5, total 51.5; no injuries listed)",
    "urls": [
-    "https://api.actionnetwork.com/web/v2/markets/event/290075/history?bookIds=15"
+    "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401862830"
    ],
-   "checked_et": "9:25 AM ET Nov 18, 2026",
+   "checked_et": "9:06 AM ET Nov 19, 2026",
    "note": null
   },
   {
-   "label": "ESPN game summary, Akron at UMass (DraftKings UMass −3.5, total 46.5; no injuries listed)",
+   "label": "ESPN college football scoreboard, Nov 19 (one game, 7:30 PM ET, scheduled)",
    "urls": [
-    "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401866467"
+    "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261119&groups=80"
    ],
-   "checked_et": "9:25 AM ET Nov 18, 2026",
+   "checked_et": "9:06 AM ET Nov 19, 2026",
    "note": null
   },
   {
-   "label": "ESPN game summary, Central Michigan at Buffalo (DraftKings Buffalo −2.5, total 45.5; no injuries listed)",
+   "label": "The Philadelphia Inquirer, \"Temple turns back to Jaxon Smolik at quarterback as it prepares for a short week\" (Keeler starts Smolik; Sheppard ankle, did not practice Monday; Sheppard 85 passing yards on 30 attempts vs UAB; Smolik three touchdown passes at Navy)",
    "urls": [
-    "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401866469"
+    "https://www.inquirer.com/college-sports/temple/kc-keeler-qb-change-jaxon-smolik-ajani-sheppard-rice-20261116.html"
    ],
-   "checked_et": "9:25 AM ET Nov 18, 2026",
+   "checked_et": "9:10 AM ET Nov 19, 2026",
    "note": null
   },
   {
-   "label": "ESPN college football scoreboard, Nov 18 (two games, 7:00 PM and 7:30 PM ET, scheduled)",
+   "label": "On3 Owl Scoop, \"Jaxon Smolik will start Thursday against Rice, K.C. Keeler says\"",
    "urls": [
-    "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261118&groups=80"
+    "https://www.on3.com/sites/owl-scoop/news/jaxon-smolik-will-start-thursday-against-rice-k-c-keeler-says/"
    ],
-   "checked_et": "9:25 AM ET Nov 18, 2026",
+   "checked_et": "9:10 AM ET Nov 19, 2026",
    "note": null
   },
   {
-   "label": "The Berkshire Eagle, UMass vs Akron preview (Harasymiak \"hopeful\" Watson takes the first snaps; Watson still QB1 on the depth chart)",
+   "label": "ESPN box score, Temple at Navy, Nov 7 (Smolik 12/26, 173 yards, 3 TD, 1 INT; Navy 42, Temple 35), as compiled in the week's fact pack",
    "urls": [
-    "https://www.berkshireeagle.com/localsports/umass-has-bowl-eligibility-at-stake-in-game-with-akron/5678616"
+    "writer/college/2026-11-21/401862830_facts.md"
    ],
-   "checked_et": "9:06 AM ET Nov 18, 2026",
+   "checked_et": null,
    "note": null
   },
   {
-   "label": "By The Belt, Akron vs UMass preview (Watson re-aggravated his ankle injury at Toledo)",
+   "label": "National Weather Service hourly forecast, Philadelphia (Lincoln Financial Field)",
    "urls": [
-    "https://www.bythebelt.com/akron-zips-vs-umass-minutemen-mac-football-game-preview-how-to-watch-listen-stream-odds-2026/"
+    "https://api.weather.gov/gridpoints/PHI/50,76/forecast/hourly"
    ],
-   "checked_et": "9:06 AM ET Nov 18, 2026",
-   "note": null
-  },
-  {
-   "label": "Central Michigan Athletics, News and Notes at Buffalo (Angel Flores among starters out for the final two games)",
-   "urls": [
-    "https://cmuchippewas.com/news/2026/11/15/football-chippewas-play-at-buffalo-on-wednesday-at-7-30-pm-on-espnu"
-   ],
-   "checked_et": "9:06 AM ET Nov 18, 2026",
-   "note": null
-  },
-  {
-   "label": "Central Michigan Athletics, preview at Buffalo (Jadyn Glasser has made three consecutive starts)",
-   "urls": [
-    "https://cmuchippewas.com/news/2026/11/17/football-preview-road-test-at-buffalo-about-more-than-bowl-eligibility"
-   ],
-   "checked_et": "9:06 AM ET Nov 18, 2026",
-   "note": null
-  },
-  {
-   "label": "National Weather Service hourly forecast, Amherst (McGuirk Alumni Stadium)",
-   "urls": [
-    "https://api.weather.gov/gridpoints/BOX/22,94/forecast/hourly"
-   ],
-   "checked_et": "9:25 AM ET Nov 18, 2026",
-   "note": null
-  },
-  {
-   "label": "National Weather Service hourly forecast, Buffalo (UB Stadium)",
-   "urls": [
-    "https://api.weather.gov/gridpoints/BUF/38,53/forecast/hourly"
-   ],
-   "checked_et": "9:25 AM ET Nov 18, 2026",
-   "note": null
-  },
-  {
-   "label": "Kickoff Status, MAC availability reports (no report yet for either game; expected 3:00 PM PT for Akron at UMass and 3:30 PM PT for Central Michigan at Buffalo)",
-   "urls": [
-    "https://kickoffstatus.com/conferences/mac"
-   ],
-   "checked_et": "9:25 AM ET Nov 18, 2026",
+   "checked_et": "9:08 AM ET Nov 19, 2026",
    "note": null
   }
  ],
