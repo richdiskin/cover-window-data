@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-20T01:19:48Z",
+ "updated_utc": "2026-11-20T02:14:48Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -3892,6 +3892,14 @@
    "matchup": "UTEP Miners at Air Force Falcons",
    "kickoff_utc": "2026-11-21T01:00Z",
    "first_seen_utc": "2026-11-20T01:19:41Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401864542": {
+   "game_id": "401864542",
+   "matchup": "New Mexico Lobos at Wyoming Cowboys",
+   "kickoff_utc": "2026-11-21T02:00Z",
+   "first_seen_utc": "2026-11-20T02:14:42Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
    "halftime_eligible": true
   }
