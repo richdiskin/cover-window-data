@@ -2468,5 +2468,343 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401856869",
+  "league": "college",
+  "handicapper": "The Formula",
+  "market": "side",
+  "original": {
+   "pick": "Iowa State Cyclones +2.5",
+   "line": 2.5,
+   "made_at": "2026-11-16T17:56:20Z"
+  },
+  "final": {
+   "pick": "UCF Knights +1.5",
+   "line": 1.5
+  },
+  "changed_at": "2026-11-20T14:12:00Z",
+  "kickoff": "2026-11-20T23:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The spread for Iowa State at UCF moved from −2.5 UCF on the Nov 16 card to −1.5 Iowa State on DraftKings at the 9:04 AM ET check Friday Nov 20 (the Action Network consensus went from UCF −1.5 to Iowa State −1 at 8:52 AM ET), and The Formula's fresh projection of UCF 28, Iowa State 27 does not have Iowa State winning by two, so the card flips from Iowa State +2.5 to UCF +1.5.",
+   "source": "ESPN game summary pickcenter (DraftKings ISU −1.5, total 48.5): https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856869 (checked Nov 20, 2026, 9:05 AM ET); Action Network consensus line history, Iowa State at UCF (book 15): https://api.actionnetwork.com/web/v2/markets/event/290082/history?bookIds=15 (checked Nov 20, 2026, 9:05 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856869",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856869",
+  "league": "college",
+  "handicapper": "Next Man Up",
+  "market": "side",
+  "original": {
+   "pick": "Iowa State Cyclones +2.5",
+   "line": 2.5,
+   "made_at": "2026-11-16T17:56:20Z"
+  },
+  "final": {
+   "pick": "UCF Knights +1.5",
+   "line": 1.5
+  },
+  "changed_at": "2026-11-20T14:12:00Z",
+  "kickoff": "2026-11-20T23:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The spread for Iowa State at UCF moved from −2.5 UCF on the Nov 16 card to −1.5 Iowa State on DraftKings at the 9:04 AM ET check Friday Nov 20 (the Action Network consensus went from UCF −1.5 to Iowa State −1 at 8:52 AM ET), and Next Man Up's projection of UCF 29, Iowa State 27 now has the home team getting points and winning, so the card flips from Iowa State +2.5 to UCF +1.5.",
+   "source": "ESPN game summary pickcenter (DraftKings ISU −1.5, total 48.5): https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856869 (checked Nov 20, 2026, 9:05 AM ET); Action Network consensus line history, Iowa State at UCF (book 15): https://api.actionnetwork.com/web/v2/markets/event/290082/history?bookIds=15 (checked Nov 20, 2026, 9:05 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856869",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856869",
+  "league": "college",
+  "handicapper": "Letdown Watch",
+  "market": "total",
+  "original": {
+   "pick": "Under 53.5",
+   "line": 53.5,
+   "made_at": "2026-11-16T17:56:20Z"
+  },
+  "final": {
+   "pick": "Over 48.5",
+   "line": 48.5
+  },
+  "changed_at": "2026-11-20T14:12:00Z",
+  "kickoff": "2026-11-20T23:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The total for Iowa State at UCF moved from 53.5 on the Nov 16 card to 48.5 (Action Network consensus down from 52.5 to 48.5 at 9:15 AM ET Nov 18, a dip to 47.5 at 1:42 AM ET Friday, back to 48.5 at 7:22 AM ET; DraftKings 48.5 at the 9:04 AM ET check Friday Nov 20), so Letdown Watch's projection of Iowa State 29, UCF 24 (53 points) now clears the number and the card turns from Under 53.5 to Over 48.5.",
+   "source": "Action Network consensus line history, Iowa State at UCF (book 15): https://api.actionnetwork.com/web/v2/markets/event/290082/history?bookIds=15 (checked Nov 20, 2026, 9:05 AM ET); ESPN game summary pickcenter (DraftKings total 48.5): https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856869 (checked Nov 20, 2026, 9:05 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290082/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856869",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": -2.5,
+   "made_at": "2026-11-16T17:56:20Z"
+  },
+  "final": {
+   "pick": "Iowa State Cyclones −1",
+   "line": -1.0
+  },
+  "changed_at": "2026-11-20T14:12:00Z",
+  "kickoff": "2026-11-20T23:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The Action Network consensus spread for Iowa State at UCF moved from −2.5 UCF (the open after the Monday night game ended) to −1.5 UCF at 11:45 AM ET Thursday Nov 19 and then to −1 Iowa State at 8:52 AM ET Friday Nov 20, still Iowa State −1 at the 9:05 AM ET check, a 3.5-point move toward Iowa State, so the fresh market rerun turns the card from no pick into Iowa State −1.",
+   "source": "Action Network consensus line history, Iowa State at UCF (book 15): https://api.actionnetwork.com/web/v2/markets/event/290082/history?bookIds=15 (checked Nov 20, 2026, 9:05 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290082/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856869",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 53.5,
+   "made_at": "2026-11-16T17:56:20Z"
+  },
+  "final": {
+   "pick": "Under 48.5",
+   "line": 48.5
+  },
+  "changed_at": "2026-11-20T14:12:00Z",
+  "kickoff": "2026-11-20T23:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The Action Network consensus total for Iowa State at UCF moved from 52.5 (the open after the Monday night game ended) to 48.5 at 9:15 AM ET Wednesday Nov 18 (47.5 at 1:42 AM ET Friday, back to 48.5 at 7:22 AM ET), still 48.5 at the 9:05 AM ET check Friday Nov 20, a 4-point move toward the Under, so the fresh market rerun turns the card from no pick into Under 48.5.",
+   "source": "Action Network consensus line history, Iowa State at UCF (book 15): https://api.actionnetwork.com/web/v2/markets/event/290082/history?bookIds=15 (checked Nov 20, 2026, 9:05 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290082/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401858303",
+  "league": "college",
+  "handicapper": "Next Man Up",
+  "market": "side",
+  "original": {
+   "pick": "Duke Blue Devils −12.5",
+   "line": -12.5,
+   "made_at": "2026-11-16T17:56:20Z"
+  },
+  "final": {
+   "pick": "Clemson Tigers +13.5",
+   "line": 13.5
+  },
+  "changed_at": "2026-11-20T14:12:00Z",
+  "kickoff": "2026-11-21T00:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The spread for Clemson at Duke moved from Duke −12.5 on the Nov 16 card to Duke −13.5 on DraftKings (−13.5 at the 10:41 PM ET check Thursday Nov 19 and still −13.5 at 9:04 AM ET Friday Nov 20; the Action Network consensus was Duke −13.5 from 6:59 PM ET Nov 18 and ticked back to −12.5 at 8:56 AM ET Friday), and Next Man Up's projection of Duke 25, Clemson 12 is a 13-point win, short of 13.5, so the card turns from Duke −12.5 to Clemson +13.5.",
+   "source": "ESPN game summary pickcenter (DraftKings DUKE −13.5, total 41.5): https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401858303 (checked Nov 20, 2026, 9:05 AM ET); prekickoff dry run Nov 19, 10:41 PM ET (DraftKings −13.5/41.5); Action Network consensus line history, Clemson at Duke (book 15): https://api.actionnetwork.com/web/v2/markets/event/290133/history?bookIds=15 (checked Nov 20, 2026, 9:05 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401858303",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401858303",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 43.5,
+   "made_at": "2026-11-16T17:56:20Z"
+  },
+  "final": {
+   "pick": "Over 41.5",
+   "line": 41.5
+  },
+  "changed_at": "2026-11-20T14:12:00Z",
+  "kickoff": "2026-11-21T00:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The Action Network consensus total for Clemson at Duke moved from 40.5 (the open after the Monday night game ended) to 41.5 at 9:42 PM ET Thursday Nov 19, still 41.5 at the 9:05 AM ET check Friday Nov 20, a full point toward the Over, so the fresh market rerun turns the card from no pick into Over 41.5.",
+   "source": "Action Network consensus line history, Clemson at Duke (book 15): https://api.actionnetwork.com/web/v2/markets/event/290133/history?bookIds=15 (checked Nov 20, 2026, 9:05 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290133/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401866468",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": -16.5,
+   "made_at": "2026-11-16T17:56:20Z"
+  },
+  "final": {
+   "pick": "Toledo Rockets −16.5",
+   "line": -16.5
+  },
+  "changed_at": "2026-11-20T14:12:00Z",
+  "kickoff": "2026-11-21T00:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The Action Network consensus spread for Bowling Green at Toledo opened Toledo −15.5 after the Monday night game ended, moved from −15.5 to −16.5 for good at 7:57 PM ET Wednesday Nov 18 after bouncing between the two, and was still −16.5 at the 9:05 AM ET check Friday Nov 20, a full point toward Toledo, so the fresh market rerun turns the card from no pick into Toledo −16.5.",
+   "source": "Action Network consensus line history, Bowling Green at Toledo (book 15): https://api.actionnetwork.com/web/v2/markets/event/290076/history?bookIds=15 (checked Nov 20, 2026, 9:05 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290076/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401866468",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 48.5,
+   "made_at": "2026-11-16T17:56:20Z"
+  },
+  "final": {
+   "pick": "Under 47.5",
+   "line": 47.5
+  },
+  "changed_at": "2026-11-20T14:12:00Z",
+  "kickoff": "2026-11-21T00:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The Action Network consensus total for Bowling Green at Toledo moved from 48.5 (the open after the Monday night game ended) to 47.5 at 2:08 AM ET Friday Nov 20, still 47.5 at the 9:05 AM ET check, a full point toward the Under, so the fresh market rerun turns the card from no pick into Under 47.5.",
+   "source": "Action Network consensus line history, Bowling Green at Toledo (book 15): https://api.actionnetwork.com/web/v2/markets/event/290076/history?bookIds=15 (checked Nov 20, 2026, 9:05 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290076/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401858529",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": 16.5,
+   "made_at": "2026-11-16T17:56:20Z"
+  },
+  "final": {
+   "pick": "Oregon Ducks −17.5",
+   "line": -17.5
+  },
+  "changed_at": "2026-11-20T14:12:00Z",
+  "kickoff": "2026-11-21T01:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The Action Network consensus spread for Oregon at Michigan State moved from −16 Oregon (the open after the Monday night game ended) to −16.5 at 6:01 PM ET Nov 17 and to −17.5 at 1:51 PM ET Thursday Nov 19, still −17.5 at the 9:05 AM ET check Friday Nov 20, a 1.5-point move toward Oregon, so the fresh market rerun turns the card from no pick into Oregon −17.5.",
+   "source": "Action Network consensus line history, Oregon at Michigan State (book 15): https://api.actionnetwork.com/web/v2/markets/event/290157/history?bookIds=15 (checked Nov 20, 2026, 9:05 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290157/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401858529",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 44.5,
+   "made_at": "2026-11-16T17:56:20Z"
+  },
+  "final": {
+   "pick": "Under 44.5",
+   "line": 44.5
+  },
+  "changed_at": "2026-11-20T14:12:00Z",
+  "kickoff": "2026-11-21T01:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The Action Network consensus total for Oregon at Michigan State moved from 45.5 (the open after the Monday night game ended) to 44.5 at 9:26 AM ET Wednesday Nov 18, still 44.5 at the 9:05 AM ET check Friday Nov 20, a full point toward the Under, so the fresh market rerun turns the card from no pick into Under 44.5.",
+   "source": "Action Network consensus line history, Oregon at Michigan State (book 15): https://api.actionnetwork.com/web/v2/markets/event/290157/history?bookIds=15 (checked Nov 20, 2026, 9:05 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290157/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401864545",
+  "league": "college",
+  "handicapper": "The Formula",
+  "market": "total",
+  "original": {
+   "pick": "Over 45.5",
+   "line": 45.5,
+   "made_at": "2026-11-16T17:56:20Z"
+  },
+  "final": {
+   "pick": "Under 47.5",
+   "line": 47.5
+  },
+  "changed_at": "2026-11-20T14:12:00Z",
+  "kickoff": "2026-11-21T01:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The total for UTEP at Air Force moved from 45.5 on the Nov 16 card to 47.5 (Action Network consensus 47.5 since 4:10 PM ET Nov 16; DraftKings 47.5 at the 9:04 AM ET check Friday Nov 20), and The Formula's fresh projection this morning is Air Force 34, UTEP 13 (47 points), under 47.5, so the card turns from Over 45.5 to Under 47.5.",
+   "source": "Action Network consensus line history, UTEP at Air Force (book 15): https://api.actionnetwork.com/web/v2/markets/event/290093/history?bookIds=15 (checked Nov 20, 2026, 9:05 AM ET); ESPN game summary pickcenter (DraftKings AF −21.5, total 47.5): https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401864545 (checked Nov 20, 2026, 9:05 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290093/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401864545",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": -22.5,
+   "made_at": "2026-11-16T17:56:20Z"
+  },
+  "final": {
+   "pick": "UTEP Miners +21.5",
+   "line": 21.5
+  },
+  "changed_at": "2026-11-20T14:12:00Z",
+  "kickoff": "2026-11-21T01:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The Action Network consensus spread for UTEP at Air Force opened Air Force −22.5 after the Monday night game ended, moved from −22.5 to −21.5 for good at 3:19 PM ET Thursday Nov 19 after bouncing around, and was still −21.5 at the 9:05 AM ET check Friday Nov 20, a full point toward UTEP, so the fresh market rerun turns the card from no pick into UTEP +21.5.",
+   "source": "Action Network consensus line history, UTEP at Air Force (book 15): https://api.actionnetwork.com/web/v2/markets/event/290093/history?bookIds=15 (checked Nov 20, 2026, 9:05 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290093/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
