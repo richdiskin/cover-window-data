@@ -4,9 +4,437 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-11-11T05:37:32Z",
-  "count": 172,
+  "count": 176,
   "lead_id": null,
   "articles": [
+    {
+      "id": "fanatic_team-ind-2026-11-19",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "ind",
+      "team_ids": [
+        "ind"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873066",
+      "title": "Indianapolis Colts vs Houston Texans Week 11: Three Points, Three Kicks, One Long Night, 3-26",
+      "byline": "",
+      "matchup": "Final: Houston Texans (4-6) 26, Indianapolis Colts (3-8) 3, Thu., Nov. 19, Reliant Stadium, Houston. Next: vs New York Giants, Sun., Nov. 29, 1:00 PM ET, Lucas Oil Stadium, Indianapolis",
+      "date": "2026-11-19",
+      "word_count": 365,
+      "text": "Texans 26, Colts 3. I'd love to tell you it was closer than that, but I don't do fairy tales on Thursdays. The Indianapolis Colts are 3-8 after a night in Houston where the only stretch that worked for us was the first 10 minutes.\n\nAnd those first 10 minutes were great! Daniel Jones moved us 44 yards on the opening drive, and Spencer Shrader knocked through a 34-yard field goal for a 3-0 lead. Then A.J. Haulcy intercepted C.J. Stroud on Houston's very first possession. I was out of my seat, already mapping a parade route down Meridian Street.\n\nThen Shrader's 56-yard try drifted wide left, and Stroud hit Nico Collins for 42 yards and a touchdown three plays later. Kamari Lassiter intercepted Jones on the first play of the second quarter, Houston went 85 yards for a 14-3 lead, and Shrader's 62-yarder got blocked. 17-3 at the half. Three field goal tries, one make, and that was our whole scoring night.\n\nThe third quarter didn't help. Will Anderson Jr. sacked Jones in our own end zone for a safety, and a 13-yard Marlin Klein touchdown made it 26-3.\n\nLet's be fair to our guys. We were missing both of our regular tackles, Bernhard Raimann and Jalen Travis, and both of our outside corners, Sauce Gardner and Charvarius Ward Sr. Jonathan Taylor had nowhere to run, finishing with 21 yards on 11 carries. Jones went 12 of 27 for 144 yards. We finished with 167 yards of offense and 38 rushing yards, both season lows, and it's the first time we failed to reach the end zone since a 24-6 loss to Detroit in November 2024.\n\nBright spots, because I'm a Colts fan and I always find them: CJ Allen made 16 tackles and played like a man possessed. Rigoberto Sanchez boomed three punts for a 49.0 average. Anthony Gould caught two balls for 48 yards, and Seth McGowan ran back three kickoffs for 117 yards before a hamstring injury in the second quarter.\n\nTen days to regroup. Next up: the New York Giants come to Lucas Oil Stadium on Sunday, Nov. 29, at 1:00 PM ET. Pack the place, Colts fans. Go Colts!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Texans 26, Colts 3. I'd love to tell you it was closer than that, but I don't do fairy tales on Thursdays. The Indianapolis Colts are 3-8 after a night in Houston where the only stretch that worked for us was the first 10 minutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "And those first 10 minutes were great! Daniel Jones moved us 44 yards on the opening drive, and Spencer Shrader knocked through a 34-yard field goal for a 3-0 lead. Then A.J. Haulcy intercepted C.J. Stroud on Houston's very first possession. I was out of my seat, already mapping a parade route down Meridian Street."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Shrader's 56-yard try drifted wide left, and Stroud hit Nico Collins for 42 yards and a touchdown three plays later. Kamari Lassiter intercepted Jones on the first play of the second quarter, Houston went 85 yards for a 14-3 lead, and Shrader's 62-yarder got blocked. 17-3 at the half. Three field goal tries, one make, and that was our whole scoring night."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter didn't help. Will Anderson Jr. sacked Jones in our own end zone for a safety, and a 13-yard Marlin Klein touchdown made it 26-3."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let's be fair to our guys. We were missing both of our regular tackles, Bernhard Raimann and Jalen Travis, and both of our outside corners, Sauce Gardner and Charvarius Ward Sr. Jonathan Taylor had nowhere to run, finishing with 21 yards on 11 carries. Jones went 12 of 27 for 144 yards. We finished with 167 yards of offense and 38 rushing yards, both season lows, and it's the first time we failed to reach the end zone since a 24-6 loss to Detroit in November 2024."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bright spots, because I'm a Colts fan and I always find them: CJ Allen made 16 tackles and played like a man possessed. Rigoberto Sanchez boomed three punts for a 49.0 average. Anthony Gould caught two balls for 48 yards, and Seth McGowan ran back three kickoffs for 117 yards before a hamstring injury in the second quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ten days to regroup. Next up: the New York Giants come to Lucas Oil Stadium on Sunday, Nov. 29, at 1:00 PM ET. Pack the place, Colts fans. Go Colts!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Indianapolis Colts lost 26-3 to the Houston Texans on Thursday, Nov. 19, at Reliant Stadium. They are 3-8."
+        },
+        {
+          "type": "fact",
+          "text": "Spencer Shrader made a 34-yard field goal on the first drive, missed from 56 and had a 62-yard try blocked."
+        },
+        {
+          "type": "fact",
+          "text": "The Colts were held to a season-low 167 yards and 38 rushing yards without both regular tackles and both outside corners."
+        },
+        {
+          "type": "jab",
+          "text": "Houston needed a roof opening, a safety and a blocked kick to feel good about itself. Glad we could help."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs New York Giants, Sunday, Nov. 29, 1:00 PM ET, Lucas Oil Stadium, Indianapolis."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Texans 26, Colts 3 (Nov. 19, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873066"
+        },
+        {
+          "label": "ESPN play-by-play, Colts at Texans (Nov. 19, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873066"
+        },
+        {
+          "label": "ESPN game page, Colts at Texans (Nov. 19, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873066"
+        },
+        {
+          "label": "ESPN Colts schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/ind/indianapolis-colts"
+        },
+        {
+          "label": "ESPN game recap (AP), Texans 26, Colts 3 (Nov. 19, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873066"
+        },
+        {
+          "label": "Colts.com: Colts fall to Texans on Thursday Night Football in Week 11 (Nov. 19, 2026)",
+          "url": "https://www.colts.com/news/colts-fall-to-texans-on-thursday-night-football-in-week-11"
+        },
+        {
+          "label": "ESPN: Texans handle Colts on Thursday Night Football (Nov. 19, 2026)",
+          "url": "https://www.espn.com/nfl/story/_/id/50536733/texans-colts-thursday-night-football-cj-stroud-defense"
+        },
+        {
+          "label": "HoustonTexans.com Week 11 box score, Texans vs. Colts (Nov. 19, 2026)",
+          "url": "https://www.houstontexans.com/gameday/2026/week-11-texans-vs-colts/box-score"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-hou-2026-11-19",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "hou",
+      "team_ids": [
+        "hou"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873066",
+      "title": "Houston Texans vs Indianapolis Colts Week 11: Roof Open, Stroud Hot, Anderson Safety, 26-3",
+      "byline": "",
+      "matchup": "Final: Houston Texans (4-6) 26, Indianapolis Colts (3-8) 3, Thu., Nov. 19, Reliant Stadium, Houston. Next: vs Baltimore Ravens, Sun., Nov. 29, 1:00 PM ET, Reliant Stadium, Houston",
+      "date": "2026-11-19",
+      "word_count": 352,
+      "text": "They opened the roof, Houston! For the first time since a November night against Detroit in 2024, Reliant Stadium let the sky in, and the Houston Texans finally gave the home crowd a reason to howl. Texans 26, Colts 3. Our first home win of the season after four straight losses at Reliant. We're 4-6, and last week's collapse against Cleveland feels like it happened to some other team.\n\nIt didn't open pretty. Indy kicked a field goal on the first drive, and C.J. Stroud's first deep throw got tipped four times before A.J. Haulcy came down with it. Fine. Our defense shrugged, Spencer Shrader pushed a 56-yarder wide left, and three plays later Stroud dropped a 42-yard rainbow into Nico Collins' hands. 7-3, and we never looked back.\n\nKamari Lassiter intercepted Daniel Jones on the first snap of the second quarter, and Stroud marched us 85 yards in 12 plays, finishing with a 24-yard strike to Kayshon Boutte. Logan Hall blocked a 62-yard field goal try, Ka'imi Fairbairn hit from 27 with 15 seconds left, and it was 17-3 at the half.\n\nThen Will Anderson Jr. went full Will Anderson Jr. Third-and-8 at the Colts 7, Jones dropped back into his own end zone, and Anderson ate him alive for a safety. 19-3. That's 11 and a half sacks for the NFL's sack leader, plus four quarterback hits on the night. On the next drive, rookie Marlin Klein caught a 13-yard touchdown, and it was 26-3 in the third quarter.\n\nStroud was surgical: 21 of 27, 194 yards, three touchdowns, his third straight game with at least three touchdown throws. David Montgomery, back after missing four games, pounded out 107 yards on 26 carries, his best of the season. And the defense? Indy managed 167 yards of offense and 38 on the ground. Jonathan Taylor got 21 yards on 11 carries. Jadeveon Clowney added a sack, too.\n\nTen days to rest up. Next up: the Baltimore Ravens come to Reliant Stadium on Sunday, Nov. 29, at 1:00 PM ET. Somebody check the weather and leave that roof open. We are Texans!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "They opened the roof, Houston! For the first time since a November night against Detroit in 2024, Reliant Stadium let the sky in, and the Houston Texans finally gave the home crowd a reason to howl. Texans 26, Colts 3. Our first home win of the season after four straight losses at Reliant. We're 4-6, and last week's collapse against Cleveland feels like it happened to some other team."
+        },
+        {
+          "type": "paragraph",
+          "text": "It didn't open pretty. Indy kicked a field goal on the first drive, and C.J. Stroud's first deep throw got tipped four times before A.J. Haulcy came down with it. Fine. Our defense shrugged, Spencer Shrader pushed a 56-yarder wide left, and three plays later Stroud dropped a 42-yard rainbow into Nico Collins' hands. 7-3, and we never looked back."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kamari Lassiter intercepted Daniel Jones on the first snap of the second quarter, and Stroud marched us 85 yards in 12 plays, finishing with a 24-yard strike to Kayshon Boutte. Logan Hall blocked a 62-yard field goal try, Ka'imi Fairbairn hit from 27 with 15 seconds left, and it was 17-3 at the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Will Anderson Jr. went full Will Anderson Jr. Third-and-8 at the Colts 7, Jones dropped back into his own end zone, and Anderson ate him alive for a safety. 19-3. That's 11 and a half sacks for the NFL's sack leader, plus four quarterback hits on the night. On the next drive, rookie Marlin Klein caught a 13-yard touchdown, and it was 26-3 in the third quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stroud was surgical: 21 of 27, 194 yards, three touchdowns, his third straight game with at least three touchdown throws. David Montgomery, back after missing four games, pounded out 107 yards on 26 carries, his best of the season. And the defense? Indy managed 167 yards of offense and 38 on the ground. Jonathan Taylor got 21 yards on 11 carries. Jadeveon Clowney added a sack, too."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ten days to rest up. Next up: the Baltimore Ravens come to Reliant Stadium on Sunday, Nov. 29, at 1:00 PM ET. Somebody check the weather and leave that roof open. We are Texans!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Houston Texans beat the Indianapolis Colts 26-3 on Thursday, Nov. 19, at Reliant Stadium for their first home win of the season. They are 4-6."
+        },
+        {
+          "type": "fact",
+          "text": "C.J. Stroud threw three touchdowns: 42 yards to Nico Collins, 24 to Kayshon Boutte and 13 to Marlin Klein."
+        },
+        {
+          "type": "fact",
+          "text": "Will Anderson Jr. sacked Daniel Jones in the end zone for a safety, and Logan Hall blocked a 62-yard field goal try."
+        },
+        {
+          "type": "jab",
+          "text": "Indy came in with Jonathan Taylor and left with 38 rushing yards. Thanks for visiting."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Baltimore Ravens, Sunday, Nov. 29, 1:00 PM ET, Reliant Stadium, Houston."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Texans 26, Colts 3 (Nov. 19, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873066"
+        },
+        {
+          "label": "ESPN play-by-play, Colts at Texans (Nov. 19, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873066"
+        },
+        {
+          "label": "ESPN game page, Colts at Texans (Nov. 19, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873066"
+        },
+        {
+          "label": "ESPN Texans schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/hou/houston-texans"
+        },
+        {
+          "label": "ESPN game recap (AP), Texans 26, Colts 3 (Nov. 19, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873066"
+        },
+        {
+          "label": "ESPN: Texans handle Colts on Thursday Night Football (Nov. 19, 2026)",
+          "url": "https://www.espn.com/nfl/story/_/id/50536733/texans-colts-thursday-night-football-cj-stroud-defense"
+        },
+        {
+          "label": "HoustonTexans.com Week 11 box score, Texans vs. Colts (Nov. 19, 2026)",
+          "url": "https://www.houstontexans.com/gameday/2026/week-11-texans-vs-colts/box-score"
+        },
+        {
+          "label": "Houston Chronicle: Texans will play Colts with Reliant Stadium roof open for first time this season",
+          "url": "https://www.houstonchronicle.com/sports/texans/article/colts-game-roof-open-reliant-stadium-history-22538552.php"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-temple-2026-11-19",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "temple",
+      "team_ids": [
+        "temple"
+      ],
+      "tab_id": "aac",
+      "game_id": "401862830",
+      "title": "Temple vs Rice: 300 Rushing Yards, a 10-Point Lead, and Six Seconds Too Many, 31-27",
+      "byline": "Teddy Fiorella, The Temple Fanatic",
+      "matchup": "Final: Rice Owls (2-9) 31, Temple Owls (2-9) 27, Thu., Nov. 19, Lincoln Financial Field, Philadelphia. Next: at Memphis, Fri., Nov. 27, 3:30 PM ET, Simmons Bank Liberty Stadium, Memphis",
+      "date": "2026-11-19",
+      "word_count": 359,
+      "text": "Rice 31, Temple 27, and I'm still glaring at the Linc scoreboard like it owes me money. Six seconds. We were six seconds from a win in the first-ever meeting between these two programs, and the visiting Owls snatched it. We're 2-9, 1-6 in the American.\n\nThe maddening part? Our guys ran the ball all night. Temple rushed for 300 yards on 35 carries, 8.6 a pop, our best rushing night since 329 yards against Howard on Sept. 6, 2025. Keveun Mason carried 15 times for 98 yards. Colin Chase broke a career-long 42-yard run on the opening drive, and Jaxon Smolik found him from 10 yards out for a 7-0 lead. First opening-drive touchdown since Charlotte.\n\nOur defense had a moment too. After Koa Akui intercepted Smolik in the second quarter, Jayce Freeman chased him down and punched the ball out, and Mason fell on it. Carl Hardin's 21-yard field goal sent us to the half up 10-7.\n\nRice took a 14-10 lead on a 46-yard D'Andre Hardeman Jr. run, and the Owls in cherry and white answered like a Philly crowd answers a bad call. Mason ripped off 31 yards, Smolik hit Freeman for 29, then found him from 2 yards out. 17-14. Two plays later, De'Carlos Young took a handoff 79 yards for the first touchdown of his career. 24-14.\n\nHardin added a 35-yarder for 27-17 with 5:18 left. Ten points, five minutes. And then it slipped. Rice converted a fourth-and-10 with a 47-yard throw, scored with 1:55 left, and after our three-and-out and a punt, got the ball back at its own 42 with less than a minute left and no timeouts. Another fourth-and-10 conversion, an offside flag, and Patrick Crayton Jr. found Jacurri Brown for a 30-yard touchdown with six seconds left.\n\nCredit where it's due. Curly Ordonez made 11 tackles, eight solo. Smolik threw for two touchdowns and ran for 49 yards. Young averaged 17 yards a carry. This team fought.\n\nNext up: at Memphis on Friday, Nov. 27, at 3:30 PM ET for the finale. One more Friday, Owls fans. Let's send this season out the right way. T for Temple U!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Rice 31, Temple 27, and I'm still glaring at the Linc scoreboard like it owes me money. Six seconds. We were six seconds from a win in the first-ever meeting between these two programs, and the visiting Owls snatched it. We're 2-9, 1-6 in the American."
+        },
+        {
+          "type": "paragraph",
+          "text": "The maddening part? Our guys ran the ball all night. Temple rushed for 300 yards on 35 carries, 8.6 a pop, our best rushing night since 329 yards against Howard on Sept. 6, 2025. Keveun Mason carried 15 times for 98 yards. Colin Chase broke a career-long 42-yard run on the opening drive, and Jaxon Smolik found him from 10 yards out for a 7-0 lead. First opening-drive touchdown since Charlotte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our defense had a moment too. After Koa Akui intercepted Smolik in the second quarter, Jayce Freeman chased him down and punched the ball out, and Mason fell on it. Carl Hardin's 21-yard field goal sent us to the half up 10-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rice took a 14-10 lead on a 46-yard D'Andre Hardeman Jr. run, and the Owls in cherry and white answered like a Philly crowd answers a bad call. Mason ripped off 31 yards, Smolik hit Freeman for 29, then found him from 2 yards out. 17-14. Two plays later, De'Carlos Young took a handoff 79 yards for the first touchdown of his career. 24-14."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hardin added a 35-yarder for 27-17 with 5:18 left. Ten points, five minutes. And then it slipped. Rice converted a fourth-and-10 with a 47-yard throw, scored with 1:55 left, and after our three-and-out and a punt, got the ball back at its own 42 with less than a minute left and no timeouts. Another fourth-and-10 conversion, an offside flag, and Patrick Crayton Jr. found Jacurri Brown for a 30-yard touchdown with six seconds left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit where it's due. Curly Ordonez made 11 tackles, eight solo. Smolik threw for two touchdowns and ran for 49 yards. Young averaged 17 yards a carry. This team fought."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: at Memphis on Friday, Nov. 27, at 3:30 PM ET for the finale. One more Friday, Owls fans. Let's send this season out the right way. T for Temple U!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Temple lost 31-27 to Rice on Thursday, Nov. 19, at Lincoln Financial Field on a touchdown with six seconds left. The Owls are 2-9, 1-6 in the American."
+        },
+        {
+          "type": "fact",
+          "text": "Temple ran for a season-high 300 yards, its most since 329 against Howard on Sept. 6, 2025."
+        },
+        {
+          "type": "fact",
+          "text": "De'Carlos Young scored the first touchdown of his career on a 79-yard run, and Curly Ordonez made 11 tackles."
+        },
+        {
+          "type": "jab",
+          "text": "Rice needed two fourth-and-10 conversions in the final five minutes. Somebody had to make it that hard."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Memphis, Friday, Nov. 27, 3:30 PM ET, Simmons Bank Liberty Stadium, Memphis."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Rice 31, Temple 27 (Nov. 19, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862830"
+        },
+        {
+          "label": "ESPN play-by-play, Rice at Temple (Nov. 19, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401862830"
+        },
+        {
+          "label": "ESPN game page, Rice at Temple (Nov. 19, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401862830"
+        },
+        {
+          "label": "ESPN Temple Owls 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/218"
+        },
+        {
+          "label": "ESPN game recap (AP), Rice 31, Temple 27 (Nov. 19, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401862830"
+        },
+        {
+          "label": "Temple Athletics: Temple Falls to Rice at Home (Nov. 19, 2026)",
+          "url": "https://owlsports.com/news/2026/11/19/football-temple-falls-to-rice-at-home"
+        },
+        {
+          "label": "Rice Athletics box score, Rice 31, Temple 27 (Nov. 19, 2026)",
+          "url": "https://riceowls.com/sports/football/stats/2026/temple/boxscore/28823"
+        },
+        {
+          "label": "Rice Athletics: Rice Ends Road Slate at Temple (Nov. 18, 2026)",
+          "url": "https://riceowls.com/news/2026/11/18/football-rice-ends-road-slate-at-temple"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-rice-2026-11-19",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "rice",
+      "team_ids": [
+        "rice"
+      ],
+      "tab_id": "aac",
+      "game_id": "401862830",
+      "title": "Rice vs Temple: Crayton Finds Jacurri Brown With Six Seconds Left, 31-27",
+      "byline": "Odalys Chen-Moreau, The Rice Fanatic",
+      "matchup": "Final: Rice Owls (2-9) 31, Temple Owls (2-9) 27, Thu., Nov. 19, Lincoln Financial Field, Philadelphia. Next: vs Army, Sat., Nov. 28, 2:00 PM ET, Houston",
+      "date": "2026-11-19",
+      "word_count": 393,
+      "text": "Rice 31, Temple 27, and somebody please check on my voice, because I left it in Philadelphia. Down 10 with 5:18 to go, no timeouts on the final drive, a freshman quarterback who had thrown six times all season, and the Owls of Houston still walked out of Lincoln Financial Field with their first American win of the year. We're 2-9, 1-6 in conference, and I have never loved a 2-9 team more.\n\nOur school notes said the Linc would be the 11th NFL home stadium to host Rice in a regular-season game. Fitting. The night ended like a Sunday highlight.\n\nTemple scored on its first drive and led 10-7 at the half. Gael Ochoa hit Payton Matthews for a 33-yard touchdown, and D'Andre Hardeman Jr. went 46 yards up the middle early in the third quarter for our first lead, 14-10. Then the other Owls answered twice in about a minute of game clock, and a 79-yard De'Carlos Young run made it 24-14.\n\nHere's what I love about this group: it refused to fold. We put together a 20-play, 55-yard drive that ate 11:43, converted two fourth downs along the way, and Tommy Bauchiero knocked through a 37-yard field goal. Temple kicked one back for 27-17 with 5:18 left.\n\nThen the fun began. On fourth-and-10 from our own 25, Patrick Crayton Jr. dropped a 47-yard strike to Max Mosey. Jacurri Brown ran for 10 yards on fourth-and-1, and Ochoa found Mosey from 9 yards out. 27-24 with 1:55 left. Our defense forced a three-and-out, and we got the ball back at our 42 with less than a minute on the clock.\n\nCrayton converted a fourth-and-10 with an 18-yard throw to Jordan Clark. A Temple offside flag moved us to the 30. And with six seconds left, Crayton lofted it deep to Jacurri Brown, who hauled it in for the 30-yard touchdown. Eight plays, 58 yards. I may frame the replay.\n\nHardeman finished with 137 yards on 17 carries. We ran for 264 yards, went 5 for 7 on fourth down, and Koa Akui intercepted Jaxon Smolik in the second quarter. Crayton went 5 of 10 for 106 yards, the most fun 106 yards I've seen all year.\n\nNext up: Army comes to Houston on Saturday, Nov. 28, at 2:00 PM ET for the finale. Wear blue, bring the noise, and Go Owls!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Rice 31, Temple 27, and somebody please check on my voice, because I left it in Philadelphia. Down 10 with 5:18 to go, no timeouts on the final drive, a freshman quarterback who had thrown six times all season, and the Owls of Houston still walked out of Lincoln Financial Field with their first American win of the year. We're 2-9, 1-6 in conference, and I have never loved a 2-9 team more."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our school notes said the Linc would be the 11th NFL home stadium to host Rice in a regular-season game. Fitting. The night ended like a Sunday highlight."
+        },
+        {
+          "type": "paragraph",
+          "text": "Temple scored on its first drive and led 10-7 at the half. Gael Ochoa hit Payton Matthews for a 33-yard touchdown, and D'Andre Hardeman Jr. went 46 yards up the middle early in the third quarter for our first lead, 14-10. Then the other Owls answered twice in about a minute of game clock, and a 79-yard De'Carlos Young run made it 24-14."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's what I love about this group: it refused to fold. We put together a 20-play, 55-yard drive that ate 11:43, converted two fourth downs along the way, and Tommy Bauchiero knocked through a 37-yard field goal. Temple kicked one back for 27-17 with 5:18 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the fun began. On fourth-and-10 from our own 25, Patrick Crayton Jr. dropped a 47-yard strike to Max Mosey. Jacurri Brown ran for 10 yards on fourth-and-1, and Ochoa found Mosey from 9 yards out. 27-24 with 1:55 left. Our defense forced a three-and-out, and we got the ball back at our 42 with less than a minute on the clock."
+        },
+        {
+          "type": "paragraph",
+          "text": "Crayton converted a fourth-and-10 with an 18-yard throw to Jordan Clark. A Temple offside flag moved us to the 30. And with six seconds left, Crayton lofted it deep to Jacurri Brown, who hauled it in for the 30-yard touchdown. Eight plays, 58 yards. I may frame the replay."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hardeman finished with 137 yards on 17 carries. We ran for 264 yards, went 5 for 7 on fourth down, and Koa Akui intercepted Jaxon Smolik in the second quarter. Crayton went 5 of 10 for 106 yards, the most fun 106 yards I've seen all year."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: Army comes to Houston on Saturday, Nov. 28, at 2:00 PM ET for the finale. Wear blue, bring the noise, and Go Owls!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Rice beat Temple 31-27 on Thursday, Nov. 19, at Lincoln Financial Field for its first American win of the season. The Owls are 2-9, 1-6."
+        },
+        {
+          "type": "fact",
+          "text": "Freshman Patrick Crayton Jr. threw a 30-yard touchdown to Jacurri Brown with six seconds left to finish an eight-play, 58-yard drive."
+        },
+        {
+          "type": "fact",
+          "text": "D'Andre Hardeman Jr. ran for 137 yards and a 46-yard touchdown, and Rice went 5 for 7 on fourth down."
+        },
+        {
+          "type": "jab",
+          "text": "Temple led by 10 with 5:18 left. We like our endings dramatic in Houston."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Army, Saturday, Nov. 28, 2:00 PM ET, Houston."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Rice 31, Temple 27 (Nov. 19, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862830"
+        },
+        {
+          "label": "ESPN play-by-play, Rice at Temple (Nov. 19, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401862830"
+        },
+        {
+          "label": "ESPN game page, Rice at Temple (Nov. 19, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401862830"
+        },
+        {
+          "label": "ESPN Rice Owls 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/242"
+        },
+        {
+          "label": "ESPN game recap (AP), Rice 31, Temple 27 (Nov. 19, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401862830"
+        },
+        {
+          "label": "Rice Athletics box score, Rice 31, Temple 27 (Nov. 19, 2026)",
+          "url": "https://riceowls.com/sports/football/stats/2026/temple/boxscore/28823"
+        },
+        {
+          "label": "Rice Athletics: Rice Ends Road Slate at Temple (Nov. 18, 2026)",
+          "url": "https://riceowls.com/news/2026/11/18/football-rice-ends-road-slate-at-temple"
+        },
+        {
+          "label": "Temple Athletics: Temple Falls to Rice at Home (Nov. 19, 2026)",
+          "url": "https://owlsports.com/news/2026/11/19/football-temple-falls-to-rice-at-home"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
     {
       "id": "fanatic_team-central-michigan-2026-11-18",
       "kind": "fanatic_team",
