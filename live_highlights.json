@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-17T01:17:29Z",
+ "updated_utc": "2026-11-20T01:19:48Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -3794,6 +3794,104 @@
    "matchup": "Miami (OH) RedHawks at Kent State Golden Flashes",
    "kickoff_utc": "2026-11-18T00:00Z",
    "first_seen_utc": "2026-11-17T01:17:27Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401866467": {
+   "game_id": "401866467",
+   "matchup": "Akron Zips at Massachusetts Minutemen",
+   "kickoff_utc": "2026-11-19T00:00Z",
+   "first_seen_utc": "2026-11-20T01:19:41Z",
+   "first_seen_status": "STATUS_FINAL Q4 0:00",
+   "halftime_eligible": false,
+   "final": {
+    "youtube_id": "9MevjprEnn8",
+    "title": "Akron vs. Massachusetts College Football Highlights | Week 12 Condensed Game",
+    "channel": "CBS Sports College Football",
+    "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+    "url": "https://www.youtube.com/watch?v=9MevjprEnn8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/9MevjprEnn8",
+    "thumb": "https://i.ytimg.com/vi/9MevjprEnn8/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-19T03:47:56Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-20T01:19:45Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
+  },
+  "401866469": {
+   "game_id": "401866469",
+   "matchup": "Central Michigan Chippewas at Buffalo Bulls",
+   "kickoff_utc": "2026-11-19T00:30Z",
+   "first_seen_utc": "2026-11-20T01:19:41Z",
+   "first_seen_status": "STATUS_FINAL Q4 0:00",
+   "halftime_eligible": false,
+   "final": {
+    "youtube_id": "QazjmK9Uoxg",
+    "title": "Central Michigan Chippewas vs. Buffalo Bulls | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=QazjmK9Uoxg",
+    "embed_url": "https://www.youtube-nocookie.com/embed/QazjmK9Uoxg",
+    "thumb": "https://i.ytimg.com/vi/QazjmK9Uoxg/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-19T04:30:29Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-20T01:19:48Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
+  },
+  "401862830": {
+   "game_id": "401862830",
+   "matchup": "Rice Owls at Temple Owls",
+   "kickoff_utc": "2026-11-20T00:30Z",
+   "first_seen_utc": "2026-11-20T01:19:41Z",
+   "first_seen_status": "STATUS_IN_PROGRESS Q2 11:14",
+   "halftime_eligible": true
+  },
+  "401856869": {
+   "game_id": "401856869",
+   "matchup": "Iowa State Cyclones at UCF Knights",
+   "kickoff_utc": "2026-11-20T23:00Z",
+   "first_seen_utc": "2026-11-20T01:19:41Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401858303": {
+   "game_id": "401858303",
+   "matchup": "Clemson Tigers at Duke Blue Devils",
+   "kickoff_utc": "2026-11-21T00:30Z",
+   "first_seen_utc": "2026-11-20T01:19:41Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401866468": {
+   "game_id": "401866468",
+   "matchup": "Bowling Green Falcons at Toledo Rockets",
+   "kickoff_utc": "2026-11-21T00:30Z",
+   "first_seen_utc": "2026-11-20T01:19:41Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401858529": {
+   "game_id": "401858529",
+   "matchup": "Oregon Ducks at Michigan State Spartans",
+   "kickoff_utc": "2026-11-21T01:00Z",
+   "first_seen_utc": "2026-11-20T01:19:41Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401864545": {
+   "game_id": "401864545",
+   "matchup": "UTEP Miners at Air Force Falcons",
+   "kickoff_utc": "2026-11-21T01:00Z",
+   "first_seen_utc": "2026-11-20T01:19:41Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
    "halftime_eligible": true
   }
