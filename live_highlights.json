@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-20T02:14:48Z",
+ "updated_utc": "2026-11-20T04:12:17Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -3853,7 +3853,24 @@
    "kickoff_utc": "2026-11-20T00:30Z",
    "first_seen_utc": "2026-11-20T01:19:41Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q2 11:14",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "rvQfrrE91lM",
+    "title": "Rice Owls vs. Temple Owls | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=rvQfrrE91lM",
+    "embed_url": "https://www.youtube-nocookie.com/embed/rvQfrrE91lM",
+    "thumb": "https://i.ytimg.com/vi/rvQfrrE91lM/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-20T04:02:42Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-20T04:12:17Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856869": {
    "game_id": "401856869",
