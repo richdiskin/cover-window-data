@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-21T21:08:45Z",
+ "updated_utc": "2026-11-21T21:44:18Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -4111,7 +4111,24 @@
    "kickoff_utc": "2026-11-21T17:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 12:43",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "csb1Ijrp-7Y",
+    "title": "Syracuse vs. Boston College Condensed Game | 2026 ACC Football",
+    "channel": "ACC Digital Network",
+    "channel_id": "UC0hy7TcR1gGD8nQBqrF2FaA",
+    "url": "https://www.youtube.com/watch?v=csb1Ijrp-7Y",
+    "embed_url": "https://www.youtube-nocookie.com/embed/csb1Ijrp-7Y",
+    "thumb": "https://i.ytimg.com/vi/csb1Ijrp-7Y/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-21T21:19:18Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-21T21:44:12Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858310": {
    "game_id": "401858310",
@@ -4169,7 +4186,24 @@
    "kickoff_utc": "2026-11-21T17:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 0:00",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "ADU043fco74",
+    "title": "Ohio State at Nebraska | Highlights | Big Ten Football | 11/21/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=ADU043fco74",
+    "embed_url": "https://www.youtube-nocookie.com/embed/ADU043fco74",
+    "thumb": "https://i.ytimg.com/vi/ADU043fco74/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-21T21:15:49Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-21T21:44:12Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858533": {
    "game_id": "401858533",
@@ -4227,7 +4261,24 @@
    "kickoff_utc": "2026-11-21T17:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 12:48",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "T6djJfXnGNE",
+    "title": "Memphis Tigers vs. Navy Midshipmen | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=T6djJfXnGNE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/T6djJfXnGNE",
+    "thumb": "https://i.ytimg.com/vi/T6djJfXnGNE/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-21T21:40:59Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-21T21:44:12Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401862835": {
    "game_id": "401862835",
@@ -4268,7 +4319,24 @@
    "kickoff_utc": "2026-11-21T18:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "l4hty4Q8EGY",
+    "title": "Tennessee Tech Golden Eagles vs. Mississippi State Bulldogs | Condensed Game | 2026 SEC Football",
+    "channel": "SEC",
+    "channel_id": "UC60q_WUDde_NK-ze3frvtiA",
+    "url": "https://www.youtube.com/watch?v=l4hty4Q8EGY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/l4hty4Q8EGY",
+    "thumb": "https://i.ytimg.com/vi/l4hty4Q8EGY/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-21T21:38:33Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-21T21:44:13Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856868": {
    "game_id": "401856868",
@@ -4276,7 +4344,24 @@
    "kickoff_utc": "2026-11-21T18:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "wGckIGI72dU",
+    "title": "#20 Houston vs. West Virginia Highlights | 2026 Monster Energy Big 12 Football",
+    "channel": "Big 12 Conference",
+    "channel_id": "UCLnfOCTbfqMy_3ah8OmTHEQ",
+    "url": "https://www.youtube.com/watch?v=wGckIGI72dU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/wGckIGI72dU",
+    "thumb": "https://i.ytimg.com/vi/wGckIGI72dU/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-21T21:33:19Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-21T21:44:13Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401871080": {
    "game_id": "401871080",
