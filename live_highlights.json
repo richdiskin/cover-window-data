@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-21T20:39:07Z",
+ "updated_utc": "2026-11-21T21:08:45Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -4011,7 +4011,24 @@
    "kickoff_utc": "2026-11-21T17:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 10:24",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "sLdvwB54JzI",
+    "title": "Vanderbilt Commodores vs. Florida Gators | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=sLdvwB54JzI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/sLdvwB54JzI",
+    "thumb": "https://i.ytimg.com/vi/sLdvwB54JzI/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-21T20:52:51Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-21T21:08:30Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856749": {
    "game_id": "401856749",
@@ -4019,7 +4036,24 @@
    "kickoff_utc": "2026-11-21T17:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 12:46",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "J4xjqIRKTRY",
+    "title": "Wofford Terriers vs. Ole Miss Rebels | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=J4xjqIRKTRY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/J4xjqIRKTRY",
+    "thumb": "https://i.ytimg.com/vi/J4xjqIRKTRY/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-21T20:48:29Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-21T21:08:30Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856866": {
    "game_id": "401856866",
@@ -4027,7 +4061,24 @@
    "kickoff_utc": "2026-11-21T17:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 13:11",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "lLF5MS5o-ec",
+    "title": "#10 BYU vs. Kansas Highlights | 2026 Monster Energy Big 12 Football",
+    "channel": "Big 12 Conference",
+    "channel_id": "UCLnfOCTbfqMy_3ah8OmTHEQ",
+    "url": "https://www.youtube.com/watch?v=lLF5MS5o-ec",
+    "embed_url": "https://www.youtube-nocookie.com/embed/lLF5MS5o-ec",
+    "thumb": "https://i.ytimg.com/vi/lLF5MS5o-ec/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-21T20:56:14Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-21T21:08:30Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856867": {
    "game_id": "401856867",
@@ -4068,7 +4119,24 @@
    "kickoff_utc": "2026-11-21T17:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 14:05",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "8o_km6BE4A0",
+    "title": "Wake Forest vs. Georgia Tech Game Highlights | 2026 ACC Football",
+    "channel": "ACC Digital Network",
+    "channel_id": "UC0hy7TcR1gGD8nQBqrF2FaA",
+    "url": "https://www.youtube.com/watch?v=8o_km6BE4A0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/8o_km6BE4A0",
+    "thumb": "https://i.ytimg.com/vi/8o_km6BE4A0/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-21T21:03:59Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-21T21:08:45Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858530": {
    "game_id": "401858530",
@@ -4134,7 +4202,24 @@
    "kickoff_utc": "2026-11-21T17:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 12:51",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "TMOC3Ku5uPo",
+    "title": "East Carolina Pirates vs. Army Black Knights College Football Highlights | Week 12 Condensed Game",
+    "channel": "CBS Sports College Football",
+    "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+    "url": "https://www.youtube.com/watch?v=TMOC3Ku5uPo",
+    "embed_url": "https://www.youtube-nocookie.com/embed/TMOC3Ku5uPo",
+    "thumb": "https://i.ytimg.com/vi/TMOC3Ku5uPo/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-21T20:44:27Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-21T21:08:45Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401862834": {
    "game_id": "401862834",
@@ -4158,7 +4243,24 @@
    "kickoff_utc": "2026-11-21T17:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "L3kD6QeywTc",
+    "title": "North Carolina Tar Heels vs. Virginia Cavaliers | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=L3kD6QeywTc",
+    "embed_url": "https://www.youtube-nocookie.com/embed/L3kD6QeywTc",
+    "thumb": "https://i.ytimg.com/vi/L3kD6QeywTc/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-21T21:02:28Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-21T21:08:45Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856750": {
    "game_id": "401856750",
