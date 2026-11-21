@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "nfl",
- "updated_utc": "2026-11-20T01:19:48Z",
+ "updated_utc": "2026-11-21T18:11:18Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401873026": {
@@ -431,6 +431,62 @@
    "kickoff_utc": "2026-11-20T01:15Z",
    "first_seen_utc": "2026-11-20T01:19:41Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 14:54",
+   "halftime_eligible": true
+  },
+  "401873070": {
+   "game_id": "401873070",
+   "matchup": "Miami Dolphins at Buffalo Bills",
+   "kickoff_utc": "2026-11-22T18:00Z",
+   "first_seen_utc": "2026-11-21T18:11:12Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873071": {
+   "game_id": "401873071",
+   "matchup": "New Orleans Saints at Chicago Bears",
+   "kickoff_utc": "2026-11-22T18:00Z",
+   "first_seen_utc": "2026-11-21T18:11:12Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873073": {
+   "game_id": "401873073",
+   "matchup": "Tennessee Titans at Dallas Cowboys",
+   "kickoff_utc": "2026-11-22T18:00Z",
+   "first_seen_utc": "2026-11-21T18:11:12Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873072": {
+   "game_id": "401873072",
+   "matchup": "Tampa Bay Buccaneers at Detroit Lions",
+   "kickoff_utc": "2026-11-22T18:00Z",
+   "first_seen_utc": "2026-11-21T18:11:12Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873067": {
+   "game_id": "401873067",
+   "matchup": "Arizona Cardinals at Kansas City Chiefs",
+   "kickoff_utc": "2026-11-22T18:00Z",
+   "first_seen_utc": "2026-11-21T18:11:12Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873076": {
+   "game_id": "401873076",
+   "matchup": "Pittsburgh Steelers at Philadelphia Eagles",
+   "kickoff_utc": "2026-11-22T18:00Z",
+   "first_seen_utc": "2026-11-21T18:11:12Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873068": {
+   "game_id": "401873068",
+   "matchup": "Baltimore Ravens at Carolina Panthers",
+   "kickoff_utc": "2026-11-22T18:00Z",
+   "first_seen_utc": "2026-11-21T18:11:12Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
    "halftime_eligible": true
   }
  }
