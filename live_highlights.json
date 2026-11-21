@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-21T17:11:29Z",
+ "updated_utc": "2026-11-21T20:39:07Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -4035,7 +4035,24 @@
    "kickoff_utc": "2026-11-21T17:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 9:35",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "9CA6c5M3IYQ",
+    "title": "Colorado Buffaloes vs. Cincinnati Bearcats | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=9CA6c5M3IYQ",
+    "embed_url": "https://www.youtube-nocookie.com/embed/9CA6c5M3IYQ",
+    "thumb": "https://i.ytimg.com/vi/9CA6c5M3IYQ/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-21T20:27:07Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-21T20:38:50Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858309": {
    "game_id": "401858309",
@@ -4059,7 +4076,24 @@
    "kickoff_utc": "2026-11-21T17:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 12:23",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "NyDLBJixBps",
+    "title": "Northwestern at Minnesota | Highlights | Big Ten Football | 11/21/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=NyDLBJixBps",
+    "embed_url": "https://www.youtube-nocookie.com/embed/NyDLBJixBps",
+    "thumb": "https://i.ytimg.com/vi/NyDLBJixBps/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-21T20:35:01Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-21T20:38:51Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858531": {
    "game_id": "401858531",
@@ -4075,7 +4109,24 @@
    "kickoff_utc": "2026-11-21T17:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_IN_PROGRESS Q1 12:37",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "qt97sRwUhT0",
+    "title": "Wisconsin at Purdue | Highlights | Big Ten Football | 11/21/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=qt97sRwUhT0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/qt97sRwUhT0",
+    "thumb": "https://i.ytimg.com/vi/qt97sRwUhT0/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-21T20:35:08Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-21T20:38:53Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401862831": {
    "game_id": "401862831",
