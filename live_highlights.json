@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-21T21:44:18Z",
+ "updated_utc": "2026-11-21T22:12:57Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -4377,7 +4377,24 @@
    "kickoff_utc": "2026-11-21T19:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "h8kyrgNrpe0",
+    "title": "Chattanooga Mocs vs. Alabama Crimson Tide | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=h8kyrgNrpe0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/h8kyrgNrpe0",
+    "thumb": "https://i.ytimg.com/vi/h8kyrgNrpe0/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-21T22:01:12Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-21T22:12:38Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401862832": {
    "game_id": "401862832",
