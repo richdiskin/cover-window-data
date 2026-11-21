@@ -4,9 +4,967 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-11-11T05:37:32Z",
-  "count": 176,
+  "count": 186,
   "lead_id": null,
   "articles": [
+    {
+      "id": "fanatic_team-utep-2026-11-20",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "utep",
+      "team_ids": [
+        "utep"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864545",
+      "title": "UTEP vs Air Force: Carlos Arreola's 42-Yard Field Goal the Lone Bright Spot in a 52-3 Loss",
+      "byline": "Ernesto 'Neto' Galindo, The UTEP Fanatic",
+      "matchup": "Final: Air Force Falcons (9-2) 52, UTEP Miners (1-10) 3, Fri., Nov. 20, Falcon Stadium, USAF Academy. Next: at Northern Illinois, Sat., Nov. 28, 3:30 PM ET, Huskie Stadium, Dekalb",
+      "date": "2026-11-20",
+      "word_count": 354,
+      "text": "Mira, I'm not going to sugarcoat this one for my people in El Paso. Air Force 52, UTEP 3 on Friday night in Colorado, and that's as rough as it sounds. We're 1-10, 0-7 in conference. But a real Miner fan doesn't hide from a tough night, so let's go through it together.\n\nFirst, the good. Down 14-0 early in the second quarter, our offense put together an 11-play, 51-yard drive, and Carlos Arreola drilled a 42-yard field goal to make it 14-3. That's a real kick at altitude, and I jumped off my couch like it was a touchdown. Arreola went 1 for 1, and I'm calling him the player of the game from our side.\n\nJayden Wilson was a warrior on defense with 12 tackles. Garrett Hawkins made seven with one for loss, and Justin Lee had six with a tackle for loss of his own. Those guys were on the field for almost 40 minutes, because Air Force held the ball for 39:46, and they kept battling.\n\nRaymond Moore III went 13 of 19 for 89 yards, and Jaden Smith caught six balls for 30. Carver Cheeks had three catches for 34, with a long of 16. Bodey Weaver came in and completed his only throw.\n\nNow the hard part. Air Force ran it 64 times for 429 yards, and that triple-option style is a nightmare to defend for 60 minutes. We lost a fumble on our first possession and threw an interception right before halftime, and both turned into Falcon touchdowns. We finished with 116 yards and six first downs. When the other team has 18 different guys carrying the ball, it's like trying to tackle fog.\n\nThis was our first game against the Falcons since 1995, back in the WAC days. Some reunions go better than others.\n\nHere's the deal, Miners. Nobody in Sun City quits on this team. One game left, and these players deserve one more loud weekend of support.\n\nNext up: at Northern Illinois, Saturday, Nov. 28, at 3:30 PM ET at Huskie Stadium in DeKalb. Let's go finish strong. Orange and blue forever. Go Miners!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mira, I'm not going to sugarcoat this one for my people in El Paso. Air Force 52, UTEP 3 on Friday night in Colorado, and that's as rough as it sounds. We're 1-10, 0-7 in conference. But a real Miner fan doesn't hide from a tough night, so let's go through it together."
+        },
+        {
+          "type": "paragraph",
+          "text": "First, the good. Down 14-0 early in the second quarter, our offense put together an 11-play, 51-yard drive, and Carlos Arreola drilled a 42-yard field goal to make it 14-3. That's a real kick at altitude, and I jumped off my couch like it was a touchdown. Arreola went 1 for 1, and I'm calling him the player of the game from our side."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jayden Wilson was a warrior on defense with 12 tackles. Garrett Hawkins made seven with one for loss, and Justin Lee had six with a tackle for loss of his own. Those guys were on the field for almost 40 minutes, because Air Force held the ball for 39:46, and they kept battling."
+        },
+        {
+          "type": "paragraph",
+          "text": "Raymond Moore III went 13 of 19 for 89 yards, and Jaden Smith caught six balls for 30. Carver Cheeks had three catches for 34, with a long of 16. Bodey Weaver came in and completed his only throw."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now the hard part. Air Force ran it 64 times for 429 yards, and that triple-option style is a nightmare to defend for 60 minutes. We lost a fumble on our first possession and threw an interception right before halftime, and both turned into Falcon touchdowns. We finished with 116 yards and six first downs. When the other team has 18 different guys carrying the ball, it's like trying to tackle fog."
+        },
+        {
+          "type": "paragraph",
+          "text": "This was our first game against the Falcons since 1995, back in the WAC days. Some reunions go better than others."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's the deal, Miners. Nobody in Sun City quits on this team. One game left, and these players deserve one more loud weekend of support."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: at Northern Illinois, Saturday, Nov. 28, at 3:30 PM ET at Huskie Stadium in DeKalb. Let's go finish strong. Orange and blue forever. Go Miners!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "UTEP lost 52-3 to Air Force on Friday, Nov. 20, at Falcon Stadium. The Miners are 1-10, 0-7 in conference."
+        },
+        {
+          "type": "fact",
+          "text": "Carlos Arreola kicked a 42-yard field goal in the second quarter to cap an 11-play, 51-yard drive."
+        },
+        {
+          "type": "fact",
+          "text": "Jayden Wilson made 12 tackles, and Raymond Moore III went 13 of 19 for 89 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Air Force handed it to 18 different guys. We'd have needed a bigger roster just to keep track."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Northern Illinois, Saturday, Nov. 28, 3:30 PM ET, Huskie Stadium, DeKalb."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Air Force 52, UTEP 3 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864545"
+        },
+        {
+          "label": "ESPN play-by-play, UTEP at Air Force (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864545"
+        },
+        {
+          "label": "ESPN game page, UTEP at Air Force (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401864545"
+        },
+        {
+          "label": "ESPN UTEP Miners 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2638"
+        },
+        {
+          "label": "ESPN game recap (AP), Air Force 52, UTEP 3 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864545"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-air-force-2026-11-20",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "air-force",
+      "team_ids": [
+        "air-force"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864545",
+      "title": "Air Force vs UTEP: 429 Rushing Yards, 18 Ball Carriers and a 52-3 Blowout",
+      "byline": "Lt. Col. (Ret.) Marissa Okonkwo-Hale, The Air Force Fanatic",
+      "matchup": "Final: Air Force Falcons (9-2) 52, UTEP Miners (1-10) 3, Fri., Nov. 20, Falcon Stadium, USAF Academy. Next: at New Mexico, Fri., Nov. 27, 4:30 PM ET, University Stadium (NM), Albuquerque",
+      "date": "2026-11-20",
+      "word_count": 357,
+      "text": "Mission debrief, Falcon fans: objective achieved. Final from Falcon Stadium on Friday night: Falcons 52, Miners 3, and the ground game flew in formation all night long. We're 9-2, 5-2 in the Mountain West, and I'd like to salute every single one of the 18 Falcons who carried the football.\n\nYes, 18. We ran it 64 times for 429 yards, 6.7 a pop. Rocco Conti led the way with 64 yards on just five carries, including a 33-yard burst. Evan Medders added 46, Oswaldo Morales ran for 38 and a 29-yard touchdown, and Gage LaDue punched in the first score from 3 yards out. Owen Allen scored from a yard out and Matt Long from 13. When everybody eats, everybody's happy.\n\nAnd then there's the air raid, Academy style. We threw only six times and completed four. Three of those four went for touchdowns. Medders hit Adam Hrynciw for 31 yards in the first quarter and Jonah Dawson for 77 to open the second half, and Maguire Martin's one and only throw of the night was a 35-yard touchdown to Major Quin. Medders went 3 of 4 for 122 yards. That's not a box score, that's a magic trick.\n\nThe defense was flat-out mean. Alexander Perez forced a fumble on UTEP's first possession that set up a quick score, then grabbed an interception right before halftime that led to another touchdown. Connor Vasek had three sacks. UTEP finished with 116 yards, 24 of them on the ground, and six first downs. We had 27 first downs and held the ball for 39:46.\n\nCarter Cremascoli was perfect on five extra points and added a 19-yard field goal, and Jacob Medina came on late and went 2 for 2. This was the first meeting with UTEP since 1995, back in our WAC days, and the overall series now stands at 15-1 with us 8-0 at home. Some traditions are worth keeping.\n\nNine wins with one regular-season game to go. That's a winning program, ladies and gentlemen.\n\nNext up: at New Mexico, Friday, Nov. 27, at 4:30 PM ET at University Stadium in Albuquerque. One more mission. Fly, Fight, Win!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Mission debrief, Falcon fans: objective achieved. Final from Falcon Stadium on Friday night: Falcons 52, Miners 3, and the ground game flew in formation all night long. We're 9-2, 5-2 in the Mountain West, and I'd like to salute every single one of the 18 Falcons who carried the football."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes, 18. We ran it 64 times for 429 yards, 6.7 a pop. Rocco Conti led the way with 64 yards on just five carries, including a 33-yard burst. Evan Medders added 46, Oswaldo Morales ran for 38 and a 29-yard touchdown, and Gage LaDue punched in the first score from 3 yards out. Owen Allen scored from a yard out and Matt Long from 13. When everybody eats, everybody's happy."
+        },
+        {
+          "type": "paragraph",
+          "text": "And then there's the air raid, Academy style. We threw only six times and completed four. Three of those four went for touchdowns. Medders hit Adam Hrynciw for 31 yards in the first quarter and Jonah Dawson for 77 to open the second half, and Maguire Martin's one and only throw of the night was a 35-yard touchdown to Major Quin. Medders went 3 of 4 for 122 yards. That's not a box score, that's a magic trick."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense was flat-out mean. Alexander Perez forced a fumble on UTEP's first possession that set up a quick score, then grabbed an interception right before halftime that led to another touchdown. Connor Vasek had three sacks. UTEP finished with 116 yards, 24 of them on the ground, and six first downs. We had 27 first downs and held the ball for 39:46."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carter Cremascoli was perfect on five extra points and added a 19-yard field goal, and Jacob Medina came on late and went 2 for 2. This was the first meeting with UTEP since 1995, back in our WAC days, and the overall series now stands at 15-1 with us 8-0 at home. Some traditions are worth keeping."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nine wins with one regular-season game to go. That's a winning program, ladies and gentlemen."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: at New Mexico, Friday, Nov. 27, at 4:30 PM ET at University Stadium in Albuquerque. One more mission. Fly, Fight, Win!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Air Force beat UTEP 52-3 on Friday, Nov. 20, at Falcon Stadium. The Falcons are 9-2, 5-2 in the Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "Air Force ran for 429 yards on 64 carries, with 18 different ball carriers."
+        },
+        {
+          "type": "fact",
+          "text": "Three of Air Force's four completions went for touchdowns, two from Evan Medders and one from Maguire Martin."
+        },
+        {
+          "type": "jab",
+          "text": "UTEP had six first downs. Our quarterback had three touchdown throws on four tries. Close enough."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at New Mexico, Friday, Nov. 27, 4:30 PM ET, University Stadium, Albuquerque."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Air Force 52, UTEP 3 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864545"
+        },
+        {
+          "label": "ESPN play-by-play, UTEP at Air Force (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864545"
+        },
+        {
+          "label": "ESPN game page, UTEP at Air Force (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401864545"
+        },
+        {
+          "label": "ESPN Air Force Falcons 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2005"
+        },
+        {
+          "label": "ESPN game recap (AP), Air Force 52, UTEP 3 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864545"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-bowling-green-2026-11-20",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "bowling-green",
+      "team_ids": [
+        "bowling-green"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866468",
+      "title": "Bowling Green vs Toledo: Five Sacks and a Fight, but No Points in the Glass Bowl, 19-0",
+      "byline": "Darcy Fenwick, The Bowling Green Fanatic",
+      "matchup": "Final: Toledo Rockets (9-2) 19, Bowling Green Falcons (3-8) 0, Fri., Nov. 20, Glass Bowl, Toledo. Next: vs Massachusetts, Sat., Nov. 28, 3:30 PM ET, Doyt L. Perry Stadium, Bowling Green",
+      "date": "2026-11-20",
+      "word_count": 377,
+      "text": "That was a long drive home up I-75. The Rockets blanked us 19-0 in Toledo on Friday night, and nobody in orange and brown wants to talk about the scoreboard. We're 3-8, 3-4 in the MAC. So let's talk about the defense instead, because those guys deserved a lot better.\n\nOur defense sacked John Alan Richter five times. Five! Myles Bradley had two of them and three and a half tackles for loss, and he knocked the ball loose on one, though Richter got it back. Kal-El Pascal was a heat-seeking missile with 15 tackles, 10 of them solo. Toledo averaged 2.4 yards a carry, went 5 for 16 on third down, and the only touchdown we allowed came on a two-play drive in the last minute of the first half. Dorian Pringle added nine tackles.\n\nThe problem was that the other side of the ball never got going. Our very first play of the night, Nakai Amachree ran for 10 yards and had the ball knocked loose, and Toledo recovered. That's a rough way to say hello.\n\nOur best chance to get on the board came early. In the second quarter we drove 51 yards in eight plays, and Austin Novosad had us knocking on the door. Then the 32-yard field goal didn't go through, and it was still 9-0. That one hurt. We got into Toledo territory again early in the fourth quarter, too, and came away empty on fourth down.\n\nNovosad went 12 of 22 for 144 yards with no interceptions, and he hung in there while getting hit. Joseph Saffold made three catches for 60 yards, including a 29-yarder, and Eli Jacon-Duffy had a 28-yard grab. Amachree carried 19 times for 57 yards. But as a team we ran for 44 yards and converted just one of 12 third downs, and you can't win a rivalry game like that.\n\nToledo's Reice Griffith kicked four field goals. Tip of the cap. He was the difference.\n\nOne more game, Falcon fans, and it's at home. Let's finish this season the right way in front of our own people.\n\nNext up: UMass at Doyt L. Perry Stadium, Saturday, Nov. 28, at 3:30 PM ET. Bundle up, fill the stands, and make some noise. Ay, Ziggy Zoomba!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "That was a long drive home up I-75. The Rockets blanked us 19-0 in Toledo on Friday night, and nobody in orange and brown wants to talk about the scoreboard. We're 3-8, 3-4 in the MAC. So let's talk about the defense instead, because those guys deserved a lot better."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our defense sacked John Alan Richter five times. Five! Myles Bradley had two of them and three and a half tackles for loss, and he knocked the ball loose on one, though Richter got it back. Kal-El Pascal was a heat-seeking missile with 15 tackles, 10 of them solo. Toledo averaged 2.4 yards a carry, went 5 for 16 on third down, and the only touchdown we allowed came on a two-play drive in the last minute of the first half. Dorian Pringle added nine tackles."
+        },
+        {
+          "type": "paragraph",
+          "text": "The problem was that the other side of the ball never got going. Our very first play of the night, Nakai Amachree ran for 10 yards and had the ball knocked loose, and Toledo recovered. That's a rough way to say hello."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our best chance to get on the board came early. In the second quarter we drove 51 yards in eight plays, and Austin Novosad had us knocking on the door. Then the 32-yard field goal didn't go through, and it was still 9-0. That one hurt. We got into Toledo territory again early in the fourth quarter, too, and came away empty on fourth down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Novosad went 12 of 22 for 144 yards with no interceptions, and he hung in there while getting hit. Joseph Saffold made three catches for 60 yards, including a 29-yarder, and Eli Jacon-Duffy had a 28-yard grab. Amachree carried 19 times for 57 yards. But as a team we ran for 44 yards and converted just one of 12 third downs, and you can't win a rivalry game like that."
+        },
+        {
+          "type": "paragraph",
+          "text": "Toledo's Reice Griffith kicked four field goals. Tip of the cap. He was the difference."
+        },
+        {
+          "type": "paragraph",
+          "text": "One more game, Falcon fans, and it's at home. Let's finish this season the right way in front of our own people."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: UMass at Doyt L. Perry Stadium, Saturday, Nov. 28, at 3:30 PM ET. Bundle up, fill the stands, and make some noise. Ay, Ziggy Zoomba!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Bowling Green lost 19-0 to Toledo on Friday, Nov. 20, at the Glass Bowl. The Falcons are 3-8, 3-4 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "The Falcons sacked John Alan Richter five times. Myles Bradley had two sacks and Kal-El Pascal made 15 tackles."
+        },
+        {
+          "type": "fact",
+          "text": "A 32-yard field goal try missed in the second quarter, and the Falcons went 1 for 12 on third down."
+        },
+        {
+          "type": "jab",
+          "text": "Toledo needed four field goals from its kicker to beat our defense. Their offense owes him dinner."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs UMass, Saturday, Nov. 28, 3:30 PM ET, Doyt L. Perry Stadium, Bowling Green."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Toledo 19, Bowling Green 0 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866468"
+        },
+        {
+          "label": "ESPN play-by-play, Bowling Green at Toledo (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866468"
+        },
+        {
+          "label": "ESPN game page, Bowling Green at Toledo (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866468"
+        },
+        {
+          "label": "ESPN Bowling Green Falcons 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/189"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-toledo-2026-11-20",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "toledo",
+      "team_ids": [
+        "toledo"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866468",
+      "title": "Toledo vs Bowling Green: Reice Griffith Kicks Four, the Defense Pitches a Shutout, 19-0",
+      "byline": "Rocco Szczepanski, The Toledo Fanatic",
+      "matchup": "Final: Toledo Rockets (9-2) 19, Bowling Green Falcons (3-8) 0, Fri., Nov. 20, Glass Bowl, Toledo. Next: at Ohio, Fri., Nov. 27, 12:00 PM ET, Peden Stadium, Athens",
+      "date": "2026-11-20",
+      "word_count": 360,
+      "text": "Zero. Write it on the Glass Bowl scoreboard in permanent marker. Toledo 19, Bowling Green 0 on Friday night, a shutout in the Battle of I-75, and those folks from down the highway drove home without a single point. We're 9-2, 6-1 in the MAC, and Rocket Nation is feeling great.\n\nThis was a defense game from the first snap. Literally. Reice Griffith kicked a 46-yard field goal on our opening drive, and on Bowling Green's very first play, Nicholas Thompson punched the ball loose and we fell on it. That set the tone for the whole night.\n\nBowling Green finished with 188 yards. They ran 29 times for 44 yards. They went 1 for 12 on third down and 0 for 2 on fourth. When they did get close, their 32-yard field goal try in the second quarter missed. And our guys sacked Austin Novosad three times in the fourth quarter alone, the last one ending their final real chance on downs. Julian Fox made eight tackles, and Kaleb Hutchinson had seven, six of them solo.\n\nGriffith was the hero on the other side. He hit from 46, 29, 39 and 42 yards and scored 13 of our 19 points. The man was automatic when it counted.\n\nThe offense had to fight for every yard. The Falcons sacked John Alan Richter five times, and we averaged 2.4 yards a carry. But when it mattered most, Richter found Adjatay Dabbs deep for a 35-yard touchdown with 46 seconds left in the first half on a two-play drive. That made it 16-0 and pretty much ended the suspense. Richter went 14 of 24 for 191 yards, Connor Walendzak ran for 66 and caught four balls for 44, and Daryl Barnett Jr. added two catches for 39.\n\nWe held the ball for 34:16, and our defense never let them breathe. A shutout in a rivalry game is the best kind of win there is, and I'm going to enjoy this one all weekend.\n\nNext up: at Ohio, Friday, Nov. 27, at noon ET at Peden Stadium in Athens. Big one on the road, Rocket fans. Let's go get number 10. Go Rockets!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Zero. Write it on the Glass Bowl scoreboard in permanent marker. Toledo 19, Bowling Green 0 on Friday night, a shutout in the Battle of I-75, and those folks from down the highway drove home without a single point. We're 9-2, 6-1 in the MAC, and Rocket Nation is feeling great."
+        },
+        {
+          "type": "paragraph",
+          "text": "This was a defense game from the first snap. Literally. Reice Griffith kicked a 46-yard field goal on our opening drive, and on Bowling Green's very first play, Nicholas Thompson punched the ball loose and we fell on it. That set the tone for the whole night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bowling Green finished with 188 yards. They ran 29 times for 44 yards. They went 1 for 12 on third down and 0 for 2 on fourth. When they did get close, their 32-yard field goal try in the second quarter missed. And our guys sacked Austin Novosad three times in the fourth quarter alone, the last one ending their final real chance on downs. Julian Fox made eight tackles, and Kaleb Hutchinson had seven, six of them solo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Griffith was the hero on the other side. He hit from 46, 29, 39 and 42 yards and scored 13 of our 19 points. The man was automatic when it counted."
+        },
+        {
+          "type": "paragraph",
+          "text": "The offense had to fight for every yard. The Falcons sacked John Alan Richter five times, and we averaged 2.4 yards a carry. But when it mattered most, Richter found Adjatay Dabbs deep for a 35-yard touchdown with 46 seconds left in the first half on a two-play drive. That made it 16-0 and pretty much ended the suspense. Richter went 14 of 24 for 191 yards, Connor Walendzak ran for 66 and caught four balls for 44, and Daryl Barnett Jr. added two catches for 39."
+        },
+        {
+          "type": "paragraph",
+          "text": "We held the ball for 34:16, and our defense never let them breathe. A shutout in a rivalry game is the best kind of win there is, and I'm going to enjoy this one all weekend."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: at Ohio, Friday, Nov. 27, at noon ET at Peden Stadium in Athens. Big one on the road, Rocket fans. Let's go get number 10. Go Rockets!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Toledo shut out Bowling Green 19-0 on Friday, Nov. 20, at the Glass Bowl. The Rockets are 9-2, 6-1 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Reice Griffith kicked field goals of 46, 29, 39 and 42 yards and scored 13 points."
+        },
+        {
+          "type": "fact",
+          "text": "Bowling Green managed 188 yards, 44 on the ground, and went 1 for 12 on third down."
+        },
+        {
+          "type": "jab",
+          "text": "Bowling Green drove up I-75 and drove back with a zero. Safe travels."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Ohio, Friday, Nov. 27, 12:00 PM ET, Peden Stadium, Athens."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Toledo 19, Bowling Green 0 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866468"
+        },
+        {
+          "label": "ESPN play-by-play, Bowling Green at Toledo (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866468"
+        },
+        {
+          "label": "ESPN game page, Bowling Green at Toledo (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866468"
+        },
+        {
+          "label": "ESPN Toledo Rockets 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2649"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-duke-2026-11-20",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "duke",
+      "team_ids": [
+        "duke"
+      ],
+      "tab_id": "acc",
+      "game_id": "401858303",
+      "title": "Duke vs Clemson: Nate Sheppard's 55-Yard Burst Not Enough as the Blue Devils Fall, 20-10",
+      "byline": "Harrison Wexley-Moore IV, The Duke Fanatic",
+      "matchup": "Final: Clemson Tigers (7-4) 20, Duke Blue Devils (7-4) 10, Fri., Nov. 20, Wallace Wade Stadium, Durham. Next: at Wake Forest, Sat., Nov. 28, time TBA, Allegacy Federal Credit Union Stadium, Winston-Salem",
+      "date": "2026-11-20",
+      "word_count": 368,
+      "text": "We had a drone show. We had a Heisman campaign. We had Nate Sheppard ripping off a 55-yard touchdown that made Wallace Wade Stadium shake. What we didn't have, sadly, was enough offense, and Clemson left Durham with a 20-10 win on Friday night. Duke is 7-4, 4-4 in the ACC.\n\nFirst, our guy, because he deserves it. Sheppard came into the night leading the country in all-purpose yards, and he ran 19 times for 116 yards. The big one came in the third quarter, right after Clemson went up 10-0. He burst through the right side, dodged a diving tackle at the sideline, and was gone. 10-7, and the place came alive. Folks, that is a Heisman run, and I'll argue with anybody about it.\n\nThe defense gave us every chance. Andrew Pellicciotta was everywhere with 12 tackles, DaShawn Stone had eight and broke up two throws, and Kevin O'Connor made two tackles for loss. Evan Smith grabbed an interception in the first quarter, and we fell on a Clemson fumble in the second. Nobody scored until a Clemson field goal with 17 seconds left in the half, and our guys kept the Tigers out of the end zone for nearly 39 minutes.\n\nThe trouble was on our side of the ball. Walker Eget went 16 of 38 for 149 yards, and we went 6 for 16 on third down. Javen Nicholas did his part with six catches for 87 yards, and Jeremiah Hasley caught six for 55. After Clemson went up 17-7, Gavin Strange drilled a 46-yard field goal to make it a one-score game at 17-10. We got the ball back with a chance, but a blitzer came free on fourth down with 3:34 left and knocked the throw down.\n\nClemson owned the clock, 37:15 to 22:45, and ran 51 times. That's a lot of snaps for any defense to handle.\n\nHere's the good news. Seven wins is seven wins, and this team still has a lot to play for.\n\nNext up: at Wake Forest, Saturday, Nov. 28, to close the regular season against an old in-state foe ranked No. 10. Get on the road to Winston-Salem, Duke fans, and bring the noise. Go Duke!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "We had a drone show. We had a Heisman campaign. We had Nate Sheppard ripping off a 55-yard touchdown that made Wallace Wade Stadium shake. What we didn't have, sadly, was enough offense, and Clemson left Durham with a 20-10 win on Friday night. Duke is 7-4, 4-4 in the ACC."
+        },
+        {
+          "type": "paragraph",
+          "text": "First, our guy, because he deserves it. Sheppard came into the night leading the country in all-purpose yards, and he ran 19 times for 116 yards. The big one came in the third quarter, right after Clemson went up 10-0. He burst through the right side, dodged a diving tackle at the sideline, and was gone. 10-7, and the place came alive. Folks, that is a Heisman run, and I'll argue with anybody about it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense gave us every chance. Andrew Pellicciotta was everywhere with 12 tackles, DaShawn Stone had eight and broke up two throws, and Kevin O'Connor made two tackles for loss. Evan Smith grabbed an interception in the first quarter, and we fell on a Clemson fumble in the second. Nobody scored until a Clemson field goal with 17 seconds left in the half, and our guys kept the Tigers out of the end zone for nearly 39 minutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "The trouble was on our side of the ball. Walker Eget went 16 of 38 for 149 yards, and we went 6 for 16 on third down. Javen Nicholas did his part with six catches for 87 yards, and Jeremiah Hasley caught six for 55. After Clemson went up 17-7, Gavin Strange drilled a 46-yard field goal to make it a one-score game at 17-10. We got the ball back with a chance, but a blitzer came free on fourth down with 3:34 left and knocked the throw down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Clemson owned the clock, 37:15 to 22:45, and ran 51 times. That's a lot of snaps for any defense to handle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's the good news. Seven wins is seven wins, and this team still has a lot to play for."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: at Wake Forest, Saturday, Nov. 28, to close the regular season against an old in-state foe ranked No. 10. Get on the road to Winston-Salem, Duke fans, and bring the noise. Go Duke!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Duke lost 20-10 to Clemson on Friday, Nov. 20, at Wallace Wade Stadium. The Blue Devils are 7-4, 4-4 in the ACC."
+        },
+        {
+          "type": "fact",
+          "text": "Nate Sheppard ran for 116 yards, including a 55-yard touchdown in the third quarter."
+        },
+        {
+          "type": "fact",
+          "text": "Andrew Pellicciotta made 12 tackles, and Evan Smith intercepted a Clemson throw in the first quarter."
+        },
+        {
+          "type": "jab",
+          "text": "Clemson needed two quarterbacks to beat one Nate Sheppard."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Wake Forest, Saturday, Nov. 28, Allegacy Federal Credit Union Stadium, Winston-Salem."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Clemson 20, Duke 10 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858303"
+        },
+        {
+          "label": "ESPN play-by-play, Clemson at Duke (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858303"
+        },
+        {
+          "label": "ESPN game page, Clemson at Duke (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858303"
+        },
+        {
+          "label": "ESPN Duke Blue Devils 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/150"
+        },
+        {
+          "label": "ESPN game recap (AP), Clemson 20, Duke 10 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858303"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-clemson-2026-11-20",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "clemson",
+      "team_ids": [
+        "clemson"
+      ],
+      "tab_id": "acc",
+      "game_id": "401858303",
+      "title": "Clemson vs Duke: Walk-On Trent Pearman and Chris Denson Run the Tigers Past the Blue Devils, 20-10",
+      "byline": "Dixie-Lynn Pruitt, The Clemson Fanatic",
+      "matchup": "Final: Clemson Tigers (7-4) 20, Duke Blue Devils (7-4) 10, Fri., Nov. 20, Wallace Wade Stadium, Durham. Next: vs South Carolina, Sat., Nov. 28, time TBA, Memorial Stadium (Clemson, SC), Clemson",
+      "date": "2026-11-20",
+      "word_count": 378,
+      "text": "Y'all, a walk-on did that. Trent Pearman showed up at Clemson in 2022 with no scholarship and a whole lot of want-to, and on Friday night in Durham, in the first game he ever opened at quarterback, he led the Tigers to a 20-10 win at Duke. We're 7-4, 5-3 in the ACC, and my heart is full.\n\nAfter losing Tait Reynolds and Christopher Vizzina to injuries in that home loss to Georgia Tech, Coach Swinney rolled out a two-man plan. Pearman went 17 of 27 for 164 yards and ran six times for 51. Chris Denson, who had moved from quarterback to receiver, flipped right back and carried it 16 times for 71 yards. Two guys, one job, and they got it done.\n\nIt was a grind. Neither team scored in the first quarter, and we had a fumble and an interception in the first half. Nolan Hauser got us on the board with a 36-yard field goal with 17 seconds left before halftime. Then in the third, Pearman got around the left side and beat a defender to the pylon from 9 yards out. 10-0.\n\nDuke answered fast. Four snaps after the kickoff, Nate Sheppard went 55 yards, and it was 10-7. That man is a load. But our guys came right back with an eight-play, 71-yard drive, and Denson bounced a keeper outside and hugged the sideline for a 7-yard touchdown. 17-7 midway through the fourth.\n\nThen the defense closed the door. With 3:34 left and Duke facing fourth down, Jahiem Lawson came screaming in untouched on a blitz and batted Walker Eget's throw right out of the air. Hauser hit a 39-yarder with 1:01 left for his 31st field goal of the year, an ACC single-season record. Corey Myrick added an interception in the final seconds, plus two and a half tackles for loss. We held Duke to 247 yards and Eget to 16 of 38.\n\nWe also snapped a two-game skid against the Blue Devils. Jarvis Green ran for 84 yards and T.J. Moore caught four for 68. Everybody chipped in.\n\nNext up: South Carolina comes to Death Valley on Saturday, Nov. 28. The Palmetto Bowl, Thanksgiving weekend, the whole state watching. Wear orange, wear paw prints, and make it shake. Go Tigers!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Y'all, a walk-on did that. Trent Pearman showed up at Clemson in 2022 with no scholarship and a whole lot of want-to, and on Friday night in Durham, in the first game he ever opened at quarterback, he led the Tigers to a 20-10 win at Duke. We're 7-4, 5-3 in the ACC, and my heart is full."
+        },
+        {
+          "type": "paragraph",
+          "text": "After losing Tait Reynolds and Christopher Vizzina to injuries in that home loss to Georgia Tech, Coach Swinney rolled out a two-man plan. Pearman went 17 of 27 for 164 yards and ran six times for 51. Chris Denson, who had moved from quarterback to receiver, flipped right back and carried it 16 times for 71 yards. Two guys, one job, and they got it done."
+        },
+        {
+          "type": "paragraph",
+          "text": "It was a grind. Neither team scored in the first quarter, and we had a fumble and an interception in the first half. Nolan Hauser got us on the board with a 36-yard field goal with 17 seconds left before halftime. Then in the third, Pearman got around the left side and beat a defender to the pylon from 9 yards out. 10-0."
+        },
+        {
+          "type": "paragraph",
+          "text": "Duke answered fast. Four snaps after the kickoff, Nate Sheppard went 55 yards, and it was 10-7. That man is a load. But our guys came right back with an eight-play, 71-yard drive, and Denson bounced a keeper outside and hugged the sideline for a 7-yard touchdown. 17-7 midway through the fourth."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the defense closed the door. With 3:34 left and Duke facing fourth down, Jahiem Lawson came screaming in untouched on a blitz and batted Walker Eget's throw right out of the air. Hauser hit a 39-yarder with 1:01 left for his 31st field goal of the year, an ACC single-season record. Corey Myrick added an interception in the final seconds, plus two and a half tackles for loss. We held Duke to 247 yards and Eget to 16 of 38."
+        },
+        {
+          "type": "paragraph",
+          "text": "We also snapped a two-game skid against the Blue Devils. Jarvis Green ran for 84 yards and T.J. Moore caught four for 68. Everybody chipped in."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: South Carolina comes to Death Valley on Saturday, Nov. 28. The Palmetto Bowl, Thanksgiving weekend, the whole state watching. Wear orange, wear paw prints, and make it shake. Go Tigers!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Clemson beat Duke 20-10 on Friday, Nov. 20, at Wallace Wade Stadium to close its ACC schedule. The Tigers are 7-4, 5-3 in the ACC."
+        },
+        {
+          "type": "fact",
+          "text": "Former walk-on Trent Pearman threw for 164 yards and ran for a 9-yard touchdown in his first career game as the opening quarterback; Chris Denson ran for 71 yards and a touchdown."
+        },
+        {
+          "type": "fact",
+          "text": "Nolan Hauser's 39-yard field goal was his 31st of the season, an ACC single-season record."
+        },
+        {
+          "type": "jab",
+          "text": "Duke flew drones for its guy. We brought a walk-on and went home happy."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs South Carolina, Saturday, Nov. 28, Memorial Stadium, Clemson."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Clemson 20, Duke 10 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858303"
+        },
+        {
+          "label": "ESPN play-by-play, Clemson at Duke (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858303"
+        },
+        {
+          "label": "ESPN game page, Clemson at Duke (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858303"
+        },
+        {
+          "label": "ESPN Clemson Tigers 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/228"
+        },
+        {
+          "label": "ESPN game recap (AP), Clemson 20, Duke 10 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858303"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-iowa-state-2026-11-20",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "iowa-state",
+      "team_ids": [
+        "iowa-state"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856869",
+      "title": "Iowa State vs UCF: Aiden Flora Runs for 171, Four Turnovers Sink the Cyclones, 48-17",
+      "byline": "Twyla Hemmingsen, The Iowa State Fanatic",
+      "matchup": "Final: UCF Knights (6-5) 48, Iowa State Cyclones (5-6) 17, Fri., Nov. 20, Acrisure Bounce House, Orlando. Next: vs Kansas State, Sat., Nov. 28, 2:00 PM ET, Jack Trice Stadium, Ames",
+      "date": "2026-11-20",
+      "word_count": 354,
+      "text": "If you only watched Aiden Flora on Friday night, you'd swear Iowa State won this game. The sophomore came to Orlando leading the country in rushing, and he ran for 171 yards and two touchdowns on 23 carries, including a 62-yard dash in the third quarter. That kid is a problem for every defense in the Big 12. Sadly, the scoreboard says UCF 48, Iowa State 17, and we're 5-6, 3-5 in conference.\n\nHere's the honest truth, Cyclone fans. We gave the ball away four times, and you can't do that on the road against a team playing for a bowl.\n\nWe actually got on the board first. Our opening drive went 12 plays and 66 yards, and Kyle Konrardy knocked in a 27-yard field goal for a 3-0 lead. Then the second quarter got away from us. UCF scored twice through the air, and with 8:41 left in the half we put the ball on the ground at our own 23. One play later it was 24-3. That stung.\n\nFlora answered with a 17-yard touchdown run to make it 24-10. Late in the half, Jaylen Raynor hit Flora for 13 yards into UCF territory, and the ball got knocked loose. Another one gone.\n\nAfter halftime Flora broke that 62-yarder, and we were back to 31-17 with plenty of time. That's when the night really slipped. Flora got stopped short on fourth-and-1, and on the very next drive Jamal Polite caught one for 20 yards and had it punched out. Then an interception in the fourth. We went 1 for 10 on third down. Tough to win like that.\n\nCredit to the defense for keeping swinging. Drew Surges made 10 tackles, and Sullivan Schlimgen had nine, seven of them solo. Raynor went 14 of 23 for 109 yards and kept battling.\n\nSo here's where we are. Bowl eligibility comes down to one game, at home, against our biggest rival. Couldn't script it better.\n\nNext up: Kansas State at Jack Trice Stadium, Saturday, Nov. 28, at 2:00 PM ET. Farmageddon with a bowl on the table. Wear cardinal and gold and be loud. Go Cyclones!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "If you only watched Aiden Flora on Friday night, you'd swear Iowa State won this game. The sophomore came to Orlando leading the country in rushing, and he ran for 171 yards and two touchdowns on 23 carries, including a 62-yard dash in the third quarter. That kid is a problem for every defense in the Big 12. Sadly, the scoreboard says UCF 48, Iowa State 17, and we're 5-6, 3-5 in conference."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's the honest truth, Cyclone fans. We gave the ball away four times, and you can't do that on the road against a team playing for a bowl."
+        },
+        {
+          "type": "paragraph",
+          "text": "We actually got on the board first. Our opening drive went 12 plays and 66 yards, and Kyle Konrardy knocked in a 27-yard field goal for a 3-0 lead. Then the second quarter got away from us. UCF scored twice through the air, and with 8:41 left in the half we put the ball on the ground at our own 23. One play later it was 24-3. That stung."
+        },
+        {
+          "type": "paragraph",
+          "text": "Flora answered with a 17-yard touchdown run to make it 24-10. Late in the half, Jaylen Raynor hit Flora for 13 yards into UCF territory, and the ball got knocked loose. Another one gone."
+        },
+        {
+          "type": "paragraph",
+          "text": "After halftime Flora broke that 62-yarder, and we were back to 31-17 with plenty of time. That's when the night really slipped. Flora got stopped short on fourth-and-1, and on the very next drive Jamal Polite caught one for 20 yards and had it punched out. Then an interception in the fourth. We went 1 for 10 on third down. Tough to win like that."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit to the defense for keeping swinging. Drew Surges made 10 tackles, and Sullivan Schlimgen had nine, seven of them solo. Raynor went 14 of 23 for 109 yards and kept battling."
+        },
+        {
+          "type": "paragraph",
+          "text": "So here's where we are. Bowl eligibility comes down to one game, at home, against our biggest rival. Couldn't script it better."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: Kansas State at Jack Trice Stadium, Saturday, Nov. 28, at 2:00 PM ET. Farmageddon with a bowl on the table. Wear cardinal and gold and be loud. Go Cyclones!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Iowa State lost 48-17 to UCF on Friday, Nov. 20, at Acrisure Bounce House. The Cyclones are 5-6, 3-5 in the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "Aiden Flora ran for 171 yards and two touchdowns, including a 62-yard run."
+        },
+        {
+          "type": "fact",
+          "text": "Iowa State lost four turnovers and went 1 for 10 on third down. Drew Surges made 10 tackles."
+        },
+        {
+          "type": "jab",
+          "text": "UCF needed four gifts from us to pull away. We're done giving gifts."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Kansas State, Saturday, Nov. 28, 2:00 PM ET, Jack Trice Stadium, Ames."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, UCF 48, Iowa State 17 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856869"
+        },
+        {
+          "label": "ESPN play-by-play, Iowa State at UCF (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856869"
+        },
+        {
+          "label": "ESPN game page, Iowa State at UCF (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856869"
+        },
+        {
+          "label": "ESPN Iowa State Cyclones 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/66"
+        },
+        {
+          "label": "ESPN game recap (AP), UCF 48, Iowa State 17 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856869"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ucf-2026-11-20",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "ucf",
+      "team_ids": [
+        "ucf"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856869",
+      "title": "UCF vs Iowa State: Barnett Finds Derry Three Times, Knights Go Bowling, 48-17",
+      "byline": "Knox Brevard-Stiles, The UCF Fanatic",
+      "matchup": "Final: UCF Knights (6-5) 48, Iowa State Cyclones (5-6) 17, Fri., Nov. 20, Acrisure Bounce House, Orlando. Next: at Colorado, Sat., Nov. 28, 2:00 PM ET, Folsom Field, Boulder",
+      "date": "2026-11-20",
+      "word_count": 363,
+      "text": "Pack a bag, Knights fans. UCF 48, Iowa State 17 at the Bounce House on Friday night, and that sixth win punches our bowl ticket, our first one since 2023. We're 6-5, 4-4 in the Big 12, and Orlando is buzzing.\n\nAlonza Barnett III was the conductor of this whole show. He went 17 of 27 for 255 yards and four touchdowns, ran for 43 more and added a 15-yard touchdown run of his own. Three of those scoring throws went to Josh Derry, from 21, 65 and 24 yards. Derry caught four balls for 125 yards and became our first receiver with three touchdown catches in a game since Jacob Harris against South Florida in 2020. Four catches, three touchdowns. That's efficient.\n\nThe second quarter was a blur. Derry from 21 to make it 10-3. Derry from 65 to make it 17-3. Then Lewis Carter jumped on a fumble at the Iowa State 23, and Barnett ran it in on the very next play. Three touchdowns in about four and a half minutes, 24-3, and the place was rocking.\n\nBest moment of the night? Fourth quarter, Barnett throws a 5-yard touchdown to Jacob Maiava. An offensive lineman. Big man touchdowns are the best touchdowns, and I will hear no arguments.\n\nCredit the Cyclones: Aiden Flora is the real deal. He came in leading the nation in rushing and ran for 171 yards and two scores. But our defense took the ball away four times. Antione Jackson forced one fumble and intercepted Jaylen Raynor, returning it 28 yards. Kahmel Johnson punched one loose, and Jayden Williams recovered it. Carter recovered two. Iowa State went 1 for 10 on third down. Cole Kozlowski led us with nine tackles, and Isaiah Nixon had three tackles for loss and a sack.\n\nDuke Watson ran 16 times for 113 yards, Tyren Hornes caught five for 80, and Duane Thomas Jr. punched in a 2-yarder early in the fourth. Zero turnovers for us. That's how you clinch a bowl.\n\nNext up: at Colorado, Saturday, Nov. 28, at 2:00 PM ET at Folsom Field to close the regular season. Let's go get number seven in the mountains. Charge On!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pack a bag, Knights fans. UCF 48, Iowa State 17 at the Bounce House on Friday night, and that sixth win punches our bowl ticket, our first one since 2023. We're 6-5, 4-4 in the Big 12, and Orlando is buzzing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alonza Barnett III was the conductor of this whole show. He went 17 of 27 for 255 yards and four touchdowns, ran for 43 more and added a 15-yard touchdown run of his own. Three of those scoring throws went to Josh Derry, from 21, 65 and 24 yards. Derry caught four balls for 125 yards and became our first receiver with three touchdown catches in a game since Jacob Harris against South Florida in 2020. Four catches, three touchdowns. That's efficient."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second quarter was a blur. Derry from 21 to make it 10-3. Derry from 65 to make it 17-3. Then Lewis Carter jumped on a fumble at the Iowa State 23, and Barnett ran it in on the very next play. Three touchdowns in about four and a half minutes, 24-3, and the place was rocking."
+        },
+        {
+          "type": "paragraph",
+          "text": "Best moment of the night? Fourth quarter, Barnett throws a 5-yard touchdown to Jacob Maiava. An offensive lineman. Big man touchdowns are the best touchdowns, and I will hear no arguments."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit the Cyclones: Aiden Flora is the real deal. He came in leading the nation in rushing and ran for 171 yards and two scores. But our defense took the ball away four times. Antione Jackson forced one fumble and intercepted Jaylen Raynor, returning it 28 yards. Kahmel Johnson punched one loose, and Jayden Williams recovered it. Carter recovered two. Iowa State went 1 for 10 on third down. Cole Kozlowski led us with nine tackles, and Isaiah Nixon had three tackles for loss and a sack."
+        },
+        {
+          "type": "paragraph",
+          "text": "Duke Watson ran 16 times for 113 yards, Tyren Hornes caught five for 80, and Duane Thomas Jr. punched in a 2-yarder early in the fourth. Zero turnovers for us. That's how you clinch a bowl."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: at Colorado, Saturday, Nov. 28, at 2:00 PM ET at Folsom Field to close the regular season. Let's go get number seven in the mountains. Charge On!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "UCF beat Iowa State 48-17 on Friday, Nov. 20, at Acrisure Bounce House to become bowl eligible for the first time since 2023. The Knights are 6-5, 4-4 in the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "Alonza Barnett III threw for 255 yards and four touchdowns, three to Josh Derry, and ran for another."
+        },
+        {
+          "type": "fact",
+          "text": "UCF forced four Iowa State turnovers and committed none."
+        },
+        {
+          "type": "jab",
+          "text": "An offensive lineman scored a touchdown for us. Your move, rest of the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Colorado, Saturday, Nov. 28, 2:00 PM ET, Folsom Field, Boulder."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, UCF 48, Iowa State 17 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856869"
+        },
+        {
+          "label": "ESPN play-by-play, Iowa State at UCF (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856869"
+        },
+        {
+          "label": "ESPN game page, Iowa State at UCF (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856869"
+        },
+        {
+          "label": "ESPN UCF Knights 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2116"
+        },
+        {
+          "label": "ESPN game recap (AP), UCF 48, Iowa State 17 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856869"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-michigan-state-2026-11-20",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "michigan-state",
+      "team_ids": [
+        "michigan-state"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858529",
+      "title": "Michigan State vs Oregon: Two Trips Into Ducks Territory, Zero Points, 45-7",
+      "byline": "Shay Kowalczyk, The Michigan State Fanatic",
+      "matchup": "Final: Oregon Ducks (8-3) 45, Michigan State Spartans (3-8) 7, Fri., Nov. 20, Spartan Stadium, East Lansing. Next: at Rutgers, Sat., Nov. 28, 4:15 PM ET, SHI Stadium, Piscataway",
+      "date": "2026-11-20",
+      "word_count": 353,
+      "text": "Okay, Spartan Nation, let's do the honest version. Oregon 45, Michigan State 7, Friday night at Spartan Stadium in front of 61,331 people who deserved a better second quarter. We're 3-8, 1-7 in the Big Ten, and I'm going to tell you the truth because that's what friends do.\n\nThe game turned in about 15 minutes of football. We were in Oregon territory twice in the second quarter. The first drive went 13 plays and 57 yards, ate 6:49, and Liam Boyd's 47-yard field goal try didn't go through. The next one got to fourth down and our freshman quarterback, Kayd Coffman, went down without anybody touching him. Then Chrishon McCray lost a fumble on a punt return, the Ducks kicked a field goal, and they ran a fake field goal for a touchdown with two seconds left before the half. A trick play from their kicker. On our field. 17-0.\n\nI'm not mad at the effort. I'm mad at the math.\n\nWe did put together a real drive in the third quarter, 13 plays and 59 yards, and Jaziun Patterson plowed in from a yard out to make it 24-7. That's a Spartan drive: slow, stubborn and a little bit ugly in the best way.\n\nCoffman, getting the call for a second time with Alessio Milivojevic injured, went 10 of 19 for 106 yards. He's a freshman getting his education against a top-15 team, and that's going to pay off down the road. Fredrick Moore caught two balls for 31 yards, and Bryson Williams had two for 25.\n\nOn defense, Caleb Wheatland made eight tackles, Dion Crawford had seven, and Kenny Soares Jr. got home for a sack. We actually won the time of possession, 31:51 to 28:09. The fight was there against a team chasing a playoff spot.\n\nThis is Pat Fitzgerald's first year, and nobody in green ever said the rebuild would be quick. One more game to finish it right.\n\nNext up: at Rutgers, Saturday, Nov. 28, at 4:15 PM ET at SHI Stadium. Last one of the year, fellas. Let's go win in Piscataway. Go Green! Go White!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Okay, Spartan Nation, let's do the honest version. Oregon 45, Michigan State 7, Friday night at Spartan Stadium in front of 61,331 people who deserved a better second quarter. We're 3-8, 1-7 in the Big Ten, and I'm going to tell you the truth because that's what friends do."
+        },
+        {
+          "type": "paragraph",
+          "text": "The game turned in about 15 minutes of football. We were in Oregon territory twice in the second quarter. The first drive went 13 plays and 57 yards, ate 6:49, and Liam Boyd's 47-yard field goal try didn't go through. The next one got to fourth down and our freshman quarterback, Kayd Coffman, went down without anybody touching him. Then Chrishon McCray lost a fumble on a punt return, the Ducks kicked a field goal, and they ran a fake field goal for a touchdown with two seconds left before the half. A trick play from their kicker. On our field. 17-0."
+        },
+        {
+          "type": "paragraph",
+          "text": "I'm not mad at the effort. I'm mad at the math."
+        },
+        {
+          "type": "paragraph",
+          "text": "We did put together a real drive in the third quarter, 13 plays and 59 yards, and Jaziun Patterson plowed in from a yard out to make it 24-7. That's a Spartan drive: slow, stubborn and a little bit ugly in the best way."
+        },
+        {
+          "type": "paragraph",
+          "text": "Coffman, getting the call for a second time with Alessio Milivojevic injured, went 10 of 19 for 106 yards. He's a freshman getting his education against a top-15 team, and that's going to pay off down the road. Fredrick Moore caught two balls for 31 yards, and Bryson Williams had two for 25."
+        },
+        {
+          "type": "paragraph",
+          "text": "On defense, Caleb Wheatland made eight tackles, Dion Crawford had seven, and Kenny Soares Jr. got home for a sack. We actually won the time of possession, 31:51 to 28:09. The fight was there against a team chasing a playoff spot."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is Pat Fitzgerald's first year, and nobody in green ever said the rebuild would be quick. One more game to finish it right."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: at Rutgers, Saturday, Nov. 28, at 4:15 PM ET at SHI Stadium. Last one of the year, fellas. Let's go win in Piscataway. Go Green! Go White!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Michigan State lost 45-7 to No. 14 Oregon on Friday, Nov. 20, at Spartan Stadium. The Spartans are 3-8, 1-7 in the Big Ten."
+        },
+        {
+          "type": "fact",
+          "text": "Two second-quarter trips into Oregon territory ended with a missed 47-yard field goal and a stop on fourth down."
+        },
+        {
+          "type": "fact",
+          "text": "Jaziun Patterson scored on a 1-yard run in the third quarter, and Caleb Wheatland made eight tackles."
+        },
+        {
+          "type": "jab",
+          "text": "Oregon's kicker ran one in on a fake. In our house. We'll remember that."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Rutgers, Saturday, Nov. 28, 4:15 PM ET, SHI Stadium, Piscataway."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Oregon 45, Michigan State 7 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858529"
+        },
+        {
+          "label": "ESPN play-by-play, Oregon at Michigan State (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858529"
+        },
+        {
+          "label": "ESPN game page, Oregon at Michigan State (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858529"
+        },
+        {
+          "label": "ESPN Michigan State Spartans 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/127"
+        },
+        {
+          "label": "ESPN game recap (AP), Oregon 45, Michigan State 7 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858529"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-oregon-2026-11-20",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "oregon",
+      "team_ids": [
+        "oregon"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858529",
+      "title": "Oregon vs Michigan State: The Kicker Runs One In, Brandon Smith Runs Wild, 45-7",
+      "byline": "Phoenix 'Nix' Wyatt-Aldana, The Oregon Fanatic",
+      "matchup": "Final: Oregon Ducks (8-3) 45, Michigan State Spartans (3-8) 7, Fri., Nov. 20, Spartan Stadium, East Lansing. Next: vs Washington, Sat., Nov. 28, time TBA, Autzen Stadium, Eugene",
+      "date": "2026-11-20",
+      "word_count": 378,
+      "text": "Our kicker scored as many rushing touchdowns in East Lansing as the entire Michigan State offense. Let that sink in. Gage Hurych, a guy who had five offers to play Division I lacrosse, took a pitch on a fake field goal with two seconds left in the first half and went 15 yards to the house, and Oregon walked out of Spartan Stadium with a 45-7 win on Friday night. Ducks are 8-3, 6-2 in the Big Ten, and we've won four straight.\n\nDan Lanning, you beautiful mad scientist. Bailey Ettridge took the snap, set the ball on the grass like a normal hold, then flipped it to Hurych, who broke a tackle and made it 17-0. I screamed so loud my dog left the room.\n\nAnd then there's Brandon Smith. The freshman was our third-string running back. On Friday he ran 14 times for 121 yards and two touchdowns, both career highs, with a long of 48. He opened the scoring from 5 yards out late in the first quarter and punched in a 1-yarder with one second left in the third. Next man up? More like next man takes off.\n\nDylan Raiola was sharp, going 21 of 34 for 234 yards. His best throw was a 31-yard strike to Dakorien Moore, who snagged it one-handed in the end zone for a 38-7 lead early in the fourth. Simeon Price added two short touchdown runs, and Hurych hit a 40-yard field goal and went 6 for 6 on extra points. Busy night for the lacrosse guy.\n\nThe defense was nasty. Michigan State finished with 200 yards and 80 on the ground on 37 carries. Matayo Uiagalelei grabbed an interception early in the fourth, Gavin Nix made eight tackles, and A'Mauri Washington had a tackle and a half for loss. We had zero turnovers. The Spartans had two, plus a missed 47-yard field goal and a fourth-down run that went nowhere. We outscored them 28-7 after halftime.\n\nWe're No. 13 in the playoff rankings, and every week is a tryout now. This one looked like a team that wants in.\n\nNext up: Washington comes to Autzen Stadium on Saturday, Nov. 28, for the regular-season finale. Wear green, wear yellow, bring your loudest voice for the Huskies. Sko Ducks!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Our kicker scored as many rushing touchdowns in East Lansing as the entire Michigan State offense. Let that sink in. Gage Hurych, a guy who had five offers to play Division I lacrosse, took a pitch on a fake field goal with two seconds left in the first half and went 15 yards to the house, and Oregon walked out of Spartan Stadium with a 45-7 win on Friday night. Ducks are 8-3, 6-2 in the Big Ten, and we've won four straight."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dan Lanning, you beautiful mad scientist. Bailey Ettridge took the snap, set the ball on the grass like a normal hold, then flipped it to Hurych, who broke a tackle and made it 17-0. I screamed so loud my dog left the room."
+        },
+        {
+          "type": "paragraph",
+          "text": "And then there's Brandon Smith. The freshman was our third-string running back. On Friday he ran 14 times for 121 yards and two touchdowns, both career highs, with a long of 48. He opened the scoring from 5 yards out late in the first quarter and punched in a 1-yarder with one second left in the third. Next man up? More like next man takes off."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dylan Raiola was sharp, going 21 of 34 for 234 yards. His best throw was a 31-yard strike to Dakorien Moore, who snagged it one-handed in the end zone for a 38-7 lead early in the fourth. Simeon Price added two short touchdown runs, and Hurych hit a 40-yard field goal and went 6 for 6 on extra points. Busy night for the lacrosse guy."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense was nasty. Michigan State finished with 200 yards and 80 on the ground on 37 carries. Matayo Uiagalelei grabbed an interception early in the fourth, Gavin Nix made eight tackles, and A'Mauri Washington had a tackle and a half for loss. We had zero turnovers. The Spartans had two, plus a missed 47-yard field goal and a fourth-down run that went nowhere. We outscored them 28-7 after halftime."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're No. 13 in the playoff rankings, and every week is a tryout now. This one looked like a team that wants in."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: Washington comes to Autzen Stadium on Saturday, Nov. 28, for the regular-season finale. Wear green, wear yellow, bring your loudest voice for the Huskies. Sko Ducks!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Oregon beat Michigan State 45-7 on Friday, Nov. 20, at Spartan Stadium for its fourth straight win. The Ducks are 8-3, 6-2 in the Big Ten."
+        },
+        {
+          "type": "fact",
+          "text": "Freshman Brandon Smith ran for career highs of 121 yards and two touchdowns."
+        },
+        {
+          "type": "fact",
+          "text": "Kicker Gage Hurych scored on a 15-yard fake field goal run with two seconds left in the first half."
+        },
+        {
+          "type": "jab",
+          "text": "Our kicker matched Michigan State's rushing touchdown count by himself."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Washington, Saturday, Nov. 28, Autzen Stadium, Eugene."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Oregon 45, Michigan State 7 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858529"
+        },
+        {
+          "label": "ESPN play-by-play, Oregon at Michigan State (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858529"
+        },
+        {
+          "label": "ESPN game page, Oregon at Michigan State (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858529"
+        },
+        {
+          "label": "ESPN Oregon Ducks 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2483"
+        },
+        {
+          "label": "ESPN game recap (AP), Oregon 45, Michigan State 7 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858529"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
     {
       "id": "fanatic_team-ind-2026-11-19",
       "kind": "fanatic_team",
