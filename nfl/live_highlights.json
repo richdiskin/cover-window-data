@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "nfl",
- "updated_utc": "2026-11-22T21:36:11Z",
+ "updated_utc": "2026-11-22T22:45:36Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401873026": {
@@ -496,7 +496,24 @@
    "kickoff_utc": "2026-11-22T18:00Z",
    "first_seen_utc": "2026-11-21T18:11:12Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "JkLzA5xUpk8",
+    "title": "Pittsburgh Steelers VS Philadelphia Eagles | WEEK 11 Highlights",
+    "channel": "Philadelphia Eagles",
+    "channel_id": "UCaogx6OHpsGg0zuGRKsjbtQ",
+    "url": "https://www.youtube.com/watch?v=JkLzA5xUpk8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/JkLzA5xUpk8",
+    "thumb": "https://i.ytimg.com/vi/JkLzA5xUpk8/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T22:02:13Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T22:45:31Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401873068": {
    "game_id": "401873068",
