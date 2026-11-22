@@ -4,7 +4,7 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-10-26T11:53:04Z",
-  "count": 10,
+  "count": 12,
   "lead_id": "fanatic_team-utep-2026-11-20",
   "articles": [
     {
@@ -958,6 +958,188 @@
         {
           "label": "ESPN game recap (AP), Oregon 45, Michigan State 7 (Nov. 20, 2026)",
           "url": "https://www.espn.com/college-football/recap/_/gameId/401858529"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-wyoming-2026-11-20",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "wyoming",
+      "team_ids": [
+        "wyoming"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864542",
+      "title": "Wyoming vs New Mexico: Landon Sims and Kyle Frendt Rally the Pokes, but the Cowboys Fall 24-17 at War Memorial",
+      "byline": "Colter Sprague, The Wyoming Fanatic",
+      "matchup": "Final: New Mexico Lobos (9-2) 24, Wyoming Cowboys (7-4) 17, Fri., Nov. 20, War Memorial Stadium, Laramie. Next: vs UConn, Sat., Nov. 28, 12:00 PM ET, War Memorial Stadium, Laramie",
+      "date": "2026-11-20",
+      "word_count": 342,
+      "text": "Down 24-7 late in the third quarter on our own field, plenty of teams would have packed it in. This Wyoming team didn't. We came all the way back to within a touchdown, and then New Mexico ran out the clock. Lobos 24, Cowboys 17, and that one's going to sting for a while in Laramie.\n\nLet's start with the fight, because 22,002 people at War Memorial saw it. Erik Sandvik drilled a 29-yard field goal early in the fourth to make it 24-10. Then Landon Sims went to work, marching us 64 yards in eight plays and finding Kyle Frendt for a 34-yard touchdown with 2:57 to play. The place was rocking. One stop and we had a chance.\n\nWe never got it. New Mexico moved the chains when it had to, and the clock did the rest. That's the part that'll keep me up tonight.\n\nSims battled all night. He went 13 of 23 for 142 yards and a touchdown and punched in a 2-yard run right before halftime to get us on the board. Frendt caught five balls for 69 yards, and Jackson Holman hauled in a 37-yarder. Samuel Harris ran for 36 yards on seven carries.\n\nThe defense kept us in it. Gary Rutherford was a tackling machine with 11 stops and two breakups. Tyson Shamsid-Deen made nine with 1.5 tackles for loss. Ethan Stuhlsatz added nine tackles and a sack. They took the ball away twice, and New Mexico missed a field goal. We never gave the ball away.\n\nBut the numbers tell the story of the night. New Mexico held the ball for 38:01 and went 3 of 4 on fourth down. We finished with 188 yards and 10 first downs, and 46 rushing yards won't beat a nine-win team. We dug the hole early, falling behind 17-0 before we scored.\n\nWe're 7-4, and that's still a good season with one game to go. UConn comes to War Memorial on Saturday, Nov. 28. Home crowd, last game, one more chance to finish strong. Ride 'em, Cowboys.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Down 24-7 late in the third quarter on our own field, plenty of teams would have packed it in. This Wyoming team didn't. We came all the way back to within a touchdown, and then New Mexico ran out the clock. Lobos 24, Cowboys 17, and that one's going to sting for a while in Laramie."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let's start with the fight, because 22,002 people at War Memorial saw it. Erik Sandvik drilled a 29-yard field goal early in the fourth to make it 24-10. Then Landon Sims went to work, marching us 64 yards in eight plays and finding Kyle Frendt for a 34-yard touchdown with 2:57 to play. The place was rocking. One stop and we had a chance."
+        },
+        {
+          "type": "paragraph",
+          "text": "We never got it. New Mexico moved the chains when it had to, and the clock did the rest. That's the part that'll keep me up tonight."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sims battled all night. He went 13 of 23 for 142 yards and a touchdown and punched in a 2-yard run right before halftime to get us on the board. Frendt caught five balls for 69 yards, and Jackson Holman hauled in a 37-yarder. Samuel Harris ran for 36 yards on seven carries."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense kept us in it. Gary Rutherford was a tackling machine with 11 stops and two breakups. Tyson Shamsid-Deen made nine with 1.5 tackles for loss. Ethan Stuhlsatz added nine tackles and a sack. They took the ball away twice, and New Mexico missed a field goal. We never gave the ball away."
+        },
+        {
+          "type": "paragraph",
+          "text": "But the numbers tell the story of the night. New Mexico held the ball for 38:01 and went 3 of 4 on fourth down. We finished with 188 yards and 10 first downs, and 46 rushing yards won't beat a nine-win team. We dug the hole early, falling behind 17-0 before we scored."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 7-4, and that's still a good season with one game to go. UConn comes to War Memorial on Saturday, Nov. 28. Home crowd, last game, one more chance to finish strong. Ride 'em, Cowboys."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Wyoming lost 24-17 to New Mexico on Friday, Nov. 20, at War Memorial Stadium. The Cowboys are 7-4."
+        },
+        {
+          "type": "fact",
+          "text": "Landon Sims threw a 34-yard touchdown to Kyle Frendt with 2:57 left and ran for another score."
+        },
+        {
+          "type": "fact",
+          "text": "Gary Rutherford made 11 tackles, and Wyoming had no turnovers."
+        },
+        {
+          "type": "jab",
+          "text": "New Mexico needed 38 minutes of possession to beat us by a touchdown. We'll see them again."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs UConn, Sat., Nov. 28, 12:00 PM ET, War Memorial Stadium, Laramie."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, New Mexico 24, Wyoming 17 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864542"
+        },
+        {
+          "label": "ESPN play-by-play, New Mexico at Wyoming (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864542"
+        },
+        {
+          "label": "ESPN game page, New Mexico at Wyoming (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401864542"
+        },
+        {
+          "label": "ESPN Wyoming Cowboys 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2751"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-new-mexico-2026-11-20",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "new-mexico",
+      "team_ids": [
+        "new-mexico"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864542",
+      "title": "New Mexico vs Wyoming: Luke Moga Runs and Throws for Scores, Lobos Hold On in Laramie 24-17",
+      "byline": "Paloma Begaye-Ortiz, The New Mexico Fanatic",
+      "matchup": "Final: New Mexico Lobos (9-2) 24, Wyoming Cowboys (7-4) 17, Fri., Nov. 20, War Memorial Stadium, Laramie. Next: vs Air Force, Fri., Nov. 27, 4:30 PM ET, University Stadium (NM), Albuquerque",
+      "date": "2026-11-20",
+      "word_count": 349,
+      "text": "Nine wins. Say it out loud, Albuquerque. The Lobos went up to Laramie on Friday night, built a 24-7 lead, held on through a nervy finish, and beat Wyoming 24-17. We're 9-2, and I'm not sure my voice is coming back before Thanksgiving.\n\nThe first half was all New Mexico. Luke Moga hit Cade Keith from 5 yards out on our opening scoring drive, Grant Glasgow banged home a 48-yard field goal before the first quarter ended, and Moga ran one in from a yard out in the second for a 17-0 lead. Wyoming couldn't get anything going for a long stretch.\n\nKiefer Sibley was the workhorse. Twenty carries, 79 yards, and a 1-yard touchdown in the third that made it 24-7. He also caught three balls for 40 yards, including the biggest catch of the night: a 15-yarder on the final drive that moved the chains and let us run out the clock. He carried it twice more, and Moga took a knee. Lights out.\n\nMoga went 22 of 40 for 234 yards and a score without an interception. Bailen George caught eight balls for 76 yards, and Keith added four grabs for 42. We piled up 433 yards and 26 first downs, went 3 of 4 on fourth down, and held the ball for 38:01. That's how you win on the road in November.\n\nThe defense smothered the Cowboys. Wyoming finished with 188 yards, 46 of them on the ground, and just 10 first downs. They went 3 of 12 on third down. Mercury Swaim made eight tackles with one for loss, Jayden Flaker added six, and CJ McBean had a tackle for loss of his own.\n\nI won't pretend the fourth quarter was relaxing. We lost two fumbles, missed a field goal, and Wyoming scored 10 straight to make it a one-score game with 2:57 left. My heart was pounding. But the offense took the ball and never gave it back.\n\nAir Force comes to University Stadium next Friday afternoon for the regular-season finale. Ten wins is right there. Pack the place, Lobo nation, and howl.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Nine wins. Say it out loud, Albuquerque. The Lobos went up to Laramie on Friday night, built a 24-7 lead, held on through a nervy finish, and beat Wyoming 24-17. We're 9-2, and I'm not sure my voice is coming back before Thanksgiving."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half was all New Mexico. Luke Moga hit Cade Keith from 5 yards out on our opening scoring drive, Grant Glasgow banged home a 48-yard field goal before the first quarter ended, and Moga ran one in from a yard out in the second for a 17-0 lead. Wyoming couldn't get anything going for a long stretch."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kiefer Sibley was the workhorse. Twenty carries, 79 yards, and a 1-yard touchdown in the third that made it 24-7. He also caught three balls for 40 yards, including the biggest catch of the night: a 15-yarder on the final drive that moved the chains and let us run out the clock. He carried it twice more, and Moga took a knee. Lights out."
+        },
+        {
+          "type": "paragraph",
+          "text": "Moga went 22 of 40 for 234 yards and a score without an interception. Bailen George caught eight balls for 76 yards, and Keith added four grabs for 42. We piled up 433 yards and 26 first downs, went 3 of 4 on fourth down, and held the ball for 38:01. That's how you win on the road in November."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense smothered the Cowboys. Wyoming finished with 188 yards, 46 of them on the ground, and just 10 first downs. They went 3 of 12 on third down. Mercury Swaim made eight tackles with one for loss, Jayden Flaker added six, and CJ McBean had a tackle for loss of his own."
+        },
+        {
+          "type": "paragraph",
+          "text": "I won't pretend the fourth quarter was relaxing. We lost two fumbles, missed a field goal, and Wyoming scored 10 straight to make it a one-score game with 2:57 left. My heart was pounding. But the offense took the ball and never gave it back."
+        },
+        {
+          "type": "paragraph",
+          "text": "Air Force comes to University Stadium next Friday afternoon for the regular-season finale. Ten wins is right there. Pack the place, Lobo nation, and howl."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "New Mexico beat Wyoming 24-17 on Friday, Nov. 20, at War Memorial Stadium in Laramie. The Lobos are 9-2."
+        },
+        {
+          "type": "fact",
+          "text": "Luke Moga threw a touchdown to Cade Keith and ran for another, and Kiefer Sibley added a 1-yard scoring run."
+        },
+        {
+          "type": "fact",
+          "text": "New Mexico held Wyoming to 188 yards and 10 first downs and ran out the final 2:57."
+        },
+        {
+          "type": "jab",
+          "text": "Wyoming had the ball for 21 minutes. We had it the rest of the night, including the part that mattered."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Air Force, Fri., Nov. 27, 4:30 PM ET, University Stadium, Albuquerque."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, New Mexico 24, Wyoming 17 (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864542"
+        },
+        {
+          "label": "ESPN play-by-play, New Mexico at Wyoming (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864542"
+        },
+        {
+          "label": "ESPN game page, New Mexico at Wyoming (Nov. 20, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401864542"
+        },
+        {
+          "label": "ESPN New Mexico Lobos 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/167"
         }
       ],
       "sources_display": "button",
