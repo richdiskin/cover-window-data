@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-22T04:36:59Z",
+ "updated_utc": "2026-11-22T06:10:44Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -5115,7 +5115,24 @@
    "kickoff_utc": "2026-11-22T02:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "YCSVTQel2ec",
+    "title": "#2 Utah vs. TCU Highlights | 2026 Monster Energy Big 12 Football",
+    "channel": "Big 12 Conference",
+    "channel_id": "UCLnfOCTbfqMy_3ah8OmTHEQ",
+    "url": "https://www.youtube.com/watch?v=YCSVTQel2ec",
+    "embed_url": "https://www.youtube-nocookie.com/embed/YCSVTQel2ec",
+    "thumb": "https://i.ytimg.com/vi/YCSVTQel2ec/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T06:06:13Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T06:10:44Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401860925": {
    "game_id": "401860925",
