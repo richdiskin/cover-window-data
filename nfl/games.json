@@ -2525,13 +2525,13 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-17T14:53:58Z",
+    "fetched_at_utc": "2026-11-22T11:11:18Z",
     "action_network_game_id": 290993,
-    "home_line": -10,
-    "total": 40.5,
-    "open_home_line": -7.5,
-    "open_total": 41.5,
-    "spread_display": "Denver Broncos −10",
+    "home_line": -10.5,
+    "total": 41,
+    "open_home_line": -10,
+    "open_total": 40.5,
+    "spread_display": "Denver Broncos −10.5",
     "open_timestamp": ""
    },
    "injuries": {
@@ -2541,24 +2541,24 @@
     "home": null
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261122",
-   "spread": "Las Vegas Raiders +10",
-   "story_text": "Broncos 27, Raiders 19. Raiders cover the 10. Over 40.5. The Formula projects Denver by 8.3 against a 10-point line.",
+   "spread": "Las Vegas Raiders +10.5",
+   "story_text": "Broncos 27, Raiders 19. Raiders cover the 10.5. Over 41.5. The Formula projects Denver by 8.3 against a 10.5-point line.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Over",
    "total_reason_public": "",
    "line_used": {
-    "home_line": -10,
-    "total": 40.5,
-    "source": "Consensus line as of Nov 17, 9:53 AM ET",
-    "as_of_utc": "2026-11-17T14:53:58Z"
+    "home_line": -10.5,
+    "total": 41.5,
+    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 22, 6:11 AM ET",
+    "as_of_utc": "2026-11-22T11:11:18Z"
    },
-   "total_line": 40.5,
+   "total_line": 41.5,
    "prediction": {
     "away_score": 19,
     "home_score": 27,
     "winner": "Denver Broncos",
-    "covers": "Las Vegas Raiders +10"
+    "covers": "Las Vegas Raiders +10.5"
    },
    "handicappers": [
     {
@@ -2581,7 +2581,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Denver Broncos −10 (Nov 17, 7:03 AM ET) and is Denver Broncos −10 now (Nov 17, 9:53 AM ET), a 0-point move. Total opened 40.5 (Nov 17, 12:39 AM ET) and is 40.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Consensus spread opened Denver Broncos −10 (Nov 17, 7:03 AM ET) and is −10.5 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 40.5 (Nov 17, 12:39 AM ET) and is 41 now, a 0.5-point move. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 22, 6:11 AM ET; the open is the first consensus line posted at or after Nov 17, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -2598,10 +2598,10 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 17, 9:53 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 17, 9:53 AM ET.",
+    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 22, 6:11 AM ET; Follow The Money uses the Action Network consensus line history.",
     "The Formula ratings: nflverse play-by-play as of Nov 17, 9:54 AM ET, Weeks 1–10 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–10 finals.",
-    "Injuries: NFL.com official Week 11 injury report not out yet (checked Nov 17, 9:54 AM ET); Next Man Up uses each team’s last starter.",
+    "Injuries: NFL.com official Week 11 injury report (https://www.nfl.com/injuries/league/2026/reg11) and ESPN team injury updates, checked Nov 22, 6:11 AM ET; key players are noted in the Sunday morning update.",
     "Follow The Money: move from the first consensus line at or after Nov 17, 12:15 AM ET (Action Network line history).",
     "Records and points: ESPN team pages, as of Nov 17, 9:53 AM ET.",
     "Next Man Up: 2026 game scores (nflverse game results); expected starting quarterbacks from nflverse play-by-play, the NFL.com Week 11 injury report and team announcements.",
@@ -2614,82 +2614,82 @@
     "label": "",
     "source": "Cover Writer",
     "projected_total": 46,
-    "market_total": 40.5,
+    "market_total": 41.5,
     "pick": "Over",
-    "text": "Over 40.5"
+    "text": "Over 41.5"
    },
    "display": {
     "writer": {
      "score_line": "Projected: Denver Broncos 27, Las Vegas Raiders 19 (Total 46)",
-     "side": "Las Vegas Raiders +10",
-     "ou": "Over 40.5",
+     "side": "Las Vegas Raiders +10.5",
+     "ou": "Over 41.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Las Vegas Raiders +10",
-      "ou_line": "O/U: Over 40.5 · Likes this total",
+      "side_line": "Side: Las Vegas Raiders +10.5 · Likes this side",
+      "ou_line": "O/U: Over 41.5 · Likes this total",
       "score_line": "Projected: Denver Broncos 28, Las Vegas Raiders 20 (Total 48)",
       "basis_line": "Net ratings Denver Broncos −2.5, Las Vegas Raiders −9.0 (nflverse play-by-play, Nov 17, 2026)",
       "independent": true,
-      "distance_from_spread": 2.0,
-      "distance_from_total": 7.5
+      "distance_from_spread": 2.5,
+      "distance_from_total": 6.5
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Las Vegas Raiders +10 · Likes this side",
-      "ou_line": "O/U: Over 40.5 · Likes this total",
+      "side_line": "Side: Las Vegas Raiders +10.5 · Likes this side",
+      "ou_line": "O/U: Over 41.5 · Likes this total",
       "score_line": "Projected: Denver Broncos 26, Las Vegas Raiders 19 (Total 45)",
       "basis_line": "Projected points: Denver Broncos 25.8, Las Vegas Raiders 18.7. Availability: expected starting quarterbacks Bo Nix (DEN) and Fernando Mendoza (LV). NFL.com official Week 11 injury report (checked Nov 17, 9:54 AM ET): not out yet, so no quarterback is ruled out. Fernando Mendoza is not LV’s main starter this season (Kirk Cousins).",
       "independent": true,
-      "distance_from_spread": 3.0,
-      "distance_from_total": 4.5
+      "distance_from_spread": 3.5,
+      "distance_from_total": 3.5
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Denver Broncos −10 · Likes this side",
-      "ou_line": "O/U: Over 40.5 · Likes this total",
+      "side_line": "Side: Denver Broncos −10.5 · Likes this side",
+      "ou_line": "O/U: Over 41.5 · Likes this total",
       "score_line": "Projected: Denver Broncos 30, Las Vegas Raiders 16 (Total 46)",
       "basis_line": "Rest and travel: Las Vegas Raiders: 7 days since its last game, travels 608 miles; Denver Broncos: coming off a bye, plays at home. Projected: Broncos by 14, total 45.5.",
       "independent": true,
-      "distance_from_spread": 4.0,
-      "distance_from_total": 5.5
+      "distance_from_spread": 3.5,
+      "distance_from_total": 4.5
      },
      {
       "name": "Follow The Money",
       "side_line": "Side: no pick (not enough line movement)",
       "ou_line": "O/U: no pick (not enough total movement)",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Denver Broncos −10 (Nov 17, 7:03 AM ET) and is Denver Broncos −10 now (Nov 17, 9:53 AM ET), a 0-point move. Total opened 40.5 (Nov 17, 12:39 AM ET) and is 40.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Denver Broncos −10 (Nov 17, 7:03 AM ET) and is −10.5 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 40.5 (Nov 17, 12:39 AM ET) and is 41 now, a 0.5-point move. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 22, 6:11 AM ET; the open is the first consensus line posted at or after Nov 17, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.0,
+      "distance_from_spread": 0.5,
       "distance_from_total": 0.5
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Las Vegas Raiders +10 · Likes this side",
-      "ou_line": "O/U: Over 40.5 · Likes this total",
+      "side_line": "Side: Las Vegas Raiders +10.5 · Likes this side",
+      "ou_line": "O/U: Over 41.5 · Likes this total",
       "score_line": "Projected: Denver Broncos 25, Las Vegas Raiders 19 (Total 44)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 10). Projected points: Denver Broncos 24.7, Las Vegas Raiders 19.5.",
       "independent": true,
-      "distance_from_spread": 4.0,
-      "distance_from_total": 3.5
+      "distance_from_spread": 4.5,
+      "distance_from_total": 2.5
      }
     ],
     "best_bets": [],
-    "story_text": "Denver has won five straight, but my Raiders vs Broncos prediction has them coming the way they usually do, by a touchdown or less. Raiders +10 is the call against the spread, the Over 40.5 is my over/under pick, and Broncos 27, Raiders 19 is the final score.\n\nRuth Calder took Vic Moreno to the 110-foot Mile High Tree lighting on the Tivoli Quad on Friday night, and he spent most of it explaining why the Raiders can keep this one respectable.\n\nThe Formula: Net ratings Denver Broncos −2.5, Las Vegas Raiders −9.0 (nflverse play-by-play, Nov 17, 2026).\n\nDenver is 7-2, 4-0 at home and coming off a bye, so there's no question who the better team is. The question is margin. Only one of Denver's seven wins came by more than a touchdown, a 30-16 game in Arizona. The rest were by seven or fewer, including a 17-14 win against Seattle and a 28-24 win against Kansas City. The Broncos have scored 198 points and allowed 186, which is not the profile of a team that blows people out.\n\nLas Vegas collects most of the support. The Formula has Broncos 28, Raiders 20, Next Man Up has Broncos 26, Raiders 19, and In The Trenches has Broncos 25, Raiders 19. Letdown Watch is the one card on Denver at 10, with Broncos 30, Raiders 16. Follow The Money sits out on both the side and the total. All four scoring cards like the Over 40.5.\n\nThe Raiders are 3-2 on the road, with wins at the Chargers, in New Orleans and at the Jets, and they've scored 251 points this season. Brock Bowers has 676 receiving yards and six touchdowns, and Ashton Jeanty gives them a runner who can keep the clock moving if they get a lead. Maxx Crosby, with five sacks, can make Nix uncomfortable. Fernando Mendoza started the 21-13 loss to Seattle. Las Vegas has also allowed 289 points, so Bo Nix, with 11 touchdown throws, should find the end zone too.\n\nBroncos 27, Raiders 19 totals 46, well past 40.5. An eight-point Denver win is more comfortable than most of its wins have been this year, and it still leaves the Raiders two points to spare.\n\nMile High in late November tends to belong to Denver, and it will again. Ten points is simply too much to ask of an offense that wins with patience instead of fireworks.\n\nBroncos 27, Raiders 19. Raiders cover the 10. Over 40.5.",
+    "story_text": "Denver has won five straight, but my Raiders vs Broncos prediction has them coming the way they usually do, by a touchdown or less. Raiders +10.5 is the call against the spread, the Over 41.5 is my over/under pick, and Broncos 27, Raiders 19 is the final score.\n\nRuth Calder took Vic Moreno to the 110-foot Mile High Tree lighting on the Tivoli Quad on Friday night, and he spent most of it explaining why the Raiders can keep this one respectable.\n\nThe Formula: Net ratings Denver Broncos −2.5, Las Vegas Raiders −9.0 (nflverse play-by-play, Nov 17, 2026).\n\nDenver is 7-2, 4-0 at home and coming off a bye, so there's no question who the better team is. The question is margin. Only one of Denver's seven wins came by more than a touchdown, a 30-16 game in Arizona. The rest were by seven or fewer, including a 17-14 win against Seattle and a 28-24 win against Kansas City. The Broncos have scored 198 points and allowed 186, which is not the profile of a team that blows people out.\n\nSunday morning update: as of Nov 22, 6:11 AM ET, DraftKings has Broncos −10.5, total 41.5. This preview was written against Broncos −10, total 40.5, so the spread moved from Broncos −10 to Broncos −10.5 and the total rose from 40.5 to 41.5. The Cover Writer stays on Raiders +10.5 with Broncos 27, Raiders 19, because Broncos by 8 stays inside the 10.5. The Over holds, now 41.5, with 46 points. Official statuses (NFL.com Week 11 report, ESPN team updates, checked Nov 22, 6:11 AM ET): Raiders TE Brock Bowers is questionable with an ankle injury and DT Tonka Hemingway is out; Broncos S Brandon Jones is questionable. No quarterback is on either team's report.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Broncos −10 and is Broncos −10.5 now, and the consensus total opened 40.5 and is 41 now, so it has no side pick (no move of a full point) and has no total pick (no move of a full point). The Formula: Broncos 28, Raiders 20 on net ratings. It stays on Raiders +10.5 (Broncos by 8 stays inside the 10.5) and stays on the Over, now 41.5 (48 points). Next Man Up: Broncos 26, Raiders 19 on who's playing. It stays on Raiders +10.5 (Broncos by 7 stays inside the 10.5) and stays on the Over, now 41.5 (45 points). Letdown Watch: Broncos 30, Raiders 16 on rest and travel. It stays on Broncos −10.5 (Broncos by 14 clears the 10.5) and stays on the Over, now 41.5 (46 points). In The Trenches: Broncos 25, Raiders 19 on the line of scrimmage. It stays on Raiders +10.5 (Broncos by 6 stays inside the 10.5) and stays on the Over, now 41.5 (44 points).\n\nThe Raiders are 3-2 on the road, with wins at the Chargers, in New Orleans and at the Jets, and they've scored 251 points this season. Brock Bowers has 676 receiving yards and six touchdowns, and Ashton Jeanty gives them a runner who can keep the clock moving if they get a lead. Maxx Crosby, with five sacks, can make Nix uncomfortable. Fernando Mendoza started the 21-13 loss to Seattle. Las Vegas has also allowed 289 points, so Bo Nix, with 11 touchdown throws, should find the end zone too.\n\nBroncos 27, Raiders 19 totals 46, well past 41.5. An eight-point Denver win is more comfortable than most of its wins have been this year, and it still leaves the Raiders two and a half points to spare.\n\nMile High in late November tends to belong to Denver, and it will again. Ten and a half points is simply too much to ask of an offense that wins with patience instead of fireworks.\n\nBroncos 27, Raiders 19. Raiders cover the 10.5. Over 41.5.",
     "fanatic_score_line": "Projected: Denver Broncos 27, Las Vegas Raiders 19",
     "market": {
-     "score_line": "Market: Denver Broncos 25, Las Vegas Raiders 15 (Total 40)",
-     "spread": "Denver Broncos −10",
-     "total": "40.5",
-     "source": "Consensus line as of Nov 17, 9:53 AM ET",
+     "score_line": "Market: Denver Broncos 26, Las Vegas Raiders 16 (Total 42)",
+     "spread": "Denver Broncos −10.5",
+     "total": "41.5",
+     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 22, 6:11 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_story": "At 5:30 on Friday evening, somebody on the Auraria Campus will flip a switch, and a 110-foot tree on the Tivoli Quad will light up the Denver sky. Ruth Calder will be standing close enough to feel the warmth from the bulbs, or at least she'll say she can.\n\nVic Moreno will be standing next to her in a Raiders hoodie, which in Denver in late November is either brave or foolish, and Vic hasn't decided which. He has made this trip enough times to know the walk up to the stadium is uphill both ways, at least in his telling.\n\nVic: It's a big tree.\n\nRuth: It's the Mile High Tree. Everything here is mile high. You'll get used to it.\n\nVic drove up from Las Vegas for Las Vegas Raiders vs Denver Broncos in Week 11, and Ruth has planned his entire weekend around reminding him how things are going. Friday is the tree, Saturday afternoon is Trans-Siberian Orchestra at Ball Arena, and Sunday is a Broncos team that hasn't lost since early October.\n\nThe Broncos are 7-2 and 4-0 at home. They lost in San Francisco in Week 4, and they've won five straight since, the last one 26-21 in Carolina before the bye. Ruth will tell you none of the wins has been pretty. She'll also tell you she doesn't care. Bo Nix has 1,730 yards and 11 touchdown throws against four interceptions. Jaylen Waddle has 337 receiving yards, and J.K. Dobbins has 324 on the ground. Alex Singleton has 107 tackles, and Zach Allen has 4.5 sacks, and Ruth describes the defense the way some people describe a good furnace.\n\nRuth: It's not exciting. It just works.\n\nVic has had an exciting season, which is a polite way to say a stressful one. The Raiders are 4-6. They won at the Chargers, in New Orleans and in a 38-33 shootout with the Jets, and they're 3-2 on the road. At home they're 1-4, and the last one was a 21-13 loss to Seattle that Vic left talking to himself.\n\nFernando Mendoza started that game, and Vic has a lot of hope riding on the kid. Brock Bowers has 50 catches for 676 yards and six touchdowns, and Vic calls him the best thing in Las Vegas that doesn't have a neon sign. Ashton Jeanty has 380 rushing yards. Maxx Crosby has five sacks and still plays like he's mad at the whole state of Colorado. Nakobe Dean has 107 tackles, the same as Singleton, which Vic brings up more than once.\n\nVic: Your linebacker and my linebacker are tied.\n\nRuth: My linebacker's team is 7-2.\n\nSaturday, they'll go to the Trans-Siberian Orchestra show, the three o'clock one, because Ruth's family has gone for years and Vic was told it wasn't optional. There will be lasers. There will be a lot of electric guitar. Vic will pretend not to enjoy it and fail.\n\nSunday the forecast says 52 degrees and calm at kickoff, which counts as a gift in Denver in November. Ruth has her orange scarf. Vic has the hoodie and a jacket underneath it that he swears he isn't wearing.\n\nRuth wants a sixth straight win and a quiet afternoon. Vic wants Bowers to get loose, Crosby to get home and Mendoza to look like the future. Both of them think this will be closer than people outside Denver expect, which is the one thing they agreed on all weekend.\n\nMy call: Broncos 27, Raiders 19."
    },
-   "gambler_story": "Denver has won five straight, but my Raiders vs Broncos prediction has them coming the way they usually do, by a touchdown or less. Raiders +10 is the call against the spread, the Over 40.5 is my over/under pick, and Broncos 27, Raiders 19 is the final score.\n\nRuth Calder took Vic Moreno to the 110-foot Mile High Tree lighting on the Tivoli Quad on Friday night, and he spent most of it explaining why the Raiders can keep this one respectable.\n\nThe Formula: Net ratings Denver Broncos −2.5, Las Vegas Raiders −9.0 (nflverse play-by-play, Nov 17, 2026).\n\nDenver is 7-2, 4-0 at home and coming off a bye, so there's no question who the better team is. The question is margin. Only one of Denver's seven wins came by more than a touchdown, a 30-16 game in Arizona. The rest were by seven or fewer, including a 17-14 win against Seattle and a 28-24 win against Kansas City. The Broncos have scored 198 points and allowed 186, which is not the profile of a team that blows people out.\n\nLas Vegas collects most of the support. The Formula has Broncos 28, Raiders 20, Next Man Up has Broncos 26, Raiders 19, and In The Trenches has Broncos 25, Raiders 19. Letdown Watch is the one card on Denver at 10, with Broncos 30, Raiders 16. Follow The Money sits out on both the side and the total. All four scoring cards like the Over 40.5.\n\nThe Raiders are 3-2 on the road, with wins at the Chargers, in New Orleans and at the Jets, and they've scored 251 points this season. Brock Bowers has 676 receiving yards and six touchdowns, and Ashton Jeanty gives them a runner who can keep the clock moving if they get a lead. Maxx Crosby, with five sacks, can make Nix uncomfortable. Fernando Mendoza started the 21-13 loss to Seattle. Las Vegas has also allowed 289 points, so Bo Nix, with 11 touchdown throws, should find the end zone too.\n\nBroncos 27, Raiders 19 totals 46, well past 40.5. An eight-point Denver win is more comfortable than most of its wins have been this year, and it still leaves the Raiders two points to spare.\n\nMile High in late November tends to belong to Denver, and it will again. Ten points is simply too much to ask of an offense that wins with patience instead of fireworks.\n\nBroncos 27, Raiders 19. Raiders cover the 10. Over 40.5.",
+   "gambler_story": "Denver has won five straight, but my Raiders vs Broncos prediction has them coming the way they usually do, by a touchdown or less. Raiders +10.5 is the call against the spread, the Over 41.5 is my over/under pick, and Broncos 27, Raiders 19 is the final score.\n\nRuth Calder took Vic Moreno to the 110-foot Mile High Tree lighting on the Tivoli Quad on Friday night, and he spent most of it explaining why the Raiders can keep this one respectable.\n\nThe Formula: Net ratings Denver Broncos −2.5, Las Vegas Raiders −9.0 (nflverse play-by-play, Nov 17, 2026).\n\nDenver is 7-2, 4-0 at home and coming off a bye, so there's no question who the better team is. The question is margin. Only one of Denver's seven wins came by more than a touchdown, a 30-16 game in Arizona. The rest were by seven or fewer, including a 17-14 win against Seattle and a 28-24 win against Kansas City. The Broncos have scored 198 points and allowed 186, which is not the profile of a team that blows people out.\n\nSunday morning update: as of Nov 22, 6:11 AM ET, DraftKings has Broncos −10.5, total 41.5. This preview was written against Broncos −10, total 40.5, so the spread moved from Broncos −10 to Broncos −10.5 and the total rose from 40.5 to 41.5. The Cover Writer stays on Raiders +10.5 with Broncos 27, Raiders 19, because Broncos by 8 stays inside the 10.5. The Over holds, now 41.5, with 46 points. Official statuses (NFL.com Week 11 report, ESPN team updates, checked Nov 22, 6:11 AM ET): Raiders TE Brock Bowers is questionable with an ankle injury and DT Tonka Hemingway is out; Broncos S Brandon Jones is questionable. No quarterback is on either team's report.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Broncos −10 and is Broncos −10.5 now, and the consensus total opened 40.5 and is 41 now, so it has no side pick (no move of a full point) and has no total pick (no move of a full point). The Formula: Broncos 28, Raiders 20 on net ratings. It stays on Raiders +10.5 (Broncos by 8 stays inside the 10.5) and stays on the Over, now 41.5 (48 points). Next Man Up: Broncos 26, Raiders 19 on who's playing. It stays on Raiders +10.5 (Broncos by 7 stays inside the 10.5) and stays on the Over, now 41.5 (45 points). Letdown Watch: Broncos 30, Raiders 16 on rest and travel. It stays on Broncos −10.5 (Broncos by 14 clears the 10.5) and stays on the Over, now 41.5 (46 points). In The Trenches: Broncos 25, Raiders 19 on the line of scrimmage. It stays on Raiders +10.5 (Broncos by 6 stays inside the 10.5) and stays on the Over, now 41.5 (44 points).\n\nThe Raiders are 3-2 on the road, with wins at the Chargers, in New Orleans and at the Jets, and they've scored 251 points this season. Brock Bowers has 676 receiving yards and six touchdowns, and Ashton Jeanty gives them a runner who can keep the clock moving if they get a lead. Maxx Crosby, with five sacks, can make Nix uncomfortable. Fernando Mendoza started the 21-13 loss to Seattle. Las Vegas has also allowed 289 points, so Bo Nix, with 11 touchdown throws, should find the end zone too.\n\nBroncos 27, Raiders 19 totals 46, well past 41.5. An eight-point Denver win is more comfortable than most of its wins have been this year, and it still leaves the Raiders two and a half points to spare.\n\nMile High in late November tends to belong to Denver, and it will again. Ten and a half points is simply too much to ask of an offense that wins with patience instead of fireworks.\n\nBroncos 27, Raiders 19. Raiders cover the 10.5. Over 41.5.",
    "fanatic_story": "At 5:30 on Friday evening, somebody on the Auraria Campus will flip a switch, and a 110-foot tree on the Tivoli Quad will light up the Denver sky. Ruth Calder will be standing close enough to feel the warmth from the bulbs, or at least she'll say she can.\n\nVic Moreno will be standing next to her in a Raiders hoodie, which in Denver in late November is either brave or foolish, and Vic hasn't decided which. He has made this trip enough times to know the walk up to the stadium is uphill both ways, at least in his telling.\n\nVic: It's a big tree.\n\nRuth: It's the Mile High Tree. Everything here is mile high. You'll get used to it.\n\nVic drove up from Las Vegas for Las Vegas Raiders vs Denver Broncos in Week 11, and Ruth has planned his entire weekend around reminding him how things are going. Friday is the tree, Saturday afternoon is Trans-Siberian Orchestra at Ball Arena, and Sunday is a Broncos team that hasn't lost since early October.\n\nThe Broncos are 7-2 and 4-0 at home. They lost in San Francisco in Week 4, and they've won five straight since, the last one 26-21 in Carolina before the bye. Ruth will tell you none of the wins has been pretty. She'll also tell you she doesn't care. Bo Nix has 1,730 yards and 11 touchdown throws against four interceptions. Jaylen Waddle has 337 receiving yards, and J.K. Dobbins has 324 on the ground. Alex Singleton has 107 tackles, and Zach Allen has 4.5 sacks, and Ruth describes the defense the way some people describe a good furnace.\n\nRuth: It's not exciting. It just works.\n\nVic has had an exciting season, which is a polite way to say a stressful one. The Raiders are 4-6. They won at the Chargers, in New Orleans and in a 38-33 shootout with the Jets, and they're 3-2 on the road. At home they're 1-4, and the last one was a 21-13 loss to Seattle that Vic left talking to himself.\n\nFernando Mendoza started that game, and Vic has a lot of hope riding on the kid. Brock Bowers has 50 catches for 676 yards and six touchdowns, and Vic calls him the best thing in Las Vegas that doesn't have a neon sign. Ashton Jeanty has 380 rushing yards. Maxx Crosby has five sacks and still plays like he's mad at the whole state of Colorado. Nakobe Dean has 107 tackles, the same as Singleton, which Vic brings up more than once.\n\nVic: Your linebacker and my linebacker are tied.\n\nRuth: My linebacker's team is 7-2.\n\nSaturday, they'll go to the Trans-Siberian Orchestra show, the three o'clock one, because Ruth's family has gone for years and Vic was told it wasn't optional. There will be lasers. There will be a lot of electric guitar. Vic will pretend not to enjoy it and fail.\n\nSunday the forecast says 52 degrees and calm at kickoff, which counts as a gift in Denver in November. Ruth has her orange scarf. Vic has the hoodie and a jacket underneath it that he swears he isn't wearing.\n\nRuth wants a sixth straight win and a quiet afternoon. Vic wants Bowers to get loose, Crosby to get home and Mendoza to look like the future. Both of them think this will be closer than people outside Denver expect, which is the one thing they agreed on all weekend.\n\nMy call: Broncos 27, Raiders 19.",
    "fanatic_final_sentence": "Broncos 27, Raiders 19.",
    "preview_sources": [],
@@ -2803,13 +2803,13 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-17T14:53:58Z",
+    "fetched_at_utc": "2026-11-22T11:11:18Z",
     "action_network_game_id": 290988,
-    "home_line": 6,
-    "total": 46.5,
-    "open_home_line": 1.5,
+    "home_line": 5.5,
+    "total": 45.5,
+    "open_home_line": 6,
     "open_total": 46.5,
-    "spread_display": "New York Giants +6",
+    "spread_display": "New York Giants +5.5",
     "open_timestamp": ""
    },
    "injuries": {
@@ -2820,18 +2820,18 @@
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261122",
    "spread": "New York Giants +6",
-   "story_text": "Jaguars 25, Giants 20. Giants cover the 6. Under 46.5. The four-card average lands on the Giants +6.",
+   "story_text": "Jaguars 25, Giants 20. Giants cover the 6. Under 45.5. Three of the four cards with a score take the Giants +6.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "line_used": {
-    "home_line": 6,
-    "total": 46.5,
-    "source": "Consensus line as of Nov 17, 9:53 AM ET",
-    "as_of_utc": "2026-11-17T14:53:58Z"
+    "home_line": 6.0,
+    "total": 45.5,
+    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 22, 6:11 AM ET",
+    "as_of_utc": "2026-11-22T11:11:18Z"
    },
-   "total_line": 46.5,
+   "total_line": 45.5,
    "prediction": {
     "away_score": 25,
     "home_score": 20,
@@ -2859,7 +2859,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Jacksonville Jaguars −6 (Nov 17, 7:45 AM ET) and is Jacksonville Jaguars −6 now (Nov 17, 9:53 AM ET), a 0-point move. No consensus total posted since then, so no total move is measured. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Consensus spread opened New York Giants +6 (Nov 17, 7:45 AM ET) and is +5.5 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 46.5 (Nov 19, 9:36 AM ET) and is 45.5 now, a 1-point move: Under. The total pick quotes the consensus total now (45.5). Lines are the Action Network consensus as of Nov 22, 6:11 AM ET; the open is the first consensus line posted at or after Nov 17, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -2876,10 +2876,10 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 17, 9:53 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 17, 9:53 AM ET.",
+    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 22, 6:11 AM ET; Follow The Money uses the Action Network consensus line history.",
     "The Formula ratings: nflverse play-by-play as of Nov 17, 9:54 AM ET, Weeks 1–10 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–10 finals.",
-    "Injuries: NFL.com official Week 11 injury report not out yet (checked Nov 17, 9:54 AM ET); Next Man Up uses each team’s last starter.",
+    "Injuries: NFL.com official Week 11 injury report (https://www.nfl.com/injuries/league/2026/reg11) and ESPN team injury updates, checked Nov 22, 6:11 AM ET; key players are noted in the Sunday morning update.",
     "Follow The Money: move from the first consensus line at or after Nov 17, 12:15 AM ET (Action Network line history).",
     "Records and points: ESPN team pages, as of Nov 17, 9:53 AM ET.",
     "Next Man Up: 2026 game scores (nflverse game results); expected starting quarterbacks from nflverse play-by-play, the NFL.com Week 11 injury report and team announcements.",
@@ -2892,82 +2892,82 @@
     "label": "",
     "source": "Cover Writer",
     "projected_total": 45,
-    "market_total": 46.5,
+    "market_total": 45.5,
     "pick": "Under",
-    "text": "Under 46.5"
+    "text": "Under 45.5"
    },
    "display": {
     "writer": {
      "score_line": "Projected: New York Giants 20, Jacksonville Jaguars 25 (Total 45)",
      "side": "New York Giants +6",
-     "ou": "Under 46.5",
+     "ou": "Under 45.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
       "side_line": "Side: New York Giants +6",
-      "ou_line": "O/U: Under 46.5",
+      "ou_line": "O/U: Under 45.5",
       "score_line": "Projected: New York Giants 20, Jacksonville Jaguars 25 (Total 45)",
       "basis_line": "Net ratings New York Giants −6.0, Jacksonville Jaguars 1.7 (nflverse play-by-play, Nov 17, 2026)",
       "independent": true,
       "distance_from_spread": 1.0,
-      "distance_from_total": 1.5
+      "distance_from_total": 0.5
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: Jacksonville Jaguars −6 · Likes this side",
-      "ou_line": "O/U: Under 46.5",
+      "ou_line": "O/U: Under 45.5",
       "score_line": "Projected: New York Giants 18, Jacksonville Jaguars 27 (Total 45)",
       "basis_line": "Projected points: New York Giants 17.6, Jacksonville Jaguars 26.5. Availability: expected starting quarterbacks J.J. McCarthy (NYG) and Trevor Lawrence (JAX). NFL.com official Week 11 injury report (checked Nov 17, 9:54 AM ET): not out yet, so no quarterback is ruled out. J.J. McCarthy is not NYG’s main starter this season (Jameis Winston).",
       "independent": true,
       "distance_from_spread": 3.0,
-      "distance_from_total": 1.5
+      "distance_from_total": 0.5
      },
      {
       "name": "Letdown Watch",
       "side_line": "Side: New York Giants +6",
-      "ou_line": "O/U: Under 46.5",
+      "ou_line": "O/U: Under 45.5",
       "score_line": "Projected: New York Giants 20, Jacksonville Jaguars 25 (Total 45)",
       "basis_line": "Rest and travel: Jacksonville Jaguars: 7 days since its last game, travels 839 miles, last game was also away from home; New York Giants: 10 days since its last game, plays at home. Projected: Jaguars by 5.7, total 45.6.",
       "independent": true,
       "distance_from_spread": 1.0,
-      "distance_from_total": 1.5
+      "distance_from_total": 0.5
      },
      {
       "name": "Follow The Money",
       "side_line": "Side: no pick (not enough line movement)",
-      "ou_line": "O/U: no pick (no total move measured)",
+      "ou_line": "O/U: Under 45.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Jacksonville Jaguars −6 (Nov 17, 7:45 AM ET) and is Jacksonville Jaguars −6 now (Nov 17, 9:53 AM ET), a 0-point move. No consensus total posted since then, so no total move is measured. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened New York Giants +6 (Nov 17, 7:45 AM ET) and is +5.5 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 46.5 (Nov 19, 9:36 AM ET) and is 45.5 now, a 1-point move: Under. The total pick quotes the consensus total now (45.5). Lines are the Action Network consensus as of Nov 22, 6:11 AM ET; the open is the first consensus line posted at or after Nov 17, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.0,
-      "distance_from_total": 0.5
+      "distance_from_spread": 0.5,
+      "distance_from_total": 1.0
      },
      {
       "name": "In The Trenches",
       "side_line": "Side: New York Giants +6",
-      "ou_line": "O/U: Under 46.5",
+      "ou_line": "O/U: Under 45.5",
       "score_line": "Projected: New York Giants 20, Jacksonville Jaguars 25 (Total 45)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 10). Projected points: New York Giants 20, Jacksonville Jaguars 25.9.",
       "independent": true,
       "distance_from_spread": 1.0,
-      "distance_from_total": 1.5
+      "distance_from_total": 0.5
      }
     ],
     "best_bets": [],
-    "story_text": "Jacksonville has outscored opponents by 125 points, and my Jaguars vs Giants prediction still says six is a lot to lay on the road. Giants +6 is the side I'm taking against the spread and Under 46.5 is the over/under pick, with Jaguars 25, Giants 20 the score.\n\nLeon Drobny plans to be one of the first 25,000 fans through the MetLife gates on Sunday for the Salute to Service beanie, and he's bringing Ivy Corcoran along whether she wants a beanie or not.\n\nThe Formula: Net ratings New York Giants −6.0, Jacksonville Jaguars 1.7 (nflverse play-by-play, Nov 17, 2026).\n\nThe Jaguars are 7-2 and have scored 269 points against 144 allowed. They beat Indianapolis 42-7, Baltimore 33-10 and Tennessee 40-23 in their last three, and Trevor Lawrence has 21 touchdown throws. No one is questioning that this is the better team. But Jacksonville is on the road for a third straight week, after Baltimore and Tennessee, and traveling 839 miles, while the Giants have had ten days since a 24-21 loss to Washington. New York is 5-3-1 and 3-2 at home, and only one of the Giants' three losses came by more than a touchdown, 28-6 at the Rams.\n\nThe Giants are the room's side, and The Formula, Letdown Watch and In The Trenches all land on the same score, Jaguars 25, Giants 20. Next Man Up is the one card laying the 6, at Jaguars 27, Giants 18. Follow The Money stays out of it on both the side and the total. All four scoring cards have the Under 46.5.\n\nThe Under starts with Jacksonville's defense, which has allowed only 144 points in nine games. The Giants have scored 203, and their wins over Tennessee and Philadelphia came at 12-7 and 19-11. J.J. McCarthy started the Washington game, and Cam Skattebo, with 496 rushing yards, gives New York a way to shorten the game. Malik Nabers has 692 receiving yards, so there's a big-play threat, but not enough of one to turn this into a shootout against a defense this stingy.\n\nJaguars 25, Giants 20 comes to 45, which stays below 46.5, and a five-point Jacksonville win keeps New York on the right side of the 6. Ten days of rest won't be enough to beat this Jacksonville team, but it should keep MetLife interested into the fourth quarter.\n\nJaguars 25, Giants 20. Giants cover the 6. Under 46.5.",
+    "story_text": "Jacksonville has outscored opponents by 125 points, and my Jaguars vs Giants prediction still says six is a lot to lay on the road. Giants +6 is the side I'm taking against the spread and Under 45.5 is the over/under pick, with Jaguars 25, Giants 20 the score.\n\nLeon Drobny plans to be one of the first 25,000 fans through the MetLife gates on Sunday for the Salute to Service beanie, and he's bringing Ivy Corcoran along whether she wants a beanie or not.\n\nThe Formula: Net ratings New York Giants −6.0, Jacksonville Jaguars 1.7 (nflverse play-by-play, Nov 17, 2026).\n\nThe Jaguars are 7-2 and have scored 269 points against 144 allowed. They beat Indianapolis 42-7, Baltimore 33-10 and Tennessee 40-23 in their last three, and Trevor Lawrence has 21 touchdown throws. No one is questioning that this is the better team. But Jacksonville is on the road for a third straight week, after Baltimore and Tennessee, and traveling 839 miles, while the Giants have had ten days since a 24-21 loss to Washington. New York is 5-3-1 and 3-2 at home, and only one of the Giants' three losses came by more than a touchdown, 28-6 at the Rams.\n\nSunday morning update: as of Nov 22, 6:11 AM ET, DraftKings has Jaguars −6, total 45.5. This preview was written against Jaguars −6, total 46.5, so the spread is unchanged and the total dropped from 46.5 to 45.5. The Cover Writer stays on Giants +6 with Jaguars 25, Giants 20, because Jaguars by 5 stays inside the 6. The Under holds, now 45.5, with 45 points. Official statuses (NFL.com Week 11 report, ESPN team updates, checked Nov 22, 6:11 AM ET): Jaguars C Robert Hainsey is out and DE Danny Striggow was downgraded to out. No Giants player is on the report, and no quarterback is on either team's report.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Jaguars −6 and is Jaguars −5.5 now, and the consensus total opened 46.5 and is 45.5 now, so it has no side pick (no move of a full point) and takes the Under 45.5. The Formula: Jaguars 25, Giants 20 on net ratings. It stays on Giants +6 (Jaguars by 5 stays inside the 6) and stays on the Under, now 45.5 (45 points). Next Man Up: Jaguars 27, Giants 18 on who's playing. It stays on Jaguars −6 (Jaguars by 9 clears the 6) and stays on the Under, now 45.5 (45 points). Letdown Watch: Jaguars 25, Giants 20 on rest and travel. It stays on Giants +6 (Jaguars by 5 stays inside the 6) and stays on the Under, now 45.5 (45 points). In The Trenches: Jaguars 25, Giants 20 on the line of scrimmage. It stays on Giants +6 (Jaguars by 5 stays inside the 6) and stays on the Under, now 45.5 (45 points).\n\nThe Under starts with Jacksonville's defense, which has allowed only 144 points in nine games. The Giants have scored 203, and their wins over Tennessee and Philadelphia came at 12-7 and 19-11. J.J. McCarthy started the Washington game, and Cam Skattebo, with 496 rushing yards, gives New York a way to shorten the game. Malik Nabers has 692 receiving yards, so there's a big-play threat, but not enough of one to turn this into a shootout against a defense this stingy.\n\nJaguars 25, Giants 20 comes to 45, which stays below 45.5, and a five-point Jacksonville win keeps New York on the right side of the 6. Ten days of rest won't be enough to beat this Jacksonville team, but it should keep MetLife interested into the fourth quarter.\n\nJaguars 25, Giants 20. Giants cover the 6. Under 45.5.",
     "fanatic_score_line": "Projected: New York Giants 20, Jacksonville Jaguars 25",
     "market": {
      "score_line": "Market: New York Giants 20, Jacksonville Jaguars 26 (Total 46)",
      "spread": "Jacksonville Jaguars −6",
-     "total": "46.5",
-     "source": "Consensus line as of Nov 17, 9:53 AM ET",
+     "total": "45.5",
+     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 22, 6:11 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_story": "The first 25,000 people through the gates at MetLife Stadium on Sunday get a military knit beanie, and Leon Drobny intends to be one of the first through the gate. He has done the math on the parking lot. He has done the math on the tunnel. Leon has been a Giants fan long enough to know that free things go fast in New Jersey.\n\nIt's Salute to Service day, and Leon's father served, so this one matters to him more than most. He'll wear the beanie the whole game even if it's warm.\n\nIvy Corcoran thinks it might be. She flew up from Jacksonville for Jacksonville Jaguars vs New York Giants in Week 11 and checked the forecast on the plane: 60 degrees, light wind.\n\nIvy: That's not beanie weather.\n\nLeon: It's beanie weather if they give you a beanie.\n\nThe Giants have had ten days to stew. They lost 24-21 to Washington on Thursday night, and Leon spent the long weekend replaying the fourth quarter in his head like a song he hates. Before that they won in Houston and in Philadelphia, and he was starting to say things out loud he usually keeps to himself. They're 5-3-1, with a tie in Washington back in October that Leon still describes as a loss with a better attitude.\n\nJ.J. McCarthy started the Thursday game. Cam Skattebo has 496 yards and four touchdowns and runs like every carry is personal. Malik Nabers has 58 catches for 692 yards, and Leon says he's the most fun Giants receiver since he was a kid. Arvell Reese has 81 tackles and 4.5 sacks, and Leon is already shopping for the jersey.\n\nIvy listens to all of it the way you listen to someone describe a vacation you've already taken.\n\nIvy: We've outscored people by 125.\n\nLeon: I read it.\n\nIvy: Two hundred sixty-nine to 144.\n\nLeon: I said I read it.\n\nJacksonville is 7-2. The Jaguars lost in Denver in September and to Houston at Wembley in October, and they've won every other game, most of them comfortably. They beat Indianapolis 42-7, won 33-10 in Baltimore and won 40-23 in Tennessee last Sunday. Trevor Lawrence has 2,284 yards and 21 touchdown throws against five interceptions, and Ivy says he finally looks like the guy the city was promised. Parker Washington has 645 receiving yards and six touchdowns. Bhayshul Tuten has 609 yards on the ground. Foyesade Oluokun has 68 tackles.\n\nLeon: You've been on the road two weeks in a row.\n\nIvy: We like the road.\n\nLeon: Nobody likes New Jersey.\n\nThat one got a laugh out of both of them, which is the way it usually goes with Leon and Ivy. They met years ago at a game in this same stadium and have been arguing about football since.\n\nSunday afternoon, they'll sit together in the upper level. Leon will wear his beanie and his Lawrence Taylor jersey. Ivy will keep her opinions to a respectful volume, at least during the Salute to Service moments. She has family who served too, and she'll stand for those with everybody else.\n\nAfter that, it's football. Leon thinks the ten days of rest will matter. Ivy thinks the Jaguars are better than anyone the Giants have seen in a month. Both of them are probably right, and both of them know this one is going to be tighter than it looks on paper.\n\nMy call: Jaguars 25, Giants 20."
    },
-   "gambler_story": "Jacksonville has outscored opponents by 125 points, and my Jaguars vs Giants prediction still says six is a lot to lay on the road. Giants +6 is the side I'm taking against the spread and Under 46.5 is the over/under pick, with Jaguars 25, Giants 20 the score.\n\nLeon Drobny plans to be one of the first 25,000 fans through the MetLife gates on Sunday for the Salute to Service beanie, and he's bringing Ivy Corcoran along whether she wants a beanie or not.\n\nThe Formula: Net ratings New York Giants −6.0, Jacksonville Jaguars 1.7 (nflverse play-by-play, Nov 17, 2026).\n\nThe Jaguars are 7-2 and have scored 269 points against 144 allowed. They beat Indianapolis 42-7, Baltimore 33-10 and Tennessee 40-23 in their last three, and Trevor Lawrence has 21 touchdown throws. No one is questioning that this is the better team. But Jacksonville is on the road for a third straight week, after Baltimore and Tennessee, and traveling 839 miles, while the Giants have had ten days since a 24-21 loss to Washington. New York is 5-3-1 and 3-2 at home, and only one of the Giants' three losses came by more than a touchdown, 28-6 at the Rams.\n\nThe Giants are the room's side, and The Formula, Letdown Watch and In The Trenches all land on the same score, Jaguars 25, Giants 20. Next Man Up is the one card laying the 6, at Jaguars 27, Giants 18. Follow The Money stays out of it on both the side and the total. All four scoring cards have the Under 46.5.\n\nThe Under starts with Jacksonville's defense, which has allowed only 144 points in nine games. The Giants have scored 203, and their wins over Tennessee and Philadelphia came at 12-7 and 19-11. J.J. McCarthy started the Washington game, and Cam Skattebo, with 496 rushing yards, gives New York a way to shorten the game. Malik Nabers has 692 receiving yards, so there's a big-play threat, but not enough of one to turn this into a shootout against a defense this stingy.\n\nJaguars 25, Giants 20 comes to 45, which stays below 46.5, and a five-point Jacksonville win keeps New York on the right side of the 6. Ten days of rest won't be enough to beat this Jacksonville team, but it should keep MetLife interested into the fourth quarter.\n\nJaguars 25, Giants 20. Giants cover the 6. Under 46.5.",
+   "gambler_story": "Jacksonville has outscored opponents by 125 points, and my Jaguars vs Giants prediction still says six is a lot to lay on the road. Giants +6 is the side I'm taking against the spread and Under 45.5 is the over/under pick, with Jaguars 25, Giants 20 the score.\n\nLeon Drobny plans to be one of the first 25,000 fans through the MetLife gates on Sunday for the Salute to Service beanie, and he's bringing Ivy Corcoran along whether she wants a beanie or not.\n\nThe Formula: Net ratings New York Giants −6.0, Jacksonville Jaguars 1.7 (nflverse play-by-play, Nov 17, 2026).\n\nThe Jaguars are 7-2 and have scored 269 points against 144 allowed. They beat Indianapolis 42-7, Baltimore 33-10 and Tennessee 40-23 in their last three, and Trevor Lawrence has 21 touchdown throws. No one is questioning that this is the better team. But Jacksonville is on the road for a third straight week, after Baltimore and Tennessee, and traveling 839 miles, while the Giants have had ten days since a 24-21 loss to Washington. New York is 5-3-1 and 3-2 at home, and only one of the Giants' three losses came by more than a touchdown, 28-6 at the Rams.\n\nSunday morning update: as of Nov 22, 6:11 AM ET, DraftKings has Jaguars −6, total 45.5. This preview was written against Jaguars −6, total 46.5, so the spread is unchanged and the total dropped from 46.5 to 45.5. The Cover Writer stays on Giants +6 with Jaguars 25, Giants 20, because Jaguars by 5 stays inside the 6. The Under holds, now 45.5, with 45 points. Official statuses (NFL.com Week 11 report, ESPN team updates, checked Nov 22, 6:11 AM ET): Jaguars C Robert Hainsey is out and DE Danny Striggow was downgraded to out. No Giants player is on the report, and no quarterback is on either team's report.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Jaguars −6 and is Jaguars −5.5 now, and the consensus total opened 46.5 and is 45.5 now, so it has no side pick (no move of a full point) and takes the Under 45.5. The Formula: Jaguars 25, Giants 20 on net ratings. It stays on Giants +6 (Jaguars by 5 stays inside the 6) and stays on the Under, now 45.5 (45 points). Next Man Up: Jaguars 27, Giants 18 on who's playing. It stays on Jaguars −6 (Jaguars by 9 clears the 6) and stays on the Under, now 45.5 (45 points). Letdown Watch: Jaguars 25, Giants 20 on rest and travel. It stays on Giants +6 (Jaguars by 5 stays inside the 6) and stays on the Under, now 45.5 (45 points). In The Trenches: Jaguars 25, Giants 20 on the line of scrimmage. It stays on Giants +6 (Jaguars by 5 stays inside the 6) and stays on the Under, now 45.5 (45 points).\n\nThe Under starts with Jacksonville's defense, which has allowed only 144 points in nine games. The Giants have scored 203, and their wins over Tennessee and Philadelphia came at 12-7 and 19-11. J.J. McCarthy started the Washington game, and Cam Skattebo, with 496 rushing yards, gives New York a way to shorten the game. Malik Nabers has 692 receiving yards, so there's a big-play threat, but not enough of one to turn this into a shootout against a defense this stingy.\n\nJaguars 25, Giants 20 comes to 45, which stays below 45.5, and a five-point Jacksonville win keeps New York on the right side of the 6. Ten days of rest won't be enough to beat this Jacksonville team, but it should keep MetLife interested into the fourth quarter.\n\nJaguars 25, Giants 20. Giants cover the 6. Under 45.5.",
    "fanatic_story": "The first 25,000 people through the gates at MetLife Stadium on Sunday get a military knit beanie, and Leon Drobny intends to be one of the first through the gate. He has done the math on the parking lot. He has done the math on the tunnel. Leon has been a Giants fan long enough to know that free things go fast in New Jersey.\n\nIt's Salute to Service day, and Leon's father served, so this one matters to him more than most. He'll wear the beanie the whole game even if it's warm.\n\nIvy Corcoran thinks it might be. She flew up from Jacksonville for Jacksonville Jaguars vs New York Giants in Week 11 and checked the forecast on the plane: 60 degrees, light wind.\n\nIvy: That's not beanie weather.\n\nLeon: It's beanie weather if they give you a beanie.\n\nThe Giants have had ten days to stew. They lost 24-21 to Washington on Thursday night, and Leon spent the long weekend replaying the fourth quarter in his head like a song he hates. Before that they won in Houston and in Philadelphia, and he was starting to say things out loud he usually keeps to himself. They're 5-3-1, with a tie in Washington back in October that Leon still describes as a loss with a better attitude.\n\nJ.J. McCarthy started the Thursday game. Cam Skattebo has 496 yards and four touchdowns and runs like every carry is personal. Malik Nabers has 58 catches for 692 yards, and Leon says he's the most fun Giants receiver since he was a kid. Arvell Reese has 81 tackles and 4.5 sacks, and Leon is already shopping for the jersey.\n\nIvy listens to all of it the way you listen to someone describe a vacation you've already taken.\n\nIvy: We've outscored people by 125.\n\nLeon: I read it.\n\nIvy: Two hundred sixty-nine to 144.\n\nLeon: I said I read it.\n\nJacksonville is 7-2. The Jaguars lost in Denver in September and to Houston at Wembley in October, and they've won every other game, most of them comfortably. They beat Indianapolis 42-7, won 33-10 in Baltimore and won 40-23 in Tennessee last Sunday. Trevor Lawrence has 2,284 yards and 21 touchdown throws against five interceptions, and Ivy says he finally looks like the guy the city was promised. Parker Washington has 645 receiving yards and six touchdowns. Bhayshul Tuten has 609 yards on the ground. Foyesade Oluokun has 68 tackles.\n\nLeon: You've been on the road two weeks in a row.\n\nIvy: We like the road.\n\nLeon: Nobody likes New Jersey.\n\nThat one got a laugh out of both of them, which is the way it usually goes with Leon and Ivy. They met years ago at a game in this same stadium and have been arguing about football since.\n\nSunday afternoon, they'll sit together in the upper level. Leon will wear his beanie and his Lawrence Taylor jersey. Ivy will keep her opinions to a respectful volume, at least during the Salute to Service moments. She has family who served too, and she'll stand for those with everybody else.\n\nAfter that, it's football. Leon thinks the ten days of rest will matter. Ivy thinks the Jaguars are better than anyone the Giants have seen in a month. Both of them are probably right, and both of them know this one is going to be tighter than it looks on paper.\n\nMy call: Jaguars 25, Giants 20.",
    "fanatic_final_sentence": "Jaguars 25, Giants 20.",
    "preview_sources": [],
@@ -3081,13 +3081,13 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-17T14:53:58Z",
+    "fetched_at_utc": "2026-11-22T11:11:21Z",
     "action_network_game_id": 290824,
-    "home_line": -3,
+    "home_line": -3.5,
     "total": 46.5,
-    "open_home_line": -3.5,
-    "open_total": 47.5,
-    "spread_display": "San Francisco 49ers −3",
+    "open_home_line": -3,
+    "open_total": 46.5,
+    "spread_display": "San Francisco 49ers −3.5",
     "open_timestamp": ""
    },
    "injuries": {
@@ -3097,24 +3097,24 @@
     "home": null
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261122",
-   "spread": "San Francisco 49ers −3",
-   "story_text": "49ers 24, Vikings 19. 49ers cover the 3. Under 46.5. The Formula projects San Francisco by 12.1 against a 3-point line.",
+   "spread": "San Francisco 49ers −3.5",
+   "story_text": "49ers 24, Vikings 19. 49ers cover the 3.5. Under 46.5. The Formula projects San Francisco by 12.1 against a 3.5-point line.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "line_used": {
-    "home_line": -3,
+    "home_line": -3.5,
     "total": 46.5,
-    "source": "Consensus line as of Nov 17, 9:53 AM ET",
-    "as_of_utc": "2026-11-17T14:53:58Z"
+    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 22, 6:11 AM ET",
+    "as_of_utc": "2026-11-22T11:11:21Z"
    },
    "total_line": 46.5,
    "prediction": {
     "away_score": 19,
     "home_score": 24,
     "winner": "San Francisco 49ers",
-    "covers": "San Francisco 49ers −3"
+    "covers": "San Francisco 49ers −3.5"
    },
    "handicappers": [
     {
@@ -3137,7 +3137,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened San Francisco 49ers −3 (Nov 17, 7:02 AM ET) and is San Francisco 49ers −3 now (Nov 17, 9:53 AM ET), a 0-point move. Total opened 46.5 (Nov 17, 7:02 AM ET) and is 46.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Consensus spread opened San Francisco 49ers −3 (Nov 17, 7:02 AM ET) and is −3.5 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 46.5 (Nov 17, 7:02 AM ET) and is 46.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 22, 6:11 AM ET; the open is the first consensus line posted at or after Nov 17, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -3154,10 +3154,10 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 17, 9:53 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 17, 9:53 AM ET.",
+    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 22, 6:11 AM ET; Follow The Money uses the Action Network consensus line history.",
     "The Formula ratings: nflverse play-by-play as of Nov 17, 9:54 AM ET, Weeks 1–10 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–10 finals.",
-    "Injuries: NFL.com official Week 11 injury report not out yet (checked Nov 17, 9:54 AM ET); Next Man Up uses each team’s last starter.",
+    "Injuries: NFL.com official Week 11 injury report (https://www.nfl.com/injuries/league/2026/reg11) and ESPN team injury updates, checked Nov 22, 6:11 AM ET; key players are noted in the Sunday morning update.",
     "Follow The Money: move from the first consensus line at or after Nov 17, 12:15 AM ET (Action Network line history).",
     "Records and points: ESPN team pages, as of Nov 17, 9:53 AM ET.",
     "Next Man Up: 2026 game scores (nflverse game results); expected starting quarterbacks from nflverse play-by-play, the NFL.com Week 11 injury report and team announcements.",
@@ -3177,39 +3177,39 @@
    "display": {
     "writer": {
      "score_line": "Projected: San Francisco 49ers 24, Minnesota Vikings 19 (Total 43)",
-     "side": "San Francisco 49ers −3",
+     "side": "San Francisco 49ers −3.5",
      "ou": "Under 46.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: San Francisco 49ers −3 · Likes this side",
+      "side_line": "Side: San Francisco 49ers −3.5 · Likes this side",
       "ou_line": "O/U: Under 46.5 · Likes this total",
       "score_line": "Projected: San Francisco 49ers 28, Minnesota Vikings 16 (Total 44)",
       "basis_line": "Net ratings San Francisco 49ers 6.7, Minnesota Vikings −5.0 (nflverse play-by-play, Nov 17, 2026)",
       "independent": true,
-      "distance_from_spread": 9.0,
+      "distance_from_spread": 8.5,
       "distance_from_total": 2.5
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: San Francisco 49ers −3",
+      "side_line": "Side: San Francisco 49ers −3.5",
       "ou_line": "O/U: Under 46.5 · Likes this total",
       "score_line": "Projected: San Francisco 49ers 22, Minnesota Vikings 18 (Total 40)",
       "basis_line": "Projected points: San Francisco 49ers 22.3, Minnesota Vikings 18.4. Availability: expected starting quarterbacks Brock Purdy (SF) and Kirk Cousins (MIN). NFL.com official Week 11 injury report (checked Nov 17, 9:54 AM ET): not out yet, so no quarterback is ruled out. Kirk Cousins is not MIN’s main starter this season (Kyler Murray).",
       "independent": true,
-      "distance_from_spread": 1.0,
+      "distance_from_spread": 0.5,
       "distance_from_total": 6.5
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Minnesota Vikings +3",
+      "side_line": "Side: Minnesota Vikings +3.5 · Likes this side",
       "ou_line": "O/U: Under 46.5",
       "score_line": "Projected: San Francisco 49ers 23, Minnesota Vikings 22 (Total 45)",
       "basis_line": "Rest and travel: Minnesota Vikings: 7 days since its last game, travels 1806 miles, last game was also away from home; San Francisco 49ers: 7 days since its last game, travels 1858 miles, last game was also away from home. Projected: 49ers by 0.9, total 44.4.",
       "independent": true,
-      "distance_from_spread": 2.0,
+      "distance_from_spread": 2.5,
       "distance_from_total": 1.5
      },
      {
@@ -3217,35 +3217,35 @@
       "side_line": "Side: no pick (not enough line movement)",
       "ou_line": "O/U: no pick (not enough total movement)",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened San Francisco 49ers −3 (Nov 17, 7:02 AM ET) and is San Francisco 49ers −3 now (Nov 17, 9:53 AM ET), a 0-point move. Total opened 46.5 (Nov 17, 7:02 AM ET) and is 46.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened San Francisco 49ers −3 (Nov 17, 7:02 AM ET) and is −3.5 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 46.5 (Nov 17, 7:02 AM ET) and is 46.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 22, 6:11 AM ET; the open is the first consensus line posted at or after Nov 17, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
-      "distance_from_spread": 0.0,
-      "distance_from_total": 0.5
+      "distance_from_spread": 0.5,
+      "distance_from_total": 0.0
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: San Francisco 49ers −3",
+      "side_line": "Side: San Francisco 49ers −3.5",
       "ou_line": "O/U: Under 46.5 · Likes this total",
       "score_line": "Projected: San Francisco 49ers 23, Minnesota Vikings 19 (Total 42)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 10). Projected points: San Francisco 49ers 23.4, Minnesota Vikings 18.9.",
       "independent": true,
-      "distance_from_spread": 1.0,
+      "distance_from_spread": 0.5,
       "distance_from_total": 4.5
      }
     ],
     "best_bets": [],
-    "story_text": "Mexico City gets the first Sunday night game ever played outside the United States, and my Vikings vs 49ers prediction calls for a low-scoring San Francisco win at Estadio Banorte. San Francisco −3 is the spread pick, Under 46.5 handles the over/under, and the final reads 49ers 24, Vikings 19.\n\nNora Haskell was in the building in 2022 when the 49ers beat Arizona 38-10 here, and she has spent the week telling Erik Dahl, on his first trip to Mexico City for the Vikings' first game here, exactly how loud it gets.\n\nThe Formula: Net ratings San Francisco 49ers 6.7, Minnesota Vikings −5.0 (nflverse play-by-play, Nov 17, 2026).\n\nSan Francisco is 8-1, has scored 281 points and has already played in Melbourne this season, so the travel isn't new. Brock Purdy has 20 touchdown throws against five interceptions, and Christian McCaffrey has ten rushing touchdowns. Minnesota is 7-2, but its offense has been the quiet half of that record, with 176 points in nine games. Kirk Cousins started the 30-10 win in Green Bay, and Justin Jefferson has 467 receiving yards.\n\nSan Francisco wins by more than a field goal on three of the four scoring cards. The Formula has 49ers 28, Vikings 16, Next Man Up has 49ers 22, Vikings 18, and In The Trenches has 49ers 23, Vikings 19. Letdown Watch is the outlier, with Minnesota +3 at 49ers 23, Vikings 22. Follow The Money doesn't take a side or a total. All four scoring cards are on the Under.\n\nThe Under comes from Minnesota's defense. The Vikings have allowed only 126 points in nine games, Andrew Van Ginkel has 8.5 sacks, and five of Minnesota's seven wins came with the other team held to 13 or fewer. San Francisco's defense, led by Fred Warner with 88 tackles, has given up 196. Even last week's 46-40 shootout in Dallas doesn't change what the Vikings do, which is shorten games and squeeze them.\n\nThe all-time series is 25-25-1, and the Vikings have won the last two meetings. Neither team is really home, though San Francisco is the designated host. 49ers 24, Vikings 19 comes to 43, under 46.5, and a five-point win gets San Francisco past the 3.\n\nSomewhere between the light rail and the Sunday night lights, the 49ers will find enough offense, and Minnesota's defense will make sure it isn't much more than that.\n\n49ers 24, Vikings 19. 49ers cover the 3. Under 46.5.",
+    "story_text": "Mexico City gets the first Sunday night game ever played outside the United States, and my Vikings vs 49ers prediction calls for a low-scoring San Francisco win at Estadio Banorte. San Francisco −3.5 is the spread pick, Under 46.5 handles the over/under, and the final reads 49ers 24, Vikings 19.\n\nNora Haskell was in the building in 2022 when the 49ers beat Arizona 38-10 here, and she has spent the week telling Erik Dahl, on his first trip to Mexico City for the Vikings' first game here, exactly how loud it gets.\n\nThe Formula: Net ratings San Francisco 49ers 6.7, Minnesota Vikings −5.0 (nflverse play-by-play, Nov 17, 2026).\n\nSan Francisco is 8-1, has scored 281 points and has already played in Melbourne this season, so the travel isn't new. Brock Purdy has 20 touchdown throws against five interceptions, and Christian McCaffrey has ten rushing touchdowns. Minnesota is 7-2, but its offense has been the quiet half of that record, with 176 points in nine games. Kirk Cousins started the 30-10 win in Green Bay, and Justin Jefferson has 467 receiving yards.\n\nSunday morning update: as of Nov 22, 6:11 AM ET, DraftKings has 49ers −3.5, total 46.5. This preview was written against 49ers −3, total 46.5, so the spread moved from 49ers −3 to 49ers −3.5 and the total is unchanged. The Cover Writer stays on 49ers −3.5 with 49ers 24, Vikings 19, because 49ers by 5 is more than the 3.5. The Under holds, now 46.5, with 43 points. Official statuses (NFL.com Week 11 report, ESPN team updates, checked Nov 22, 6:11 AM ET): Vikings QB Kyler Murray is out with a hamstring injury and Kirk Cousins starts, and WR Jordan Addison is out after thumb surgery. 49ers WR Mike Evans and RB Jordan James are questionable, and QB Mac Jones is questionable with an illness.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened 49ers −3 and is 49ers −3.5 now, and the consensus total has not moved from 46.5, so it has no side pick (no move of a full point) and has no total pick (no move of a full point). The Formula: 49ers 28, Vikings 16 on net ratings. It stays on 49ers −3.5 (49ers by 12 clears the 3.5) and stays on the Under, now 46.5 (44 points). Next Man Up: 49ers 22, Vikings 18 on who's playing. It stays on 49ers −3.5 (49ers by 4 clears the 3.5) and stays on the Under, now 46.5 (40 points). Letdown Watch: 49ers 23, Vikings 22 on rest and travel. It stays on Vikings +3.5 (49ers by 1 stays inside the 3.5) and stays on the Under, now 46.5 (45 points). In The Trenches: 49ers 23, Vikings 19 on the line of scrimmage. It stays on 49ers −3.5 (49ers by 4 clears the 3.5) and stays on the Under, now 46.5 (42 points).\n\nThe Under comes from Minnesota's defense. The Vikings have allowed only 126 points in nine games, Andrew Van Ginkel has 8.5 sacks, and five of Minnesota's seven wins came with the other team held to 13 or fewer. San Francisco's defense, led by Fred Warner with 88 tackles, has given up 196. Even last week's 46-40 shootout in Dallas doesn't change what the Vikings do, which is shorten games and squeeze them.\n\nThe all-time series is 25-25-1, and the Vikings have won the last two meetings. Neither team is really home, though San Francisco is the designated host. 49ers 24, Vikings 19 comes to 43, under 46.5, and a five-point win gets San Francisco past the 3.5.\n\nSomewhere between the light rail and the Sunday night lights, the 49ers will find enough offense, and Minnesota's defense will make sure it isn't much more than that.\n\n49ers 24, Vikings 19. 49ers cover the 3.5. Under 46.5.",
     "fanatic_score_line": "Projected: San Francisco 49ers 24, Minnesota Vikings 19",
     "market": {
      "score_line": "Market: San Francisco 49ers 25, Minnesota Vikings 22 (Total 47)",
-     "spread": "San Francisco 49ers −3",
+     "spread": "San Francisco 49ers −3.5",
      "total": "46.5",
-     "source": "Consensus line as of Nov 17, 9:53 AM ET",
+     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 22, 6:11 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_story": "Erik Dahl has never seen the Vikings play in Mexico City, for the simple reason that the Vikings never have. Sunday night at Estadio Banorte, that changes, and Erik has been practicing his Spanish on the plane, mostly the words for \"where is my seat\" and \"that was holding.\"\n\nNora Haskell has done this before. She was in the building in November 2022, back when it was still called Estadio Azteca, when the 49ers beat Arizona 38-10, and she has been telling Erik about it since the schedule came out.\n\nNora: The noise is different here. It comes from everywhere.\n\nErik: It comes from everywhere in Minneapolis too.\n\nNora: Not like this.\n\nMinnesota Vikings vs San Francisco 49ers in Week 11 is the first Sunday night game ever played outside the United States, and the NFL's first game in Mexico in four years. Tickets in the general sale went in about an hour back in September. Erik got his through a cousin and doesn't want to talk about what he owes the cousin now.\n\nThere is no public parking at the stadium, so they'll take the Tren Ligero to the Estadio Azteca station like everybody else, and the gates open at 3:30 for a 7:20 local kickoff. Nora has planned the afternoon down to the taco stand. Erik has planned it down to the jersey.\n\nThese two teams have history, and Erik brought the receipts. The all-time series is 25-25-1. The Vikings have won the last two meetings. Nora would like it noted that the six postseason meetings have gone San Francisco's way five times.\n\nErik: Regular season is all that counts tonight.\n\nNora: You're the one who brought up history.\n\nThe Vikings are 7-2 and have won with defense all year. They've allowed 126 points in nine games, the fewest of anyone Nora can name off the top of her head, and Andrew Van Ginkel has 8.5 sacks. Blake Cashman has 76 tackles. Kirk Cousins started the 30-10 win in Green Bay last Sunday, and Erik says that game was the most relaxed he's felt in years. Aaron Jones Sr. has 521 rushing yards, and Justin Jefferson has 467 receiving yards, which Erik considers a personal insult to Jefferson and wants explained.\n\nThe 49ers are 8-1. They opened the season in Melbourne, so a long trip isn't new, and last week they outlasted Dallas 46-40 in a game Nora watched standing up. Brock Purdy has 2,369 yards and 20 touchdown throws against five interceptions. Christian McCaffrey has ten rushing touchdowns, and George Kittle has 557 receiving yards. Fred Warner has 88 tackles and, as far as Nora is concerned, has never had a bad day in his life.\n\nNora: You know we're technically the home team.\n\nErik: In Mexico.\n\nNora: Technically.\n\nNeither team is really at home. Both of them flew a long way to get here, both are coming off road wins, and both fan bases will be outnumbered by locals who just want to see football on a Sunday night in their own city. Nora loves that. Erik is starting to.\n\nAfter the game, they'll ride the train back toward the city center and argue the whole way. Erik will want to talk about the defense. Nora will want to talk about Purdy. Somewhere around the second stop, they'll both admit it was worth the trip.\n\nMy call: 49ers 24, Vikings 19."
    },
-   "gambler_story": "Mexico City gets the first Sunday night game ever played outside the United States, and my Vikings vs 49ers prediction calls for a low-scoring San Francisco win at Estadio Banorte. San Francisco −3 is the spread pick, Under 46.5 handles the over/under, and the final reads 49ers 24, Vikings 19.\n\nNora Haskell was in the building in 2022 when the 49ers beat Arizona 38-10 here, and she has spent the week telling Erik Dahl, on his first trip to Mexico City for the Vikings' first game here, exactly how loud it gets.\n\nThe Formula: Net ratings San Francisco 49ers 6.7, Minnesota Vikings −5.0 (nflverse play-by-play, Nov 17, 2026).\n\nSan Francisco is 8-1, has scored 281 points and has already played in Melbourne this season, so the travel isn't new. Brock Purdy has 20 touchdown throws against five interceptions, and Christian McCaffrey has ten rushing touchdowns. Minnesota is 7-2, but its offense has been the quiet half of that record, with 176 points in nine games. Kirk Cousins started the 30-10 win in Green Bay, and Justin Jefferson has 467 receiving yards.\n\nSan Francisco wins by more than a field goal on three of the four scoring cards. The Formula has 49ers 28, Vikings 16, Next Man Up has 49ers 22, Vikings 18, and In The Trenches has 49ers 23, Vikings 19. Letdown Watch is the outlier, with Minnesota +3 at 49ers 23, Vikings 22. Follow The Money doesn't take a side or a total. All four scoring cards are on the Under.\n\nThe Under comes from Minnesota's defense. The Vikings have allowed only 126 points in nine games, Andrew Van Ginkel has 8.5 sacks, and five of Minnesota's seven wins came with the other team held to 13 or fewer. San Francisco's defense, led by Fred Warner with 88 tackles, has given up 196. Even last week's 46-40 shootout in Dallas doesn't change what the Vikings do, which is shorten games and squeeze them.\n\nThe all-time series is 25-25-1, and the Vikings have won the last two meetings. Neither team is really home, though San Francisco is the designated host. 49ers 24, Vikings 19 comes to 43, under 46.5, and a five-point win gets San Francisco past the 3.\n\nSomewhere between the light rail and the Sunday night lights, the 49ers will find enough offense, and Minnesota's defense will make sure it isn't much more than that.\n\n49ers 24, Vikings 19. 49ers cover the 3. Under 46.5.",
+   "gambler_story": "Mexico City gets the first Sunday night game ever played outside the United States, and my Vikings vs 49ers prediction calls for a low-scoring San Francisco win at Estadio Banorte. San Francisco −3.5 is the spread pick, Under 46.5 handles the over/under, and the final reads 49ers 24, Vikings 19.\n\nNora Haskell was in the building in 2022 when the 49ers beat Arizona 38-10 here, and she has spent the week telling Erik Dahl, on his first trip to Mexico City for the Vikings' first game here, exactly how loud it gets.\n\nThe Formula: Net ratings San Francisco 49ers 6.7, Minnesota Vikings −5.0 (nflverse play-by-play, Nov 17, 2026).\n\nSan Francisco is 8-1, has scored 281 points and has already played in Melbourne this season, so the travel isn't new. Brock Purdy has 20 touchdown throws against five interceptions, and Christian McCaffrey has ten rushing touchdowns. Minnesota is 7-2, but its offense has been the quiet half of that record, with 176 points in nine games. Kirk Cousins started the 30-10 win in Green Bay, and Justin Jefferson has 467 receiving yards.\n\nSunday morning update: as of Nov 22, 6:11 AM ET, DraftKings has 49ers −3.5, total 46.5. This preview was written against 49ers −3, total 46.5, so the spread moved from 49ers −3 to 49ers −3.5 and the total is unchanged. The Cover Writer stays on 49ers −3.5 with 49ers 24, Vikings 19, because 49ers by 5 is more than the 3.5. The Under holds, now 46.5, with 43 points. Official statuses (NFL.com Week 11 report, ESPN team updates, checked Nov 22, 6:11 AM ET): Vikings QB Kyler Murray is out with a hamstring injury and Kirk Cousins starts, and WR Jordan Addison is out after thumb surgery. 49ers WR Mike Evans and RB Jordan James are questionable, and QB Mac Jones is questionable with an illness.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened 49ers −3 and is 49ers −3.5 now, and the consensus total has not moved from 46.5, so it has no side pick (no move of a full point) and has no total pick (no move of a full point). The Formula: 49ers 28, Vikings 16 on net ratings. It stays on 49ers −3.5 (49ers by 12 clears the 3.5) and stays on the Under, now 46.5 (44 points). Next Man Up: 49ers 22, Vikings 18 on who's playing. It stays on 49ers −3.5 (49ers by 4 clears the 3.5) and stays on the Under, now 46.5 (40 points). Letdown Watch: 49ers 23, Vikings 22 on rest and travel. It stays on Vikings +3.5 (49ers by 1 stays inside the 3.5) and stays on the Under, now 46.5 (45 points). In The Trenches: 49ers 23, Vikings 19 on the line of scrimmage. It stays on 49ers −3.5 (49ers by 4 clears the 3.5) and stays on the Under, now 46.5 (42 points).\n\nThe Under comes from Minnesota's defense. The Vikings have allowed only 126 points in nine games, Andrew Van Ginkel has 8.5 sacks, and five of Minnesota's seven wins came with the other team held to 13 or fewer. San Francisco's defense, led by Fred Warner with 88 tackles, has given up 196. Even last week's 46-40 shootout in Dallas doesn't change what the Vikings do, which is shorten games and squeeze them.\n\nThe all-time series is 25-25-1, and the Vikings have won the last two meetings. Neither team is really home, though San Francisco is the designated host. 49ers 24, Vikings 19 comes to 43, under 46.5, and a five-point win gets San Francisco past the 3.5.\n\nSomewhere between the light rail and the Sunday night lights, the 49ers will find enough offense, and Minnesota's defense will make sure it isn't much more than that.\n\n49ers 24, Vikings 19. 49ers cover the 3.5. Under 46.5.",
    "fanatic_story": "Erik Dahl has never seen the Vikings play in Mexico City, for the simple reason that the Vikings never have. Sunday night at Estadio Banorte, that changes, and Erik has been practicing his Spanish on the plane, mostly the words for \"where is my seat\" and \"that was holding.\"\n\nNora Haskell has done this before. She was in the building in November 2022, back when it was still called Estadio Azteca, when the 49ers beat Arizona 38-10, and she has been telling Erik about it since the schedule came out.\n\nNora: The noise is different here. It comes from everywhere.\n\nErik: It comes from everywhere in Minneapolis too.\n\nNora: Not like this.\n\nMinnesota Vikings vs San Francisco 49ers in Week 11 is the first Sunday night game ever played outside the United States, and the NFL's first game in Mexico in four years. Tickets in the general sale went in about an hour back in September. Erik got his through a cousin and doesn't want to talk about what he owes the cousin now.\n\nThere is no public parking at the stadium, so they'll take the Tren Ligero to the Estadio Azteca station like everybody else, and the gates open at 3:30 for a 7:20 local kickoff. Nora has planned the afternoon down to the taco stand. Erik has planned it down to the jersey.\n\nThese two teams have history, and Erik brought the receipts. The all-time series is 25-25-1. The Vikings have won the last two meetings. Nora would like it noted that the six postseason meetings have gone San Francisco's way five times.\n\nErik: Regular season is all that counts tonight.\n\nNora: You're the one who brought up history.\n\nThe Vikings are 7-2 and have won with defense all year. They've allowed 126 points in nine games, the fewest of anyone Nora can name off the top of her head, and Andrew Van Ginkel has 8.5 sacks. Blake Cashman has 76 tackles. Kirk Cousins started the 30-10 win in Green Bay last Sunday, and Erik says that game was the most relaxed he's felt in years. Aaron Jones Sr. has 521 rushing yards, and Justin Jefferson has 467 receiving yards, which Erik considers a personal insult to Jefferson and wants explained.\n\nThe 49ers are 8-1. They opened the season in Melbourne, so a long trip isn't new, and last week they outlasted Dallas 46-40 in a game Nora watched standing up. Brock Purdy has 2,369 yards and 20 touchdown throws against five interceptions. Christian McCaffrey has ten rushing touchdowns, and George Kittle has 557 receiving yards. Fred Warner has 88 tackles and, as far as Nora is concerned, has never had a bad day in his life.\n\nNora: You know we're technically the home team.\n\nErik: In Mexico.\n\nNora: Technically.\n\nNeither team is really at home. Both of them flew a long way to get here, both are coming off road wins, and both fan bases will be outnumbered by locals who just want to see football on a Sunday night in their own city. Nora loves that. Erik is starting to.\n\nAfter the game, they'll ride the train back toward the city center and argue the whole way. Erik will want to talk about the defense. Nora will want to talk about Purdy. Somewhere around the second stop, they'll both admit it was worth the trip.\n\nMy call: 49ers 24, Vikings 19.",
    "fanatic_final_sentence": "49ers 24, Vikings 19.",
    "preview_sources": [],
