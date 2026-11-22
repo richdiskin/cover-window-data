@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-22T00:10:54Z",
+ "updated_utc": "2026-11-22T00:38:23Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -4508,7 +4508,24 @@
    "kickoff_utc": "2026-11-21T20:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "PGe813IqWcE",
+    "title": "Samford Bulldogs vs. Auburn Tigers | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=PGe813IqWcE",
+    "embed_url": "https://www.youtube-nocookie.com/embed/PGe813IqWcE",
+    "thumb": "https://i.ytimg.com/vi/PGe813IqWcE/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T00:28:51Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T00:38:11Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856754": {
    "game_id": "401856754",
@@ -4549,7 +4566,24 @@
    "kickoff_utc": "2026-11-21T20:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "fm5h2qjm7jw",
+    "title": "Texas Tech Red Raiders vs. Baylor Bears | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=fm5h2qjm7jw",
+    "embed_url": "https://www.youtube-nocookie.com/embed/fm5h2qjm7jw",
+    "thumb": "https://i.ytimg.com/vi/fm5h2qjm7jw/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T00:31:57Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T00:38:11Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858304": {
    "game_id": "401858304",
@@ -4557,7 +4591,24 @@
    "kickoff_utc": "2026-11-21T20:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "FmX7jNconQw",
+    "title": "NC State vs. Florida State Condensed Game | 2026 ACC Football",
+    "channel": "ACC Digital Network",
+    "channel_id": "UC0hy7TcR1gGD8nQBqrF2FaA",
+    "url": "https://www.youtube.com/watch?v=FmX7jNconQw",
+    "embed_url": "https://www.youtube-nocookie.com/embed/FmX7jNconQw",
+    "thumb": "https://i.ytimg.com/vi/FmX7jNconQw/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T00:32:10Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T00:38:11Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858528": {
    "game_id": "401858528",
@@ -4573,7 +4624,24 @@
    "kickoff_utc": "2026-11-21T20:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "Bup8MjSr-DY",
+    "title": "Rutgers at Penn State | Highlights | Big Ten Football | 11/21/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=Bup8MjSr-DY",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Bup8MjSr-DY",
+    "thumb": "https://i.ytimg.com/vi/Bup8MjSr-DY/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T00:29:45Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T00:38:11Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858535": {
    "game_id": "401858535",
@@ -4581,7 +4649,24 @@
    "kickoff_utc": "2026-11-21T20:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "jHOITNNogG8",
+    "title": "Indiana at Washington | Highlights | Big Ten Football | 11/21/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=jHOITNNogG8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/jHOITNNogG8",
+    "thumb": "https://i.ytimg.com/vi/jHOITNNogG8/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T00:35:25Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T00:38:11Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401861968": {
    "game_id": "401861968",
@@ -4597,7 +4682,24 @@
    "kickoff_utc": "2026-11-21T20:45Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "ZB0OLb5mYBo",
+    "title": "Texas A&M Aggies vs. Oklahoma Sooners | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=ZB0OLb5mYBo",
+    "embed_url": "https://www.youtube-nocookie.com/embed/ZB0OLb5mYBo",
+    "thumb": "https://i.ytimg.com/vi/ZB0OLb5mYBo/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T00:24:25Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T00:38:11Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401864543": {
    "game_id": "401864543",
@@ -4613,7 +4715,24 @@
    "kickoff_utc": "2026-11-21T21:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "huXjqGQR5gw",
+    "title": "Georgia Southern Eagles vs Troy Trojans Highlights | 2026 Sun Belt Conference Football",
+    "channel": "Sun Belt Conference",
+    "channel_id": "UCwRkms-Zb61HtMDIjmKofmw",
+    "url": "https://www.youtube.com/watch?v=huXjqGQR5gw",
+    "embed_url": "https://www.youtube-nocookie.com/embed/huXjqGQR5gw",
+    "thumb": "https://i.ytimg.com/vi/huXjqGQR5gw/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T00:24:39Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T00:38:11Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401869958": {
    "game_id": "401869958",
