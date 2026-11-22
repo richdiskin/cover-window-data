@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-22T06:10:44Z",
+ "updated_utc": "2026-11-22T15:09:45Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -5140,7 +5140,24 @@
    "kickoff_utc": "2026-11-22T02:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "SwLkotA2N5g",
+    "title": "SDSU FOOTBALL HIGHLIGHTS: AZTECS 22, #15 BOISE STATE 20 - NOV 21, 2026",
+    "channel": "SDSU Athletics",
+    "channel_id": "UCZB5DwBy4rb4T6zyx19oFVw",
+    "url": "https://www.youtube.com/watch?v=SwLkotA2N5g",
+    "embed_url": "https://www.youtube-nocookie.com/embed/SwLkotA2N5g",
+    "thumb": "https://i.ytimg.com/vi/SwLkotA2N5g/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T11:04:22Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T15:09:45Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856870": {
    "game_id": "401856870",
@@ -5148,7 +5165,24 @@
    "kickoff_utc": "2026-11-22T03:15Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "l0H0Vxz6F3o",
+    "title": "Oklahoma State Cowboys vs. Arizona State Sun Devils | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=l0H0Vxz6F3o",
+    "embed_url": "https://www.youtube-nocookie.com/embed/l0H0Vxz6F3o",
+    "thumb": "https://i.ytimg.com/vi/l0H0Vxz6F3o/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T14:04:39Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T15:09:45Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401860919": {
    "game_id": "401860919",
@@ -5156,7 +5190,24 @@
    "kickoff_utc": "2026-11-22T03:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "PcnHWt9yuaQ",
+    "title": "Utah State vs. Oregon State College Football Highlights | Week 12 Condensed Game",
+    "channel": "CBS Sports College Football",
+    "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+    "url": "https://www.youtube.com/watch?v=PcnHWt9yuaQ",
+    "embed_url": "https://www.youtube-nocookie.com/embed/PcnHWt9yuaQ",
+    "thumb": "https://i.ytimg.com/vi/PcnHWt9yuaQ/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T07:34:49Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T15:09:45Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401864541": {
    "game_id": "401864541",
@@ -5164,7 +5215,24 @@
    "kickoff_utc": "2026-11-22T03:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "yVUJIpuqlrg",
+    "title": "Hawai'i Rainbow Warriors vs Nevada Wolf Pack Highlights | FOX College Football",
+    "channel": "CFB ON FOX",
+    "channel_id": "UCpwix-O6ceqMgdxhqIynzFA",
+    "url": "https://www.youtube.com/watch?v=yVUJIpuqlrg",
+    "embed_url": "https://www.youtube-nocookie.com/embed/yVUJIpuqlrg",
+    "thumb": "https://i.ytimg.com/vi/yVUJIpuqlrg/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T07:37:05Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T15:09:45Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   }
  }
 }
