@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-22T04:10:49Z",
+ "updated_utc": "2026-11-22T04:36:59Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -4874,7 +4874,24 @@
    "kickoff_utc": "2026-11-22T00:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "V5Ut_uV95BQ",
+    "title": "OT DRAMA 😱 Arizona Wildcats vs. Kansas State Wildcats | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=V5Ut_uV95BQ",
+    "embed_url": "https://www.youtube-nocookie.com/embed/V5Ut_uV95BQ",
+    "thumb": "https://i.ytimg.com/vi/V5Ut_uV95BQ/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T04:17:44Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T04:36:49Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858302": {
    "game_id": "401858302",
@@ -5007,7 +5024,24 @@
    "kickoff_utc": "2026-11-22T00:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "F8uHKQh5EKs",
+    "title": "Pittsburgh Panthers vs. Louisville Cardinals | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=F8uHKQh5EKs",
+    "embed_url": "https://www.youtube-nocookie.com/embed/F8uHKQh5EKs",
+    "thumb": "https://i.ytimg.com/vi/F8uHKQh5EKs/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T04:19:58Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T04:36:49Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858307": {
    "game_id": "401858307",
@@ -5015,7 +5049,24 @@
    "kickoff_utc": "2026-11-22T00:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "wS1um04Xgm0",
+    "title": "SMU vs. Notre Dame Game Highlights | 2026 ACC Football",
+    "channel": "ACC Digital Network",
+    "channel_id": "UC0hy7TcR1gGD8nQBqrF2FaA",
+    "url": "https://www.youtube.com/watch?v=wS1um04Xgm0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/wS1um04Xgm0",
+    "thumb": "https://i.ytimg.com/vi/wS1um04Xgm0/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T04:13:09Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T04:36:49Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858308": {
    "game_id": "401858308",
@@ -5023,7 +5074,24 @@
    "kickoff_utc": "2026-11-22T00:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "HJKQnRx3598",
+    "title": "Stanford Cardinal vs. California Golden Bears | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=HJKQnRx3598",
+    "embed_url": "https://www.youtube-nocookie.com/embed/HJKQnRx3598",
+    "thumb": "https://i.ytimg.com/vi/HJKQnRx3598/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T04:18:56Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T04:36:49Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401860918": {
    "game_id": "401860918",
