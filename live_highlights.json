@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-22T01:42:32Z",
+ "updated_utc": "2026-11-22T02:44:03Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -4849,7 +4849,24 @@
    "kickoff_utc": "2026-11-21T23:15Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "DG9igTXWhQI",
+    "title": "Maryland at USC | Highlights | Big Ten Football | 11/21/2026",
+    "channel": "Big Ten Football",
+    "channel_id": "UCXnslB_TwYqScBRf4bPf3vA",
+    "url": "https://www.youtube.com/watch?v=DG9igTXWhQI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/DG9igTXWhQI",
+    "thumb": "https://i.ytimg.com/vi/DG9igTXWhQI/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T02:42:10Z",
+    "upload_time_source": "thumbnail_etag",
+    "found_at_utc": "2026-11-22T02:44:02Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856865": {
    "game_id": "401856865",
