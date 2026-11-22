@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-22T00:38:23Z",
+ "updated_utc": "2026-11-22T01:08:39Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -4616,7 +4616,24 @@
    "kickoff_utc": "2026-11-21T20:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "zHJcrM5tE-o",
+    "title": "No. 4 UCLA vs. Michigan College Football Highlights | Week 12 Condensed Game",
+    "channel": "CBS Sports College Football",
+    "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+    "url": "https://www.youtube.com/watch?v=zHJcrM5tE-o",
+    "embed_url": "https://www.youtube-nocookie.com/embed/zHJcrM5tE-o",
+    "thumb": "https://i.ytimg.com/vi/zHJcrM5tE-o/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T00:56:50Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T01:08:39Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858532": {
    "game_id": "401858532",
@@ -4740,7 +4757,24 @@
    "kickoff_utc": "2026-11-21T21:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "9zSgpTyV9go",
+    "title": "Georgia State Panthers vs Marshall Thundering Herd Highlights | 2026 Sun Belt Conference Football",
+    "channel": "Sun Belt Conference",
+    "channel_id": "UCwRkms-Zb61HtMDIjmKofmw",
+    "url": "https://www.youtube.com/watch?v=9zSgpTyV9go",
+    "embed_url": "https://www.youtube-nocookie.com/embed/9zSgpTyV9go",
+    "thumb": "https://i.ytimg.com/vi/9zSgpTyV9go/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T00:55:04Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T01:08:39Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401871101": {
    "game_id": "401871101",
@@ -4748,7 +4782,24 @@
    "kickoff_utc": "2026-11-21T21:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "gwgL4pwEFLU",
+    "title": "South Alabama Jaguars vs Southern Miss Golden Eagles Highlights | 2026 Sun Belt Conference Football",
+    "channel": "Sun Belt Conference",
+    "channel_id": "UCwRkms-Zb61HtMDIjmKofmw",
+    "url": "https://www.youtube.com/watch?v=gwgL4pwEFLU",
+    "embed_url": "https://www.youtube-nocookie.com/embed/gwgL4pwEFLU",
+    "thumb": "https://i.ytimg.com/vi/gwgL4pwEFLU/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T00:41:20Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T01:08:39Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401860920": {
    "game_id": "401860920",
