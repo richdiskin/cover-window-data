@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-22T03:42:50Z",
+ "updated_utc": "2026-11-22T04:10:49Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -4882,7 +4882,24 @@
    "kickoff_utc": "2026-11-22T00:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "yYKhxHM_qm0",
+    "title": "Virginia Tech vs. Miami Condensed Game | 2026 ACC Football",
+    "channel": "ACC Digital Network",
+    "channel_id": "UC0hy7TcR1gGD8nQBqrF2FaA",
+    "url": "https://www.youtube.com/watch?v=yYKhxHM_qm0",
+    "embed_url": "https://www.youtube-nocookie.com/embed/yYKhxHM_qm0",
+    "thumb": "https://i.ytimg.com/vi/yYKhxHM_qm0/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T03:59:50Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T04:10:44Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401864544": {
    "game_id": "401864544",
@@ -4915,7 +4932,24 @@
    "kickoff_utc": "2026-11-22T00:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "COog3wKbZLc",
+    "title": "Arkansas State Red Wolves vs Louisiana Tech Bulldogs Highlights | 2026 Sun Belt Conference Football",
+    "channel": "Sun Belt Conference",
+    "channel_id": "UCwRkms-Zb61HtMDIjmKofmw",
+    "url": "https://www.youtube.com/watch?v=COog3wKbZLc",
+    "embed_url": "https://www.youtube-nocookie.com/embed/COog3wKbZLc",
+    "thumb": "https://i.ytimg.com/vi/COog3wKbZLc/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T03:44:52Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T04:10:44Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856751": {
    "game_id": "401856751",
@@ -4923,7 +4957,24 @@
    "kickoff_utc": "2026-11-22T00:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "kLUmIHnhKyg",
+    "title": "No. 16 Kentucky Wildcats vs. Missouri Tigers | Game Highlights | 2026 SEC Football",
+    "channel": "SEC",
+    "channel_id": "UC60q_WUDde_NK-ze3frvtiA",
+    "url": "https://www.youtube.com/watch?v=kLUmIHnhKyg",
+    "embed_url": "https://www.youtube-nocookie.com/embed/kLUmIHnhKyg",
+    "thumb": "https://i.ytimg.com/vi/kLUmIHnhKyg/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T04:08:31Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T04:10:44Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856753": {
    "game_id": "401856753",
@@ -4931,7 +4982,24 @@
    "kickoff_utc": "2026-11-22T00:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "XICdvRxvhk4",
+    "title": "Georgia Bulldogs vs. South Carolina Gamecocks | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=XICdvRxvhk4",
+    "embed_url": "https://www.youtube-nocookie.com/embed/XICdvRxvhk4",
+    "thumb": "https://i.ytimg.com/vi/XICdvRxvhk4/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T03:59:38Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T04:10:44Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401858306": {
    "game_id": "401858306",
