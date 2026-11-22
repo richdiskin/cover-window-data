@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "nfl",
- "updated_utc": "2026-11-22T01:42:33Z",
+ "updated_utc": "2026-11-22T21:36:11Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401873026": {
@@ -463,7 +463,24 @@
    "kickoff_utc": "2026-11-22T18:00Z",
    "first_seen_utc": "2026-11-21T18:11:12Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "Yot-SbEUApw",
+    "title": "2026 Week 11: Lions vs Buccaneers | Highlights 🎥",
+    "channel": "Detroit Lions",
+    "channel_id": "UCv5J06V-ESk5_1uriG65f3w",
+    "url": "https://www.youtube.com/watch?v=Yot-SbEUApw",
+    "embed_url": "https://www.youtube-nocookie.com/embed/Yot-SbEUApw",
+    "thumb": "https://i.ytimg.com/vi/Yot-SbEUApw/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T21:11:41Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T21:36:08Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401873067": {
    "game_id": "401873067",
