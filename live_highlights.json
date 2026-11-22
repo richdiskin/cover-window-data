@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-22T02:44:03Z",
+ "updated_utc": "2026-11-22T03:42:50Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -4890,7 +4890,24 @@
    "kickoff_utc": "2026-11-22T00:00Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "PU3NPLHfvws",
+    "title": "UNLV vs. San Jose State College Football Highlights | Week 12 Condensed Game",
+    "channel": "CBS Sports College Football",
+    "channel_id": "UCLzocFrP98gfI5W2LD7Ux-w",
+    "url": "https://www.youtube.com/watch?v=PU3NPLHfvws",
+    "embed_url": "https://www.youtube-nocookie.com/embed/PU3NPLHfvws",
+    "thumb": "https://i.ytimg.com/vi/PU3NPLHfvws/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T03:38:48Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T03:42:50Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401869938": {
    "game_id": "401869938",
