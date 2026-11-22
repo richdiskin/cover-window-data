@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "college",
- "updated_utc": "2026-11-22T01:08:39Z",
+ "updated_utc": "2026-11-22T01:42:32Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401862813": {
@@ -4451,7 +4451,24 @@
    "kickoff_utc": "2026-11-21T19:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "DtUD_hi1RJI",
+    "title": "South Florida Bulls vs. Florida Atlantic Owls | Full Game Highlight | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=DtUD_hi1RJI",
+    "embed_url": "https://www.youtube-nocookie.com/embed/DtUD_hi1RJI",
+    "thumb": "https://i.ytimg.com/vi/DtUD_hi1RJI/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T01:41:15Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T01:42:18Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401869929": {
    "game_id": "401869929",
@@ -4533,7 +4550,24 @@
    "kickoff_utc": "2026-11-21T20:30Z",
    "first_seen_utc": "2026-11-21T17:11:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "lI7ANrA0jy8",
+    "title": "LSU Tigers vs. Tennessee Volunteers | Full Game Highlights | ESPN College Football",
+    "channel": "ESPN College Football",
+    "channel_id": "UCzRWWsFjqHk1an4OnVPsl9g",
+    "url": "https://www.youtube.com/watch?v=lI7ANrA0jy8",
+    "embed_url": "https://www.youtube-nocookie.com/embed/lI7ANrA0jy8",
+    "thumb": "https://i.ytimg.com/vi/lI7ANrA0jy8/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-22T01:12:30Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-22T01:42:32Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401856755": {
    "game_id": "401856755",
