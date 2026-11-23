@@ -4,7 +4,7 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-11-23T05:33:14Z",
-  "count": 150,
+  "count": 160,
   "lead_id": null,
   "articles": [
     {
@@ -11736,6 +11736,940 @@
         {
           "label": "ESPN game recap (AP), BYU 31, Kansas 29, 3OT (Nov. 21, 2026)",
           "url": "https://www.espn.com/college-football/recap/_/gameId/401856866"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-hawai-i",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "hawai-i",
+      "team_ids": [
+        "hawai-i"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864541",
+      "title": "Hawai'i vs Nevada: Jurgensen Finds Lacaden Late, Rainbow Warriors Fall 16-8",
+      "byline": "Kainoa Akana-Baird, The Hawai'i Fanatic",
+      "matchup": "Final: Nevada Wolf Pack (5-6) 16, Hawai'i Rainbow Warriors (3-8) 8, Sat., Nov. 21, Mackay Stadium, Reno. Next: vs Sacramento State, Sat., Nov. 28, 11:00 PM ET, Clarence T.C. Ching Athletics Complex, Honolulu",
+      "date": "2026-11-21",
+      "word_count": 357,
+      "text": "That was a long night in Reno for the Hawai'i Rainbow Warriors, and I'm not going to dress it up. The Nevada Wolf Pack left with a 16-8 win at Mackay Stadium. We're 3-8, 2-6 in the Mountain West, and we spent most of the evening looking for a spark that showed up too late.\n\nWe couldn't get out of our own way early. Sean Olvera-Harle missed from 49 yards in the first quarter and again in the second. Jacob Fernandez made a 24-yarder and a 45-yarder for Nevada, and we went to the half down 6-0. Micah Alejado went 12 of 21 for 95 yards, and the throws weren't there when we needed them. We finished with 182 yards. They had 311.\n\nThe third quarter was the one I wanted back. AJ Bianco scored from 5 yards after Herschel Turner's 48-yard run, and it was 13-0. Then we caught a break: Gerick Robinson dropped a punt, and Sitani Mikaele fell on it at the Nevada 13. We had a short field and a chance to punch a hole in that lead, and the drive died on downs. That's the drive that will keep me up.\n\nIsaiah Jordan intercepted Bjorn Jurgensen at our 49, and Fernandez knocked through a 38-yarder with 2:25 remaining, 16-0. Only then did we look like us. Titan Lacaden took the kickoff 53 yards to the Nevada 42. Four plays later Jurgensen hit Lacaden from 14 yards, and Uiliata caught the two-point try to cut the deficit to 16-8. Lacaden caught five balls for 28 yards and that score, and he returned two kickoffs for 66 yards.\n\nThe onside kick went 9 yards, Nevada recovered it, and they knelt. We ran out of clock and chances at the same time. Jurgensen went 8 of 15 for 46 yards, the touchdown and the interception. It was a hard, low-scoring night, and we didn't do enough until the last two minutes.\n\nNext up: Sacramento State at Clarence T.C. Ching Athletics Complex, Saturday, Nov. 28, at 11:00 PM ET. Last home Saturday of the year. Fill the Ching and let's finish this one right. Go Bows!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "That was a long night in Reno for the Hawai'i Rainbow Warriors, and I'm not going to dress it up. The Nevada Wolf Pack left with a 16-8 win at Mackay Stadium. We're 3-8, 2-6 in the Mountain West, and we spent most of the evening looking for a spark that showed up too late."
+        },
+        {
+          "type": "paragraph",
+          "text": "We couldn't get out of our own way early. Sean Olvera-Harle missed from 49 yards in the first quarter and again in the second. Jacob Fernandez made a 24-yarder and a 45-yarder for Nevada, and we went to the half down 6-0. Micah Alejado went 12 of 21 for 95 yards, and the throws weren't there when we needed them. We finished with 182 yards. They had 311."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter was the one I wanted back. AJ Bianco scored from 5 yards after Herschel Turner's 48-yard run, and it was 13-0. Then we caught a break: Gerick Robinson dropped a punt, and Sitani Mikaele fell on it at the Nevada 13. We had a short field and a chance to punch a hole in that lead, and the drive died on downs. That's the drive that will keep me up."
+        },
+        {
+          "type": "paragraph",
+          "text": "Isaiah Jordan intercepted Bjorn Jurgensen at our 49, and Fernandez knocked through a 38-yarder with 2:25 remaining, 16-0. Only then did we look like us. Titan Lacaden took the kickoff 53 yards to the Nevada 42. Four plays later Jurgensen hit Lacaden from 14 yards, and Uiliata caught the two-point try to cut the deficit to 16-8. Lacaden caught five balls for 28 yards and that score, and he returned two kickoffs for 66 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "The onside kick went 9 yards, Nevada recovered it, and they knelt. We ran out of clock and chances at the same time. Jurgensen went 8 of 15 for 46 yards, the touchdown and the interception. It was a hard, low-scoring night, and we didn't do enough until the last two minutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: Sacramento State at Clarence T.C. Ching Athletics Complex, Saturday, Nov. 28, at 11:00 PM ET. Last home Saturday of the year. Fill the Ching and let's finish this one right. Go Bows!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Hawai'i lost 16-8 to Nevada on Saturday, Nov. 21, at Mackay Stadium in Reno. The Rainbow Warriors are 3-8, 2-6 in the Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "Bjorn Jurgensen threw a 14-yard touchdown to Titan Lacaden with 1:38 left, and Tama Uiliata caught the two-point throw to make it 16-8."
+        },
+        {
+          "type": "fact",
+          "text": "Sean Olvera-Harle missed two 49-yard field goal tries, and Hawai'i failed to score after Sitani Mikaele recovered a muffed punt at the Nevada 13."
+        },
+        {
+          "type": "jab",
+          "text": "You needed three field goals and a late kneel to beat us. We'll take the last two minutes and come get a win at home."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Sacramento State, Saturday, Nov. 28, 11:00 PM ET, Clarence T.C. Ching Athletics Complex, Honolulu."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Nevada 16, Hawai'i 8 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864541"
+        },
+        {
+          "label": "ESPN play-by-play, Hawai'i at Nevada (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864541"
+        },
+        {
+          "label": "ESPN game page, Hawai'i at Nevada (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401864541"
+        },
+        {
+          "label": "ESPN Hawai'i Rainbow Warriors 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/62"
+        },
+        {
+          "label": "ESPN game recap (AP), Nevada 16, Hawai'i 8 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864541"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-nevada",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "nevada",
+      "team_ids": [
+        "nevada"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864541",
+      "title": "Nevada vs Hawai'i: Fernandez Kicks Three, Bianco Scores, Wolf Pack Holds On 16-8",
+      "byline": "Ridge Corbell, The Nevada Fanatic",
+      "matchup": "Final: Nevada Wolf Pack (5-6) 16, Hawai'i Rainbow Warriors (3-8) 8, Sat., Nov. 21, Mackay Stadium, Reno. Next: at UNLV, Sat., Nov. 28, 9:00 PM ET, Allegiant Stadium in Las Vegas",
+      "date": "2026-11-21",
+      "word_count": 338,
+      "text": "The score was ugly, and I loved every bit of it. The Nevada Wolf Pack beat the Hawai'i Rainbow Warriors 16-8 at Mackay Stadium in Reno, and we're 5-6, 4-3 in the Mountain West, one win from being bowl eligible. If you wanted pretty, you came to the wrong high-desert Saturday.\n\nJacob Fernandez did the early work. He made a 24-yard field goal in the second quarter after a long drive stalled, then hit a 45-yarder with 12 seconds left in the half for a 6-0 lead. Hawai'i's Sean Olvera-Harle missed from 49 yards twice. That's the kind of swing you feel in your seat.\n\nWe opened the third quarter the way I wanted. Herschel Turner ripped off a 48-yard run, and five plays later AJ Bianco scored from 5 yards to make it 13-0. Turner ran 13 times for 73 yards. Bianco went 8 of 18 for 106 yards and added 55 yards on 14 carries. We finished with 311 yards. They had 182. The Wolf Pack ran it, and they couldn't stop us from doing it.\n\nWe had a scare in the third. Gerick Robinson muffed a punt, and Sitani Mikaele recovered it at our 13. Hawai'i got down close and still couldn't finish the drive at 5:40 of the third. I started breathing again. Isaiah Jordan later intercepted Bjorn Jurgensen, and Fernandez added a 38-yarder with 2:25 left, 16-0. Fernandez was 3 for 3.\n\nThen it got sweaty. Titan Lacaden returned the next kickoff 53 yards, and Jurgensen found him from 14 yards with 1:38 to go. The two-point throw to Tama Uiliata made it 16-8. Their onside kick went 9 yards, we fell on it, and we knelt it out. I'll take a win that makes me sweat in November. Those are the ones you remember at Mackay.\n\nNext up: at UNLV, Saturday, Nov. 28, at 9:00 PM ET at Allegiant Stadium in Las Vegas. The Cannon is sitting there, and a bowl berth is sitting there with it. Win that one. Go Pack!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The score was ugly, and I loved every bit of it. The Nevada Wolf Pack beat the Hawai'i Rainbow Warriors 16-8 at Mackay Stadium in Reno, and we're 5-6, 4-3 in the Mountain West, one win from being bowl eligible. If you wanted pretty, you came to the wrong high-desert Saturday."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jacob Fernandez did the early work. He made a 24-yard field goal in the second quarter after a long drive stalled, then hit a 45-yarder with 12 seconds left in the half for a 6-0 lead. Hawai'i's Sean Olvera-Harle missed from 49 yards twice. That's the kind of swing you feel in your seat."
+        },
+        {
+          "type": "paragraph",
+          "text": "We opened the third quarter the way I wanted. Herschel Turner ripped off a 48-yard run, and five plays later AJ Bianco scored from 5 yards to make it 13-0. Turner ran 13 times for 73 yards. Bianco went 8 of 18 for 106 yards and added 55 yards on 14 carries. We finished with 311 yards. They had 182. The Wolf Pack ran it, and they couldn't stop us from doing it."
+        },
+        {
+          "type": "paragraph",
+          "text": "We had a scare in the third. Gerick Robinson muffed a punt, and Sitani Mikaele recovered it at our 13. Hawai'i got down close and still couldn't finish the drive at 5:40 of the third. I started breathing again. Isaiah Jordan later intercepted Bjorn Jurgensen, and Fernandez added a 38-yarder with 2:25 left, 16-0. Fernandez was 3 for 3."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then it got sweaty. Titan Lacaden returned the next kickoff 53 yards, and Jurgensen found him from 14 yards with 1:38 to go. The two-point throw to Tama Uiliata made it 16-8. Their onside kick went 9 yards, we fell on it, and we knelt it out. I'll take a win that makes me sweat in November. Those are the ones you remember at Mackay."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: at UNLV, Saturday, Nov. 28, at 9:00 PM ET at Allegiant Stadium in Las Vegas. The Cannon is sitting there, and a bowl berth is sitting there with it. Win that one. Go Pack!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Nevada beat Hawai'i 16-8 on Saturday, Nov. 21, at Mackay Stadium in Reno. The Wolf Pack are 5-6, 4-3 in the Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "Jacob Fernandez made field goals from 24, 45 and 38 yards, and AJ Bianco scored on a 5-yard run after Herschel Turner's 48-yard carry."
+        },
+        {
+          "type": "fact",
+          "text": "Hawai'i scored on a 14-yard throw from Bjorn Jurgensen to Titan Lacaden with 1:38 left, then failed to recover an onside kick."
+        },
+        {
+          "type": "jab",
+          "text": "You got it to 16-8 and still had to watch us kneel. Reno's a long way to come for eight points."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at UNLV, Saturday, Nov. 28, 9:00 PM ET, Allegiant Stadium in Las Vegas."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Nevada 16, Hawai'i 8 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864541"
+        },
+        {
+          "label": "ESPN play-by-play, Hawai'i at Nevada (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864541"
+        },
+        {
+          "label": "ESPN game page, Hawai'i at Nevada (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401864541"
+        },
+        {
+          "label": "ESPN Nevada Wolf Pack 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2440"
+        },
+        {
+          "label": "ESPN game recap (AP), Nevada 16, Hawai'i 8 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864541"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-utah-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "utah-state",
+      "team_ids": [
+        "utah-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860919",
+      "title": "Utah State vs Oregon State: Hillstead and Garcia Build the Lead, Aggies Fall Late, 31-24",
+      "byline": "Hyrum Tolleson, The Utah State Fanatic",
+      "matchup": "Final: Oregon State Beavers (6-5) 31, Utah State Aggies (4-7) 24, Sat., Nov. 21, Reser Stadium, Corvallis. Next: vs Texas State, Sat., Nov. 28, 9:30 PM ET, Maverik Stadium, Logan",
+      "date": "2026-11-21",
+      "word_count": 385,
+      "text": "We had this one, Aggie fans, and then we didn't. The Utah State Aggies led the Oregon State Beavers 24-17 in the fourth quarter on Saturday night at Reser Stadium, and we lost 31-24. We're 4-7, 3-4 in the Pac-12, and the last 10 minutes in Corvallis are going to eat at me.\n\nThe start was everything I wanted. We went three-and-out, then Bobby Arnold intercepted Maalik Murphy on Oregon State's third snap and returned it 28 yards to the Oregon State 25, and Anthony Garcia, yes, our receiver, lofted a 25-yard scoring throw to Javen Jacobs. Early in the second, McCae Hillstead ran one in from 7 yards, and it was 14-0. For a little while, I thought we were going to steal a road win in Corvallis. I should have knocked on wood, and I didn't.\n\nOregon State crawled back. Ojeda answered from 45 yards, Murphy hit Cynai Thomas from 29 yards, and we took a 17-10 lead to the half on Kian Afrookhteh's 21-yarder. Jake Reichle tied it at 17-17 with a 4-yard run to open the third. Then Hillstead and Garcia hooked up from 10 yards with 12:37 left in the fourth, 24-17. That's the lead I wanted to keep.\n\nWe didn't keep it. Reichle pushed in from a yard away with 10:03 on the clock to tie it 24-24. We drove into their end and the drive died on fourth down at the Oregon State 30 with 6:26 left. They went back down the field, and Reichle scored from 2 yards at 3:41. 31-24. We never got the ball back. They took knees at the end.\n\nHillstead went 20 of 33 for 277 yards and the throw to Garcia, plus the rushing score. He also threw an interception to Drake Vickers. Anthony Garcia caught seven balls for 75 yards and that touchdown, and he added the scoring throw to Jacobs. Kian Afrookhteh made the 21-yarder and had a 22-yard try blocked by Logan Knapp in the first quarter. Those are the little swings that look huge at 6:26 of the fourth.\n\nI'm proud of the fight. I'm not proud of the finish.\n\nNext up: Texas State at Maverik Stadium, Saturday, Nov. 28, at 9:30 PM ET in Logan. One more home Saturday. Fill Maverik and send this group out right.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "We had this one, Aggie fans, and then we didn't. The Utah State Aggies led the Oregon State Beavers 24-17 in the fourth quarter on Saturday night at Reser Stadium, and we lost 31-24. We're 4-7, 3-4 in the Pac-12, and the last 10 minutes in Corvallis are going to eat at me."
+        },
+        {
+          "type": "paragraph",
+          "text": "The start was everything I wanted. We went three-and-out, then Bobby Arnold intercepted Maalik Murphy on Oregon State's third snap and returned it 28 yards to the Oregon State 25, and Anthony Garcia, yes, our receiver, lofted a 25-yard scoring throw to Javen Jacobs. Early in the second, McCae Hillstead ran one in from 7 yards, and it was 14-0. For a little while, I thought we were going to steal a road win in Corvallis. I should have knocked on wood, and I didn't."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oregon State crawled back. Ojeda answered from 45 yards, Murphy hit Cynai Thomas from 29 yards, and we took a 17-10 lead to the half on Kian Afrookhteh's 21-yarder. Jake Reichle tied it at 17-17 with a 4-yard run to open the third. Then Hillstead and Garcia hooked up from 10 yards with 12:37 left in the fourth, 24-17. That's the lead I wanted to keep."
+        },
+        {
+          "type": "paragraph",
+          "text": "We didn't keep it. Reichle pushed in from a yard away with 10:03 on the clock to tie it 24-24. We drove into their end and the drive died on fourth down at the Oregon State 30 with 6:26 left. They went back down the field, and Reichle scored from 2 yards at 3:41. 31-24. We never got the ball back. They took knees at the end."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hillstead went 20 of 33 for 277 yards and the throw to Garcia, plus the rushing score. He also threw an interception to Drake Vickers. Anthony Garcia caught seven balls for 75 yards and that touchdown, and he added the scoring throw to Jacobs. Kian Afrookhteh made the 21-yarder and had a 22-yard try blocked by Logan Knapp in the first quarter. Those are the little swings that look huge at 6:26 of the fourth."
+        },
+        {
+          "type": "paragraph",
+          "text": "I'm proud of the fight. I'm not proud of the finish."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: Texas State at Maverik Stadium, Saturday, Nov. 28, at 9:30 PM ET in Logan. One more home Saturday. Fill Maverik and send this group out right."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Utah State lost 31-24 to Oregon State on Saturday, Nov. 21, at Reser Stadium in Corvallis. The Aggies are 4-7, 3-4 in the Pac-12, and led 24-17 in the fourth quarter."
+        },
+        {
+          "type": "fact",
+          "text": "Anthony Garcia threw a 25-yard touchdown to Javen Jacobs after Bobby Arnold's interception, and later caught a 10-yard touchdown from McCae Hillstead."
+        },
+        {
+          "type": "fact",
+          "text": "Hillstead went 20 of 33 for 277 yards. Jake Reichle ran for three Oregon State touchdowns, the last a 2-yard run at 3:41 of the fourth."
+        },
+        {
+          "type": "jab",
+          "text": "You needed three Reichle scores and the last 14 points in your own building to beat us. We'll take the first 50 minutes."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Texas State, Saturday, Nov. 28, 9:30 PM ET, Maverik Stadium, Logan."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Oregon State 31, Utah State 24 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860919"
+        },
+        {
+          "label": "ESPN play-by-play, Utah State at Oregon State (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860919"
+        },
+        {
+          "label": "ESPN game page, Utah State at Oregon State (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401860919"
+        },
+        {
+          "label": "ESPN Utah State Aggies 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/328"
+        },
+        {
+          "label": "ESPN game recap (AP), Oregon State 31, Utah State 24 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401860919"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-oregon-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "oregon-state",
+      "team_ids": [
+        "oregon-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860919",
+      "title": "Oregon State vs Utah State: Reichle's Third Touchdown Run Makes the Beavers Bowl Eligible, 31-24",
+      "byline": "Juniper Ostrowski, The Oregon State Fanatic",
+      "matchup": "Final: Oregon State Beavers (6-5) 31, Utah State Aggies (4-7) 24, Sat., Nov. 21, Reser Stadium, Corvallis. Next: at Fresno State, Sat., Nov. 28, 10:00 PM ET, Valley Children's Stadium, Fresno",
+      "date": "2026-11-21",
+      "word_count": 367,
+      "text": "Reser was loud at the end, and I hope the folks on the hill heard it all the way down into town. The Oregon State Beavers beat the Utah State Aggies 31-24 on Saturday night in Corvallis, scored the last 14 points, and we are bowl eligible at 6-5, 4-3 in the Pac-12. I've waited all fall to write that sentence.\n\nWe made it harder than it had to be. Utah State went three-and-out first, then Maalik Murphy was intercepted on our third snap by Bobby Arnold, who took it 28 yards to our 25, and Anthony Garcia threw a 25-yard touchdown to Javen Jacobs. McCae Hillstead added a 7-yard run early in the second, and it was 14-0 Aggies. That's a hole you can feel in your stomach.\n\nWe climbed out of it the long way. Caleb Ojeda made a 45-yard field goal, and Murphy found Cynai Thomas for a 29-yard touchdown to make it 14-10. Utah State got a 21-yard field goal from Kian Afrookhteh as the half ended, 17-10. Then we took the second-half kickoff 73 yards, and Jake Reichle scored from 4 yards to tie it 17-17.\n\nHillstead hit Garcia for a 10-yard touchdown at 12:37 of the fourth, and they led 24-17. Murphy answered with a 42-yard throw to Adonis McDaniel, and four plays later Reichle scored from a yard out at 10:03 to tie it again. Utah State stalled on fourth down at our 30 with 6:26 left. We kept coming, and Reichle walked in from 2 yards at 3:41. That was the 31-24 lead, and that was the ballgame.\n\nReichle ran 13 times for 28 yards and three touchdowns. The yards were short. The scores were huge. Murphy went 20 of 29 for 276 yards, one touchdown throw and one interception. Logan Knapp blocked a 22-yard field goal try in the first quarter, and Drake Vickers picked off Hillstead in the third. After we got the lead, they never got the ball back. We even fell on our own fumble and took a couple of knees.\n\nNext up: at Fresno State, Saturday, Nov. 28, at 10:00 PM ET at Valley Children's Stadium in Fresno. Bowl teams keep working. Go Beavs!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Reser was loud at the end, and I hope the folks on the hill heard it all the way down into town. The Oregon State Beavers beat the Utah State Aggies 31-24 on Saturday night in Corvallis, scored the last 14 points, and we are bowl eligible at 6-5, 4-3 in the Pac-12. I've waited all fall to write that sentence."
+        },
+        {
+          "type": "paragraph",
+          "text": "We made it harder than it had to be. Utah State went three-and-out first, then Maalik Murphy was intercepted on our third snap by Bobby Arnold, who took it 28 yards to our 25, and Anthony Garcia threw a 25-yard touchdown to Javen Jacobs. McCae Hillstead added a 7-yard run early in the second, and it was 14-0 Aggies. That's a hole you can feel in your stomach."
+        },
+        {
+          "type": "paragraph",
+          "text": "We climbed out of it the long way. Caleb Ojeda made a 45-yard field goal, and Murphy found Cynai Thomas for a 29-yard touchdown to make it 14-10. Utah State got a 21-yard field goal from Kian Afrookhteh as the half ended, 17-10. Then we took the second-half kickoff 73 yards, and Jake Reichle scored from 4 yards to tie it 17-17."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hillstead hit Garcia for a 10-yard touchdown at 12:37 of the fourth, and they led 24-17. Murphy answered with a 42-yard throw to Adonis McDaniel, and four plays later Reichle scored from a yard out at 10:03 to tie it again. Utah State stalled on fourth down at our 30 with 6:26 left. We kept coming, and Reichle walked in from 2 yards at 3:41. That was the 31-24 lead, and that was the ballgame."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reichle ran 13 times for 28 yards and three touchdowns. The yards were short. The scores were huge. Murphy went 20 of 29 for 276 yards, one touchdown throw and one interception. Logan Knapp blocked a 22-yard field goal try in the first quarter, and Drake Vickers picked off Hillstead in the third. After we got the lead, they never got the ball back. We even fell on our own fumble and took a couple of knees."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: at Fresno State, Saturday, Nov. 28, at 10:00 PM ET at Valley Children's Stadium in Fresno. Bowl teams keep working. Go Beavs!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Oregon State beat Utah State 31-24 on Saturday, Nov. 21, at Reser Stadium in Corvallis to become bowl eligible. The Beavers are 6-5, 4-3 in the Pac-12."
+        },
+        {
+          "type": "fact",
+          "text": "Jake Reichle ran for three touchdowns, from 4, 1 and 2 yards, and the last one at 3:41 of the fourth put Oregon State ahead 31-24."
+        },
+        {
+          "type": "fact",
+          "text": "Maalik Murphy went 20 of 29 for 276 yards, including a 29-yard touchdown to Cynai Thomas and a 42-yard catch by Adonis McDaniel."
+        },
+        {
+          "type": "jab",
+          "text": "You had us 14-0 in our place and still watched Reichle score three times. That's a long ride back to Logan."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Fresno State, Saturday, Nov. 28, 10:00 PM ET, Valley Children's Stadium, Fresno."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Oregon State 31, Utah State 24 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860919"
+        },
+        {
+          "label": "ESPN play-by-play, Utah State at Oregon State (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860919"
+        },
+        {
+          "label": "ESPN game page, Utah State at Oregon State (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401860919"
+        },
+        {
+          "label": "ESPN Oregon State Beavers 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/204"
+        },
+        {
+          "label": "ESPN game recap (AP), Oregon State 31, Utah State 24 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401860919"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-arizona-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "arizona-state",
+      "team_ids": [
+        "arizona-state"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856870",
+      "title": "Arizona State vs Oklahoma State: Harris and Fette Build a 24-7 Lead, Sun Devils Fall in Overtime 30-27",
+      "byline": "Skylar Vanterpool, The Arizona State Fanatic",
+      "matchup": "Final: Oklahoma State Cowboys (7-4) 30, Arizona State Sun Devils (6-5) 27, Sat., Nov. 21, Mountain America Stadium, Tempe. Next: at Arizona, Sat., Nov. 28, 9:00 PM ET, Casino Del Sol Stadium, Tucson",
+      "date": "2026-11-21",
+      "word_count": 395,
+      "text": "That one hurts because we had it. The Arizona State Sun Devils led the Oklahoma State Cowboys 24-7 at halftime on Saturday night at Mountain America Stadium, and we lost 30-27 in overtime. Our record sits at 6-5 and 4-4 in league play, and a night that felt like a launch turned into a long walk to the parking lot.\n\nThe first half was everything I wanted. After William Mason's 13-yard run put the Cowboys up 7-0, Jake Fette found Reed Harris for a 1-yard touchdown, kept it himself from a yard out, and hit Harris on a 60-yard scoring throw. Smith drilled a 51-yard field goal as time expired in the second quarter, and it was 24-7. Harris caught 11 balls for 172 yards and two scores. Fette went 17 of 28 for 232 yards and those two touchdown throws. We converted all five of our fourth downs. Martell Hughes picked off Drew Mestemaker. This was our building.\n\nWe just couldn't put it away. Caleb Hawkins scored from 9 yards, Sam Keltner made a 25-yarder, and Hawkins punched in a 7-yard run with 9:11 left, and just like that it was 24-24. Smith put us back in front 27-24 from 38 yards at 3:12, which is the kick I wanted in that moment. Keltner tied it again from 43 at 1:11.\n\nIn overtime, Keltner made a 35-yard field goal, 30-27. We got the ball, and Hammonds came down with an interception at the Oklahoma State 21. Cardae Mack had run for 66 yards on 16 carries and given us tough yards all night. The last snap went the other way. That's a cruel way to end it.\n\nCoach Kenny Dillingham said of Fette, \"He thinks that game's on him and it's not on him at all. The kid played really, really good football. There's so many things that could have changed the outcome of that game, not just the final play.\" I'll second that. This loss is on more than one throw.\n\nOwen Long and Hughes each made 12 tackles. We did enough good work to win. We didn't do it for 60 minutes, and then we didn't do it in overtime either.\n\nNext up: at Arizona, Saturday, Nov. 28, at 9:00 PM ET at Casino Del Sol Stadium in Tucson. The Territorial Cup is sitting there. Forks up. Let's go get that one.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "That one hurts because we had it. The Arizona State Sun Devils led the Oklahoma State Cowboys 24-7 at halftime on Saturday night at Mountain America Stadium, and we lost 30-27 in overtime. Our record sits at 6-5 and 4-4 in league play, and a night that felt like a launch turned into a long walk to the parking lot."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half was everything I wanted. After William Mason's 13-yard run put the Cowboys up 7-0, Jake Fette found Reed Harris for a 1-yard touchdown, kept it himself from a yard out, and hit Harris on a 60-yard scoring throw. Smith drilled a 51-yard field goal as time expired in the second quarter, and it was 24-7. Harris caught 11 balls for 172 yards and two scores. Fette went 17 of 28 for 232 yards and those two touchdown throws. We converted all five of our fourth downs. Martell Hughes picked off Drew Mestemaker. This was our building."
+        },
+        {
+          "type": "paragraph",
+          "text": "We just couldn't put it away. Caleb Hawkins scored from 9 yards, Sam Keltner made a 25-yarder, and Hawkins punched in a 7-yard run with 9:11 left, and just like that it was 24-24. Smith put us back in front 27-24 from 38 yards at 3:12, which is the kick I wanted in that moment. Keltner tied it again from 43 at 1:11."
+        },
+        {
+          "type": "paragraph",
+          "text": "In overtime, Keltner made a 35-yard field goal, 30-27. We got the ball, and Hammonds came down with an interception at the Oklahoma State 21. Cardae Mack had run for 66 yards on 16 carries and given us tough yards all night. The last snap went the other way. That's a cruel way to end it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Coach Kenny Dillingham said of Fette, \"He thinks that game's on him and it's not on him at all. The kid played really, really good football. There's so many things that could have changed the outcome of that game, not just the final play.\" I'll second that. This loss is on more than one throw."
+        },
+        {
+          "type": "paragraph",
+          "text": "Owen Long and Hughes each made 12 tackles. We did enough good work to win. We didn't do it for 60 minutes, and then we didn't do it in overtime either."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: at Arizona, Saturday, Nov. 28, at 9:00 PM ET at Casino Del Sol Stadium in Tucson. The Territorial Cup is sitting there. Forks up. Let's go get that one."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Arizona State lost 30-27 in overtime to Oklahoma State on Saturday, Nov. 21, at Mountain America Stadium in Tempe. The Sun Devils are 6-5, 4-4 in the Big 12, after leading 24-7 at halftime."
+        },
+        {
+          "type": "fact",
+          "text": "Jake Fette went 17 of 28 for 232 yards and two touchdown throws to Reed Harris, who caught 11 balls for 172 yards. Carson Smith made field goals from 51 and 38 yards."
+        },
+        {
+          "type": "fact",
+          "text": "Sam Keltner's 35-yard field goal put Oklahoma State up 30-27 in overtime, and Quinton Hammonds came down with an interception to end it."
+        },
+        {
+          "type": "jab",
+          "text": "You were down 24-7 in our house and still needed overtime and a takeaway to beat us. We'll remember the first half, too."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Arizona, Saturday, Nov. 28, 9:00 PM ET, Casino Del Sol Stadium, Tucson."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Oklahoma State 30, Arizona State 27 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856870"
+        },
+        {
+          "label": "ESPN play-by-play, Oklahoma State at Arizona State (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856870"
+        },
+        {
+          "label": "ESPN game page, Oklahoma State at Arizona State (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856870"
+        },
+        {
+          "label": "ESPN Arizona State Sun Devils 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/9"
+        },
+        {
+          "label": "ESPN game recap (AP), Oklahoma State 30, Arizona State 27, OT (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856870"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-oklahoma-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "oklahoma-state",
+      "team_ids": [
+        "oklahoma-state"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856870",
+      "title": "Oklahoma State vs Arizona State: Keltner Hits in Overtime, Hammonds Ends It, Cowboys Rally 30-27",
+      "byline": "Dusty Lockridge, The Oklahoma State Fanatic",
+      "matchup": "Final: Oklahoma State Cowboys (7-4) 30, Arizona State Sun Devils (6-5) 27, Sat., Nov. 21, Mountain America Stadium, Tempe. Next: vs Kansas, Sat., Nov. 28, 6:15 PM ET, Boone Pickens Stadium, Stillwater",
+      "date": "2026-11-21",
+      "word_count": 355,
+      "text": "I had my head in my hands at halftime, and I'm not ashamed of it. The Oklahoma State Cowboys trailed the Arizona State Sun Devils 24-7 in Tempe on Saturday night, and then we chipped, and chipped, and found a 30-27 win in overtime at Mountain America Stadium. We're 7-4, 5-3 in the Big 12, and this is the kind of night you tell people about in Stillwater for years.\n\nIt started fine. William Mason ran 13 yards for a touchdown on the opening drive, and I thought, here we go. Then Jake Fette and Reed Harris took the building. Fette hit Harris for a 1-yard score, ran one in from a yard, and found Harris again from 60 yards. Smith knocked through a 51-yard field goal as the half expired, and it was 24-7. Drew Mestemaker, playing after a right shoulder injury last week, threw an interception to Martell Hughes. We looked stuck.\n\nThe second half was a different team. Caleb Hawkins scored from 9 yards in the third, Sam Keltner made a 25-yard field goal, and Hawkins ran in from 7 yards at 9:11 of the fourth to tie it 24-24. Hawkins carried 22 times for 98 yards and those two scores. Mestemaker finished 30 of 40 for 294 yards. Justin Bowick caught seven balls for 95.\n\nSmith put Arizona State back in front 27-24 with a 38-yard field goal at 3:12. Keltner answered from 43 yards at 1:11, and we went to overtime tied at 27. Keltner, who was 3 for 3, opened overtime with a 35-yarder to make it 30-27. On the next snap, Quinton Hammonds came down with an interception at our 21. That was the ballgame. Hammonds also made eight tackles. Jerry Lawson had two sacks.\n\nCoach Eric Morris said, \"We were so flat in the first half. We battled back one play at a time in the second half and found a way to win it.\" That's exactly how it felt from my seat.\n\nNext up: Kansas at Boone Pickens Stadium, Saturday, Nov. 28, at 6:15 PM ET. Get to Stillwater early and make it loud. Go Pokes!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I had my head in my hands at halftime, and I'm not ashamed of it. The Oklahoma State Cowboys trailed the Arizona State Sun Devils 24-7 in Tempe on Saturday night, and then we chipped, and chipped, and found a 30-27 win in overtime at Mountain America Stadium. We're 7-4, 5-3 in the Big 12, and this is the kind of night you tell people about in Stillwater for years."
+        },
+        {
+          "type": "paragraph",
+          "text": "It started fine. William Mason ran 13 yards for a touchdown on the opening drive, and I thought, here we go. Then Jake Fette and Reed Harris took the building. Fette hit Harris for a 1-yard score, ran one in from a yard, and found Harris again from 60 yards. Smith knocked through a 51-yard field goal as the half expired, and it was 24-7. Drew Mestemaker, playing after a right shoulder injury last week, threw an interception to Martell Hughes. We looked stuck."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half was a different team. Caleb Hawkins scored from 9 yards in the third, Sam Keltner made a 25-yard field goal, and Hawkins ran in from 7 yards at 9:11 of the fourth to tie it 24-24. Hawkins carried 22 times for 98 yards and those two scores. Mestemaker finished 30 of 40 for 294 yards. Justin Bowick caught seven balls for 95."
+        },
+        {
+          "type": "paragraph",
+          "text": "Smith put Arizona State back in front 27-24 with a 38-yard field goal at 3:12. Keltner answered from 43 yards at 1:11, and we went to overtime tied at 27. Keltner, who was 3 for 3, opened overtime with a 35-yarder to make it 30-27. On the next snap, Quinton Hammonds came down with an interception at our 21. That was the ballgame. Hammonds also made eight tackles. Jerry Lawson had two sacks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Coach Eric Morris said, \"We were so flat in the first half. We battled back one play at a time in the second half and found a way to win it.\" That's exactly how it felt from my seat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: Kansas at Boone Pickens Stadium, Saturday, Nov. 28, at 6:15 PM ET. Get to Stillwater early and make it loud. Go Pokes!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Oklahoma State beat Arizona State 30-27 in overtime on Saturday, Nov. 21, at Mountain America Stadium in Tempe. The Cowboys are 7-4, 5-3 in the Big 12, after trailing 24-7 at halftime."
+        },
+        {
+          "type": "fact",
+          "text": "Sam Keltner made field goals from 25, 43 and 35 yards, the last in overtime, and Quinton Hammonds intercepted a throw to end the game."
+        },
+        {
+          "type": "fact",
+          "text": "Caleb Hawkins ran 22 times for 98 yards and two touchdowns, and Drew Mestemaker went 30 of 40 for 294 yards."
+        },
+        {
+          "type": "jab",
+          "text": "You had us 24-7 at the half in your place, and we still walked out with the win. Tempe's a long way to go to learn that about this team."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Kansas, Saturday, Nov. 28, 6:15 PM ET, Boone Pickens Stadium, Stillwater."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Oklahoma State 30, Arizona State 27 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856870"
+        },
+        {
+          "label": "ESPN play-by-play, Oklahoma State at Arizona State (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856870"
+        },
+        {
+          "label": "ESPN game page, Oklahoma State at Arizona State (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856870"
+        },
+        {
+          "label": "ESPN Oklahoma State Cowboys 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/197"
+        },
+        {
+          "label": "ESPN game recap (AP), Oklahoma State 30, Arizona State 27, OT (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856870"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-boise-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "boise-state",
+      "team_ids": [
+        "boise-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860925",
+      "title": "Boise State vs San Diego State: Broncos Lead Late, Fall on a Final Kick, 22-20",
+      "byline": "Thatcher Bluestem, The Boise State Fanatic",
+      "matchup": "Final: San Diego State Aztecs (6-5) 22, Boise State Broncos (9-2) 20, Sat., Nov. 21, Albertsons Stadium, Boise. Next: at Colorado State, Sat., Nov. 28, 6:00 PM ET, Canvas Stadium, Fort Collins",
+      "date": "2026-11-21",
+      "word_count": 383,
+      "text": "That one is going to sting in the hills above Albertsons Stadium for a while. The Boise State Broncos let a home game slip away, 22-20, to the San Diego State Aztecs on our own blue turf, on a 42-yard field goal by Cooper DiLeva as time expired. We're 9-2 and 6-1 in the Pac-12, and a game we had in hand got away in the last two minutes.\n\nWe did so many things right. Maddux Madsen scored from a yard out to make it 7-0. After Stone Saunders tied it with a 9-yard run, Canaan Moore answered from 52 yards, and later he added a 26-yarder. Madsen hit Akeem Wright for a 30-yard touchdown early in the fourth, and with 3:53 left we led 20-13. Moore was 2 for 2. Madsen threw for 311 yards. Dylan Riley ran for 69 and caught five balls for 89. Travis Anderson made 11 tackles and picked off Saunders once.\n\nWe just didn't finish it. Saunders hit Jaylon Hawkins on a 39-yard scoring throw with 1:51 to go, the two-point try failed, and it was 20-19. We recovered the onside kick. All we needed was a first down. Instead we went for it on fourth down at the Aztecs' 45, and they dropped Madsen for a loss of a yard. They got 24 yards to Jackson Ford, and DiLeva ended it from 42.\n\nI can argue the fourth-down call all night, and I probably will. We had been living with that kind of nerve all year. This time it didn't work. That one is on the whole group, not just one play.\n\nThe harder part is how we got there. Madsen threw two interceptions, to Mike Lindsay and Isaiah Green, and he lost a fumble inside the Aztecs' 10 in the first quarter after Brady Nassar knocked it loose and Caleb Ricks fell on it. Three giveaways at home. You don't get to play like that against a team that came to ruin your night, and San Diego State came to ruin it.\n\nWe're still 9-2. That matters. It just doesn't feel like it tonight.\n\nNext up: at Colorado State, Saturday, Nov. 28, at 6:00 PM ET at Canvas Stadium in Fort Collins. Shake this off, get on the bus, and be ourselves again. Go Broncos!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "That one is going to sting in the hills above Albertsons Stadium for a while. The Boise State Broncos let a home game slip away, 22-20, to the San Diego State Aztecs on our own blue turf, on a 42-yard field goal by Cooper DiLeva as time expired. We're 9-2 and 6-1 in the Pac-12, and a game we had in hand got away in the last two minutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "We did so many things right. Maddux Madsen scored from a yard out to make it 7-0. After Stone Saunders tied it with a 9-yard run, Canaan Moore answered from 52 yards, and later he added a 26-yarder. Madsen hit Akeem Wright for a 30-yard touchdown early in the fourth, and with 3:53 left we led 20-13. Moore was 2 for 2. Madsen threw for 311 yards. Dylan Riley ran for 69 and caught five balls for 89. Travis Anderson made 11 tackles and picked off Saunders once."
+        },
+        {
+          "type": "paragraph",
+          "text": "We just didn't finish it. Saunders hit Jaylon Hawkins on a 39-yard scoring throw with 1:51 to go, the two-point try failed, and it was 20-19. We recovered the onside kick. All we needed was a first down. Instead we went for it on fourth down at the Aztecs' 45, and they dropped Madsen for a loss of a yard. They got 24 yards to Jackson Ford, and DiLeva ended it from 42."
+        },
+        {
+          "type": "paragraph",
+          "text": "I can argue the fourth-down call all night, and I probably will. We had been living with that kind of nerve all year. This time it didn't work. That one is on the whole group, not just one play."
+        },
+        {
+          "type": "paragraph",
+          "text": "The harder part is how we got there. Madsen threw two interceptions, to Mike Lindsay and Isaiah Green, and he lost a fumble inside the Aztecs' 10 in the first quarter after Brady Nassar knocked it loose and Caleb Ricks fell on it. Three giveaways at home. You don't get to play like that against a team that came to ruin your night, and San Diego State came to ruin it."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're still 9-2. That matters. It just doesn't feel like it tonight."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: at Colorado State, Saturday, Nov. 28, at 6:00 PM ET at Canvas Stadium in Fort Collins. Shake this off, get on the bus, and be ourselves again. Go Broncos!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Boise State lost 22-20 to San Diego State on Saturday, Nov. 21, at Albertsons Stadium in Boise on a 42-yard field goal as time expired. The Broncos are 9-2, 6-1 in the Pac-12."
+        },
+        {
+          "type": "fact",
+          "text": "Maddux Madsen threw for 311 yards and a 30-yard touchdown to Akeem Wright, and Canaan Moore made field goals from 52 and 26 yards. Boise State led 20-13 with 3:53 left."
+        },
+        {
+          "type": "fact",
+          "text": "The Broncos recovered an onside kick after San Diego State's 39-yard touchdown made it 20-19, then were stopped on fourth down at the Aztecs' 45."
+        },
+        {
+          "type": "jab",
+          "text": "You needed a field goal as the clock hit zero to beat us in our house. We'll remember that."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Colorado State, Saturday, Nov. 28, 6:00 PM ET, Canvas Stadium, Fort Collins."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, San Diego State 22, Boise State 20 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860925"
+        },
+        {
+          "label": "ESPN play-by-play, San Diego State at Boise State (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860925"
+        },
+        {
+          "label": "ESPN game page, San Diego State at Boise State (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401860925"
+        },
+        {
+          "label": "ESPN Boise State Broncos 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/68"
+        },
+        {
+          "label": "ESPN game recap (AP), San Diego State 22, Boise State 20 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401860925"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-san-diego-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "san-diego-state",
+      "team_ids": [
+        "san-diego-state"
+      ],
+      "tab_id": "pac12",
+      "game_id": "401860925",
+      "title": "San Diego State vs Boise State: DiLeva Wins It as Time Expires, Aztecs Stun No. 15 Broncos 22-20",
+      "byline": "Kai Delgado-Sorensen, The San Diego State Fanatic",
+      "matchup": "Final: San Diego State Aztecs (6-5) 22, Boise State Broncos (9-2) 20, Sat., Nov. 21, Albertsons Stadium, Boise. Next: at Washington State, Sat., Nov. 28, 6:30 PM ET, Martin Stadium, Pullman",
+      "date": "2026-11-21",
+      "word_count": 414,
+      "text": "I am still hoarse, and I do not care. The San Diego State Aztecs beat the No. 15 Boise State Broncos 22-20 on Saturday night at Albertsons Stadium, on their blue turf, with Cooper DiLeva's 42-yard field goal going through as time expired. We're 6-5, 5-2 in the Pac-12, and we just punched a ticket to the conference championship game.\n\nThis was a 60-minute fight, just like our coach said afterward. Boise State scored first, Maddux Madsen sneaking in from a yard out early in the second quarter. We didn't flinch. Stone Saunders ran 9 yards to tie it at 7-7 in the third, and then the kickers went to work. Canaan Moore hit from 52, DiLeva answered from 51, and we were 10-10.\n\nMadsen found Akeem Wright for 30 yards early in the fourth, and it was 17-10 Broncos. DiLeva made a 29-yarder, Moore made a 26-yarder, and with the clock melting it was 20-13. I won't lie to you. I started doing the math in my head, and I didn't like it.\n\nThen Saunders went and found Jaylon Hawkins for 39 yards at 1:51. Hawkins had six catches for 89 yards. The two-point try failed, so it was 20-19, and our onside kick bounced to them. Boise State went for it on fourth down from our 45, and Madsen was stopped for a 1-yard loss. Saunders hit Jackson Ford for 24 yards, and DiLeva, who had missed a 49-yarder in the first quarter, drilled the 42-yarder with no time left.\n\nSaunders went 19 of 37 for 227 yards and that touchdown throw, and he ran for 41 yards and a score. Javion Kinnard added 86 yards on 13 carries. Tano Letuli made 10 tackles. Mike Lindsay and Isaiah Green each came down with an interception, and Brady Nassar forced a Madsen fumble that Caleb Ricks recovered. We took the ball away three times.\n\nOur coach said, \"We knew it was going to be a 60-minute fight, and we used every single second of what it was, to find a way to win. Even better, we have punched our ticket to come back here in two weeks and partake in the first Pac-12 championship against a really good team.\" That's the sentence I'm going to sleep on.\n\nFirst things first. Next up: at Washington State, Saturday, Nov. 28, at 6:30 PM ET at Martin Stadium in Pullman. Then we get Boise State again, on this same turf, in the title game. Go Aztecs!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I am still hoarse, and I do not care. The San Diego State Aztecs beat the No. 15 Boise State Broncos 22-20 on Saturday night at Albertsons Stadium, on their blue turf, with Cooper DiLeva's 42-yard field goal going through as time expired. We're 6-5, 5-2 in the Pac-12, and we just punched a ticket to the conference championship game."
+        },
+        {
+          "type": "paragraph",
+          "text": "This was a 60-minute fight, just like our coach said afterward. Boise State scored first, Maddux Madsen sneaking in from a yard out early in the second quarter. We didn't flinch. Stone Saunders ran 9 yards to tie it at 7-7 in the third, and then the kickers went to work. Canaan Moore hit from 52, DiLeva answered from 51, and we were 10-10."
+        },
+        {
+          "type": "paragraph",
+          "text": "Madsen found Akeem Wright for 30 yards early in the fourth, and it was 17-10 Broncos. DiLeva made a 29-yarder, Moore made a 26-yarder, and with the clock melting it was 20-13. I won't lie to you. I started doing the math in my head, and I didn't like it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Saunders went and found Jaylon Hawkins for 39 yards at 1:51. Hawkins had six catches for 89 yards. The two-point try failed, so it was 20-19, and our onside kick bounced to them. Boise State went for it on fourth down from our 45, and Madsen was stopped for a 1-yard loss. Saunders hit Jackson Ford for 24 yards, and DiLeva, who had missed a 49-yarder in the first quarter, drilled the 42-yarder with no time left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Saunders went 19 of 37 for 227 yards and that touchdown throw, and he ran for 41 yards and a score. Javion Kinnard added 86 yards on 13 carries. Tano Letuli made 10 tackles. Mike Lindsay and Isaiah Green each came down with an interception, and Brady Nassar forced a Madsen fumble that Caleb Ricks recovered. We took the ball away three times."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our coach said, \"We knew it was going to be a 60-minute fight, and we used every single second of what it was, to find a way to win. Even better, we have punched our ticket to come back here in two weeks and partake in the first Pac-12 championship against a really good team.\" That's the sentence I'm going to sleep on."
+        },
+        {
+          "type": "paragraph",
+          "text": "First things first. Next up: at Washington State, Saturday, Nov. 28, at 6:30 PM ET at Martin Stadium in Pullman. Then we get Boise State again, on this same turf, in the title game. Go Aztecs!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "San Diego State beat No. 15 Boise State 22-20 on Saturday, Nov. 21, at Albertsons Stadium in Boise on Cooper DiLeva's 42-yard field goal as time expired. The Aztecs are 6-5, 5-2 in the Pac-12, and clinched a spot in the Pac-12 championship game."
+        },
+        {
+          "type": "fact",
+          "text": "Stone Saunders threw a 39-yard touchdown to Jaylon Hawkins with 1:51 left to make it 20-19, and DiLeva kicked the winner after Boise State was stopped on fourth down."
+        },
+        {
+          "type": "fact",
+          "text": "Saunders went 19 of 37 for 227 yards, and Mike Lindsay and Isaiah Green each had an interception."
+        },
+        {
+          "type": "jab",
+          "text": "You went for it on fourth down at our 45, and we made you pay. See you back on the blue turf in a couple of weeks."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Washington State, Saturday, Nov. 28, 6:30 PM ET, Martin Stadium, Pullman."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, San Diego State 22, Boise State 20 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401860925"
+        },
+        {
+          "label": "ESPN play-by-play, San Diego State at Boise State (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401860925"
+        },
+        {
+          "label": "ESPN game page, San Diego State at Boise State (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401860925"
+        },
+        {
+          "label": "ESPN San Diego State Aztecs 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/21"
+        },
+        {
+          "label": "ESPN game recap (AP), San Diego State 22, Boise State 20 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401860925"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-tcu",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "tcu",
+      "team_ids": [
+        "tcu"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856872",
+      "title": "TCU vs Utah: Payne Runs Us Even, then No. 2 Utah Pulls Away, 38-17",
+      "byline": "Ryder Galloway, The TCU Fanatic",
+      "matchup": "Final: Utah Utes (11-0) 38, TCU Horned Frogs (5-6) 17, Sat., Nov. 21, Amon G. Carter Stadium, Fort Worth. Next: at Texas Tech, Thu., Nov. 26, 8:00 PM ET, Galaxy Stadium, Lubbock",
+      "date": "2026-11-21",
+      "word_count": 385,
+      "text": "I believed, Horned Frog fans, I really did. The TCU Horned Frogs had the Utah Utes tied 17-17 at Amon G. Carter Stadium on Saturday night, and then the Utes scored 21 points before I could catch my breath and left town with a 38-17 win. We're 5-6, 3-5 in the Big 12, and that one is going to sit with me for a while.\n\nThe first half was a slog. We didn't score. Utah got a 45-yard field goal from Dillon Curtis, a 4-yard Devon Dampier run, and a 68-yard throw from Dampier to Braden Pegan, and it was 17-0 at the break. It felt heavy in the stands.\n\nThen Jeremy Payne reminded everybody who we are. He took one 43 yards for a touchdown in the third, then scored from 8 yards, and Kyle Lemmermann knocked through a 32-yarder with 9:26 left in the fourth to make it 17-17. Payne finished with 12 carries for 108 yards. Jordan Dwyer caught five balls for 55 yards. For a stretch there, we had this building rocking.\n\nWe just couldn't get the stop. Hunter Andrews walked it in from the 2 with 5:46 left. Dampier hit Larry Simmons for 85 yards at 2:59. Jackson Bennee, who intercepted Adam Schobel twice, cleared the way for Dampier's 10-yard score with 1:53 left. Just like that, it was 38-17.\n\nSchobel made his first career start with Jaden Craig out with a knee injury. He went 15 of 31 for 106 yards and those two interceptions. That's a hard assignment against this Utah team, and I won't hang it all on a freshman. Our defense couldn't get off the field when it had to, and we gave the ball away twice. Utah did not give it away at all.\n\nCoach Sonny Dykes said it after the game: \"Our job's always to win these games. But our guys battled their tails off. I mean, we were down 17-0, and it didn't look good. And we were able to get back in the game.\" He's right about the fight. I wanted the finish too.\n\nNext up: at Texas Tech, Thursday, Nov. 26, at 8:00 PM ET at Galaxy Stadium in Lubbock. Thanksgiving night, a short week, and a chance to end the regular season with a win. Wear the purple. Go Frogs!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I believed, Horned Frog fans, I really did. The TCU Horned Frogs had the Utah Utes tied 17-17 at Amon G. Carter Stadium on Saturday night, and then the Utes scored 21 points before I could catch my breath and left town with a 38-17 win. We're 5-6, 3-5 in the Big 12, and that one is going to sit with me for a while."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half was a slog. We didn't score. Utah got a 45-yard field goal from Dillon Curtis, a 4-yard Devon Dampier run, and a 68-yard throw from Dampier to Braden Pegan, and it was 17-0 at the break. It felt heavy in the stands."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Jeremy Payne reminded everybody who we are. He took one 43 yards for a touchdown in the third, then scored from 8 yards, and Kyle Lemmermann knocked through a 32-yarder with 9:26 left in the fourth to make it 17-17. Payne finished with 12 carries for 108 yards. Jordan Dwyer caught five balls for 55 yards. For a stretch there, we had this building rocking."
+        },
+        {
+          "type": "paragraph",
+          "text": "We just couldn't get the stop. Hunter Andrews walked it in from the 2 with 5:46 left. Dampier hit Larry Simmons for 85 yards at 2:59. Jackson Bennee, who intercepted Adam Schobel twice, cleared the way for Dampier's 10-yard score with 1:53 left. Just like that, it was 38-17."
+        },
+        {
+          "type": "paragraph",
+          "text": "Schobel made his first career start with Jaden Craig out with a knee injury. He went 15 of 31 for 106 yards and those two interceptions. That's a hard assignment against this Utah team, and I won't hang it all on a freshman. Our defense couldn't get off the field when it had to, and we gave the ball away twice. Utah did not give it away at all."
+        },
+        {
+          "type": "paragraph",
+          "text": "Coach Sonny Dykes said it after the game: \"Our job's always to win these games. But our guys battled their tails off. I mean, we were down 17-0, and it didn't look good. And we were able to get back in the game.\" He's right about the fight. I wanted the finish too."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: at Texas Tech, Thursday, Nov. 26, at 8:00 PM ET at Galaxy Stadium in Lubbock. Thanksgiving night, a short week, and a chance to end the regular season with a win. Wear the purple. Go Frogs!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "TCU lost 38-17 to No. 2 Utah on Saturday, Nov. 21, at Amon G. Carter Stadium in Fort Worth. The Horned Frogs are 5-6, 3-5 in the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "Jeremy Payne ran 12 times for 108 yards and two touchdowns, and Kyle Lemmermann's 32-yard field goal tied the game at 17-17 in the fourth."
+        },
+        {
+          "type": "fact",
+          "text": "Adam Schobel made his first career start and went 15 of 31 for 106 yards with two interceptions, both by Jackson Bennee."
+        },
+        {
+          "type": "jab",
+          "text": "You had us beaten at 17-0, and we still got it to 17-17. Then you scored 21 in 3:53. Fine. We'll see you in the standings."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Texas Tech, Thursday, Nov. 26, 8:00 PM ET, Galaxy Stadium, Lubbock."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Utah 38, TCU 17 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856872"
+        },
+        {
+          "label": "ESPN play-by-play, Utah at TCU (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856872"
+        },
+        {
+          "label": "ESPN game page, Utah at TCU (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856872"
+        },
+        {
+          "label": "ESPN TCU Horned Frogs 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2628"
+        },
+        {
+          "label": "ESPN game recap (AP), Utah 38, TCU 17 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856872"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-utah",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "utah",
+      "team_ids": [
+        "utah"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856872",
+      "title": "Utah vs TCU: Dampier Hits Simmons from 85 Yards, No. 2 Utes Clinch the Big 12 Title Game, 38-17",
+      "byline": "Aspen Mortensen, The Utah Fanatic",
+      "matchup": "Final: Utah Utes (11-0) 38, TCU Horned Frogs (5-6) 17, Sat., Nov. 21, Amon G. Carter Stadium, Fort Worth. Next: vs West Virginia, Fri., Nov. 27, 9:00 PM ET, Rice-Eccles Stadium, Salt Lake City",
+      "date": "2026-11-21",
+      "word_count": 346,
+      "text": "Fort Worth can keep the noise. I'll take this one: the Utah Utes beat the TCU Horned Frogs 38-17 on Saturday night at Amon G. Carter Stadium, and we are 11-0, 8-0 in the Big 12, and going to the conference title game. That's 17 wins in a row.\n\nFor a half, it looked simple. Dillon Curtis made a 45-yard field goal, Devon Dampier ran one in from 4 yards, and with 1:28 left in the second quarter Dampier found Braden Pegan for 68 yards. Utah 17, TCU 0. I started thinking about Friday already. That was dumb.\n\nJeremy Payne brought the Horned Frogs all the way back. He broke a 43-yard touchdown run in the third, added an 8-yard score, and Kyle Lemmermann tied it at 17-17 with a 32-yard field goal at 9:26 of the fourth. Payne ran 12 times for 108 yards. For a few minutes, that stadium was theirs again.\n\nThen we went and took it back. Hunter Andrews scored from 2 yards at 5:46 to make it 24-17. Dampier let one fly to Larry Simmons, and Simmons finished an 85-yard touchdown at 2:59. Jackson Bennee, who came down with both of Adam Schobel's interceptions and returned them 99 yards, set up Dampier's 10-yard run at 1:53. Twenty-one points in 3:53. That's the Utah I stayed up for.\n\nDampier completed 18 of 28 throws for 278 yards with two scoring throws, and he added 62 yards and two scores on 21 carries. Simmons caught three balls for 114 yards. Elijah Elliss had two sacks. We didn't give the ball away once. Schobel, a freshman in his first start because Jaden Craig was out with a knee injury, went 15 of 31 for 106 yards.\n\nCurtis missed a 38-yarder in the second quarter, and we were flagged 10 times for 90 yards. I'll live with the mess. The win is sitting there in the standings.\n\nNext up: West Virginia at Rice-Eccles Stadium, Friday, Nov. 27, at 9:00 PM ET. Get the red out in Salt Lake. This thing is still rolling. Go Utes!",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fort Worth can keep the noise. I'll take this one: the Utah Utes beat the TCU Horned Frogs 38-17 on Saturday night at Amon G. Carter Stadium, and we are 11-0, 8-0 in the Big 12, and going to the conference title game. That's 17 wins in a row."
+        },
+        {
+          "type": "paragraph",
+          "text": "For a half, it looked simple. Dillon Curtis made a 45-yard field goal, Devon Dampier ran one in from 4 yards, and with 1:28 left in the second quarter Dampier found Braden Pegan for 68 yards. Utah 17, TCU 0. I started thinking about Friday already. That was dumb."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jeremy Payne brought the Horned Frogs all the way back. He broke a 43-yard touchdown run in the third, added an 8-yard score, and Kyle Lemmermann tied it at 17-17 with a 32-yard field goal at 9:26 of the fourth. Payne ran 12 times for 108 yards. For a few minutes, that stadium was theirs again."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then we went and took it back. Hunter Andrews scored from 2 yards at 5:46 to make it 24-17. Dampier let one fly to Larry Simmons, and Simmons finished an 85-yard touchdown at 2:59. Jackson Bennee, who came down with both of Adam Schobel's interceptions and returned them 99 yards, set up Dampier's 10-yard run at 1:53. Twenty-one points in 3:53. That's the Utah I stayed up for."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dampier completed 18 of 28 throws for 278 yards with two scoring throws, and he added 62 yards and two scores on 21 carries. Simmons caught three balls for 114 yards. Elijah Elliss had two sacks. We didn't give the ball away once. Schobel, a freshman in his first start because Jaden Craig was out with a knee injury, went 15 of 31 for 106 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Curtis missed a 38-yarder in the second quarter, and we were flagged 10 times for 90 yards. I'll live with the mess. The win is sitting there in the standings."
+        },
+        {
+          "type": "paragraph",
+          "text": "Next up: West Virginia at Rice-Eccles Stadium, Friday, Nov. 27, at 9:00 PM ET. Get the red out in Salt Lake. This thing is still rolling. Go Utes!"
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "No. 2 Utah beat TCU 38-17 on Saturday, Nov. 21, at Amon G. Carter Stadium in Fort Worth and clinched a spot in the Big 12 title game. The Utes are 11-0, 8-0 in the Big 12, and have won 17 in a row."
+        },
+        {
+          "type": "fact",
+          "text": "Devon Dampier went 18 of 28 for 278 yards and two touchdown throws, including 68 yards to Braden Pegan and 85 yards to Larry Simmons, and ran for two scores."
+        },
+        {
+          "type": "fact",
+          "text": "Jeremy Payne ran for 108 yards and two touchdowns, and Kyle Lemmermann's 32-yard field goal tied the game at 17-17 in the fourth before Utah scored 21 points."
+        },
+        {
+          "type": "jab",
+          "text": "You crawled all the way back to 17-17 and then watched us score 21 in 3:53. That's a long ride home, Fort Worth."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs West Virginia, Friday, Nov. 27, 9:00 PM ET, Rice-Eccles Stadium, Salt Lake City."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Utah 38, TCU 17 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856872"
+        },
+        {
+          "label": "ESPN play-by-play, Utah at TCU (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856872"
+        },
+        {
+          "label": "ESPN game page, Utah at TCU (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856872"
+        },
+        {
+          "label": "ESPN Utah Utes 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/254"
+        },
+        {
+          "label": "ESPN game recap (AP), Utah 38, TCU 17 (Nov. 21, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856872"
         }
       ],
       "sources_display": "button",
