@@ -1,0 +1,29 @@
+{
+ "league": "college",
+ "date": "2026-11-21",
+ "label": "FBS · Week of Tue Nov 17 – Sat Nov 21, 2026",
+ "status": "final",
+ "archived_utc": "2026-11-23T18:00:14Z",
+ "finalized_utc": "2026-11-23T18:00:14Z",
+ "pending_games": [],
+ "files": {
+  "games.json": {
+   "bytes": 1225711,
+   "source": "main@fdfeb50:games.json"
+  },
+  "monday.json": {
+   "bytes": 75610,
+   "source": "main@fdfeb50:college/monday.json"
+  },
+  "results.json": {
+   "bytes": 23728,
+   "source": "ESPN scoreboard 20261117,20261118,20261119,20261120,20261121"
+  },
+  "standings.json": {
+   "bytes": 124,
+   "source": "main@fdfeb50:college/standings.json"
+  }
+ },
+ "read_only": true,
+ "note": "Archived exactly as it was live. Open with the same game pages, read-only."
+}
