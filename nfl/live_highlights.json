@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "nfl",
- "updated_utc": "2026-11-22T22:45:36Z",
+ "updated_utc": "2026-11-23T00:43:13Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401873026": {
@@ -529,7 +529,24 @@
    "kickoff_utc": "2026-11-22T21:05Z",
    "first_seen_utc": "2026-11-21T21:08:22Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
-   "halftime_eligible": true
+   "halftime_eligible": true,
+   "final": {
+    "youtube_id": "PK1fIkMMJMk",
+    "title": "Jets Beat Chargers In LA | NFL Week 11 Highlights",
+    "channel": "New York Jets",
+    "channel_id": "UCROj9vBjc4ZW3AL4cd_BjHg",
+    "url": "https://www.youtube.com/watch?v=PK1fIkMMJMk",
+    "embed_url": "https://www.youtube-nocookie.com/embed/PK1fIkMMJMk",
+    "thumb": "https://i.ytimg.com/vi/PK1fIkMMJMk/hqdefault.jpg",
+    "duration_s": null,
+    "uploaded_utc": "2026-11-23T00:19:00Z",
+    "upload_time_source": "channel_feed",
+    "found_at_utc": "2026-11-23T00:43:13Z",
+    "slot": "final",
+    "embeddable": true,
+    "oembed": 200,
+    "official": true
+   }
   },
   "401873075": {
    "game_id": "401873075",
