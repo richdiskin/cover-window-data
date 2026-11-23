@@ -8,11 +8,11 @@
   "items": [
    {
     "paragraphs": [
-     "Saturday put 58 games on the card, and 53 of them are final and graded below. Five late games are still being played: Utah at TCU, San Diego State at Boise State, Oklahoma State at Arizona State, Utah State at Oregon State and Hawai'i at Nevada. They stay pending, and they get graded here in the next update once ESPN has the finals.",
-     "It was a night for the half-point and the last-second score. The Over 49.5 at Penn State died at 49 when Rutgers won 25-24 on a two-point play with no time left. SMU +20.5 lost by half a point because Notre Dame ran out the clock with kneel-downs. The Under 47.5 at Texas missed by half a point at 48, and the Under 54.5 at Marshall missed by half a point when Georgia State scored with 2 seconds left. Southern Miss +4.5 lost by half a point after its two-point try failed, Old Dominion scored with 1 second left to take 5.5 points off UConn −13.5, and Navy scored with 15 seconds left to beat Memphis −2.5 outright.",
-     "The other side of the window had its moments too. Kansas State +7.5 cashed by half a point in overtime, Maryland +17.5 and the Under 56.5 both cashed with the last point scored at 56, and Chattanooga +48.5 cashed when Alabama stopped at 47. Wake Forest −21 landed exactly on the number, and five tickets got their money back. BYU at Kansas went three overtimes and UCLA at Michigan went three overtimes, and Colorado State climbed back from 22 down to cash +20.5.",
-     "Every game below is graded against the line printed on the card at kickoff, using ESPN finals and play-by-play, and a push counts as neither a hit nor a miss. Saturday's cards were refreshed on game day, and Lock It Up line moves count at their final lines. The heartbreakers go first, then the nail-biters, then the rest of the card, then the five games still being played.",
-     "Follow The Money had a side in 14 of the graded games and a total in 25, and In The Trenches had a side in 27 and no totals. Games without a pick aren't graded for them."
+     "Saturday put 58 games on the card, and all 58 are final and graded below. The last five, Utah at TCU, San Diego State at Boise State, Oklahoma State at Arizona State, Utah State at Oregon State and Hawai'i at Nevada, ran past midnight and are graded in now.",
+     "It was a night for the half-point and the last-second score. The Over 49.5 at Penn State died at 49 when Rutgers won 25-24 on a two-point play with no time left. SMU +20.5 lost by half a point because Notre Dame ran out the clock with kneel-downs. The Under 47.5 at Texas missed by half a point at 48, and the Under 54.5 at Marshall missed by half a point when Georgia State scored with 2 seconds left. Southern Miss +4.5 lost by half a point after its two-point try failed, Old Dominion scored with 1 second left to take 5.5 points off UConn −13.5, and Navy scored with 15 seconds left to beat Memphis −2.5 outright. Then Arizona State +2.5 lost by half a point in overtime at Tempe, on an interception on its first overtime snap.",
+     "The other side of the window had its moments too. Kansas State +7.5 cashed by half a point in overtime, Maryland +17.5 and the Under 56.5 both cashed with the last point scored at 56, and Chattanooga +48.5 cashed when Alabama stopped at 47. Wake Forest −21 landed exactly on the number, and five tickets got their money back. BYU at Kansas went three overtimes and UCLA at Michigan went three overtimes, and Colorado State climbed back from 22 down to cash +20.5. Late in the night, Utah was tied 17-17 at TCU with six minutes left and scored 21 straight to cash −8.5 and the Over, and Utah State +8.5 survived at Oregon State when the Beavers took knees instead of a field goal try.",
+     "Every game below is graded against the line printed on the card at kickoff, using ESPN finals and play-by-play, and a push counts as neither a hit nor a miss. Saturday's cards were refreshed on game day, and Lock It Up line moves are graded at the line on the kickoff card. The heartbreakers go first, then the nail-biters, then the rest of the card.",
+     "Follow The Money had a side in 17 games and a total in 28, and In The Trenches had a side in 32 and no totals. Games without a pick aren't graded for them."
     ],
     "conferences": [
      "SEC",
@@ -33,6 +33,7 @@
     "conferences": [
      "SEC",
      "Big Ten",
+     "Big 12",
      "ACC",
      "American",
      "Sun Belt",
@@ -173,6 +174,21 @@
     ],
     "conferences": [
      "Big Ten"
+    ]
+   },
+   {
+    "matchup": "Oklahoma State 30, Arizona State 27",
+    "paragraphs": [
+     "Card line: Oklahoma State −2.5, total 59.5. The Cover Writer's card had Arizona State +2.5 and the Under, projecting Oklahoma State 29, Arizona State 28. Final: Oklahoma State 30, Arizona State 27. Oklahoma State won by 3 in overtime, and the teams scored 57 points.",
+     "Arizona State +2.5 lost by half a point, and it took overtime and one bad throw to do it. The Sun Devils led 24-7 at the half after Smith's 51-yard field goal with no time left, and that +2.5 ticket looked like it was already in the bank. Oklahoma State chipped all the way back, and Hawkins's 7-yard run tied it at 24 with 9:11 left. Smith's 38-yard field goal put Arizona State back up 27-24 at 3:12, and Keltner answered with a 43-yarder at 1:11 to tie it again.",
+     "Oklahoma State went first in overtime, stalled at the Arizona State 17 and took Keltner's 35-yard field goal, 30-27. Arizona State needed a field goal to keep playing and a touchdown to win, and on its very first snap Mack's throw got picked off by Hammonds. Game over. Oklahoma State by 3, and every Arizona State +2.5 ticket lost by half a point.",
+     "Here's the twist. The total was 54 at the end of regulation and 57 after the overtime kick, and a tying Arizona State field goal would have made it 60 and killed the Under 59.5. The same interception that buried Arizona State +2.5 saved the Under. The Cover Writer had both, so it lost one by half a point and got the other back on the same snap.",
+     "Called it: The Formula and Next Man Up on Oklahoma State −2.5, covered by 0.5 points. The Formula, Letdown Watch and Follow The Money on the Under 59.5, stayed under by 2.5 points.",
+     "Called it: The Cover Writer on the Under 59.5, stayed under by 2.5 points.",
+     "Missed: The Cover Writer, Letdown Watch and In The Trenches on Arizona State +2.5, missed by 0.5 points. Next Man Up on the Over 59.5, fell 2.5 points short."
+    ],
+    "conferences": [
+     "Big 12"
     ]
    },
    {
@@ -361,6 +377,34 @@
     ]
    },
    {
+    "matchup": "Utah 38, TCU 17",
+    "paragraphs": [
+     "Card line: Utah −8.5, total 46.5. The Cover Writer's card had Utah −8.5 and the Over, projecting Utah 30, TCU 20. Final: Utah 38, TCU 17. Utah won by 21, and the teams scored 55 points.",
+     "Utah −8.5 and the Over 46.5 were both losing with six minutes left, and then Utah scored 21 points in four minutes. Utah led 17-0 at the half after Dampier hit Pegan for 68 yards, Payne ran for two TCU touchdowns in the third quarter, and Lemmermann's 32-yard field goal at 9:26 tied it 17-17. At that point TCU +8.5 was sitting pretty and the total was stuck at 34.",
+     "Andrews ran 2 yards for the go-ahead touchdown at 5:46, 24-17, which still wasn't enough to cover. Then Dampier found Simmons for an 85-yard touchdown at 2:59, 31-17, and that one throw cashed Utah −8.5 and the Over 46.5 at the same time. Dampier ran 10 yards for one more at 1:53. Utah 38, TCU 17, and the TCU +8.5 crowd went from holding 8.5 points of cushion to losing by 12.5 in under four minutes.",
+     "Called it: Next Man Up on Utah −8.5, covered by 12.5 points. Letdown Watch on Utah −7.5, covered by 13.5 points. The Formula and Letdown Watch on the Over 46.5, cleared it by 8.5 points.",
+     "Called it: The Cover Writer on Utah −8.5, covered by 12.5 points. The Cover Writer on the Over 46.5, cleared it by 8.5 points.",
+     "Missed: The Formula and In The Trenches on TCU +8.5, missed by 12.5 points. Next Man Up on the Under 46.5, went over by 8.5 points."
+    ],
+    "conferences": [
+     "Big 12"
+    ]
+   },
+   {
+    "matchup": "Utah State 24, Oregon State 31",
+    "paragraphs": [
+     "Card line: Oregon State −8.5, total 50.5. The Cover Writer's card had Utah State +8.5 and the Under, projecting Oregon State 27, Utah State 20. Final: Utah State 24, Oregon State 31. Oregon State won by 7, and the teams scored 55 points.",
+     "Utah State +8.5 hung on by a point and a half, and the Under 50.5 went down on the same Oregon State drive. Reichle's 1-yard run at 10:03 tied it 24-24, 48 points, and the Under was still alive. Utah State drove into Oregon State territory, helped by an interference flag on Oregon State, then turned it over on downs at the Oregon State 30 with 6:26 left. Then an unsportsmanlike conduct flag on Utah State handed Oregon State 15 free yards.",
+     "Oregon State kept going, a face mask on Utah State moved the ball to the 8, and Reichle ran 2 yards for the touchdown at 3:41, 31-24. That made it 55 points, and the Under 50.5 lost by 4.5. Oregon State got the ball back and had it at the Utah State 38 with two minutes left, where a field goal would have flipped Utah State +8.5. Instead the Beavers fumbled on a run, got it back, and took two knees. Oregon State by 7, and Utah State +8.5 cashed because Oregon State didn't want any more points.",
+     "Called it: Follow The Money and In The Trenches on Utah State +8.5, covered by 1.5 points. The Formula on the Over 50.5, cleared it by 4.5 points.",
+     "Called it: The Cover Writer on Utah State +8.5, covered by 1.5 points.",
+     "Missed: The Formula and Next Man Up on Oregon State −8.5, missed by 1.5 points. Letdown Watch on Oregon State −9.5, missed by 2.5 points. The Cover Writer, Next Man Up and Follow The Money on the Under 50.5, went over by 4.5 points. Letdown Watch on the Under 51.5, went over by 3.5 points."
+    ],
+    "conferences": [
+     "Pac-12"
+    ]
+   },
+   {
     "matchup": "College Saturday · The rest of the card",
     "conferences": [
      "SEC",
@@ -372,6 +416,32 @@
      "Sun Belt",
      "Conference USA",
      "Pac-12"
+    ]
+   },
+   {
+    "matchup": "San Diego State 22, Boise State 20",
+    "paragraphs": [
+     "Card line: Boise State −17.5, total 60.5. The Cover Writer's card had Boise State −17.5 and the Under, projecting Boise State 39, San Diego State 20. Final: San Diego State 22, Boise State 20. San Diego State won by 2, and the teams scored 42 points.",
+     "Boise State −17.5 lost by 19.5, and it lost the game too. San Diego State never trailed by more than 7. Saunders hit Hawkins for a 39-yard touchdown at 1:51 to make it 20-19, and the two-point try failed. Boise State recovered the onside kick, then went for it on fourth down at the San Diego State 45 and Madsen got stopped for a 1-yard loss. Saunders found Ford for 24 yards, and DiLeva's 42-yard field goal with no time left won it, 22-20. In The Trenches had San Diego State +17.5, and the Under 60.5 cashed easily at 42 points.",
+     "Called it: In The Trenches on San Diego State +17.5, covered by 19.5 points. The Formula, Letdown Watch and Follow The Money on the Under 60.5, stayed under by 18.5 points.",
+     "Called it: The Cover Writer on the Under 60.5, stayed under by 18.5 points.",
+     "Missed: The Cover Writer, The Formula, Next Man Up, Letdown Watch and Follow The Money on Boise State −17.5, missed by 19.5 points. Next Man Up on the Over 60.5, fell 18.5 points short."
+    ],
+    "conferences": [
+     "Pac-12"
+    ]
+   },
+   {
+    "matchup": "Hawai'i 8, Nevada 16",
+    "paragraphs": [
+     "Card line: Nevada −6, total 40.5. The Cover Writer's card had Nevada −6 and the Over, projecting Nevada 25, Hawai'i 18. Final: Hawai'i 8, Nevada 16. Nevada won by 8, and the teams scored 24 points.",
+     "Nevada −6 covered by 2, and Hawai'i made Nevada backers sweat the last 98 seconds. Nevada led 16-0 after Fernandez's 38-yard field goal at 2:25. Hawai'i answered with Jurgensen's 14-yard touchdown throw to Lacaden and a two-point conversion at 1:38, 16-8, and one more field goal would have flipped Nevada −6. The onside kick went 9 yards, Nevada got it, and Nevada knelt it out. The Over 40.5 never had a prayer, because Nevada didn't score a touchdown until the third quarter and the teams finished at 24 points.",
+     "Called it: Next Man Up and In The Trenches on Nevada −6, covered by 2 points. Letdown Watch on Nevada −4, covered by 4 points. Follow The Money on Nevada −5.5, covered by 2.5 points. Next Man Up on the Under 40.5, stayed under by 16.5 points.",
+     "Called it: The Cover Writer on Nevada −6, covered by 2 points.",
+     "Missed: The Formula on Hawai'i +6, missed by 2 points. The Cover Writer, The Formula and Letdown Watch on the Over 40.5, fell 16.5 points short."
+    ],
+    "conferences": [
+     "Mountain West"
     ]
    },
    {
@@ -753,59 +823,6 @@
     "conferences": [
      "American"
     ]
-   },
-   {
-    "matchup": "College Saturday · Still being played",
-    "conferences": [
-     "Big 12",
-     "Mountain West",
-     "Pac-12"
-    ]
-   },
-   {
-    "matchup": "Utah at TCU",
-    "paragraphs": [
-     "Utah at TCU was still being played when this edition was written: 8:08 - 4th Quarter, Utah 17, TCU 17. Its picks are not graded yet and get graded in the next update once ESPN has the final."
-    ],
-    "conferences": [
-     "Big 12"
-    ]
-   },
-   {
-    "matchup": "San Diego State at Boise State",
-    "paragraphs": [
-     "San Diego State at Boise State was still being played when this edition was written: 12:58 - 4th Quarter, San Diego State 10, Boise State 17. Its picks are not graded yet and get graded in the next update once ESPN has the final."
-    ],
-    "conferences": [
-     "Pac-12"
-    ]
-   },
-   {
-    "matchup": "Oklahoma State at Arizona State",
-    "paragraphs": [
-     "Oklahoma State at Arizona State was still being played when this edition was written: Halftime, Oklahoma State 7, Arizona State 24. Its picks are not graded yet and get graded in the next update once ESPN has the final."
-    ],
-    "conferences": [
-     "Big 12"
-    ]
-   },
-   {
-    "matchup": "Utah State at Oregon State",
-    "paragraphs": [
-     "Utah State at Oregon State was still being played when this edition was written: Halftime, Utah State 17, Oregon State 10. Its picks are not graded yet and get graded in the next update once ESPN has the final."
-    ],
-    "conferences": [
-     "Pac-12"
-    ]
-   },
-   {
-    "matchup": "Hawai'i at Nevada",
-    "paragraphs": [
-     "Hawai'i at Nevada was still being played when this edition was written: Halftime, Hawai'i 0, Nevada 6. Its picks are not graded yet and get graded in the next update once ESPN has the final."
-    ],
-    "conferences": [
-     "Mountain West"
-    ]
    }
   ]
  },
@@ -814,12 +831,12 @@
   "items": [
    {
     "paragraphs": [
-     "The Cover Writer went 28-24-1 against the spread and 22-31 on totals Saturday, which makes the week 31-33-1 against the spread and 30-35 on totals. The sides finally woke up, with Rutgers +26.5 and Chattanooga +48.5 in the bank, and the totals fell into a ditch. The Over at Penn State, the Under at Texas and the Under at Marshall each died by half a point. Three half-points on one card is not bad luck, it is a personal attack, and The Cover Writer is taking it personally.",
-     "The Formula went 18-30-1 against the spread and 28-21 on totals Saturday, and for the week it is 23-37-1 against the spread and 36-25 on totals. The totals are the best in the building. Its Over 47.5 at Texas cashed by half a point and Georgia State +2.5 cashed on the last-second touchdown, but SMU +20.5 and Southern Miss +4.5 each died by half a point. The totals side is carrying the whole operation, and the sides owe it dinner.",
-     "Next Man Up went 19-29-1 against the spread and 22-27 on totals Saturday, and the week is 24-36-1 against the spread and 30-31 on totals. It cashed Notre Dame −20.5, Texas −20.5 and Rutgers +26.5, and it pushed Wake Forest +21. Then it lost Memphis −2.5, Ohio State −3 and Houston −7. Friday's big night is a long way back in the rearview mirror.",
-     "Letdown Watch went 24-24-1 against the spread and 23-26 on totals Saturday, and the week is 28-32-1 against the spread and 30-31 on totals. It was the only voice on Wake Forest −21 and pushed it with everyone else, and it cashed Notre Dame −20.5 and South Alabama −4.5 by half a point each. It also took Penn State −24.5 and watched Rutgers win the game. The letdown it keeps warning everybody about showed up in State College and nowhere else.",
-     "Follow The Money went 7-7 against the spread and 11-14 on totals Saturday, and the week is 10-10 against the spread and 13-17 on totals. It was the only voice on Navy +2.5 and the Over at Navy, and both cashed on the last touchdown, and it cashed the Over at Southern Miss too. Marshall −2.5 and Penn State −26 were the two that bit back. It sat out most of the card and picks its spots, and the spots were about even.",
-     "In The Trenches went 20-6-1 against the spread and made no total picks Saturday, and the week is 25-9-1. That is the best sides record anyone has put up all week, and it is not close. It had Chattanooga, Maryland, Kansas State, Minnesota, San José State and Sam Houston on the right side, and it pushed Wake Forest with the rest of them. Six of its sides lost, and Southern Miss +4.5 missed by half a point. It has no totals picks, so nobody can drag it down with the rest of the room."
+     "The Cover Writer went 31-26-1 against the spread and 25-33 on totals Saturday, which makes the week 34-35-1 against the spread and 33-37 on totals. The sides finally woke up, with Rutgers +26.5, Chattanooga +48.5 and a late Utah −8.5 in the bank, and the totals fell into a ditch. The Over at Penn State, the Under at Texas and the Under at Marshall each died by half a point, and then Arizona State +2.5 lost by half a point in overtime on top of it. Four half-points on one card is not bad luck, it is a personal attack, and The Cover Writer is taking it personally. The only consolation is that the overtime interception that killed Arizona State +2.5 also saved the Under 59.5.",
+     "The Formula went 19-34-1 against the spread and 32-22 on totals Saturday, and for the week it is 24-41-1 against the spread and 40-26 on totals. The totals are the best in the building, and it hit four of five totals in the late games. Its Over 47.5 at Texas cashed by half a point, Georgia State +2.5 cashed on the last-second touchdown and Oklahoma State −2.5 cashed by half a point in overtime, but SMU +20.5 and Southern Miss +4.5 each died by half a point, and TCU +8.5 was cashing until Utah scored 21 in four minutes. The totals side is carrying the whole operation, and the sides owe it dinner.",
+     "Next Man Up went 22-31-1 against the spread and 23-31 on totals Saturday, and the week is 27-38-1 against the spread and 31-35 on totals. It cashed Notre Dame −20.5, Texas −20.5, Rutgers +26.5 and Oklahoma State −2.5, and it pushed Wake Forest +21. Then it lost Memphis −2.5, Ohio State −3 and Houston −7, and it hit one of five totals in the late games, with the Under at TCU and the Over at Boise State both dead by the end. Friday's big night is a long way back in the rearview mirror.",
+     "Letdown Watch went 26-27-1 against the spread and 26-28 on totals Saturday, and the week is 30-35-1 against the spread and 33-33 on totals. It was the only voice on Wake Forest −21 and pushed it with everyone else, and it cashed Notre Dame −20.5 and South Alabama −4.5 by half a point each. It also took Penn State −24.5 and watched Rutgers win the game, and it had Arizona State +2.5 when the overtime interception landed. The letdown it keeps warning everybody about showed up in State College and Tempe and nowhere else.",
+     "Follow The Money went 9-8 against the spread and 13-15 on totals Saturday, and the week is 12-11 against the spread and 15-18 on totals. It was the only voice on Navy +2.5 and the Over at Navy, and both cashed on the last touchdown, and it cashed the Over at Southern Miss too. Late at night it had Utah State +8.5 and Nevada −5.5, and both got there. Marshall −2.5, Penn State −26 and Boise State −17.5 were the ones that bit back. It sits out most of the card and picks its spots, and it is above water on sides for the week.",
+     "In The Trenches went 23-8-1 against the spread and made no total picks Saturday, and the week is 28-11-1. That is the best sides record anyone has put up all week, and it is not close. It had Chattanooga, Maryland, Kansas State, Minnesota, San José State and Sam Houston on the right side, then hit three of five in the late games with San Diego State +17.5, Utah State +8.5 and Nevada −6. It pushed Wake Forest with the rest of them, and Southern Miss +4.5 missed by half a point. It has no totals picks, so nobody can drag it down with the rest of the room."
     ],
     "conferences": [
      "SEC",
