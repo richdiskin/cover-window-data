@@ -1,7 +1,7 @@
 {
  "schema": "cw_live_highlights_v1",
  "league": "nfl",
- "updated_utc": "2026-11-23T00:43:13Z",
+ "updated_utc": "2026-11-23T01:45:29Z",
  "about": "In-game YouTube highlights per game_id: optional `halftime` (first-half clip) and `final` (full-game clip). Official allowlisted channels only, embeddable. Times are UTC for data only; apps show none of them.",
  "games": {
   "401873026": {
@@ -569,6 +569,14 @@
    "matchup": "Minnesota Vikings at San Francisco 49ers",
    "kickoff_utc": "2026-11-23T01:20Z",
    "first_seen_utc": "2026-11-22T01:42:08Z",
+   "first_seen_status": "STATUS_SCHEDULED Q0 ",
+   "halftime_eligible": true
+  },
+  "401873078": {
+   "game_id": "401873078",
+   "matchup": "Cincinnati Bengals at Washington Commanders",
+   "kickoff_utc": "2026-11-24T01:15Z",
+   "first_seen_utc": "2026-11-23T01:44:54Z",
    "first_seen_status": "STATUS_SCHEDULED Q0 ",
    "halftime_eligible": true
   }
