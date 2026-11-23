@@ -3352,13 +3352,13 @@
     "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
     "source_url": "https://www.actionnetwork.com/nfl/odds",
     "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-    "fetched_at_utc": "2026-11-17T14:53:58Z",
+    "fetched_at_utc": "2026-11-23T11:01:25Z",
     "action_network_game_id": 290994,
-    "home_line": 6.5,
-    "total": 52.5,
+    "home_line": 6,
+    "total": 54.5,
     "open_home_line": 1.5,
     "open_total": 52.5,
-    "spread_display": "Washington Commanders +6.5",
+    "spread_display": "Washington Commanders +6",
     "open_timestamp": ""
    },
    "injuries": {
@@ -3368,24 +3368,24 @@
     "home": null
    },
    "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261123",
-   "spread": "Washington Commanders +6.5",
-   "story_text": "Bengals 27, Commanders 23. Commanders cover the 6.5. Under 52.5. The Formula projects Cincinnati by 3.7 against a 6.5-point line.",
+   "spread": "Washington Commanders +6",
+   "story_text": "Bengals 27, Commanders 23. Commanders cover the 6. Under 54.5. The Formula projects Cincinnati by 3.7 against a 6-point line.",
    "why_this_score": "",
    "betting_text": "",
    "total_pick": "Under",
    "total_reason_public": "",
    "line_used": {
-    "home_line": 6.5,
-    "total": 52.5,
-    "source": "Consensus line as of Nov 17, 9:53 AM ET",
-    "as_of_utc": "2026-11-17T14:53:58Z"
+    "home_line": 6.0,
+    "total": 54.5,
+    "source": "ESPN game summary pickcenter (DraftKings), as of Nov 23, 6:01 AM ET",
+    "as_of_utc": "2026-11-23T11:01:23Z"
    },
-   "total_line": 52.5,
+   "total_line": 54.5,
    "prediction": {
     "away_score": 27,
     "home_score": 23,
     "winner": "Cincinnati Bengals",
-    "covers": "Washington Commanders +6.5"
+    "covers": "Washington Commanders +6"
    },
    "handicappers": [
     {
@@ -3396,7 +3396,7 @@
     },
     {
      "id": "H2",
-     "public_case": "Projected points: Washington Commanders 23.1, Cincinnati Bengals 27.3. Availability: expected starting quarterbacks Jayden Daniels (WAS) and Joe Burrow (CIN). NFL.com official Week 11 injury report (checked Nov 17, 9:54 AM ET): not out yet, so no quarterback is ruled out.",
+     "public_case": "Projected points: Washington Commanders 23.1, Cincinnati Bengals 27.3. Availability: expected starting quarterbacks Jayden Daniels (WAS) and Joe Burrow (CIN). NFL.com official Week 11 injury report (checked Nov 23, 6:01 AM ET): neither starting quarterback has an injury designation.",
      "market": "spread",
      "best_bet": false
     },
@@ -3408,7 +3408,7 @@
     },
     {
      "id": "H4",
-     "public_case": "Spread opened Cincinnati Bengals −6.5 (Nov 17, 12:15 AM ET) and is Cincinnati Bengals −6.5 now (Nov 17, 9:53 AM ET), a 0-point move. Total opened 52.5 (Nov 17, 12:15 AM ET) and is 52.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+     "public_case": "Consensus spread opened Washington Commanders +6.5 (Nov 17, 12:15 AM ET) and is +6 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 52.5 (Nov 17, 12:15 AM ET) and is 54.5 now, a 2-point move: Over. The total pick quotes the consensus total now (54.5). Lines are the Action Network consensus as of Nov 23, 6:01 AM ET; the open is the first consensus line posted at or after Nov 17, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
      "market": "spread",
      "best_bet": false
     },
@@ -3425,10 +3425,10 @@
    },
    "sourced_reasons": [
     "Schedule, venue, TV: ESPN scoreboard, as of Nov 17, 9:53 AM ET; kickoff also matches Action Network's listed start time.",
-    "Lines: Action Network consensus line as of Nov 17, 9:53 AM ET.",
+    "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 23, 6:01 AM ET; Follow The Money uses the Action Network consensus line history.",
     "The Formula ratings: nflverse play-by-play as of Nov 17, 9:54 AM ET, Weeks 1–10 finals.",
     "The Formula total: nflverse game results, 2026 Weeks 1–10 finals.",
-    "Injuries: NFL.com official Week 11 injury report not out yet (checked Nov 17, 9:54 AM ET); Next Man Up uses each team’s last starter.",
+    "Injuries: NFL.com official Week 11 injury report (https://www.nfl.com/injuries/league/2026/reg11) and ESPN team injury updates, checked Nov 23, 6:01 AM ET; key players are noted in the Monday morning update.",
     "Follow The Money: move from the first consensus line at or after Nov 17, 12:15 AM ET (Action Network line history).",
     "Records and points: ESPN team pages, as of Nov 17, 9:53 AM ET.",
     "Next Man Up: 2026 game scores (nflverse game results); expected starting quarterbacks from nflverse play-by-play, the NFL.com Week 11 injury report and team announcements.",
@@ -3441,82 +3441,82 @@
     "label": "",
     "source": "Cover Writer",
     "projected_total": 50,
-    "market_total": 52.5,
+    "market_total": 54.5,
     "pick": "Under",
-    "text": "Under 52.5"
+    "text": "Under 54.5"
    },
    "display": {
     "writer": {
      "score_line": "Projected: Washington Commanders 23, Cincinnati Bengals 27 (Total 50)",
-     "side": "Washington Commanders +6.5",
-     "ou": "Under 52.5",
+     "side": "Washington Commanders +6",
+     "ou": "Under 54.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Washington Commanders +6.5 · Likes this side",
-      "ou_line": "O/U: Under 52.5 · Likes this total",
+      "side_line": "Side: Washington Commanders +6",
+      "ou_line": "O/U: Under 54.5 · Likes this total",
       "score_line": "Projected: Washington Commanders 23, Cincinnati Bengals 27 (Total 50)",
       "basis_line": "Net ratings Washington Commanders −3.9, Cincinnati Bengals 1.6 (nflverse play-by-play, Nov 17, 2026)",
       "independent": true,
-      "distance_from_spread": 2.5,
-      "distance_from_total": 2.5
+      "distance_from_spread": 2.0,
+      "distance_from_total": 4.5
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Washington Commanders +6.5",
-      "ou_line": "O/U: Under 52.5",
+      "side_line": "Side: Washington Commanders +6",
+      "ou_line": "O/U: Under 54.5 · Likes this total",
       "score_line": "Projected: Washington Commanders 23, Cincinnati Bengals 27 (Total 50)",
-      "basis_line": "Projected points: Washington Commanders 23.1, Cincinnati Bengals 27.3. Availability: expected starting quarterbacks Jayden Daniels (WAS) and Joe Burrow (CIN). NFL.com official Week 11 injury report (checked Nov 17, 9:54 AM ET): not out yet, so no quarterback is ruled out.",
+      "basis_line": "Projected points: Washington Commanders 23.1, Cincinnati Bengals 27.3. Availability: expected starting quarterbacks Jayden Daniels (WAS) and Joe Burrow (CIN). NFL.com official Week 11 injury report (checked Nov 23, 6:01 AM ET): neither starting quarterback has an injury designation.",
       "independent": true,
-      "distance_from_spread": 2.5,
-      "distance_from_total": 2.5
+      "distance_from_spread": 2.0,
+      "distance_from_total": 4.5
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Washington Commanders +6.5 · Likes this side",
-      "ou_line": "O/U: Under 52.5 · Likes this total",
+      "side_line": "Side: Washington Commanders +6",
+      "ou_line": "O/U: Under 54.5 · Likes this total",
       "score_line": "Projected: Washington Commanders 22, Cincinnati Bengals 26 (Total 48)",
       "basis_line": "Rest and travel: Cincinnati Bengals: 8 days since its last game, travels 411 miles; Washington Commanders: 11 days since its last game, plays at home. Projected: Bengals by 3.9, total 48.4.",
       "independent": true,
-      "distance_from_spread": 2.5,
-      "distance_from_total": 4.5
+      "distance_from_spread": 2.0,
+      "distance_from_total": 6.5
      },
      {
       "name": "Follow The Money",
       "side_line": "Side: no pick (not enough line movement)",
-      "ou_line": "O/U: no pick (not enough total movement)",
+      "ou_line": "O/U: Over 54.5 · Likes this total",
       "score_line": "No score of its own — reads the market (see the market line).",
-      "basis_line": "Spread opened Cincinnati Bengals −6.5 (Nov 17, 12:15 AM ET) and is Cincinnati Bengals −6.5 now (Nov 17, 9:53 AM ET), a 0-point move. Total opened 52.5 (Nov 17, 12:15 AM ET) and is 52.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Washington Commanders +6.5 (Nov 17, 12:15 AM ET) and is +6 now, a 0.5-point move. Follow The Money has no side pick. Consensus total opened 52.5 (Nov 17, 12:15 AM ET) and is 54.5 now, a 2-point move: Over. The total pick quotes the consensus total now (54.5). Lines are the Action Network consensus as of Nov 23, 6:01 AM ET; the open is the first consensus line posted at or after Nov 17, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": 0.5,
-      "distance_from_total": 0.5
+      "distance_from_total": 2.0
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Washington Commanders +6.5",
-      "ou_line": "O/U: Under 52.5",
+      "side_line": "Side: Washington Commanders +6",
+      "ou_line": "O/U: Under 54.5 · Likes this total",
       "score_line": "Projected: Washington Commanders 24, Cincinnati Bengals 28 (Total 52)",
       "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 10). Projected points: Washington Commanders 23.7, Cincinnati Bengals 28.3.",
       "independent": true,
-      "distance_from_spread": 2.5,
-      "distance_from_total": 0.5
+      "distance_from_spread": 2.0,
+      "distance_from_total": 2.5
      }
     ],
     "best_bets": [],
-    "story_text": "Stevie Wonder plays Songs in the Key of Life at Capital One Arena on Monday night at 8, fifteen minutes before kickoff in Landover, and my Bengals vs Commanders prediction has Washington staying close enough to justify skipping the show. Commanders +6.5 is my spread pick and Under 52.5 my over/under call, with Bengals 27, Commanders 23 the final.\n\nClaire Benton chose the game over the 50th anniversary concert, and Laura Kessel, in from Cincinnati, has not let her forget it.\n\nThe Formula: Net ratings Washington Commanders −3.9, Cincinnati Bengals 1.6 (nflverse play-by-play, Nov 17, 2026).\n\nCincinnati is 7-2, has won five straight, and just beat Pittsburgh 38-18 on Sunday night. Joe Burrow has 27 touchdown throws against six interceptions, and Ja'Marr Chase has 878 receiving yards. On defense, Boye Mafe has 6.5 sacks. The Bengals have scored 278 points, so there's no mystery about why they're laying points on the road. But Washington has had eleven days of rest after a 24-21 win against the Giants, Cincinnati has eight, and the Commanders have been better at home than on the road, 2-2-1 as the home team and 1-3 away.\n\nThis is the rare game where every card agrees. The Formula has Bengals 27, Commanders 23, Next Man Up has the same score, Letdown Watch has Bengals 26, Commanders 22, and In The Trenches has Bengals 28, Commanders 24. All four take Washington with the points and the Under 52.5. Follow The Money has no side and no total.\n\nThe Under starts with how high 52.5 sits. Washington has scored 196 points in nine games, and Jayden Daniels has thrown only ten touchdown passes, with Stefon Diggs catching six of them. Daniels also has 280 rushing yards, which keeps drives alive and the clock running. Cincinnati's defense has allowed 193, the kind of number that rarely comes with a track meet attached. The Bengals can score, but they've also won games 20-6 in Houston and 35-13 in Baltimore without needing a shootout. It'll be 48 degrees with some wind in Landover on Monday night, and that rarely helps an offense.\n\nBengals 27, Commanders 23 comes to 50, under 52.5, and a four-point Cincinnati win keeps Washington inside the 6.5. Claire will miss the concert for a loss, but not for a blowout, and in a 3-5-1 season she'll call that progress.\n\nBengals 27, Commanders 23. Commanders cover the 6.5. Under 52.5.",
+    "story_text": "Stevie Wonder plays Songs in the Key of Life at Capital One Arena on Monday night at 8, fifteen minutes before kickoff in Landover, and my Bengals vs Commanders prediction has Washington staying close enough to justify skipping the show. Commanders +6 is my spread pick and Under 54.5 my over/under call, with Bengals 27, Commanders 23 the final.\n\nClaire Benton chose the game over the 50th anniversary concert, and Laura Kessel, in from Cincinnati, has not let her forget it.\n\nThe Formula: Net ratings Washington Commanders −3.9, Cincinnati Bengals 1.6 (nflverse play-by-play, Nov 17, 2026).\n\nCincinnati is 7-2, has won five straight, and just beat Pittsburgh 38-18 on Sunday night. Joe Burrow has 27 touchdown throws against six interceptions, and Ja'Marr Chase has 878 receiving yards. On defense, Boye Mafe has 6.5 sacks. The Bengals have scored 278 points, so there's no mystery about why they're laying points on the road. But Washington has had eleven days of rest after a 24-21 win against the Giants, Cincinnati has eight, and the Commanders have been better at home than on the road, 2-2-1 as the home team and 1-3 away.\n\nMonday morning update: as of Nov 23, 6:01 AM ET, DraftKings has Bengals −6, total 54.5. This preview was written against Bengals −6.5, total 52.5, so the spread moved from Bengals −6.5 to Bengals −6 and the total rose from 52.5 to 54.5. The Cover Writer stays on Commanders +6 with Bengals 27, Commanders 23, because Bengals by 4 stays inside the 6. The Under holds, now 54.5, with 50 points. Official statuses (NFL.com Week 11 report, ESPN team updates, checked Nov 23, 6:01 AM ET): Bengals guard Dalton Risner and LB Oren Burks are out, and CB Dax Hill (illness) and S Kyle Dugger are questionable. Commanders tackle Laremy Tunsil is on injured reserve with a triceps injury, and RB Rachaad White, CB Amik Robertson and C Lucas Patrick are questionable. Joe Burrow and Jayden Daniels carry no injury designation.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Bengals −6.5 and is Bengals −6 now, and the consensus total opened 52.5 and is 54.5 now, so it has no side pick (no move of a full point) and takes the Over 54.5. The Formula: Bengals 27, Commanders 23 on net ratings. It stays on Commanders +6 (Bengals by 4 stays inside the 6) and stays on the Under, now 54.5 (50 points). Next Man Up: Bengals 27, Commanders 23 on who's playing. It stays on Commanders +6 (Bengals by 4 stays inside the 6) and stays on the Under, now 54.5 (50 points). Letdown Watch: Bengals 26, Commanders 22 on rest and travel. It stays on Commanders +6 (Bengals by 4 stays inside the 6) and stays on the Under, now 54.5 (48 points). In The Trenches: Bengals 28, Commanders 24 on the line of scrimmage. It stays on Commanders +6 (Bengals by 4 stays inside the 6) and stays on the Under, now 54.5 (52 points).\n\nThe Under starts with how high 54.5 sits. Washington has scored 196 points in nine games, and Jayden Daniels has thrown only ten touchdown passes, with Stefon Diggs catching six of them. Daniels also has 280 rushing yards, which keeps drives alive and the clock running. Cincinnati's defense has allowed 193, the kind of number that rarely comes with a track meet attached. The Bengals can score, but they've also won games 20-6 in Houston and 35-13 in Baltimore without needing a shootout. It'll be 48 degrees with some wind in Landover on Monday night, and that rarely helps an offense.\n\nBengals 27, Commanders 23 comes to 50, four and a half under 54.5, and a four-point Cincinnati win keeps Washington inside the 6. Claire will miss the concert for a loss, but not for a blowout, and in a 3-5-1 season she'll call that progress.\n\nBengals 27, Commanders 23. Commanders cover the 6. Under 54.5.",
     "fanatic_score_line": "Projected: Washington Commanders 23, Cincinnati Bengals 27",
     "market": {
-     "score_line": "Market: Washington Commanders 23, Cincinnati Bengals 30 (Total 53)",
-     "spread": "Cincinnati Bengals −6.5",
-     "total": "52.5",
-     "source": "Consensus line as of Nov 17, 9:53 AM ET",
+     "score_line": "Market: Washington Commanders 24, Cincinnati Bengals 30 (Total 54)",
+     "spread": "Cincinnati Bengals −6",
+     "total": "54.5",
+     "source": "ESPN game summary pickcenter (DraftKings), as of Nov 23, 6:01 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_story": "Claire Benton had two tickets for Monday night. One was for Stevie Wonder at Capital One Arena, Songs in the Key of Life in its entirety for the album's 50th anniversary, doors at seven, show at eight. The other was for the Commanders in Landover, kickoff at 8:15.\n\nShe can't be in both places. She has known this for weeks, and she has handled it the way any reasonable person would, by complaining about it to everyone she meets.\n\nLaura Kessel: You picked football.\n\nClaire: I picked football. Don't make me say it again.\n\nLaura drove in from Cincinnati for Cincinnati Bengals vs Washington Commanders in Week 11, and she has been trying very hard not to be smug about it. It isn't going well. The Bengals are 7-2 and have won five straight, the last one a 38-18 win against Pittsburgh on Sunday night, and Laura has been smiling at strangers on the street.\n\nJoe Burrow has 2,795 yards and 27 touchdown throws against six interceptions. Ja'Marr Chase has 64 catches for 878 yards and seven touchdowns. Chase Brown has 441 rushing yards. Boye Mafe has 6.5 sacks, and Barrett Carter has 74 tackles. Cincinnati has scored 278 points in nine games, and Laura can tell you where she was for most of them.\n\nLaura: Twenty-seven touchdowns, Claire.\n\nClaire: I heard you the first time. And the second.\n\nWashington is 3-5-1 and has had a strange season. The Commanders lost three of their first four, played to a 27-27 tie with the Giants in October, and have since beaten the Eagles at home and won 24-21 in New York on Thursday night. They've had eleven days since, and Claire has used every one of them to convince herself this is a turning point.\n\nJayden Daniels has 1,499 yards and ten touchdown throws against two interceptions, plus 280 yards on the ground, and Claire says watching him is the closest thing football has to a great live album. Stefon Diggs has six touchdown catches. Odafe Oweh has five sacks, and Sonny Styles has 80 tackles.\n\nClaire: We beat Seattle 33-31.\n\nLaura: In September.\n\nClaire: It still counts.\n\nThe album came out in 1976, went Diamond and won Album of the Year, and Claire has played it in her car on the way to every home game this season. \"Sir Duke\" for the drive in. \"As\" for the drive home, if things went well. She doesn't want to say what she plays if they didn't.\n\nLaura: So you'll miss the show for a team that's 3-5-1.\n\nClaire: I'll miss the show for my team. That's different.\n\nLaura respects that, even if she won't say so. Cincinnati fans know a thing or two about loyalty to a team that hasn't always earned it.\n\nThey'll sit together in the lower bowl, and Claire will have the Stevie Wonder T-shirt she bought for the concert she isn't going to on beneath her coat, a small act of loyalty to both of the things she loves. Laura has promised to keep her voice down. Nobody who knows Laura believes her.\n\nSomewhere downtown, around the third quarter, Stevie will play \"I Wish,\" and Claire will feel it in her bones without hearing a note. She won't regret her choice. Probably. Laura will be too busy watching Chase to notice either way.\n\nMy call: Bengals 27, Commanders 23."
    },
-   "gambler_story": "Stevie Wonder plays Songs in the Key of Life at Capital One Arena on Monday night at 8, fifteen minutes before kickoff in Landover, and my Bengals vs Commanders prediction has Washington staying close enough to justify skipping the show. Commanders +6.5 is my spread pick and Under 52.5 my over/under call, with Bengals 27, Commanders 23 the final.\n\nClaire Benton chose the game over the 50th anniversary concert, and Laura Kessel, in from Cincinnati, has not let her forget it.\n\nThe Formula: Net ratings Washington Commanders −3.9, Cincinnati Bengals 1.6 (nflverse play-by-play, Nov 17, 2026).\n\nCincinnati is 7-2, has won five straight, and just beat Pittsburgh 38-18 on Sunday night. Joe Burrow has 27 touchdown throws against six interceptions, and Ja'Marr Chase has 878 receiving yards. On defense, Boye Mafe has 6.5 sacks. The Bengals have scored 278 points, so there's no mystery about why they're laying points on the road. But Washington has had eleven days of rest after a 24-21 win against the Giants, Cincinnati has eight, and the Commanders have been better at home than on the road, 2-2-1 as the home team and 1-3 away.\n\nThis is the rare game where every card agrees. The Formula has Bengals 27, Commanders 23, Next Man Up has the same score, Letdown Watch has Bengals 26, Commanders 22, and In The Trenches has Bengals 28, Commanders 24. All four take Washington with the points and the Under 52.5. Follow The Money has no side and no total.\n\nThe Under starts with how high 52.5 sits. Washington has scored 196 points in nine games, and Jayden Daniels has thrown only ten touchdown passes, with Stefon Diggs catching six of them. Daniels also has 280 rushing yards, which keeps drives alive and the clock running. Cincinnati's defense has allowed 193, the kind of number that rarely comes with a track meet attached. The Bengals can score, but they've also won games 20-6 in Houston and 35-13 in Baltimore without needing a shootout. It'll be 48 degrees with some wind in Landover on Monday night, and that rarely helps an offense.\n\nBengals 27, Commanders 23 comes to 50, under 52.5, and a four-point Cincinnati win keeps Washington inside the 6.5. Claire will miss the concert for a loss, but not for a blowout, and in a 3-5-1 season she'll call that progress.\n\nBengals 27, Commanders 23. Commanders cover the 6.5. Under 52.5.",
+   "gambler_story": "Stevie Wonder plays Songs in the Key of Life at Capital One Arena on Monday night at 8, fifteen minutes before kickoff in Landover, and my Bengals vs Commanders prediction has Washington staying close enough to justify skipping the show. Commanders +6 is my spread pick and Under 54.5 my over/under call, with Bengals 27, Commanders 23 the final.\n\nClaire Benton chose the game over the 50th anniversary concert, and Laura Kessel, in from Cincinnati, has not let her forget it.\n\nThe Formula: Net ratings Washington Commanders −3.9, Cincinnati Bengals 1.6 (nflverse play-by-play, Nov 17, 2026).\n\nCincinnati is 7-2, has won five straight, and just beat Pittsburgh 38-18 on Sunday night. Joe Burrow has 27 touchdown throws against six interceptions, and Ja'Marr Chase has 878 receiving yards. On defense, Boye Mafe has 6.5 sacks. The Bengals have scored 278 points, so there's no mystery about why they're laying points on the road. But Washington has had eleven days of rest after a 24-21 win against the Giants, Cincinnati has eight, and the Commanders have been better at home than on the road, 2-2-1 as the home team and 1-3 away.\n\nMonday morning update: as of Nov 23, 6:01 AM ET, DraftKings has Bengals −6, total 54.5. This preview was written against Bengals −6.5, total 52.5, so the spread moved from Bengals −6.5 to Bengals −6 and the total rose from 52.5 to 54.5. The Cover Writer stays on Commanders +6 with Bengals 27, Commanders 23, because Bengals by 4 stays inside the 6. The Under holds, now 54.5, with 50 points. Official statuses (NFL.com Week 11 report, ESPN team updates, checked Nov 23, 6:01 AM ET): Bengals guard Dalton Risner and LB Oren Burks are out, and CB Dax Hill (illness) and S Kyle Dugger are questionable. Commanders tackle Laremy Tunsil is on injured reserve with a triceps injury, and RB Rachaad White, CB Amik Robertson and C Lucas Patrick are questionable. Joe Burrow and Jayden Daniels carry no injury designation.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Bengals −6.5 and is Bengals −6 now, and the consensus total opened 52.5 and is 54.5 now, so it has no side pick (no move of a full point) and takes the Over 54.5. The Formula: Bengals 27, Commanders 23 on net ratings. It stays on Commanders +6 (Bengals by 4 stays inside the 6) and stays on the Under, now 54.5 (50 points). Next Man Up: Bengals 27, Commanders 23 on who's playing. It stays on Commanders +6 (Bengals by 4 stays inside the 6) and stays on the Under, now 54.5 (50 points). Letdown Watch: Bengals 26, Commanders 22 on rest and travel. It stays on Commanders +6 (Bengals by 4 stays inside the 6) and stays on the Under, now 54.5 (48 points). In The Trenches: Bengals 28, Commanders 24 on the line of scrimmage. It stays on Commanders +6 (Bengals by 4 stays inside the 6) and stays on the Under, now 54.5 (52 points).\n\nThe Under starts with how high 54.5 sits. Washington has scored 196 points in nine games, and Jayden Daniels has thrown only ten touchdown passes, with Stefon Diggs catching six of them. Daniels also has 280 rushing yards, which keeps drives alive and the clock running. Cincinnati's defense has allowed 193, the kind of number that rarely comes with a track meet attached. The Bengals can score, but they've also won games 20-6 in Houston and 35-13 in Baltimore without needing a shootout. It'll be 48 degrees with some wind in Landover on Monday night, and that rarely helps an offense.\n\nBengals 27, Commanders 23 comes to 50, four and a half under 54.5, and a four-point Cincinnati win keeps Washington inside the 6. Claire will miss the concert for a loss, but not for a blowout, and in a 3-5-1 season she'll call that progress.\n\nBengals 27, Commanders 23. Commanders cover the 6. Under 54.5.",
    "fanatic_story": "Claire Benton had two tickets for Monday night. One was for Stevie Wonder at Capital One Arena, Songs in the Key of Life in its entirety for the album's 50th anniversary, doors at seven, show at eight. The other was for the Commanders in Landover, kickoff at 8:15.\n\nShe can't be in both places. She has known this for weeks, and she has handled it the way any reasonable person would, by complaining about it to everyone she meets.\n\nLaura Kessel: You picked football.\n\nClaire: I picked football. Don't make me say it again.\n\nLaura drove in from Cincinnati for Cincinnati Bengals vs Washington Commanders in Week 11, and she has been trying very hard not to be smug about it. It isn't going well. The Bengals are 7-2 and have won five straight, the last one a 38-18 win against Pittsburgh on Sunday night, and Laura has been smiling at strangers on the street.\n\nJoe Burrow has 2,795 yards and 27 touchdown throws against six interceptions. Ja'Marr Chase has 64 catches for 878 yards and seven touchdowns. Chase Brown has 441 rushing yards. Boye Mafe has 6.5 sacks, and Barrett Carter has 74 tackles. Cincinnati has scored 278 points in nine games, and Laura can tell you where she was for most of them.\n\nLaura: Twenty-seven touchdowns, Claire.\n\nClaire: I heard you the first time. And the second.\n\nWashington is 3-5-1 and has had a strange season. The Commanders lost three of their first four, played to a 27-27 tie with the Giants in October, and have since beaten the Eagles at home and won 24-21 in New York on Thursday night. They've had eleven days since, and Claire has used every one of them to convince herself this is a turning point.\n\nJayden Daniels has 1,499 yards and ten touchdown throws against two interceptions, plus 280 yards on the ground, and Claire says watching him is the closest thing football has to a great live album. Stefon Diggs has six touchdown catches. Odafe Oweh has five sacks, and Sonny Styles has 80 tackles.\n\nClaire: We beat Seattle 33-31.\n\nLaura: In September.\n\nClaire: It still counts.\n\nThe album came out in 1976, went Diamond and won Album of the Year, and Claire has played it in her car on the way to every home game this season. \"Sir Duke\" for the drive in. \"As\" for the drive home, if things went well. She doesn't want to say what she plays if they didn't.\n\nLaura: So you'll miss the show for a team that's 3-5-1.\n\nClaire: I'll miss the show for my team. That's different.\n\nLaura respects that, even if she won't say so. Cincinnati fans know a thing or two about loyalty to a team that hasn't always earned it.\n\nThey'll sit together in the lower bowl, and Claire will have the Stevie Wonder T-shirt she bought for the concert she isn't going to on beneath her coat, a small act of loyalty to both of the things she loves. Laura has promised to keep her voice down. Nobody who knows Laura believes her.\n\nSomewhere downtown, around the third quarter, Stevie will play \"I Wish,\" and Claire will feel it in her bones without hearing a note. She won't regret her choice. Probably. Laura will be too busy watching Chase to notice either way.\n\nMy call: Bengals 27, Commanders 23.",
    "fanatic_final_sentence": "Bengals 27, Commanders 23.",
    "preview_sources": [],
