@@ -1,6 +1,15 @@
 {
- "updated_utc": "2026-11-23T18:00:14Z",
+ "updated_utc": "2026-11-24T14:57:45Z",
  "weeks": [
+  {
+   "league": "nfl",
+   "date": "2026-11-22",
+   "label": "NFL, Week 11",
+   "path": "archive/nfl/2026-11-22/",
+   "games": "archive/nfl/2026-11-22/games.json",
+   "results": "archive/nfl/2026-11-22/results.json",
+   "status": "final"
+  },
   {
    "league": "college",
    "date": "2026-11-21",

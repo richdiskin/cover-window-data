@@ -1,0 +1,29 @@
+{
+ "league": "nfl",
+ "date": "2026-11-22",
+ "label": "NFL, Week 11",
+ "status": "final",
+ "archived_utc": "2026-11-24T14:57:45Z",
+ "finalized_utc": "2026-11-24T14:57:45Z",
+ "pending_games": [],
+ "files": {
+  "games.json": {
+   "bytes": 343445,
+   "source": "main@99043b3:nfl/games.json"
+  },
+  "monday.json": {
+   "bytes": 38397,
+   "source": "main@99043b3:nfl/monday.json"
+  },
+  "results.json": {
+   "bytes": 4423,
+   "source": "ESPN scoreboard 20261119,20261122,20261123"
+  },
+  "standings.json": {
+   "bytes": 266,
+   "source": "main@99043b3:nfl/standings.json"
+  }
+ },
+ "read_only": true,
+ "note": "Archived exactly as it was live. Open with the same game pages, read-only."
+}
