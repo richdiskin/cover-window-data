@@ -1,30 +1,53 @@
 {
  "status": "published",
  "league": "nfl",
- "date": "2026-11-15",
+ "date": "2026-11-22",
  "title": "Weekly Highlights",
- "header": "Highlights from the Handicap Recap (NFL, Week 10 | graded to the card line at kickoff)",
- "generated_at_utc": "2026-11-17T14:55:15Z",
- "source_note": "Scores and card lines from the graded archive archive/nfl/2026-11-15/; play details from ESPN play-by-play.",
+ "header": "Highlights from the Handicap Recap (NFL, Week 11 | graded to the card line at kickoff)",
+ "generated_at_utc": "2026-11-24T14:57:27Z",
+ "source_note": "Scores and card lines from the graded archive archive/nfl/2026-11-22/; play details from ESPN play-by-play.",
  "sections": [
   {
    "key": "closest_lucky_covers",
    "title": "Closest Lucky Covers",
    "items": [
     {
-     "game_id": "401873062",
-     "text": "Seattle Seahawks −6.5: covered by 1.5, won by 8 (Seattle Seahawks 21, Las Vegas Raiders 13).",
+     "game_id": "401873070",
+     "text": "Buffalo Bills −16.5: covered by 0.5, won by 17 (Buffalo Bills 26, Miami Dolphins 9).",
+     "colour": [
+      {
+       "text": "The cover for Buffalo Bills was settled by Tyler Bass's 28-yard field goal with 1:57 left in the fourth quarter.",
+       "espn_page": "https://www.espn.com/nfl/game/_/gameId/401873070",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873070"
+      }
+     ]
+    },
+    {
+     "game_id": "401873068",
+     "text": "Baltimore Ravens +3: covered by 1, lost by 2 (Carolina Panthers 35, Baltimore Ravens 33).",
+     "colour": [
+      {
+       "text": "Carolina Panthers took the lead for good on Ryan Fitzgerald's 37-yard field goal with 1:44 left in the fourth quarter.",
+       "espn_page": "https://www.espn.com/nfl/game/_/gameId/401873068",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873068"
+      }
+     ]
+    },
+    {
+     "game_id": "401873071",
+     "text": "New Orleans Saints +11.5: covered by 3.5, lost by 8 (Chicago Bears 21, New Orleans Saints 13).",
      "colour": []
     },
     {
-     "game_id": "401873063",
-     "text": "San Francisco 49ers −4.5: covered by 1.5, won by 6 (San Francisco 49ers 46, Dallas Cowboys 40).",
-     "colour": []
-    },
-    {
-     "game_id": "401873059",
-     "text": "Miami Dolphins +4.5: covered by 2.5, lost by 2 (Indianapolis Colts 24, Miami Dolphins 22).",
-     "colour": []
+     "game_id": "401873075",
+     "text": "Denver Broncos −10.5: covered by 3.5, won by 14 (Denver Broncos 38, Las Vegas Raiders 24).",
+     "colour": [
+      {
+       "text": "Denver Broncos scored on Ja'Quan McMillian's 35-yard interception-return touchdown with 1:52 left in the fourth quarter, which also settled the cover.",
+       "espn_page": "https://www.espn.com/nfl/game/_/gameId/401873075",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873075"
+      }
+     ]
     }
    ]
   },
@@ -33,29 +56,29 @@
    "title": "Heartbreaking Misses & Near-Covers",
    "items": [
     {
-     "game_id": "401873055",
-     "text": "New Orleans Saints −1.5: beaten on the final play, lost by 3 (Carolina Panthers 20, New Orleans Saints 17), missed by 4.5.",
+     "game_id": "401873078",
+     "text": "Cincinnati Bengals −6: beaten on the final play, lost by 2 (Washington Commanders 22, Cincinnati Bengals 20), missed by 8.",
      "colour": [
       {
-       "text": "Carolina Panthers won it on Ryan Fitzgerald's 54-yard field goal on the final play.",
-       "espn_page": "https://www.espn.com/nfl/game/_/gameId/401873055",
-       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873055"
+       "text": "Washington Commanders won it on Drew Stevens's 26-yard field goal on the final play.",
+       "espn_page": "https://www.espn.com/nfl/game/_/gameId/401873078",
+       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873078"
       }
      ]
     },
     {
-     "game_id": "401873062",
-     "text": "Las Vegas Raiders +6.5: missed by 1.5, lost by 8 (Seattle Seahawks 21, Las Vegas Raiders 13). The other side of a cover listed above.",
+     "game_id": "401873070",
+     "text": "Miami Dolphins +16.5: missed by 0.5, lost by 17 (Buffalo Bills 26, Miami Dolphins 9). The other side of a cover listed above.",
      "colour": []
     },
     {
-     "game_id": "401873063",
-     "text": "Dallas Cowboys +4.5: missed by 1.5, lost by 6 (San Francisco 49ers 46, Dallas Cowboys 40). The other side of a cover listed above.",
+     "game_id": "401873068",
+     "text": "Carolina Panthers −3: missed by 1, won by 2 (Carolina Panthers 35, Baltimore Ravens 33). The other side of a cover listed above.",
      "colour": []
     },
     {
-     "game_id": "401873058",
-     "text": "Kansas City Chiefs–Atlanta Falcons: finished with 48 against a total of 47.5, so the Over got there by 0.5.",
+     "game_id": "401873067",
+     "text": "Arizona Cardinals–Kansas City Chiefs: finished with 41 against a total of 40.5, so the Over got there by 0.5.",
      "colour": []
     }
    ]
@@ -65,33 +88,33 @@
    "title": "Wildest Scoring",
    "items": [
     {
-     "game_id": "401873063",
-     "text": "San Francisco 49ers 46, Dallas Cowboys 40: 86 points (total 55.5; San Francisco 49ers −4.5 covered by 1.5).",
+     "game_id": "401873073",
+     "text": "Dallas Cowboys 51, Tennessee Titans 30: 81 points (total 54.5; Dallas Cowboys −7.5 covered by 13.5).",
      "colour": []
     },
     {
-     "game_id": "401873057",
-     "text": "Jacksonville Jaguars 40, Tennessee Titans 23: 63 points (total 46.5; Jacksonville Jaguars −10.5 covered by 6.5).",
+     "game_id": "401873068",
+     "text": "Carolina Panthers 35, Baltimore Ravens 33: 68 points (total 43.5; Baltimore Ravens +3 covered by 1).",
      "colour": []
     },
     {
-     "game_id": "401873064",
-     "text": "Cincinnati Bengals 38, Pittsburgh Steelers 18: 56 points (total 49.5; Cincinnati Bengals −3.5 covered by 16.5).",
+     "game_id": "401873075",
+     "text": "Denver Broncos 38, Las Vegas Raiders 24: 62 points (total 41.5; Denver Broncos −10.5 covered by 3.5).",
      "colour": []
     },
     {
-     "game_id": "401873056",
-     "text": "Cleveland Browns 27, Houston Texans 24: 51 points (total 40.5; Cleveland Browns +4.5 covered by 7.5).",
+     "game_id": "401873072",
+     "text": "Detroit Lions 31, Tampa Bay Buccaneers 21: 52 points (total 47.5; Detroit Lions −3.5 covered by 6.5).",
      "colour": []
     },
     {
-     "game_id": "401873058",
-     "text": "Kansas City Chiefs 35, Atlanta Falcons 13: 48 points (total 47.5; Kansas City Chiefs −3 covered by 19).",
+     "game_id": "401873074",
+     "text": "New York Jets 27, Los Angeles Chargers 24: 51 points (total 41.5; New York Jets +3 covered by 6).",
      "colour": []
     }
    ]
   }
  ],
  "closer": "1 total landed a half point from the number and 1 was won on the final play of regulation. No side landed on the number.",
- "archive_path": "archive/nfl/2026-11-15/"
+ "archive_path": "archive/nfl/2026-11-22/"
 }

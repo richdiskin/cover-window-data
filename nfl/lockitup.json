@@ -3,8 +3,8 @@
  "feature": "Lock It Up",
  "league": "nfl",
  "season": 2026,
- "week": 11,
- "slate": "Sunday, Nov 22, 2026",
+ "week": 12,
+ "slate": "Sunday, Nov 29, 2026",
  "edition": "gambler",
  "gambler_only": true,
  "inputs_as_of": null,
@@ -19,5 +19,5 @@
  "sources": [],
  "sponsor": null,
  "status": "not_posted",
- "note": "NFL Week 11 Lock It Up is not posted yet. Headline, dek and body are empty, so the app treats this file as empty and hides the Lock It Up entry; no Week 10 content shows next to the Week 11 cards."
+ "note": "NFL Week 12 Lock It Up is not posted yet. Headline, dek and body are empty, so the app treats this file as empty and hides the Lock It Up entry; no Week 11 content shows next to the Week 12 cards."
 }
