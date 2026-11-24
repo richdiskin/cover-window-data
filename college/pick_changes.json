@@ -4366,5 +4366,31 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401866470",
+  "league": "college",
+  "handicapper": "Letdown Watch",
+  "market": "total",
+  "original": {
+   "pick": "Over 45.5",
+   "line": 45.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Under 46.5",
+   "line": 46.5
+  },
+  "changed_at": "2026-11-24T11:30:00Z",
+  "kickoff": "2026-11-25T00:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Kent State at Eastern Michigan moved from 45.5 to 46.5 at 2:48 PM ET Monday Nov 23, and it was still 46.5 at the 6:23 AM ET check Tuesday Nov 24, so Letdown Watch's projection of Eastern Michigan 28, Kent State 18 (46 points) now sits under the number and the fresh rerun turns the card from Over 45.5 into Under 46.5.",
+   "source": "Action Network consensus line history, Kent State at Eastern Michigan (book 15): https://api.actionnetwork.com/web/v2/markets/event/290200/history?bookIds=15 (checked Nov 24, 2026, 6:23 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290200/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
