@@ -4392,5 +4392,83 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401866470",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": -5.5,
+   "made_at": "2026-11-24T16:36:05Z"
+  },
+  "final": {
+   "pick": "Eastern Michigan Eagles −6.5",
+   "line": -6.5
+  },
+  "changed_at": "2026-11-24T22:25:00Z",
+  "kickoff": "2026-11-25T00:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for Kent State at Eastern Michigan opened Eastern Michigan Eagles −5.5 at 10:12 AM ET Tuesday Nov 24 and moved to −6.5 at 3:12 PM ET, and it was still −6.5 at the 5:17 PM ET check, a 1-point move, so Follow The Money turns the card from no pick into Eastern Michigan Eagles −6.5. The consensus total is still 46.5, so there is no total pick.",
+   "source": "Action Network consensus line history, Kent State at Eastern Michigan (book 15): https://api.actionnetwork.com/web/v2/markets/event/290200/history?bookIds=15 (checked Nov 24, 2026, 5:17 PM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290200/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401866471",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": -6.5,
+   "made_at": "2026-11-24T11:20:20Z"
+  },
+  "final": {
+   "pick": "Miami (OH) RedHawks +4.5",
+   "line": 4.5
+  },
+  "changed_at": "2026-11-24T22:25:00Z",
+  "kickoff": "2026-11-25T00:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for Miami (OH) at Western Michigan opened Western Michigan Broncos −6.5 at 12:11 AM ET Tuesday Nov 24 and is −4.5 now (last tick 3:31 PM ET), a 2-point move toward Miami (OH), so Follow The Money turns the card from no pick into Miami (OH) RedHawks +4.5. The consensus total is still 45.5, so there is no total pick.",
+   "source": "Action Network consensus line history, Miami (OH) at Western Michigan (book 15): https://api.actionnetwork.com/web/v2/markets/event/290201/history?bookIds=15 (checked Nov 24, 2026, 5:17 PM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290201/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401866471",
+  "league": "college",
+  "handicapper": "The Formula",
+  "market": "side",
+  "original": {
+   "pick": "Miami (OH) RedHawks +6.5",
+   "line": 6.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Western Michigan Broncos −4.5",
+   "line": -4.5
+  },
+  "changed_at": "2026-11-24T22:25:00Z",
+  "kickoff": "2026-11-25T00:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The Action Network consensus spread for Miami (OH) at Western Michigan moved from Western Michigan Broncos −6.5 to −4.5; The Formula's unchanged projection of Western Michigan Broncos 28, Miami (OH) RedHawks 22 (Western Michigan by 6) now covers −4.5 by 1.5 and no longer covers as Miami (OH) RedHawks +6.5, so the fresh rerun turns the card from Miami (OH) RedHawks +6.5 into Western Michigan Broncos −4.5.",
+   "source": "Action Network consensus line history, Miami (OH) at Western Michigan (book 15): https://api.actionnetwork.com/web/v2/markets/event/290201/history?bookIds=15 (checked Nov 24, 2026, 5:17 PM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290201/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
