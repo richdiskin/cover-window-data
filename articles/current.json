@@ -4,9 +4,223 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-11-23T05:33:14Z",
-  "count": 160,
+  "count": 162,
   "lead_id": null,
   "articles": [
+    {
+      "id": "fanatic_team-wsh",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "wsh",
+      "team_ids": [
+        "wsh"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873078",
+      "title": "Washington Commanders vs Cincinnati Bengals Week 11: Daniels, Williams, Stevens Walk It Off, 22-20",
+      "byline": "",
+      "matchup": "Final: Washington Commanders (4-5-1) 22, Cincinnati Bengals (7-3) 20, Mon., Nov. 23, Northwest Stadium, Landover. Next: at Arizona Cardinals, Sun., Nov. 29, 4:25 PM ET, State Farm Stadium, Glendale",
+      "date": "2026-11-23",
+      "word_count": 437,
+      "text": "Washington Commanders 22, Cincinnati Bengals 20, and Drew Stevens put it through from 26 yards with zero on the clock in Landover. The team asked for a blackout to go with the debut of the all-black Hail Raiser uniforms, and the stadium took it literally. Early in the third quarter, with us in the red zone, the lights went out for about four minutes.\n\nStevens came back from the dark and hit from 36 to tie it 10-10. He went five for five for 16 points, and every kick mattered.\n\nThe first half was a slog in the rain. Boye Mafe sacked Jayden Daniels three times, and Cincinnati led 10-0 after Tee Higgins got behind us for a 31-yard touchdown with 1:55 left before halftime. Daniels answered right away. He hit Treylon Burks for 17, scrambled for 10, found Chig Okonkwo for 32 down to the 6, and Jacory Croskey-Merritt banged it in from the 1 with 12 seconds left. 10-7, and the building was back.\n\nDaniels opened the second half by taking off on a 47-yard scramble to the 14. Then the blackout nobody planned, then Stevens. Joe Burrow came right back with a 4-yard touchdown to Colbie Young, 17-10, and Stevens kept chipping away: 40 yards for 17-13, 25 yards for 17-16.\n\nWith 2:26 left, on fourth-and-1, Dan Quinn sent the field goal team out instead of going for it. Stevens made it from 41, 19-17, and my stomach still dropped. Sure enough, Burrow hit Mike Gesicki for 32, and even after Nick Cross and Kain Medrano split a sack, Evan McPherson banged home a 56-yarder with 46 seconds left. 20-19 Cincinnati.\n\nNo timeouts, 39 seconds. Daniels found rookie Antonio Williams down the middle for 22, spiked it, then hit him again for 42 to the Cincinnati 8. Spike with five seconds left. Stevens. Ballgame. The rookie finished with nine catches for 122 yards, and this town knows his name now.\n\nThe defense earned this one too. Cincinnati walked in having scored 31 or more in five straight games, and we held them to 20. Ja'Marr Chase and Higgins combined for seven catches and 74 yards. The Bengals ran 14 times for 31 yards. Frankie Luvu made 12 tackles, Tim Settle had a sack and a half, and Rasul Douglas broke up two throws.\n\nWe ran for 150 yards and outgained them 428 to 312. We're 4-5-1, two games behind the Giants in the NFC East, and very much alive. Next up: at the Arizona Cardinals, Sunday, Nov. 29, 4:25 PM ET, State Farm Stadium, Glendale. Keep the black gear handy. Hail to the Commanders.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Washington Commanders 22, Cincinnati Bengals 20, and Drew Stevens put it through from 26 yards with zero on the clock in Landover. The team asked for a blackout to go with the debut of the all-black Hail Raiser uniforms, and the stadium took it literally. Early in the third quarter, with us in the red zone, the lights went out for about four minutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stevens came back from the dark and hit from 36 to tie it 10-10. He went five for five for 16 points, and every kick mattered."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first half was a slog in the rain. Boye Mafe sacked Jayden Daniels three times, and Cincinnati led 10-0 after Tee Higgins got behind us for a 31-yard touchdown with 1:55 left before halftime. Daniels answered right away. He hit Treylon Burks for 17, scrambled for 10, found Chig Okonkwo for 32 down to the 6, and Jacory Croskey-Merritt banged it in from the 1 with 12 seconds left. 10-7, and the building was back."
+        },
+        {
+          "type": "paragraph",
+          "text": "Daniels opened the second half by taking off on a 47-yard scramble to the 14. Then the blackout nobody planned, then Stevens. Joe Burrow came right back with a 4-yard touchdown to Colbie Young, 17-10, and Stevens kept chipping away: 40 yards for 17-13, 25 yards for 17-16."
+        },
+        {
+          "type": "paragraph",
+          "text": "With 2:26 left, on fourth-and-1, Dan Quinn sent the field goal team out instead of going for it. Stevens made it from 41, 19-17, and my stomach still dropped. Sure enough, Burrow hit Mike Gesicki for 32, and even after Nick Cross and Kain Medrano split a sack, Evan McPherson banged home a 56-yarder with 46 seconds left. 20-19 Cincinnati."
+        },
+        {
+          "type": "paragraph",
+          "text": "No timeouts, 39 seconds. Daniels found rookie Antonio Williams down the middle for 22, spiked it, then hit him again for 42 to the Cincinnati 8. Spike with five seconds left. Stevens. Ballgame. The rookie finished with nine catches for 122 yards, and this town knows his name now."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense earned this one too. Cincinnati walked in having scored 31 or more in five straight games, and we held them to 20. Ja'Marr Chase and Higgins combined for seven catches and 74 yards. The Bengals ran 14 times for 31 yards. Frankie Luvu made 12 tackles, Tim Settle had a sack and a half, and Rasul Douglas broke up two throws."
+        },
+        {
+          "type": "paragraph",
+          "text": "We ran for 150 yards and outgained them 428 to 312. We're 4-5-1, two games behind the Giants in the NFC East, and very much alive. Next up: at the Arizona Cardinals, Sunday, Nov. 29, 4:25 PM ET, State Farm Stadium, Glendale. Keep the black gear handy. Hail to the Commanders."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Washington Commanders beat the Cincinnati Bengals 22-20 on Monday, Nov. 23, at Northwest Stadium. Washington is 4-5-1."
+        },
+        {
+          "type": "fact",
+          "text": "Jayden Daniels hit Antonio Williams for 22 and 42 yards in the final 39 seconds, and Drew Stevens kicked a 26-yard field goal as time expired."
+        },
+        {
+          "type": "fact",
+          "text": "Stevens made all five field goals for 16 points, and Williams finished with nine catches for 122 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Cincinnati scored 31 or more five weeks running. Then it came to Landover and found 20."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Arizona Cardinals, Sunday, Nov. 29, 4:25 PM ET, State Farm Stadium, Glendale."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Commanders 22, Bengals 20 (Nov. 23, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873078"
+        },
+        {
+          "label": "ESPN play-by-play, Bengals at Commanders (Nov. 23, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873078"
+        },
+        {
+          "label": "ESPN game page, Bengals at Commanders (Nov. 23, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873078"
+        },
+        {
+          "label": "ESPN Commanders schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/wsh/washington-commanders"
+        },
+        {
+          "label": "ESPN game recap (AP), Commanders 22, Bengals 20 (Nov. 23, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873078"
+        },
+        {
+          "label": "Commanders.com: Commanders excited to play in all-black Hail Raiser uniforms (Nov. 20, 2026)",
+          "url": "https://www.commanders.com/news/commanders-hail-raisers-black-uniforms-bengals-monday-night-football"
+        },
+        {
+          "label": "Commanders.com: Raucous “Hail Raiser” fan environment can make big difference against Bengals (Nov. 21, 2026)",
+          "url": "https://www.commanders.com/news/raucous-hail-raiser-fan-environment-can-make-big-difference-against-bengals"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-cin",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "cin",
+      "team_ids": [
+        "cin"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873078",
+      "title": "Cincinnati Bengals vs Washington Commanders Week 11: Stevens Beats Us at the Gun, 20-22",
+      "byline": "",
+      "matchup": "Final: Washington Commanders (4-5-1) 22, Cincinnati Bengals (7-3) 20, Mon., Nov. 23, Northwest Stadium, Landover. Next: vs New Orleans Saints, Sun., Nov. 29, 1:00 PM ET, Paycor Stadium, Cincinnati",
+      "date": "2026-11-23",
+      "word_count": 448,
+      "text": "Drew Stevens kicked a 26-yard field goal with zero on the clock, the Washington Commanders beat the Cincinnati Bengals 22-20 in Landover, and our five-game winning streak is dead. Back home, the Cincinnati Zoo had five million lights burning for the 44th PNC Festival of Lights on Monday night. Down in Maryland, Washington needed 39 seconds to turn ours off.\n\nWe scored 31 or more in every one of those five wins, and this one ended at 20. It was wet, it was ugly early, and Joe Burrow got sacked on the very first snap. Our first four drives produced three points, a 38-yard Evan McPherson field goal at the end of a 15-play grind.\n\nThen Burrow found his rhythm. On third-and-11, Samaje Perine took a short throw 44 yards, and two plays later Tee Higgins hauled in a 31-yard touchdown down the left side with 1:55 left in the half. 10-0. Then we let them breathe. Washington went 79 yards in 1:43, a Dax Hill interference flag put the ball at the 1, and Jacory Croskey-Merritt plowed in with 12 seconds left. 10-7 at the break.\n\nJayden Daniels opened the third with a 47-yard scramble, and Stevens tied it 10-10. Our answer was the best drive of the night: 66 yards in eight plays, Mike Gesicki grabbing balls of 19 and 9 yards in the middle of the field, and Burrow flipping a 4-yarder to Colbie Young for the touchdown. 17-10.\n\nThat was our last touchdown. Stevens kicked from 40 and 25 to make it 17-16, we went three-and-out and then punted again, and with 2:26 left he hit from 41. Washington 19-17.\n\nBurrow didn't blink. Higgins for 12, Gesicki for 32, and after a sack shoved us back to the 37, McPherson drilled a 56-yarder with 46 seconds left. 20-19. That's a grown-man kick on the road.\n\nAnd then the defense that sacked Daniels three times, all three by Boye Mafe, gave up 64 yards on two throws. Antonio Williams caught one for 22 down the middle and another for 42 to our 8, Daniels spiked it with five seconds left, and Stevens finished us. The rookie had nine catches for 122 yards, and nobody on our side could find him.\n\nBurrow went 28 of 40 for 300 yards and two touchdowns with no interceptions, and he deserved better. Ja'Marr Chase got 31 yards on five catches from nine targets. We ran 14 times for 31 yards while Washington ran for 150. That's the ballgame.\n\nWe're 7-3 and still on top of the AFC North. Next up: the New Orleans Saints at Paycor Stadium, Sunday, Nov. 29, 1:00 PM ET. Get home, get loud, Who Dey.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Drew Stevens kicked a 26-yard field goal with zero on the clock, the Washington Commanders beat the Cincinnati Bengals 22-20 in Landover, and our five-game winning streak is dead. Back home, the Cincinnati Zoo had five million lights burning for the 44th PNC Festival of Lights on Monday night. Down in Maryland, Washington needed 39 seconds to turn ours off."
+        },
+        {
+          "type": "paragraph",
+          "text": "We scored 31 or more in every one of those five wins, and this one ended at 20. It was wet, it was ugly early, and Joe Burrow got sacked on the very first snap. Our first four drives produced three points, a 38-yard Evan McPherson field goal at the end of a 15-play grind."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Burrow found his rhythm. On third-and-11, Samaje Perine took a short throw 44 yards, and two plays later Tee Higgins hauled in a 31-yard touchdown down the left side with 1:55 left in the half. 10-0. Then we let them breathe. Washington went 79 yards in 1:43, a Dax Hill interference flag put the ball at the 1, and Jacory Croskey-Merritt plowed in with 12 seconds left. 10-7 at the break."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jayden Daniels opened the third with a 47-yard scramble, and Stevens tied it 10-10. Our answer was the best drive of the night: 66 yards in eight plays, Mike Gesicki grabbing balls of 19 and 9 yards in the middle of the field, and Burrow flipping a 4-yarder to Colbie Young for the touchdown. 17-10."
+        },
+        {
+          "type": "paragraph",
+          "text": "That was our last touchdown. Stevens kicked from 40 and 25 to make it 17-16, we went three-and-out and then punted again, and with 2:26 left he hit from 41. Washington 19-17."
+        },
+        {
+          "type": "paragraph",
+          "text": "Burrow didn't blink. Higgins for 12, Gesicki for 32, and after a sack shoved us back to the 37, McPherson drilled a 56-yarder with 46 seconds left. 20-19. That's a grown-man kick on the road."
+        },
+        {
+          "type": "paragraph",
+          "text": "And then the defense that sacked Daniels three times, all three by Boye Mafe, gave up 64 yards on two throws. Antonio Williams caught one for 22 down the middle and another for 42 to our 8, Daniels spiked it with five seconds left, and Stevens finished us. The rookie had nine catches for 122 yards, and nobody on our side could find him."
+        },
+        {
+          "type": "paragraph",
+          "text": "Burrow went 28 of 40 for 300 yards and two touchdowns with no interceptions, and he deserved better. Ja'Marr Chase got 31 yards on five catches from nine targets. We ran 14 times for 31 yards while Washington ran for 150. That's the ballgame."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 7-3 and still on top of the AFC North. Next up: the New Orleans Saints at Paycor Stadium, Sunday, Nov. 29, 1:00 PM ET. Get home, get loud, Who Dey."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Cincinnati Bengals lost 22-20 to the Washington Commanders on Monday, Nov. 23, at Northwest Stadium. The Bengals are 7-3."
+        },
+        {
+          "type": "fact",
+          "text": "Joe Burrow threw for 300 yards and touchdowns to Tee Higgins and Colbie Young, and Evan McPherson hit a 56-yard field goal with 46 seconds left."
+        },
+        {
+          "type": "fact",
+          "text": "Drew Stevens made all five of his field goals, the last from 26 yards as time expired, and a five-game winning streak ended."
+        },
+        {
+          "type": "jab",
+          "text": "Boye Mafe sacked Daniels three times by himself. Shame nobody else showed up for the last 39 seconds."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs New Orleans Saints, Sunday, Nov. 29, 1:00 PM ET, Paycor Stadium, Cincinnati."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Commanders 22, Bengals 20 (Nov. 23, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873078"
+        },
+        {
+          "label": "ESPN play-by-play, Bengals at Commanders (Nov. 23, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873078"
+        },
+        {
+          "label": "ESPN game page, Bengals at Commanders (Nov. 23, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873078"
+        },
+        {
+          "label": "ESPN Bengals schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/cin/cincinnati-bengals"
+        },
+        {
+          "label": "ESPN game recap (AP), Commanders 22, Bengals 20 (Nov. 23, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873078"
+        },
+        {
+          "label": "Cincinnati Zoo & Botanical Garden: The 44th Annual PNC Festival of Lights Opens This Week (Nov. 17, 2026)",
+          "url": "https://cincinnatizoo.org/the-44th-annual-pnc-festival-of-lights-opens-this-week-at-the-cincinnati-zoo/"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
     {
       "id": "fanatic_team-lac",
       "kind": "fanatic_team",
