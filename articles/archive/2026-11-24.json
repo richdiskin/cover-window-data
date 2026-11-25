@@ -1,0 +1,407 @@
+{
+  "schema": 1,
+  "date": "2026-11-24",
+  "theme": "mmqb",
+  "theme_label": "Monday Morning Quarterback",
+  "published_at": "2026-11-25T05:32:33Z",
+  "count": 4,
+  "lead_id": "fanatic_team-miami-oh",
+  "articles": [
+    {
+      "id": "fanatic_team-miami-oh",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "miami-oh",
+      "team_ids": [
+        "miami-oh"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866471",
+      "title": "Miami (OH) vs Western Michigan: Bellisari Accounts for Four, Wins 28-24",
+      "byline": "Cordelia Van Doren, The Miami (OH) Fanatic",
+      "matchup": "Final: Miami (OH) RedHawks (8-4) 28, Western Michigan Broncos (8-4) 24, Tue., Nov. 24, Waldo Stadium, Kalamazoo. Regular season complete",
+      "date": "2026-11-24",
+      "word_count": 356,
+      "text": "Miami (OH) 28, Western Michigan 24, and true freshman Drew Bellisari had a hand in all four of our touchdowns on a 32-degree night in Kalamazoo. He threw two, ran for two, and Amariyun Knighten intercepted Broc Lowry in the end zone with 20 seconds left to finish it. We're 8-4, 6-2 in the MAC, and our title-game hopes are still alive.\n\nIn Oxford, Goggin Ice Center opens its Thanksgiving Holiday Skate on Wednesday at 3:15, eight bucks with free skate rental. I'm taking laps on that rink with my arms up. Western Michigan can keep the free tickets. We took the win.\n\nBellisari didn't play like a freshman for one second. He hit Maleek Huggins for 33 and Scoop Smith for a 31-yard touchdown on our first drive. Next time out he ran for 31 and found Brendan Loftus from 14. 14-3 after one quarter. Malcolm McCain intercepted Lowry at our 12 in the second, and we took the 11-point margin to the locker room.\n\nWestern Michigan came out of the half running hard. Jalen Buckley broke a 44-yarder and scored from the 3, 14-10. Bellisari answered on third-and-19, hitting Huggins for 31, then kept it himself for an 18-yard touchdown, 21-10. The Broncos scored again, and later Pierse Stainton turned a punt into a 19-yard run. That's a coaching staff that trusts its guys.\n\nThe fourth got tense. Cole Cabana broke a 41-yarder, Buckley scored from 23, and the two-point try made it 24-21 Broncos with 8:02 left. Our answer took four plays. An interference flag got us 15, D'Shawntae Jones ran for 25 on third-and-5, and Bellisari scored from 12 at 5:40. Brady Stidham's kick made it 28-24.\n\nThen the defense had to hold up for 14 plays. Western Michigan ran for 297 yards and got to our 5. Zhaiylen Scott, who made 10 tackles, helped stuff Buckley for no gain on second down. On the next snap, Knighten caught Lowry's throw in the end zone.\n\nBellisari threw for 214 yards and ran for 93. Huggins caught four for 77. We had zero turnovers and took two away. Bring on Wednesday at Goggin.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Miami (OH) 28, Western Michigan 24, and true freshman Drew Bellisari had a hand in all four of our touchdowns on a 32-degree night in Kalamazoo. He threw two, ran for two, and Amariyun Knighten intercepted Broc Lowry in the end zone with 20 seconds left to finish it. We're 8-4, 6-2 in the MAC, and our title-game hopes are still alive."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Oxford, Goggin Ice Center opens its Thanksgiving Holiday Skate on Wednesday at 3:15, eight bucks with free skate rental. I'm taking laps on that rink with my arms up. Western Michigan can keep the free tickets. We took the win."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bellisari didn't play like a freshman for one second. He hit Maleek Huggins for 33 and Scoop Smith for a 31-yard touchdown on our first drive. Next time out he ran for 31 and found Brendan Loftus from 14. 14-3 after one quarter. Malcolm McCain intercepted Lowry at our 12 in the second, and we took the 11-point margin to the locker room."
+        },
+        {
+          "type": "paragraph",
+          "text": "Western Michigan came out of the half running hard. Jalen Buckley broke a 44-yarder and scored from the 3, 14-10. Bellisari answered on third-and-19, hitting Huggins for 31, then kept it himself for an 18-yard touchdown, 21-10. The Broncos scored again, and later Pierse Stainton turned a punt into a 19-yard run. That's a coaching staff that trusts its guys."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fourth got tense. Cole Cabana broke a 41-yarder, Buckley scored from 23, and the two-point try made it 24-21 Broncos with 8:02 left. Our answer took four plays. An interference flag got us 15, D'Shawntae Jones ran for 25 on third-and-5, and Bellisari scored from 12 at 5:40. Brady Stidham's kick made it 28-24."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the defense had to hold up for 14 plays. Western Michigan ran for 297 yards and got to our 5. Zhaiylen Scott, who made 10 tackles, helped stuff Buckley for no gain on second down. On the next snap, Knighten caught Lowry's throw in the end zone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bellisari threw for 214 yards and ran for 93. Huggins caught four for 77. We had zero turnovers and took two away. Bring on Wednesday at Goggin."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Miami (OH) beat Western Michigan 28-24 on Tuesday, Nov. 24, at Waldo Stadium. The RedHawks finish the regular season 8-4, 6-2 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "True freshman Drew Bellisari threw touchdowns to Scoop Smith and Brendan Loftus and ran for scores of 18 and 12 yards, the last at 5:40 for the winning points."
+        },
+        {
+          "type": "fact",
+          "text": "Amariyun Knighten intercepted Broc Lowry in the end zone with 20 seconds left after a 14-play Western Michigan drive reached the Miami 5."
+        },
+        {
+          "type": "jab",
+          "text": "Kalamazoo gave away the tickets, and Miami took home the only prize worth keeping."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Miami (OH) 28, Western Michigan 24 (Nov. 24, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866471"
+        },
+        {
+          "label": "ESPN play-by-play, Miami (OH) at Western Michigan (Nov. 24, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866471"
+        },
+        {
+          "label": "ESPN game page, Miami (OH) at Western Michigan (Nov. 24, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866471"
+        },
+        {
+          "label": "ESPN Miami (OH) RedHawks 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/193"
+        },
+        {
+          "label": "Miami University Athletics: Football vs Western Michigan on 11/24/2026, box score",
+          "url": "https://miamiredhawks.com/sports/football/stats/2026/western-michigan/boxscore/20847"
+        },
+        {
+          "label": "Mid-American Conference: RedHawks Defeat Broncos to Stay Alive in Title Game Hunt (Nov. 25, 2026)",
+          "url": "https://getsomemaction.com/news/2026/11/25/football-redhawks-defeat-broncos-to-stay-in-title-game-mix.aspx"
+        },
+        {
+          "label": "Mitten Football: Recap: Miami (OH) hangs on for 28-24 win in major blow to Western Michigan MAC title hopes (Nov. 24, 2026)",
+          "url": "https://www.mittenfootball.com/live-updates-western-michigan-hosts-miami-oh-closing-in-on-repeat-mac-title-berth/"
+        },
+        {
+          "label": "Miami University Calendar: Thanksgiving Holiday Skate, Goggin Ice Center, Oxford (Nov. 25-29, 2026)",
+          "url": "https://events.miamioh.edu/event/thanksgiving-holiday-skate"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-western-michigan",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "western-michigan",
+      "team_ids": [
+        "western-michigan"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866471",
+      "title": "Western Michigan vs Miami (OH): Free Seats, Five Yards Short, 28-24",
+      "byline": "Corwin Dahlquist, The Western Michigan Fanatic",
+      "matchup": "Final: Miami (OH) RedHawks (8-4) 28, Western Michigan Broncos (8-4) 24, Tue., Nov. 24, Waldo Stadium, Kalamazoo. Regular season complete",
+      "date": "2026-11-24",
+      "word_count": 394,
+      "text": "Western Michigan lost 28-24 to Miami (OH) at Waldo Stadium on Tuesday night, and the free-ticket crowd of 16,512 deserved a better last scene. Greenleaf Trust, Greenleaf Hospitality and Ziegler Auto Group gave Kalamazoo free seats for the regular-season finale, and the Broncos gave those seats 297 rushing yards, a fourth-quarter lead and a final drive that died 5 yards from the end zone. We finish 8-4, 6-2 in the MAC.\n\nThe first quarter was ugly. Drew Bellisari hit Maleek Huggins for 33 and Scoop Smith for a 31-yard touchdown on Miami's first drive, then ran for 31 and found Brendan Loftus from 14 out. 14-3 before I had my gloves on. Our first half was a 33-yard field goal, a fourth-down stop at the Miami 27 and a Broc Lowry throw that Malcolm McCain intercepted at the Miami 12.\n\nThen the Broncos remembered who they are. Jalen Buckley ripped off a 44-yard run early in the third and powered in from the 3, 14-10. Bellisari answered with an 18-yard touchdown run, so Lowry hit Baylin Brooks for 38 and Aveion Chenault for a 13-yard score. The two-point try failed. 21-16. Miami even ran a fake punt, Pierse Stainton taking off for 19 yards, and our defense still stopped them on fourth down at the 25 to open the fourth quarter.\n\nCole Cabana broke a 41-yarder to the Miami 23, and Buckley went the rest of the way. Lowry found Cabana for two. 24-21 with 8:02 left, and Waldo was as loud as I've heard it all year.\n\nIt lasted 2:22. An interference flag handed Miami 15 yards, D'Shawntae Jones ran for 25 on third down, and Bellisari scored from 12 out at 5:40. 28-24.\n\nSo we did what we do. Fourteen plays, 66 yards, Buckley and Lowry carrying it, a Miami interference flag to the 18, Buckley to the 7, Lowry to the 5. Third down, 26 seconds left, and Lowry's throw in the end zone ended up in Amariyun Knighten's hands. That one's going to sit with me through the turkey.\n\nLowry ran for 100 yards. Buckley ran for 126 and two scores, and that moved him past LeVante Bellamy into fourth on Western Michigan's career rushing list. Joshua Franklin had a sack and 62 yards on kickoff returns. The ticket was free. Losing to Miami at home in November costs plenty.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Western Michigan lost 28-24 to Miami (OH) at Waldo Stadium on Tuesday night, and the free-ticket crowd of 16,512 deserved a better last scene. Greenleaf Trust, Greenleaf Hospitality and Ziegler Auto Group gave Kalamazoo free seats for the regular-season finale, and the Broncos gave those seats 297 rushing yards, a fourth-quarter lead and a final drive that died 5 yards from the end zone. We finish 8-4, 6-2 in the MAC."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first quarter was ugly. Drew Bellisari hit Maleek Huggins for 33 and Scoop Smith for a 31-yard touchdown on Miami's first drive, then ran for 31 and found Brendan Loftus from 14 out. 14-3 before I had my gloves on. Our first half was a 33-yard field goal, a fourth-down stop at the Miami 27 and a Broc Lowry throw that Malcolm McCain intercepted at the Miami 12."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the Broncos remembered who they are. Jalen Buckley ripped off a 44-yard run early in the third and powered in from the 3, 14-10. Bellisari answered with an 18-yard touchdown run, so Lowry hit Baylin Brooks for 38 and Aveion Chenault for a 13-yard score. The two-point try failed. 21-16. Miami even ran a fake punt, Pierse Stainton taking off for 19 yards, and our defense still stopped them on fourth down at the 25 to open the fourth quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cole Cabana broke a 41-yarder to the Miami 23, and Buckley went the rest of the way. Lowry found Cabana for two. 24-21 with 8:02 left, and Waldo was as loud as I've heard it all year."
+        },
+        {
+          "type": "paragraph",
+          "text": "It lasted 2:22. An interference flag handed Miami 15 yards, D'Shawntae Jones ran for 25 on third down, and Bellisari scored from 12 out at 5:40. 28-24."
+        },
+        {
+          "type": "paragraph",
+          "text": "So we did what we do. Fourteen plays, 66 yards, Buckley and Lowry carrying it, a Miami interference flag to the 18, Buckley to the 7, Lowry to the 5. Third down, 26 seconds left, and Lowry's throw in the end zone ended up in Amariyun Knighten's hands. That one's going to sit with me through the turkey."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lowry ran for 100 yards. Buckley ran for 126 and two scores, and that moved him past LeVante Bellamy into fourth on Western Michigan's career rushing list. Joshua Franklin had a sack and 62 yards on kickoff returns. The ticket was free. Losing to Miami at home in November costs plenty."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Western Michigan lost 28-24 to Miami (OH) on Tuesday, Nov. 24, at Waldo Stadium before 16,512 fans on free-ticket night. The Broncos finish 8-4, 6-2 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Jalen Buckley ran 19 times for 126 yards and two touchdowns, including a 23-yarder that put Western Michigan ahead 24-21 with 8:02 left."
+        },
+        {
+          "type": "fact",
+          "text": "The final drive went 66 yards in 14 plays before Amariyun Knighten intercepted Broc Lowry in the end zone with 20 seconds left."
+        },
+        {
+          "type": "jab",
+          "text": "Miami needed a fake punt and an end-zone interception to get out of Kalamazoo."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Miami (OH) 28, Western Michigan 24 (Nov. 24, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866471"
+        },
+        {
+          "label": "ESPN play-by-play, Miami (OH) at Western Michigan (Nov. 24, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866471"
+        },
+        {
+          "label": "ESPN game page, Miami (OH) at Western Michigan (Nov. 24, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866471"
+        },
+        {
+          "label": "ESPN Western Michigan Broncos 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2711"
+        },
+        {
+          "label": "Mid-American Conference: RedHawks Defeat Broncos to Stay Alive in Title Game Hunt (Nov. 25, 2026)",
+          "url": "https://getsomemaction.com/news/2026/11/25/football-redhawks-defeat-broncos-to-stay-in-title-game-mix.aspx"
+        },
+        {
+          "label": "Mitten Football: Recap: Miami (OH) hangs on for 28-24 win in major blow to Western Michigan MAC title hopes (Nov. 24, 2026)",
+          "url": "https://www.mittenfootball.com/live-updates-western-michigan-hosts-miami-oh-closing-in-on-repeat-mac-title-berth/"
+        },
+        {
+          "label": "Western Michigan Athletics: Broncos Host RedHawks in Regular Season Finale on Tuesday (Nov. 23, 2026; free tickets from Greenleaf Trust, Greenleaf Hospitality and Ziegler Auto Group)",
+          "url": "https://wmubroncos.com/news/2026/11/23/football-broncos-host-redhawks-in-regular-season-finale-on-tuesday.aspx"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-kent-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "kent-state",
+      "team_ids": [
+        "kent-state"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866470",
+      "title": "Kent State vs Eastern Michigan: Overturned at the Final Snap, 17-12",
+      "byline": "Ozzie Brannigan, The Kent State Fanatic",
+      "matchup": "Final: Eastern Michigan Eagles (5-7) 17, Kent State Golden Flashes (3-9) 12, Tue., Nov. 24, Rynearson Stadium, Ypsilanti. Regular season complete",
+      "date": "2026-11-24",
+      "word_count": 426,
+      "text": "Kent State lost 17-12 at Eastern Michigan on Tuesday night, and for the length of one replay review I had both arms in the air. On the last snap, Ethan Thanthanavong found Wayne Harris in the end zone, the officials signaled touchdown, and the booth took it away. Incomplete. We finish 3-9, 2-6 in the MAC.\n\nI'll remember Brendyn Smith before I remember that review. He caught a 17-yard touchdown throw to finish a 90-yard drive in the first quarter, and after Eastern went up 14-6, he fielded the kickoff at the goal and went 100 yards. Fourteen seconds after their score, it was 14-12. Both two-point tries failed, which is a very Kent State way to spend a good night.\n\nHarris was the best player on the field. Five catches, 125 yards, and a 47-yarder in the third quarter that put us at the Eastern 39. We got to the 23 and came up empty on fourth down. Jakorion Caffey ground out 60 yards on 13 carries, but the rest of our ground game went nowhere, 71 rushing yards for the night.\n\nThe defense deserved a ride home with a win. Thomas Aden made eight tackles and dropped Brogan McCaughey for 14 yards to finish the third quarter. Hayden Dawahare made eight more and chased McCaughey all night. Eastern threw for 95 yards. Their 40-yard touchdown early in the fourth got wiped out by an ineligible-downfield flag, and four snaps later we stuffed them on fourth down.\n\nTurnovers are what sank us. Bryce Llewellyn intercepted Thanthanavong at the end of the half, Hunter Hopperton had the ball punched out at the Eastern 29 in the fourth, and with 2:52 left Llewellyn intercepted another one and returned it 35 yards to our 11. Rudy Kessinger kicked a 28-yarder at 1:57. Three giveaways on somebody else's Senior Night is how you lose by five.\n\nAnd still we nearly stole it. Harris beat them for 32 yards, an interference flag put us at the Eastern 15, and after a sack and a 7-yard catch by Brandon White, we had one snap from the 14. You know the rest.\n\nDowntown Kent gets the holidays going Saturday. The City of Kent says Santa and Mrs. Claus arrive by train at 6:00 PM with Mayor Jack Amrhein on Small Business Saturday, and the countdown happens downtown, by the Main Street Bridge and the gazebo at Main and Franklin. I'll be standing by the Main Street Bridge with one request for the man in red: a replay angle that agrees with me.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Kent State lost 17-12 at Eastern Michigan on Tuesday night, and for the length of one replay review I had both arms in the air. On the last snap, Ethan Thanthanavong found Wayne Harris in the end zone, the officials signaled touchdown, and the booth took it away. Incomplete. We finish 3-9, 2-6 in the MAC."
+        },
+        {
+          "type": "paragraph",
+          "text": "I'll remember Brendyn Smith before I remember that review. He caught a 17-yard touchdown throw to finish a 90-yard drive in the first quarter, and after Eastern went up 14-6, he fielded the kickoff at the goal and went 100 yards. Fourteen seconds after their score, it was 14-12. Both two-point tries failed, which is a very Kent State way to spend a good night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Harris was the best player on the field. Five catches, 125 yards, and a 47-yarder in the third quarter that put us at the Eastern 39. We got to the 23 and came up empty on fourth down. Jakorion Caffey ground out 60 yards on 13 carries, but the rest of our ground game went nowhere, 71 rushing yards for the night."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense deserved a ride home with a win. Thomas Aden made eight tackles and dropped Brogan McCaughey for 14 yards to finish the third quarter. Hayden Dawahare made eight more and chased McCaughey all night. Eastern threw for 95 yards. Their 40-yard touchdown early in the fourth got wiped out by an ineligible-downfield flag, and four snaps later we stuffed them on fourth down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Turnovers are what sank us. Bryce Llewellyn intercepted Thanthanavong at the end of the half, Hunter Hopperton had the ball punched out at the Eastern 29 in the fourth, and with 2:52 left Llewellyn intercepted another one and returned it 35 yards to our 11. Rudy Kessinger kicked a 28-yarder at 1:57. Three giveaways on somebody else's Senior Night is how you lose by five."
+        },
+        {
+          "type": "paragraph",
+          "text": "And still we nearly stole it. Harris beat them for 32 yards, an interference flag put us at the Eastern 15, and after a sack and a 7-yard catch by Brandon White, we had one snap from the 14. You know the rest."
+        },
+        {
+          "type": "paragraph",
+          "text": "Downtown Kent gets the holidays going Saturday. The City of Kent says Santa and Mrs. Claus arrive by train at 6:00 PM with Mayor Jack Amrhein on Small Business Saturday, and the countdown happens downtown, by the Main Street Bridge and the gazebo at Main and Franklin. I'll be standing by the Main Street Bridge with one request for the man in red: a replay angle that agrees with me."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Kent State lost 17-12 at Eastern Michigan on Tuesday, Nov. 24, finishing 3-9, 2-6 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Brendyn Smith scored twice, on a 17-yard catch from Ethan Thanthanavong and a 100-yard kickoff return."
+        },
+        {
+          "type": "fact",
+          "text": "Wayne Harris caught five balls for 125 yards, and his end-zone catch on the final snap was overturned to an incompletion on review."
+        },
+        {
+          "type": "jab",
+          "text": "Eastern needed two interceptions, a fumble and a replay monitor to get past the Flashes on its own Senior Night."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Eastern Michigan 17, Kent State 12 (Nov. 24, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866470"
+        },
+        {
+          "label": "ESPN play-by-play, Kent State at Eastern Michigan (Nov. 24, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866470"
+        },
+        {
+          "label": "ESPN game page, Kent State at Eastern Michigan (Nov. 24, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866470"
+        },
+        {
+          "label": "ESPN Kent State Golden Flashes 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2309"
+        },
+        {
+          "label": "Kent State Athletics: Football vs Eastern Michigan on 11/24/2026, box score",
+          "url": "https://kentstatesports.com/sports/football/stats/2026/eastern-michigan-university/boxscore/9743"
+        },
+        {
+          "label": "City of Kent: The Tree City Bulletin, Fall 2026 (Small Business Saturday, Nov. 28, downtown Kent)",
+          "url": "https://www.kentohio.gov/media/k0npylkd/tcb-fall-2026-website.pdf"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-eastern-michigan",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "eastern-michigan",
+      "team_ids": [
+        "eastern-michigan"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866470",
+      "title": "Eastern Michigan vs Kent State: Seniors Close The Factory, 17-12",
+      "byline": "Imogen Tremblay, The Eastern Michigan Fanatic",
+      "matchup": "Final: Eastern Michigan Eagles (5-7) 17, Kent State Golden Flashes (3-9) 12, Tue., Nov. 24, Rynearson Stadium, Ypsilanti. Regular season complete",
+      "date": "2026-11-24",
+      "word_count": 444,
+      "text": "Eastern Michigan 17, Kent State 12, and the 30 members of the program Eastern honored on Crosby Field before kickoff walked off it as winners. Senior Night at The Factory came with seven-dollar seats, a canned food drive for Swoop's Pantry and a 30-degree Tuesday night in Ypsilanti, and the seniors made sure nobody asked for a refund. We finish 5-7, 4-4 in the MAC, and we never trailed.\n\nAmareon Blue needed two snaps to say hello. Benson Prosper caught a 4-yarder, then Blue went 61 yards up the middle, and it was 7-0 with 14:14 still on the first-quarter clock. Blue finished with 137 yards on 20 carries, and he ran like a guy who was tired of hearing about the cold.\n\nKent State answered with a 90-yard drive and a 17-yard touchdown throw to Brendyn Smith, 7-6. Decorie Johnson punched in a 7-yard run late in the second quarter for 14-6, and then Smith took the kickoff 100 yards right back at us. Fourteen seconds of game clock. I'm still mad about it. The good news: both Kent State two-point tries failed, and senior captain Bryce Llewellyn intercepted Ethan Thanthanavong at our 27 to close the half at 14-12.\n\nThe third quarter was a punting contest, and Daniel Hull won it. He dropped six of his seven punts inside the 20. Then the fourth quarter tried to break my heart. Brogan McCaughey hit Harold Mack for 40 yards and a touchdown, and an ineligible-downfield flag wiped it out. Fine. Zach Mowchan, another senior captain, punched the ball loose from Hunter Hopperton at our 29, and Quincy Byas fell on it.\n\nWith 2:52 to go, Llewellyn jumped Thanthanavong again and ran it back 35 yards to the Kent State 11. Rudy Kessinger, who missed from 52 earlier, knocked through a 28-yarder at 1:57 with senior Jack Kautz snapping it. 17-12.\n\nKent State made us sweat to the last tick. Wayne Harris, who caught five balls for 125 yards, got loose for 32, an interference flag put them at our 15, and senior Ronn Hardin buried Thanthanavong for a 7-yard sack. On the final snap, Thanthanavong threw to Harris in the end zone, the officials signaled touchdown, and the replay review turned it into an incompletion. Llewellyn got a hand on that ball. Nine tackles, two interceptions and the last breakup of the night, all on his Senior Night.\n\nOur defense held Kent State to 71 rushing yards and took the ball away three times without giving it back once. Thirty seniors, one last Tuesday at The Factory, and not one snap spent behind. Bring the cans next November, Ypsilanti. We'll bring the defense.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Eastern Michigan 17, Kent State 12, and the 30 members of the program Eastern honored on Crosby Field before kickoff walked off it as winners. Senior Night at The Factory came with seven-dollar seats, a canned food drive for Swoop's Pantry and a 30-degree Tuesday night in Ypsilanti, and the seniors made sure nobody asked for a refund. We finish 5-7, 4-4 in the MAC, and we never trailed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Amareon Blue needed two snaps to say hello. Benson Prosper caught a 4-yarder, then Blue went 61 yards up the middle, and it was 7-0 with 14:14 still on the first-quarter clock. Blue finished with 137 yards on 20 carries, and he ran like a guy who was tired of hearing about the cold."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kent State answered with a 90-yard drive and a 17-yard touchdown throw to Brendyn Smith, 7-6. Decorie Johnson punched in a 7-yard run late in the second quarter for 14-6, and then Smith took the kickoff 100 yards right back at us. Fourteen seconds of game clock. I'm still mad about it. The good news: both Kent State two-point tries failed, and senior captain Bryce Llewellyn intercepted Ethan Thanthanavong at our 27 to close the half at 14-12."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third quarter was a punting contest, and Daniel Hull won it. He dropped six of his seven punts inside the 20. Then the fourth quarter tried to break my heart. Brogan McCaughey hit Harold Mack for 40 yards and a touchdown, and an ineligible-downfield flag wiped it out. Fine. Zach Mowchan, another senior captain, punched the ball loose from Hunter Hopperton at our 29, and Quincy Byas fell on it."
+        },
+        {
+          "type": "paragraph",
+          "text": "With 2:52 to go, Llewellyn jumped Thanthanavong again and ran it back 35 yards to the Kent State 11. Rudy Kessinger, who missed from 52 earlier, knocked through a 28-yarder at 1:57 with senior Jack Kautz snapping it. 17-12."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kent State made us sweat to the last tick. Wayne Harris, who caught five balls for 125 yards, got loose for 32, an interference flag put them at our 15, and senior Ronn Hardin buried Thanthanavong for a 7-yard sack. On the final snap, Thanthanavong threw to Harris in the end zone, the officials signaled touchdown, and the replay review turned it into an incompletion. Llewellyn got a hand on that ball. Nine tackles, two interceptions and the last breakup of the night, all on his Senior Night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Our defense held Kent State to 71 rushing yards and took the ball away three times without giving it back once. Thirty seniors, one last Tuesday at The Factory, and not one snap spent behind. Bring the cans next November, Ypsilanti. We'll bring the defense."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Eastern Michigan beat Kent State 17-12 on Tuesday, Nov. 24, at Rynearson Stadium on Senior Night, never trailing. The Eagles finish 5-7, 4-4 in the MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Amareon Blue ran 20 times for 137 yards, including a 61-yard touchdown on the second snap of the game."
+        },
+        {
+          "type": "fact",
+          "text": "Bryce Llewellyn intercepted two throws, setting up Rudy Kessinger's 28-yard field goal at 1:57, and broke up the final throw, a touchdown call overturned on review."
+        },
+        {
+          "type": "jab",
+          "text": "Kent State brought a 100-yard kickoff return to Ypsilanti and still never saw the scoreboard from the front."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Eastern Michigan 17, Kent State 12 (Nov. 24, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866470"
+        },
+        {
+          "label": "ESPN play-by-play, Kent State at Eastern Michigan (Nov. 24, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866470"
+        },
+        {
+          "label": "ESPN game page, Kent State at Eastern Michigan (Nov. 24, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866470"
+        },
+        {
+          "label": "ESPN Eastern Michigan Eagles 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2199"
+        },
+        {
+          "label": "Eastern Michigan Athletics: Football vs Kent State on 11/24/2026, box score",
+          "url": "https://emueagles.com/sports/football/stats/2026/kent-state/boxscore/19660"
+        },
+        {
+          "label": "Eastern Michigan Athletics: Know Before You Go: Eastern Michigan Hosts Kent State for Senior Night at The Factory (Nov. 23, 2026)",
+          "url": "https://emueagles.com/news/2026/11/23/football-know-before-you-go-eastern-michigan-hosts-kent-state-for-senior-night-at-the-factory"
+        },
+        {
+          "label": "Eastern Michigan Athletics: Football Hosts Kent State for Senior Night and “734 Night” at The Factory (Nov. 19, 2026)",
+          "url": "https://emueagles.com/news/2026/11/19/football-hosts-kent-state-for-senior-night-and-734-night-at-the-factory"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    }
+  ]
+}
