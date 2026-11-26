@@ -1083,13 +1083,13 @@
     "tcu",
     "texas-tech"
    ],
-   "spread": "Texas Tech Red Raiders −13.5",
-   "total_line": 47.5,
+   "spread": "Texas Tech Red Raiders −15.5",
+   "total_line": 46.5,
    "prediction": {
     "away_score": 18,
     "home_score": 30,
     "winner": "Texas Tech Red Raiders",
-    "covers": "TCU Horned Frogs +13.5"
+    "covers": "TCU Horned Frogs +15.5"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -1098,79 +1098,165 @@
    "display": {
     "writer": {
      "score_line": "Projected: Texas Tech Red Raiders 30, TCU Horned Frogs 18 (Total 48)",
-     "side": "TCU Horned Frogs +13.5",
-     "ou": "Over 47.5",
+     "side": "TCU Horned Frogs +15.5",
+     "ou": "Over 46.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: TCU Horned Frogs +13.5 · Likes this side",
-      "ou_line": "O/U: Over 47.5 · Likes this total",
+      "side_line": "Side: TCU Horned Frogs +15.5 · Likes this side",
+      "ou_line": "O/U: Over 46.5 · Likes this total",
       "score_line": "Projected: Texas Tech Red Raiders 31, TCU Horned Frogs 20 (Total 51)",
       "basis_line": "Net ratings TCU Horned Frogs 6.7, Texas Tech Red Raiders 17.1 (ESPN Football Power Index, Nov 23, 2026)",
+      "independent": true,
+      "distance_from_spread": 4.5,
+      "distance_from_total": 4.5,
+      "landed_on_number": []
+     },
+     {
+      "name": "Next Man Up",
+      "side_line": "Side: TCU Horned Frogs +15.5 · Likes this side",
+      "ou_line": "O/U: Under 46.5 · Likes this total",
+      "score_line": "Projected: Texas Tech Red Raiders 28, TCU Horned Frogs 15 (Total 43)",
+      "basis_line": "With the players available: projected points TCU Horned Frogs 14.7, Texas Tech Red Raiders 28.2.",
       "independent": true,
       "distance_from_spread": 2.5,
       "distance_from_total": 3.5,
       "landed_on_number": []
      },
      {
-      "name": "Next Man Up",
-      "side_line": "Side: TCU Horned Frogs +13.5",
-      "ou_line": "O/U: Under 47.5 · Likes this total",
-      "score_line": "Projected: Texas Tech Red Raiders 28, TCU Horned Frogs 15 (Total 43)",
-      "basis_line": "With the players available: projected points TCU Horned Frogs 14.7, Texas Tech Red Raiders 28.2.",
-      "independent": true,
-      "distance_from_spread": 0.5,
-      "distance_from_total": 4.5,
-      "landed_on_number": []
-     },
-     {
       "name": "Letdown Watch",
-      "side_line": "Side: Texas Tech Red Raiders −13.5",
-      "ou_line": "O/U: Over 47.5",
+      "side_line": "Side: TCU Horned Frogs +15.5",
+      "ou_line": "O/U: Over 46.5 · Likes this total",
       "score_line": "Projected: Texas Tech Red Raiders 32, TCU Horned Frogs 17 (Total 49)",
       "basis_line": "Rest and travel read: projected points TCU Horned Frogs 17.5, Texas Tech Red Raiders 31.6.",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 1.5,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 2.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: Texas Tech Red Raiders −15.5 · Likes this side",
+      "ou_line": "O/U: Under 46.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 23, 10:35 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Texas Tech Red Raiders −14.5 (Nov 24, 12:08 AM ET) and is −15.5 now, a 1-point move. The side pick quotes the consensus spread now (Texas Tech Red Raiders −15.5). Consensus total opened 47.5 (Nov 24, 1:04 PM ET) and is 46.5 now, a 1-point move: Under. The total pick quotes the consensus total now (46.5). Lines are the Action Network consensus as of Nov 26, 6:16 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: TCU Horned Frogs +13.5 · Likes this side",
+      "side_line": "Side: TCU Horned Frogs +15.5 · Likes this side",
       "ou_line": "O/U: this card reads sides only",
       "score_line": "Projected: Texas Tech Red Raiders 30, TCU Horned Frogs 18 (Total 48)",
-      "basis_line": "This read points to a side only. TCU Horned Frogs 3.5 ypc vs Texas Tech Red Raiders allowing 3.4; Texas Tech Red Raiders 5.2 ypc vs TCU Horned Frogs allowing 3.2 (2026 season). Texas Tech Red Raiders run game 1.9 ypc above what the opponent allows. The projected score is Texas Tech Red Raiders 30, TCU Horned Frogs 18, which does not cover Texas Tech Red Raiders −13.5. Side: TCU Horned Frogs +13.5.",
+      "basis_line": "This read points to a side only. TCU Horned Frogs 3.5 ypc vs Texas Tech Red Raiders allowing 3.4; Texas Tech Red Raiders 5.2 ypc vs TCU Horned Frogs allowing 3.2 (2026 season). Texas Tech Red Raiders run game 1.9 ypc above what the opponent allows. The projected score is Texas Tech Red Raiders 30, TCU Horned Frogs 18, which does not cover Texas Tech Red Raiders −15.5. Side: TCU Horned Frogs +15.5.",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 0.5,
+      "distance_from_spread": 3.5,
+      "distance_from_total": 1.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "Texas Tech walks its seniors onto the Galaxy Stadium grass Thursday night with Joey McGuire, his wife Debbie and every senior's family beside them, and TCU arrives four days after firing Sonny Dykes. My TCU vs Texas Tech prediction for the 8:00 PM ET Thanksgiving night kickoff in Lubbock: TCU Horned Frogs +13.5 and the Over 47.5.\n\nBodie Ratliff has the case for the home side memorized. \"Ten and one. Six and oh in this stadium. Castellanos threw for five touchdowns against West Virginia and four more in Stillwater. Ryder, your guys just changed head coaches on a Sunday.\"\n\nRyder Galloway does not flinch. \"They handed the team to Andy Avalos, Bodie. He runs our defense. That's the part of the team that never needed fixing.\"\n\nRyder has the better argument at this price. TCU is 5-6 and allows 17.3 points a game. Before the Utah blowout, the Frogs lost by five to North Carolina, by eight at UCF, by seven to BYU, by four to West Virginia and by one at Arizona. This is a defense that keeps games within a score and an offense that can't finish them. Texas Tech has been the opposite all fall: 37.3 points a game, J'Koby Williams at 1,195 rushing yards and A.J. Holmes Jr. with 10 sacks.\n\nThe quarterback question on the TCU side is real. Jaden Craig threw the most in ten games and has 2,664 yards with 13 touchdowns, but Adam Schobel took the throws against Utah and went 15 of 31 for 106 yards with two interceptions. I'm pricing Schobel as the starter and the Frogs still stay inside two touchdowns.\n\nThe total tells you what the market expects. DraftKings opened Texas Tech at 16.5 and the total at 55.5, and both have come way down. I'll take the points and still go Over, because Tech's offense scores in bunches at home and TCU's defense can't hold forever on a short week.\n\nTexas Tech Red Raiders 30, TCU Horned Frogs 18 is a 12-point win, a point and a half short of the spread, with 48 total points, half a point past 47.5.\n\nThe cards mostly agree on the side. The Formula has Texas Tech 31-20 and likes TCU Horned Frogs +13.5 and the Over 47.5. Next Man Up has 28-15, takes the Frogs and likes the Under. Letdown Watch is the holdout at 32-17 with Texas Tech Red Raiders −13.5 and the Over. In The Trenches has it 30-18, likes TCU plus the points and makes no over/under call. Follow The Money's side and total are both pending.\n\nLetdown Watch: \"Three of you riding a team that just fired its coach. On Senior Night. In Lubbock. I'll save you a seat at the wake.\"\n\nIn The Trenches: \"A defensive coordinator calling the whole game is my kind of party. Bring your own chair.\"\n\nThe seniors get their ovation, Bodie gets his win, and Ryder gets a fourth quarter that still matters on the scoreboard. That's what a two-touchdown spread buys you in a rivalry.\n\nTexas Tech Red Raiders 30, TCU Horned Frogs 18. TCU Horned Frogs cover the 13.5. Over 47.5.",
+    "story_text": "Texas Tech walks its seniors onto the Galaxy Stadium grass Thursday night with Joey McGuire, his wife Debbie and every senior's family beside them, and TCU arrives four days after firing Sonny Dykes. My TCU vs Texas Tech prediction for the 8:00 PM ET Thanksgiving night kickoff in Lubbock: TCU Horned Frogs +15.5 and the Over 46.5.\n\nBodie Ratliff has the case for the home side memorized. \"Ten and one. Six and oh in this stadium. Castellanos threw for five touchdowns against West Virginia and four more in Stillwater. Ryder, your guys just changed head coaches on a Sunday.\"\n\nRyder Galloway does not flinch. \"They handed the team to Andy Avalos, Bodie. He runs our defense. That's the part of the team that never needed fixing.\"\n\nRyder has the better argument at this price. TCU is 5-6 and allows 17.3 points a game. Before the Utah blowout, the Frogs lost by five to North Carolina, by eight at UCF, by seven to BYU, by four to West Virginia and by one at Arizona. This is a defense that keeps games within a score and an offense that can't finish them. Texas Tech has been the opposite all fall: 37.3 points a game, J'Koby Williams at 1,195 rushing yards and A.J. Holmes Jr. with 10 sacks.\n\nThe quarterback question on the TCU side is real. Jaden Craig threw the most in ten games and has 2,664 yards with 13 touchdowns, but Adam Schobel took the throws against Utah and went 15 of 31 for 106 yards with two interceptions. I'm pricing Schobel as the starter and the Frogs still stay inside two touchdowns. Wednesday night's Big 12 availability report has Craig and running back G'Ivori Graham out; Texas Tech is without running back Quinten Joyner and receiver Jalen Jones.\n\nThe total tells you what the market expects. DraftKings opened Texas Tech at 16.5 and the total at 55.5. As of 6:16 AM ET Thursday it sits at 15.5 and 46.5, so the total has dropped nine points. I'll take the points and still go Over, because Tech's offense scores in bunches at home and TCU's defense can't hold forever on a short week.\n\nTexas Tech Red Raiders 30, TCU Horned Frogs 18 is a 12-point win, three and a half points short of the spread, with 48 total points, a point and a half past 46.5.\n\nThe cards with a score agree on the side now. The Formula has 31-20 and likes TCU Horned Frogs +15.5 and the Over 46.5. Next Man Up has 28-15, the Frogs and the Under. Letdown Watch's 32-17 no longer clears, so it moves to TCU Horned Frogs +15.5 with the Over. In The Trenches has 30-18 and TCU. Follow The Money takes Texas Tech Red Raiders −15.5 and the Under 46.5.\n\nLetdown Watch: \"Fine. I'll ride with the team that just fired its coach. On Senior Night. In Lubbock. Save me a seat at the wake anyway.\"\n\nIn The Trenches: \"A defensive coordinator calling the whole game is my kind of party. Bring your own chair.\"\n\nThe seniors get their ovation, Bodie gets his win, and Ryder gets a fourth quarter that still matters on the scoreboard. That's what a two-touchdown spread buys you in a rivalry.\n\nTexas Tech Red Raiders 30, TCU Horned Frogs 18. TCU Horned Frogs cover the 15.5. Over 46.5.",
     "fanatic_score_line": "Projected: Texas Tech Red Raiders 30, TCU Horned Frogs 18",
     "line_used": {
-     "home_line": "Texas Tech Red Raiders −13.5",
-     "total": "47.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "home_line": "Texas Tech Red Raiders −15.5",
+     "total": "46.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 26, 2026, 6:16 AM ET",
+     "fetched_at_utc": "2026-11-26T11:16Z"
     },
     "injuries": {
-     "away": [],
-     "home": [],
-     "source": "Not posted yet: the official conference availability report for this game",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "away": [
+      {
+       "player": "Jaden Craig",
+       "position": "QB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "G'Ivori Graham",
+       "position": "RB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Joseph Albright",
+       "position": "S",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Keylan Abrams",
+       "position": "LB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Kari Ashley",
+       "position": "TE",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Questionable"
+      }
+     ],
+     "home": [
+      {
+       "player": "Quinten Joyner",
+       "position": "RB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Jalen Jones",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "LaDamion Guyton",
+       "position": "OLB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Marcus Ramon-Edwards",
+       "position": "S",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Miquel Dingle Jr.",
+       "position": "S",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Kenny Johnson",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Probable"
+      },
+      {
+       "player": "Micah Hudson",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Probable"
+      }
+     ],
+     "source": "Big 12 availability report (Update, Wed Nov 25, 7:00 PM PT), via kickoffstatus.com (https://kickoffstatus.com/conferences/big-12/), checked Nov 26, 6:11 AM ET. Key players only.",
+     "fetched_at_utc": "2026-11-26T11:11:50Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -1184,15 +1270,15 @@
     "fanatic_story": "Debbie McGuire will stand on the Galaxy Stadium grass Thursday night next to her husband and a long row of Red Raider families, and Bodie Ratliff plans to be in his seat early enough to clap for every senior by name. Ryder Galloway drove up from Fort Worth for TCU Horned Frogs vs Texas Tech Red Raiders with a team that changed head coaches on Sunday, and he says he'll clap for the seniors too, right up until the opening kickoff.\n\n\"Thanksgiving night in Lubbock,\" Bodie says. \"Senior Day. Ten wins already. My mama's bringing two pies and a folding chair she does not need, because nobody sits down in this building.\"\n\n\"Nobody sits down because the wind would take the chair,\" Ryder says.\n\nBodie lets that one go. Anybody raised on the South Plains has chased a hat or two across a parking lot.\n\nThe Red Raiders have earned the swagger. Texas Tech is 10-1, unbeaten at home, and the only loss came at Cincinnati back in October. Since Thomas Castellanos took over the throwing, the offense has turned every Saturday into a track meet. He threw for 362 yards and five touchdowns in the 53-48 shootout with West Virginia, then 263 yards and four more at Oklahoma State. Behind him, J'Koby Williams has run for 1,195 yards and 9 touchdowns, and he went for 117 in the 20-10 win at Baylor last week.\n\n\"You see what Castellanos does on a third down?\" Bodie asks. \"He looks at the defense like it owes him money.\"\n\nRyder knows what Castellanos does. He watched it on a small screen in a Fort Worth kitchen and didn't enjoy one minute of it.\n\nThe week in Fort Worth has been something else. TCU fired Sonny Dykes on Sunday, four years after he took the Frogs to the national title game, and handed the team to defensive coordinator Andy Avalos for the finale. The Frogs are 5-6. One more win means a bowl trip. One more loss means the offseason starts Friday morning.\n\n\"So here's the part you're missing,\" Ryder says. \"Avalos runs the defense. The defense is the reason we're still standing. We've given up 17.3 a game. We lost to North Carolina by five, UCF by eight, BYU by seven, West Virginia by four and Arizona by one. Every one of those came down to a drive.\"\n\n\"And Utah?\"\n\n\"We don't talk about Utah.\"\n\nThat was a 38-17 loss at home Saturday, and it's the one game all season the TCU defense didn't hang around. The other question is who's throwing. Jaden Craig handled the job for most of the year and has 2,664 yards and 13 touchdowns, with Kari Ashley as his go-to tight end at 697 yards. Against Utah, Adam Schobel took the throws. Ryder figures whoever takes the snaps needs to hand it to Jeremy Payne, who ran for 108 yards and two scores even in the blowout, and get out of the way.\n\n\"Keep it on the ground,\" Ryder says. \"Shorten the game. Make Castellanos sit on the bench and think about it.\"\n\nOn defense, the Frogs need Koron Hayward, who has 7 sacks, and Hudson Hooper, who leads the team with 79 tackles, to make Williams work for every yard. Bodie's counter is A.J. Holmes Jr., who has 10 sacks and has spent the fall living in other people's backfields, and Austin Romaine, who has 95 tackles and seems to show up on every snap.\n\n\"Ryder, I like you,\" Bodie says. \"I want you to know that before the third quarter.\"\n\nHere's how I see the night. TCU's defense comes out angry and plays for its interim coach like it means it, and the first half is closer than anybody in the south end zone wants. Payne breaks a long run, the Frogs kick a field goal, and the TCU section gets loud enough to hear from the press box. But Castellanos finds Kenny Johnson down the sideline before halftime, Williams starts leaning on a tired front in the third, and Holmes gets home on a third down that flips the field.\n\nThe Frogs make it a game into the fourth quarter. They just can't make it a win. The seniors walk off unbeaten at home, and Ryder drives back down to Fort Worth, waiting to hear who's coaching his team next.\n\nBodie walks him to the parking lot anyway, still holding one of his mama's pies, and hands it over without a word.\n\nMy call: Texas Tech Red Raiders 30, TCU Horned Frogs 18.",
     "market": {
      "score_line": "",
-     "spread": "Texas Tech Red Raiders −13.5",
-     "total": "47.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "spread": "Texas Tech Red Raiders −15.5",
+     "total": "46.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 26, 2026, 6:16 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "TCU Horned Frogs vs Texas Tech Red Raiders: Senior Night Under New Management",
-    "gambler_headline": "TCU vs Texas Tech Pick: Horned Frogs +13.5, Over 47.5"
+    "gambler_headline": "TCU vs Texas Tech Pick: Horned Frogs +15.5, Over 46.5"
    },
-   "gambler_story": "Texas Tech walks its seniors onto the Galaxy Stadium grass Thursday night with Joey McGuire, his wife Debbie and every senior's family beside them, and TCU arrives four days after firing Sonny Dykes. My TCU vs Texas Tech prediction for the 8:00 PM ET Thanksgiving night kickoff in Lubbock: TCU Horned Frogs +13.5 and the Over 47.5.\n\nBodie Ratliff has the case for the home side memorized. \"Ten and one. Six and oh in this stadium. Castellanos threw for five touchdowns against West Virginia and four more in Stillwater. Ryder, your guys just changed head coaches on a Sunday.\"\n\nRyder Galloway does not flinch. \"They handed the team to Andy Avalos, Bodie. He runs our defense. That's the part of the team that never needed fixing.\"\n\nRyder has the better argument at this price. TCU is 5-6 and allows 17.3 points a game. Before the Utah blowout, the Frogs lost by five to North Carolina, by eight at UCF, by seven to BYU, by four to West Virginia and by one at Arizona. This is a defense that keeps games within a score and an offense that can't finish them. Texas Tech has been the opposite all fall: 37.3 points a game, J'Koby Williams at 1,195 rushing yards and A.J. Holmes Jr. with 10 sacks.\n\nThe quarterback question on the TCU side is real. Jaden Craig threw the most in ten games and has 2,664 yards with 13 touchdowns, but Adam Schobel took the throws against Utah and went 15 of 31 for 106 yards with two interceptions. I'm pricing Schobel as the starter and the Frogs still stay inside two touchdowns.\n\nThe total tells you what the market expects. DraftKings opened Texas Tech at 16.5 and the total at 55.5, and both have come way down. I'll take the points and still go Over, because Tech's offense scores in bunches at home and TCU's defense can't hold forever on a short week.\n\nTexas Tech Red Raiders 30, TCU Horned Frogs 18 is a 12-point win, a point and a half short of the spread, with 48 total points, half a point past 47.5.\n\nThe cards mostly agree on the side. The Formula has Texas Tech 31-20 and likes TCU Horned Frogs +13.5 and the Over 47.5. Next Man Up has 28-15, takes the Frogs and likes the Under. Letdown Watch is the holdout at 32-17 with Texas Tech Red Raiders −13.5 and the Over. In The Trenches has it 30-18, likes TCU plus the points and makes no over/under call. Follow The Money's side and total are both pending.\n\nLetdown Watch: \"Three of you riding a team that just fired its coach. On Senior Night. In Lubbock. I'll save you a seat at the wake.\"\n\nIn The Trenches: \"A defensive coordinator calling the whole game is my kind of party. Bring your own chair.\"\n\nThe seniors get their ovation, Bodie gets his win, and Ryder gets a fourth quarter that still matters on the scoreboard. That's what a two-touchdown spread buys you in a rivalry.\n\nTexas Tech Red Raiders 30, TCU Horned Frogs 18. TCU Horned Frogs cover the 13.5. Over 47.5."
+   "gambler_story": "Texas Tech walks its seniors onto the Galaxy Stadium grass Thursday night with Joey McGuire, his wife Debbie and every senior's family beside them, and TCU arrives four days after firing Sonny Dykes. My TCU vs Texas Tech prediction for the 8:00 PM ET Thanksgiving night kickoff in Lubbock: TCU Horned Frogs +15.5 and the Over 46.5.\n\nBodie Ratliff has the case for the home side memorized. \"Ten and one. Six and oh in this stadium. Castellanos threw for five touchdowns against West Virginia and four more in Stillwater. Ryder, your guys just changed head coaches on a Sunday.\"\n\nRyder Galloway does not flinch. \"They handed the team to Andy Avalos, Bodie. He runs our defense. That's the part of the team that never needed fixing.\"\n\nRyder has the better argument at this price. TCU is 5-6 and allows 17.3 points a game. Before the Utah blowout, the Frogs lost by five to North Carolina, by eight at UCF, by seven to BYU, by four to West Virginia and by one at Arizona. This is a defense that keeps games within a score and an offense that can't finish them. Texas Tech has been the opposite all fall: 37.3 points a game, J'Koby Williams at 1,195 rushing yards and A.J. Holmes Jr. with 10 sacks.\n\nThe quarterback question on the TCU side is real. Jaden Craig threw the most in ten games and has 2,664 yards with 13 touchdowns, but Adam Schobel took the throws against Utah and went 15 of 31 for 106 yards with two interceptions. I'm pricing Schobel as the starter and the Frogs still stay inside two touchdowns. Wednesday night's Big 12 availability report has Craig and running back G'Ivori Graham out; Texas Tech is without running back Quinten Joyner and receiver Jalen Jones.\n\nThe total tells you what the market expects. DraftKings opened Texas Tech at 16.5 and the total at 55.5. As of 6:16 AM ET Thursday it sits at 15.5 and 46.5, so the total has dropped nine points. I'll take the points and still go Over, because Tech's offense scores in bunches at home and TCU's defense can't hold forever on a short week.\n\nTexas Tech Red Raiders 30, TCU Horned Frogs 18 is a 12-point win, three and a half points short of the spread, with 48 total points, a point and a half past 46.5.\n\nThe cards with a score agree on the side now. The Formula has 31-20 and likes TCU Horned Frogs +15.5 and the Over 46.5. Next Man Up has 28-15, the Frogs and the Under. Letdown Watch's 32-17 no longer clears, so it moves to TCU Horned Frogs +15.5 with the Over. In The Trenches has 30-18 and TCU. Follow The Money takes Texas Tech Red Raiders −15.5 and the Under 46.5.\n\nLetdown Watch: \"Fine. I'll ride with the team that just fired its coach. On Senior Night. In Lubbock. Save me a seat at the wake anyway.\"\n\nIn The Trenches: \"A defensive coordinator calling the whole game is my kind of party. Bring your own chair.\"\n\nThe seniors get their ovation, Bodie gets his win, and Ryder gets a fourth quarter that still matters on the scoreboard. That's what a two-touchdown spread buys you in a rivalry.\n\nTexas Tech Red Raiders 30, TCU Horned Frogs 18. TCU Horned Frogs cover the 15.5. Over 46.5."
   },
   {
    "game_id": "401856762",
