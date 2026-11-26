@@ -1,1 +1,28 @@
-[]
+[
+ {
+  "game_id": "401873081",
+  "league": "nfl",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": 2.5,
+   "made_at": "2026-11-24T14:56:03Z"
+  },
+  "final": {
+   "pick": "Detroit Lions +1.5",
+   "line": 1.5
+  },
+  "changed_at": "2026-11-26T11:28:32Z",
+  "kickoff": "2026-11-26T18:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for Chicago Bears at Detroit Lions opened Detroit Lions +2.5 at 3:00 PM ET Tuesday Nov 24 and moved to +1.5 at 9:29 PM ET Tuesday Nov 24, and it was still +1.5 at the 6:08 AM ET check on Thursday Nov 26, a 1-point move toward Detroit, so Follow The Money turns the card from no pick into Detroit Lions +1.5. The consensus total has stayed 55.5, so there is no total pick.",
+   "source": "Action Network consensus line history, Chicago Bears at Detroit Lions (book 15): https://api.actionnetwork.com/web/v2/markets/event/290841/history?bookIds=15 (checked Nov 26, 2026, 6:21 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290841/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ }
+]
