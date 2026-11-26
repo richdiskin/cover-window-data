@@ -4470,5 +4470,83 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401856879",
+  "league": "college",
+  "handicapper": "Letdown Watch",
+  "market": "side",
+  "original": {
+   "pick": "Texas Tech Red Raiders −13.5",
+   "line": -13.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "TCU Horned Frogs +15.5",
+   "line": 15.5
+  },
+  "changed_at": "2026-11-26T11:16:00Z",
+  "kickoff": "2026-11-27T01:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings line for TCU at Texas Tech moved from Texas Tech Red Raiders −13.5 to −15.5 by the 6:16 AM ET check Thursday Nov 26; Letdown Watch's unchanged projection of Texas Tech Red Raiders 32, TCU Horned Frogs 17 (Texas Tech by 15) no longer covers −15.5, so the game-day rerun turns the card from Texas Tech Red Raiders −13.5 into TCU Horned Frogs +15.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), TCU at Texas Tech: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856879 (checked Nov 26, 2026, 6:16 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856879",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856879",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": -13.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Texas Tech Red Raiders −15.5",
+   "line": -15.5
+  },
+  "changed_at": "2026-11-26T11:16:00Z",
+  "kickoff": "2026-11-27T01:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for TCU at Texas Tech opened Texas Tech Red Raiders −14.5 at 12:08 AM ET Tuesday Nov 24, after the Monday night game ended, and was −15.5 at the 6:11 AM ET check Thursday Nov 26, a 1-point move, so Follow The Money turns the card from pending into Texas Tech Red Raiders −15.5.",
+   "source": "Action Network consensus line history, TCU at Texas Tech (book 15): https://api.actionnetwork.com/web/v2/markets/event/290202/history?bookIds=15 (checked Nov 26, 2026, 6:11 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290202/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856879",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 47.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Under 46.5",
+   "line": 46.5
+  },
+  "changed_at": "2026-11-26T11:16:00Z",
+  "kickoff": "2026-11-27T01:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for TCU at Texas Tech opened 47.5 at 1:04 PM ET Tuesday Nov 24 and was 46.5 at the 6:11 AM ET check Thursday Nov 26, a 1-point drop, so Follow The Money turns the card from pending into Under 46.5.",
+   "source": "Action Network consensus line history, TCU at Texas Tech (book 15): https://api.actionnetwork.com/web/v2/markets/event/290202/history?bookIds=15 (checked Nov 26, 2026, 6:11 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290202/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
