@@ -722,35 +722,109 @@
         "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
         "source_url": "https://www.actionnetwork.com/nfl/odds",
         "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-        "fetched_at_utc": "2026-11-24T14:56:03Z",
+        "fetched_at_utc": "2026-11-26T11:08:32Z",
         "action_network_game_id": 290805,
         "home_line": -8.5,
-        "total": 48,
+        "total": 48.5,
         "open_home_line": -1.5,
         "open_total": 49.5,
         "spread_display": "Dallas Cowboys −8.5",
         "open_timestamp": ""
       },
       "injuries": {
-        "source": "NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg12 (not out yet; checked Nov 24, 9:56 AM ET)",
-        "fetched_at_utc": "2026-11-24T14:56:17Z",
-        "away": null,
-        "home": null
+        "source": "NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg12, and ESPN game summary injuries, event 401873080 (checked Nov 26, 6:04 AM ET). Key players only. Jalen Hurts's and Zack Baun's injured-reserve status is from ESPN (they are not on the NFL.com weekly table). Saquon Barkley is a full participant with no game status on NFL.com.",
+        "fetched_at_utc": "2026-11-26T11:04:00Z",
+        "away": [
+          {
+            "team": "PHI",
+            "player": "Jalen Hurts",
+            "position": "QB",
+            "injury": "",
+            "practice_status": "",
+            "game_status": "Injured Reserve"
+          },
+          {
+            "team": "PHI",
+            "player": "Zack Baun",
+            "position": "LB",
+            "injury": "Back",
+            "practice_status": "",
+            "game_status": "Injured Reserve"
+          },
+          {
+            "team": "PHI",
+            "player": "Arnold Ebiketie",
+            "position": "LB",
+            "injury": "Oblique",
+            "practice_status": "Did Not Participate In Practice",
+            "game_status": "Out"
+          },
+          {
+            "team": "PHI",
+            "player": "Jonathan Jones",
+            "position": "CB",
+            "injury": "Ankle",
+            "practice_status": "Did Not Participate In Practice",
+            "game_status": "Out"
+          }
+        ],
+        "home": [
+          {
+            "team": "DAL",
+            "player": "Jake Ferguson",
+            "position": "TE",
+            "injury": "Knee, Ankle",
+            "practice_status": "Did Not Participate In Practice",
+            "game_status": "Out"
+          },
+          {
+            "team": "DAL",
+            "player": "Tyler Booker",
+            "position": "G",
+            "injury": "Ankle",
+            "practice_status": "Did Not Participate In Practice",
+            "game_status": "Out"
+          },
+          {
+            "team": "DAL",
+            "player": "P.J. Locke",
+            "position": "S",
+            "injury": "Concussion",
+            "practice_status": "Limited Participation in Practice",
+            "game_status": "Out"
+          },
+          {
+            "team": "DAL",
+            "player": "Jonathan Mingo",
+            "position": "WR",
+            "injury": "Ankle",
+            "practice_status": "Did Not Participate In Practice",
+            "game_status": "Out"
+          },
+          {
+            "team": "DAL",
+            "player": "Jalen Thompson",
+            "position": "S",
+            "injury": "Hamstring",
+            "practice_status": "Full Participation in Practice",
+            "game_status": "Questionable"
+          }
+        ]
       },
       "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261126",
       "spread": "Philadelphia Eagles +8.5",
-      "story_text": "Cowboys 27, Eagles 22. Eagles cover the 8.5. Over 48. The Formula projects Dallas by 4.1 against a 8.5-point line.",
+      "story_text": "Cowboys 27, Eagles 22. Eagles cover the 8.5. Over 48.5. The Formula projects Dallas by 4 against an 8.5-point line.",
       "why_this_score": "",
       "betting_text": "",
       "total_pick": "Over",
       "total_reason_public": "",
       "line_used": {
         "home_line": -8.5,
-        "total": 48,
-        "source": "Consensus line as of Nov 24, 9:56 AM ET",
-        "as_of_utc": "2026-11-24T14:56:03Z"
+        "total": 48.5,
+        "source": "ESPN game summary pickcenter (DraftKings), as of Nov 26, 6:08 AM ET",
+        "as_of_utc": "2026-11-26T11:08:32Z"
       },
-      "total_line": 48,
+      "total_line": 48.5,
       "prediction": {
         "away_score": 22,
         "home_score": 27,
@@ -766,7 +840,7 @@
         },
         {
           "id": "H2",
-          "public_case": "Projected points: Dallas Cowboys 26.4, Philadelphia Eagles 21.6. Availability: expected starting quarterbacks Dak Prescott (DAL) and Joe Milton III (PHI). NFL.com official Week 12 injury report (checked Nov 24, 9:56 AM ET): not out yet, so no quarterback is ruled out. Joe Milton III is not PHI’s main starter this season (Jalen Hurts).",
+          "public_case": "Projected points: Dallas Cowboys 26.4, Philadelphia Eagles 21.6. Availability: expected starting quarterbacks Dak Prescott (DAL) and Joe Milton III (PHI). NFL.com official Week 12 injury report (checked Nov 26, 6:04 AM ET): neither starting quarterback has an injury designation. Joe Milton III is not PHI’s main starter this season (Jalen Hurts).",
           "market": "spread",
           "best_bet": false
         },
@@ -778,7 +852,7 @@
         },
         {
           "id": "H4",
-          "public_case": "Spread opened Dallas Cowboys −8.5 (Nov 24, 4:22 AM ET) and is Dallas Cowboys −8.5 now (Nov 24, 9:56 AM ET), a 0-point move. Total opened 48 (Nov 24, 2:28 AM ET) and is 48 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+          "public_case": "Consensus spread opened Dallas Cowboys −8.5 (Nov 24, 4:22 AM ET) and is −8.5 now. Follow The Money has no side pick. Consensus total opened 48 (Nov 24, 2:28 AM ET) and is 48.5 now, a 0.5-point move. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 26, 6:08 AM ET; the open is the first consensus line posted at or after Nov 24, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
           "market": "spread",
           "best_bet": false
         },
@@ -795,10 +869,10 @@
       },
       "sourced_reasons": [
         "Schedule, venue, TV: ESPN scoreboard, as of Nov 24, 9:56 AM ET; kickoff also matches Action Network's listed start time.",
-        "Lines: Action Network consensus line as of Nov 24, 9:56 AM ET.",
+        "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 26, 6:08 AM ET; Follow The Money uses the Action Network consensus line history.",
         "The Formula ratings: nflverse play-by-play as of Nov 24, 9:56 AM ET, Weeks 1–11 finals.",
         "The Formula total: nflverse game results, 2026 Weeks 1–11 finals.",
-        "Injuries: NFL.com official Week 12 injury report not out yet (checked Nov 24, 9:56 AM ET); Next Man Up uses each team’s last starter.",
+        "Injuries: NFL.com official Week 12 injury report (https://www.nfl.com/injuries/league/2026/reg12) and ESPN team injury updates, checked Nov 26, 6:04 AM ET; key players are noted in the Thursday morning update.",
         "Follow The Money: move from the first consensus line at or after Nov 24, 12:15 AM ET (Action Network line history).",
         "Records and points: ESPN team pages, as of Nov 24, 9:56 AM ET.",
         "Next Man Up: 2026 game scores (nflverse game results); expected starting quarterbacks from nflverse play-by-play, the NFL.com Week 12 injury report and team announcements.",
@@ -811,81 +885,81 @@
         "label": "",
         "source": "Cover Writer",
         "projected_total": 49,
-        "market_total": 48,
+        "market_total": 48.5,
         "pick": "Over",
-        "text": "Over 48"
+        "text": "Over 48.5"
       },
       "display": {
         "writer": {
           "score_line": "Projected: Dallas Cowboys 27, Philadelphia Eagles 22 (Total 49)",
           "side": "Philadelphia Eagles +8.5",
-          "ou": "Over 48",
+          "ou": "Over 48.5",
           "label": ""
         },
         "handicappers": [
           {
             "name": "The Formula",
             "side_line": "Side: Philadelphia Eagles +8.5 · Likes this side",
-            "ou_line": "O/U: Over 48",
+            "ou_line": "O/U: Over 48.5",
             "score_line": "Projected: Dallas Cowboys 27, Philadelphia Eagles 23 (Total 50)",
             "basis_line": "Net ratings Dallas Cowboys −5.9, Philadelphia Eagles −8.3 (nflverse play-by-play, Nov 24, 2026)",
             "independent": true,
             "distance_from_spread": 4.5,
-            "distance_from_total": 2.0
+            "distance_from_total": 1.5
           },
           {
             "name": "Next Man Up",
             "side_line": "Side: Philadelphia Eagles +8.5 · Likes this side",
-            "ou_line": "O/U: Under 48",
+            "ou_line": "O/U: Under 48.5",
             "score_line": "Projected: Dallas Cowboys 26, Philadelphia Eagles 21 (Total 47)",
-            "basis_line": "Projected points: Dallas Cowboys 26.4, Philadelphia Eagles 21.6. Availability: expected starting quarterbacks Dak Prescott (DAL) and Joe Milton III (PHI). NFL.com official Week 12 injury report (checked Nov 24, 9:56 AM ET): not out yet, so no quarterback is ruled out. Joe Milton III is not PHI’s main starter this season (Jalen Hurts).",
+            "basis_line": "Projected points: Dallas Cowboys 26.4, Philadelphia Eagles 21.6. Availability: expected starting quarterbacks Dak Prescott (DAL) and Joe Milton III (PHI). NFL.com official Week 12 injury report (checked Nov 26, 6:04 AM ET): neither starting quarterback has an injury designation. Joe Milton III is not PHI’s main starter this season (Jalen Hurts).",
             "independent": true,
             "distance_from_spread": 3.5,
-            "distance_from_total": 1.0
+            "distance_from_total": 1.5
           },
           {
             "name": "Letdown Watch",
             "side_line": "Side: Philadelphia Eagles +8.5 · Likes this side",
-            "ou_line": "O/U: Under 48",
+            "ou_line": "O/U: Under 48.5",
             "score_line": "Projected: Dallas Cowboys 25, Philadelphia Eagles 22 (Total 47)",
             "basis_line": "Rest and travel: Philadelphia Eagles: 4 days since its last game, travels 1312 miles; Dallas Cowboys: 4 days since its last game, plays at home. Projected: Cowboys by 4, total 47.3.",
             "independent": true,
             "distance_from_spread": 5.5,
-            "distance_from_total": 1.0
+            "distance_from_total": 1.5
           },
           {
             "name": "Follow The Money",
             "side_line": "Side: no pick (not enough line movement)",
             "ou_line": "O/U: no pick (not enough total movement)",
             "score_line": "No score of its own — reads the market (see the market line).",
-            "basis_line": "Spread opened Dallas Cowboys −8.5 (Nov 24, 4:22 AM ET) and is Dallas Cowboys −8.5 now (Nov 24, 9:56 AM ET), a 0-point move. Total opened 48 (Nov 24, 2:28 AM ET) and is 48 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+            "basis_line": "Consensus spread opened Dallas Cowboys −8.5 (Nov 24, 4:22 AM ET) and is −8.5 now. Follow The Money has no side pick. Consensus total opened 48 (Nov 24, 2:28 AM ET) and is 48.5 now, a 0.5-point move. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 26, 6:08 AM ET; the open is the first consensus line posted at or after Nov 24, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
             "independent": false,
-            "distance_from_spread": 0.5,
-            "distance_from_total": 0.0
+            "distance_from_spread": 0.0,
+            "distance_from_total": 0.5
           },
           {
             "name": "In The Trenches",
             "side_line": "Side: Philadelphia Eagles +8.5 · Likes this side",
-            "ou_line": "O/U: Over 48",
+            "ou_line": "O/U: Over 48.5",
             "score_line": "Projected: Dallas Cowboys 27, Philadelphia Eagles 22 (Total 49)",
             "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 11). Projected points: Dallas Cowboys 27.1, Philadelphia Eagles 22.1.",
             "independent": true,
             "distance_from_spread": 3.5,
-            "distance_from_total": 1.0
+            "distance_from_total": 0.5
           }
         ],
         "best_bets": [],
-        "story_text": "My Eagles vs Cowboys prediction for Thanksgiving comes with a warning: Dallas wins this game, but 8.5 points is a lot to lay with a defense that has allowed 312 points. The spread pick here is Eagles +8.5, I'm riding Over 48 on the over/under, and Cowboys 27, Eagles 22 is the final.\n\nMiranda Lambert headlines the 30th straight Salvation Army Red Kettle Kickoff halftime show at AT&T Stadium, a tradition that started with Reba McEntire at Texas Stadium in 1997. Rhonda Castillo calls a Texas girl at halftime a sign. Vinnie Scarpa calls it a concert.\n\nThe Formula: Net ratings Dallas Cowboys −5.9, Philadelphia Eagles −8.3 (nflverse play-by-play, Nov 24, 2026).\n\nDallas has the better team. The Cowboys went into Philadelphia in Week 7 and won 38-21, and they just put 51 on Tennessee. Dak Prescott has 25 touchdown throws against six interceptions, CeeDee Lamb has 1,108 receiving yards, and Javonte Williams has 10 rushing touchdowns. But Dallas is 5-6 and 2-4 at home, and the same defense gave up 46 to San Francisco the week before the Tennessee game. A team that leaks like that rarely wins by nine or more on a short week.\n\nPhiladelphia is 3-7 and lost seven straight before beating Pittsburgh 19-16 on Sunday. Joe Milton III started that win, and the card lists him as Philadelphia's expected starter. The Eagles have scored only 167 points, so they aren't winning a shootout, but Nolan Smith Jr. has six sacks, and that's enough to keep this inside a touchdown. Zack Baun, who has 65 tackles, went on injured reserve Saturday and Saquon Barkley is listed questionable with a neck injury, according to the latest injury listings.\n\nBoth teams have four days of rest, and only the Eagles have to travel.\n\nThe room agrees on the side and splits on the total. The Formula has Cowboys 27, Eagles 23, and is on Over 48. Next Man Up has Cowboys 26, Eagles 21, and is on Under 48. Letdown Watch has Cowboys 25, Eagles 22, and is on Under 48. In The Trenches has Cowboys 27, Eagles 22, and is on Over 48. All four take Philadelphia +8.5. Follow The Money has no pick.\n\nI side with the Over because of Dallas. The Cowboys have scored 337 points in eleven games and allowed 312, and their games don't stay quiet. Cowboys 27, Eagles 22 adds up to 49, one point clear of 48, and a five-point Dallas win leaves the Eagles three and a half points to spare.\n\nRhonda gets her holiday win and her halftime show. Vinnie gets a close game, a cold pretzel and a reason to keep the faith in Milton until Christmas.\n\nCowboys 27, Eagles 22. Eagles cover the 8.5. Over 48.",
+        "story_text": "My Eagles vs Cowboys prediction for Thanksgiving comes with a warning: Dallas wins this game, but 8.5 points is a lot to lay with a defense that has allowed 312 points. The spread pick here is Eagles +8.5, I'm riding Over 48.5 on the over/under, and Cowboys 27, Eagles 22 is the final.\n\nMiranda Lambert headlines the 30th straight Salvation Army Red Kettle Kickoff halftime show at AT&T Stadium, a tradition that started with Reba McEntire at Texas Stadium in 1997. Rhonda Castillo calls a Texas girl at halftime a sign. Vinnie Scarpa calls it a concert.\n\nThe Formula: Net ratings Dallas Cowboys −5.9, Philadelphia Eagles −8.3 (nflverse play-by-play, Nov 24, 2026).\n\nDallas has the better team. The Cowboys went into Philadelphia in Week 7 and won 38-21, and they just put 51 on Tennessee. Dak Prescott has 25 touchdown throws against six interceptions, CeeDee Lamb has 1,108 receiving yards, and Javonte Williams has 10 rushing touchdowns. But Dallas is 5-6 and 2-4 at home, and the same defense gave up 46 to San Francisco the week before the Tennessee game. A team that leaks like that rarely wins by nine or more on a short week.\n\nPhiladelphia is 3-7 and lost seven straight before beating Pittsburgh 19-16 on Sunday. Joe Milton III started that win, and the card lists him as Philadelphia's expected starter. The Eagles have scored only 167 points, so they aren't winning a shootout, but Nolan Smith Jr. has six sacks, and that's enough to keep this inside a touchdown. Zack Baun, who has 65 tackles, went on injured reserve Saturday. Saquon Barkley was a full participant in practice and carries no game status on the final injury report.\n\nBoth teams have four days of rest, and only the Eagles have to travel.\n\nThursday morning update: as of Nov 26, 6:08 AM ET, DraftKings has Cowboys −8.5, total 48.5. This preview was written against Cowboys −8.5, total 48, so the spread is unchanged and the total rose from 48 to 48.5. We stay on Eagles +8.5 with Cowboys 27, Eagles 22, because Cowboys by 5 stays inside the 8.5. The Over holds, now 48.5, with 49 points. Official statuses (NFL.com Week 12 report, ESPN team updates, checked Nov 26, 6:04 AM ET): Cowboys tight end Jake Ferguson (knee, ankle), guard Tyler Booker (ankle), safety P.J. Locke (concussion) and receiver Jonathan Mingo (ankle) are out, and safety Jalen Thompson (hamstring) is questionable. Eagles linebacker Arnold Ebiketie (oblique) and cornerback Jonathan Jones (ankle) are out, and Jalen Hurts remains on injured reserve. Dak Prescott and Joe Milton III carry no injury designation.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread has not moved from Cowboys −8.5, and the consensus total opened 48 and is 48.5 now, so it has no side pick (no move of a full point) and has no total pick (no move of a full point). The Formula: Cowboys 27, Eagles 23 on net ratings. It stays on Eagles +8.5 (Cowboys by 4 stays inside the 8.5) and stays on the Over, now 48.5 (50 points). Next Man Up: Cowboys 26, Eagles 21 on who's playing. It stays on Eagles +8.5 (Cowboys by 5 stays inside the 8.5) and stays on the Under, now 48.5 (47 points). Letdown Watch: Cowboys 25, Eagles 22 on rest and travel. It stays on Eagles +8.5 (Cowboys by 3 stays inside the 8.5) and stays on the Under, now 48.5 (47 points). In The Trenches: Cowboys 27, Eagles 22 on the line of scrimmage. It stays on Eagles +8.5 (Cowboys by 5 stays inside the 8.5) and stays on the Over, now 48.5 (49 points).\n\nI side with the Over because of Dallas. The Cowboys have scored 337 points in eleven games and allowed 312, and their games don't stay quiet. Cowboys 27, Eagles 22 adds up to 49, half a point clear of 48.5, and a five-point Dallas win leaves the Eagles three and a half points to spare.\n\nRhonda gets her holiday win and her halftime show. Vinnie gets a close game, a cold pretzel and a reason to keep the faith in Milton until Christmas.\n\nCowboys 27, Eagles 22. Eagles cover the 8.5. Over 48.5.",
         "fanatic_score_line": "Projected: Dallas Cowboys 27, Philadelphia Eagles 22",
         "market": {
-          "score_line": "Market: Dallas Cowboys 28, Philadelphia Eagles 20 (Total 48)",
+          "score_line": "Market: Dallas Cowboys 29, Philadelphia Eagles 20 (Total 49)",
           "spread": "Dallas Cowboys −8.5",
-          "total": "48",
-          "source": "Consensus line as of Nov 24, 9:56 AM ET",
+          "total": "48.5",
+          "source": "ESPN game summary pickcenter (DraftKings), as of Nov 26, 6:08 AM ET",
           "note": "The market’s own numbers, shown for comparison only."
         }
       },
-      "gambler_story": "My Eagles vs Cowboys prediction for Thanksgiving comes with a warning: Dallas wins this game, but 8.5 points is a lot to lay with a defense that has allowed 312 points. The spread pick here is Eagles +8.5, I'm riding Over 48 on the over/under, and Cowboys 27, Eagles 22 is the final.\n\nMiranda Lambert headlines the 30th straight Salvation Army Red Kettle Kickoff halftime show at AT&T Stadium, a tradition that started with Reba McEntire at Texas Stadium in 1997. Rhonda Castillo calls a Texas girl at halftime a sign. Vinnie Scarpa calls it a concert.\n\nThe Formula: Net ratings Dallas Cowboys −5.9, Philadelphia Eagles −8.3 (nflverse play-by-play, Nov 24, 2026).\n\nDallas has the better team. The Cowboys went into Philadelphia in Week 7 and won 38-21, and they just put 51 on Tennessee. Dak Prescott has 25 touchdown throws against six interceptions, CeeDee Lamb has 1,108 receiving yards, and Javonte Williams has 10 rushing touchdowns. But Dallas is 5-6 and 2-4 at home, and the same defense gave up 46 to San Francisco the week before the Tennessee game. A team that leaks like that rarely wins by nine or more on a short week.\n\nPhiladelphia is 3-7 and lost seven straight before beating Pittsburgh 19-16 on Sunday. Joe Milton III started that win, and the card lists him as Philadelphia's expected starter. The Eagles have scored only 167 points, so they aren't winning a shootout, but Nolan Smith Jr. has six sacks, and that's enough to keep this inside a touchdown. Zack Baun, who has 65 tackles, went on injured reserve Saturday and Saquon Barkley is listed questionable with a neck injury, according to the latest injury listings.\n\nBoth teams have four days of rest, and only the Eagles have to travel.\n\nThe room agrees on the side and splits on the total. The Formula has Cowboys 27, Eagles 23, and is on Over 48. Next Man Up has Cowboys 26, Eagles 21, and is on Under 48. Letdown Watch has Cowboys 25, Eagles 22, and is on Under 48. In The Trenches has Cowboys 27, Eagles 22, and is on Over 48. All four take Philadelphia +8.5. Follow The Money has no pick.\n\nI side with the Over because of Dallas. The Cowboys have scored 337 points in eleven games and allowed 312, and their games don't stay quiet. Cowboys 27, Eagles 22 adds up to 49, one point clear of 48, and a five-point Dallas win leaves the Eagles three and a half points to spare.\n\nRhonda gets her holiday win and her halftime show. Vinnie gets a close game, a cold pretzel and a reason to keep the faith in Milton until Christmas.\n\nCowboys 27, Eagles 22. Eagles cover the 8.5. Over 48.",
+      "gambler_story": "My Eagles vs Cowboys prediction for Thanksgiving comes with a warning: Dallas wins this game, but 8.5 points is a lot to lay with a defense that has allowed 312 points. The spread pick here is Eagles +8.5, I'm riding Over 48.5 on the over/under, and Cowboys 27, Eagles 22 is the final.\n\nMiranda Lambert headlines the 30th straight Salvation Army Red Kettle Kickoff halftime show at AT&T Stadium, a tradition that started with Reba McEntire at Texas Stadium in 1997. Rhonda Castillo calls a Texas girl at halftime a sign. Vinnie Scarpa calls it a concert.\n\nThe Formula: Net ratings Dallas Cowboys −5.9, Philadelphia Eagles −8.3 (nflverse play-by-play, Nov 24, 2026).\n\nDallas has the better team. The Cowboys went into Philadelphia in Week 7 and won 38-21, and they just put 51 on Tennessee. Dak Prescott has 25 touchdown throws against six interceptions, CeeDee Lamb has 1,108 receiving yards, and Javonte Williams has 10 rushing touchdowns. But Dallas is 5-6 and 2-4 at home, and the same defense gave up 46 to San Francisco the week before the Tennessee game. A team that leaks like that rarely wins by nine or more on a short week.\n\nPhiladelphia is 3-7 and lost seven straight before beating Pittsburgh 19-16 on Sunday. Joe Milton III started that win, and the card lists him as Philadelphia's expected starter. The Eagles have scored only 167 points, so they aren't winning a shootout, but Nolan Smith Jr. has six sacks, and that's enough to keep this inside a touchdown. Zack Baun, who has 65 tackles, went on injured reserve Saturday. Saquon Barkley was a full participant in practice and carries no game status on the final injury report.\n\nBoth teams have four days of rest, and only the Eagles have to travel.\n\nThursday morning update: as of Nov 26, 6:08 AM ET, DraftKings has Cowboys −8.5, total 48.5. This preview was written against Cowboys −8.5, total 48, so the spread is unchanged and the total rose from 48 to 48.5. We stay on Eagles +8.5 with Cowboys 27, Eagles 22, because Cowboys by 5 stays inside the 8.5. The Over holds, now 48.5, with 49 points. Official statuses (NFL.com Week 12 report, ESPN team updates, checked Nov 26, 6:04 AM ET): Cowboys tight end Jake Ferguson (knee, ankle), guard Tyler Booker (ankle), safety P.J. Locke (concussion) and receiver Jonathan Mingo (ankle) are out, and safety Jalen Thompson (hamstring) is questionable. Eagles linebacker Arnold Ebiketie (oblique) and cornerback Jonathan Jones (ankle) are out, and Jalen Hurts remains on injured reserve. Dak Prescott and Joe Milton III carry no injury designation.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread has not moved from Cowboys −8.5, and the consensus total opened 48 and is 48.5 now, so it has no side pick (no move of a full point) and has no total pick (no move of a full point). The Formula: Cowboys 27, Eagles 23 on net ratings. It stays on Eagles +8.5 (Cowboys by 4 stays inside the 8.5) and stays on the Over, now 48.5 (50 points). Next Man Up: Cowboys 26, Eagles 21 on who's playing. It stays on Eagles +8.5 (Cowboys by 5 stays inside the 8.5) and stays on the Under, now 48.5 (47 points). Letdown Watch: Cowboys 25, Eagles 22 on rest and travel. It stays on Eagles +8.5 (Cowboys by 3 stays inside the 8.5) and stays on the Under, now 48.5 (47 points). In The Trenches: Cowboys 27, Eagles 22 on the line of scrimmage. It stays on Eagles +8.5 (Cowboys by 5 stays inside the 8.5) and stays on the Over, now 48.5 (49 points).\n\nI side with the Over because of Dallas. The Cowboys have scored 337 points in eleven games and allowed 312, and their games don't stay quiet. Cowboys 27, Eagles 22 adds up to 49, half a point clear of 48.5, and a five-point Dallas win leaves the Eagles three and a half points to spare.\n\nRhonda gets her holiday win and her halftime show. Vinnie gets a close game, a cold pretzel and a reason to keep the faith in Milton until Christmas.\n\nCowboys 27, Eagles 22. Eagles cover the 8.5. Over 48.5.",
       "fanatic_story": "Rhonda Castillo has watched every Cowboys Thanksgiving halftime show since Reba McEntire opened the whole tradition at Texas Stadium in 1997, and she has opinions about all thirty of them. This year's headliner for the Salvation Army Red Kettle Kickoff is Miranda Lambert, raised in East Texas about an hour from Dallas, and Rhonda has decided that a hometown girl on the halftime stage is a sign.\n\nVinnie Scarpa flew down from South Philadelphia on Tuesday night, mostly to argue with her in person. He brought a soft pretzel in his jacket pocket for luck. It's been in there since the airport.\n\nVinnie: You think a country singer decides a football game?\n\nRhonda: I think a Texas girl at halftime in Arlington on Thanksgiving doesn't happen by accident. Also, we beat you by seventeen in your own building last month.\n\nThat's the part Vinnie doesn't love. The Cowboys went into Philadelphia in October and ran the Eagles off their own field, and the Eagles then lost two more before they finally found a win. Seven losses in a row, start to finish. Vinnie stopped answering texts from his cousins around Halloween.\n\nThen last Sunday happened. The Eagles beat Pittsburgh by three, Joe Milton III had the ball in his hands, and Vinnie walked out of the Linc like a man who'd been let out of jail.\n\nVinnie: One win. That's all I needed. Milton's got the strongest arm I've seen in green in years. He throws a deep ball that comes down with snow on it.\n\nRhonda: He'll be throwing it to Caleb Downs.\n\nShe's not wrong to feel good. Dak Prescott has 25 touchdown throws and only six interceptions. CeeDee Lamb has 1,108 receiving yards and nine scores, and Javonte Williams has run for 10 touchdowns. This Dallas team can score from anywhere, and it showed it Sunday by dropping fifty-one on Tennessee.\n\nVinnie: You also gave up forty-six to San Francisco the week before. Your defense has a revolving door.\n\nRhonda: Quinnen Williams has eight sacks. Tell Milton to bring a helmet with extra padding.\n\nThat's the honest truth about these Cowboys. They are thrilling and maddening in the same afternoon, a team that has scored a ton and given up nearly as much. Rhonda has a rule about Thanksgiving games: never leave the couch until the clock is all zeros, because this team has made her cry in the fourth quarter more than once this year.\n\nVinnie, for his part, knows the Eagles don't have the firepower to trade touchdowns all day. What they have is Nolan Smith Jr., who has six sacks, and a defense that wants to make this ugly, even with Zack Baun on injured reserve. DeVonta Smith and Saquon Barkley have had quieter years than anybody in Philadelphia expected, and Vinnie would like a word with the football gods about that.\n\nVinnie: Just keep it close into the fourth. Make Dak earn it. That's our whole plan.\n\nRhonda: Your whole plan is hoping.\n\nVinnie: Hoping got us one win. I'll ride it.\n\nHere's what both of them agree on. The red kettles come out at halftime, Miranda Lambert sings, and everybody watching gets asked to give something to people who need it this winter. Rhonda has already put a twenty in the kettle outside her grocery store in Grand Prairie. Vinnie says he'll match it if the Eagles keep it within one score.\n\nRhonda: That's not how charity works, Vincent.\n\nVinnie: It's how Philadelphia works.\n\nThe turkey will be dry, the arguments will be loud, and the Cowboys will probably need a late stop to put the Eagles away. Rhonda will be on her feet for it. Vinnie will be holding a cold pretzel and praying.\n\nMy call: Cowboys 27, Eagles 22.",
       "fanatic_final_sentence": "Cowboys 27, Eagles 22.",
       "preview_sources": [],
