@@ -4,9 +4,219 @@
   "theme": "mmqb",
   "theme_label": "Monday Morning Quarterback",
   "published_at": "2026-11-25T05:32:33Z",
-  "count": 4,
+  "count": 6,
   "lead_id": null,
   "articles": [
+    {
+      "id": "fanatic_team-lar",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "lar",
+      "team_ids": [
+        "lar"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873079",
+      "title": "Los Angeles Rams vs Green Bay Packers Week 12: Corum's Birthday Bash, 26-13",
+      "byline": "",
+      "matchup": "Final: Los Angeles Rams (7-4) 26, Green Bay Packers (6-5) 13, Wed., Nov. 25, SoFi Stadium, Inglewood. Next: vs Kansas City Chiefs, Thu., Dec. 3, 8:15 PM ET, SoFi Stadium, Inglewood",
+      "date": "2026-11-25",
+      "word_count": 398,
+      "text": "Los Angeles Rams 26, Green Bay Packers 13, and Blake Corum spent his 26th birthday running through Green Bay 32 times in the NFL's first-ever Thanksgiving Eve game. We wore the Fearsome White uniforms for the first time, built to honor Deacon Jones, Merlin Olsen, Lamar Lundy and Rosey Grier. Grier, 94, was in the building, and he got a huge ovation when he was honored during a timeout.\n\nThe old Fearsome Foursome would have loved this front. Nate Landman forced a Tucker Kraft fumble on Green Bay's second drive, Quentin Lake fell on it, and Brandon McManus turned it into his second field goal. Byron Young got home on Jordan Love, and Jaylen McCollough and Emmanuel Forbes Jr. each intercepted him. Green Bay ran 14 times all night for 55 yards.\n\nIt was 13-13 at halftime, and nobody in Inglewood felt good about it. Kyren Williams had scored from 7 to finish a 79-yard drive, but Love answered with an 80-yarder of his own, and Trey Smack hit from 54 and 48. So Sean McVay handed it to Corum, and kept handing it to him.\n\nThe first drive of the second half went 14 plays and 64 yards and burned 8:02. Corum got stuffed at the 2, then at the 1, and finally plowed in from 1 yard out after a replay review for 20-13. He ran 25 times for 161 yards in the second half alone. Green Bay had the ball for 6:15 after halftime.\n\nMatthew Stafford threw for 140 yards and didn't need a yard more. Konata Mumpfield caught four for 69. Corum ripped off 35 yards on third-and-1 to set up McManus from 40 for 23-13, then broke a 29-yarder to the Green Bay 15 on our last drive. McManus closed it from 30 with 27 seconds left. Four field goal tries, four makes, against the team he used to kick for.\n\nOne bad moment: Kamren Kinchens was ejected for the hit that knocked Christian Watson out of the game before halftime. On the bright side, McVay finally beat Matt LaFleur, his old offensive coordinator, and we snapped a five-game skid against the Packers.\n\nFive straight wins, 7-4, and the Kansas City Chiefs come to SoFi Stadium on Thursday, Dec. 3, at 8:15 PM ET. Short turnaround, so somebody get Corum a cold tub and a slice of birthday cake. Whose house? Rams house.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Los Angeles Rams 26, Green Bay Packers 13, and Blake Corum spent his 26th birthday running through Green Bay 32 times in the NFL's first-ever Thanksgiving Eve game. We wore the Fearsome White uniforms for the first time, built to honor Deacon Jones, Merlin Olsen, Lamar Lundy and Rosey Grier. Grier, 94, was in the building, and he got a huge ovation when he was honored during a timeout."
+        },
+        {
+          "type": "paragraph",
+          "text": "The old Fearsome Foursome would have loved this front. Nate Landman forced a Tucker Kraft fumble on Green Bay's second drive, Quentin Lake fell on it, and Brandon McManus turned it into his second field goal. Byron Young got home on Jordan Love, and Jaylen McCollough and Emmanuel Forbes Jr. each intercepted him. Green Bay ran 14 times all night for 55 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "It was 13-13 at halftime, and nobody in Inglewood felt good about it. Kyren Williams had scored from 7 to finish a 79-yard drive, but Love answered with an 80-yarder of his own, and Trey Smack hit from 54 and 48. So Sean McVay handed it to Corum, and kept handing it to him."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first drive of the second half went 14 plays and 64 yards and burned 8:02. Corum got stuffed at the 2, then at the 1, and finally plowed in from 1 yard out after a replay review for 20-13. He ran 25 times for 161 yards in the second half alone. Green Bay had the ball for 6:15 after halftime."
+        },
+        {
+          "type": "paragraph",
+          "text": "Matthew Stafford threw for 140 yards and didn't need a yard more. Konata Mumpfield caught four for 69. Corum ripped off 35 yards on third-and-1 to set up McManus from 40 for 23-13, then broke a 29-yarder to the Green Bay 15 on our last drive. McManus closed it from 30 with 27 seconds left. Four field goal tries, four makes, against the team he used to kick for."
+        },
+        {
+          "type": "paragraph",
+          "text": "One bad moment: Kamren Kinchens was ejected for the hit that knocked Christian Watson out of the game before halftime. On the bright side, McVay finally beat Matt LaFleur, his old offensive coordinator, and we snapped a five-game skid against the Packers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Five straight wins, 7-4, and the Kansas City Chiefs come to SoFi Stadium on Thursday, Dec. 3, at 8:15 PM ET. Short turnaround, so somebody get Corum a cold tub and a slice of birthday cake. Whose house? Rams house."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Los Angeles Rams beat the Green Bay Packers 26-13 on Wednesday, Nov. 25, at SoFi Stadium. The Rams are 7-4."
+        },
+        {
+          "type": "fact",
+          "text": "Blake Corum ran 32 times for a career-high 184 yards and a touchdown on his 26th birthday, and Kyren Williams added a 7-yard touchdown run."
+        },
+        {
+          "type": "fact",
+          "text": "Brandon McManus made all four field goals, and the defense forced three turnovers in the Fearsome White uniforms' debut."
+        },
+        {
+          "type": "jab",
+          "text": "Green Bay had the ball for 6:15 in the second half. Hope the Packers enjoyed the view."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Kansas City Chiefs, Thursday, Dec. 3, 8:15 PM ET, SoFi Stadium, Inglewood."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Rams 26, Packers 13 (Nov. 25, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873079"
+        },
+        {
+          "label": "ESPN play-by-play, Packers at Rams (Nov. 25, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873079"
+        },
+        {
+          "label": "ESPN game page, Packers at Rams (Nov. 25, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873079"
+        },
+        {
+          "label": "ESPN Rams schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/lar/los-angeles-rams"
+        },
+        {
+          "label": "ESPN game recap (AP), Rams 26, Packers 13 (Nov. 25, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873079"
+        },
+        {
+          "label": "TheRams.com: Rams honor the Fearsome Foursome in the lead up to historic Thanksgiving Eve game (Nov. 25, 2026)",
+          "url": "https://www.therams.com/news/rams-honor-fearsome-foursome-historic-thanksgiving-eve-game-2026"
+        },
+        {
+          "label": "Los Angeles Times: Myles Garrett and Rams aim for 'Fearsome' effort vs. Packers (Nov. 24, 2026)",
+          "url": "https://www.latimes.com/sports/rams/story/2026-11-24/myles-garrett-rams-aim-for-fearsome-effort-vs-packers"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-gb",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "gb",
+      "team_ids": [
+        "gb"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873079",
+      "title": "Green Bay Packers vs Los Angeles Rams Week 12: Ground Down in Inglewood, 13-26",
+      "byline": "",
+      "matchup": "Final: Los Angeles Rams (7-4) 26, Green Bay Packers (6-5) 13, Wed., Nov. 25, SoFi Stadium, Inglewood. Next: at New Orleans Saints, Sun., Dec. 6, 1:00 PM ET, Caesars Superdome, New Orleans",
+      "date": "2026-11-25",
+      "word_count": 416,
+      "text": "The Los Angeles Rams beat the Green Bay Packers 26-13 on Thanksgiving Eve at SoFi Stadium, and Green Bay is carrying a sour taste into the holiday. Matthew Golden spent this week handing out Thanksgiving meals to families at his first Golden Turkey Giveaway. Wednesday night, the Rams ate ours.\n\nFor one half we were right there. Trey Smack drilled a 54-yarder to get us on the board, and after Kyren Williams scored from 7 for 13-3, Jordan Love went 80 yards in seven plays. Christian Watson for 21, Golden for 39 down the right side, and Watson again from 6 yards out. 13-10. Smack hit from 48 with 1:50 left in the half, and we went to the locker room tied 13-13.\n\nThat field goal drive cost us plenty. On the fourth-down throw right before it, Watson took a hit from Kamren Kinchens, who was ejected, and Watson was ruled out with a concussion. We lost our best receiver, and the night tipped right there.\n\nThen came Blake Corum. The Rams opened the third with a 14-play, 64-yard drive that ate 8:02, and Corum finished it from the 1. 20-13. Ty'Ron Hopper gave us life with an interception of Matthew Stafford, and two plays later Love threw it right back, Jaylen McCollough grabbing it at the Rams 3. In the fourth, Love went deep for Bo Melton and Emmanuel Forbes Jr. took that one too.\n\nCorum carried 32 times for 184 yards. The Rams ran 47 times for 241 yards and held the ball for 40:40. We had it for 19:20 and ran for 55 yards on 14 carries. You don't win in this league holding the ball for a third of the night. Brandon McManus, who used to kick for us, made all four of his field goals, the last with 27 seconds left for 26-13.\n\nA few bright spots. Micah Parsons sacked Stafford in his season debut. Watson had four catches for 65 yards before he went down. Keisean Nixon, Evan Williams, Isaiah McDuffie and Hopper made nine tackles apiece, which tells you how often Corum came through the middle.\n\nWe're 6-5 with two straight losses. Thursday morning the Festival Foods Turkey Trot goes off at 8 a.m. outside Lambeau Field, and I'll be out there running this one off. Then a long week to heal up before we visit the Saints at Caesars Superdome, Sunday, Dec. 6, 1:00 PM ET. Get Christian Watson healthy, get the run game going. Go Pack Go.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Los Angeles Rams beat the Green Bay Packers 26-13 on Thanksgiving Eve at SoFi Stadium, and Green Bay is carrying a sour taste into the holiday. Matthew Golden spent this week handing out Thanksgiving meals to families at his first Golden Turkey Giveaway. Wednesday night, the Rams ate ours."
+        },
+        {
+          "type": "paragraph",
+          "text": "For one half we were right there. Trey Smack drilled a 54-yarder to get us on the board, and after Kyren Williams scored from 7 for 13-3, Jordan Love went 80 yards in seven plays. Christian Watson for 21, Golden for 39 down the right side, and Watson again from 6 yards out. 13-10. Smack hit from 48 with 1:50 left in the half, and we went to the locker room tied 13-13."
+        },
+        {
+          "type": "paragraph",
+          "text": "That field goal drive cost us plenty. On the fourth-down throw right before it, Watson took a hit from Kamren Kinchens, who was ejected, and Watson was ruled out with a concussion. We lost our best receiver, and the night tipped right there."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came Blake Corum. The Rams opened the third with a 14-play, 64-yard drive that ate 8:02, and Corum finished it from the 1. 20-13. Ty'Ron Hopper gave us life with an interception of Matthew Stafford, and two plays later Love threw it right back, Jaylen McCollough grabbing it at the Rams 3. In the fourth, Love went deep for Bo Melton and Emmanuel Forbes Jr. took that one too."
+        },
+        {
+          "type": "paragraph",
+          "text": "Corum carried 32 times for 184 yards. The Rams ran 47 times for 241 yards and held the ball for 40:40. We had it for 19:20 and ran for 55 yards on 14 carries. You don't win in this league holding the ball for a third of the night. Brandon McManus, who used to kick for us, made all four of his field goals, the last with 27 seconds left for 26-13."
+        },
+        {
+          "type": "paragraph",
+          "text": "A few bright spots. Micah Parsons sacked Stafford in his season debut. Watson had four catches for 65 yards before he went down. Keisean Nixon, Evan Williams, Isaiah McDuffie and Hopper made nine tackles apiece, which tells you how often Corum came through the middle."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 6-5 with two straight losses. Thursday morning the Festival Foods Turkey Trot goes off at 8 a.m. outside Lambeau Field, and I'll be out there running this one off. Then a long week to heal up before we visit the Saints at Caesars Superdome, Sunday, Dec. 6, 1:00 PM ET. Get Christian Watson healthy, get the run game going. Go Pack Go."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Green Bay Packers lost 26-13 to the Los Angeles Rams on Wednesday, Nov. 25, at SoFi Stadium. The Packers are 6-5."
+        },
+        {
+          "type": "fact",
+          "text": "Jordan Love threw a 6-yard touchdown to Christian Watson, and Trey Smack kicked field goals of 54 and 48 yards for a 13-13 halftime tie."
+        },
+        {
+          "type": "fact",
+          "text": "Blake Corum ran 32 times for 184 yards, and Love was intercepted twice in the second half."
+        },
+        {
+          "type": "jab",
+          "text": "The Rams had the ball for 40:40. We spent most of Thanksgiving Eve watching them run."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at New Orleans Saints, Sunday, Dec. 6, 1:00 PM ET, Caesars Superdome, New Orleans."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Rams 26, Packers 13 (Nov. 25, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873079"
+        },
+        {
+          "label": "ESPN play-by-play, Packers at Rams (Nov. 25, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873079"
+        },
+        {
+          "label": "ESPN game page, Packers at Rams (Nov. 25, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873079"
+        },
+        {
+          "label": "ESPN Packers schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/gb/green-bay-packers"
+        },
+        {
+          "label": "ESPN game recap (AP), Rams 26, Packers 13 (Nov. 25, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873079"
+        },
+        {
+          "label": "ESPN: Rams' Kamren Kinchens ejected as hit leaves Packers' Christian Watson concussed (Nov. 25, 2026)",
+          "url": "https://www.espn.com/nfl/story/_/id/50600753/rams-kam-kinchens-ejected-hit-christian-watson"
+        },
+        {
+          "label": "Packers.com: Photos, Matthew Golden hosts first annual turkey giveaway (Nov. 23, 2026)",
+          "url": "https://www.packers.com/photos/photos-matthew-golden-hosts-first-annual-turkey-giveaway-2026"
+        },
+        {
+          "label": "Local Green Bay: Thanksgiving in Green Bay 2026, Festival Foods Turkey Trot at Lambeau Field",
+          "url": "https://localgreenbay.com/thanksgiving/"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
     {
       "id": "fanatic_team-miami-oh",
       "kind": "fanatic_team",
