@@ -3081,13 +3081,13 @@
     "texas",
     "texas-a-m"
    ],
-   "spread": "Texas Longhorns −12.5",
+   "spread": "Texas A&M Aggies +10.5",
    "total_line": 40.5,
    "prediction": {
     "away_score": 26,
     "home_score": 18,
     "winner": "Texas Longhorns",
-    "covers": "Texas A&M Aggies +12.5"
+    "covers": "Texas A&M Aggies +10.5"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -3096,79 +3096,179 @@
    "display": {
     "writer": {
      "score_line": "Projected: Texas Longhorns 26, Texas A&M Aggies 18 (Total 44)",
-     "side": "Texas A&M Aggies +12.5",
+     "side": "Texas A&M Aggies +10.5",
      "ou": "Over 40.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Texas A&M Aggies +12.5",
+      "side_line": "Side: Texas Longhorns −10.5",
       "ou_line": "O/U: Over 40.5 · Likes this total",
       "score_line": "Projected: Texas Longhorns 29, Texas A&M Aggies 18 (Total 47)",
       "basis_line": "Net ratings Texas Longhorns 25.4, Texas A&M Aggies 10.1 (ESPN Football Power Index, Nov 23, 2026)",
       "independent": true,
-      "distance_from_spread": 1.5,
+      "distance_from_spread": 0.5,
       "distance_from_total": 6.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Texas A&M Aggies +12.5 · Likes this side",
+      "side_line": "Side: Texas A&M Aggies +10.5 · Likes this side",
       "ou_line": "O/U: Under 40.5 · Likes this total",
       "score_line": "Projected: Texas Longhorns 23, Texas A&M Aggies 15 (Total 38)",
       "basis_line": "With the players available: projected points Texas Longhorns 23.4, Texas A&M Aggies 15.0.",
       "independent": true,
-      "distance_from_spread": 4.5,
+      "distance_from_spread": 2.5,
       "distance_from_total": 2.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Texas Longhorns −12.5",
+      "side_line": "Side: Texas Longhorns −10.5 · Likes this side",
       "ou_line": "O/U: Over 40.5 · Likes this total",
       "score_line": "Projected: Texas Longhorns 29, Texas A&M Aggies 16 (Total 45)",
       "basis_line": "Rest and travel read: projected points Texas Longhorns 29.0, Texas A&M Aggies 15.6.",
       "independent": true,
-      "distance_from_spread": 0.5,
+      "distance_from_spread": 2.5,
       "distance_from_total": 4.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 23, 10:35 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Texas A&M Aggies +11.5 (Nov 24, 2:06 AM ET) and is +11 now. Follow The Money has no side pick. Consensus total opened 40.5 (Nov 24, 2:05 AM ET) and is 40.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 27, 6:13 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Texas A&M Aggies +12.5 · Likes this side",
+      "side_line": "Side: Texas A&M Aggies +10.5 · Likes this side",
       "ou_line": "O/U: this card reads sides only",
       "score_line": "Projected: Texas A&M Aggies 24, Texas Longhorns 22 (Total 46)",
-      "basis_line": "This read points to a side only. Texas Longhorns 3.6 ypc vs Texas A&M Aggies allowing 3.9; Texas A&M Aggies 4.0 ypc vs Texas Longhorns allowing 3.0 (2026 season). Texas A&M Aggies run game 1.0 ypc above what the opponent allows, which favours Texas A&M Aggies. Side: Texas A&M Aggies +12.5.",
+      "basis_line": "This read points to a side only. Texas Longhorns 3.6 ypc vs Texas A&M Aggies allowing 3.9; Texas A&M Aggies 4.0 ypc vs Texas Longhorns allowing 3.0 (2026 season). Texas A&M Aggies run game 1.0 ypc above what the opponent allows, which favours Texas A&M Aggies. Side: Texas A&M Aggies +10.5.",
       "independent": true,
-      "distance_from_spread": 14.5,
+      "distance_from_spread": 12.5,
       "distance_from_total": 5.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "Friday night is the Maroon Out Game at Kyle Field, the student-led tradition born the night a sea of maroon shirts helped Texas A&M upset second-ranked Nebraska. My Texas vs Texas A&M pick is Texas A&M Aggies +12.5 and the Over 40.5: the No. 5 Longhorns win the rivalry game, but 12.5 points is too many to lay on the road against a full house of maroon.\n\nCaro Whitfield has priced the Aggie roster and isn't impressed. \"Four and seven, no bowl, and three different quarterbacks on the board. I'm pricing that offense at a nickel.\"\n\nColt Wendeborn answers by explaining the tradition, then explaining why it matters. \"Maroon Out started with an upset of the No. 2 team in the country. We don't wear the shirts for decoration, Caro. We wear them because it worked.\"\n\nTexas has every reason to play hard. A Texas loss ends its SEC title-game hopes in every scenario, and a win sends the Longhorns to Atlanta unless four other games break against them. Arch Manning has 2,485 yards, 21 touchdowns and 10 interceptions, and he went 21 of 25 for 287 yards in last week's 45-3 win over Arkansas. Colin Simmons has 10.5 sacks for a defense that gives up 16.5 points a game.\n\nSo why take the Aggies? Because Texas doesn't blow teams out on the road in this conference. The Longhorns won 20-17 at Tennessee, 34-20 at Missouri and 22-21 at LSU. Their two losses were both by three. Steve Sarkisian's team is very good and still plays close games, and a rivalry night in College Station is where they happen.\n\nThe Texas A&M side of it is ugly, I'll admit. The Aggies have lost four straight, scored 9, 7 and 7 points in their last three, and Mike Elko hasn't said whether Marcel Reed, Brady Hart or Helaman Casuga takes the first snap. Hart went 8 of 20 for 131 yards at Oklahoma. Reed has 1,712 yards with 8 touchdowns and 9 interceptions. I'm pricing this as a backup-quarterback game either way, and it still comes out inside the number because the A&M defense, allowing 19.8 points a game, keeps it from getting silly.\n\nThe Over is about Texas. The Longhorns score 31.5 a game, and I have them at 26 by themselves, which leaves the Aggies needing 15 to get us there. I have 44. DraftKings opened Texas Longhorns −2.5 with a 53.5 total, and as of Monday it sits at −12.5 and 40.5.\n\nThree of the four scoring cards are on the home team. The Formula has Texas 29-18 with Texas A&M Aggies +12.5 and likes the Over 40.5. Next Man Up has Texas 23-15, likes the Aggies and likes the Under. Letdown Watch is the lone Texas card at 29-16, takes the Longhorns and likes the Over. In The Trenches has A&M winning 24-22, likes the Aggies and makes no over/under call. Follow The Money's side and total are both pending.\n\nLetdown Watch: \"In The Trenches has A&M winning outright. Somebody take the maroon shirt off that card.\"\n\nIn The Trenches: \"You've never seen a Thanksgiving weekend you didn't think was a letdown, Letdown Watch.\"\n\nMy final is Texas Longhorns 26, Texas A&M Aggies 18. Caro calls it as forecast.\n\nTexas Longhorns 26, Texas A&M Aggies 18. Texas A&M Aggies cover the 12.5. Over 40.5.",
+    "story_text": "Friday night is the Maroon Out Game at Kyle Field, the student-led tradition born the night a sea of maroon shirts helped Texas A&M upset second-ranked Nebraska. My Texas vs Texas A&M pick is Texas A&M Aggies +10.5 and the Over 40.5: the No. 5 Longhorns win the rivalry game, but 10.5 points is too many to lay on the road against a full house of maroon.\n\nCaro Whitfield has priced the Aggie roster and isn't impressed. \"Four and seven, no bowl, and three different quarterbacks on the board. I'm pricing that offense at a nickel.\"\n\nColt Wendeborn answers by explaining the tradition, then explaining why it matters. \"Maroon Out started with an upset of the No. 2 team in the country. We don't wear the shirts for decoration, Caro. We wear them because it worked.\"\n\nTexas has every reason to play hard. A Texas loss ends its SEC title-game hopes in every scenario, and a win sends the Longhorns to Atlanta unless four other games break against them. Arch Manning has 2,485 yards, 21 touchdowns and 10 interceptions, and he went 21 of 25 for 287 yards in last week's 45-3 win over Arkansas. Colin Simmons, listed questionable, has 10.5 sacks for a defense that gives up 16.5 points a game.\n\nSo why take the Aggies? Because Texas doesn't blow teams out on the road in this conference. The Longhorns won 20-17 at Tennessee, 34-20 at Missouri and 22-21 at LSU. Their two losses were both by three. Steve Sarkisian's team is very good and still plays close games, and a rivalry night in College Station is where they happen.\n\nThe Texas A&M side of it is ugly, I'll admit. The Aggies have lost four straight, scored 9, 7 and 7 points in their last three, and Mike Elko hasn't said whether Marcel Reed, Brady Hart or Helaman Casuga takes the first snap. Hart went 8 of 20 for 131 yards at Oklahoma. Reed has 1,712 yards with 8 touchdowns and 9 interceptions. I'm pricing this as a backup-quarterback game either way, and it still comes out inside the number because the A&M defense, allowing 19.8 points a game, keeps it from getting silly.\n\nThe Over is about Texas. The Longhorns score 31.5 a game, and I have them at 26 by themselves, which leaves the Aggies needing 15 to get us there. I have 44. DraftKings opened Texas Longhorns −2.5 with a 53.5 total, and as of 6:13 AM ET Friday it sits at −10.5 and 40.5.\n\nThe scoring cards split two and two. The Formula's 29-18 Texas win clears the 10.5, so it moves to Texas Longhorns −10.5 and likes the Over 40.5. Letdown Watch is with it at 29-16, takes the Longhorns and likes the Over. Next Man Up has Texas 23-15, likes the Aggies and likes the Under. In The Trenches has A&M winning 24-22, likes the Aggies and makes no over/under call. Follow The Money has no pick.\n\nLetdown Watch: \"In The Trenches has A&M winning outright. Somebody take the maroon shirt off that card.\"\n\nIn The Trenches: \"You've never seen a Thanksgiving weekend you didn't think was a letdown, Letdown Watch.\"\n\nMy final is Texas Longhorns 26, Texas A&M Aggies 18. Caro calls it as forecast.\n\nTexas Longhorns 26, Texas A&M Aggies 18. Texas A&M Aggies cover the 10.5. Over 40.5.",
     "fanatic_score_line": "Projected: Texas Longhorns 26, Texas A&M Aggies 18",
     "line_used": {
-     "home_line": "Texas A&M Aggies +12.5",
+     "home_line": "Texas A&M Aggies +10.5",
      "total": "40.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:13 AM ET",
+     "fetched_at_utc": "2026-11-27T11:13Z"
     },
     "injuries": {
-     "away": [],
-     "home": [],
-     "source": "Not posted yet: the official conference availability report for this game",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "away": [
+      {
+       "player": "Hollywood Smothers",
+       "position": "RB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Trevor Goosby",
+       "position": "OL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Hero Kanu",
+       "position": "DL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Kobe Black",
+       "position": "DB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Nick Townsend",
+       "position": "TE",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Colin Simmons",
+       "position": "EDG",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Questionable"
+      },
+      {
+       "player": "Andre Cojoe",
+       "position": "OL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Questionable"
+      }
+     ],
+     "home": [
+      {
+       "player": "Terry Bussey",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "TK Norman",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Ashton Bethel-Roman",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Trovon Baugh",
+       "position": "OL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Marcus Ratcliffe",
+       "position": "S",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Tylan Wilson",
+       "position": "S",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Marco Jones",
+       "position": "DE",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Questionable"
+      }
+     ],
+     "source": "SEC availability report (latest posted; kickoffstatus last updated Nov 27, 1:41 AM PT), via kickoffstatus.com (https://kickoffstatus.com/teams/texas/ and /teams/texas-a-m/), checked Nov 27, 6:2x AM ET. Key players only.",
+     "fetched_at_utc": "2026-11-27T11:25Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -3182,15 +3282,15 @@
     "fanatic_story": "Colt Wendeborn will be wearing maroon on Friday night, and so will most of the people around him, because Texas A&M has made its rivalry game with Texas the annual Maroon Out Game at Kyle Field. Texas Longhorns vs Texas A&M Aggies is a 4-7 team with no bowl to play for against a No. 5 team with Atlanta in its sights, and Caro Whitfield has flown in from Austin in burnt orange specifically to stand out.\n\n\"Every year somebody tells me about the shirts,\" Caro says. \"I have never once lost a football game to a shirt.\"\n\n\"Let me explain the shirts,\" Colt says, because he always explains. \"Nineteen ninety-eight. Nebraska comes in ranked second in the country. Tens of thousands of Aggies show up in maroon to wash out the red. A&M wins 28-21. Afterward, the Daily Nebraskan wrote that the maroon-out 'proved to be lights out for Nebraska.' Their own paper said it.\"\n\n\"Great story,\" Caro says. \"Wrong decade.\"\n\nShe has a point about the decade. This has been a hard year in College Station. The Aggies have lost four in a row, scored seven points in each of the last two games, and been outscored 58-0 in the fourth quarter over their last four. Mike Elko hasn't said who plays quarterback on Friday. It could be Marcel Reed, who has taken most of the snaps this year, or Brady Hart, who got the call at Oklahoma, or Helaman Casuga. Colt has quit guessing and gone to praying.\n\n\"Whoever it is, Mario Craver is the guy,\" Colt says. \"He's played through everything this year. Get him the ball and get out of the way.\"\n\nCaro, meanwhile, has done her pricing. She values the Texas roster in what she calls Caro Bucks, and this week she has every number in her head. Arch Manning has 2,485 yards and 21 touchdown throws, and he was close to perfect against Arkansas last week, 21 of 25 for 287 yards in a 45-3 win. Ryan Wingo has 659 receiving yards. Emmett Mosley V caught eight balls for 106 yards against the Razorbacks. And the defense is the kind that makes a quarterback controversy worse: Colin Simmons has 10.5 sacks, Jelani McDonald has 84 tackles, and the Longhorns give up 16.5 points a game.\n\n\"Here's the math,\" Caro says. \"We win, we're going to Atlanta unless four other games all go wrong on Saturday. We lose, we're done. I don't need a shirt. I need a defense, and I have one.\"\n\nThat is the whole reason Colt thinks Friday is interesting. Texas has to win, and Texas has spent all year winning close. The Longhorns beat Tennessee by three in Knoxville, LSU by one in Baton Rouge, and Ohio State by one at home. Both of their losses came by three points. This is a great team that hasn't made a habit of running anybody off the field on the road.\n\n\"We don't need to be better than you for four quarters,\" Colt says. \"We need to be better than you for about three, and then not do what we've done in every fourth quarter this month.\"\n\n\"That's a big 'then,'\" Caro says.\n\nThe Aggie defense is why this has a chance to stay tight. Ray Coney leads the team with 73 tackles, and the group has held most teams in check even while the offense sputtered. They gave up 22 to Tennessee and 17 to South Carolina, and they'll have Kyle Field screaming behind them on every third down.\n\nColt does what Colt does. He stands up, explains the next yell to the visitors' section, and then does it at full volume anyway.\n\nHere's how Friday goes. The place is a wall of maroon at kickoff, and the Aggies play like it. Texas moves the ball and settles for field goals early while A&M's defense gets two big stops and the crowd gets louder than it's been all year. Then Manning finds Wingo in the third quarter, Simmons gets home on a third down, and the Longhorns grind out the rest of it. A&M scores late to make Caro put her phone away for a minute, but Texas punches its ticket toward Atlanta.\n\nCaro raises one eyebrow on the way out and says \"As forecast,\" to nobody in particular. Colt keeps yelling at the empty field for ten more minutes, because the shirt deserved better.\n\nMy call: Texas Longhorns 26, Texas A&M Aggies 18.",
     "market": {
      "score_line": "",
-     "spread": "Texas Longhorns −12.5",
+     "spread": "Texas Longhorns −10.5",
      "total": "40.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:13 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "Texas Longhorns vs Texas A&M Aggies: Maroon Out at Kyle Field",
-    "gambler_headline": "Texas vs Texas A&M Pick: Aggies +12.5 and the Over 40.5"
+    "gambler_headline": "Texas vs Texas A&M Pick: Aggies +10.5 and the Over 40.5"
    },
-   "gambler_story": "Friday night is the Maroon Out Game at Kyle Field, the student-led tradition born the night a sea of maroon shirts helped Texas A&M upset second-ranked Nebraska. My Texas vs Texas A&M pick is Texas A&M Aggies +12.5 and the Over 40.5: the No. 5 Longhorns win the rivalry game, but 12.5 points is too many to lay on the road against a full house of maroon.\n\nCaro Whitfield has priced the Aggie roster and isn't impressed. \"Four and seven, no bowl, and three different quarterbacks on the board. I'm pricing that offense at a nickel.\"\n\nColt Wendeborn answers by explaining the tradition, then explaining why it matters. \"Maroon Out started with an upset of the No. 2 team in the country. We don't wear the shirts for decoration, Caro. We wear them because it worked.\"\n\nTexas has every reason to play hard. A Texas loss ends its SEC title-game hopes in every scenario, and a win sends the Longhorns to Atlanta unless four other games break against them. Arch Manning has 2,485 yards, 21 touchdowns and 10 interceptions, and he went 21 of 25 for 287 yards in last week's 45-3 win over Arkansas. Colin Simmons has 10.5 sacks for a defense that gives up 16.5 points a game.\n\nSo why take the Aggies? Because Texas doesn't blow teams out on the road in this conference. The Longhorns won 20-17 at Tennessee, 34-20 at Missouri and 22-21 at LSU. Their two losses were both by three. Steve Sarkisian's team is very good and still plays close games, and a rivalry night in College Station is where they happen.\n\nThe Texas A&M side of it is ugly, I'll admit. The Aggies have lost four straight, scored 9, 7 and 7 points in their last three, and Mike Elko hasn't said whether Marcel Reed, Brady Hart or Helaman Casuga takes the first snap. Hart went 8 of 20 for 131 yards at Oklahoma. Reed has 1,712 yards with 8 touchdowns and 9 interceptions. I'm pricing this as a backup-quarterback game either way, and it still comes out inside the number because the A&M defense, allowing 19.8 points a game, keeps it from getting silly.\n\nThe Over is about Texas. The Longhorns score 31.5 a game, and I have them at 26 by themselves, which leaves the Aggies needing 15 to get us there. I have 44. DraftKings opened Texas Longhorns −2.5 with a 53.5 total, and as of Monday it sits at −12.5 and 40.5.\n\nThree of the four scoring cards are on the home team. The Formula has Texas 29-18 with Texas A&M Aggies +12.5 and likes the Over 40.5. Next Man Up has Texas 23-15, likes the Aggies and likes the Under. Letdown Watch is the lone Texas card at 29-16, takes the Longhorns and likes the Over. In The Trenches has A&M winning 24-22, likes the Aggies and makes no over/under call. Follow The Money's side and total are both pending.\n\nLetdown Watch: \"In The Trenches has A&M winning outright. Somebody take the maroon shirt off that card.\"\n\nIn The Trenches: \"You've never seen a Thanksgiving weekend you didn't think was a letdown, Letdown Watch.\"\n\nMy final is Texas Longhorns 26, Texas A&M Aggies 18. Caro calls it as forecast.\n\nTexas Longhorns 26, Texas A&M Aggies 18. Texas A&M Aggies cover the 12.5. Over 40.5."
+   "gambler_story": "Friday night is the Maroon Out Game at Kyle Field, the student-led tradition born the night a sea of maroon shirts helped Texas A&M upset second-ranked Nebraska. My Texas vs Texas A&M pick is Texas A&M Aggies +10.5 and the Over 40.5: the No. 5 Longhorns win the rivalry game, but 10.5 points is too many to lay on the road against a full house of maroon.\n\nCaro Whitfield has priced the Aggie roster and isn't impressed. \"Four and seven, no bowl, and three different quarterbacks on the board. I'm pricing that offense at a nickel.\"\n\nColt Wendeborn answers by explaining the tradition, then explaining why it matters. \"Maroon Out started with an upset of the No. 2 team in the country. We don't wear the shirts for decoration, Caro. We wear them because it worked.\"\n\nTexas has every reason to play hard. A Texas loss ends its SEC title-game hopes in every scenario, and a win sends the Longhorns to Atlanta unless four other games break against them. Arch Manning has 2,485 yards, 21 touchdowns and 10 interceptions, and he went 21 of 25 for 287 yards in last week's 45-3 win over Arkansas. Colin Simmons, listed questionable, has 10.5 sacks for a defense that gives up 16.5 points a game.\n\nSo why take the Aggies? Because Texas doesn't blow teams out on the road in this conference. The Longhorns won 20-17 at Tennessee, 34-20 at Missouri and 22-21 at LSU. Their two losses were both by three. Steve Sarkisian's team is very good and still plays close games, and a rivalry night in College Station is where they happen.\n\nThe Texas A&M side of it is ugly, I'll admit. The Aggies have lost four straight, scored 9, 7 and 7 points in their last three, and Mike Elko hasn't said whether Marcel Reed, Brady Hart or Helaman Casuga takes the first snap. Hart went 8 of 20 for 131 yards at Oklahoma. Reed has 1,712 yards with 8 touchdowns and 9 interceptions. I'm pricing this as a backup-quarterback game either way, and it still comes out inside the number because the A&M defense, allowing 19.8 points a game, keeps it from getting silly.\n\nThe Over is about Texas. The Longhorns score 31.5 a game, and I have them at 26 by themselves, which leaves the Aggies needing 15 to get us there. I have 44. DraftKings opened Texas Longhorns −2.5 with a 53.5 total, and as of 6:13 AM ET Friday it sits at −10.5 and 40.5.\n\nThe scoring cards split two and two. The Formula's 29-18 Texas win clears the 10.5, so it moves to Texas Longhorns −10.5 and likes the Over 40.5. Letdown Watch is with it at 29-16, takes the Longhorns and likes the Over. Next Man Up has Texas 23-15, likes the Aggies and likes the Under. In The Trenches has A&M winning 24-22, likes the Aggies and makes no over/under call. Follow The Money has no pick.\n\nLetdown Watch: \"In The Trenches has A&M winning outright. Somebody take the maroon shirt off that card.\"\n\nIn The Trenches: \"You've never seen a Thanksgiving weekend you didn't think was a letdown, Letdown Watch.\"\n\nMy final is Texas Longhorns 26, Texas A&M Aggies 18. Caro calls it as forecast.\n\nTexas Longhorns 26, Texas A&M Aggies 18. Texas A&M Aggies cover the 10.5. Over 40.5."
   },
   {
    "game_id": "401858544",
@@ -3220,13 +3320,13 @@
     "minnesota",
     "wisconsin"
    ],
-   "spread": "Wisconsin Badgers −7.5",
+   "spread": "Wisconsin Badgers −9.5",
    "total_line": 37.5,
    "prediction": {
     "away_score": 15,
     "home_score": 28,
     "winner": "Wisconsin Badgers",
-    "covers": "Wisconsin Badgers −7.5"
+    "covers": "Wisconsin Badgers −9.5"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -3235,79 +3335,172 @@
    "display": {
     "writer": {
      "score_line": "Projected: Wisconsin Badgers 28, Minnesota Golden Gophers 15 (Total 43)",
-     "side": "Wisconsin Badgers −7.5",
+     "side": "Wisconsin Badgers −9.5",
      "ou": "Over 37.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Wisconsin Badgers −7.5 · Likes this side",
+      "side_line": "Side: Wisconsin Badgers −9.5",
       "ou_line": "O/U: Over 37.5 · Likes this total",
       "score_line": "Projected: Wisconsin Badgers 28, Minnesota Golden Gophers 18 (Total 46)",
       "basis_line": "Net ratings Minnesota Golden Gophers 1.0, Wisconsin Badgers 10.0 (ESPN Football Power Index, Nov 23, 2026)",
       "independent": true,
-      "distance_from_spread": 2.5,
+      "distance_from_spread": 0.5,
       "distance_from_total": 8.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Wisconsin Badgers −7.5 · Likes this side",
+      "side_line": "Side: Wisconsin Badgers −9.5 · Likes this side",
       "ou_line": "O/U: Under 37.5",
       "score_line": "Projected: Wisconsin Badgers 24, Minnesota Golden Gophers 12 (Total 36)",
       "basis_line": "With the players available: projected points Minnesota Golden Gophers 12.3, Wisconsin Badgers 24.0.",
       "independent": true,
-      "distance_from_spread": 4.5,
+      "distance_from_spread": 2.5,
       "distance_from_total": 1.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Wisconsin Badgers −7.5 · Likes this side",
+      "side_line": "Side: Wisconsin Badgers −9.5 · Likes this side",
       "ou_line": "O/U: Over 37.5 · Likes this total",
       "score_line": "Projected: Wisconsin Badgers 28, Minnesota Golden Gophers 13 (Total 41)",
       "basis_line": "Rest and travel read: projected points Minnesota Golden Gophers 13.2, Wisconsin Badgers 28.5.",
       "independent": true,
-      "distance_from_spread": 7.5,
+      "distance_from_spread": 5.5,
       "distance_from_total": 3.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: Wisconsin Badgers −9 · Likes this side",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 23, 10:35 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Wisconsin Badgers −7.5 (Nov 24, 9:31 AM ET) and is −9 now, a 1.5-point move. The side pick quotes the consensus spread now (Wisconsin Badgers −9), not the game line listed on this page (Wisconsin Badgers −9.5). Consensus total opened 37.5 (Nov 25, 11:30 PM ET) and is 37.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 27, 6:13 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Wisconsin Badgers −7.5 · Likes this side",
+      "side_line": "Side: Wisconsin Badgers −9.5 · Likes this side",
       "ou_line": "O/U: this card reads sides only",
       "score_line": "Projected: Wisconsin Badgers 32, Minnesota Golden Gophers 15 (Total 47)",
-      "basis_line": "This read points to a side only. Minnesota Golden Gophers 3.4 ypc vs Wisconsin Badgers allowing 2.8; Wisconsin Badgers 4.6 ypc vs Minnesota Golden Gophers allowing 4.2 (2026 season). Minnesota Golden Gophers run game 0.6 ypc above what the opponent allows. The projected score is Wisconsin Badgers 32, Minnesota Golden Gophers 15, which does not cover Minnesota Golden Gophers +7.5. Side: Wisconsin Badgers −7.5.",
+      "basis_line": "This read points to a side only. Minnesota Golden Gophers 3.4 ypc vs Wisconsin Badgers allowing 2.8; Wisconsin Badgers 4.6 ypc vs Minnesota Golden Gophers allowing 4.2 (2026 season). Minnesota Golden Gophers run game 0.6 ypc above what the opponent allows. The projected score is Wisconsin Badgers 32, Minnesota Golden Gophers 15, which does not cover Minnesota Golden Gophers +9.5. Side: Wisconsin Badgers −9.5.",
       "independent": true,
-      "distance_from_spread": 9.5,
+      "distance_from_spread": 7.5,
       "distance_from_total": 9.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "Minnesota has carried Paul Bunyan's Axe out of this rivalry two years running, and on Black Friday night at Camp Randall the Badgers get their shot to bring it home. My Minnesota vs Wisconsin prediction: Wisconsin Badgers −7.5 and the Over 37.5, with the rivalry under the lights at 7:30 PM ET.\n\nLars \"Brat\" Ellefson has the Purdue tape on a loop. \"Three hundred eighty-one rushing yards, Tor. Colton Joseph ran for 187 of them. We didn't throw it because we didn't have to.\"\n\nTor Engebretsen counters with a kicker. \"Drzewiecki from forty-four with no time left to beat Northwestern. Same distance he made to beat Iowa. We win close games, Lars. You know that better than anybody.\"\n\nWisconsin's defense is the reason this game is a full score and more. The Badgers allow 16.5 points a game. They held USC to 7, Rutgers to 10, Michigan State to 3 and Purdue to 10. Cooper Catalano has 103 tackles and Sebastian Cheeks has 7 sacks. With Joseph back taking snaps after Ryan Hopkins started two games, the offense also has its run threat again.\n\nMinnesota got to 6-5 and bowl eligibility on that field goal, but the offense is in the middle of a reset. P.J. Fleck fired offensive coordinator Greg Harbaugh Jr. on Nov. 15 and tight ends coach Eric Koehler called plays against Northwestern. Drake Lindsey threw for 224 yards and two touchdowns that day, his best game in a while. Before that, the Gophers scored 14 at Penn State, 20 against UCLA and 16 at Indiana.\n\nThose Minnesota losses weren't close, either. Purdue won 41-13, Mississippi State won 38-13 and Penn State won 42-14. When the Gophers fall behind, they don't have the offense to catch up.\n\nThe total is low for a reason, but it's low enough. DraftKings opened Wisconsin at 6 and the total at 38.5, and the side has moved toward the Badgers. If Wisconsin runs like it did at Purdue, it gets to the high 20s by itself, and Minnesota scores just enough to pull the game past 37.5.\n\nWisconsin Badgers 28, Minnesota Golden Gophers 15 is a 13-point win, five and a half clear of the spread, with 43 total points, five and a half over 37.5.\n\nAll four cards with a score on them are with the Badgers. The Formula has Wisconsin 28-18, likes Wisconsin Badgers −7.5 and likes the Over. Letdown Watch has 28-13 and likes Wisconsin and the Over. In The Trenches has 32-15, likes the Badgers and makes no over/under call. Next Man Up likes Wisconsin at 24-12 but takes the Under 37.5. Follow The Money's side and total are both pending.\n\nNext Man Up: \"Thirty-six points. That's this game. You three are dreaming of a shootout in a rivalry that's been played in a phone booth for ten years.\"\n\nThe Formula: \"You took the Under on a team that just ran for nearly four hundred. Bundle up.\"\n\nThe Axe goes back to Madison, the Badgers run through the cold, and Minnesota scores just enough late to get the total home.\n\nWisconsin Badgers 28, Minnesota Golden Gophers 15. Wisconsin Badgers cover the 7.5. Over 37.5.",
+    "story_text": "Minnesota has carried Paul Bunyan's Axe out of this rivalry two years running, and on Black Friday night at Camp Randall the Badgers get their shot to bring it home. My Minnesota vs Wisconsin prediction: Wisconsin Badgers −9.5 and the Over 37.5, with the rivalry under the lights at 7:30 PM ET.\n\nLars \"Brat\" Ellefson has the Purdue tape on a loop. \"Three hundred eighty-one rushing yards, Tor. Colton Joseph ran for 187 of them. We didn't throw it because we didn't have to.\"\n\nTor Engebretsen counters with a kicker. \"Drzewiecki from forty-four with no time left to beat Northwestern. Same distance he made to beat Iowa. We win close games, Lars. You know that better than anybody.\"\n\nWisconsin's defense is the reason this game is a full score and more. The Badgers allow 16.5 points a game. They held USC to 7, Rutgers to 10, Michigan State to 3 and Purdue to 10. Cooper Catalano has 103 tackles and Sebastian Cheeks has 7 sacks. With Joseph back taking snaps after Ryan Hopkins started two games, the offense also has its run threat again.\n\nMinnesota got to 6-5 and bowl eligibility on that field goal, but the offense is in the middle of a reset. P.J. Fleck fired offensive coordinator Greg Harbaugh Jr. on Nov. 15 and tight ends coach Eric Koehler called plays against Northwestern. Drake Lindsey threw for 224 yards and two touchdowns that day, his best game in a while. Before that, the Gophers scored 14 at Penn State, 20 against UCLA and 16 at Indiana.\n\nThose Minnesota losses weren't close, either. Purdue won 41-13, Mississippi State won 38-13 and Penn State won 42-14. When the Gophers fall behind, they don't have the offense to catch up.\n\nThe total is low for a reason, but it's low enough. DraftKings opened Wisconsin at 6 and the total at 38.5. As of 6:13 AM ET Friday it's Wisconsin Badgers −9.5 and 37.5. If Wisconsin runs like it did at Purdue, it gets to the high 20s by itself, and Minnesota scores just enough to pull the game past 37.5.\n\nWisconsin Badgers 28, Minnesota Golden Gophers 15 is a 13-point win, three and a half clear of the spread, with 43 total points, five and a half over 37.5.\n\nAll four cards with a score on them are with the Badgers. The Formula has Wisconsin 28-18, takes Wisconsin Badgers −9.5 and likes the Over. Letdown Watch has 28-13 and likes Wisconsin and the Over. In The Trenches has 32-15, likes the Badgers and makes no over/under call. Next Man Up likes Wisconsin at 24-12 but takes the Under 37.5. Follow The Money takes Wisconsin Badgers −9 and has no total pick.\n\nNext Man Up: \"Thirty-six points. That's this game. You three are dreaming of a shootout in a rivalry that's been played in a phone booth for ten years.\"\n\nThe Formula: \"You took the Under on a team that just ran for nearly four hundred. Bundle up.\"\n\nThe Axe goes back to Madison, the Badgers run through the cold, and Minnesota scores just enough late to get the total home.\n\nWisconsin Badgers 28, Minnesota Golden Gophers 15. Wisconsin Badgers cover the 9.5. Over 37.5.",
     "fanatic_score_line": "Projected: Wisconsin Badgers 28, Minnesota Golden Gophers 15",
     "line_used": {
-     "home_line": "Wisconsin Badgers −7.5",
+     "home_line": "Wisconsin Badgers −9.5",
      "total": "37.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:13 AM ET",
+     "fetched_at_utc": "2026-11-27T11:13Z"
     },
     "injuries": {
-     "away": [],
-     "home": [],
-     "source": "Not posted yet: the official conference availability report for this game",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "away": [
+      {
+       "player": "Ryan Estrada",
+       "position": "RB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Donielle Hayes",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Theorin Randle",
+       "position": "DL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Jaylin Hicks",
+       "position": "DL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Garrison Monroe",
+       "position": "DB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Ashton Beers",
+       "position": "OL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "John Nestor",
+       "position": "DB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Questionable"
+      }
+     ],
+     "home": [
+      {
+       "player": "Cai Bates",
+       "position": "CB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Javan Robinson",
+       "position": "CB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Emmett Bork",
+       "position": "TE",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Kevin Heywood",
+       "position": "OL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Matthew Jung",
+       "position": "S",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Deuce Adams",
+       "position": "QB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Questionable"
+      }
+     ],
+     "source": "Big Ten availability report (latest posted; kickoffstatus last updated Nov 27, 1:41 AM PT), via kickoffstatus.com (https://kickoffstatus.com/teams/minnesota/ and /teams/wisconsin/), checked Nov 27, 6:2x AM ET. Key players only.",
+     "fetched_at_utc": "2026-11-27T11:25Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -3321,15 +3514,15 @@
     "fanatic_story": "Two years in a row, Tor Engebretsen has watched Minnesota players run across the field with Paul Bunyan's Axe, and two years in a row Lars \"Brat\" Ellefson has gone home and stared at the wall. Minnesota Golden Gophers vs Wisconsin Badgers is back at Camp Randall on Black Friday night, and Lars has spent the whole Thanksgiving weekend telling his family the Axe is coming back to Madison.\n\n\"I said it at the table,\" Lars says. \"Between the green beans and the pie. I said it twice so everybody would remember.\"\n\n\"Did anybody remember?\" Tor asks.\n\n\"My uncle. He's been saying it since 2024.\"\n\nTor smiles. He's earned the right to smile. Minnesota won 24-7 in 2024 and took the Axe again last fall, and that's two straight years of Gophers celebrating with the Axe while Lars looked at his shoes. This year was supposed to be a third, and then the season got rough. Minnesota lost three in a row, to Indiana in overtime, to UCLA and at Penn State, and on Nov. 15 P.J. Fleck fired his offensive coordinator.\n\n\"Rough river,\" Tor says. \"But we came out the other side.\"\n\nThe Gophers came out the other side by an inch. Northwestern tied the game with 27 seconds left last Saturday, and Drake Lindsey hit Roman Voss and Noah Jennings to set up Luke Drzewiecki from 44 yards. He'd already missed two in the first half on a windy day. He made the one that mattered, as time expired, and Minnesota was bowl eligible for the eighth time in Fleck's ten seasons.\n\n\"Same kick he made to beat Iowa,\" Tor says. \"Same distance. The guy likes 44. I'd like him to make another one Friday.\"\n\nLars would like to talk about something else. He'd like to talk about Purdue.\n\nWisconsin went to West Lafayette last Saturday and ran for 381 yards. Colton Joseph was back at quarterback after Ryan Hopkins took the snaps against Rutgers and Maryland, and he ran for 187 yards and two touchdowns. He also caught a touchdown on a trick play from receiver Eugene Hilton Jr. Darrion Dupree ran for 125 yards and two scores. The Badgers won 42-10, and it was the 19th straight time they beat Purdue.\n\n\"It looked like the old days,\" Lars says. \"Big guys up front, a quarterback who runs like a fullback when he feels like it, and the other team looking at the clock in the third quarter.\"\n\nThe defense is the bigger reason the Badgers are 7-4. Wisconsin has given up 16.5 points a game. Cooper Catalano has 103 tackles and Sebastian Cheeks has 7 sacks, and this group held Michigan State to 3, USC to 7 and Rutgers to 10. There's the Iowa game, a 30-0 loss nobody in Madison will discuss, and a 24-21 loss at Maryland where the offense went missing. But on most Saturdays, the defense has kept Wisconsin in it.\n\n\"Here's what I keep telling my uncle,\" Lars says. \"Minnesota scored 14 at Penn State and 20 against UCLA. It's going to be cold, it's going to be a Friday night, and it's going to be our guys in the trenches. Nobody's scoring 30 on us in our building.\"\n\nTor has heard that one before, and it hasn't scared him. Lindsey has 2,206 yards and 15 touchdowns. Darius Taylor ran for 108 yards against Northwestern, his first 100-yard game this year, and he drags people for yards when it's cold. Maverick Baranowski has 90 tackles. TJ Bush Jr. has 6 sacks. And Eric Koehler, the tight ends coach who took over calling plays, just had a full week to plan for this one.\n\n\"Nobody expected us to win the last two either,\" Tor says. \"That's the whole point of a rivalry.\"\n\nHere's how I see the night. The first quarter is exactly what everybody expects in November in Madison, short drives and long punts. Then Joseph breaks one on a keeper and Dupree adds a short score before halftime, and Camp Randall finally gets loud enough to shake the press box. Minnesota answers with a Drzewiecki field goal and a late touchdown from Lindsey, but the Badgers keep running and the Gophers keep chasing. Catalano makes a fourth-down stop late to put it away.\n\nLars runs down to the front row to watch his team carry the Axe around Camp Randall. Tor stays in his seat for a while, then texts Lars's uncle, of all people, to tell him he was right.\n\nMy call: Wisconsin Badgers 28, Minnesota Golden Gophers 15.",
     "market": {
      "score_line": "",
-     "spread": "Wisconsin Badgers −7.5",
+     "spread": "Wisconsin Badgers −9.5",
      "total": "37.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:13 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "Minnesota Golden Gophers vs Wisconsin Badgers: The Axe Comes Back to Madison",
-    "gambler_headline": "Minnesota vs Wisconsin Pick: Badgers −7.5, Over 37.5"
+    "gambler_headline": "Minnesota vs Wisconsin Pick: Badgers −9.5, Over 37.5"
    },
-   "gambler_story": "Minnesota has carried Paul Bunyan's Axe out of this rivalry two years running, and on Black Friday night at Camp Randall the Badgers get their shot to bring it home. My Minnesota vs Wisconsin prediction: Wisconsin Badgers −7.5 and the Over 37.5, with the rivalry under the lights at 7:30 PM ET.\n\nLars \"Brat\" Ellefson has the Purdue tape on a loop. \"Three hundred eighty-one rushing yards, Tor. Colton Joseph ran for 187 of them. We didn't throw it because we didn't have to.\"\n\nTor Engebretsen counters with a kicker. \"Drzewiecki from forty-four with no time left to beat Northwestern. Same distance he made to beat Iowa. We win close games, Lars. You know that better than anybody.\"\n\nWisconsin's defense is the reason this game is a full score and more. The Badgers allow 16.5 points a game. They held USC to 7, Rutgers to 10, Michigan State to 3 and Purdue to 10. Cooper Catalano has 103 tackles and Sebastian Cheeks has 7 sacks. With Joseph back taking snaps after Ryan Hopkins started two games, the offense also has its run threat again.\n\nMinnesota got to 6-5 and bowl eligibility on that field goal, but the offense is in the middle of a reset. P.J. Fleck fired offensive coordinator Greg Harbaugh Jr. on Nov. 15 and tight ends coach Eric Koehler called plays against Northwestern. Drake Lindsey threw for 224 yards and two touchdowns that day, his best game in a while. Before that, the Gophers scored 14 at Penn State, 20 against UCLA and 16 at Indiana.\n\nThose Minnesota losses weren't close, either. Purdue won 41-13, Mississippi State won 38-13 and Penn State won 42-14. When the Gophers fall behind, they don't have the offense to catch up.\n\nThe total is low for a reason, but it's low enough. DraftKings opened Wisconsin at 6 and the total at 38.5, and the side has moved toward the Badgers. If Wisconsin runs like it did at Purdue, it gets to the high 20s by itself, and Minnesota scores just enough to pull the game past 37.5.\n\nWisconsin Badgers 28, Minnesota Golden Gophers 15 is a 13-point win, five and a half clear of the spread, with 43 total points, five and a half over 37.5.\n\nAll four cards with a score on them are with the Badgers. The Formula has Wisconsin 28-18, likes Wisconsin Badgers −7.5 and likes the Over. Letdown Watch has 28-13 and likes Wisconsin and the Over. In The Trenches has 32-15, likes the Badgers and makes no over/under call. Next Man Up likes Wisconsin at 24-12 but takes the Under 37.5. Follow The Money's side and total are both pending.\n\nNext Man Up: \"Thirty-six points. That's this game. You three are dreaming of a shootout in a rivalry that's been played in a phone booth for ten years.\"\n\nThe Formula: \"You took the Under on a team that just ran for nearly four hundred. Bundle up.\"\n\nThe Axe goes back to Madison, the Badgers run through the cold, and Minnesota scores just enough late to get the total home.\n\nWisconsin Badgers 28, Minnesota Golden Gophers 15. Wisconsin Badgers cover the 7.5. Over 37.5."
+   "gambler_story": "Minnesota has carried Paul Bunyan's Axe out of this rivalry two years running, and on Black Friday night at Camp Randall the Badgers get their shot to bring it home. My Minnesota vs Wisconsin prediction: Wisconsin Badgers −9.5 and the Over 37.5, with the rivalry under the lights at 7:30 PM ET.\n\nLars \"Brat\" Ellefson has the Purdue tape on a loop. \"Three hundred eighty-one rushing yards, Tor. Colton Joseph ran for 187 of them. We didn't throw it because we didn't have to.\"\n\nTor Engebretsen counters with a kicker. \"Drzewiecki from forty-four with no time left to beat Northwestern. Same distance he made to beat Iowa. We win close games, Lars. You know that better than anybody.\"\n\nWisconsin's defense is the reason this game is a full score and more. The Badgers allow 16.5 points a game. They held USC to 7, Rutgers to 10, Michigan State to 3 and Purdue to 10. Cooper Catalano has 103 tackles and Sebastian Cheeks has 7 sacks. With Joseph back taking snaps after Ryan Hopkins started two games, the offense also has its run threat again.\n\nMinnesota got to 6-5 and bowl eligibility on that field goal, but the offense is in the middle of a reset. P.J. Fleck fired offensive coordinator Greg Harbaugh Jr. on Nov. 15 and tight ends coach Eric Koehler called plays against Northwestern. Drake Lindsey threw for 224 yards and two touchdowns that day, his best game in a while. Before that, the Gophers scored 14 at Penn State, 20 against UCLA and 16 at Indiana.\n\nThose Minnesota losses weren't close, either. Purdue won 41-13, Mississippi State won 38-13 and Penn State won 42-14. When the Gophers fall behind, they don't have the offense to catch up.\n\nThe total is low for a reason, but it's low enough. DraftKings opened Wisconsin at 6 and the total at 38.5. As of 6:13 AM ET Friday it's Wisconsin Badgers −9.5 and 37.5. If Wisconsin runs like it did at Purdue, it gets to the high 20s by itself, and Minnesota scores just enough to pull the game past 37.5.\n\nWisconsin Badgers 28, Minnesota Golden Gophers 15 is a 13-point win, three and a half clear of the spread, with 43 total points, five and a half over 37.5.\n\nAll four cards with a score on them are with the Badgers. The Formula has Wisconsin 28-18, takes Wisconsin Badgers −9.5 and likes the Over. Letdown Watch has 28-13 and likes Wisconsin and the Over. In The Trenches has 32-15, likes the Badgers and makes no over/under call. Next Man Up likes Wisconsin at 24-12 but takes the Under 37.5. Follow The Money takes Wisconsin Badgers −9 and has no total pick.\n\nNext Man Up: \"Thirty-six points. That's this game. You three are dreaming of a shootout in a rivalry that's been played in a phone booth for ten years.\"\n\nThe Formula: \"You took the Under on a team that just ran for nearly four hundred. Bundle up.\"\n\nThe Axe goes back to Madison, the Badgers run through the cold, and Minnesota scores just enough late to get the total home.\n\nWisconsin Badgers 28, Minnesota Golden Gophers 15. Wisconsin Badgers cover the 9.5. Over 37.5."
   },
   {
    "game_id": "401856880",
