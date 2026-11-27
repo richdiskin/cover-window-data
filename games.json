@@ -1308,13 +1308,13 @@
     "mississippi-state",
     "ole-miss"
    ],
-   "spread": "Ole Miss Rebels −18.5",
+   "spread": "Ole Miss Rebels −17.5",
    "total_line": 56.5,
    "prediction": {
     "away_score": 21,
     "home_score": 35,
     "winner": "Ole Miss Rebels",
-    "covers": "Mississippi State Bulldogs +18.5"
+    "covers": "Mississippi State Bulldogs +17.5"
    },
    "total_pick": "Under",
    "status_at_build": {
@@ -1323,79 +1323,165 @@
    "display": {
     "writer": {
      "score_line": "Projected: Ole Miss Rebels 35, Mississippi State Bulldogs 21 (Total 56)",
-     "side": "Mississippi State Bulldogs +18.5",
+     "side": "Mississippi State Bulldogs +17.5",
      "ou": "Under 56.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Mississippi State Bulldogs +18.5 · Likes this side",
+      "side_line": "Side: Mississippi State Bulldogs +17.5 · Likes this side",
       "ou_line": "O/U: Under 56.5 · Likes this total",
       "score_line": "Projected: Ole Miss Rebels 34, Mississippi State Bulldogs 20 (Total 54)",
       "basis_line": "Net ratings Mississippi State Bulldogs 3.8, Ole Miss Rebels 17.7 (ESPN Football Power Index, Nov 23, 2026)",
       "independent": true,
-      "distance_from_spread": 4.5,
+      "distance_from_spread": 3.5,
       "distance_from_total": 2.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Mississippi State Bulldogs +18.5 · Likes this side",
+      "side_line": "Side: Mississippi State Bulldogs +17.5",
       "ou_line": "O/U: Over 56.5 · Likes this total",
       "score_line": "Projected: Ole Miss Rebels 40, Mississippi State Bulldogs 24 (Total 64)",
       "basis_line": "With the players available: projected points Mississippi State Bulldogs 23.8, Ole Miss Rebels 40.2.",
       "independent": true,
-      "distance_from_spread": 2.5,
+      "distance_from_spread": 1.5,
       "distance_from_total": 7.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Ole Miss Rebels −18.5 · Likes this side",
+      "side_line": "Side: Ole Miss Rebels −17.5 · Likes this side",
       "ou_line": "O/U: Under 56.5",
       "score_line": "Projected: Ole Miss Rebels 38, Mississippi State Bulldogs 17 (Total 55)",
       "basis_line": "Rest and travel read: projected points Mississippi State Bulldogs 17.4, Ole Miss Rebels 38.0.",
       "independent": true,
-      "distance_from_spread": 2.5,
+      "distance_from_spread": 3.5,
       "distance_from_total": 1.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: Mississippi State Bulldogs +17.5 · Likes this side",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 23, 10:35 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Ole Miss Rebels −19 (Nov 24, 8:41 AM ET) and is −17.5 now, a 1.5-point move. The side pick quotes the consensus spread now (Mississippi State Bulldogs +17.5). Consensus total opened 56.5 (Nov 24, 8:41 AM ET) and is 56.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 27, 6:11 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Mississippi State Bulldogs +18.5 · Likes this side",
+      "side_line": "Side: Mississippi State Bulldogs +17.5 · Likes this side",
       "ou_line": "O/U: this card reads sides only",
       "score_line": "Projected: Ole Miss Rebels 26, Mississippi State Bulldogs 23 (Total 49)",
-      "basis_line": "This read points to a side only. Mississippi State Bulldogs 4.1 ypc vs Ole Miss Rebels allowing 3.9; Ole Miss Rebels 4.6 ypc vs Mississippi State Bulldogs allowing 3.3 (2026 season). Ole Miss Rebels run game 1.3 ypc above what the opponent allows. The projected score is Ole Miss Rebels 26, Mississippi State Bulldogs 23, which does not cover Ole Miss Rebels −18.5. Side: Mississippi State Bulldogs +18.5.",
+      "basis_line": "This read points to a side only. Mississippi State Bulldogs 4.1 ypc vs Ole Miss Rebels allowing 3.9; Ole Miss Rebels 4.6 ypc vs Mississippi State Bulldogs allowing 3.3 (2026 season). Ole Miss Rebels run game 1.3 ypc above what the opponent allows. The projected score is Ole Miss Rebels 26, Mississippi State Bulldogs 23, which does not cover Ole Miss Rebels −17.5. Side: Mississippi State Bulldogs +17.5.",
       "independent": true,
-      "distance_from_spread": 15.5,
+      "distance_from_spread": 14.5,
       "distance_from_total": 7.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "The Egg Bowl is back on Black Friday with an eleven o'clock kickoff in Oxford, and Ole Miss is chasing a fourth straight win in this rivalry, something it hasn't pulled off since the game was played in Jackson. My Mississippi State vs Ole Miss prediction takes the points on the spread, Mississippi State Bulldogs +18.5, and the over/under pick is Under 56.5.\n\nLangston Fairbanks has been practicing a speech since Sunday. \"Last year it was 38-19, Wade. I'd like the scoreboard to look familiar.\"\n\nWade Pettus doesn't look up from his cowbell. \"Your quarterback missed one throw last week, Langston. Against Wofford. Frame it.\"\n\nTrinidad Chambliss went 19 for 20 for 367 yards and five touchdowns against Wofford, which is a poor scouting report. The two SEC games before it say more: 7 points against Georgia and 17 at Oklahoma, with 170 and 127 throwing yards. Ole Miss scores 34.5 a game and allows 25.0. I won't lay three touchdowns behind a defense that gives up 25.\n\nMississippi State's issue is the quarterback room. Kamario Taylor threw 17 touchdowns against 4 interceptions in the first five games, then the job went to Parker Puckett and AJ Swann. Puckett was 17 for 25 for 232 yards and two touchdowns in the 34-16 win over Tennessee Tech, and Anthony Evans III has 73 catches for 929 yards no matter who is throwing. I'm pricing the Puckett version, and it still finds three scores.\n\nThe market went the other way. DraftKings opened Ole Miss −14.5 with a total of 57.5, per ESPN. It now sits at Ole Miss Rebels −18.5 and 56.5. That's four points of movement toward the home team in a rivalry the Rebels have won the last three years by 19, 12 and 10. Ole Miss Rebels 35, Mississippi State Bulldogs 21 is a 14-point game, so the Bulldogs keep four and a half to spare.\n\nThe Under comes from the Bulldogs' SEC tape. They put up 0 at LSU, 15 against Oklahoma, 3 at Texas, 23 against Vanderbilt and 9 against Auburn. The 2024 and 2023 meetings finished with 40 and 24 combined points. Ole Miss can get to 35 without this game sailing over.\n\nThe room mostly agrees on the side. The Formula is with me on both, 34-20, Mississippi State Bulldogs +18.5 and the Under 56.5. Next Man Up has Ole Miss 40-24, takes the Bulldogs with the points and goes Over. Letdown Watch is the only vote for Ole Miss Rebels −18.5, at 38-17, and it likes the Under. In The Trenches has a 26-23 game, takes Mississippi State, and makes no over/under call. Follow The Money's side and total are both pending.\n\nNext Man Up: \"Forty points. Chambliss just went 19 for 20. I'm not going to pretend I didn't see it.\"\n\nLetdown Watch: \"And I'm the only one here who thinks the Rebels pull away. They've won three of these in a row. They know the road.\"\n\nMy number is Ole Miss by 14 with 56 combined points, half a point under. The Rebels can keep the bragging rights for another year. The Bulldogs keep this one inside three scores.\n\nOle Miss Rebels 35, Mississippi State Bulldogs 21. Mississippi State Bulldogs cover the 18.5. Under 56.5.",
+    "story_text": "The Egg Bowl is back on Black Friday with an eleven o'clock kickoff in Oxford, and Ole Miss is chasing a fourth straight win in this rivalry, something it hasn't pulled off since the game was played in Jackson. My Mississippi State vs Ole Miss prediction takes the points on the spread, Mississippi State Bulldogs +17.5, and the over/under pick is Under 56.5.\n\nLangston Fairbanks has been practicing a speech since Sunday. \"Last year it was 38-19, Wade. I'd like the scoreboard to look familiar.\"\n\nWade Pettus doesn't look up from his cowbell. \"Your quarterback missed one throw last week, Langston. Against Wofford. Frame it.\"\n\nTrinidad Chambliss went 19 for 20 for 367 yards and five touchdowns against Wofford, which is a poor scouting report. The two SEC games before it say more: 7 points against Georgia and 17 at Oklahoma, with 170 and 127 throwing yards. Ole Miss scores 34.5 a game and allows 25.0. I won't lay three touchdowns behind a defense that gives up 25.\n\nMississippi State's issue is the quarterback room. Kamario Taylor threw 17 touchdowns against 4 interceptions in the first five games, then the job went to Parker Puckett and AJ Swann. Puckett was 17 for 25 for 232 yards and two touchdowns in the 34-16 win over Tennessee Tech, and Anthony Evans III has 73 catches for 929 yards no matter who is throwing. I'm pricing the Puckett version, and it still finds three scores. Taylor is out, Swann is doubtful and Ole Miss rusher Kewan Lacy is out, per the SEC report.\n\nThe market went the other way. DraftKings opened Ole Miss −14.5 with a total of 57.5. As of 6:11 AM ET it sits at Ole Miss Rebels −17.5 and 56.5. That's three points of movement toward the home team in a rivalry the Rebels have won the last three years by 19, 12 and 10. Ole Miss Rebels 35, Mississippi State Bulldogs 21 leaves the Bulldogs three and a half to spare.\n\nThe Under comes from the Bulldogs' SEC tape. They put up 0 at LSU, 15 against Oklahoma, 3 at Texas, 23 against Vanderbilt and 9 against Auburn. The 2024 and 2023 meetings finished with 40 and 24 combined points. Ole Miss can get to 35 without this game sailing over.\n\nThe room mostly agrees on the side. The Formula is with me on both, 34-20, Mississippi State Bulldogs +17.5 and the Under 56.5. Next Man Up has Ole Miss 40-24, takes the Bulldogs with the points and goes Over. Letdown Watch is the only vote for Ole Miss Rebels −17.5, at 38-17, and it likes the Under. In The Trenches has a 26-23 game, takes Mississippi State, and makes no over/under call. Follow The Money takes Mississippi State Bulldogs +17.5 and has no total pick.\n\nNext Man Up: \"Forty points. Chambliss just went 19 for 20. I'm not going to pretend I didn't see it.\"\n\nLetdown Watch: \"And I'm the only one here who thinks the Rebels pull away. They've won three of these in a row.\"\n\nMy number is Ole Miss by 14 with 56 combined points, half a point under. The Rebels can keep the bragging rights for another year. The Bulldogs keep this one inside three scores.\n\nOle Miss Rebels 35, Mississippi State Bulldogs 21. Mississippi State Bulldogs cover the 17.5. Under 56.5.",
     "fanatic_score_line": "Projected: Ole Miss Rebels 35, Mississippi State Bulldogs 21",
     "line_used": {
-     "home_line": "Ole Miss Rebels −18.5",
+     "home_line": "Ole Miss Rebels −17.5",
      "total": "56.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:11 AM ET",
+     "fetched_at_utc": "2026-11-27T11:11Z"
     },
     "injuries": {
-     "away": [],
-     "home": [],
-     "source": "Not posted yet: the official conference availability report for this game",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "away": [
+      {
+       "player": "Kamario Taylor",
+       "position": "QB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "AJ Swann",
+       "position": "QB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Doubtful"
+      },
+      {
+       "player": "Ayden Williams",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Jalen Smith",
+       "position": "LB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Isaac Smith",
+       "position": "S",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Kyle Johnson",
+       "position": "CB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      }
+     ],
+     "home": [
+      {
+       "player": "Kewan Lacy",
+       "position": "RB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Keaton Thomas",
+       "position": "LB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Patrick Kutas",
+       "position": "OL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Brady Prieskorn",
+       "position": "TE",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Kervin Johnson Jr.",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Shekai Mills-Knight",
+       "position": "RB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Questionable"
+      }
+     ],
+     "source": "SEC availability report (latest posted; kickoffstatus last updated Nov 27, 1:41 AM PT), via kickoffstatus.com (https://kickoffstatus.com/teams/mississippi-state/ and /teams/ole-miss/), checked Nov 27, 6:2x AM ET. Key players only.",
+     "fetched_at_utc": "2026-11-27T11:15Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -1406,18 +1492,18 @@
      "Trench stats: ESPN team stats for Ole Miss (espn.com)",
      "Schedule history: collegefootballdata.com 2018–2025"
     ],
-    "fanatic_story": "Mississippi State Bulldogs vs Ole Miss Rebels is the 123rd Egg Bowl, and for the second straight year it kicks off at 11 a.m. on Black Friday, early enough that half of Starkville will be on the road to Oxford before the sun clears the pines. Wade Pettus is in that caravan with his cowbell wrapped in a dish towel so it won't wake the neighbors, and he's driving west to look Langston Fairbanks in the eye after three straight years of hearing about it.\n\nLangston has been counting those years out loud since Sunday.\n\n\"Three,\" he says, holding up fingers like a man ordering at a drive-thru. \"Three Egg Bowls in a row. You know the last time we did that? Two thousand two through two thousand four. I was in grade school. It felt great then, too.\"\n\n\"And you know the last time you won four straight?\" Wade says. \"When the game was still played in Jackson. You're asking history for a big favor, Langston.\"\n\n\"History owes me one,\" Langston says. \"I sat through some long Novembers.\"\n\nWade lets him have the joke, because Wade is in a generous mood for the first time in a month and a half. The Bulldogs had dropped six in a row before last Saturday, when they beat Tennessee Tech 34-16 at Davis Wade Stadium. Parker Puckett threw for 232 yards and two touchdowns, Anthony Evans III caught eight balls for 129 yards, and Xavier Gayten broke off 100 yards on three carries, which Wade has watched so many times his phone thinks it's a ringtone.\n\n\"Three carries, a hundred yards,\" Wade says. \"That's thirty-three yards a pop. I did the math in the parking lot.\"\n\n\"You did math with a cowbell in your hand?\"\n\n\"I can do anything with a cowbell in my hand.\"\n\nLangston's answer is a quarterback. Trinidad Chambliss went 19 for 20 against Wofford last Saturday for 367 yards and five touchdowns, and Deuce Alexander caught two of them on a 128-yard afternoon. Chambliss has 2,853 yards and 24 touchdown throws this year, and in the Grove they talk about him the way Oxford talks about its writers, like he belongs on a plaque somewhere off the Square.\n\n\"Nineteen of twenty,\" Langston says. \"The one he missed, the receiver sent a handwritten apology.\"\n\n\"Georgia beat you 42-7,\" Wade says. \"Oklahoma held him to 127 yards in Norman. Your guy is a great story when the other team rides a bus up from Spartanburg.\"\n\nThat one lands. Ole Miss is 7-4, and the four losses include a long afternoon in Gainesville and that Georgia game, which nobody in Oxford brings up unless they're asked twice. The Rebels get their pressure from Blake Purchase, who has six sacks, and Tah'j Butler is all over the field from linebacker with 65 tackles. Kewan Lacy is the leading rusher. When this team is rolling, the Grove gets loud before noon, which on Friday is the only time there will be.\n\nMississippi State has been through three quarterbacks. Kamario Taylor was on fire early, with 17 touchdown throws and only four interceptions in the first five games, and Wade still has the Minnesota win saved on his phone. Then came Puckett, then AJ Swann, then Puckett again. Through all of it, Evans kept catching the ball. He has 73 grabs for 929 yards, and Fluff Bothwell has run for 649. On defense, Jardin Gilbert leads the team with 70 tackles and Jaray Bledsoe has 5.5 sacks.\n\n\"The Bulldogs are going to play loose,\" Wade says. \"Nobody gave us a chance in October. Nobody's giving us one now. That's the best kind of Friday.\"\n\n\"The best kind of Friday is a three-game run turning into four,\" Langston says. \"Bring your bell. It'll sound sad in our stadium. Real sad. Like a dinner bell nobody answers.\"\n\nHere's how it goes. Chambliss opens like he's still playing Wofford and hits Alexander deep, and Ole Miss goes up two scores before the first quarter ends. Puckett answers with Evans on a long catch-and-run, and the cowbells start rattling in the visiting section like a hardware store in a hailstorm. The Bulldogs hang around into the third quarter, close enough that Wade starts texting his brother-in-law, but Purchase gets home twice in the second half, Lacy grinds out a long drive, and the Rebels pull away. Mississippi State gets a late touchdown that matters to every Bulldog who made the drive, and Gilbert makes enough tackles that Wade leaves proud anyway.\n\nLangston will hold up four fingers on the walk to the car, practicing for next year. Wade will ring the bell once, loud, right behind his ear.\n\nMy call: Ole Miss Rebels 35, Mississippi State Bulldogs 21.",
+    "fanatic_story": "Mississippi State Bulldogs vs Ole Miss Rebels is the 123rd Egg Bowl, and for the second straight year it kicks off at 11 a.m. on Black Friday, early enough that half of Starkville will be on the road to Oxford before the sun clears the pines. Wade Pettus is in that caravan with his cowbell wrapped in a dish towel so it won't wake the neighbors, and he's driving west to look Langston Fairbanks in the eye after three straight years of hearing about it.\n\nLangston has been counting those years out loud since Sunday.\n\n\"Three,\" he says, holding up fingers like a man ordering at a drive-thru. \"Three Egg Bowls in a row. You know the last time we did that? Two thousand two through two thousand four. I was in grade school. It felt great then, too.\"\n\n\"And you know the last time you won four straight?\" Wade says. \"When the game was still played in Jackson. You're asking history for a big favor, Langston.\"\n\n\"History owes me one,\" Langston says. \"I sat through some long Novembers.\"\n\nWade lets him have the joke, because Wade is in a generous mood for the first time in a month and a half. The Bulldogs had dropped six in a row before last Saturday, when they beat Tennessee Tech 34-16 at Davis Wade Stadium. Parker Puckett threw for 232 yards and two touchdowns, Anthony Evans III caught eight balls for 129 yards, and Xavier Gayten broke off 100 yards on three carries, which Wade has watched so many times his phone thinks it's a ringtone.\n\n\"Three carries, a hundred yards,\" Wade says. \"That's thirty-three yards a pop. I did the math in the parking lot.\"\n\n\"You did math with a cowbell in your hand?\"\n\n\"I can do anything with a cowbell in my hand.\"\n\nLangston's answer is a quarterback. Trinidad Chambliss went 19 for 20 against Wofford last Saturday for 367 yards and five touchdowns, and Deuce Alexander caught two of them on a 128-yard afternoon. Chambliss has 2,853 yards and 24 touchdown throws this year, and in the Grove they talk about him the way Oxford talks about its writers, like he belongs on a plaque somewhere off the Square.\n\n\"Nineteen of twenty,\" Langston says. \"The one he missed, the receiver sent a handwritten apology.\"\n\n\"Georgia beat you 42-7,\" Wade says. \"Oklahoma held him to 127 yards in Norman. Your guy is a great story when the other team rides a bus up from Spartanburg.\"\n\nThat one lands. Ole Miss is 7-4, and the four losses include a long afternoon in Gainesville and that Georgia game, which nobody in Oxford brings up unless they're asked twice. The Rebels get their pressure from Blake Purchase, who has six sacks, and Tah'j Butler is all over the field from linebacker with 65 tackles. Kewan Lacy is the leading rusher, and he's listed out for Friday, so the backs behind him get their turn. When this team is rolling, the Grove gets loud before noon, which on Friday is the only time there will be.\n\nMississippi State has been through three quarterbacks. Kamario Taylor was on fire early, with 17 touchdown throws and only four interceptions in the first five games, and Wade still has the Minnesota win saved on his phone. Then came Puckett, then AJ Swann, then Puckett again. Through all of it, Evans kept catching the ball. He has 73 grabs for 929 yards, and Fluff Bothwell has run for 649. On defense, Jardin Gilbert leads the team with 70 tackles and Jaray Bledsoe has 5.5 sacks.\n\n\"The Bulldogs are going to play loose,\" Wade says. \"Nobody gave us a chance in October. Nobody's giving us one now. That's the best kind of Friday.\"\n\n\"The best kind of Friday is a three-game run turning into four,\" Langston says. \"Bring your bell. It'll sound sad in our stadium. Real sad. Like a dinner bell nobody answers.\"\n\nHere's how it goes. Chambliss opens like he's still playing Wofford and hits Alexander deep, and Ole Miss goes up two scores before the first quarter ends. Puckett answers with Evans on a long catch-and-run, and the cowbells start rattling in the visiting section like a hardware store in a hailstorm. The Bulldogs hang around into the third quarter, close enough that Wade starts texting his brother-in-law, but Purchase gets home twice in the second half, the Rebels grind out a long drive, and the Rebels pull away. Mississippi State gets a late touchdown that matters to every Bulldog who made the drive, and Gilbert makes enough tackles that Wade leaves proud anyway.\n\nLangston will hold up four fingers on the walk to the car, practicing for next year. Wade will ring the bell once, loud, right behind his ear.\n\nMy call: Ole Miss Rebels 35, Mississippi State Bulldogs 21.",
     "market": {
      "score_line": "",
-     "spread": "Ole Miss Rebels −18.5",
+     "spread": "Ole Miss Rebels −17.5",
      "total": "56.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:11 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "Mississippi State Bulldogs vs Ole Miss Rebels: The 123rd Egg Bowl",
-    "gambler_headline": "Mississippi State vs Ole Miss Pick: Bulldogs +18.5, Under 56.5"
+    "gambler_headline": "Mississippi State vs Ole Miss Pick: Bulldogs +17.5, Under 56.5"
    },
-   "gambler_story": "The Egg Bowl is back on Black Friday with an eleven o'clock kickoff in Oxford, and Ole Miss is chasing a fourth straight win in this rivalry, something it hasn't pulled off since the game was played in Jackson. My Mississippi State vs Ole Miss prediction takes the points on the spread, Mississippi State Bulldogs +18.5, and the over/under pick is Under 56.5.\n\nLangston Fairbanks has been practicing a speech since Sunday. \"Last year it was 38-19, Wade. I'd like the scoreboard to look familiar.\"\n\nWade Pettus doesn't look up from his cowbell. \"Your quarterback missed one throw last week, Langston. Against Wofford. Frame it.\"\n\nTrinidad Chambliss went 19 for 20 for 367 yards and five touchdowns against Wofford, which is a poor scouting report. The two SEC games before it say more: 7 points against Georgia and 17 at Oklahoma, with 170 and 127 throwing yards. Ole Miss scores 34.5 a game and allows 25.0. I won't lay three touchdowns behind a defense that gives up 25.\n\nMississippi State's issue is the quarterback room. Kamario Taylor threw 17 touchdowns against 4 interceptions in the first five games, then the job went to Parker Puckett and AJ Swann. Puckett was 17 for 25 for 232 yards and two touchdowns in the 34-16 win over Tennessee Tech, and Anthony Evans III has 73 catches for 929 yards no matter who is throwing. I'm pricing the Puckett version, and it still finds three scores.\n\nThe market went the other way. DraftKings opened Ole Miss −14.5 with a total of 57.5, per ESPN. It now sits at Ole Miss Rebels −18.5 and 56.5. That's four points of movement toward the home team in a rivalry the Rebels have won the last three years by 19, 12 and 10. Ole Miss Rebels 35, Mississippi State Bulldogs 21 is a 14-point game, so the Bulldogs keep four and a half to spare.\n\nThe Under comes from the Bulldogs' SEC tape. They put up 0 at LSU, 15 against Oklahoma, 3 at Texas, 23 against Vanderbilt and 9 against Auburn. The 2024 and 2023 meetings finished with 40 and 24 combined points. Ole Miss can get to 35 without this game sailing over.\n\nThe room mostly agrees on the side. The Formula is with me on both, 34-20, Mississippi State Bulldogs +18.5 and the Under 56.5. Next Man Up has Ole Miss 40-24, takes the Bulldogs with the points and goes Over. Letdown Watch is the only vote for Ole Miss Rebels −18.5, at 38-17, and it likes the Under. In The Trenches has a 26-23 game, takes Mississippi State, and makes no over/under call. Follow The Money's side and total are both pending.\n\nNext Man Up: \"Forty points. Chambliss just went 19 for 20. I'm not going to pretend I didn't see it.\"\n\nLetdown Watch: \"And I'm the only one here who thinks the Rebels pull away. They've won three of these in a row. They know the road.\"\n\nMy number is Ole Miss by 14 with 56 combined points, half a point under. The Rebels can keep the bragging rights for another year. The Bulldogs keep this one inside three scores.\n\nOle Miss Rebels 35, Mississippi State Bulldogs 21. Mississippi State Bulldogs cover the 18.5. Under 56.5."
+   "gambler_story": "The Egg Bowl is back on Black Friday with an eleven o'clock kickoff in Oxford, and Ole Miss is chasing a fourth straight win in this rivalry, something it hasn't pulled off since the game was played in Jackson. My Mississippi State vs Ole Miss prediction takes the points on the spread, Mississippi State Bulldogs +17.5, and the over/under pick is Under 56.5.\n\nLangston Fairbanks has been practicing a speech since Sunday. \"Last year it was 38-19, Wade. I'd like the scoreboard to look familiar.\"\n\nWade Pettus doesn't look up from his cowbell. \"Your quarterback missed one throw last week, Langston. Against Wofford. Frame it.\"\n\nTrinidad Chambliss went 19 for 20 for 367 yards and five touchdowns against Wofford, which is a poor scouting report. The two SEC games before it say more: 7 points against Georgia and 17 at Oklahoma, with 170 and 127 throwing yards. Ole Miss scores 34.5 a game and allows 25.0. I won't lay three touchdowns behind a defense that gives up 25.\n\nMississippi State's issue is the quarterback room. Kamario Taylor threw 17 touchdowns against 4 interceptions in the first five games, then the job went to Parker Puckett and AJ Swann. Puckett was 17 for 25 for 232 yards and two touchdowns in the 34-16 win over Tennessee Tech, and Anthony Evans III has 73 catches for 929 yards no matter who is throwing. I'm pricing the Puckett version, and it still finds three scores. Taylor is out, Swann is doubtful and Ole Miss rusher Kewan Lacy is out, per the SEC report.\n\nThe market went the other way. DraftKings opened Ole Miss −14.5 with a total of 57.5. As of 6:11 AM ET it sits at Ole Miss Rebels −17.5 and 56.5. That's three points of movement toward the home team in a rivalry the Rebels have won the last three years by 19, 12 and 10. Ole Miss Rebels 35, Mississippi State Bulldogs 21 leaves the Bulldogs three and a half to spare.\n\nThe Under comes from the Bulldogs' SEC tape. They put up 0 at LSU, 15 against Oklahoma, 3 at Texas, 23 against Vanderbilt and 9 against Auburn. The 2024 and 2023 meetings finished with 40 and 24 combined points. Ole Miss can get to 35 without this game sailing over.\n\nThe room mostly agrees on the side. The Formula is with me on both, 34-20, Mississippi State Bulldogs +17.5 and the Under 56.5. Next Man Up has Ole Miss 40-24, takes the Bulldogs with the points and goes Over. Letdown Watch is the only vote for Ole Miss Rebels −17.5, at 38-17, and it likes the Under. In The Trenches has a 26-23 game, takes Mississippi State, and makes no over/under call. Follow The Money takes Mississippi State Bulldogs +17.5 and has no total pick.\n\nNext Man Up: \"Forty points. Chambliss just went 19 for 20. I'm not going to pretend I didn't see it.\"\n\nLetdown Watch: \"And I'm the only one here who thinks the Rebels pull away. They've won three of these in a row.\"\n\nMy number is Ole Miss by 14 with 56 combined points, half a point under. The Rebels can keep the bragging rights for another year. The Bulldogs keep this one inside three scores.\n\nOle Miss Rebels 35, Mississippi State Bulldogs 21. Mississippi State Bulldogs cover the 17.5. Under 56.5."
   },
   {
    "game_id": "401858536",
@@ -1447,13 +1533,13 @@
     "nebraska",
     "iowa"
    ],
-   "spread": "Iowa Hawkeyes −4.5",
-   "total_line": 39.5,
+   "spread": "Iowa Hawkeyes −3.5",
+   "total_line": 40.5,
    "prediction": {
     "away_score": 18,
     "home_score": 24,
     "winner": "Iowa Hawkeyes",
-    "covers": "Iowa Hawkeyes −4.5"
+    "covers": "Iowa Hawkeyes −3.5"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -1462,50 +1548,50 @@
    "display": {
     "writer": {
      "score_line": "Projected: Iowa Hawkeyes 24, Nebraska Cornhuskers 18 (Total 42)",
-     "side": "Iowa Hawkeyes −4.5",
-     "ou": "Over 39.5",
+     "side": "Iowa Hawkeyes −3.5",
+     "ou": "Over 40.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Nebraska Cornhuskers +4.5",
-      "ou_line": "O/U: Over 39.5 · Likes this total",
+      "side_line": "Side: Nebraska Cornhuskers +3.5",
+      "ou_line": "O/U: Over 40.5 · Likes this total",
       "score_line": "Projected: Iowa Hawkeyes 24, Nebraska Cornhuskers 21 (Total 45)",
       "basis_line": "Net ratings Nebraska Cornhuskers 14.9, Iowa Hawkeyes 15.7 (ESPN Football Power Index, Nov 23, 2026)",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 5.5,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 4.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Iowa Hawkeyes −4.5",
-      "ou_line": "O/U: Under 39.5 · Likes this total",
+      "side_line": "Side: Iowa Hawkeyes −3.5 · Likes this side",
+      "ou_line": "O/U: Under 40.5 · Likes this total",
       "score_line": "Projected: Iowa Hawkeyes 21, Nebraska Cornhuskers 15 (Total 36)",
       "basis_line": "With the players available: projected points Nebraska Cornhuskers 15.3, Iowa Hawkeyes 20.9.",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 3.5,
+      "distance_from_spread": 2.5,
+      "distance_from_total": 4.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Iowa Hawkeyes −4.5 · Likes this side",
-      "ou_line": "O/U: Over 39.5 · Likes this total",
+      "side_line": "Side: Iowa Hawkeyes −3.5 · Likes this side",
+      "ou_line": "O/U: Over 40.5",
       "score_line": "Projected: Iowa Hawkeyes 26, Nebraska Cornhuskers 16 (Total 42)",
       "basis_line": "Rest and travel read: projected points Nebraska Cornhuskers 16.3, Iowa Hawkeyes 26.2.",
       "independent": true,
-      "distance_from_spread": 5.5,
-      "distance_from_total": 2.5,
+      "distance_from_spread": 6.5,
+      "distance_from_total": 1.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: Nebraska Cornhuskers +3.5 · Likes this side",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 23, 10:35 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Iowa Hawkeyes −4.5 (Nov 24, 8:41 AM ET) and is −3.5 now, a 1-point move. The side pick quotes the consensus spread now (Nebraska Cornhuskers +3.5). Consensus total opened 40.5 (Nov 24, 8:41 AM ET) and is 40.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 27, 6:11 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -1521,19 +1607,105 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "Nebraska vs Iowa is the Heroes Game, and on Black Friday at Kinnick Stadium the winner carries home a trophy with two ordinary citizens' names inscribed on it, one from each state, honored on the field before a noon Eastern kickoff. My Nebraska vs Iowa pick is Iowa Hawkeyes −4.5 with the Over 39.5, and the hardest part of the case is that Nebraska just beat Ohio State.\n\nDarla Rasmussen hasn't come down yet. \"Thirty-one to twenty-eight over the Buckeyes. Anthony Colandrea threw three touchdowns and no picks. I'm still wearing the same red sweatshirt. I'll wash it in December.\"\n\nOrrin Kalvelage is unbothered, which is the most Iowa thing about him. \"Nice win. Now come play a defense that gives up 12.2 a game, on Senior Day, after a six-day week.\"\n\nHe's right about the week. Nebraska spent everything it had last Saturday, and now it travels to Iowa City on a Friday. The Huskers lost four straight in the middle of the season by 3, 3, 7 and 11,. Iowa's defense is better than any of them. The Hawkeyes have three shutouts, held Purdue to 7 and Northwestern to 10, and Cam Buffington has 97 tackles.\n\nThe series backs it up. Iowa has won nine of the last ten meetings, including 40-16 a year ago. The lone Nebraska win in that stretch was 24-17 in 2022.\n\nIowa's offense isn't pretty, but it gets there. L.J. Phillips Jr. ran for 154 yards on 26 carries in the 34-17 win at Illinois, and Iowa runs for 5.3 yards a carry against a Nebraska defense that allows 3.1. Hank Brown doesn't need big throwing days. He has 10 touchdown throws and 4 interceptions, and he hands off well.\n\nThe Over is the part that might surprise people who still picture these games ending 13-10. Nebraska scores 30.4 a game and Iowa scores 28.4. Six of Nebraska's eleven games went past 39.5, and Kwazi Gilmer has 8 touchdown catches. DraftKings opened Iowa Hawkeyes −6.5 with a 38.5 total, and since then the side has come down to 4.5 and the total has climbed to 39.5.\n\nThe room is split. The Formula has 24-21 and takes Nebraska Cornhuskers +4.5 with the Over 39.5. Next Man Up has 21-15, takes Iowa Hawkeyes −4.5 and goes Under 39.5. Letdown Watch has 26-16 with Iowa and the Over. In The Trenches has no pick in this game. Follow The Money's side and total are both pending.\n\nLetdown Watch: \"Nebraska beat Ohio State, threw a party, and has to show up in Iowa City on Friday. The Formula has them losing by three. The Formula has never been to a party.\"\n\nThe Formula: \"And you've got a team that just hung 31 on the Buckeyes scoring 16. I've been to parties. I just leave before I start making calls like that.\"\n\nMy final is Iowa Hawkeyes 24, Nebraska Cornhuskers 18. Six points clears the 4.5, and 42 combined gets over 39.5 without needing a shootout. The Swarm comes out, the seniors get their send-off, and the Heroes Trophy stays in Iowa City another year.\n\nIowa Hawkeyes 24, Nebraska Cornhuskers 18. Iowa Hawkeyes cover the 4.5. Over 39.5.",
+    "story_text": "Nebraska vs Iowa is the Heroes Game, and on Black Friday at Kinnick Stadium the winner carries home a trophy with two ordinary citizens' names inscribed on it, one from each state, honored on the field before a noon Eastern kickoff. My Nebraska vs Iowa pick is Iowa Hawkeyes −3.5 with the Over 40.5, and the hardest part of the case is that Nebraska just beat Ohio State.\n\nDarla Rasmussen hasn't come down yet. \"Thirty-one to twenty-eight over the Buckeyes. Anthony Colandrea threw three touchdowns and no picks. I'm still wearing the same red sweatshirt. I'll wash it in December.\"\n\nOrrin Kalvelage is unbothered, which is the most Iowa thing about him. \"Nice win. Now come play a defense that gives up 12.2 a game, on Senior Day, after a six-day week.\"\n\nHe's right about the week. Nebraska spent everything it had last Saturday, and now it travels to Iowa City on a Friday. The Huskers lost four straight in the middle of the season by 3, 3, 7 and 11. Iowa's defense is better than any of them. The Hawkeyes have three shutouts, held Purdue to 7 and Northwestern to 10, and Cam Buffington has 97 tackles. The latest Big Ten availability report also has Nebraska without its sack leader, Jahsear Whittington, and receiver Larry Miles.\n\nThe series backs it up. Iowa has won nine of the last ten meetings, including 40-16 a year ago. The lone Nebraska win in that stretch was 24-17 in 2022.\n\nIowa's offense isn't pretty, but it gets there. L.J. Phillips Jr. ran for 154 yards on 26 carries in the 34-17 win at Illinois, and Iowa runs for 5.3 yards a carry against a Nebraska defense that allows 3.1. Hank Brown doesn't need big throwing days. He has 10 touchdown throws and 4 interceptions, and he hands off well.\n\nThe Over is the part that might surprise people who still picture these games ending 13-10. Nebraska scores 30.4 a game and Iowa scores 28.4. Six of Nebraska's eleven games went past 40.5, and Kwazi Gilmer has 8 touchdown catches. DraftKings opened Iowa Hawkeyes −6.5 with a 38.5 total, and as of 6:11 AM ET Friday the side has come down to 3.5 and the total has climbed to 40.5.\n\nThe room is split. The Formula has 24-21 and takes Nebraska Cornhuskers +3.5 with the Over 40.5. Next Man Up has 21-15, takes Iowa Hawkeyes −3.5 and goes Under 40.5. Letdown Watch has 26-16 with Iowa and the Over. In The Trenches has no pick in this game. Follow The Money takes Nebraska Cornhuskers +3.5 and has no total pick.\n\nLetdown Watch: \"Nebraska beat Ohio State, threw a party, and has to show up in Iowa City on Friday. The Formula has them losing by three. The Formula has never been to a party.\"\n\nThe Formula: \"And you've got a team that just hung 31 on the Buckeyes scoring 16. I've been to parties. I just leave before I start making calls like that.\"\n\nMy final is Iowa Hawkeyes 24, Nebraska Cornhuskers 18. Six points clears the 3.5, and 42 combined gets over 40.5 without needing a shootout. The Swarm comes out, the seniors get their send-off, and the Heroes Trophy stays in Iowa City another year.\n\nIowa Hawkeyes 24, Nebraska Cornhuskers 18. Iowa Hawkeyes cover the 3.5. Over 40.5.",
     "fanatic_score_line": "Projected: Iowa Hawkeyes 24, Nebraska Cornhuskers 18",
     "line_used": {
-     "home_line": "Iowa Hawkeyes −4.5",
-     "total": "39.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "home_line": "Iowa Hawkeyes −3.5",
+     "total": "40.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:11 AM ET",
+     "fetched_at_utc": "2026-11-27T11:11Z"
     },
     "injuries": {
-     "away": [],
-     "home": [],
-     "source": "Not posted yet: the official conference availability report for this game",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "away": [
+      {
+       "player": "Jahsear Whittington",
+       "position": "DL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Larry Miles",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Vincent Genatone",
+       "position": "RB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Owen Chambliss",
+       "position": "LB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Andrew Marshall",
+       "position": "DB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Larry Tarver Jr.",
+       "position": "DB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Questionable"
+      },
+      {
+       "player": "Vincent Shavers Jr.",
+       "position": "LB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Questionable"
+      }
+     ],
+     "home": [
+      {
+       "player": "Kamari Moulton",
+       "position": "RB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Cannon Leonard",
+       "position": "OL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Tyler Brown",
+       "position": "DB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Kyler Gerardy",
+       "position": "DB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "KJ Parker",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Questionable"
+      }
+     ],
+     "source": "Big Ten availability report (latest posted; kickoffstatus last updated Nov 27, 1:41 AM PT), via kickoffstatus.com (https://kickoffstatus.com/teams/nebraska/ and /teams/iowa/), checked Nov 27, 6:2x AM ET. Key players only.",
+     "fetched_at_utc": "2026-11-27T11:15Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -1547,15 +1719,15 @@
     "fanatic_story": "Nebraska Cornhuskers vs Iowa Hawkeyes on Black Friday is the Pioneer Heroes Game, and before kickoff at Kinnick Stadium one everyday hero from Iowa and one from Nebraska will be honored on the field and have their names inscribed on the Heroes Trophy. Darla Rasmussen drove in from Lincoln still floating from the Ohio State win, and Orrin Kalvelage met her in the parking lot at sunrise to remind her that floating and winning in Iowa City are two different things.\n\n\"Six in the morning,\" Orrin says. \"That's when the lots open. I was here at five-fifty. That's how you respect Senior Day.\"\n\n\"I didn't sleep,\" Darla says. \"I'm not tired. I don't think I'll ever be tired again. We beat Ohio State, Orrin. Thirty-one to twenty-eight. Anthony Colandrea threw three touchdowns. Do you know what that feels like?\"\n\n\"I know what it feels like to hold that trophy,\" Orrin says, and he points at the stadium like it's a family farm.\n\nThat's where the needling starts, because the recent history between these two programs is not much of a fight. Iowa has won nine of the last ten meetings. Last year it was 40-16. The two years before that were 13-10 and 13-10, which is about as Iowa as football gets.\n\n\"Thirteen to ten twice in a row,\" Darla says. \"That's not a rivalry. That's a hostage situation.\"\n\n\"It's a love language,\" Orrin says.\n\nWhat makes this one different is that Darla's team arrives with real momentum. Nebraska went through a hard stretch in October, four straight losses, three of them by a touchdown or less, and it looked like the season was getting away. Then the Huskers went to Rutgers and won 31-0, came home and knocked off Ohio State, and suddenly Colandrea looks like the guy Darla promised everyone in August. He has 21 touchdown throws and only seven interceptions. Kwazi Gilmer has eight touchdown catches, and Jamal Rule has 705 rushing yards.\n\n\"We figured something out,\" Darla says. \"And you know what we figured out? We can score on anybody.\"\n\n\"You can score on Rutgers,\" Orrin says. \"Come score on us.\"\n\nHe has reason to talk. Iowa's defense has given up 12.2 points a game this season. It shut out Northern Illinois, Northern Iowa and Wisconsin. Linebacker Cam Buffington has 97 tackles, and Orrin can tell you where every one of them happened. The Hawkeyes have lost twice, to Ohio State and by three points at Minnesota, and they are No. 15 in the country coming into the last home game of the year.\n\nThen there's the part of Kinnick that gets Darla every time, even when she's rooting against it. The Swarm, with the players arm in arm and coming out together, the way Hayden Fry started it. The I-O-W-A chant moving corner to corner after every score. And somewhere in the middle of it, a fan trying to win the Pancheros Burrito Lift on the big screen by hoisting his buddy over his head.\n\n\"I'm not doing the burrito,\" Darla says.\n\n\"Nobody asked you to be the burrito,\" Orrin says. \"You'd have to earn that.\"\n\nIowa's offense is never going to make a highlight show, and Orrin is fine with that. Hank Brown runs it carefully, with 10 touchdown throws and four interceptions, and the Hawkeyes trust the ground game when it matters. Last week L.J. Phillips Jr. ran for 154 yards at Illinois in a 34-17 win.\n\n\"We run the ball, we punt it deep, we hit you,\" Orrin says. \"If you want fireworks, there's a Fourth of July.\"\n\nThe Nebraska worry is the week itself. The Huskers poured everything into last Saturday, and now they have to turn around and play a Friday road game in a stadium that will be loud from the Hawk Walk on. Darla knows it. She just won't say it.\n\nHere's how Friday goes. Nebraska comes out loose and confident, and Colandrea finds Gilmer for an early touchdown that quiets the student section for about four seconds. Iowa answers on the ground, Phillips grinds out a long drive, and the I-O-W-A chant goes around twice before halftime. In the second half the Hawkeyes' defense does what it does, squeezing the field until Colandrea is throwing into coverage on third down. Nebraska keeps it close until late, then Iowa runs out the last five minutes with the ball on the ground.\n\nDarla gets one good look at the Heroes Trophy as it goes past her, close enough to read both names on it, and she tells Orrin the honest truth: the real heroes on it were the only part of the day she didn't argue with.\n\nMy call: Iowa Hawkeyes 24, Nebraska Cornhuskers 18.",
     "market": {
      "score_line": "",
-     "spread": "Iowa Hawkeyes −4.5",
-     "total": "39.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "spread": "Iowa Hawkeyes −3.5",
+     "total": "40.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:11 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "Nebraska vs Iowa: Black Friday Fight for the Heroes Trophy",
-    "gambler_headline": "Nebraska vs Iowa Pick: Hawkeyes −4.5, Over 39.5"
+    "gambler_headline": "Nebraska vs Iowa Pick: Hawkeyes −3.5, Over 40.5"
    },
-   "gambler_story": "Nebraska vs Iowa is the Heroes Game, and on Black Friday at Kinnick Stadium the winner carries home a trophy with two ordinary citizens' names inscribed on it, one from each state, honored on the field before a noon Eastern kickoff. My Nebraska vs Iowa pick is Iowa Hawkeyes −4.5 with the Over 39.5, and the hardest part of the case is that Nebraska just beat Ohio State.\n\nDarla Rasmussen hasn't come down yet. \"Thirty-one to twenty-eight over the Buckeyes. Anthony Colandrea threw three touchdowns and no picks. I'm still wearing the same red sweatshirt. I'll wash it in December.\"\n\nOrrin Kalvelage is unbothered, which is the most Iowa thing about him. \"Nice win. Now come play a defense that gives up 12.2 a game, on Senior Day, after a six-day week.\"\n\nHe's right about the week. Nebraska spent everything it had last Saturday, and now it travels to Iowa City on a Friday. The Huskers lost four straight in the middle of the season by 3, 3, 7 and 11,. Iowa's defense is better than any of them. The Hawkeyes have three shutouts, held Purdue to 7 and Northwestern to 10, and Cam Buffington has 97 tackles.\n\nThe series backs it up. Iowa has won nine of the last ten meetings, including 40-16 a year ago. The lone Nebraska win in that stretch was 24-17 in 2022.\n\nIowa's offense isn't pretty, but it gets there. L.J. Phillips Jr. ran for 154 yards on 26 carries in the 34-17 win at Illinois, and Iowa runs for 5.3 yards a carry against a Nebraska defense that allows 3.1. Hank Brown doesn't need big throwing days. He has 10 touchdown throws and 4 interceptions, and he hands off well.\n\nThe Over is the part that might surprise people who still picture these games ending 13-10. Nebraska scores 30.4 a game and Iowa scores 28.4. Six of Nebraska's eleven games went past 39.5, and Kwazi Gilmer has 8 touchdown catches. DraftKings opened Iowa Hawkeyes −6.5 with a 38.5 total, and since then the side has come down to 4.5 and the total has climbed to 39.5.\n\nThe room is split. The Formula has 24-21 and takes Nebraska Cornhuskers +4.5 with the Over 39.5. Next Man Up has 21-15, takes Iowa Hawkeyes −4.5 and goes Under 39.5. Letdown Watch has 26-16 with Iowa and the Over. In The Trenches has no pick in this game. Follow The Money's side and total are both pending.\n\nLetdown Watch: \"Nebraska beat Ohio State, threw a party, and has to show up in Iowa City on Friday. The Formula has them losing by three. The Formula has never been to a party.\"\n\nThe Formula: \"And you've got a team that just hung 31 on the Buckeyes scoring 16. I've been to parties. I just leave before I start making calls like that.\"\n\nMy final is Iowa Hawkeyes 24, Nebraska Cornhuskers 18. Six points clears the 4.5, and 42 combined gets over 39.5 without needing a shootout. The Swarm comes out, the seniors get their send-off, and the Heroes Trophy stays in Iowa City another year.\n\nIowa Hawkeyes 24, Nebraska Cornhuskers 18. Iowa Hawkeyes cover the 4.5. Over 39.5."
+   "gambler_story": "Nebraska vs Iowa is the Heroes Game, and on Black Friday at Kinnick Stadium the winner carries home a trophy with two ordinary citizens' names inscribed on it, one from each state, honored on the field before a noon Eastern kickoff. My Nebraska vs Iowa pick is Iowa Hawkeyes −3.5 with the Over 40.5, and the hardest part of the case is that Nebraska just beat Ohio State.\n\nDarla Rasmussen hasn't come down yet. \"Thirty-one to twenty-eight over the Buckeyes. Anthony Colandrea threw three touchdowns and no picks. I'm still wearing the same red sweatshirt. I'll wash it in December.\"\n\nOrrin Kalvelage is unbothered, which is the most Iowa thing about him. \"Nice win. Now come play a defense that gives up 12.2 a game, on Senior Day, after a six-day week.\"\n\nHe's right about the week. Nebraska spent everything it had last Saturday, and now it travels to Iowa City on a Friday. The Huskers lost four straight in the middle of the season by 3, 3, 7 and 11. Iowa's defense is better than any of them. The Hawkeyes have three shutouts, held Purdue to 7 and Northwestern to 10, and Cam Buffington has 97 tackles. The latest Big Ten availability report also has Nebraska without its sack leader, Jahsear Whittington, and receiver Larry Miles.\n\nThe series backs it up. Iowa has won nine of the last ten meetings, including 40-16 a year ago. The lone Nebraska win in that stretch was 24-17 in 2022.\n\nIowa's offense isn't pretty, but it gets there. L.J. Phillips Jr. ran for 154 yards on 26 carries in the 34-17 win at Illinois, and Iowa runs for 5.3 yards a carry against a Nebraska defense that allows 3.1. Hank Brown doesn't need big throwing days. He has 10 touchdown throws and 4 interceptions, and he hands off well.\n\nThe Over is the part that might surprise people who still picture these games ending 13-10. Nebraska scores 30.4 a game and Iowa scores 28.4. Six of Nebraska's eleven games went past 40.5, and Kwazi Gilmer has 8 touchdown catches. DraftKings opened Iowa Hawkeyes −6.5 with a 38.5 total, and as of 6:11 AM ET Friday the side has come down to 3.5 and the total has climbed to 40.5.\n\nThe room is split. The Formula has 24-21 and takes Nebraska Cornhuskers +3.5 with the Over 40.5. Next Man Up has 21-15, takes Iowa Hawkeyes −3.5 and goes Under 40.5. Letdown Watch has 26-16 with Iowa and the Over. In The Trenches has no pick in this game. Follow The Money takes Nebraska Cornhuskers +3.5 and has no total pick.\n\nLetdown Watch: \"Nebraska beat Ohio State, threw a party, and has to show up in Iowa City on Friday. The Formula has them losing by three. The Formula has never been to a party.\"\n\nThe Formula: \"And you've got a team that just hung 31 on the Buckeyes scoring 16. I've been to parties. I just leave before I start making calls like that.\"\n\nMy final is Iowa Hawkeyes 24, Nebraska Cornhuskers 18. Six points clears the 3.5, and 42 combined gets over 40.5 without needing a shootout. The Swarm comes out, the seniors get their send-off, and the Heroes Trophy stays in Iowa City another year.\n\nIowa Hawkeyes 24, Nebraska Cornhuskers 18. Iowa Hawkeyes cover the 3.5. Over 40.5."
   },
   {
    "game_id": "401862840",
@@ -1585,13 +1757,13 @@
     "tulsa",
     "utsa"
    ],
-   "spread": "UTSA Roadrunners −1.5",
-   "total_line": 58.5,
+   "spread": "UTSA Roadrunners +1.5",
+   "total_line": 57.5,
    "prediction": {
     "away_score": 27,
     "home_score": 29,
     "winner": "UTSA Roadrunners",
-    "covers": "UTSA Roadrunners −1.5"
+    "covers": "UTSA Roadrunners +1.5"
    },
    "total_pick": "Under",
    "status_at_build": {
@@ -1600,79 +1772,79 @@
    "display": {
     "writer": {
      "score_line": "Projected: UTSA Roadrunners 29, Tulsa Golden Hurricane 27 (Total 56)",
-     "side": "UTSA Roadrunners −1.5",
-     "ou": "Under 58.5",
+     "side": "UTSA Roadrunners +1.5",
+     "ou": "Under 57.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Tulsa Golden Hurricane +1.5 · Likes this side",
-      "ou_line": "O/U: Under 58.5 · Likes this total",
+      "side_line": "Side: UTSA Roadrunners +1.5",
+      "ou_line": "O/U: Under 57.5 · Likes this total",
       "score_line": "Projected: Tulsa Golden Hurricane 28, UTSA Roadrunners 27 (Total 55)",
       "basis_line": "Net ratings Tulsa Golden Hurricane 0.6, UTSA Roadrunners −2.0 (ESPN Football Power Index, Nov 23, 2026)",
-      "independent": true,
-      "distance_from_spread": 2.5,
-      "distance_from_total": 3.5,
-      "landed_on_number": []
-     },
-     {
-      "name": "Next Man Up",
-      "side_line": "Side: UTSA Roadrunners −1.5",
-      "ou_line": "O/U: Under 58.5",
-      "score_line": "Projected: UTSA Roadrunners 30, Tulsa Golden Hurricane 27 (Total 57)",
-      "basis_line": "With the players available: projected points Tulsa Golden Hurricane 26.9, UTSA Roadrunners 30.5.",
-      "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 1.5,
-      "landed_on_number": []
-     },
-     {
-      "name": "Letdown Watch",
-      "side_line": "Side: UTSA Roadrunners −1.5",
-      "ou_line": "O/U: Under 58.5 · Likes this total",
-      "score_line": "Projected: UTSA Roadrunners 29, Tulsa Golden Hurricane 27 (Total 56)",
-      "basis_line": "Rest and travel read: projected points Tulsa Golden Hurricane 27.1, UTSA Roadrunners 29.3.",
       "independent": true,
       "distance_from_spread": 0.5,
       "distance_from_total": 2.5,
       "landed_on_number": []
      },
      {
+      "name": "Next Man Up",
+      "side_line": "Side: UTSA Roadrunners +1.5 · Likes this side",
+      "ou_line": "O/U: Under 57.5",
+      "score_line": "Projected: UTSA Roadrunners 30, Tulsa Golden Hurricane 27 (Total 57)",
+      "basis_line": "With the players available: projected points Tulsa Golden Hurricane 26.9, UTSA Roadrunners 30.5.",
+      "independent": true,
+      "distance_from_spread": 4.5,
+      "distance_from_total": 0.5,
+      "landed_on_number": []
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: UTSA Roadrunners +1.5 · Likes this side",
+      "ou_line": "O/U: Under 57.5",
+      "score_line": "Projected: UTSA Roadrunners 29, Tulsa Golden Hurricane 27 (Total 56)",
+      "basis_line": "Rest and travel read: projected points Tulsa Golden Hurricane 27.1, UTSA Roadrunners 29.3.",
+      "independent": true,
+      "distance_from_spread": 3.5,
+      "distance_from_total": 1.5,
+      "landed_on_number": []
+     },
+     {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: Tulsa Golden Hurricane −1.5 · Likes this side",
+      "ou_line": "O/U: Under 57.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 23, 10:35 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened UTSA Roadrunners −1.5 (Nov 24, 8:42 AM ET) and is +1.5 now, a 3-point move. The side pick quotes the consensus spread now (Tulsa Golden Hurricane −1.5). Consensus total opened 58.5 (Nov 24, 1:04 AM ET) and is 57.5 now, a 1-point move: Under. The total pick quotes the consensus total now (57.5). Lines are the Action Network consensus as of Nov 27, 6:11 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: UTSA Roadrunners −1.5 · Likes this side",
+      "side_line": "Side: UTSA Roadrunners +1.5 · Likes this side",
       "ou_line": "O/U: this card reads sides only",
       "score_line": "Projected: UTSA Roadrunners 29, Tulsa Golden Hurricane 27 (Total 56)",
-      "basis_line": "This read points to a side only. Tulsa Golden Hurricane 5.0 ypc vs UTSA Roadrunners allowing 4.6; UTSA Roadrunners 5.0 ypc vs Tulsa Golden Hurricane allowing 4.1 (2026 season). UTSA Roadrunners run game 0.9 ypc above what the opponent allows, which favours UTSA Roadrunners. Side: UTSA Roadrunners −1.5.",
+      "basis_line": "This read points to a side only. Tulsa Golden Hurricane 5.0 ypc vs UTSA Roadrunners allowing 4.6; UTSA Roadrunners 5.0 ypc vs Tulsa Golden Hurricane allowing 4.1 (2026 season). UTSA Roadrunners run game 0.9 ypc above what the opponent allows, which favours UTSA Roadrunners. Side: UTSA Roadrunners +1.5.",
       "independent": true,
-      "distance_from_spread": 0.5,
+      "distance_from_spread": 3.5,
       "distance_from_total": 2.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "Tulsa has never played a football game in San Antonio, and its first trip lands on UTSA's Senior Day, an 11 a.m. local kickoff at the Alamodome on Black Friday. My Tulsa vs UTSA pick is UTSA Roadrunners −1.5 and the Under 58.5, because the Roadrunners haven't lost in that building this year and the last month of their football has been a grind, not a track meet.\n\nMarisol Ybarra has her day planned. \"Seniors at eleven, River Parade at six. I'll be on the River Walk with a medal around my neck for every senior who walks out of that tunnel.\"\n\nWiley Pettibone came down from Tulsa ready to talk about 2024. \"Forty-six to forty-five, Marisol. We came back on you. Baylor Hayes is throwing better than anybody you've seen this month.\"\n\nHe isn't wrong about Hayes. The Tulsa quarterback has 2,275 yards with 20 touchdowns and 4 interceptions, and he threw four scores against Charlotte last week in a 42-14 win. Oran Singleton Jr. has 70 catches, 891 yards and 10 touchdowns, three of them on Saturday. Tulsa is 7-4, scoring 34.4 points a game, and it has won three straight by a combined 140-45.\n\nSo why the Roadrunners? Because the building matters and so does the shape of their season. UTSA is 9-2, 6-1 in the American, and unbeaten at the Alamodome. The Roadrunners have also won their last two by grinding: 35-16 over North Texas and 19-17 at UAB, with Owen McCown throwing for 85 yards in one and 112 in the other. Will Henderson III carried 23 times at UAB. That's a team that wants to shorten the game. The number only asks UTSA to win by two, and a team that wins close games at home is the one I'll take at a short price.\n\nThat's also the Under case. McCown has 2,213 yards and 13 touchdowns, and he can throw it around when he has to, but UTSA has chosen not to lately. Tulsa's defense has allowed 10, 21 and 14 points in its last three games, and Kyran Duhon has 8 sacks for a front that will make McCown hold the ball. I have 56, two and a half under the number.\n\nDraftKings opened UTSA Roadrunners −2.5 with a 58.5 total, and as of Monday the side is down to −1.5 with the total unchanged.\n\nMost of the room is with the home team, and all of it that makes a call is on the Under. The Formula has Tulsa 28-27, likes the Golden Hurricane +1.5 and likes the Under 58.5. Next Man Up has UTSA 30-27 and goes Under. Letdown Watch has UTSA 29-27 and likes the Under. In The Trenches also has UTSA 29-27, likes the Roadrunners and makes no over/under call. Follow The Money's side and total are both pending.\n\nLetdown Watch: \"You went against a 6-1 team on Senior Day, The Formula. Do you even know what a senior is?\"\n\nThe Formula: \"I know what a one-point game looks like. You'll be the one sweating the hook.\"\n\nMy final is UTSA Roadrunners 29, Tulsa Golden Hurricane 27. Marisol makes the six o'clock parade. Wiley drives home composing a long text about 2024.\n\nUTSA Roadrunners 29, Tulsa Golden Hurricane 27. UTSA Roadrunners cover the 1.5. Under 58.5.",
+    "story_text": "Tulsa has never played a football game in San Antonio, and its first trip lands on UTSA's Senior Day, an 11 a.m. local kickoff at the Alamodome on Black Friday. My Tulsa vs UTSA pick is UTSA Roadrunners +1.5 and the Under 57.5, because the Roadrunners haven't lost in that building this year and the last month of their football has been a grind, not a track meet.\n\nMarisol Ybarra has her day planned. \"Seniors at eleven, River Parade at six. I'll be on the River Walk with a medal around my neck for every senior who walks out of that tunnel.\"\n\nWiley Pettibone came down from Tulsa ready to talk about 2024. \"Forty-six to forty-five, Marisol. We came back on you. Baylor Hayes is throwing better than anybody you've seen this month.\"\n\nHe isn't wrong about Hayes. The Tulsa quarterback has 2,275 yards with 20 touchdowns and 4 interceptions, and he threw four scores against Charlotte last week in a 42-14 win. Oran Singleton Jr. has 70 catches, 891 yards and 10 touchdowns, three of them on Saturday. Tulsa is 7-4, scoring 34.4 points a game, and it has won three straight by a combined 140-45.\n\nSo why the Roadrunners? Because the building matters and so does the shape of their season. UTSA is 9-2, 6-1 in the American, and unbeaten at the Alamodome. The Roadrunners have also won their last two by grinding: 35-16 over North Texas and 19-17 at UAB, with Owen McCown throwing for 85 yards in one and 112 in the other. Will Henderson III carried 23 times at UAB. That's a team that wants to shorten the game. The line has flipped, so UTSA is now getting a point and a half at home, and a team that wins close games in its own building is the one I'll take with points.\n\nThat's also the Under case. McCown has 2,213 yards and 13 touchdowns, and he can throw it around when he has to, but UTSA has chosen not to lately. Tulsa's defense has allowed 10, 21 and 14 points in its last three games, and Kyran Duhon has 8 sacks for a front that will make McCown hold the ball. I have 56, a point and a half under the number.\n\nDraftKings opened UTSA Roadrunners −2.5 and 58.5. As of 6:11 AM ET Friday it's Tulsa Golden Hurricane −1.5 and 57.5.\n\nEvery card with a score is on UTSA now. The Formula's 28-27 Tulsa win doesn't cover the 1.5, so it moves to UTSA Roadrunners +1.5 and likes the Under 57.5. Next Man Up (30-27) and Letdown Watch (29-27) take UTSA and the Under. In The Trenches also has 29-27 with the Roadrunners and no total call. Follow The Money takes Tulsa Golden Hurricane −1.5 and the Under 57.5.\n\nLetdown Watch: \"Welcome over, The Formula. A 6-1 team on Senior Day, and now it's getting points. Took you long enough.\"\n\nThe Formula: \"My number didn't move. The line did. I still have a one-point game, and now the hook is on my side.\"\n\nMy final is UTSA Roadrunners 29, Tulsa Golden Hurricane 27. Marisol makes the six o'clock parade. Wiley drives home composing a long text about 2024.\n\nUTSA Roadrunners 29, Tulsa Golden Hurricane 27. UTSA Roadrunners cover the 1.5. Under 57.5.",
     "fanatic_score_line": "Projected: UTSA Roadrunners 29, Tulsa Golden Hurricane 27",
     "line_used": {
-     "home_line": "UTSA Roadrunners −1.5",
-     "total": "58.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "home_line": "UTSA Roadrunners +1.5",
+     "total": "57.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:11 AM ET",
+     "fetched_at_utc": "2026-11-27T11:11Z"
     },
     "injuries": {
      "away": [],
      "home": [],
-     "source": "Not posted yet: the official conference availability report for this game",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "source": "Not posted yet: the official American availability report for this game (expected Fri Nov 27, 7:00 AM PT / 10:00 AM ET), checked via kickoffstatus.com Nov 27, 2026, 6:20 AM ET",
+     "fetched_at_utc": "2026-11-27T11:20Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -1686,15 +1858,15 @@
     "fanatic_story": "San Antonio is going to be busy on Black Friday, with UTSA's Senior Day at 11 in the morning and the 45th Ford Holiday River Parade floating down the River Walk at 6 that night. Tulsa Golden Hurricane vs UTSA Roadrunners squeezes into the middle of all that, and it's the first time Tulsa football has ever come to San Antonio, which Marisol Ybarra treats as a personal invitation and Wiley Pettibone treats as a road trip with unfinished business.\n\n\"Welcome to the Alamodome,\" Marisol says. \"Park early. Downtown is going to be wall to wall by lunch, and the seniors get one more walk out of that tunnel before you even find your seats.\"\n\n\"I'll find mine,\" Wiley says. \"I've been waiting two years to sit in them.\"\n\nTwo years ago in Tulsa, the Golden Hurricane rallied and beat UTSA 46-45, and Wiley still describes that afternoon like a man who struck oil in his own backyard. UTSA won the first meeting back in 2013, 34-15, but nobody in Oklahoma is bringing that one up this week.\n\nHere's why Wiley drove down I-35 smiling. Baylor Hayes is playing the best football of anybody in this game. He threw four touchdowns against Charlotte last Saturday, and Oran Singleton Jr. caught three of them for 116 yards. Singleton has 70 catches and 10 touchdowns on the year, and he's the guy Marisol keeps circling on her program. Tulsa has won three in a row, including a 60-10 demolition at Tulane, and Trequan Jones ran for 109 yards on ten carries last week just to make sure the Charlotte defense knew it had to worry about the ground, too.\n\n\"That's three gushers in a row,\" Wiley says. \"Hayes finds oil every time he drops back.\"\n\n\"Then he can drop back in front of a dome full of people who want him to stop,\" Marisol says.\n\nMarisol's case is the building. UTSA hasn't lost at the Alamodome all year, and under Jeff Traylor, now in his seventh season, the Roadrunners are 38-5 at home and 28-1 against league opponents there. They sit first in the American at 6-1 with a chance to finish the job in front of their own people. That kind of home record makes visiting teams nervous before they've even unloaded the bus.\n\nThe way UTSA has been winning lately won't win any beauty contests. The Roadrunners beat North Texas 35-16 and then ground out a 19-17 win at UAB last week, with Will Henderson III carrying 23 times for 93 yards. Owen McCown has thrown for more than two thousand yards this year, but the last two weeks he's handed off, managed the game and let the defense do the heavy lifting. Darion White leads that defense with 75 tackles. Owen Pewee has 4 sacks. They don't make highlight reels every week. They make the other team's quarterback uncomfortable.\n\n\"Ugly wins count the same,\" Marisol says. \"I've got a medal for every one of them.\"\n\n\"You've got a drawer full of medals,\" Wiley says.\n\n\"And room for more.\"\n\nWiley's worry is Tulsa's own history in close ones this year. The Golden Hurricane lost to North Texas in overtime, 45-44, and dropped a 38-35 game to Army, and both times the offense had the ball with a chance late. Hayes can throw it with anybody, but Tulsa's defense needs to stand up when McCown has to make a play on third down, and Kyran Duhon, with 8 sacks, is the guy who has to make that happen.\n\nHere's how the morning goes. The seniors get their moment, the dome gets loud, and Tulsa answers with a quick touchdown to Singleton that quiets it for a few minutes. Henderson grinds, McCown hits one deep shot to remind everybody he can, and the game turns into a back-and-forth that has nobody leaving early for the River Walk. Tulsa gets the ball late with a chance. UTSA's front gets home on third down, and the Roadrunners run out the clock.\n\nMarisol heads downtown to stake out a spot on the River Walk with confetti in her pocket. Wiley heads to his truck, checks the clock, and figures he can be north of Austin before the first float hits the water.\n\nMy call: UTSA Roadrunners 29, Tulsa Golden Hurricane 27.",
     "market": {
      "score_line": "",
-     "spread": "UTSA Roadrunners −1.5",
-     "total": "58.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "spread": "Tulsa Golden Hurricane −1.5",
+     "total": "57.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:11 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "Tulsa Golden Hurricane vs UTSA Roadrunners: First Trip to the Dome",
-    "gambler_headline": "Tulsa vs UTSA Pick: Roadrunners −1.5 and the Under 58.5"
+    "gambler_headline": "Tulsa vs UTSA Pick: Roadrunners +1.5 and the Under 57.5"
    },
-   "gambler_story": "Tulsa has never played a football game in San Antonio, and its first trip lands on UTSA's Senior Day, an 11 a.m. local kickoff at the Alamodome on Black Friday. My Tulsa vs UTSA pick is UTSA Roadrunners −1.5 and the Under 58.5, because the Roadrunners haven't lost in that building this year and the last month of their football has been a grind, not a track meet.\n\nMarisol Ybarra has her day planned. \"Seniors at eleven, River Parade at six. I'll be on the River Walk with a medal around my neck for every senior who walks out of that tunnel.\"\n\nWiley Pettibone came down from Tulsa ready to talk about 2024. \"Forty-six to forty-five, Marisol. We came back on you. Baylor Hayes is throwing better than anybody you've seen this month.\"\n\nHe isn't wrong about Hayes. The Tulsa quarterback has 2,275 yards with 20 touchdowns and 4 interceptions, and he threw four scores against Charlotte last week in a 42-14 win. Oran Singleton Jr. has 70 catches, 891 yards and 10 touchdowns, three of them on Saturday. Tulsa is 7-4, scoring 34.4 points a game, and it has won three straight by a combined 140-45.\n\nSo why the Roadrunners? Because the building matters and so does the shape of their season. UTSA is 9-2, 6-1 in the American, and unbeaten at the Alamodome. The Roadrunners have also won their last two by grinding: 35-16 over North Texas and 19-17 at UAB, with Owen McCown throwing for 85 yards in one and 112 in the other. Will Henderson III carried 23 times at UAB. That's a team that wants to shorten the game. The number only asks UTSA to win by two, and a team that wins close games at home is the one I'll take at a short price.\n\nThat's also the Under case. McCown has 2,213 yards and 13 touchdowns, and he can throw it around when he has to, but UTSA has chosen not to lately. Tulsa's defense has allowed 10, 21 and 14 points in its last three games, and Kyran Duhon has 8 sacks for a front that will make McCown hold the ball. I have 56, two and a half under the number.\n\nDraftKings opened UTSA Roadrunners −2.5 with a 58.5 total, and as of Monday the side is down to −1.5 with the total unchanged.\n\nMost of the room is with the home team, and all of it that makes a call is on the Under. The Formula has Tulsa 28-27, likes the Golden Hurricane +1.5 and likes the Under 58.5. Next Man Up has UTSA 30-27 and goes Under. Letdown Watch has UTSA 29-27 and likes the Under. In The Trenches also has UTSA 29-27, likes the Roadrunners and makes no over/under call. Follow The Money's side and total are both pending.\n\nLetdown Watch: \"You went against a 6-1 team on Senior Day, The Formula. Do you even know what a senior is?\"\n\nThe Formula: \"I know what a one-point game looks like. You'll be the one sweating the hook.\"\n\nMy final is UTSA Roadrunners 29, Tulsa Golden Hurricane 27. Marisol makes the six o'clock parade. Wiley drives home composing a long text about 2024.\n\nUTSA Roadrunners 29, Tulsa Golden Hurricane 27. UTSA Roadrunners cover the 1.5. Under 58.5."
+   "gambler_story": "Tulsa has never played a football game in San Antonio, and its first trip lands on UTSA's Senior Day, an 11 a.m. local kickoff at the Alamodome on Black Friday. My Tulsa vs UTSA pick is UTSA Roadrunners +1.5 and the Under 57.5, because the Roadrunners haven't lost in that building this year and the last month of their football has been a grind, not a track meet.\n\nMarisol Ybarra has her day planned. \"Seniors at eleven, River Parade at six. I'll be on the River Walk with a medal around my neck for every senior who walks out of that tunnel.\"\n\nWiley Pettibone came down from Tulsa ready to talk about 2024. \"Forty-six to forty-five, Marisol. We came back on you. Baylor Hayes is throwing better than anybody you've seen this month.\"\n\nHe isn't wrong about Hayes. The Tulsa quarterback has 2,275 yards with 20 touchdowns and 4 interceptions, and he threw four scores against Charlotte last week in a 42-14 win. Oran Singleton Jr. has 70 catches, 891 yards and 10 touchdowns, three of them on Saturday. Tulsa is 7-4, scoring 34.4 points a game, and it has won three straight by a combined 140-45.\n\nSo why the Roadrunners? Because the building matters and so does the shape of their season. UTSA is 9-2, 6-1 in the American, and unbeaten at the Alamodome. The Roadrunners have also won their last two by grinding: 35-16 over North Texas and 19-17 at UAB, with Owen McCown throwing for 85 yards in one and 112 in the other. Will Henderson III carried 23 times at UAB. That's a team that wants to shorten the game. The line has flipped, so UTSA is now getting a point and a half at home, and a team that wins close games in its own building is the one I'll take with points.\n\nThat's also the Under case. McCown has 2,213 yards and 13 touchdowns, and he can throw it around when he has to, but UTSA has chosen not to lately. Tulsa's defense has allowed 10, 21 and 14 points in its last three games, and Kyran Duhon has 8 sacks for a front that will make McCown hold the ball. I have 56, a point and a half under the number.\n\nDraftKings opened UTSA Roadrunners −2.5 and 58.5. As of 6:11 AM ET Friday it's Tulsa Golden Hurricane −1.5 and 57.5.\n\nEvery card with a score is on UTSA now. The Formula's 28-27 Tulsa win doesn't cover the 1.5, so it moves to UTSA Roadrunners +1.5 and likes the Under 57.5. Next Man Up (30-27) and Letdown Watch (29-27) take UTSA and the Under. In The Trenches also has 29-27 with the Roadrunners and no total call. Follow The Money takes Tulsa Golden Hurricane −1.5 and the Under 57.5.\n\nLetdown Watch: \"Welcome over, The Formula. A 6-1 team on Senior Day, and now it's getting points. Took you long enough.\"\n\nThe Formula: \"My number didn't move. The line did. I still have a one-point game, and now the hook is on my side.\"\n\nMy final is UTSA Roadrunners 29, Tulsa Golden Hurricane 27. Marisol makes the six o'clock parade. Wiley drives home composing a long text about 2024.\n\nUTSA Roadrunners 29, Tulsa Golden Hurricane 27. UTSA Roadrunners cover the 1.5. Under 57.5."
   },
   {
    "game_id": "401866472",
@@ -1724,8 +1896,8 @@
     "buffalo",
     "akron"
    ],
-   "spread": "Buffalo Bulls −7.5",
-   "total_line": 50.5,
+   "spread": "Akron Zips +7.5",
+   "total_line": 48.5,
    "prediction": {
     "away_score": 31,
     "home_score": 21,
@@ -1740,49 +1912,49 @@
     "writer": {
      "score_line": "Projected: Buffalo Bulls 31, Akron Zips 21 (Total 52)",
      "side": "Buffalo Bulls −7.5",
-     "ou": "Over 50.5",
+     "ou": "Over 48.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
       "side_line": "Side: Buffalo Bulls −7.5",
-      "ou_line": "O/U: Over 50.5",
+      "ou_line": "O/U: Over 48.5 · Likes this total",
       "score_line": "Projected: Buffalo Bulls 30, Akron Zips 21 (Total 51)",
       "basis_line": "Net ratings Buffalo Bulls −10.3, Akron Zips −23.2 (ESPN Football Power Index, Nov 23, 2026)",
       "independent": true,
       "distance_from_spread": 1.5,
-      "distance_from_total": 0.5,
+      "distance_from_total": 2.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: Akron Zips +7.5",
-      "ou_line": "O/U: Over 50.5 · Likes this total",
+      "ou_line": "O/U: Over 48.5 · Likes this total",
       "score_line": "Projected: Buffalo Bulls 31, Akron Zips 24 (Total 55)",
       "basis_line": "With the players available: projected points Buffalo Bulls 31.1, Akron Zips 24.1.",
       "independent": true,
       "distance_from_spread": 0.5,
-      "distance_from_total": 4.5,
+      "distance_from_total": 6.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
       "side_line": "Side: Buffalo Bulls −7.5 · Likes this side",
-      "ou_line": "O/U: Under 50.5",
+      "ou_line": "O/U: Over 48.5",
       "score_line": "Projected: Buffalo Bulls 35, Akron Zips 15 (Total 50)",
       "basis_line": "Rest and travel read: projected points Buffalo Bulls 35.0, Akron Zips 14.6.",
       "independent": true,
       "distance_from_spread": 12.5,
-      "distance_from_total": 0.5,
+      "distance_from_total": 1.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: Under 48.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 23, 10:35 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Akron Zips +7.5 (Nov 24, 5:07 AM ET) and is +7.5 now. Follow The Money has no side pick. Consensus total opened 49.5 (Nov 23, 11:46 PM ET) and is 48.5 now, a 1-point move: Under. The total pick quotes the consensus total now (48.5). Lines are the Action Network consensus as of Nov 27, 6:11 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -1799,19 +1971,19 @@
       "landed_on_number": []
      }
     ],
-    "story_text": "The Zips honor their seniors at noon on Black Friday, and Buffalo rolls into Akron needing a win to keep its ticket to Detroit in play. My Buffalo vs Akron prediction for InfoCision Stadium is Buffalo Bulls −7.5 and the Over 50.5, and the Bulls have a six-game winning run behind them.\n\nKendra Woolcott has done the math on a napkin. \"Win Friday and we're still alive for Ford Field. Lose and we're done. Hollister, I need your seniors to have a nice ceremony and then a quiet afternoon.\"\n\nHollister \"Zip\" Grubbs is unbothered. \"We beat you last year, Kendra. Twenty-four to sixteen. And we just won at UMass. That's a winning run too. It's one game long, but it counts.\"\n\nThe Bulls are 8-3 and 6-1 in the MAC, and they win by running the ball until the other team quits. Messiah Burch has 1,310 rushing yards and 9 touchdowns, and he went for 200 against Central Michigan last week in a 40-21 win. Jason Wright only threw 13 times in that game. He didn't need more, but he has Chance Morrow when he does, with 710 receiving yards and 10 touchdowns.\n\nThat ground game is aimed right at Akron's soft spot. The Zips are 2-9 and allow 33.2 points a game. Western Michigan scored 42 on them in Akron two weeks ago, Central Michigan put up 41, and Miami (OH) scored 34. Akron has to stop a back like Burch from getting to the second level, and it hasn't shown that it can.\n\nThe Zips can score some. Jordan Gant has 942 rushing yards and 9 touchdowns and ran for 151 at UMass, and Cibastian Broughton has handled the throws the last three weeks. Donelius Johnson has 101 tackles and will be in on plenty more Friday. That's enough to push the total past the posted number, not enough to stay within a touchdown.\n\nDraftKings opened Buffalo at 10 and the total at 49.5. I'm laying the shorter price.\n\nBuffalo Bulls 31, Akron Zips 21 is a 10-point win, two and a half clear of the spread, with 52 total points, a point and a half past 50.5.\n\nThe cards are split right down the middle on the side. The Formula has Buffalo 30-21 with Buffalo Bulls −7.5 and the Over 50.5. Letdown Watch likes the Bulls laying it and has 35-15, but takes the Under. Next Man Up has 31-24, takes Akron Zips +7.5 and likes the Over. In The Trenches has 30-25, likes Akron plus the points and makes no over/under call. Follow The Money's side and total are both pending.\n\nNext Man Up: \"Letdown Watch thinks Akron scores fifteen. On Senior Day. Somebody check that card for frostbite.\"\n\nLetdown Watch: \"I watched Akron play this year. You watched the highlights.\"\n\nThe parade lights up South Main Street that evening and the fireworks go off downtown. By then the Bulls should know whether the Tuesday and Friday scores sent them to Detroit. They'll have done their part.\n\nBuffalo Bulls 31, Akron Zips 21. Buffalo Bulls cover the 7.5. Over 50.5.",
+    "story_text": "The Zips honor their seniors at noon on Black Friday, and Buffalo rolls into Akron needing a win to keep its ticket to Detroit in play. My Buffalo vs Akron prediction for InfoCision Stadium is Buffalo Bulls −7.5 and the Over 48.5, and the Bulls have a six-game winning run behind them.\n\nKendra Woolcott has done the math on a napkin. \"Win Friday and we're still alive for Ford Field. Lose and we're done. Hollister, I need your seniors to have a nice ceremony and then a quiet afternoon.\"\n\nHollister \"Zip\" Grubbs is unbothered. \"We beat you last year, Kendra. Twenty-four to sixteen. And we just won at UMass. That's a winning run too. It's one game long, but it counts.\"\n\nThe Bulls are 8-3 and 6-1 in the MAC, and they win by running the ball until the other team quits. Messiah Burch has 1,310 rushing yards and 9 touchdowns, and he went for 200 against Central Michigan last week in a 40-21 win. Jason Wright only threw 13 times in that game. He didn't need more, but he has Chance Morrow when he does, with 710 receiving yards and 10 touchdowns.\n\nThat ground game is aimed right at Akron's soft spot. The Zips are 2-9 and allow 33.2 points a game. Western Michigan scored 42 on them in Akron two weeks ago, Central Michigan put up 41, and Miami (OH) scored 34. Akron has to stop a back like Burch from getting to the second level, and it hasn't shown that it can.\n\nThe Zips can score some. Jordan Gant has 942 rushing yards and 9 touchdowns and ran for 151 at UMass, and Cibastian Broughton has handled the throws the last three weeks. Donelius Johnson has 101 tackles and will be in on plenty more Friday. That's enough to push the total past the posted number, not enough to stay within a touchdown.\n\nDraftKings opened Buffalo at 10 and the total at 49.5. As of 6:11 AM ET Friday it's Buffalo Bulls −7.5 and 48.5. I'm laying the shorter price.\n\nBuffalo Bulls 31, Akron Zips 21 is a 10-point win, two and a half clear of the spread, with 52 total points, three and a half past 48.5.\n\nThe cards are split right down the middle on the side. The Formula has Buffalo 30-21 with Buffalo Bulls −7.5 and likes the Over 48.5. Letdown Watch likes the Bulls laying it and has 35-15, and with the total down to 48.5, that 50 now goes Over. Next Man Up has 31-24, takes Akron Zips +7.5 and likes the Over. In The Trenches has 30-25, likes Akron plus the points and makes no over/under call. Follow The Money has no side pick and takes the Under 48.5.\n\nNext Man Up: \"Letdown Watch thinks Akron scores fifteen. On Senior Day. Somebody check that card for frostbite.\"\n\nLetdown Watch: \"I watched Akron play this year. You watched the highlights.\"\n\nThe parade lights up South Main Street that evening and the fireworks go off downtown. By then the Bulls should know whether the Tuesday and Friday scores sent them to Detroit. They'll have done their part.\n\nBuffalo Bulls 31, Akron Zips 21. Buffalo Bulls cover the 7.5. Over 48.5.",
     "fanatic_score_line": "Projected: Buffalo Bulls 31, Akron Zips 21",
     "line_used": {
      "home_line": "Akron Zips +7.5",
-     "total": "50.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "total": "48.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:11 AM ET",
+     "fetched_at_utc": "2026-11-27T11:11Z"
     },
     "injuries": {
      "away": [],
      "home": [],
-     "source": "Not posted yet: the official conference availability report for this game",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "source": "Not posted yet: the official MAC availability report for this game (expected Fri Nov 27, 8:00 AM PT / 11:00 AM ET), checked via kickoffstatus.com Nov 27, 2026, 6:20 AM ET",
+     "fetched_at_utc": "2026-11-27T11:20Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -1826,14 +1998,14 @@
     "market": {
      "score_line": "",
      "spread": "Buffalo Bulls −7.5",
-     "total": "50.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "total": "48.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:11 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "Buffalo Bulls vs Akron Zips: Black Friday Senior Day, Detroit in Reach for UB",
-    "gambler_headline": "Buffalo vs Akron Pick: Bulls −7.5, Over 50.5"
+    "gambler_headline": "Buffalo vs Akron Pick: Bulls −7.5, Over 48.5"
    },
-   "gambler_story": "The Zips honor their seniors at noon on Black Friday, and Buffalo rolls into Akron needing a win to keep its ticket to Detroit in play. My Buffalo vs Akron prediction for InfoCision Stadium is Buffalo Bulls −7.5 and the Over 50.5, and the Bulls have a six-game winning run behind them.\n\nKendra Woolcott has done the math on a napkin. \"Win Friday and we're still alive for Ford Field. Lose and we're done. Hollister, I need your seniors to have a nice ceremony and then a quiet afternoon.\"\n\nHollister \"Zip\" Grubbs is unbothered. \"We beat you last year, Kendra. Twenty-four to sixteen. And we just won at UMass. That's a winning run too. It's one game long, but it counts.\"\n\nThe Bulls are 8-3 and 6-1 in the MAC, and they win by running the ball until the other team quits. Messiah Burch has 1,310 rushing yards and 9 touchdowns, and he went for 200 against Central Michigan last week in a 40-21 win. Jason Wright only threw 13 times in that game. He didn't need more, but he has Chance Morrow when he does, with 710 receiving yards and 10 touchdowns.\n\nThat ground game is aimed right at Akron's soft spot. The Zips are 2-9 and allow 33.2 points a game. Western Michigan scored 42 on them in Akron two weeks ago, Central Michigan put up 41, and Miami (OH) scored 34. Akron has to stop a back like Burch from getting to the second level, and it hasn't shown that it can.\n\nThe Zips can score some. Jordan Gant has 942 rushing yards and 9 touchdowns and ran for 151 at UMass, and Cibastian Broughton has handled the throws the last three weeks. Donelius Johnson has 101 tackles and will be in on plenty more Friday. That's enough to push the total past the posted number, not enough to stay within a touchdown.\n\nDraftKings opened Buffalo at 10 and the total at 49.5. I'm laying the shorter price.\n\nBuffalo Bulls 31, Akron Zips 21 is a 10-point win, two and a half clear of the spread, with 52 total points, a point and a half past 50.5.\n\nThe cards are split right down the middle on the side. The Formula has Buffalo 30-21 with Buffalo Bulls −7.5 and the Over 50.5. Letdown Watch likes the Bulls laying it and has 35-15, but takes the Under. Next Man Up has 31-24, takes Akron Zips +7.5 and likes the Over. In The Trenches has 30-25, likes Akron plus the points and makes no over/under call. Follow The Money's side and total are both pending.\n\nNext Man Up: \"Letdown Watch thinks Akron scores fifteen. On Senior Day. Somebody check that card for frostbite.\"\n\nLetdown Watch: \"I watched Akron play this year. You watched the highlights.\"\n\nThe parade lights up South Main Street that evening and the fireworks go off downtown. By then the Bulls should know whether the Tuesday and Friday scores sent them to Detroit. They'll have done their part.\n\nBuffalo Bulls 31, Akron Zips 21. Buffalo Bulls cover the 7.5. Over 50.5."
+   "gambler_story": "The Zips honor their seniors at noon on Black Friday, and Buffalo rolls into Akron needing a win to keep its ticket to Detroit in play. My Buffalo vs Akron prediction for InfoCision Stadium is Buffalo Bulls −7.5 and the Over 48.5, and the Bulls have a six-game winning run behind them.\n\nKendra Woolcott has done the math on a napkin. \"Win Friday and we're still alive for Ford Field. Lose and we're done. Hollister, I need your seniors to have a nice ceremony and then a quiet afternoon.\"\n\nHollister \"Zip\" Grubbs is unbothered. \"We beat you last year, Kendra. Twenty-four to sixteen. And we just won at UMass. That's a winning run too. It's one game long, but it counts.\"\n\nThe Bulls are 8-3 and 6-1 in the MAC, and they win by running the ball until the other team quits. Messiah Burch has 1,310 rushing yards and 9 touchdowns, and he went for 200 against Central Michigan last week in a 40-21 win. Jason Wright only threw 13 times in that game. He didn't need more, but he has Chance Morrow when he does, with 710 receiving yards and 10 touchdowns.\n\nThat ground game is aimed right at Akron's soft spot. The Zips are 2-9 and allow 33.2 points a game. Western Michigan scored 42 on them in Akron two weeks ago, Central Michigan put up 41, and Miami (OH) scored 34. Akron has to stop a back like Burch from getting to the second level, and it hasn't shown that it can.\n\nThe Zips can score some. Jordan Gant has 942 rushing yards and 9 touchdowns and ran for 151 at UMass, and Cibastian Broughton has handled the throws the last three weeks. Donelius Johnson has 101 tackles and will be in on plenty more Friday. That's enough to push the total past the posted number, not enough to stay within a touchdown.\n\nDraftKings opened Buffalo at 10 and the total at 49.5. As of 6:11 AM ET Friday it's Buffalo Bulls −7.5 and 48.5. I'm laying the shorter price.\n\nBuffalo Bulls 31, Akron Zips 21 is a 10-point win, two and a half clear of the spread, with 52 total points, three and a half past 48.5.\n\nThe cards are split right down the middle on the side. The Formula has Buffalo 30-21 with Buffalo Bulls −7.5 and likes the Over 48.5. Letdown Watch likes the Bulls laying it and has 35-15, and with the total down to 48.5, that 50 now goes Over. Next Man Up has 31-24, takes Akron Zips +7.5 and likes the Over. In The Trenches has 30-25, likes Akron plus the points and makes no over/under call. Follow The Money has no side pick and takes the Under 48.5.\n\nNext Man Up: \"Letdown Watch thinks Akron scores fifteen. On Senior Day. Somebody check that card for frostbite.\"\n\nLetdown Watch: \"I watched Akron play this year. You watched the highlights.\"\n\nThe parade lights up South Main Street that evening and the fireworks go off downtown. By then the Bulls should know whether the Tuesday and Friday scores sent them to Detroit. They'll have done their part.\n\nBuffalo Bulls 31, Akron Zips 21. Buffalo Bulls cover the 7.5. Over 48.5."
   },
   {
    "game_id": "401866473",
@@ -1863,8 +2035,8 @@
     "toledo",
     "ohio"
    ],
-   "spread": "Toledo Rockets −3",
-   "total_line": 49.5,
+   "spread": "Ohio Bobcats +3",
+   "total_line": 44.5,
    "prediction": {
     "away_score": 28,
     "home_score": 23,
@@ -1879,49 +2051,49 @@
     "writer": {
      "score_line": "Projected: Toledo Rockets 28, Ohio Bobcats 23 (Total 51)",
      "side": "Toledo Rockets −3",
-     "ou": "Over 49.5",
+     "ou": "Over 44.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
       "side_line": "Side: Toledo Rockets −3",
-      "ou_line": "O/U: Over 49.5 · Likes this total",
+      "ou_line": "O/U: Over 44.5 · Likes this total",
       "score_line": "Projected: Toledo Rockets 28, Ohio Bobcats 24 (Total 52)",
       "basis_line": "Net ratings Toledo Rockets −3.2, Ohio Bobcats −10.2 (ESPN Football Power Index, Nov 23, 2026)",
       "independent": true,
       "distance_from_spread": 1.0,
-      "distance_from_total": 2.5,
+      "distance_from_total": 7.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: Toledo Rockets −3",
-      "ou_line": "O/U: Over 49.5 · Likes this total",
+      "ou_line": "O/U: Over 44.5 · Likes this total",
       "score_line": "Projected: Toledo Rockets 29, Ohio Bobcats 25 (Total 54)",
       "basis_line": "With the players available: projected points Toledo Rockets 28.5, Ohio Bobcats 24.5.",
       "independent": true,
       "distance_from_spread": 1.0,
-      "distance_from_total": 4.5,
+      "distance_from_total": 9.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
       "side_line": "Side: Toledo Rockets −3 · Likes this side",
-      "ou_line": "O/U: Over 49.5",
+      "ou_line": "O/U: Over 44.5 · Likes this total",
       "score_line": "Projected: Toledo Rockets 28, Ohio Bobcats 22 (Total 50)",
       "basis_line": "Rest and travel read: projected points Toledo Rockets 27.9, Ohio Bobcats 22.0.",
       "independent": true,
       "distance_from_spread": 3.0,
-      "distance_from_total": 0.5,
+      "distance_from_total": 5.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: Under 44.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 23, 10:35 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Ohio Bobcats +3 (Nov 23, 11:49 PM ET) and is +3 now. Follow The Money has no side pick. Consensus total opened 48.5 (Nov 23, 11:40 PM ET) and is 44.5 now, a 4-point move: Under. The total pick quotes the consensus total now (44.5). Lines are the Action Network consensus as of Nov 27, 6:11 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -1937,19 +2109,19 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "Ohio wants Peden Stadium green from one end zone to the other for Friday's Fan Appreciation game, the Bobcats' last home date of the year, and Toledo shows up with back-to-back shutouts and the same 6-1 MAC mark as the home team. My Toledo vs Ohio prediction lays the short spread with Toledo Rockets −3 and takes the Over 49.5 on the over/under.\n\nPenny Trautman has a green flannel picked out. \"Green socks too, Rocco. I'm going to be the first car into the lot.\"\n\nRocco Szczepanski shrugs. \"Wear the whole rainbow, Penny. My defense hasn't given up a point in two games.\"\n\nTrue, and also the least useful number in this matchup. Toledo shut out Massachusetts 24-0 and Bowling Green 19-0. When the Rockets have played teams that can score, the games have gone up and down: 49-48 in overtime against Temple, 45-38 against Western Michigan. John Alan Richter threw for 429 yards in the first of those and 391 in the second, and he has 20 touchdowns against 3 interceptions this year. Adjatay Dabbs has 8 receiving touchdowns and CJ Miller has run for 862 yards.\n\nOhio's last two games produced 51 and 63 points. The Bobcats scored 35 on Ball State and allow 23.4 a game. Nick Poulos has been the main quarterback since October with 9 touchdowns and 2 interceptions, and Riley Neer has 717 receiving yards, but last week Poulos threw only 13 times. Ohio's offense runs through Duncan Brune, and it scored 17 at Miami earlier this month.\n\nThe side comes down to Toledo's front. Andrew Zock has 12.5 sacks and Julian Fox has 89 tackles, and the Rockets allow 20.0 a game. Ohio has Michael Molnar, who leads the team in tackles and sacks, but Toledo's two losses came at Michigan State and against Buffalo, and nothing on Ohio's schedule looks like that kind of trouble for Richter.\n\nThe price is friendlier than it was. DraftKings opened Toledo −4.5 and 48.5, per ESPN. As of Monday morning it's Toledo Rockets −3 and 49.5. Toledo Rockets 28, Ohio Bobcats 23 is a five-point win, two clear of the number.\n\nThe room is lined up on this one. The Formula has 28-24 with Toledo Rockets −3 and likes the Over 49.5. Next Man Up has 29-25 and likes the Over too. Letdown Watch sees 28-22, likes the Rockets and goes Over. In The Trenches has no score this week, calls the fronts even and takes neither side nor total. Follow The Money's side and total are both pending.\n\nLetdown Watch: \"Ohio's home finale, Fan Appreciation, everybody in green. That's exactly the setting where a road team gets punched in the mouth. I still have Toledo by six.\"\n\nNext Man Up: \"Richter with 3 interceptions all year. I'll take the quarterback who doesn't hand the ball away.\"\n\nMy final is Toledo by five with 51 points, a point and a half over. Peden goes green, the scoreboard stays busy, and the Rockets head north with the win.\n\nToledo Rockets 28, Ohio Bobcats 23. Toledo Rockets cover the 3. Over 49.5.",
+    "story_text": "Ohio wants Peden Stadium green from one end zone to the other for Friday's Fan Appreciation game, the Bobcats' last home date of the year, and Toledo shows up with back-to-back shutouts and the same 6-1 MAC mark as the home team. My Toledo vs Ohio prediction lays the short spread with Toledo Rockets −3 and takes the Over 44.5 on the over/under.\n\nPenny Trautman has a green flannel picked out. \"Green socks too, Rocco. I'm going to be the first car into the lot.\"\n\nRocco Szczepanski shrugs. \"Wear the whole rainbow, Penny. My defense hasn't given up a point in two games.\"\n\nTrue, and also the least useful number in this matchup. Toledo shut out Massachusetts 24-0 and Bowling Green 19-0. When the Rockets have played teams that can score, the games have gone up and down: 49-48 in overtime against Temple, 45-38 against Western Michigan. John Alan Richter threw for 429 yards in the first of those and 391 in the second, and he has 20 touchdowns against 3 interceptions this year. Adjatay Dabbs has 8 receiving touchdowns and CJ Miller has run for 862 yards.\n\nOhio's last two games produced 51 and 63 points. The Bobcats scored 35 on Ball State and allow 23.4 a game. Nick Poulos has been the main quarterback since October with 9 touchdowns and 2 interceptions, and Riley Neer has 717 receiving yards, but last week Poulos threw only 13 times. Ohio's offense runs through Duncan Brune, and it scored 17 at Miami earlier this month.\n\nThe side comes down to Toledo's front. Andrew Zock has 12.5 sacks and Julian Fox has 89 tackles, and the Rockets allow 20.0 a game. Ohio has Michael Molnar, who leads the team in tackles and sacks, but Toledo's two losses came at Michigan State and against Buffalo, and nothing on Ohio's schedule looks like that kind of trouble for Richter.\n\nThe price is friendlier than it was. DraftKings opened Toledo −4.5 and 48.5, per ESPN. As of 6:11 AM ET Friday it's Toledo Rockets −3 and 44.5, with the total down five points and rain in the Athens forecast. Toledo Rockets 28, Ohio Bobcats 23 is a five-point win, two clear of the number.\n\nThe cards with a score are lined up on this one. The Formula has 28-24 with Toledo Rockets −3 and likes the Over 44.5. Next Man Up has 29-25 and likes the Over too. Letdown Watch sees 28-22, likes the Rockets and goes Over. In The Trenches has no score this week, calls the fronts even and takes neither side nor total. Follow The Money has no side pick and takes the Under 44.5.\n\nLetdown Watch: \"Ohio's home finale, Fan Appreciation, everybody in green. That's exactly the setting where a road team gets punched in the mouth. I still have Toledo by six.\"\n\nNext Man Up: \"Richter with 3 interceptions all year. I'll take the quarterback who doesn't hand the ball away.\"\n\nMy final is Toledo by five with 51 points, six and a half over even after the drop. Peden goes green, the scoreboard stays busy, and the Rockets head north with the win.\n\nToledo Rockets 28, Ohio Bobcats 23. Toledo Rockets cover the 3. Over 44.5.",
     "fanatic_score_line": "Projected: Toledo Rockets 28, Ohio Bobcats 23",
     "line_used": {
      "home_line": "Ohio Bobcats +3",
-     "total": "49.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "total": "44.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:11 AM ET",
+     "fetched_at_utc": "2026-11-27T11:11Z"
     },
     "injuries": {
      "away": [],
      "home": [],
-     "source": "Not posted yet: the official conference availability report for this game",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "source": "Not posted yet: the official MAC availability report for this game (expected Fri Nov 27, 8:00 AM PT / 11:00 AM ET), checked via kickoffstatus.com Nov 27, 2026, 6:20 AM ET",
+     "fetched_at_utc": "2026-11-27T11:20Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -1964,14 +2136,14 @@
     "market": {
      "score_line": "",
      "spread": "Toledo Rockets −3",
-     "total": "49.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "total": "44.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:11 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "Toledo Rockets vs Ohio Bobcats: Peden Goes Green on Black Friday",
-    "gambler_headline": "Toledo vs Ohio Pick: Rockets −3 and the Over 49.5"
+    "gambler_headline": "Toledo vs Ohio Pick: Rockets −3 and the Over 44.5"
    },
-   "gambler_story": "Ohio wants Peden Stadium green from one end zone to the other for Friday's Fan Appreciation game, the Bobcats' last home date of the year, and Toledo shows up with back-to-back shutouts and the same 6-1 MAC mark as the home team. My Toledo vs Ohio prediction lays the short spread with Toledo Rockets −3 and takes the Over 49.5 on the over/under.\n\nPenny Trautman has a green flannel picked out. \"Green socks too, Rocco. I'm going to be the first car into the lot.\"\n\nRocco Szczepanski shrugs. \"Wear the whole rainbow, Penny. My defense hasn't given up a point in two games.\"\n\nTrue, and also the least useful number in this matchup. Toledo shut out Massachusetts 24-0 and Bowling Green 19-0. When the Rockets have played teams that can score, the games have gone up and down: 49-48 in overtime against Temple, 45-38 against Western Michigan. John Alan Richter threw for 429 yards in the first of those and 391 in the second, and he has 20 touchdowns against 3 interceptions this year. Adjatay Dabbs has 8 receiving touchdowns and CJ Miller has run for 862 yards.\n\nOhio's last two games produced 51 and 63 points. The Bobcats scored 35 on Ball State and allow 23.4 a game. Nick Poulos has been the main quarterback since October with 9 touchdowns and 2 interceptions, and Riley Neer has 717 receiving yards, but last week Poulos threw only 13 times. Ohio's offense runs through Duncan Brune, and it scored 17 at Miami earlier this month.\n\nThe side comes down to Toledo's front. Andrew Zock has 12.5 sacks and Julian Fox has 89 tackles, and the Rockets allow 20.0 a game. Ohio has Michael Molnar, who leads the team in tackles and sacks, but Toledo's two losses came at Michigan State and against Buffalo, and nothing on Ohio's schedule looks like that kind of trouble for Richter.\n\nThe price is friendlier than it was. DraftKings opened Toledo −4.5 and 48.5, per ESPN. As of Monday morning it's Toledo Rockets −3 and 49.5. Toledo Rockets 28, Ohio Bobcats 23 is a five-point win, two clear of the number.\n\nThe room is lined up on this one. The Formula has 28-24 with Toledo Rockets −3 and likes the Over 49.5. Next Man Up has 29-25 and likes the Over too. Letdown Watch sees 28-22, likes the Rockets and goes Over. In The Trenches has no score this week, calls the fronts even and takes neither side nor total. Follow The Money's side and total are both pending.\n\nLetdown Watch: \"Ohio's home finale, Fan Appreciation, everybody in green. That's exactly the setting where a road team gets punched in the mouth. I still have Toledo by six.\"\n\nNext Man Up: \"Richter with 3 interceptions all year. I'll take the quarterback who doesn't hand the ball away.\"\n\nMy final is Toledo by five with 51 points, a point and a half over. Peden goes green, the scoreboard stays busy, and the Rockets head north with the win.\n\nToledo Rockets 28, Ohio Bobcats 23. Toledo Rockets cover the 3. Over 49.5."
+   "gambler_story": "Ohio wants Peden Stadium green from one end zone to the other for Friday's Fan Appreciation game, the Bobcats' last home date of the year, and Toledo shows up with back-to-back shutouts and the same 6-1 MAC mark as the home team. My Toledo vs Ohio prediction lays the short spread with Toledo Rockets −3 and takes the Over 44.5 on the over/under.\n\nPenny Trautman has a green flannel picked out. \"Green socks too, Rocco. I'm going to be the first car into the lot.\"\n\nRocco Szczepanski shrugs. \"Wear the whole rainbow, Penny. My defense hasn't given up a point in two games.\"\n\nTrue, and also the least useful number in this matchup. Toledo shut out Massachusetts 24-0 and Bowling Green 19-0. When the Rockets have played teams that can score, the games have gone up and down: 49-48 in overtime against Temple, 45-38 against Western Michigan. John Alan Richter threw for 429 yards in the first of those and 391 in the second, and he has 20 touchdowns against 3 interceptions this year. Adjatay Dabbs has 8 receiving touchdowns and CJ Miller has run for 862 yards.\n\nOhio's last two games produced 51 and 63 points. The Bobcats scored 35 on Ball State and allow 23.4 a game. Nick Poulos has been the main quarterback since October with 9 touchdowns and 2 interceptions, and Riley Neer has 717 receiving yards, but last week Poulos threw only 13 times. Ohio's offense runs through Duncan Brune, and it scored 17 at Miami earlier this month.\n\nThe side comes down to Toledo's front. Andrew Zock has 12.5 sacks and Julian Fox has 89 tackles, and the Rockets allow 20.0 a game. Ohio has Michael Molnar, who leads the team in tackles and sacks, but Toledo's two losses came at Michigan State and against Buffalo, and nothing on Ohio's schedule looks like that kind of trouble for Richter.\n\nThe price is friendlier than it was. DraftKings opened Toledo −4.5 and 48.5, per ESPN. As of 6:11 AM ET Friday it's Toledo Rockets −3 and 44.5, with the total down five points and rain in the Athens forecast. Toledo Rockets 28, Ohio Bobcats 23 is a five-point win, two clear of the number.\n\nThe cards with a score are lined up on this one. The Formula has 28-24 with Toledo Rockets −3 and likes the Over 44.5. Next Man Up has 29-25 and likes the Over too. Letdown Watch sees 28-22, likes the Rockets and goes Over. In The Trenches has no score this week, calls the fronts even and takes neither side nor total. Follow The Money has no side pick and takes the Under 44.5.\n\nLetdown Watch: \"Ohio's home finale, Fan Appreciation, everybody in green. That's exactly the setting where a road team gets punched in the mouth. I still have Toledo by six.\"\n\nNext Man Up: \"Richter with 3 interceptions all year. I'll take the quarterback who doesn't hand the ball away.\"\n\nMy final is Toledo by five with 51 points, six and a half over even after the drop. Peden goes green, the scoreboard stays busy, and the Rockets head north with the win.\n\nToledo Rockets 28, Ohio Bobcats 23. Toledo Rockets cover the 3. Over 44.5."
   },
   {
    "game_id": "401869930",
