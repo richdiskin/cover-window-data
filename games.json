@@ -3552,13 +3552,13 @@
     "west-virginia",
     "utah"
    ],
-   "spread": "Utah Utes −22.5",
-   "total_line": 68.5,
+   "spread": "Utah Utes −25.5",
+   "total_line": 66.5,
    "prediction": {
-    "away_score": 20,
-    "home_score": 44,
+    "away_score": 17,
+    "home_score": 45,
     "winner": "Utah Utes",
-    "covers": "Utah Utes −22.5"
+    "covers": "Utah Utes −25.5"
    },
    "total_pick": "Under",
    "status_at_build": {
@@ -3566,51 +3566,51 @@
    },
    "display": {
     "writer": {
-     "score_line": "Projected: Utah Utes 44, West Virginia Mountaineers 20 (Total 64)",
-     "side": "Utah Utes −22.5",
-     "ou": "Under 68.5",
+     "score_line": "Projected: Utah Utes 45, West Virginia Mountaineers 17 (Total 62)",
+     "side": "Utah Utes −25.5",
+     "ou": "Under 66.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: West Virginia Mountaineers +22.5 · Likes this side",
-      "ou_line": "O/U: Under 68.5 · Likes this total",
+      "side_line": "Side: West Virginia Mountaineers +25.5 · Likes this side",
+      "ou_line": "O/U: Under 66.5 · Likes this total",
       "score_line": "Projected: Utah Utes 38, West Virginia Mountaineers 21 (Total 59)",
       "basis_line": "Net ratings West Virginia Mountaineers 1.2, Utah Utes 19.4 (ESPN Football Power Index, Nov 23, 2026)",
       "independent": true,
-      "distance_from_spread": 5.5,
-      "distance_from_total": 9.5,
-      "landed_on_number": []
-     },
-     {
-      "name": "Next Man Up",
-      "side_line": "Side: Utah Utes −22.5 · Likes this side",
-      "ou_line": "O/U: Over 68.5 · Likes this total",
-      "score_line": "Projected: Utah Utes 49, West Virginia Mountaineers 24 (Total 73)",
-      "basis_line": "With the players available: projected points West Virginia Mountaineers 23.9, Utah Utes 48.8.",
-      "independent": true,
-      "distance_from_spread": 2.5,
-      "distance_from_total": 4.5,
-      "landed_on_number": []
-     },
-     {
-      "name": "Letdown Watch",
-      "side_line": "Side: Utah Utes −22.5 · Likes this side",
-      "ou_line": "O/U: Under 68.5 · Likes this total",
-      "score_line": "Projected: Utah Utes 45, West Virginia Mountaineers 16 (Total 61)",
-      "basis_line": "Rest and travel read: projected points West Virginia Mountaineers 15.7, Utah Utes 44.6.",
-      "independent": true,
-      "distance_from_spread": 6.5,
+      "distance_from_spread": 8.5,
       "distance_from_total": 7.5,
       "landed_on_number": []
      },
      {
+      "name": "Next Man Up",
+      "side_line": "Side: West Virginia Mountaineers +25.5",
+      "ou_line": "O/U: Over 66.5 · Likes this total",
+      "score_line": "Projected: Utah Utes 49, West Virginia Mountaineers 24 (Total 73)",
+      "basis_line": "With the players available: projected points West Virginia Mountaineers 23.9, Utah Utes 48.8.",
+      "independent": true,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 6.5,
+      "landed_on_number": []
+     },
+     {
+      "name": "Letdown Watch",
+      "side_line": "Side: Utah Utes −25.5 · Likes this side",
+      "ou_line": "O/U: Under 66.5 · Likes this total",
+      "score_line": "Projected: Utah Utes 45, West Virginia Mountaineers 16 (Total 61)",
+      "basis_line": "Rest and travel read: projected points West Virginia Mountaineers 15.7, Utah Utes 44.6.",
+      "independent": true,
+      "distance_from_spread": 3.5,
+      "distance_from_total": 5.5,
+      "landed_on_number": []
+     },
+     {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: Utah Utes −25.5 · Likes this side",
+      "ou_line": "O/U: Under 66.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 23, 10:35 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Utah Utes −22.5 (Nov 23, 11:49 PM ET) and is −25.5 now, a 3-point move. The side pick quotes the consensus spread now (Utah Utes −25.5). Consensus total opened 68.5 (Nov 24, 5:06 AM ET) and is 66.5 now, a 2-point move: Under. The total pick quotes the consensus total now (66.5). Lines are the Action Network consensus as of Nov 27, 6:12 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -3626,19 +3626,70 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "After back-to-back years spent on the road the day after Thanksgiving, Utah finally gets a Black Friday game at Rice-Eccles Stadium, and it's Senior Night for an 11-0 team ranked No. 2. My West Virginia vs Utah prediction lays the big spread with Utah Utes −22.5 and takes the Under 68.5 on the over/under.\n\nAspen Mortensen has been waiting for this. \"Home on Black Friday, unbeaten, seniors on the field. Two Thanksgivings I spent watching this game from somebody else's stadium.\"\n\nJolene Buckhannon hums a few notes of Country Roads. \"Enjoy the ceremony, Aspen. We've got a few folks who'd like to ruin it.\"\n\nThey'll need more than a few. West Virginia allows 34.7 points a game and has given up 37 or more six times: 41 to Oklahoma State, 45 at Iowa State, 52 to Arizona, 42 to Cincinnati, 53 at Texas Tech and 37 to Kansas. Utah scored 48 on this defense last September. The best comparison is Kansas: the Utes beat the Jayhawks 41-24 in this building, and the Jayhawks went to Morgantown and won 37-14.\n\nDevon Dampier runs the Utah offense with 24 touchdown throws against 8 interceptions, and he threw for 278 yards and ran for two scores at TCU last week. Wayshawn Parker and Braden Pegan each have 9 touchdowns. The Utes score 37.9 a game. West Virginia has dropped three in a row, 48-53, 14-37 and 31-34, and needs a sixth win to save its season.\n\nThe market has climbed toward the Utes. DraftKings opened Utah −20.5, per ESPN. It now reads Utah Utes −22.5. Utah Utes 44, West Virginia Mountaineers 20 is a 24-point win, a point and a half past it.\n\nThe Under rests on Utah's defense at home. The Utes allow 18.5 a game, and four of six visitors to Rice-Eccles scored 14 or fewer. Only the 66-14 opener against Idaho topped this total. West Virginia runs through Cam Cook, who has 243 carries for 1,215 yards, and a ground game keeps the clock moving.\n\nThis room is all over the place. Letdown Watch is closest to me at 45-16, with Utah Utes −22.5 and the Under 68.5. Next Man Up also takes Utah, at 49-24, but likes the Over. The Formula goes the other way on the side, 38-21 with West Virginia Mountaineers +22.5, and joins me on the Under. In The Trenches calls the fronts split, has no score this week, and takes no side or total. Follow The Money's side and total are both pending.\n\nThe Formula: \"Utah beat Houston by eight and BYU by eight in this stadium. Twenty-three is a lot of points to give.\"\n\nLetdown Watch: \"West Virginia lost by 23 at home to Kansas. A Senior Night crowd and a team that's dropped three straight. That isn't a trap. That's a send-off.\"\n\nMy number is Utah by 24 with 64 points, four and a half under. The seniors get their night, and the Mountaineers get a quiet flight east.\n\nUtah Utes 44, West Virginia Mountaineers 20. Utah Utes cover the 22.5. Under 68.5.",
-    "fanatic_score_line": "Projected: Utah Utes 44, West Virginia Mountaineers 20",
+    "story_text": "After back-to-back years spent on the road the day after Thanksgiving, Utah finally gets a Black Friday game at Rice-Eccles Stadium, and it's Senior Night for an 11-0 team ranked No. 2. My West Virginia vs Utah prediction lays the big spread with Utah Utes −25.5 and takes the Under 66.5 on the over/under.\n\nAspen Mortensen has been waiting for this. \"Home on Black Friday, unbeaten, seniors on the field. Two Thanksgivings I spent watching this game from somebody else's stadium.\"\n\nJolene Buckhannon hums a few notes of Country Roads. \"Enjoy the ceremony, Aspen. We've got a few folks who'd like to ruin it.\"\n\nThey'll need more than a few. West Virginia allows 34.7 points a game and has given up 37 or more six times: 41 to Oklahoma State, 45 at Iowa State, 52 to Arizona, 42 to Cincinnati, 53 at Texas Tech and 37 to Kansas. Utah scored 48 on this defense last September. The best comparison is Kansas: the Utes beat the Jayhawks 41-24 in this building, and the Jayhawks went to Morgantown and won 37-14.\n\nDevon Dampier runs the Utah offense with 24 touchdown throws against 8 interceptions, and he threw for 278 yards and ran for two scores at TCU last week. Wayshawn Parker and Braden Pegan each have 9 touchdowns. The Utes score 37.9 a game. West Virginia has dropped three in a row, 48-53, 14-37 and 31-34, and needs a sixth win to save its season. The Big 12 availability report lists its quarterback, Michael Hawkins Jr., as doubtful.\n\nThe market has climbed toward the Utes. DraftKings opened Utah −20.5, per ESPN. As of 6:12 AM ET Friday it reads Utah Utes −25.5 and 66.5. With Hawkins doubtful, my number is Utah Utes 45, West Virginia Mountaineers 17, a 28-point win, two and a half past it.\n\nThe Under rests on Utah's defense at home. The Utes allow 18.5 a game, and four of six visitors to Rice-Eccles scored 14 or fewer. Only the 66-14 opener against Idaho topped this total. West Virginia runs through Cam Cook, who has 243 carries for 1,215 yards, and a ground game keeps the clock moving.\n\nThis room is all over the place. Letdown Watch is closest to me at 45-16, with Utah Utes −25.5 and the Under 66.5. Next Man Up has Utah 49-24, which no longer clears the 25.5, so it moves to West Virginia Mountaineers +25.5 and likes the Over. The Formula is on that side too, 38-21 with West Virginia Mountaineers +25.5, and joins me on the Under. In The Trenches calls the fronts split, has no score this week, and takes no side or total. Follow The Money takes Utah Utes −25.5 and the Under 66.5.\n\nThe Formula: \"Utah beat Houston by eight and BYU by eight in this stadium. Twenty-six is a lot of points to give.\"\n\nLetdown Watch: \"West Virginia lost by 23 at home to Kansas. A Senior Night crowd and a team that's dropped three straight. That isn't a trap. That's a send-off.\"\n\nMy number is Utah by 28 with 62 points, four and a half under. The seniors get their night, and the Mountaineers get a quiet flight east.\n\nUtah Utes 45, West Virginia Mountaineers 17. Utah Utes cover the 25.5. Under 66.5.",
+    "fanatic_score_line": "Projected: Utah Utes 45, West Virginia Mountaineers 17",
     "line_used": {
-     "home_line": "Utah Utes −22.5",
-     "total": "68.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "home_line": "Utah Utes −25.5",
+     "total": "66.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:12 AM ET",
+     "fetched_at_utc": "2026-11-27T11:12Z"
     },
     "injuries": {
-     "away": [],
-     "home": [],
-     "source": "Not posted yet: the official conference availability report for this game",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "away": [
+      {
+       "player": "Michael Hawkins Jr.",
+       "position": "QB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Doubtful"
+      },
+      {
+       "player": "Jaden Bray",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Cam Ball",
+       "position": "TE",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Darius Wiley",
+       "position": "DL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Emory Snyder",
+       "position": "",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      }
+     ],
+     "home": [
+      {
+       "player": "Logan Castor",
+       "position": "LS",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Questionable"
+      },
+      {
+       "player": "Wayshawn Parker",
+       "position": "RB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Probable"
+      }
+     ],
+     "source": "Big 12 availability report (latest posted; kickoffstatus last updated Nov 27, 1:41 AM PT), via kickoffstatus.com (https://kickoffstatus.com/teams/west-virginia/ and /teams/utah/), checked Nov 27, 6:2x AM ET. Key players only.",
+     "fetched_at_utc": "2026-11-27T11:25Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -3649,18 +3700,18 @@
      "Trench stats: ESPN team stats for Utah (espn.com)",
      "Schedule history: collegefootballdata.com 2018–2025"
     ],
-    "fanatic_story": "For two straight years Utah spent the day after Thanksgiving in somebody else's stadium, and this Black Friday the Utes finally stay home. West Virginia Mountaineers vs Utah Utes is Senior Night at Rice-Eccles Stadium with an 11-0 team ranked No. 2 in the country, a 7 p.m. kickoff in Salt Lake City, and Aspen Mortensen in her seat early enough to cheer every senior by number while Jolene Buckhannon, two time zones from home, hums Country Roads under her breath like a dare.\n\n\"Two years,\" Aspen says. \"Two Black Fridays I watched this team play somewhere else. Tonight they're ours. Tonight it's Senior Night. Tonight the whole state gets to say thank you.\"\n\n\"Thank them all you want,\" Jolene says. \"Just leave room at the end for one more song.\"\n\n\"You're not singing Country Roads in my stadium.\"\n\n\"I sing it everywhere, Aspen. I sang it in the shower in the hotel this morning. The fella next door joined in on the chorus.\"\n\nThere's not much Jolene can say about the season Aspen is having. Utah has won all eleven, scoring 37.9 points a game and giving up 18.5. Devon Dampier has thrown for 2,535 yards and 24 touchdowns, and last week at TCU he threw for 278 and ran for two more in a 38-17 win. Wayshawn Parker has 765 rushing yards and nine scores. Braden Pegan has 718 receiving yards and nine scores of his own. On defense, Elijah Elliss has 5.5 sacks and Trey Reynolds has 63 tackles.\n\n\"Eleven and oh,\" Aspen says, slowly, the way you'd read a grandchild's report card out loud at the dinner table. \"Do you want me to say it again?\"\n\n\"I want you to say forty to thirty-nine,\" Jolene says. \"That's what you beat Arizona by. And twenty-seven to twenty-four at Colorado. Your perfect season has a couple of fingernail marks on it.\"\n\nAspen allows that. The Utes have survived some close nights, and Houston and BYU both came into this building and stayed within eight. But the last time these two met, last September, Utah won 48-14, and the time before that, a bowl game in December of 2017, it was 30-14.\n\n\"We have history,\" Aspen says.\n\n\"You have two games. We have mountains older than your stadium.\"\n\n\"We have mountains too, Jolene. Look up.\"\n\nWest Virginia limps in at 5-6 after three straight losses, every one of them painful. The Mountaineers lost 53-48 at Texas Tech, got beat by Kansas at home, and dropped a 34-31 heartbreaker to Houston on Senior Day last week. They need one more win to get to six, and they're carrying it on Cam Cook's back. Cook has run 243 times for 1,215 yards and nine touchdowns, and he went for 131 against Houston. Michael Hawkins Jr. has thrown 14 touchdowns against just three interceptions, and he once threw for 464 yards in a shootout win over Cincinnati. DJ Epps has 648 receiving yards and Isaiah Patterson leads the defense with 74 tackles.\n\n\"Cam Cook is a mountain,\" Jolene says. \"You don't tackle a mountain. You go around it, and that takes all day.\"\n\n\"We have all night,\" Aspen says. \"Kickoff's at seven.\"\n\nWest Virginia also went into Fort Worth and won 24-20 in October, a month before Utah did its own damage there, and Jolene brings that up twice before the national anthem.\n\nHere's the night. The seniors walk out to a roar that Jolene can feel in her shoes, and Utah plays like it wants to send them off in style. Dampier finds Pegan early, Parker breaks one up the middle, and the Utes are up three scores before the Mountaineers get settled. Cook keeps West Virginia in it for a while, grinding out first downs and a touchdown before halftime, and Hawkins hits Epps for another in the third quarter that gets the small gold-and-blue section on its feet. But Elliss and the Utah front clamp down, the Utes keep stacking points, and the fourth quarter belongs to the seniors.\n\nJolene will sing the first verse of Country Roads in the parking lot anyway, and Aspen, against every instinct she has, will know the words.\n\nMy call: Utah Utes 44, West Virginia Mountaineers 20.",
+    "fanatic_story": "For two straight years Utah spent the day after Thanksgiving in somebody else's stadium, and this Black Friday the Utes finally stay home. West Virginia Mountaineers vs Utah Utes is Senior Night at Rice-Eccles Stadium with an 11-0 team ranked No. 2 in the country, a 7 p.m. kickoff in Salt Lake City, and Aspen Mortensen in her seat early enough to cheer every senior by number while Jolene Buckhannon, two time zones from home, hums Country Roads under her breath like a dare.\n\n\"Two years,\" Aspen says. \"Two Black Fridays I watched this team play somewhere else. Tonight they're ours. Tonight it's Senior Night. Tonight the whole state gets to say thank you.\"\n\n\"Thank them all you want,\" Jolene says. \"Just leave room at the end for one more song.\"\n\n\"You're not singing Country Roads in my stadium.\"\n\n\"I sing it everywhere, Aspen. I sang it in the shower in the hotel this morning. The fella next door joined in on the chorus.\"\n\nThere's not much Jolene can say about the season Aspen is having. Utah has won all eleven, scoring 37.9 points a game and giving up 18.5. Devon Dampier has thrown for 2,535 yards and 24 touchdowns, and last week at TCU he threw for 278 and ran for two more in a 38-17 win. Wayshawn Parker has 765 rushing yards and nine scores. Braden Pegan has 718 receiving yards and nine scores of his own. On defense, Elijah Elliss has 5.5 sacks and Trey Reynolds has 63 tackles.\n\n\"Eleven and oh,\" Aspen says, slowly, the way you'd read a grandchild's report card out loud at the dinner table. \"Do you want me to say it again?\"\n\n\"I want you to say forty to thirty-nine,\" Jolene says. \"That's what you beat Arizona by. And twenty-seven to twenty-four at Colorado. Your perfect season has a couple of fingernail marks on it.\"\n\nAspen allows that. The Utes have survived some close nights, and Houston and BYU both came into this building and stayed within eight. But the last time these two met, last September, Utah won 48-14, and the time before that, a bowl game in December of 2017, it was 30-14.\n\n\"We have history,\" Aspen says.\n\n\"You have two games. We have mountains older than your stadium.\"\n\n\"We have mountains too, Jolene. Look up.\"\n\nWest Virginia limps in at 5-6 after three straight losses, every one of them painful. The Mountaineers lost 53-48 at Texas Tech, got beat by Kansas at home, and dropped a 34-31 heartbreaker to Houston on Senior Day last week. They need one more win to get to six, and they're carrying it on Cam Cook's back. Cook has run 243 times for 1,215 yards and nine touchdowns, and he went for 131 against Houston. Michael Hawkins Jr. has thrown 14 touchdowns against just three interceptions, and he once threw for 464 yards in a shootout win over Cincinnati. He's listed doubtful for Friday, which puts even more of this on Cook. DJ Epps has 648 receiving yards and Isaiah Patterson leads the defense with 74 tackles.\n\n\"Cam Cook is a mountain,\" Jolene says. \"You don't tackle a mountain. You go around it, and that takes all day.\"\n\n\"We have all night,\" Aspen says. \"Kickoff's at seven.\"\n\nWest Virginia also went into Fort Worth and won 24-20 in October, a month before Utah did its own damage there, and Jolene brings that up twice before the national anthem.\n\nHere's the night. The seniors walk out to a roar that Jolene can feel in her shoes, and Utah plays like it wants to send them off in style. Dampier finds Pegan early, Parker breaks one up the middle, and the Utes are up three scores before the Mountaineers get settled. Cook keeps West Virginia in it for a while, grinding out first downs and a touchdown before halftime, and West Virginia's quarterback hits Epps for another in the third quarter that gets the small gold-and-blue section on its feet. But Elliss and the Utah front clamp down, the Utes keep stacking points, and the fourth quarter belongs to the seniors.\n\nJolene will sing the first verse of Country Roads in the parking lot anyway, and Aspen, against every instinct she has, will know the words.\n\nMy call: Utah Utes 45, West Virginia Mountaineers 17.",
     "market": {
      "score_line": "",
-     "spread": "Utah Utes −22.5",
-     "total": "68.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "spread": "Utah Utes −25.5",
+     "total": "66.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:12 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "West Virginia Mountaineers vs Utah Utes: Senior Night, Finally Home",
-    "gambler_headline": "West Virginia vs Utah Pick: Utes −22.5 and the Under 68.5"
+    "gambler_headline": "West Virginia vs Utah Pick: Utes −25.5 and the Under 66.5"
    },
-   "gambler_story": "After back-to-back years spent on the road the day after Thanksgiving, Utah finally gets a Black Friday game at Rice-Eccles Stadium, and it's Senior Night for an 11-0 team ranked No. 2. My West Virginia vs Utah prediction lays the big spread with Utah Utes −22.5 and takes the Under 68.5 on the over/under.\n\nAspen Mortensen has been waiting for this. \"Home on Black Friday, unbeaten, seniors on the field. Two Thanksgivings I spent watching this game from somebody else's stadium.\"\n\nJolene Buckhannon hums a few notes of Country Roads. \"Enjoy the ceremony, Aspen. We've got a few folks who'd like to ruin it.\"\n\nThey'll need more than a few. West Virginia allows 34.7 points a game and has given up 37 or more six times: 41 to Oklahoma State, 45 at Iowa State, 52 to Arizona, 42 to Cincinnati, 53 at Texas Tech and 37 to Kansas. Utah scored 48 on this defense last September. The best comparison is Kansas: the Utes beat the Jayhawks 41-24 in this building, and the Jayhawks went to Morgantown and won 37-14.\n\nDevon Dampier runs the Utah offense with 24 touchdown throws against 8 interceptions, and he threw for 278 yards and ran for two scores at TCU last week. Wayshawn Parker and Braden Pegan each have 9 touchdowns. The Utes score 37.9 a game. West Virginia has dropped three in a row, 48-53, 14-37 and 31-34, and needs a sixth win to save its season.\n\nThe market has climbed toward the Utes. DraftKings opened Utah −20.5, per ESPN. It now reads Utah Utes −22.5. Utah Utes 44, West Virginia Mountaineers 20 is a 24-point win, a point and a half past it.\n\nThe Under rests on Utah's defense at home. The Utes allow 18.5 a game, and four of six visitors to Rice-Eccles scored 14 or fewer. Only the 66-14 opener against Idaho topped this total. West Virginia runs through Cam Cook, who has 243 carries for 1,215 yards, and a ground game keeps the clock moving.\n\nThis room is all over the place. Letdown Watch is closest to me at 45-16, with Utah Utes −22.5 and the Under 68.5. Next Man Up also takes Utah, at 49-24, but likes the Over. The Formula goes the other way on the side, 38-21 with West Virginia Mountaineers +22.5, and joins me on the Under. In The Trenches calls the fronts split, has no score this week, and takes no side or total. Follow The Money's side and total are both pending.\n\nThe Formula: \"Utah beat Houston by eight and BYU by eight in this stadium. Twenty-three is a lot of points to give.\"\n\nLetdown Watch: \"West Virginia lost by 23 at home to Kansas. A Senior Night crowd and a team that's dropped three straight. That isn't a trap. That's a send-off.\"\n\nMy number is Utah by 24 with 64 points, four and a half under. The seniors get their night, and the Mountaineers get a quiet flight east.\n\nUtah Utes 44, West Virginia Mountaineers 20. Utah Utes cover the 22.5. Under 68.5."
+   "gambler_story": "After back-to-back years spent on the road the day after Thanksgiving, Utah finally gets a Black Friday game at Rice-Eccles Stadium, and it's Senior Night for an 11-0 team ranked No. 2. My West Virginia vs Utah prediction lays the big spread with Utah Utes −25.5 and takes the Under 66.5 on the over/under.\n\nAspen Mortensen has been waiting for this. \"Home on Black Friday, unbeaten, seniors on the field. Two Thanksgivings I spent watching this game from somebody else's stadium.\"\n\nJolene Buckhannon hums a few notes of Country Roads. \"Enjoy the ceremony, Aspen. We've got a few folks who'd like to ruin it.\"\n\nThey'll need more than a few. West Virginia allows 34.7 points a game and has given up 37 or more six times: 41 to Oklahoma State, 45 at Iowa State, 52 to Arizona, 42 to Cincinnati, 53 at Texas Tech and 37 to Kansas. Utah scored 48 on this defense last September. The best comparison is Kansas: the Utes beat the Jayhawks 41-24 in this building, and the Jayhawks went to Morgantown and won 37-14.\n\nDevon Dampier runs the Utah offense with 24 touchdown throws against 8 interceptions, and he threw for 278 yards and ran for two scores at TCU last week. Wayshawn Parker and Braden Pegan each have 9 touchdowns. The Utes score 37.9 a game. West Virginia has dropped three in a row, 48-53, 14-37 and 31-34, and needs a sixth win to save its season. The Big 12 availability report lists its quarterback, Michael Hawkins Jr., as doubtful.\n\nThe market has climbed toward the Utes. DraftKings opened Utah −20.5, per ESPN. As of 6:12 AM ET Friday it reads Utah Utes −25.5 and 66.5. With Hawkins doubtful, my number is Utah Utes 45, West Virginia Mountaineers 17, a 28-point win, two and a half past it.\n\nThe Under rests on Utah's defense at home. The Utes allow 18.5 a game, and four of six visitors to Rice-Eccles scored 14 or fewer. Only the 66-14 opener against Idaho topped this total. West Virginia runs through Cam Cook, who has 243 carries for 1,215 yards, and a ground game keeps the clock moving.\n\nThis room is all over the place. Letdown Watch is closest to me at 45-16, with Utah Utes −25.5 and the Under 66.5. Next Man Up has Utah 49-24, which no longer clears the 25.5, so it moves to West Virginia Mountaineers +25.5 and likes the Over. The Formula is on that side too, 38-21 with West Virginia Mountaineers +25.5, and joins me on the Under. In The Trenches calls the fronts split, has no score this week, and takes no side or total. Follow The Money takes Utah Utes −25.5 and the Under 66.5.\n\nThe Formula: \"Utah beat Houston by eight and BYU by eight in this stadium. Twenty-six is a lot of points to give.\"\n\nLetdown Watch: \"West Virginia lost by 23 at home to Kansas. A Senior Night crowd and a team that's dropped three straight. That isn't a trap. That's a send-off.\"\n\nMy number is Utah by 28 with 62 points, four and a half under. The seniors get their night, and the Mountaineers get a quiet flight east.\n\nUtah Utes 45, West Virginia Mountaineers 17. Utah Utes cover the 25.5. Under 66.5."
   },
   {
    "game_id": "401856761",
