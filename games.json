@@ -2228,17 +2228,17 @@
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: pending (no consensus spread posted since Monday night yet)",
-      "ou_line": "O/U: pending (no consensus total posted since Monday night yet)",
+      "side_line": "Side: no pick",
+      "ou_line": "O/U: no pick",
       "score_line": "No score of its own.",
-      "basis_line": "The Monday night game has not ended yet, so no consensus spread has been posted since and the side is pending. The Monday night game has not ended yet, so no consensus total has been posted since and the total is pending. Lines are the Action Network consensus as of Nov 23, 10:35 AM ET; the open is the first consensus line posted after the Monday night game ends. The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened South Alabama Jaguars −3.5 (Nov 24, 12:07 AM ET) and is −3.5 now. Follow The Money has no side pick. Consensus total opened 56.5 (Nov 24, 3:01 PM ET) and is 56.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 27, 6:12 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: App State Mountaineers +3.5 · Likes this side",
+      "side_line": "Side: App State Mountaineers +3.5",
       "ou_line": "O/U: this card reads sides only",
       "score_line": "Projected: South Alabama Jaguars 28, App State Mountaineers 25 (Total 53)",
       "basis_line": "This read points to a side only. App State Mountaineers 3.8 ypc vs South Alabama Jaguars allowing 5.2; South Alabama Jaguars 4.8 ypc vs App State Mountaineers allowing 3.8 (2026 season). App State Mountaineers run game 1.4 ypc below what the opponent allows; South Alabama Jaguars run game 1.0 ypc above what the opponent allows. The projected score is South Alabama Jaguars 28, App State Mountaineers 25, which does not cover South Alabama Jaguars −3.5. Side: App State Mountaineers +3.5.",
@@ -2248,19 +2248,126 @@
       "landed_on_number": []
      }
     ],
-    "story_text": "App State vs South Alabama got moved off its Saturday and onto Black Friday, so Hancock Whitney Stadium holds its Senior Day the day after Thanksgiving, with the city buses parked for the holiday and everybody in Mobile driving themselves to the game. My App State vs South Alabama pick is South Alabama Jaguars −3.5 with the Under 56.5, and the two halves of that ticket come from different teams.\n\nAzalea Fairhope-Grice wants to talk about the seniors. \"These boys won two straight to get us to six wins. They get to walk out on their own field on a holiday. I'll be crying before the coin toss.\"\n\nZeb Coldiron wants to talk about the last two weeks in Boone, slowly. \"We won at Marshall 20-16. We beat Monroe 17-16 in overtime. We don't win pretty. We just keep doing it.\"\n\nThat's the Under in two sentences. App State's last two games combined for 36 and 33 points, and six of its eleven finished below 56.5. The Mountaineers allow 22.9 a game, Caleb Sandstrom has 7 sacks and Colton Phares has 90 tackles. Malachi Singleton has 13 touchdown throws against 7 interceptions and doesn't take many wild shots. Its games have a way of turning into long, slow afternoons.\n\nSouth Alabama is the reason the total sits this high. The Jaguars score 32.6 a game and allow 30.8, and they've played in shootouts all year: 56-49 at Arkansas State, 52-35 over UL Monroe, 40-35 at Southern Miss last week. App State's defense is a different animal, and it gives up 3.8 yards a carry.\n\nThe side goes to the home team because of the backfield. PJ Martin has 767 yards and 9 touchdowns, and he ran for 128 and two scores at Southern Miss. South Alabama runs for 4.8 a carry. Bishop Davenport threw for 267 yards in that win with no interceptions, and Brendan Jenkins has 607 receiving yards. App State's own run game manages 3.8 a carry against a Jaguars defense that allows 5.2, and that gap is exactly why the room isn't unanimous. The last meeting, in 2024, went to South Alabama 48-14.\n\nDraftKings opened South Alabama Jaguars −2.5 with a 55.5 total. The side has moved a point toward the Jaguars since.\n\nThe Formula has 29-25 with South Alabama Jaguars −3.5 and the Under 56.5. Next Man Up has 33-27 with the Jaguars and the Over. Letdown Watch has 31-24 with the Jaguars and the Under. In The Trenches has 28-25 and takes App State Mountaineers +3.5, with no over/under call. Follow The Money's side and total are both pending.\n\nIn The Trenches: \"A three-point game, and Next Man Up wants sixty points. App State's last two games didn't reach forty combined.\"\n\nNext Man Up: \"And you've got South Alabama winning by three, Trenches. Write a check for half a point and see how far it gets you.\"\n\nMy final is South Alabama Jaguars 30, App State Mountaineers 25. Five points clears the 3.5, and 55 combined stays a point and a half under. Martin gets his carries, the Jaguars get a seventh win, and Zeb gets a long holiday drive back to Boone.\n\nSouth Alabama Jaguars 30, App State Mountaineers 25. South Alabama Jaguars cover the 3.5. Under 56.5.",
+    "story_text": "App State vs South Alabama got moved off its Saturday and onto Black Friday, so Hancock Whitney Stadium holds its Senior Day the day after Thanksgiving, with the city buses parked for the holiday and everybody in Mobile driving themselves to the game. My App State vs South Alabama pick is South Alabama Jaguars −3.5 with the Under 56.5, and the two halves of that ticket come from different teams.\n\nAzalea Fairhope-Grice wants to talk about the seniors. \"These boys won two straight to get us to six wins. They get to walk out on their own field on a holiday. I'll be crying before the coin toss.\"\n\nZeb Coldiron wants to talk about the last two weeks in Boone, slowly. \"We won at Marshall 20-16. We beat Monroe 17-16 in overtime. We don't win pretty. We just keep doing it.\"\n\nThat's the Under in two sentences. App State's last two games combined for 36 and 33 points, and six of its eleven finished below 56.5. The Mountaineers allow 22.9 a game, Caleb Sandstrom has 7 sacks and Colton Phares has 90 tackles. Malachi Singleton has 13 touchdown throws against 7 interceptions and doesn't take many wild shots. Its games have a way of turning into long, slow afternoons.\n\nSouth Alabama is the reason the total sits this high. The Jaguars score 32.6 a game and allow 30.8, and they've played in shootouts all year: 56-49 at Arkansas State, 52-35 over UL Monroe, 40-35 at Southern Miss last week. App State's defense is a different animal, and it gives up 3.8 yards a carry.\n\nThe side goes to the home team because of the backfield. PJ Martin has 767 yards and 9 touchdowns, and he ran for 128 and two scores at Southern Miss. South Alabama runs for 4.8 a carry. Bishop Davenport threw for 267 yards in that win with no interceptions, and Brendan Jenkins has 607 receiving yards. App State's own run game manages 3.8 a carry against a Jaguars defense that allows 5.2, and that gap is exactly why the room isn't unanimous. The last meeting, in 2024, went to South Alabama 48-14.\n\nDraftKings opened South Alabama Jaguars −2.5 with a 55.5 total. As of 6:12 AM ET Friday it's South Alabama Jaguars −3.5 and 56.5, a point toward the Jaguars on the side.\n\nThe Formula has 29-25 with South Alabama Jaguars −3.5 and the Under 56.5. Next Man Up has 33-27 with the Jaguars and the Over. Letdown Watch has 31-24 with the Jaguars and the Under. In The Trenches has 28-25 and takes App State Mountaineers +3.5, with no over/under call. Follow The Money has no pick in this game.\n\nIn The Trenches: \"A three-point game, and Next Man Up wants sixty points. App State's last two games didn't reach forty combined.\"\n\nNext Man Up: \"And you've got South Alabama winning by three, Trenches. Write a check for half a point and see how far it gets you.\"\n\nMy final is South Alabama Jaguars 30, App State Mountaineers 25. Five points clears the 3.5, and 55 combined stays a point and a half under. Martin gets his carries, the Jaguars get a seventh win, and Zeb gets a long holiday drive back to Boone.\n\nSouth Alabama Jaguars 30, App State Mountaineers 25. South Alabama Jaguars cover the 3.5. Under 56.5.",
     "fanatic_score_line": "Projected: South Alabama Jaguars 30, App State Mountaineers 25",
     "line_used": {
      "home_line": "South Alabama Jaguars −3.5",
      "total": "56.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:12 AM ET",
+     "fetched_at_utc": "2026-11-27T11:12Z"
     },
     "injuries": {
-     "away": [],
-     "home": [],
-     "source": "Not posted yet: the official conference availability report for this game",
-     "fetched_at_utc": "2026-11-23T15:35Z"
+     "away": [
+      {
+       "player": "Alex Mitchell",
+       "position": "ILB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Cary Grant",
+       "position": "DB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Jordan Harris",
+       "position": "DL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Devon Manuel",
+       "position": "OL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Brooks Yurachek",
+       "position": "ILB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Doubtful"
+      },
+      {
+       "player": "Jamel Howse",
+       "position": "TE",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Doubtful"
+      },
+      {
+       "player": "Jaquari Lewis",
+       "position": "RB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Questionable"
+      },
+      {
+       "player": "Chris Lofton",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Questionable"
+      }
+     ],
+     "home": [
+      {
+       "player": "Donovan Crow",
+       "position": "RB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Caleb Dozier",
+       "position": "ILB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Brian Barnes",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Khatori Marion",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Micah Woods",
+       "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Jamal Siler",
+       "position": "OL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Julius Kidd",
+       "position": "OL",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      }
+     ],
+     "source": "Sun Belt availability report (latest posted; kickoffstatus last updated Nov 27, 1:41 AM PT), via kickoffstatus.com (https://kickoffstatus.com/teams/app-state/ and /teams/south-alabama/), checked Nov 27, 6:2x AM ET. Key players only.",
+     "fetched_at_utc": "2026-11-27T11:25Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -2276,13 +2383,13 @@
      "score_line": "",
      "spread": "South Alabama Jaguars −3.5",
      "total": "56.5",
-     "source": "ESPN scoreboard odds (DraftKings)",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 27, 2026, 6:12 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "App State vs South Alabama: Senior Day on Black Friday",
     "gambler_headline": "App State vs South Alabama Pick: Jaguars −3.5, Under 56.5"
    },
-   "gambler_story": "App State vs South Alabama got moved off its Saturday and onto Black Friday, so Hancock Whitney Stadium holds its Senior Day the day after Thanksgiving, with the city buses parked for the holiday and everybody in Mobile driving themselves to the game. My App State vs South Alabama pick is South Alabama Jaguars −3.5 with the Under 56.5, and the two halves of that ticket come from different teams.\n\nAzalea Fairhope-Grice wants to talk about the seniors. \"These boys won two straight to get us to six wins. They get to walk out on their own field on a holiday. I'll be crying before the coin toss.\"\n\nZeb Coldiron wants to talk about the last two weeks in Boone, slowly. \"We won at Marshall 20-16. We beat Monroe 17-16 in overtime. We don't win pretty. We just keep doing it.\"\n\nThat's the Under in two sentences. App State's last two games combined for 36 and 33 points, and six of its eleven finished below 56.5. The Mountaineers allow 22.9 a game, Caleb Sandstrom has 7 sacks and Colton Phares has 90 tackles. Malachi Singleton has 13 touchdown throws against 7 interceptions and doesn't take many wild shots. Its games have a way of turning into long, slow afternoons.\n\nSouth Alabama is the reason the total sits this high. The Jaguars score 32.6 a game and allow 30.8, and they've played in shootouts all year: 56-49 at Arkansas State, 52-35 over UL Monroe, 40-35 at Southern Miss last week. App State's defense is a different animal, and it gives up 3.8 yards a carry.\n\nThe side goes to the home team because of the backfield. PJ Martin has 767 yards and 9 touchdowns, and he ran for 128 and two scores at Southern Miss. South Alabama runs for 4.8 a carry. Bishop Davenport threw for 267 yards in that win with no interceptions, and Brendan Jenkins has 607 receiving yards. App State's own run game manages 3.8 a carry against a Jaguars defense that allows 5.2, and that gap is exactly why the room isn't unanimous. The last meeting, in 2024, went to South Alabama 48-14.\n\nDraftKings opened South Alabama Jaguars −2.5 with a 55.5 total. The side has moved a point toward the Jaguars since.\n\nThe Formula has 29-25 with South Alabama Jaguars −3.5 and the Under 56.5. Next Man Up has 33-27 with the Jaguars and the Over. Letdown Watch has 31-24 with the Jaguars and the Under. In The Trenches has 28-25 and takes App State Mountaineers +3.5, with no over/under call. Follow The Money's side and total are both pending.\n\nIn The Trenches: \"A three-point game, and Next Man Up wants sixty points. App State's last two games didn't reach forty combined.\"\n\nNext Man Up: \"And you've got South Alabama winning by three, Trenches. Write a check for half a point and see how far it gets you.\"\n\nMy final is South Alabama Jaguars 30, App State Mountaineers 25. Five points clears the 3.5, and 55 combined stays a point and a half under. Martin gets his carries, the Jaguars get a seventh win, and Zeb gets a long holiday drive back to Boone.\n\nSouth Alabama Jaguars 30, App State Mountaineers 25. South Alabama Jaguars cover the 3.5. Under 56.5."
+   "gambler_story": "App State vs South Alabama got moved off its Saturday and onto Black Friday, so Hancock Whitney Stadium holds its Senior Day the day after Thanksgiving, with the city buses parked for the holiday and everybody in Mobile driving themselves to the game. My App State vs South Alabama pick is South Alabama Jaguars −3.5 with the Under 56.5, and the two halves of that ticket come from different teams.\n\nAzalea Fairhope-Grice wants to talk about the seniors. \"These boys won two straight to get us to six wins. They get to walk out on their own field on a holiday. I'll be crying before the coin toss.\"\n\nZeb Coldiron wants to talk about the last two weeks in Boone, slowly. \"We won at Marshall 20-16. We beat Monroe 17-16 in overtime. We don't win pretty. We just keep doing it.\"\n\nThat's the Under in two sentences. App State's last two games combined for 36 and 33 points, and six of its eleven finished below 56.5. The Mountaineers allow 22.9 a game, Caleb Sandstrom has 7 sacks and Colton Phares has 90 tackles. Malachi Singleton has 13 touchdown throws against 7 interceptions and doesn't take many wild shots. Its games have a way of turning into long, slow afternoons.\n\nSouth Alabama is the reason the total sits this high. The Jaguars score 32.6 a game and allow 30.8, and they've played in shootouts all year: 56-49 at Arkansas State, 52-35 over UL Monroe, 40-35 at Southern Miss last week. App State's defense is a different animal, and it gives up 3.8 yards a carry.\n\nThe side goes to the home team because of the backfield. PJ Martin has 767 yards and 9 touchdowns, and he ran for 128 and two scores at Southern Miss. South Alabama runs for 4.8 a carry. Bishop Davenport threw for 267 yards in that win with no interceptions, and Brendan Jenkins has 607 receiving yards. App State's own run game manages 3.8 a carry against a Jaguars defense that allows 5.2, and that gap is exactly why the room isn't unanimous. The last meeting, in 2024, went to South Alabama 48-14.\n\nDraftKings opened South Alabama Jaguars −2.5 with a 55.5 total. As of 6:12 AM ET Friday it's South Alabama Jaguars −3.5 and 56.5, a point toward the Jaguars on the side.\n\nThe Formula has 29-25 with South Alabama Jaguars −3.5 and the Under 56.5. Next Man Up has 33-27 with the Jaguars and the Over. Letdown Watch has 31-24 with the Jaguars and the Under. In The Trenches has 28-25 and takes App State Mountaineers +3.5, with no over/under call. Follow The Money has no pick in this game.\n\nIn The Trenches: \"A three-point game, and Next Man Up wants sixty points. App State's last two games didn't reach forty combined.\"\n\nNext Man Up: \"And you've got South Alabama winning by three, Trenches. Write a check for half a point and see how far it gets you.\"\n\nMy final is South Alabama Jaguars 30, App State Mountaineers 25. Five points clears the 3.5, and 55 combined stays a point and a half under. Martin gets his carries, the Jaguars get a seventh win, and Zeb gets a long holiday drive back to Boone.\n\nSouth Alabama Jaguars 30, App State Mountaineers 25. South Alabama Jaguars cover the 3.5. Under 56.5."
   },
   {
    "game_id": "401856759",
