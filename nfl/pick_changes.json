@@ -24,5 +24,57 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401873083",
+  "league": "nfl",
+  "handicapper": "The Formula",
+  "market": "side",
+  "original": {
+   "pick": "Denver Broncos −3",
+   "line": -3,
+   "made_at": "2026-11-24T14:56:03Z"
+  },
+  "final": {
+   "pick": "Pittsburgh Steelers +4.5",
+   "line": 4.5
+  },
+  "changed_at": "2026-11-27T11:15:00Z",
+  "kickoff": "2026-11-27T20:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings line for Denver Broncos at Pittsburgh Steelers moved from Denver Broncos −3 to −4.5 by the 6:15 AM ET check Friday Nov 27; The Formula's unchanged projection of Broncos 24, Steelers 20 (Denver by 4) no longer covers −4.5, so the game-day rerun turns the card from Denver Broncos −3 into Pittsburgh Steelers +4.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), Denver Broncos at Pittsburgh Steelers: https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873083 (checked Nov 27, 2026, 6:15 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event=401873083",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401873083",
+  "league": "nfl",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": 3,
+   "made_at": "2026-11-24T14:56:03Z"
+  },
+  "final": {
+   "pick": "Denver Broncos −4.5",
+   "line": -4.5
+  },
+  "changed_at": "2026-11-27T11:15:00Z",
+  "kickoff": "2026-11-27T20:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for Denver Broncos at Pittsburgh Steelers opened Denver Broncos −2.5 at 3:10 AM ET Tuesday Nov 24 and has been −4.5 since Thursday morning (first −4.5 at 6:18 AM ET Nov 26; −4.5 at the 6:15 AM ET check on Friday Nov 27), a 2-point move toward Denver, so Follow The Money turns the card from no pick into Denver Broncos −4.5. The consensus total went from 37.5 to 37, a half point, so there is no total pick.",
+   "source": "Action Network consensus line history, Denver Broncos at Pittsburgh Steelers (book 15): https://api.actionnetwork.com/web/v2/markets/event/290996/history?bookIds=15 (checked Nov 27, 2026, 6:15 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290996/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]

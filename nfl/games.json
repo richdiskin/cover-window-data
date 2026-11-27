@@ -1362,40 +1362,122 @@
         "source": "Action Network consensus (book_id 15 \"Consensus\"; open = book_id 30 \"Open\")",
         "source_url": "https://www.actionnetwork.com/nfl/odds",
         "api": "https://api.actionnetwork.com/web/v2/scoreboard/nfl?bookIds=15,30",
-        "fetched_at_utc": "2026-11-24T14:56:03Z",
+        "fetched_at_utc": "2026-11-27T11:15:27Z",
         "action_network_game_id": 290996,
-        "home_line": 3,
-        "total": 37.5,
+        "home_line": 4.5,
+        "total": 37,
         "open_home_line": 1.5,
         "open_total": 39.5,
-        "spread_display": "Pittsburgh Steelers +3",
+        "spread_display": "Pittsburgh Steelers +4.5",
         "open_timestamp": ""
       },
       "injuries": {
-        "source": "NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg12 (not out yet; checked Nov 24, 9:56 AM ET)",
-        "fetched_at_utc": "2026-11-24T14:56:17Z",
-        "away": null,
-        "home": null
+        "source": "NFL.com official injury report, https://www.nfl.com/injuries/league/2026/reg12, and ESPN game summary injuries, event 401873083 (checked Nov 27, 6:15 AM ET). Key players only. Out statuses follow NFL.com (ESPN lists Sai'vion Jones, Caleb Lohner, Gennings Dunker and Ben Skowronek as injured reserve). J.K. Dobbins's suspension is from ESPN; NFL.com lists him as not practicing with no game status. Aaron Rodgers: Did Not Participate, no injury listed, no game status (NFL.com).",
+        "fetched_at_utc": "2026-11-27T11:15:00Z",
+        "away": [
+          {
+            "team": "DEN",
+            "player": "Taylor Rapp",
+            "position": "S",
+            "injury": "Quadriceps",
+            "practice_status": "Did Not Participate In Practice",
+            "game_status": "Out"
+          },
+          {
+            "team": "DEN",
+            "player": "Sai'vion Jones",
+            "position": "DE",
+            "injury": "Hamstring",
+            "practice_status": "Did Not Participate In Practice",
+            "game_status": "Out"
+          },
+          {
+            "team": "DEN",
+            "player": "Caleb Lohner",
+            "position": "TE",
+            "injury": "Foot",
+            "practice_status": "Full Participation in Practice",
+            "game_status": "Out"
+          },
+          {
+            "team": "DEN",
+            "player": "J.K. Dobbins",
+            "position": "RB",
+            "injury": "Suspension",
+            "practice_status": "Did Not Participate In Practice",
+            "game_status": "Suspended"
+          },
+          {
+            "team": "DEN",
+            "player": "Tyler Badie",
+            "position": "RB",
+            "injury": "Thumb",
+            "practice_status": "Full Participation in Practice",
+            "game_status": "Questionable"
+          }
+        ],
+        "home": [
+          {
+            "team": "PIT",
+            "player": "Alex Highsmith",
+            "position": "LB",
+            "injury": "Ankle",
+            "practice_status": "Did Not Participate In Practice",
+            "game_status": "Out"
+          },
+          {
+            "team": "PIT",
+            "player": "Gennings Dunker",
+            "position": "G",
+            "injury": "Knee",
+            "practice_status": "Full Participation in Practice",
+            "game_status": "Out"
+          },
+          {
+            "team": "PIT",
+            "player": "Ben Skowronek",
+            "position": "WR",
+            "injury": "Calf",
+            "practice_status": "Did Not Participate In Practice",
+            "game_status": "Out"
+          },
+          {
+            "team": "PIT",
+            "player": "Cole Holcomb",
+            "position": "LB",
+            "injury": "Heel",
+            "practice_status": "Limited Participation in Practice",
+            "game_status": "Questionable"
+          },
+          {
+            "team": "PIT",
+            "player": "Aaron Rodgers",
+            "position": "QB",
+            "injury": "",
+            "practice_status": "Did Not Participate In Practice",
+            "game_status": ""
+          }
+        ]
       },
       "schedule_source": "ESPN public scoreboard https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261127",
-      "spread": "Pittsburgh Steelers +3",
-      "story_text": "Broncos 23, Steelers 21. Steelers cover the 3. Over 37.5. The four-card average lands on the Steelers +3.",
+      "spread": "Pittsburgh Steelers +4.5",
+      "story_text": "Broncos 23, Steelers 21. Steelers cover the 4.5. Over 37.5. All four cards with a score take the Steelers +4.5.",
       "why_this_score": "",
       "betting_text": "",
       "total_pick": "Over",
       "total_reason_public": "",
       "line_used": {
-        "home_line": 3,
+        "home_line": 4.5,
         "total": 37.5,
-        "source": "Consensus line as of Nov 24, 9:56 AM ET",
-        "as_of_utc": "2026-11-24T14:56:03Z"
+        "source": "ESPN game summary pickcenter (DraftKings), as of Nov 27, 6:15 AM ET",
+        "as_of_utc": "2026-11-27T11:15:27Z"
       },
       "total_line": 37.5,
       "prediction": {
         "away_score": 23,
         "home_score": 21,
         "winner": "Denver Broncos",
-        "covers": "Pittsburgh Steelers +3"
+        "covers": "Pittsburgh Steelers +4.5"
       },
       "handicappers": [
         {
@@ -1406,7 +1488,7 @@
         },
         {
           "id": "H2",
-          "public_case": "Projected points: Pittsburgh Steelers 21, Denver Broncos 22.2. Availability: expected starting quarterbacks Aaron Rodgers (PIT) and Bo Nix (DEN). NFL.com official Week 12 injury report (checked Nov 24, 9:56 AM ET): not out yet, so no quarterback is ruled out.",
+          "public_case": "Projected points: Pittsburgh Steelers 21, Denver Broncos 22.2. Availability: expected starting quarterbacks Aaron Rodgers (PIT) and Bo Nix (DEN). NFL.com official Week 12 injury report (checked Nov 27, 6:15 AM ET): neither starting quarterback has a game status.",
           "market": "spread",
           "best_bet": false
         },
@@ -1418,7 +1500,7 @@
         },
         {
           "id": "H4",
-          "public_case": "Spread opened Denver Broncos −2.5 (Nov 24, 3:10 AM ET) and is Denver Broncos −3 now (Nov 24, 9:56 AM ET), a 0.5-point move. Total opened 37.5 (Nov 24, 3:27 AM ET) and is 37.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+          "public_case": "Consensus spread opened Denver Broncos −2.5 (Nov 24, 3:10 AM ET) and is −4.5 now, a 2-point move. The side pick quotes the consensus spread now (Denver Broncos −4.5). Consensus total opened 37.5 (Nov 24, 3:27 AM ET) and is 37 now, a 0.5-point move. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 27, 6:15 AM ET; the open is the first consensus line posted at or after Nov 24, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
           "market": "spread",
           "best_bet": false
         },
@@ -1435,10 +1517,10 @@
       },
       "sourced_reasons": [
         "Schedule, venue, TV: ESPN scoreboard, as of Nov 24, 9:56 AM ET; kickoff also matches Action Network's listed start time.",
-        "Lines: Action Network consensus line as of Nov 24, 9:56 AM ET.",
+        "Lines: ESPN game summary pickcenter (DraftKings) as of Nov 27, 6:15 AM ET; Follow The Money uses the Action Network consensus line history.",
         "The Formula ratings: nflverse play-by-play as of Nov 24, 9:56 AM ET, Weeks 1–11 finals.",
         "The Formula total: nflverse game results, 2026 Weeks 1–11 finals.",
-        "Injuries: NFL.com official Week 12 injury report not out yet (checked Nov 24, 9:56 AM ET); Next Man Up uses each team’s last starter.",
+        "Injuries: NFL.com official Week 12 injury report (https://www.nfl.com/injuries/league/2026/reg12) and ESPN team injury updates, checked Nov 27, 6:15 AM ET; key players are noted in the Friday morning update.",
         "Follow The Money: move from the first consensus line at or after Nov 24, 12:15 AM ET (Action Network line history).",
         "Records and points: ESPN team pages, as of Nov 24, 9:56 AM ET.",
         "Next Man Up: 2026 game scores (nflverse game results); expected starting quarterbacks from nflverse play-by-play, the NFL.com Week 12 injury report and team announcements.",
@@ -1458,75 +1540,75 @@
       "display": {
         "writer": {
           "score_line": "Projected: Pittsburgh Steelers 21, Denver Broncos 23 (Total 44)",
-          "side": "Pittsburgh Steelers +3",
+          "side": "Pittsburgh Steelers +4.5",
           "ou": "Over 37.5",
           "label": ""
         },
         "handicappers": [
           {
             "name": "The Formula",
-            "side_line": "Side: Denver Broncos −3",
+            "side_line": "Side: Pittsburgh Steelers +4.5",
             "ou_line": "O/U: Over 37.5 · Likes this total",
             "score_line": "Projected: Pittsburgh Steelers 20, Denver Broncos 24 (Total 44)",
             "basis_line": "Net ratings Pittsburgh Steelers −8.3, Denver Broncos −2.9 (nflverse play-by-play, Nov 24, 2026)",
             "independent": true,
-            "distance_from_spread": 1.0,
+            "distance_from_spread": 0.5,
             "distance_from_total": 6.5
           },
           {
             "name": "Next Man Up",
-            "side_line": "Side: Pittsburgh Steelers +3",
+            "side_line": "Side: Pittsburgh Steelers +4.5 · Likes this side",
             "ou_line": "O/U: Over 37.5 · Likes this total",
             "score_line": "Projected: Pittsburgh Steelers 21, Denver Broncos 22 (Total 43)",
-            "basis_line": "Projected points: Pittsburgh Steelers 21, Denver Broncos 22.2. Availability: expected starting quarterbacks Aaron Rodgers (PIT) and Bo Nix (DEN). NFL.com official Week 12 injury report (checked Nov 24, 9:56 AM ET): not out yet, so no quarterback is ruled out.",
+            "basis_line": "Projected points: Pittsburgh Steelers 21, Denver Broncos 22.2. Availability: expected starting quarterbacks Aaron Rodgers (PIT) and Bo Nix (DEN). NFL.com official Week 12 injury report (checked Nov 27, 6:15 AM ET): neither starting quarterback has a game status.",
             "independent": true,
-            "distance_from_spread": 2.0,
+            "distance_from_spread": 3.5,
             "distance_from_total": 5.5
           },
           {
             "name": "Letdown Watch",
-            "side_line": "Side: Pittsburgh Steelers +3",
+            "side_line": "Side: Pittsburgh Steelers +4.5",
             "ou_line": "O/U: Over 37.5 · Likes this total",
             "score_line": "Projected: Pittsburgh Steelers 21, Denver Broncos 23 (Total 44)",
             "basis_line": "Rest and travel: Denver Broncos: 5 days since its last game, travels 1318 miles; Pittsburgh Steelers: 5 days since its last game, plays at home. Projected: Broncos by 2.7, total 43.8.",
             "independent": true,
-            "distance_from_spread": 1.0,
+            "distance_from_spread": 2.5,
             "distance_from_total": 6.5
           },
           {
             "name": "Follow The Money",
-            "side_line": "Side: no pick (not enough line movement)",
+            "side_line": "Side: Denver Broncos −4.5 · Likes this side",
             "ou_line": "O/U: no pick (not enough total movement)",
             "score_line": "No score of its own — reads the market (see the market line).",
-            "basis_line": "Spread opened Denver Broncos −2.5 (Nov 24, 3:10 AM ET) and is Denver Broncos −3 now (Nov 24, 9:56 AM ET), a 0.5-point move. Total opened 37.5 (Nov 24, 3:27 AM ET) and is 37.5 now, a 0-point move. The bets-versus-money split is not published free, so it is not included.",
+            "basis_line": "Consensus spread opened Denver Broncos −2.5 (Nov 24, 3:10 AM ET) and is −4.5 now, a 2-point move. The side pick quotes the consensus spread now (Denver Broncos −4.5). Consensus total opened 37.5 (Nov 24, 3:27 AM ET) and is 37 now, a 0.5-point move. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 27, 6:15 AM ET; the open is the first consensus line posted at or after Nov 24, 12:15 AM ET. The bets-versus-money split is not published free, so it is not included.",
             "independent": false,
-            "distance_from_spread": 0.0,
+            "distance_from_spread": 2.0,
             "distance_from_total": 0.5
           },
           {
             "name": "In The Trenches",
-            "side_line": "Side: Pittsburgh Steelers +3",
+            "side_line": "Side: Pittsburgh Steelers +4.5",
             "ou_line": "O/U: Over 37.5 · Likes this total",
             "score_line": "Projected: Pittsburgh Steelers 20, Denver Broncos 22 (Total 42)",
             "basis_line": "Line-of-scrimmage matchup (nflverse play-by-play through Week 11). Projected points: Pittsburgh Steelers 20.4, Denver Broncos 22.6.",
             "independent": true,
-            "distance_from_spread": 1.0,
+            "distance_from_spread": 2.5,
             "distance_from_total": 4.5
           }
         ],
         "best_bets": [],
-        "story_text": "The Broncos vs Steelers prediction for Black Friday comes down to a road team on a six-game winning streak against a home team that hasn't lost at Acrisure Stadium. Steelers +3 gets my spread pick, Over 37.5 gets the over/under nod, and the final reads Broncos 23, Steelers 21.\n\nPittsburgh lit its 113th city Christmas tree on Light Up Night last Saturday, the event's 65th year, and Dom Petrakis wants one more reason to celebrate before the decorations come down. His Steelers are 4-0 at home and 6-4 overall.\n\nThe Formula: Net ratings Pittsburgh Steelers −8.3, Denver Broncos −2.9 (nflverse play-by-play, Nov 24, 2026).\n\nDenver is the better team, and it's playing like it. The Broncos are 8-2 and have won six straight, including 38-24 over Las Vegas on Sunday. Bo Nix has 12 touchdown throws against five interceptions, and Alex Singleton has 118 tackles behind a defense that has allowed 210 points.\n\nBut the Steelers haven't lost at home, and a three-point spread against an unbeaten home team is too much. Pittsburgh's two straight losses came on the road, 38-18 at Cincinnati and 19-16 at Philadelphia. At Acrisure, T.J. Watt has a crowd behind him and 7.5 sacks to his name, Jaylen Warren has 747 rushing yards, and Aaron Rodgers has 16 touchdown throws. Lorna Haskell will tell you Denver doesn't care where the game is played. The road record is 3-2, so the building matters a little.\n\nBoth teams have five days of rest, and Denver crosses half the country to get there.\n\nThe room tilts to Pittsburgh on the side and goes all the way to the Over. The Formula has Steelers 20, Broncos 24, and lays the 3 with Denver. Next Man Up has Steelers 21, Broncos 22. Letdown Watch has Steelers 21, Broncos 23. In The Trenches has Steelers 20, Broncos 22. Those three take Pittsburgh +3. All four card scores are on Over 37.5. Follow The Money has no pick on either.\n\nThe Over is about how low the number sits. The forecast is low 40s with gusts in the 20s, and that's already baked into 37.5. Pittsburgh has scored 214 and allowed 201, and Denver has scored 236 and allowed 210, so both teams' games have run well past 38 points this year. Broncos 23, Steelers 21 adds up to 44, six and a half points clear of 37.5, and a two-point Denver win keeps Pittsburgh inside the 3.\n\nDom gets a close game and a reason to walk back downtown to the tree either way. Lorna gets the win, and she still has to buy the hot chocolate.\n\nBroncos 23, Steelers 21. Steelers cover the 3. Over 37.5.",
+        "story_text": "The Broncos vs Steelers prediction for Black Friday comes down to a road team on a six-game winning streak against a home team that hasn't lost at Acrisure Stadium. Steelers +4.5 gets my spread pick, Over 37.5 gets the over/under nod, and the final reads Broncos 23, Steelers 21.\n\nPittsburgh lit its 113th city Christmas tree on Light Up Night last Saturday, the event's 65th year, and Dom Petrakis wants one more reason to celebrate before the decorations come down. His Steelers are 4-0 at home and 6-4 overall.\n\nThe Formula: Net ratings Pittsburgh Steelers −8.3, Denver Broncos −2.9 (nflverse play-by-play, Nov 24, 2026).\n\nDenver is the better team, and it's playing like it. The Broncos are 8-2 and have won six straight, including 38-24 over Las Vegas on Sunday. Bo Nix has 12 touchdown throws against five interceptions, and Alex Singleton has 118 tackles behind a defense that has allowed 210 points.\n\nBut the Steelers haven't lost at home, and a four-and-a-half-point spread against an unbeaten home team is too much. Pittsburgh's two straight losses came on the road, 38-18 at Cincinnati and 19-16 at Philadelphia. At Acrisure, T.J. Watt has a crowd behind him and 7.5 sacks to his name, Jaylen Warren has 747 rushing yards, and Aaron Rodgers has 16 touchdown throws. Lorna Haskell will tell you Denver doesn't care where the game is played. The road record is 3-2, so the building matters a little.\n\nBoth teams have five days of rest, and Denver crosses half the country to get there.\n\nFriday morning update: as of Nov 27, 6:15 AM ET, DraftKings has Broncos −4.5, total 37.5. This preview was written against Broncos −3, total 37.5, so the spread moved from Broncos −3 to Broncos −4.5 and the total is unchanged. We stay on Steelers +4.5 with Broncos 23, Steelers 21, because Broncos by 2 stays inside the 4.5. The Over holds, now 37.5, with 44 points. Official statuses (NFL.com Week 12 report, ESPN team updates, checked Nov 27, 6:15 AM ET): Broncos safety Taylor Rapp (quadriceps), defensive end Sai'vion Jones (hamstring) and tight end Caleb Lohner (foot) are out, running back J.K. Dobbins is suspended, and running back Tyler Badie (thumb) is questionable. Steelers linebacker Alex Highsmith (ankle), guard Gennings Dunker (knee) and receiver Ben Skowronek (calf) are out, and linebacker Cole Holcomb (heel) is questionable. Aaron Rodgers is listed as not practicing, with no injury and no game status, and Bo Nix carries no injury designation.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Broncos −2.5 and is Broncos −4.5 now, and the consensus total opened 37.5 and is 37 now, so it takes Broncos −4.5 and has no total pick (no move of a full point). The Formula: Broncos 24, Steelers 20 on net ratings. It moves from Broncos −3 to Steelers +4.5 (Broncos by 4 stays inside the 4.5) and stays on the Over, now 37.5 (44 points). Next Man Up: Broncos 22, Steelers 21 on who's playing. It stays on Steelers +4.5 (Broncos by 1 stays inside the 4.5) and stays on the Over, now 37.5 (43 points). Letdown Watch: Broncos 23, Steelers 21 on rest and travel. It stays on Steelers +4.5 (Broncos by 2 stays inside the 4.5) and stays on the Over, now 37.5 (44 points). In The Trenches: Broncos 22, Steelers 20 on the line of scrimmage. It stays on Steelers +4.5 (Broncos by 2 stays inside the 4.5) and stays on the Over, now 37.5 (42 points).\n\nThe Over is about how low the number sits. The forecast is low 40s with gusts in the 20s, and that's already baked into 37.5. Pittsburgh has scored 214 and allowed 201, and Denver has scored 236 and allowed 210, so both teams' games have run well past 38 points this year. Broncos 23, Steelers 21 adds up to 44, six and a half points clear of 37.5, and a two-point Denver win keeps Pittsburgh inside the 4.5.\n\nDom gets a close game and a reason to walk back downtown to the tree either way. Lorna gets the win, and she still has to buy the hot chocolate.\n\nBroncos 23, Steelers 21. Steelers cover the 4.5. Over 37.5.",
         "fanatic_score_line": "Projected: Pittsburgh Steelers 21, Denver Broncos 23",
         "market": {
-          "score_line": "Market: Pittsburgh Steelers 17, Denver Broncos 20 (Total 37)",
-          "spread": "Denver Broncos −3",
+          "score_line": "Market: Pittsburgh Steelers 17, Denver Broncos 21 (Total 38)",
+          "spread": "Denver Broncos −4.5",
           "total": "37.5",
-          "source": "Consensus line as of Nov 24, 9:56 AM ET",
+          "source": "ESPN game summary pickcenter (DraftKings), as of Nov 27, 6:15 AM ET",
           "note": "The market’s own numbers, shown for comparison only."
         }
       },
-      "gambler_story": "The Broncos vs Steelers prediction for Black Friday comes down to a road team on a six-game winning streak against a home team that hasn't lost at Acrisure Stadium. Steelers +3 gets my spread pick, Over 37.5 gets the over/under nod, and the final reads Broncos 23, Steelers 21.\n\nPittsburgh lit its 113th city Christmas tree on Light Up Night last Saturday, the event's 65th year, and Dom Petrakis wants one more reason to celebrate before the decorations come down. His Steelers are 4-0 at home and 6-4 overall.\n\nThe Formula: Net ratings Pittsburgh Steelers −8.3, Denver Broncos −2.9 (nflverse play-by-play, Nov 24, 2026).\n\nDenver is the better team, and it's playing like it. The Broncos are 8-2 and have won six straight, including 38-24 over Las Vegas on Sunday. Bo Nix has 12 touchdown throws against five interceptions, and Alex Singleton has 118 tackles behind a defense that has allowed 210 points.\n\nBut the Steelers haven't lost at home, and a three-point spread against an unbeaten home team is too much. Pittsburgh's two straight losses came on the road, 38-18 at Cincinnati and 19-16 at Philadelphia. At Acrisure, T.J. Watt has a crowd behind him and 7.5 sacks to his name, Jaylen Warren has 747 rushing yards, and Aaron Rodgers has 16 touchdown throws. Lorna Haskell will tell you Denver doesn't care where the game is played. The road record is 3-2, so the building matters a little.\n\nBoth teams have five days of rest, and Denver crosses half the country to get there.\n\nThe room tilts to Pittsburgh on the side and goes all the way to the Over. The Formula has Steelers 20, Broncos 24, and lays the 3 with Denver. Next Man Up has Steelers 21, Broncos 22. Letdown Watch has Steelers 21, Broncos 23. In The Trenches has Steelers 20, Broncos 22. Those three take Pittsburgh +3. All four card scores are on Over 37.5. Follow The Money has no pick on either.\n\nThe Over is about how low the number sits. The forecast is low 40s with gusts in the 20s, and that's already baked into 37.5. Pittsburgh has scored 214 and allowed 201, and Denver has scored 236 and allowed 210, so both teams' games have run well past 38 points this year. Broncos 23, Steelers 21 adds up to 44, six and a half points clear of 37.5, and a two-point Denver win keeps Pittsburgh inside the 3.\n\nDom gets a close game and a reason to walk back downtown to the tree either way. Lorna gets the win, and she still has to buy the hot chocolate.\n\nBroncos 23, Steelers 21. Steelers cover the 3. Over 37.5.",
-      "fanatic_story": "Downtown Pittsburgh is still glowing from last Saturday. Light Up Night turned 65 this year, with Zambelli fireworks above the rivers, bridges lit up and the city's 113th Christmas tree switched on in front of the City-County Building. Dom Petrakis was on Grant Street for all of it, holding his granddaughter on his shoulders and a Terrible Towel in his back pocket, because you never know.\n\nLorna Haskell landed from Denver on Wednesday and wanted to know why everyone in the airport was already talking about Friday.\n\nDom: Because it's Black Friday, it's three o'clock, and it's the Steelers at home. Nobody's shopping. The malls are going to be empty and the stadium is going to be shaking.\n\nLorna: Your team lost its last two.\n\nDom: We don't lose at home. Four games at Acrisure, four wins. Ask Atlanta. Ask Cincinnati. Ask Indianapolis. Ask Cleveland.\n\nThat's the whole Pittsburgh argument, and it's a good one. The Steelers have been a different team in their own building. The trouble is the road. A blowout in Cincinnati and a gut punch in Philadelphia have Dom's neighbors in Carrick calling the radio shows again, and that's never a good sign in this town.\n\nLorna's Broncos come in on a heater. Denver has won six in a row and beat Las Vegas going away last Sunday. The Broncos lost the opener in Kansas City and a game in San Francisco early on, and since then they've been the team nobody wants to see on the schedule.\n\nLorna: Alex Singleton has a hundred and eighteen tackles. A hundred and eighteen. He's in on every play like he's paying rent there.\n\nDom: T.J. Watt doesn't need a hundred tackles. He needs one good one on your quarterback.\n\nWatt has seven and a half sacks, and Dom has a rule: if Watt gets home on the first series, the whole stadium comes alive. Lorna's answer is Bo Nix, who has twelve touchdown throws and only five interceptions and doesn't panic when the pocket caves. Jaylen Waddle gives him somebody fast to look for, and J.K. Dobbins keeps the chains moving when the wind kicks up.\n\nThe wind is going to howl. The forecast for Friday afternoon says low forties with gusts past twenty, and Dom has never been happier about a weather report.\n\nDom: That's Pittsburgh football. Nobody's throwing the ball sixty yards in that. You hand it to Jaylen Warren and you make them tackle him. Seven hundred and forty-seven yards. He runs angry.\n\nLorna: Our defense eats running backs.\n\nDom: Your defense never ate in Pittsburgh in November.\n\nAaron Rodgers is the part that makes this weird for both of them. Dom still can't get used to the old man in black and gold, and every time Rodgers finds DK Metcalf on a back-shoulder throw, Dom yells like he's been a fan for twenty years. Lorna thinks Rodgers has two great quarters left in him per game, tops. Dom thinks that's all he needs.\n\nBoth teams had five days to get ready after their Sunday games, and both coaching staffs will know exactly what's coming. This is the kind of game that turns on one turnover, one long punt, one third down where somebody gets a hand on the ball.\n\nDom has a plan for after the game, win or lose. He's walking his granddaughter back downtown to see the tree again, because a lit tree on a cold night fixes most things. Lorna has decided to come along. She says she wants to see if the city still looks that pretty after a home loss.\n\nDom: You'll find out the other way, kid.\n\nLorna: We'll see who's buying the hot chocolate.\n\nMy call: Broncos 23, Steelers 21.",
+      "gambler_story": "The Broncos vs Steelers prediction for Black Friday comes down to a road team on a six-game winning streak against a home team that hasn't lost at Acrisure Stadium. Steelers +4.5 gets my spread pick, Over 37.5 gets the over/under nod, and the final reads Broncos 23, Steelers 21.\n\nPittsburgh lit its 113th city Christmas tree on Light Up Night last Saturday, the event's 65th year, and Dom Petrakis wants one more reason to celebrate before the decorations come down. His Steelers are 4-0 at home and 6-4 overall.\n\nThe Formula: Net ratings Pittsburgh Steelers −8.3, Denver Broncos −2.9 (nflverse play-by-play, Nov 24, 2026).\n\nDenver is the better team, and it's playing like it. The Broncos are 8-2 and have won six straight, including 38-24 over Las Vegas on Sunday. Bo Nix has 12 touchdown throws against five interceptions, and Alex Singleton has 118 tackles behind a defense that has allowed 210 points.\n\nBut the Steelers haven't lost at home, and a four-and-a-half-point spread against an unbeaten home team is too much. Pittsburgh's two straight losses came on the road, 38-18 at Cincinnati and 19-16 at Philadelphia. At Acrisure, T.J. Watt has a crowd behind him and 7.5 sacks to his name, Jaylen Warren has 747 rushing yards, and Aaron Rodgers has 16 touchdown throws. Lorna Haskell will tell you Denver doesn't care where the game is played. The road record is 3-2, so the building matters a little.\n\nBoth teams have five days of rest, and Denver crosses half the country to get there.\n\nFriday morning update: as of Nov 27, 6:15 AM ET, DraftKings has Broncos −4.5, total 37.5. This preview was written against Broncos −3, total 37.5, so the spread moved from Broncos −3 to Broncos −4.5 and the total is unchanged. We stay on Steelers +4.5 with Broncos 23, Steelers 21, because Broncos by 2 stays inside the 4.5. The Over holds, now 37.5, with 44 points. Official statuses (NFL.com Week 12 report, ESPN team updates, checked Nov 27, 6:15 AM ET): Broncos safety Taylor Rapp (quadriceps), defensive end Sai'vion Jones (hamstring) and tight end Caleb Lohner (foot) are out, running back J.K. Dobbins is suspended, and running back Tyler Badie (thumb) is questionable. Steelers linebacker Alex Highsmith (ankle), guard Gennings Dunker (knee) and receiver Ben Skowronek (calf) are out, and linebacker Cole Holcomb (heel) is questionable. Aaron Rodgers is listed as not practicing, with no injury and no game status, and Bo Nix carries no injury designation.\n\nFollow The Money, which follows the Action Network consensus: the consensus spread opened Broncos −2.5 and is Broncos −4.5 now, and the consensus total opened 37.5 and is 37 now, so it takes Broncos −4.5 and has no total pick (no move of a full point). The Formula: Broncos 24, Steelers 20 on net ratings. It moves from Broncos −3 to Steelers +4.5 (Broncos by 4 stays inside the 4.5) and stays on the Over, now 37.5 (44 points). Next Man Up: Broncos 22, Steelers 21 on who's playing. It stays on Steelers +4.5 (Broncos by 1 stays inside the 4.5) and stays on the Over, now 37.5 (43 points). Letdown Watch: Broncos 23, Steelers 21 on rest and travel. It stays on Steelers +4.5 (Broncos by 2 stays inside the 4.5) and stays on the Over, now 37.5 (44 points). In The Trenches: Broncos 22, Steelers 20 on the line of scrimmage. It stays on Steelers +4.5 (Broncos by 2 stays inside the 4.5) and stays on the Over, now 37.5 (42 points).\n\nThe Over is about how low the number sits. The forecast is low 40s with gusts in the 20s, and that's already baked into 37.5. Pittsburgh has scored 214 and allowed 201, and Denver has scored 236 and allowed 210, so both teams' games have run well past 38 points this year. Broncos 23, Steelers 21 adds up to 44, six and a half points clear of 37.5, and a two-point Denver win keeps Pittsburgh inside the 4.5.\n\nDom gets a close game and a reason to walk back downtown to the tree either way. Lorna gets the win, and she still has to buy the hot chocolate.\n\nBroncos 23, Steelers 21. Steelers cover the 4.5. Over 37.5.",
+      "fanatic_story": "Downtown Pittsburgh is still glowing from last Saturday. Light Up Night turned 65 this year, with Zambelli fireworks above the rivers, bridges lit up and the city's 113th Christmas tree switched on in front of the City-County Building. Dom Petrakis was on Grant Street for all of it, holding his granddaughter on his shoulders and a Terrible Towel in his back pocket, because you never know.\n\nLorna Haskell landed from Denver on Wednesday and wanted to know why everyone in the airport was already talking about Friday.\n\nDom: Because it's Black Friday, it's three o'clock, and it's the Steelers at home. Nobody's shopping. The malls are going to be empty and the stadium is going to be shaking.\n\nLorna: Your team lost its last two.\n\nDom: We don't lose at home. Four games at Acrisure, four wins. Ask Atlanta. Ask Cincinnati. Ask Indianapolis. Ask Cleveland.\n\nThat's the whole Pittsburgh argument, and it's a good one. The Steelers have been a different team in their own building. The trouble is the road. A blowout in Cincinnati and a gut punch in Philadelphia have Dom's neighbors in Carrick calling the radio shows again, and that's never a good sign in this town.\n\nLorna's Broncos come in on a heater. Denver has won six in a row and beat Las Vegas going away last Sunday. The Broncos lost the opener in Kansas City and a game in San Francisco early on, and since then they've been the team nobody wants to see on the schedule.\n\nLorna: Alex Singleton has a hundred and eighteen tackles. A hundred and eighteen. He's in on every play like he's paying rent there.\n\nDom: T.J. Watt doesn't need a hundred tackles. He needs one good one on your quarterback.\n\nWatt has seven and a half sacks, and Dom has a rule: if Watt gets home on the first series, the whole stadium comes alive. Lorna's answer is Bo Nix, who has twelve touchdown throws and only five interceptions and doesn't panic when the pocket caves. Jaylen Waddle gives him somebody fast to look for, and Lorna says Denver will have to run the ball without J.K. Dobbins, who is suspended for this one, when the wind kicks up.\n\nThe wind is going to howl. The forecast for Friday afternoon says low forties with gusts past twenty, and Dom has never been happier about a weather report.\n\nDom: That's Pittsburgh football. Nobody's throwing the ball sixty yards in that. You hand it to Jaylen Warren and you make them tackle him. Seven hundred and forty-seven yards. He runs angry.\n\nLorna: Our defense eats running backs.\n\nDom: Your defense never ate in Pittsburgh in November.\n\nAaron Rodgers is the part that makes this weird for both of them. Dom still can't get used to the old man in black and gold, and every time Rodgers finds DK Metcalf on a back-shoulder throw, Dom yells like he's been a fan for twenty years. Lorna thinks Rodgers has two great quarters left in him per game, tops. Dom thinks that's all he needs.\n\nBoth teams had five days to get ready after their Sunday games, and both coaching staffs will know exactly what's coming. This is the kind of game that turns on one turnover, one long punt, one third down where somebody gets a hand on the ball.\n\nDom has a plan for after the game, win or lose. He's walking his granddaughter back downtown to see the tree again, because a lit tree on a cold night fixes most things. Lorna has decided to come along. She says she wants to see if the city still looks that pretty after a home loss.\n\nDom: You'll find out the other way, kid.\n\nLorna: We'll see who's buying the hot chocolate.\n\nMy call: Broncos 23, Steelers 21.",
       "fanatic_final_sentence": "Broncos 23, Steelers 21.",
       "preview_sources": [],
       "story_sources": [
