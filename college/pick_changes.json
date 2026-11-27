@@ -4938,5 +4938,83 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401856880",
+  "league": "college",
+  "handicapper": "Next Man Up",
+  "market": "side",
+  "original": {
+   "pick": "Utah Utes −22.5",
+   "line": -22.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "West Virginia Mountaineers +25.5",
+   "line": 25.5
+  },
+  "changed_at": "2026-11-27T11:12:00Z",
+  "kickoff": "2026-11-28T02:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings line for West Virginia at Utah moved from Utah Utes −22.5 to Utah Utes −25.5 by the 6:12 AM ET check Friday Nov 27; Next Man Up's unchanged projection of Utah Utes 49, West Virginia Mountaineers 24 no longer covers the side it had, so the game-day rerun turns the card from Utah Utes −22.5 into West Virginia Mountaineers +25.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), West Virginia at Utah: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856880 (checked Nov 27, 2026, 6:12 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856880",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856880",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": -22.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Utah Utes −25.5",
+   "line": -25.5
+  },
+  "changed_at": "2026-11-27T11:12:00Z",
+  "kickoff": "2026-11-28T02:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for West Virginia at Utah opened Utah Utes −22.5 at 11:49 PM ET Monday Nov 23, after the Monday night game ended, and was −25.5 at the 6:12 AM ET check Friday Nov 27, a 3-point move, so Follow The Money turns the card from pending into Utah Utes −25.5.",
+   "source": "Action Network consensus line history, West Virginia at Utah (book 15): https://api.actionnetwork.com/web/v2/markets/event/290209/history?bookIds=15 (checked Nov 27, 2026, 6:12 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290209/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856880",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 68.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Under 66.5",
+   "line": 66.5
+  },
+  "changed_at": "2026-11-27T11:12:00Z",
+  "kickoff": "2026-11-28T02:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for West Virginia at Utah opened 68.5 at 5:06 AM ET Tuesday Nov 24 and was 66.5 at the 6:12 AM ET check Friday Nov 27, a 2-point drop, so Follow The Money turns the card from pending into Under 66.5.",
+   "source": "Action Network consensus line history, West Virginia at Utah (book 15): https://api.actionnetwork.com/web/v2/markets/event/290209/history?bookIds=15 (checked Nov 27, 2026, 6:12 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290209/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
