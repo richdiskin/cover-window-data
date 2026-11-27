@@ -4548,5 +4548,213 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401856762",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": -18.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Mississippi State Bulldogs +17.5",
+   "line": 17.5
+  },
+  "changed_at": "2026-11-27T11:11:00Z",
+  "kickoff": "2026-11-27T17:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for Mississippi State at Ole Miss opened Ole Miss Rebels −19 at 8:41 AM ET Tuesday Nov 24, after the Monday night game ended, and was −17.5 at the 6:11 AM ET check Friday Nov 27, a 1.5-point move, so Follow The Money turns the card from pending into Mississippi State Bulldogs +17.5.",
+   "source": "Action Network consensus line history, Mississippi State at Ole Miss (book 15): https://api.actionnetwork.com/web/v2/markets/event/290205/history?bookIds=15 (checked Nov 27, 2026, 6:11 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290205/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401862840",
+  "league": "college",
+  "handicapper": "The Formula",
+  "market": "side",
+  "original": {
+   "pick": "Tulsa Golden Hurricane +1.5",
+   "line": 1.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "UTSA Roadrunners +1.5",
+   "line": 1.5
+  },
+  "changed_at": "2026-11-27T11:11:00Z",
+  "kickoff": "2026-11-27T17:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings line for Tulsa at UTSA moved from UTSA Roadrunners −1.5 to UTSA Roadrunners +1.5 by the 6:11 AM ET check Friday Nov 27; The Formula's unchanged projection of Tulsa Golden Hurricane 28, UTSA Roadrunners 27 no longer covers the side it had, so the game-day rerun turns the card from Tulsa Golden Hurricane +1.5 into UTSA Roadrunners +1.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), Tulsa at UTSA: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401862840 (checked Nov 27, 2026, 6:11 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401862840",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401862840",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": -1.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Tulsa Golden Hurricane −1.5",
+   "line": -1.5
+  },
+  "changed_at": "2026-11-27T11:11:00Z",
+  "kickoff": "2026-11-27T17:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for Tulsa at UTSA opened UTSA Roadrunners −1.5 at 8:42 AM ET Tuesday Nov 24, after the Monday night game ended, and was +1.5 at the 6:11 AM ET check Friday Nov 27, a 3-point move, so Follow The Money turns the card from pending into Tulsa Golden Hurricane −1.5.",
+   "source": "Action Network consensus line history, Tulsa at UTSA (book 15): https://api.actionnetwork.com/web/v2/markets/event/290211/history?bookIds=15 (checked Nov 27, 2026, 6:11 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290211/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401862840",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 58.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Under 57.5",
+   "line": 57.5
+  },
+  "changed_at": "2026-11-27T11:11:00Z",
+  "kickoff": "2026-11-27T17:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Tulsa at UTSA opened 58.5 at 1:04 AM ET Tuesday Nov 24 and was 57.5 at the 6:11 AM ET check Friday Nov 27, a 1-point drop, so Follow The Money turns the card from pending into Under 57.5.",
+   "source": "Action Network consensus line history, Tulsa at UTSA (book 15): https://api.actionnetwork.com/web/v2/markets/event/290211/history?bookIds=15 (checked Nov 27, 2026, 6:11 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290211/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401866472",
+  "league": "college",
+  "handicapper": "Letdown Watch",
+  "market": "total",
+  "original": {
+   "pick": "Under 50.5",
+   "line": 50.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Over 48.5",
+   "line": 48.5
+  },
+  "changed_at": "2026-11-27T11:11:00Z",
+  "kickoff": "2026-11-27T17:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings total for Buffalo at Akron moved from 50.5 to 48.5 by the 6:11 AM ET check Friday Nov 27; Letdown Watch's unchanged projection of Buffalo Bulls 35, Akron Zips 15 (Total 50) is now on the other side of the number, so the game-day rerun turns the card from Under 50.5 into Over 48.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), Buffalo at Akron: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401866472 (checked Nov 27, 2026, 6:11 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401866472",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401866472",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 50.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Under 48.5",
+   "line": 48.5
+  },
+  "changed_at": "2026-11-27T11:11:00Z",
+  "kickoff": "2026-11-27T17:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Buffalo at Akron opened 49.5 at 11:46 PM ET Monday Nov 23 and was 48.5 at the 6:11 AM ET check Friday Nov 27, a 1-point drop, so Follow The Money turns the card from pending into Under 48.5.",
+   "source": "Action Network consensus line history, Buffalo at Akron (book 15): https://api.actionnetwork.com/web/v2/markets/event/290207/history?bookIds=15 (checked Nov 27, 2026, 6:11 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290207/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401866473",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 49.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Under 44.5",
+   "line": 44.5
+  },
+  "changed_at": "2026-11-27T11:11:00Z",
+  "kickoff": "2026-11-27T17:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Toledo at Ohio opened 48.5 at 11:40 PM ET Monday Nov 23 and was 44.5 at the 6:11 AM ET check Friday Nov 27, a 4-point drop, so Follow The Money turns the card from pending into Under 44.5.",
+   "source": "Action Network consensus line history, Toledo at Ohio (book 15): https://api.actionnetwork.com/web/v2/markets/event/290208/history?bookIds=15 (checked Nov 27, 2026, 6:11 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290208/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401858536",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": -4.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Nebraska Cornhuskers +3.5",
+   "line": 3.5
+  },
+  "changed_at": "2026-11-27T11:11:00Z",
+  "kickoff": "2026-11-27T17:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for Nebraska at Iowa opened Iowa Hawkeyes −4.5 at 8:41 AM ET Tuesday Nov 24, after the Monday night game ended, and was −3.5 at the 6:11 AM ET check Friday Nov 27, a 1-point move, so Follow The Money turns the card from pending into Nebraska Cornhuskers +3.5.",
+   "source": "Action Network consensus line history, Nebraska at Iowa (book 15): https://api.actionnetwork.com/web/v2/markets/event/290214/history?bookIds=15 (checked Nov 27, 2026, 6:11 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290214/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
