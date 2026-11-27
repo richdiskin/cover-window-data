@@ -1,0 +1,815 @@
+{
+  "schema": 1,
+  "date": "2026-11-26",
+  "theme": "mmqb",
+  "theme_label": "Monday Morning Quarterback",
+  "published_at": "2026-11-25T05:32:33Z",
+  "count": 8,
+  "lead_id": "fanatic_team-buf",
+  "articles": [
+    {
+      "id": "fanatic_team-buf",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "buf",
+      "team_ids": [
+        "buf"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873082",
+      "title": "Buffalo Bills vs Kansas City Chiefs Week 12: Bass From 57, 13-10",
+      "byline": "",
+      "matchup": "Final: Buffalo Bills (10-1) 13, Kansas City Chiefs (8-3) 10, Thu., Nov. 26, Highmark Stadium, Orchard Park. Next: at New England Patriots, Sun., Dec. 6, 4:25 PM ET, Gillette Stadium, Foxborough",
+      "date": "2026-11-26",
+      "word_count": 354,
+      "text": "Buffalo Bills 13, Kansas City Chiefs 10, and Tyler Bass ended Thanksgiving night with a 57-yard field goal as the clock hit zero in Orchard Park. That morning, more than 14,000 runners took the 131st YMCA Turkey Trot through downtown Buffalo on a brand-new loop that begins and ends at the Buffalo Convention Center, and Christopher Bertola of Orchard Park won it in 24:14. Orchard Park went two for two today.\n\nThis one was a grind, and James Cook III carried it. Thirty-two carries, 117 yards and the only Buffalo touchdown. His 3-yard run into the end zone got overturned on review at the 1, a pre-snap flag pushed us back to the 5, and he went 5 yards on the next snap anyway for 7-0 early in the second quarter.\n\nJosh Allen had a rough night throwing, 10 of 21 for 81 yards and two interceptions, one in the end zone and one at the Kansas City 13. He kept us moving with his legs, 43 yards on seven carries, but we left points out there.\n\nThe defense won this game. Kansas City got 241 yards. Greg Rousseau sacked Patrick Mahomes and hit him three times. After Emmett Johnson's 1-yard touchdown put the Chiefs up 10-7, Terrel Bernard, Cole Bishop and Davison Igbinosun made sure they never scored again. Bass tied it from 54 with 11:58 left, and Harrison Butker missed from 46 with 6:01 to go.\n\nThen the punters took the stage. Tommy Doman Jr. dropped one at the Kansas City 2 with 2:11 left, and the Chiefs went three-and-out after a Rashee Rice catch on third down was reversed on review. After Kansas City punted again from its own end with 15 seconds left, Greg Dortch returned it 17 yards to the Kansas City 39. One snap, 57 yards, ballgame.\n\nThat's seven straight wins, and we're 10-1. Next we visit the New England Patriots at Gillette Stadium on Sunday, Dec. 6, at 4:25 PM ET, and they're the last team to beat us. Bertola needed 24 minutes and change to win his race Thursday morning. Bass needed one kick. Go Bills.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Buffalo Bills 13, Kansas City Chiefs 10, and Tyler Bass ended Thanksgiving night with a 57-yard field goal as the clock hit zero in Orchard Park. That morning, more than 14,000 runners took the 131st YMCA Turkey Trot through downtown Buffalo on a brand-new loop that begins and ends at the Buffalo Convention Center, and Christopher Bertola of Orchard Park won it in 24:14. Orchard Park went two for two today."
+        },
+        {
+          "type": "paragraph",
+          "text": "This one was a grind, and James Cook III carried it. Thirty-two carries, 117 yards and the only Buffalo touchdown. His 3-yard run into the end zone got overturned on review at the 1, a pre-snap flag pushed us back to the 5, and he went 5 yards on the next snap anyway for 7-0 early in the second quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Josh Allen had a rough night throwing, 10 of 21 for 81 yards and two interceptions, one in the end zone and one at the Kansas City 13. He kept us moving with his legs, 43 yards on seven carries, but we left points out there."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense won this game. Kansas City got 241 yards. Greg Rousseau sacked Patrick Mahomes and hit him three times. After Emmett Johnson's 1-yard touchdown put the Chiefs up 10-7, Terrel Bernard, Cole Bishop and Davison Igbinosun made sure they never scored again. Bass tied it from 54 with 11:58 left, and Harrison Butker missed from 46 with 6:01 to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the punters took the stage. Tommy Doman Jr. dropped one at the Kansas City 2 with 2:11 left, and the Chiefs went three-and-out after a Rashee Rice catch on third down was reversed on review. After Kansas City punted again from its own end with 15 seconds left, Greg Dortch returned it 17 yards to the Kansas City 39. One snap, 57 yards, ballgame."
+        },
+        {
+          "type": "paragraph",
+          "text": "That's seven straight wins, and we're 10-1. Next we visit the New England Patriots at Gillette Stadium on Sunday, Dec. 6, at 4:25 PM ET, and they're the last team to beat us. Bertola needed 24 minutes and change to win his race Thursday morning. Bass needed one kick. Go Bills."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Buffalo Bills beat the Kansas City Chiefs 13-10 on Thursday, Nov. 26, at Highmark Stadium. The Bills are 10-1."
+        },
+        {
+          "type": "fact",
+          "text": "Tyler Bass kicked field goals of 54 and 57 yards, the second as time expired."
+        },
+        {
+          "type": "fact",
+          "text": "James Cook III ran 32 times for 117 yards and a touchdown, and the defense held Kansas City to 241 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Kansas City got the Plaza lights on before kickoff. The scoreboard went dark on them at the gun."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at New England Patriots, Sunday, Dec. 6, 4:25 PM ET, Gillette Stadium, Foxborough."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Bills 13, Chiefs 10 (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873082"
+        },
+        {
+          "label": "ESPN play-by-play, Chiefs at Bills (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873082"
+        },
+        {
+          "label": "ESPN game page, Chiefs at Bills (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873082"
+        },
+        {
+          "label": "ESPN Bills schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/buf/buffalo-bills"
+        },
+        {
+          "label": "ESPN game recap, Bills 13, Chiefs 10 (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873082"
+        },
+        {
+          "label": "WKBW: 'A Buffalo Tradition': 131st annual Turkey Trot runs a new route (Nov. 26, 2026)",
+          "url": "https://www.wkbw.com/news/local-news/buffalo/a-buffalo-tradition-131st-annual-turkey-trot-runs-a-new-route"
+        },
+        {
+          "label": "YMCA Buffalo Niagara: YMCA Turkey Trot runner information, new course for 2026",
+          "url": "https://www.ymcabn.org/ymca-turkey-trot/runner-information"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-kc",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "kc",
+      "team_ids": [
+        "kc"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873082",
+      "title": "Kansas City Chiefs vs Buffalo Bills Week 12: Beaten at the Gun, 10-13",
+      "byline": "",
+      "matchup": "Final: Buffalo Bills (10-1) 13, Kansas City Chiefs (8-3) 10, Thu., Nov. 26, Highmark Stadium, Orchard Park. Next: at Los Angeles Rams, Thu., Dec. 3, 8:15 PM ET, SoFi Stadium, Inglewood",
+      "date": "2026-11-26",
+      "word_count": 388,
+      "text": "The Buffalo Bills beat the Kansas City Chiefs 13-10 on a 57-yard Tyler Bass field goal as time ran out in Orchard Park. In Kansas City, the 97th Plaza Lighting Ceremony moved up so Kansas City could flip the switch and still make kickoff, and Royals catcher Carter Jensen lit up the Country Club Plaza at 6:25. Those lights stay on into January. My mood will take longer to come back on.\n\nThis was a defensive fight, and our defense deserved a win. Alohi Gilman intercepted Josh Allen in the end zone in the second quarter, and Nohl Williams intercepted him again at our 13 in the third. Nick Bolton was everywhere, with 14 tackles, a sack and two tackles for loss. Allen finished 10 of 21 for 81 yards.\n\nWe came alive late in the half. Patrick Mahomes found Travis Kelce for 24 and 21 on the two-minute drive, and Harrison Butker kicked a 26-yarder with two seconds left to make it 3-7. Jalen Royals brought the second-half kickoff back 37 yards, Emmett Johnson ripped off runs of 13 and 12, and Johnson finished the drive from the 1 for 10-7.\n\nThen the drives died. Bass tied it from 54 early in the fourth. Our next trip reached the Buffalo 17 on a 19-yard Noah Gray catch, and then a holding flag wiped out a 10-yard Johnson run to the 7, a pre-snap flag backed us up again, and Butker pushed a 46-yarder wide right with 6:01 left.\n\nThe last two minutes hurt. A Rashee Rice catch got overturned on review, and Matt Araiza had to punt from deep in our end twice. On the second one, with 15 seconds left, Greg Dortch brought it back 17 yards to our 39. Bass hit from 57 with no time left.\n\nMahomes went 16 of 29 for 174 yards. Kelce caught four balls for 71. Johnson ran 17 times for 72 yards and the touchdown. We held James Cook III to 3.7 yards a carry and still lost on a kick.\n\nWe're 8-3, and it's a short week before the Los Angeles Rams at SoFi Stadium on Thursday, Dec. 3, at 8:15 PM ET. The Plaza lights shine through Jan. 10, and I'm driving down to see them Friday night anyway. They still look good. So does this defense.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Buffalo Bills beat the Kansas City Chiefs 13-10 on a 57-yard Tyler Bass field goal as time ran out in Orchard Park. In Kansas City, the 97th Plaza Lighting Ceremony moved up so Kansas City could flip the switch and still make kickoff, and Royals catcher Carter Jensen lit up the Country Club Plaza at 6:25. Those lights stay on into January. My mood will take longer to come back on."
+        },
+        {
+          "type": "paragraph",
+          "text": "This was a defensive fight, and our defense deserved a win. Alohi Gilman intercepted Josh Allen in the end zone in the second quarter, and Nohl Williams intercepted him again at our 13 in the third. Nick Bolton was everywhere, with 14 tackles, a sack and two tackles for loss. Allen finished 10 of 21 for 81 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "We came alive late in the half. Patrick Mahomes found Travis Kelce for 24 and 21 on the two-minute drive, and Harrison Butker kicked a 26-yarder with two seconds left to make it 3-7. Jalen Royals brought the second-half kickoff back 37 yards, Emmett Johnson ripped off runs of 13 and 12, and Johnson finished the drive from the 1 for 10-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the drives died. Bass tied it from 54 early in the fourth. Our next trip reached the Buffalo 17 on a 19-yard Noah Gray catch, and then a holding flag wiped out a 10-yard Johnson run to the 7, a pre-snap flag backed us up again, and Butker pushed a 46-yarder wide right with 6:01 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "The last two minutes hurt. A Rashee Rice catch got overturned on review, and Matt Araiza had to punt from deep in our end twice. On the second one, with 15 seconds left, Greg Dortch brought it back 17 yards to our 39. Bass hit from 57 with no time left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mahomes went 16 of 29 for 174 yards. Kelce caught four balls for 71. Johnson ran 17 times for 72 yards and the touchdown. We held James Cook III to 3.7 yards a carry and still lost on a kick."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 8-3, and it's a short week before the Los Angeles Rams at SoFi Stadium on Thursday, Dec. 3, at 8:15 PM ET. The Plaza lights shine through Jan. 10, and I'm driving down to see them Friday night anyway. They still look good. So does this defense."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Kansas City Chiefs lost 13-10 to the Buffalo Bills on Thursday, Nov. 26, at Highmark Stadium. The Chiefs are 8-3."
+        },
+        {
+          "type": "fact",
+          "text": "Emmett Johnson scored on a 1-yard run to open the second half, and Harrison Butker kicked a 26-yarder before halftime."
+        },
+        {
+          "type": "fact",
+          "text": "Alohi Gilman and Nohl Williams intercepted Josh Allen, and Nick Bolton made 14 tackles with a sack."
+        },
+        {
+          "type": "jab",
+          "text": "Buffalo threw for 81 yards and needed a 57-yard kick at the gun. That's not a statement win. That's a coin flip."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Los Angeles Rams, Thursday, Dec. 3, 8:15 PM ET, SoFi Stadium, Inglewood."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Bills 13, Chiefs 10 (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873082"
+        },
+        {
+          "label": "ESPN play-by-play, Chiefs at Bills (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873082"
+        },
+        {
+          "label": "ESPN game page, Chiefs at Bills (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873082"
+        },
+        {
+          "label": "ESPN Chiefs schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/kc/kansas-city-chiefs"
+        },
+        {
+          "label": "ESPN game recap, Bills 13, Chiefs 10 (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873082"
+        },
+        {
+          "label": "KSHB: Country Club Plaza lights kick off holiday season in Kansas City (Nov. 26, 2026)",
+          "url": "https://www.kshb.com/news/local-news/missouri/kansas-city/country-club-plaza-lights-kick-off-holiday-season-in-kansas-city"
+        },
+        {
+          "label": "KCUR: What time do the Plaza lights turn on? (Nov. 25, 2026)",
+          "url": "https://www.kcur.org/arts-life/2026-11-25/kansas-city-holiday-lights-events-plaza"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-dal",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "dal",
+      "team_ids": [
+        "dal"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873080",
+      "title": "Dallas Cowboys vs Philadelphia Eagles Week 12: Lead Lost, 38-39",
+      "byline": "",
+      "matchup": "Final: Philadelphia Eagles (4-7) 39, Dallas Cowboys (5-7) 38, Thu., Nov. 26, AT&T Stadium, Arlington. Next: at Seattle Seahawks, Mon., Dec. 7, 8:15 PM ET, Lumen Field, Seattle",
+      "date": "2026-11-26",
+      "word_count": 399,
+      "text": "The Philadelphia Eagles beat the Dallas Cowboys 39-38 at AT&T Stadium on Thanksgiving, and we led by 21 in the third quarter. Miranda Lambert walked out at halftime for the 30th Salvation Army Red Kettle Kickoff, with a giant disco ball hanging above the stage and the Dallas Cowboys Cheerleaders around her, and we were up 28-10. She sang \"Kerosene.\" The second half went up in flames.\n\nJavonte Williams owned the first half. He scored from the 1 to finish an 11-play opening drive, ran in from 12 in the second quarter, and caught a 12-yarder from Dak Prescott with four seconds left before the break. KaVontae Turpin took a short throw 31 yards to the end zone, and Brandon Aubrey hit a 59-yarder in the third for 31-10.\n\nThen it came apart one piece at a time. DeVonta Smith beat us for 45 yards. We took a delay of game on fourth down, the Eagles blocked Bryan Anger's punt, and Kenny Moore II recovered at our 3 for a touchdown. Prescott scrambled 14 yards to make it 38-24, and Britain Covey answered with a 55-yard kickoff return that set up a Joe Milton touchdown run. Cobie Durant intercepted Milton with 7:14 left, and the game was still in our hands.\n\nTwo moments will stay with me all winter. Aubrey, who had already made one from 59, missed a 40-yarder wide left with 3:27 to go. After the Eagles scored to make it 38-36, we faced fourth-and-1 at their 39 with 55 seconds left and went for it. Ty Robinson sacked Prescott for a 9-yard loss. Jake Elliott made a 59-yarder with two seconds left, and Andrew Mukuba intercepted our final heave.\n\nThere was good football in there. Prescott threw for 291 yards and two scores and ran for a third. CeeDee Lamb caught seven balls for 134 yards. Williams carried 29 times for 101 yards. Quinnen Williams and Shemar James each got to Milton for a sack. And 93,417 people packed the building to watch it slip away.\n\nWe're 5-7, and the Seattle Seahawks host us at Lumen Field on Monday, Dec. 7, at 8:15 PM ET. Short of a miracle, December is about pride now. The Red Kettles are out on every corner in Dallas, and I'm dropping a few dollars in one on the way home, because somebody in this town should end Thanksgiving feeling good.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Philadelphia Eagles beat the Dallas Cowboys 39-38 at AT&T Stadium on Thanksgiving, and we led by 21 in the third quarter. Miranda Lambert walked out at halftime for the 30th Salvation Army Red Kettle Kickoff, with a giant disco ball hanging above the stage and the Dallas Cowboys Cheerleaders around her, and we were up 28-10. She sang \"Kerosene.\" The second half went up in flames."
+        },
+        {
+          "type": "paragraph",
+          "text": "Javonte Williams owned the first half. He scored from the 1 to finish an 11-play opening drive, ran in from 12 in the second quarter, and caught a 12-yarder from Dak Prescott with four seconds left before the break. KaVontae Turpin took a short throw 31 yards to the end zone, and Brandon Aubrey hit a 59-yarder in the third for 31-10."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then it came apart one piece at a time. DeVonta Smith beat us for 45 yards. We took a delay of game on fourth down, the Eagles blocked Bryan Anger's punt, and Kenny Moore II recovered at our 3 for a touchdown. Prescott scrambled 14 yards to make it 38-24, and Britain Covey answered with a 55-yard kickoff return that set up a Joe Milton touchdown run. Cobie Durant intercepted Milton with 7:14 left, and the game was still in our hands."
+        },
+        {
+          "type": "paragraph",
+          "text": "Two moments will stay with me all winter. Aubrey, who had already made one from 59, missed a 40-yarder wide left with 3:27 to go. After the Eagles scored to make it 38-36, we faced fourth-and-1 at their 39 with 55 seconds left and went for it. Ty Robinson sacked Prescott for a 9-yard loss. Jake Elliott made a 59-yarder with two seconds left, and Andrew Mukuba intercepted our final heave."
+        },
+        {
+          "type": "paragraph",
+          "text": "There was good football in there. Prescott threw for 291 yards and two scores and ran for a third. CeeDee Lamb caught seven balls for 134 yards. Williams carried 29 times for 101 yards. Quinnen Williams and Shemar James each got to Milton for a sack. And 93,417 people packed the building to watch it slip away."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 5-7, and the Seattle Seahawks host us at Lumen Field on Monday, Dec. 7, at 8:15 PM ET. Short of a miracle, December is about pride now. The Red Kettles are out on every corner in Dallas, and I'm dropping a few dollars in one on the way home, because somebody in this town should end Thanksgiving feeling good."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Dallas Cowboys lost 39-38 to the Philadelphia Eagles on Thursday, Nov. 26, at AT&T Stadium. The Cowboys are 5-7."
+        },
+        {
+          "type": "fact",
+          "text": "Javonte Williams scored three touchdowns, two rushing and one receiving, and Dallas led 31-10 in the third quarter."
+        },
+        {
+          "type": "fact",
+          "text": "Brandon Aubrey missed a 40-yard field goal with 3:27 left, and Jake Elliott won it with a 59-yarder with two seconds remaining."
+        },
+        {
+          "type": "jab",
+          "text": "Philadelphia needed a blocked punt, a 55-yard return and our own fourth-down call to get back in it."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Seattle Seahawks, Monday, Dec. 7, 8:15 PM ET, Lumen Field, Seattle."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Eagles 39, Cowboys 38 (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873080"
+        },
+        {
+          "label": "ESPN play-by-play, Eagles at Cowboys (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873080"
+        },
+        {
+          "label": "ESPN game page, Eagles at Cowboys (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873080"
+        },
+        {
+          "label": "ESPN Cowboys schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/dal/dallas-cowboys"
+        },
+        {
+          "label": "ESPN game recap, Eagles 39, Cowboys 38 (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873080"
+        },
+        {
+          "label": "The Salvation Army: Miranda Lambert to kick off the Red Kettle Campaign at the Dallas Cowboys Thanksgiving game (Oct. 25, 2026)",
+          "url": "https://www.salvationarmyusa.org/stories/miranda-lambert-to-kick-off-salvation-army-s-red-kettle-campaign-with-dallas-cowboys-thanksgiving-game-halftime-performance/"
+        },
+        {
+          "label": "Country Now: Miranda Lambert delivers career-spanning medley during Dallas Cowboys Thanksgiving halftime show (Nov. 26, 2026)",
+          "url": "https://countrynow.com/miranda-lambert-delivers-career-spanning-medley-during-dallas-cowboys-thanksgiving-halftime-show/"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-phi",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "phi",
+      "team_ids": [
+        "phi"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873080",
+      "title": "Philadelphia Eagles vs Dallas Cowboys Week 12: Elliott From 59, 39-38",
+      "byline": "",
+      "matchup": "Final: Philadelphia Eagles (4-7) 39, Dallas Cowboys (5-7) 38, Thu., Nov. 26, AT&T Stadium, Arlington. Next: at Arizona Cardinals, Sun., Dec. 6, 4:05 PM ET, State Farm Stadium, Glendale",
+      "date": "2026-11-26",
+      "word_count": 425,
+      "text": "Philadelphia Eagles 39, Dallas Cowboys 38, and Jake Elliott won it from 59 yards with two seconds left in Arlington. In Philadelphia, the Thanksgiving Day Parade on the Benjamin Franklin Parkway, the oldest in the country going back to 1920, got called off Wednesday night because of a high wind warning. Philly lost its parade, so the Birds held one in Texas.\n\nNobody was planning a parade at halftime. Dallas led 28-10. Javonte Williams had two touchdown runs and a 12-yard touchdown catch with four seconds left in the half, and Brandon Aubrey made it 31-10 with a 59-yarder in the third. Our one bright spot was DeVonta Smith, who took a Joe Milton throw 50 yards for a score in the second quarter.\n\nSmith did it again with 15 seconds left in the third, 45 yards for 17-31. Then Ty Robinson got a hand on a Bryan Anger punt, and Kenny Moore II scooped it at the Dallas 3 and carried it in. Dak Prescott answered with a 14-yard scramble for 38-24, and Britain Covey brought the kickoff back 55 yards. Three snaps later, Milton ran it in from 15 himself. The two-point try failed, and it was 30-38.\n\nMilton gave one away when Cobie Durant intercepted him with 7:14 left, but the defense held, and Aubrey pushed a 40-yarder wide left at 3:27. Milton went 70 yards in four plays: Darius Cooper for 14, Elijah Moore for 23 and 9, and Makai Lemon for a 24-yard touchdown. A holding flag erased a good two-point try, and the second try fell incomplete. 36-38.\n\nThen Dallas went for it on fourth-and-1 at our 39 with 55 seconds left, and Robinson buried Prescott for a 9-yard sack. We had the ball at our 48 with 50 seconds to play. Smith caught one for 9, a Dallas interference flag gave us 2 more, Smith grabbed another for 5, and Elliott walked out and hit from 59. Andrew Mukuba intercepted the last heave for good measure.\n\nSmith caught 11 balls for 200 yards and two scores. Milton threw for 331 yards and three touchdowns and ran for another. Jeremiah Trotter Jr. made 12 tackles, and Robinson finished with a blocked punt and the sack that flipped the game. We scored 22 points in the fourth quarter.\n\nThat's two straight wins, and we're 4-7 with the Arizona Cardinals next at State Farm Stadium, Sunday, Dec. 6, at 4:05 PM ET. The Parkway can have its floats back next year. On Thursday, the parade ran through Arlington. Fly, Eagles, Fly.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Philadelphia Eagles 39, Dallas Cowboys 38, and Jake Elliott won it from 59 yards with two seconds left in Arlington. In Philadelphia, the Thanksgiving Day Parade on the Benjamin Franklin Parkway, the oldest in the country going back to 1920, got called off Wednesday night because of a high wind warning. Philly lost its parade, so the Birds held one in Texas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nobody was planning a parade at halftime. Dallas led 28-10. Javonte Williams had two touchdown runs and a 12-yard touchdown catch with four seconds left in the half, and Brandon Aubrey made it 31-10 with a 59-yarder in the third. Our one bright spot was DeVonta Smith, who took a Joe Milton throw 50 yards for a score in the second quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Smith did it again with 15 seconds left in the third, 45 yards for 17-31. Then Ty Robinson got a hand on a Bryan Anger punt, and Kenny Moore II scooped it at the Dallas 3 and carried it in. Dak Prescott answered with a 14-yard scramble for 38-24, and Britain Covey brought the kickoff back 55 yards. Three snaps later, Milton ran it in from 15 himself. The two-point try failed, and it was 30-38."
+        },
+        {
+          "type": "paragraph",
+          "text": "Milton gave one away when Cobie Durant intercepted him with 7:14 left, but the defense held, and Aubrey pushed a 40-yarder wide left at 3:27. Milton went 70 yards in four plays: Darius Cooper for 14, Elijah Moore for 23 and 9, and Makai Lemon for a 24-yard touchdown. A holding flag erased a good two-point try, and the second try fell incomplete. 36-38."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Dallas went for it on fourth-and-1 at our 39 with 55 seconds left, and Robinson buried Prescott for a 9-yard sack. We had the ball at our 48 with 50 seconds to play. Smith caught one for 9, a Dallas interference flag gave us 2 more, Smith grabbed another for 5, and Elliott walked out and hit from 59. Andrew Mukuba intercepted the last heave for good measure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Smith caught 11 balls for 200 yards and two scores. Milton threw for 331 yards and three touchdowns and ran for another. Jeremiah Trotter Jr. made 12 tackles, and Robinson finished with a blocked punt and the sack that flipped the game. We scored 22 points in the fourth quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "That's two straight wins, and we're 4-7 with the Arizona Cardinals next at State Farm Stadium, Sunday, Dec. 6, at 4:05 PM ET. The Parkway can have its floats back next year. On Thursday, the parade ran through Arlington. Fly, Eagles, Fly."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Philadelphia Eagles beat the Dallas Cowboys 39-38 on Thursday, Nov. 26, at AT&T Stadium. The Eagles are 4-7."
+        },
+        {
+          "type": "fact",
+          "text": "Jake Elliott kicked a 59-yard field goal with two seconds left after Ty Robinson sacked Dak Prescott on fourth-and-1."
+        },
+        {
+          "type": "fact",
+          "text": "DeVonta Smith caught 11 balls for 200 yards and two touchdowns, and Joe Milton threw for 331 yards and three scores."
+        },
+        {
+          "type": "jab",
+          "text": "Dallas led by 21 in the third quarter and spent the drive home explaining a fourth-and-1."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Arizona Cardinals, Sunday, Dec. 6, 4:05 PM ET, State Farm Stadium, Glendale."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Eagles 39, Cowboys 38 (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873080"
+        },
+        {
+          "label": "ESPN play-by-play, Eagles at Cowboys (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873080"
+        },
+        {
+          "label": "ESPN game page, Eagles at Cowboys (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873080"
+        },
+        {
+          "label": "ESPN Eagles schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/phi/philadelphia-eagles"
+        },
+        {
+          "label": "ESPN game recap, Eagles 39, Cowboys 38 (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873080"
+        },
+        {
+          "label": "CBS Philadelphia: Philadelphia Thanksgiving Day Parade in Center City canceled because of severe weather (Nov. 25, 2026)",
+          "url": "https://www.cbsnews.com/philadelphia/news/philadelphia-thanksgiving-day-parade-canceled/"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-det",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "det",
+      "team_ids": [
+        "det"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873081",
+      "title": "Detroit Lions vs Chicago Bears Week 12: Three Seconds Short, 35-39",
+      "byline": "",
+      "matchup": "Final: Chicago Bears (9-2) 39, Detroit Lions (8-3) 35, Thu., Nov. 26, Ford Field, Detroit. Next: at Atlanta Falcons, Sun., Dec. 6, 1:00 PM ET, Mercedes-Benz Stadium, Atlanta",
+      "date": "2026-11-26",
+      "word_count": 399,
+      "text": "The Chicago Bears beat the Detroit Lions 39-35 at Ford Field, and the winning catch came with three seconds left on a Thanksgiving that began so well. America's Thanksgiving Parade marched down Woodward Avenue for the 100th time Thursday morning, with the Detroit Youth Choir opening it and Dan Gilbert as grand marshal. By the afternoon the party was at Ford Field, and the Bears crashed it.\n\nJahmyr Gibbs was the best player on the field. Twenty-one carries, 205 yards, three touchdowns. He scored from the 1 twice, then took a first-down handoff from our 30 and went 70 yards for 35-24 with 8:20 left. Amon-Ra St. Brown caught seven balls for 146 yards, and Jared Goff found Sam LaPorta for an 11-yard touchdown with six seconds left in the half to make it 19-10. We piled up 549 yards. That should be plenty.\n\nIt wasn't, and the hidden points hurt. Jake Bates pushed the extra point after the Gibbs run wide left. Rome Odunze got behind us for 41 yards a minute later, Caleb Williams ran in the two, and 35-24 was 35-32. On our next drive Goff threw for Jameson Williams at the Chicago 21 and Dillon Thieneman took it away.\n\nThen came the decision I'll be chewing on through leftovers. With 2:22 left and a three-point lead, we went for it on fourth down at the Chicago 33 instead of trying the kick, and Goff's throw to Gibbs gained a yard. Chicago got the ball at its own 32 and needed 13 plays. A face mask on D.J. Reed gave them 15 free yards, and Odunze caught a 6-yarder in the end zone with three seconds to go. Our lateral play at the gun ended in an illegal forward flag.\n\nBright spots, because there were some. Malcolm Rodriguez recovered the Colston Loveland fumble at our 16 on Chicago's first drive and sacked Williams for 10 in the fourth. Roger McCreary broke up three throws. Brian Branch made two tackles for loss, and Jack Fox boomed a 61-yard punt.\n\nThis was our first home loss of the season, and it drops us to 8-3, a game behind Chicago. One hundred parades on Woodward and this city has seen worse Thursdays, so nobody in Detroit is folding. The Atlanta Falcons are next at Mercedes-Benz Stadium, Sunday, Dec. 6, at 1:00 PM ET. Grit, Detroit. Go get it back.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Chicago Bears beat the Detroit Lions 39-35 at Ford Field, and the winning catch came with three seconds left on a Thanksgiving that began so well. America's Thanksgiving Parade marched down Woodward Avenue for the 100th time Thursday morning, with the Detroit Youth Choir opening it and Dan Gilbert as grand marshal. By the afternoon the party was at Ford Field, and the Bears crashed it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jahmyr Gibbs was the best player on the field. Twenty-one carries, 205 yards, three touchdowns. He scored from the 1 twice, then took a first-down handoff from our 30 and went 70 yards for 35-24 with 8:20 left. Amon-Ra St. Brown caught seven balls for 146 yards, and Jared Goff found Sam LaPorta for an 11-yard touchdown with six seconds left in the half to make it 19-10. We piled up 549 yards. That should be plenty."
+        },
+        {
+          "type": "paragraph",
+          "text": "It wasn't, and the hidden points hurt. Jake Bates pushed the extra point after the Gibbs run wide left. Rome Odunze got behind us for 41 yards a minute later, Caleb Williams ran in the two, and 35-24 was 35-32. On our next drive Goff threw for Jameson Williams at the Chicago 21 and Dillon Thieneman took it away."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the decision I'll be chewing on through leftovers. With 2:22 left and a three-point lead, we went for it on fourth down at the Chicago 33 instead of trying the kick, and Goff's throw to Gibbs gained a yard. Chicago got the ball at its own 32 and needed 13 plays. A face mask on D.J. Reed gave them 15 free yards, and Odunze caught a 6-yarder in the end zone with three seconds to go. Our lateral play at the gun ended in an illegal forward flag."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bright spots, because there were some. Malcolm Rodriguez recovered the Colston Loveland fumble at our 16 on Chicago's first drive and sacked Williams for 10 in the fourth. Roger McCreary broke up three throws. Brian Branch made two tackles for loss, and Jack Fox boomed a 61-yard punt."
+        },
+        {
+          "type": "paragraph",
+          "text": "This was our first home loss of the season, and it drops us to 8-3, a game behind Chicago. One hundred parades on Woodward and this city has seen worse Thursdays, so nobody in Detroit is folding. The Atlanta Falcons are next at Mercedes-Benz Stadium, Sunday, Dec. 6, at 1:00 PM ET. Grit, Detroit. Go get it back."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Detroit Lions lost 39-35 to the Chicago Bears on Thursday, Nov. 26, at Ford Field. The Lions are 8-3."
+        },
+        {
+          "type": "fact",
+          "text": "Jahmyr Gibbs ran 21 times for 205 yards and three touchdowns, including a 70-yarder in the fourth quarter."
+        },
+        {
+          "type": "fact",
+          "text": "Detroit led 35-24 with 8:20 left before Rome Odunze scored twice, the last with three seconds remaining."
+        },
+        {
+          "type": "jab",
+          "text": "Chicago needed a face mask flag and the final three seconds to beat a team that outgained it by 91 yards."
+        },
+        {
+          "type": "fact",
+          "text": "Next: at Atlanta Falcons, Sunday, Dec. 6, 1:00 PM ET, Mercedes-Benz Stadium, Atlanta."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Bears 39, Lions 35 (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873081"
+        },
+        {
+          "label": "ESPN play-by-play, Bears at Lions (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873081"
+        },
+        {
+          "label": "ESPN game page, Bears at Lions (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873081"
+        },
+        {
+          "label": "ESPN Lions schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/det/detroit-lions"
+        },
+        {
+          "label": "ESPN game recap, Bears 39, Lions 35 (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873081"
+        },
+        {
+          "label": "The Parade Company: 2026 America's Thanksgiving Parade, 100th appearance on Woodward Avenue",
+          "url": "https://theparade.org/americas-thanksgiving-parade/parade-info/"
+        },
+        {
+          "label": "ClickOnDetroit: Detroit's America's Thanksgiving Parade celebrates 100 years on Woodward Avenue (Nov. 26, 2026)",
+          "url": "https://www.clickondetroit.com/news/local/2026/11/26/detroits-americas-thanksgiving-parade-celebrates-100-years-on-woodward-avenue/"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-chi",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "chi",
+      "team_ids": [
+        "chi"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873081",
+      "title": "Chicago Bears vs Detroit Lions Week 12: Odunze Steals It, 39-35",
+      "byline": "",
+      "matchup": "Final: Chicago Bears (9-2) 39, Detroit Lions (8-3) 35, Thu., Nov. 26, Ford Field, Detroit. Next: vs Jacksonville Jaguars, Sun., Dec. 6, 1:00 PM ET, Soldier Field, Chicago",
+      "date": "2026-11-26",
+      "word_count": 425,
+      "text": "Chicago Bears 39, Detroit Lions 35, and Rome Odunze caught the winner at Ford Field with three seconds on the clock. Thanksgiving morning, Charles \"Peanut\" Tillman marched up State Street as grand marshal of the 92nd Chicago Thanksgiving Parade, which stepped off at 7:45 this year. By suppertime the Bears had taken the parade to Detroit.\n\nFor three quarters it looked like Detroit's holiday. Colston Loveland had the ball punched loose at the Lions 17 on our first drive. We gave up a safety in the last two minutes of the half, and Sam LaPorta caught an 11-yard touchdown with six seconds left for 19-10. Jahmyr Gibbs ran for 205 yards and three scores, and his 70-yard sprint with 8:20 to go made it 35-24. I tip my cap to the man. Then I stopped tipping it.\n\nZavion Thomas brought the kickoff back to our 29. Caleb Williams hit Luther Burden III for 15 and Odunze for 15, then dropped a 41-yard rainbow to Odunze down the right side. Williams ran the two-point try in himself. Three plays, one minute, 35-32.\n\nDillon Thieneman made sure Detroit didn't answer. Jared Goff threw for Jameson Williams at our 21, and Thieneman jumped it and brought it back 18 yards. We came up empty on fourth down at the Detroit 42, and Gibbs ripped off 34 more yards, but the Lions went for it on fourth down at our 33 instead of kicking, and Gibbs got one yard on the throw. Our ball at the 32 with 2:17 left.\n\nThat drive was the best football I've seen from this team in years. Williams kept it himself on fourth-and-1 at our 41. Odunze grabbed 11 more, a face mask flag on D.J. Reed handed us 15, and D'Andre Swift caught one for 12 to the Detroit 9. From the 6, Williams found Odunze in the end zone. Thirteen plays, 68 yards.\n\nWilliams finished 30 of 44 for 345 yards, two touchdowns and no interceptions. Swift ran for 65 and caught seven for 97, and Kyle Monangai punched in two short touchdown runs. Cam Lewis made 10 tackles, and Thieneman added seven to go with his interception.\n\nThat's six straight wins. We're 9-2, a game clear of Detroit, and Peanut can tell the kids he walked State Street on the morning we stole Thanksgiving. The Portillo's Giant Chicago Dog balloon floated up State Street this morning, and the whole city ate well tonight. The Jacksonville Jaguars come to Soldier Field on Sunday, Dec. 6, at 1:00 PM ET. Bear Down.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Chicago Bears 39, Detroit Lions 35, and Rome Odunze caught the winner at Ford Field with three seconds on the clock. Thanksgiving morning, Charles \"Peanut\" Tillman marched up State Street as grand marshal of the 92nd Chicago Thanksgiving Parade, which stepped off at 7:45 this year. By suppertime the Bears had taken the parade to Detroit."
+        },
+        {
+          "type": "paragraph",
+          "text": "For three quarters it looked like Detroit's holiday. Colston Loveland had the ball punched loose at the Lions 17 on our first drive. We gave up a safety in the last two minutes of the half, and Sam LaPorta caught an 11-yard touchdown with six seconds left for 19-10. Jahmyr Gibbs ran for 205 yards and three scores, and his 70-yard sprint with 8:20 to go made it 35-24. I tip my cap to the man. Then I stopped tipping it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Zavion Thomas brought the kickoff back to our 29. Caleb Williams hit Luther Burden III for 15 and Odunze for 15, then dropped a 41-yard rainbow to Odunze down the right side. Williams ran the two-point try in himself. Three plays, one minute, 35-32."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dillon Thieneman made sure Detroit didn't answer. Jared Goff threw for Jameson Williams at our 21, and Thieneman jumped it and brought it back 18 yards. We came up empty on fourth down at the Detroit 42, and Gibbs ripped off 34 more yards, but the Lions went for it on fourth down at our 33 instead of kicking, and Gibbs got one yard on the throw. Our ball at the 32 with 2:17 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "That drive was the best football I've seen from this team in years. Williams kept it himself on fourth-and-1 at our 41. Odunze grabbed 11 more, a face mask flag on D.J. Reed handed us 15, and D'Andre Swift caught one for 12 to the Detroit 9. From the 6, Williams found Odunze in the end zone. Thirteen plays, 68 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Williams finished 30 of 44 for 345 yards, two touchdowns and no interceptions. Swift ran for 65 and caught seven for 97, and Kyle Monangai punched in two short touchdown runs. Cam Lewis made 10 tackles, and Thieneman added seven to go with his interception."
+        },
+        {
+          "type": "paragraph",
+          "text": "That's six straight wins. We're 9-2, a game clear of Detroit, and Peanut can tell the kids he walked State Street on the morning we stole Thanksgiving. The Portillo's Giant Chicago Dog balloon floated up State Street this morning, and the whole city ate well tonight. The Jacksonville Jaguars come to Soldier Field on Sunday, Dec. 6, at 1:00 PM ET. Bear Down."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Chicago Bears beat the Detroit Lions 39-35 on Thursday, Nov. 26, at Ford Field. The Bears are 9-2."
+        },
+        {
+          "type": "fact",
+          "text": "Caleb Williams threw for 345 yards and two touchdowns to Rome Odunze, the last a 6-yarder with three seconds left."
+        },
+        {
+          "type": "fact",
+          "text": "Dillon Thieneman intercepted Jared Goff in the fourth quarter, and the Bears scored 15 points after trailing 35-24 with 8:20 left."
+        },
+        {
+          "type": "jab",
+          "text": "Detroit ran for 246 yards and still ended Thanksgiving on a four-lateral prayer. We'll take the turkey."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Jacksonville Jaguars, Sunday, Dec. 6, 1:00 PM ET, Soldier Field, Chicago."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Bears 39, Lions 35 (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873081"
+        },
+        {
+          "label": "ESPN play-by-play, Bears at Lions (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873081"
+        },
+        {
+          "label": "ESPN game page, Bears at Lions (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873081"
+        },
+        {
+          "label": "ESPN Bears schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/chi/chicago-bears"
+        },
+        {
+          "label": "ESPN game recap, Bears 39, Lions 35 (Nov. 26, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873081"
+        },
+        {
+          "label": "Chicago Thanksgiving Parade: 2026 fact sheet (grand marshal Charles \"Peanut\" Tillman, 7:45 a.m. step-off)",
+          "url": "https://www.chiparade.com/factsheet26"
+        },
+        {
+          "label": "Choose Chicago: 92nd Chicago Thanksgiving Parade, Nov. 26, 2026, State Street",
+          "url": "https://www.choosechicago.com/event/92nd-chicago-thanksgiving-parade/"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-tcu",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "tcu",
+      "team_ids": [
+        "tcu"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856879",
+      "title": "TCU vs Texas Tech: Avalos Debut Ends the Season, 27-48",
+      "byline": "Ryder Galloway, The TCU Fanatic",
+      "matchup": "Final: Texas Tech Red Raiders (11-1) 48, TCU Horned Frogs (5-7) 27, Thu., Nov. 26, Galaxy Stadium, Lubbock. Regular season complete",
+      "date": "2026-11-26",
+      "word_count": 362,
+      "text": "Texas Tech beat TCU 48-27 in Lubbock on Thanksgiving night, and the Horned Frogs finish 5-7, one win short of a bowl game. That morning in Fort Worth, the YMCA Turkey Trot sent runners off from General Worth Square downtown, with every dollar raised going to scholarships for local families. That was the best news a Frog fan got all day.\n\nFor one quarter, Andy Avalos had this team flying in his first game as interim coach, four days after Sonny Dykes was fired. Sam Haley recovered a muffed punt at the Tech 33, Kyle Lemmermann kicked a 33-yarder, and Adam Schobel hit Ed Small for a 3-yard touchdown with 19 seconds left in the first. Frogs 10, Red Raiders 0.\n\nThen 75 seconds blew it all up. Thomas Castellanos found Kenny Johnson for a 19-yard touchdown at 2:08 of the second quarter. On our very next snap, Jeremy Payne lost a fumble at our 21, and Castellanos threw a 21-yard touchdown on the following play. We went three-and-out, and Malcolm Simmons returned the punt 79 yards. Schobel had already lost one on a sack at the Tech 40. It was 27-10 at the half, and Tech kept rolling until it was 41-10.\n\nSchobel kept swinging. He went 24 of 37 for 218 yards, three touchdowns and no interceptions. Major Everhart ran 14 times for 138 yards, including a 49-yard burst, and we ran for 245 yards as a team. Our 18-play drive in the third quarter ate 8:59 and ended with a Lemmermann field goal. Small caught nine balls and two touchdowns, and Jacobe Hayes grabbed an 11-yard score with 1:07 left.\n\nWe held the ball for 37:31 and still lost by 21. Castellanos completed 20 of 25 for 374 yards, and our secondary never found an answer. Kylin Jackson made seven tackles and a sack, and the front fought all night.\n\nThat's the season. Five wins, a coaching change and a Thanksgiving night we'll try to forget by Saturday. The Frogs have a long winter ahead to sort out who leads this program, and I'll be back at General Worth Square next Thanksgiving morning either way. Riff Ram, Bah Bah.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Texas Tech beat TCU 48-27 in Lubbock on Thanksgiving night, and the Horned Frogs finish 5-7, one win short of a bowl game. That morning in Fort Worth, the YMCA Turkey Trot sent runners off from General Worth Square downtown, with every dollar raised going to scholarships for local families. That was the best news a Frog fan got all day."
+        },
+        {
+          "type": "paragraph",
+          "text": "For one quarter, Andy Avalos had this team flying in his first game as interim coach, four days after Sonny Dykes was fired. Sam Haley recovered a muffed punt at the Tech 33, Kyle Lemmermann kicked a 33-yarder, and Adam Schobel hit Ed Small for a 3-yard touchdown with 19 seconds left in the first. Frogs 10, Red Raiders 0."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then 75 seconds blew it all up. Thomas Castellanos found Kenny Johnson for a 19-yard touchdown at 2:08 of the second quarter. On our very next snap, Jeremy Payne lost a fumble at our 21, and Castellanos threw a 21-yard touchdown on the following play. We went three-and-out, and Malcolm Simmons returned the punt 79 yards. Schobel had already lost one on a sack at the Tech 40. It was 27-10 at the half, and Tech kept rolling until it was 41-10."
+        },
+        {
+          "type": "paragraph",
+          "text": "Schobel kept swinging. He went 24 of 37 for 218 yards, three touchdowns and no interceptions. Major Everhart ran 14 times for 138 yards, including a 49-yard burst, and we ran for 245 yards as a team. Our 18-play drive in the third quarter ate 8:59 and ended with a Lemmermann field goal. Small caught nine balls and two touchdowns, and Jacobe Hayes grabbed an 11-yard score with 1:07 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "We held the ball for 37:31 and still lost by 21. Castellanos completed 20 of 25 for 374 yards, and our secondary never found an answer. Kylin Jackson made seven tackles and a sack, and the front fought all night."
+        },
+        {
+          "type": "paragraph",
+          "text": "That's the season. Five wins, a coaching change and a Thanksgiving night we'll try to forget by Saturday. The Frogs have a long winter ahead to sort out who leads this program, and I'll be back at General Worth Square next Thanksgiving morning either way. Riff Ram, Bah Bah."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "TCU lost 48-27 at Texas Tech on Thursday, Nov. 26, finishing 5-7, 3-6 in the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "Adam Schobel threw three touchdowns, two to Ed Small and one to Jacobe Hayes, and Major Everhart ran for 138 yards."
+        },
+        {
+          "type": "fact",
+          "text": "TCU led 10-0 after one quarter before Texas Tech scored 41 straight points, including 21 in the final 2:08 of the first half."
+        },
+        {
+          "type": "jab",
+          "text": "Texas Tech needed two of our fumbles and a punt return to pull away. The Frogs had the better running game and 37 minutes of the ball."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Texas Tech 48, TCU 27 (Nov. 26, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856879"
+        },
+        {
+          "label": "ESPN play-by-play, TCU at Texas Tech (Nov. 26, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856879"
+        },
+        {
+          "label": "ESPN game page, TCU at Texas Tech (Nov. 26, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856879"
+        },
+        {
+          "label": "ESPN TCU Horned Frogs 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2628"
+        },
+        {
+          "label": "Texas Tech Athletics: Football vs TCU on 11/26/2026, box score",
+          "url": "https://texastech.com/sports/football/stats/2026/tcu/boxscore/21736"
+        },
+        {
+          "label": "Texas Tech Athletics: No. 11 Tech routs TCU 48-27 for 11th win of the season (AP, Nov. 26, 2026)",
+          "url": "https://texastech.com/news/2026/11/26/football-no-11-tech-routs-tcu-48-27-for-11th-win-of-the-season"
+        },
+        {
+          "label": "YMCA of Fort Worth: Annual YMCA Turkey Trot, Thanksgiving Day, Nov. 26, 2026, General Worth Square",
+          "url": "https://ymcafw.org/annual-turkey-trot/"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-texas-tech",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "texas-tech",
+      "team_ids": [
+        "texas-tech"
+      ],
+      "tab_id": "big12",
+      "game_id": "401856879",
+      "title": "Texas Tech vs TCU: 41 Straight on Thanksgiving Night, 48-27",
+      "byline": "Bodie Ratliff, The Texas Tech Fanatic",
+      "matchup": "Final: Texas Tech Red Raiders (11-1) 48, TCU Horned Frogs (5-7) 27, Thu., Nov. 26, Galaxy Stadium, Lubbock. Next: at Utah, Fri., Dec. 4, 8:00 PM ET, AT&T Stadium, Arlington",
+      "date": "2026-11-26",
+      "word_count": 364,
+      "text": "Texas Tech 48, TCU 27, and the Red Raiders are headed back to the Big 12 Championship. Before kickoff on Thanksgiving night, Texas Tech honored 25 players on Senior Night at Galaxy Stadium, and the night ended with those seniors at 11-1.\n\nIt sure didn't begin like a party. TCU recovered a muffed punt at our 33 and kicked a field goal, and Adam Schobel hit Ed Small for a 3-yard touchdown with 19 seconds left in the first quarter. We were down 10-0, and I was checking my watch.\n\nThen the second quarter happened. Stone Harrington drilled kicks from 54 and 39. Thomas Castellanos found Kenny Johnson for a 19-yard touchdown with 2:08 left in the half, our first lead at 13-10. On the next snap, senior Trey White punched the ball out of Jeremy Payne's arms, and Peyton Morgan fell on it at the TCU 21. Castellanos hit J'Koby Williams for 21 yards and six on the very next play. TCU went three-and-out, and Malcolm Simmons took the punt back 79 yards. Twenty-one points in 1:15, and 27-10 at the half.\n\nCastellanos was terrific, 20 of 25 for a career-high 374 yards and three touchdowns. Simmons caught a 32-yard score on the first drive of the third quarter, and then senior tight end Terrance Carter Jr. ran one in from 3 yards out on his own Senior Night. Cameron Dickey's 16-yard run made it 48-13. That's 41 straight points after falling behind 10-0.\n\nThe seniors on defense owned the night too. Ben Roberts made 13 tackles and Austin Romaine made 12. Mateen Ibirogba sacked Schobel and knocked the ball loose, and Adam Trick recovered it. Julien Laventure got a sack of his own. Every one of those guys heard his name called before kickoff.\n\nNow for the honest part. TCU ran for 245 yards and held the ball for 37:31, and Major Everhart went for 138, so there's homework before the next one.\n\nWe're 11-1, 8-1 in the Big 12, and Utah is waiting at AT&T Stadium in Arlington on Friday, Dec. 4, at 8:00 PM ET with the conference title on the table. The leftovers can wait until Saturday. Wreck 'Em.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Texas Tech 48, TCU 27, and the Red Raiders are headed back to the Big 12 Championship. Before kickoff on Thanksgiving night, Texas Tech honored 25 players on Senior Night at Galaxy Stadium, and the night ended with those seniors at 11-1."
+        },
+        {
+          "type": "paragraph",
+          "text": "It sure didn't begin like a party. TCU recovered a muffed punt at our 33 and kicked a field goal, and Adam Schobel hit Ed Small for a 3-yard touchdown with 19 seconds left in the first quarter. We were down 10-0, and I was checking my watch."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the second quarter happened. Stone Harrington drilled kicks from 54 and 39. Thomas Castellanos found Kenny Johnson for a 19-yard touchdown with 2:08 left in the half, our first lead at 13-10. On the next snap, senior Trey White punched the ball out of Jeremy Payne's arms, and Peyton Morgan fell on it at the TCU 21. Castellanos hit J'Koby Williams for 21 yards and six on the very next play. TCU went three-and-out, and Malcolm Simmons took the punt back 79 yards. Twenty-one points in 1:15, and 27-10 at the half."
+        },
+        {
+          "type": "paragraph",
+          "text": "Castellanos was terrific, 20 of 25 for a career-high 374 yards and three touchdowns. Simmons caught a 32-yard score on the first drive of the third quarter, and then senior tight end Terrance Carter Jr. ran one in from 3 yards out on his own Senior Night. Cameron Dickey's 16-yard run made it 48-13. That's 41 straight points after falling behind 10-0."
+        },
+        {
+          "type": "paragraph",
+          "text": "The seniors on defense owned the night too. Ben Roberts made 13 tackles and Austin Romaine made 12. Mateen Ibirogba sacked Schobel and knocked the ball loose, and Adam Trick recovered it. Julien Laventure got a sack of his own. Every one of those guys heard his name called before kickoff."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now for the honest part. TCU ran for 245 yards and held the ball for 37:31, and Major Everhart went for 138, so there's homework before the next one."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 11-1, 8-1 in the Big 12, and Utah is waiting at AT&T Stadium in Arlington on Friday, Dec. 4, at 8:00 PM ET with the conference title on the table. The leftovers can wait until Saturday. Wreck 'Em."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Texas Tech beat TCU 48-27 on Thursday, Nov. 26, at Galaxy Stadium on Senior Night. The Red Raiders are 11-1, 8-1 in the Big 12."
+        },
+        {
+          "type": "fact",
+          "text": "Thomas Castellanos completed 20 of 25 throws for 374 yards and three touchdowns, and Malcolm Simmons added a 79-yard punt return touchdown."
+        },
+        {
+          "type": "fact",
+          "text": "Texas Tech scored 41 straight points after trailing 10-0, including 21 in the final 2:08 of the first half."
+        },
+        {
+          "type": "jab",
+          "text": "TCU held the ball for 37:31 and still trailed by 28 after three quarters. The clock doesn't score points."
+        },
+        {
+          "type": "fact",
+          "text": "Next: Big 12 Championship vs Utah, Friday, Dec. 4, 8:00 PM ET, AT&T Stadium, Arlington."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Texas Tech 48, TCU 27 (Nov. 26, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856879"
+        },
+        {
+          "label": "ESPN play-by-play, TCU at Texas Tech (Nov. 26, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856879"
+        },
+        {
+          "label": "ESPN game page, TCU at Texas Tech (Nov. 26, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856879"
+        },
+        {
+          "label": "ESPN Texas Tech Red Raiders 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2641"
+        },
+        {
+          "label": "Texas Tech Athletics: Football vs TCU on 11/26/2026, box score",
+          "url": "https://texastech.com/sports/football/stats/2026/tcu/boxscore/21736"
+        },
+        {
+          "label": "Texas Tech Athletics: No. 11 Tech routs TCU 48-27 for 11th win of the season (AP, Nov. 26, 2026)",
+          "url": "https://texastech.com/news/2026/11/26/football-no-11-tech-routs-tcu-48-27-for-11th-win-of-the-season"
+        },
+        {
+          "label": "KCBD: Texas Tech to recognize 25 players on Senior Night before TCU game (Nov. 26, 2026)",
+          "url": "https://www.kcbd.com/2026/11/27/texas-tech-recognize-25-players-senior-night-before-tcu-game/"
+        },
+        {
+          "label": "Big 12 Conference: Texas Tech secures berth in Edward Jones Big 12 Football Championship; will face Utah (Nov. 26, 2026)",
+          "url": "https://big12sports.com/news/2026/11/27/football-texas-tech-secures-berth-in-edward-jones-big-12-championship-will-face-utah.aspx"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    }
+  ]
+}
