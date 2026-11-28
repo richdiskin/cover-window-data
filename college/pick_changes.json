@@ -7252,5 +7252,83 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401856874",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 56.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Over 56.5",
+   "line": 56.5
+  },
+  "changed_at": "2026-11-28T16:21:00Z",
+  "kickoff": "2026-11-29T02:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Baylor at Houston opened 55.5 at 10:58 AM ET Tuesday Nov 24 and was 56.5 at the 11:21 AM ET check Saturday Nov 28, a 1-point rise, so Follow The Money turns the card from pending into Over 56.5.",
+   "source": "Action Network consensus line history, Baylor at Houston (book 15): https://api.actionnetwork.com/web/v2/markets/event/290230/history?bookIds=15 (checked Nov 28, 2026, 11:21 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290230/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401860928",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 52.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Over 53.5",
+   "line": 53.5
+  },
+  "changed_at": "2026-11-28T16:21:00Z",
+  "kickoff": "2026-11-29T02:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Texas State at Utah State opened 52.5 at 1:29 PM ET Wednesday Nov 25 and was 53.5 at the 11:21 AM ET check Saturday Nov 28, a 1-point rise, so Follow The Money turns the card from pending into Over 53.5.",
+   "source": "Action Network consensus line history, Texas State at Utah State (book 15): https://api.actionnetwork.com/web/v2/markets/event/309829/history?bookIds=15 (checked Nov 28, 2026, 11:21 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/309829/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401860927",
+  "league": "college",
+  "handicapper": "Next Man Up",
+  "market": "total",
+  "original": {
+   "pick": "Over 58.5",
+   "line": 58.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Under 59.5",
+   "line": 59.5
+  },
+  "changed_at": "2026-11-28T16:21:00Z",
+  "kickoff": "2026-11-29T03:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings total for Oregon State at Fresno State moved from 58.5 to 59.5 by the 11:21 AM ET check Saturday Nov 28; Next Man Up's projection of Fresno State Bulldogs 30, Oregon State Beavers 29 (Total 59) is now on the other side of the number, so the game-day rerun turns the card from Over 58.5 into Under 59.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), Oregon State at Fresno State: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401860927 (checked Nov 28, 2026, 11:21 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401860927",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
