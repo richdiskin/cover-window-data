@@ -5484,5 +5484,161 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401862837",
+  "league": "college",
+  "handicapper": "Letdown Watch",
+  "market": "total",
+  "original": {
+   "pick": "Over 55.5",
+   "line": 55.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Under 58.5",
+   "line": 58.5
+  },
+  "changed_at": "2026-11-28T11:31:00Z",
+  "kickoff": "2026-11-28T18:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings total for Florida Atlantic at East Carolina moved from 55.5 to 58.5 by the 6:31 AM ET check Saturday Nov 28; Letdown Watch's projection of East Carolina Pirates 30, Florida Atlantic Owls 27 (Total 57) is now on the other side of the number, so the game-day rerun turns the card from Over 55.5 into Under 58.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), Florida Atlantic at East Carolina: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401862837 (checked Nov 28, 2026, 6:31 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401862837",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401862837",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 55.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Over 58.5",
+   "line": 58.5
+  },
+  "changed_at": "2026-11-28T11:31:00Z",
+  "kickoff": "2026-11-28T18:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Florida Atlantic at East Carolina opened 55.5 at 9:11 AM ET Tuesday Nov 24 and was 58.5 at the 6:31 AM ET check Saturday Nov 28, a 3-point rise, so Follow The Money turns the card from pending into Over 58.5.",
+   "source": "Action Network consensus line history, Florida Atlantic at East Carolina (book 15): https://api.actionnetwork.com/web/v2/markets/event/290210/history?bookIds=15 (checked Nov 28, 2026, 6:31 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290210/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401870804",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 54.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Over 54.5",
+   "line": 54.5
+  },
+  "changed_at": "2026-11-28T11:31:00Z",
+  "kickoff": "2026-11-28T18:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Kennesaw State at Western Kentucky opened 53.5 at 8:51 AM ET Tuesday Nov 24 and was 54.5 at the 6:31 AM ET check Saturday Nov 28, a 1-point rise, so Follow The Money turns the card from pending into Over 54.5.",
+   "source": "Action Network consensus line history, Kennesaw State at Western Kentucky (book 15): https://api.actionnetwork.com/web/v2/markets/event/290398/history?bookIds=15 (checked Nov 28, 2026, 6:31 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290398/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401871102",
+  "league": "college",
+  "handicapper": "Letdown Watch",
+  "market": "side",
+  "original": {
+   "pick": "Marshall Thundering Herd −4.5",
+   "line": -4.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "UL Monroe Warhawks +6.5",
+   "line": 6.5
+  },
+  "changed_at": "2026-11-28T11:31:00Z",
+  "kickoff": "2026-11-28T18:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings line for Marshall at UL Monroe moved from UL Monroe Warhawks +4.5 to UL Monroe Warhawks +6.5 by the 6:31 AM ET check Saturday Nov 28; Letdown Watch's projection of Marshall Thundering Herd 29, UL Monroe Warhawks 23 no longer covers the side it had, so the game-day rerun turns the card from Marshall Thundering Herd −4.5 into UL Monroe Warhawks +6.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), Marshall at UL Monroe: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401871102 (checked Nov 28, 2026, 6:31 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401871102",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401871102",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": 4.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Marshall Thundering Herd −6.5",
+   "line": -6.5
+  },
+  "changed_at": "2026-11-28T11:31:00Z",
+  "kickoff": "2026-11-28T18:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for Marshall at UL Monroe opened UL Monroe Warhawks +5 at 6:40 AM ET Tuesday Nov 24, after the Monday night game ended, and was +6.5 at the 6:31 AM ET check Saturday Nov 28, a 1.5-point move, so Follow The Money turns the card from pending into Marshall Thundering Herd −6.5.",
+   "source": "Action Network consensus line history, Marshall at UL Monroe (book 15): https://api.actionnetwork.com/web/v2/markets/event/290250/history?bookIds=15 (checked Nov 28, 2026, 6:31 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290250/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401871103",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 50.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Under 49.5",
+   "line": 49.5
+  },
+  "changed_at": "2026-11-28T11:31:00Z",
+  "kickoff": "2026-11-28T18:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Southern Miss at Old Dominion opened 50.5 at 9:55 AM ET Wednesday Nov 25 and was 49.5 at the 6:31 AM ET check Saturday Nov 28, a 1-point drop, so Follow The Money turns the card from pending into Under 49.5.",
+   "source": "Action Network consensus line history, Southern Miss at Old Dominion (book 15): https://api.actionnetwork.com/web/v2/markets/event/290216/history?bookIds=15 (checked Nov 28, 2026, 6:31 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290216/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
