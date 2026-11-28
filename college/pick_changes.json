@@ -7018,5 +7018,161 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401856876",
+  "league": "college",
+  "handicapper": "The Formula",
+  "market": "total",
+  "original": {
+   "pick": "Under 55.5",
+   "line": 55.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Over 54.5",
+   "line": 54.5
+  },
+  "changed_at": "2026-11-28T16:12:00Z",
+  "kickoff": "2026-11-28T20:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings total for Cincinnati at BYU moved from 55.5 to 54.5 by the 11:12 AM ET check Saturday Nov 28; The Formula's projection of BYU Cougars 34, Cincinnati Bearcats 21 (Total 55) is now on the other side of the number, so the game-day rerun turns the card from Under 55.5 into Over 54.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), Cincinnati at BYU: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856876 (checked Nov 28, 2026, 11:12 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856876",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856876",
+  "league": "college",
+  "handicapper": "Letdown Watch",
+  "market": "side",
+  "original": {
+   "pick": "BYU Cougars −16.5",
+   "line": -16.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Cincinnati Bearcats +17.5",
+   "line": 17.5
+  },
+  "changed_at": "2026-11-28T16:12:00Z",
+  "kickoff": "2026-11-28T20:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings line for Cincinnati at BYU moved from BYU Cougars −16.5 to BYU Cougars −17.5 by the 11:12 AM ET check Saturday Nov 28; Letdown Watch's projection of BYU Cougars 35, Cincinnati Bearcats 18 no longer covers the side it had, so the game-day rerun turns the card from BYU Cougars −16.5 into Cincinnati Bearcats +17.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), Cincinnati at BYU: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856876 (checked Nov 28, 2026, 11:12 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856876",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856876",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 55.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Under 54.5",
+   "line": 54.5
+  },
+  "changed_at": "2026-11-28T16:12:00Z",
+  "kickoff": "2026-11-28T20:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Cincinnati at BYU opened 55.5 at 2:13 AM ET Tuesday Nov 24 and was 54.5 at the 11:12 AM ET check Saturday Nov 28, a 1-point drop, so Follow The Money turns the card from pending into Under 54.5.",
+   "source": "Action Network consensus line history, Cincinnati at BYU (book 15): https://api.actionnetwork.com/web/v2/markets/event/290226/history?bookIds=15 (checked Nov 28, 2026, 11:12 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290226/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401858316",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 60.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Under 60.5",
+   "line": 60.5
+  },
+  "changed_at": "2026-11-28T16:12:00Z",
+  "kickoff": "2026-11-28T20:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for SMU at Stanford opened 61.5 at 10:28 AM ET Tuesday Nov 24 and was 60.5 at the 11:12 AM ET check Saturday Nov 28, a 1-point drop, so Follow The Money turns the card from pending into Under 60.5.",
+   "source": "Action Network consensus line history, SMU at Stanford (book 15): https://api.actionnetwork.com/web/v2/markets/event/290224/history?bookIds=15 (checked Nov 28, 2026, 11:12 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290224/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401864550",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": -4.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Northern Illinois Huskies −5.5",
+   "line": -5.5
+  },
+  "changed_at": "2026-11-28T16:12:00Z",
+  "kickoff": "2026-11-28T20:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for UTEP at Northern Illinois opened Northern Illinois Huskies −4.5 at 10:17 AM ET Wednesday Nov 25, after the Monday night game ended, and was −5.5 at the 11:12 AM ET check Saturday Nov 28, a 1-point move, so Follow The Money turns the card from pending into Northern Illinois Huskies −5.5.",
+   "source": "Action Network consensus line history, UTEP at Northern Illinois (book 15): https://api.actionnetwork.com/web/v2/markets/event/290248/history?bookIds=15 (checked Nov 28, 2026, 11:12 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290248/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401864550",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 50.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Over 51.5",
+   "line": 51.5
+  },
+  "changed_at": "2026-11-28T16:12:00Z",
+  "kickoff": "2026-11-28T20:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for UTEP at Northern Illinois opened 50.5 at 10:17 AM ET Wednesday Nov 25 and was 51.5 at the 11:12 AM ET check Saturday Nov 28, a 1-point rise, so Follow The Money turns the card from pending into Over 51.5.",
+   "source": "Action Network consensus line history, UTEP at Northern Illinois (book 15): https://api.actionnetwork.com/web/v2/markets/event/290248/history?bookIds=15 (checked Nov 28, 2026, 11:12 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290248/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
