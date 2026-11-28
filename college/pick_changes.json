@@ -6420,5 +6420,135 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401858538",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": -22.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Indiana Hoosiers −23.5",
+   "line": -23.5
+  },
+  "changed_at": "2026-11-28T11:31:00Z",
+  "kickoff": "2026-11-29T00:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for Purdue at Indiana opened Indiana Hoosiers −22.5 at 9:33 AM ET Tuesday Nov 24, after the Monday night game ended, and was −23.5 at the 6:31 AM ET check Saturday Nov 28, a 1-point move, so Follow The Money turns the card from pending into Indiana Hoosiers −23.5.",
+   "source": "Action Network consensus line history, Purdue at Indiana (book 15): https://api.actionnetwork.com/web/v2/markets/event/290225/history?bookIds=15 (checked Nov 28, 2026, 6:31 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290225/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856757",
+  "league": "college",
+  "handicapper": "Letdown Watch",
+  "market": "side",
+  "original": {
+   "pick": "Auburn Tigers +16.5",
+   "line": 16.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Alabama Crimson Tide −14.5",
+   "line": -14.5
+  },
+  "changed_at": "2026-11-28T11:31:00Z",
+  "kickoff": "2026-11-29T00:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings line for Auburn at Alabama moved from Alabama Crimson Tide −16.5 to Alabama Crimson Tide −14.5 by the 6:31 AM ET check Saturday Nov 28; Letdown Watch's projection of Alabama Crimson Tide 33, Auburn Tigers 18 no longer covers the side it had, so the game-day rerun turns the card from Auburn Tigers +16.5 into Alabama Crimson Tide −14.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), Auburn at Alabama: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856757 (checked Nov 28, 2026, 6:31 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856757",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856757",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": -16.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Auburn Tigers +14.5",
+   "line": 14.5
+  },
+  "changed_at": "2026-11-28T11:31:00Z",
+  "kickoff": "2026-11-29T00:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for Auburn at Alabama opened Alabama Crimson Tide −15.5 at 11:58 AM ET Tuesday Nov 24, after the Monday night game ended, and was −14.5 at the 6:31 AM ET check Saturday Nov 28, a 1-point move, so Follow The Money turns the card from pending into Auburn Tigers +14.5.",
+   "source": "Action Network consensus line history, Auburn at Alabama (book 15): https://api.actionnetwork.com/web/v2/markets/event/290245/history?bookIds=15 (checked Nov 28, 2026, 6:31 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290245/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856757",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 48.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Over 50.5",
+   "line": 50.5
+  },
+  "changed_at": "2026-11-28T11:31:00Z",
+  "kickoff": "2026-11-29T00:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Auburn at Alabama opened 49.5 at 12:06 AM ET Tuesday Nov 24 and was 50.5 at the 6:31 AM ET check Saturday Nov 28, a 1-point rise, so Follow The Money turns the card from pending into Over 50.5.",
+   "source": "Action Network consensus line history, Auburn at Alabama (book 15): https://api.actionnetwork.com/web/v2/markets/event/290245/history?bookIds=15 (checked Nov 28, 2026, 6:31 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290245/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401858541",
+  "league": "college",
+  "handicapper": "The Formula",
+  "market": "total",
+  "original": {
+   "pick": "Over 49.5",
+   "line": 49.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Under 51.5",
+   "line": 51.5
+  },
+  "changed_at": "2026-11-28T11:31:00Z",
+  "kickoff": "2026-11-29T00:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings total for Washington at Oregon moved from 49.5 to 51.5 by the 6:31 AM ET check Saturday Nov 28; The Formula's projection of Oregon Ducks 32, Washington Huskies 18 (Total 50) is now on the other side of the number, so the game-day rerun turns the card from Over 49.5 into Under 51.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), Washington at Oregon: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401858541 (checked Nov 28, 2026, 6:31 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401858541",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
