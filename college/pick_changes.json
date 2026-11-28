@@ -7330,5 +7330,31 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401856877",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "Under 64.5",
+   "line": 64.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "No pick",
+   "line": null
+  },
+  "changed_at": "2026-11-28T16:38:00Z",
+  "kickoff": "2026-11-28T23:15Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Kansas at Oklahoma State opened 65.5 at 9:21 AM ET Tuesday Nov 24 and was 65.5 at the 11:38 AM ET check Saturday Nov 28, a 0-point move, under the 1-point bar, so Follow The Money drops its Under 64.5 total and has no total pick.",
+   "source": "Action Network consensus line history, Kansas at Oklahoma State (book 15): https://api.actionnetwork.com/web/v2/markets/event/290243/history?bookIds=15 (checked Nov 28, 2026, 11:38 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290243/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
