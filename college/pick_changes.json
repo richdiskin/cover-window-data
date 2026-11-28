@@ -6758,5 +6758,135 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401862837",
+  "league": "college",
+  "handicapper": "Next Man Up",
+  "market": "side",
+  "original": {
+   "pick": "East Carolina Pirates −1.5",
+   "line": -1.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Florida Atlantic Owls +2.5",
+   "line": 2.5
+  },
+  "changed_at": "2026-11-28T15:59:00Z",
+  "kickoff": "2026-11-28T18:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings line for Florida Atlantic at East Carolina moved from East Carolina Pirates −1.5 to East Carolina Pirates −2.5 by the 10:59 AM ET check Saturday Nov 28; Next Man Up's projection of East Carolina Pirates 32, Florida Atlantic Owls 30 no longer covers the side it had, so the game-day rerun turns the card from East Carolina Pirates −1.5 into Florida Atlantic Owls +2.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), Florida Atlantic at East Carolina: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401862837 (checked Nov 28, 2026, 10:59 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401862837",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401862837",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": -1.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "East Carolina Pirates −2.5",
+   "line": -2.5
+  },
+  "changed_at": "2026-11-28T15:59:00Z",
+  "kickoff": "2026-11-28T18:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for Florida Atlantic at East Carolina opened East Carolina Pirates −1.5 at 12:03 PM ET Tuesday Nov 24, after the Monday night game ended, and was −2.5 at the 10:59 AM ET check Saturday Nov 28, a 1-point move, so Follow The Money turns the card from pending into East Carolina Pirates −2.5.",
+   "source": "Action Network consensus line history, Florida Atlantic at East Carolina (book 15): https://api.actionnetwork.com/web/v2/markets/event/290210/history?bookIds=15 (checked Nov 28, 2026, 10:59 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290210/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401871103",
+  "league": "college",
+  "handicapper": "Next Man Up",
+  "market": "side",
+  "original": {
+   "pick": "Southern Miss Golden Eagles +5.5",
+   "line": 5.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Old Dominion Monarchs −4.5",
+   "line": -4.5
+  },
+  "changed_at": "2026-11-28T15:59:00Z",
+  "kickoff": "2026-11-28T18:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings line for Southern Miss at Old Dominion moved from Old Dominion Monarchs −5.5 to Old Dominion Monarchs −4.5 by the 10:59 AM ET check Saturday Nov 28; Next Man Up's projection of Old Dominion Monarchs 28, Southern Miss Golden Eagles 23 no longer covers the side it had, so the game-day rerun turns the card from Southern Miss Golden Eagles +5.5 into Old Dominion Monarchs −4.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), Southern Miss at Old Dominion: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401871103 (checked Nov 28, 2026, 10:59 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401871103",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401871103",
+  "league": "college",
+  "handicapper": "Letdown Watch",
+  "market": "side",
+  "original": {
+   "pick": "Southern Miss Golden Eagles +5.5",
+   "line": 5.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Old Dominion Monarchs −4.5",
+   "line": -4.5
+  },
+  "changed_at": "2026-11-28T15:59:00Z",
+  "kickoff": "2026-11-28T18:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings line for Southern Miss at Old Dominion moved from Old Dominion Monarchs −5.5 to Old Dominion Monarchs −4.5 by the 10:59 AM ET check Saturday Nov 28; Letdown Watch's projection of Old Dominion Monarchs 29, Southern Miss Golden Eagles 24 no longer covers the side it had, so the game-day rerun turns the card from Southern Miss Golden Eagles +5.5 into Old Dominion Monarchs −4.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), Southern Miss at Old Dominion: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401871103 (checked Nov 28, 2026, 10:59 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401871103",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401871103",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": -5.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Southern Miss Golden Eagles +4.5",
+   "line": 4.5
+  },
+  "changed_at": "2026-11-28T15:59:00Z",
+  "kickoff": "2026-11-28T18:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for Southern Miss at Old Dominion opened Old Dominion Monarchs −5.5 at 7:25 PM ET Tuesday Nov 24, after the Monday night game ended, and was −4.5 at the 10:59 AM ET check Saturday Nov 28, a 1-point move, so Follow The Money turns the card from pending into Southern Miss Golden Eagles +4.5.",
+   "source": "Action Network consensus line history, Southern Miss at Old Dominion (book 15): https://api.actionnetwork.com/web/v2/markets/event/290216/history?bookIds=15 (checked Nov 28, 2026, 10:59 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290216/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
