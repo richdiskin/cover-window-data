@@ -6654,5 +6654,31 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401871062",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 57.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Under 57.5",
+   "line": 57.5
+  },
+  "changed_at": "2026-11-28T12:12:00Z",
+  "kickoff": "2026-11-28T20:30Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Jacksonville State at Delaware opened 58.5 at 2:14 AM ET Tuesday Nov 24 and was 57.5 at the 7:12 AM ET check Saturday Nov 28, a 1-point drop, so Follow The Money turns the card from pending into Under 57.5.",
+   "source": "Action Network consensus line history, Jacksonville State at Delaware (book 15): https://api.actionnetwork.com/web/v2/markets/event/290262/history?bookIds=15 (checked Nov 28, 2026, 7:12 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290262/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
