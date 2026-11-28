@@ -6888,5 +6888,109 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401856878",
+  "league": "college",
+  "handicapper": "Next Man Up",
+  "market": "side",
+  "original": {
+   "pick": "Iowa State Cyclones −4",
+   "line": -4.0,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Kansas State Wildcats +5.5",
+   "line": 5.5
+  },
+  "changed_at": "2026-11-28T16:04:00Z",
+  "kickoff": "2026-11-28T19:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings line for Kansas State at Iowa State moved from Iowa State Cyclones −4 to Iowa State Cyclones −5.5 by the 11:04 AM ET check Saturday Nov 28; Next Man Up's projection of Iowa State Cyclones 32, Kansas State Wildcats 27 no longer covers the side it had, so the game-day rerun turns the card from Iowa State Cyclones −4 into Kansas State Wildcats +5.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), Kansas State at Iowa State: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856878 (checked Nov 28, 2026, 11:04 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856878",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856878",
+  "league": "college",
+  "handicapper": "Letdown Watch",
+  "market": "side",
+  "original": {
+   "pick": "Iowa State Cyclones −4",
+   "line": -4.0,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Kansas State Wildcats +5.5",
+   "line": 5.5
+  },
+  "changed_at": "2026-11-28T16:04:00Z",
+  "kickoff": "2026-11-28T19:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings line for Kansas State at Iowa State moved from Iowa State Cyclones −4 to Iowa State Cyclones −5.5 by the 11:04 AM ET check Saturday Nov 28; Letdown Watch's projection of Iowa State Cyclones 30, Kansas State Wildcats 25 no longer covers the side it had, so the game-day rerun turns the card from Iowa State Cyclones −4 into Kansas State Wildcats +5.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), Kansas State at Iowa State: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856878 (checked Nov 28, 2026, 11:04 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856878",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401862841",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": 4.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Rice Owls +4.5",
+   "line": 4.5
+  },
+  "changed_at": "2026-11-28T16:04:00Z",
+  "kickoff": "2026-11-28T19:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for Army at Rice opened Rice Owls +5.5 at 10:26 AM ET Tuesday Nov 24, after the Monday night game ended, and was +4.5 at the 11:04 AM ET check Saturday Nov 28, a 1-point move, so Follow The Money turns the card from pending into Rice Owls +4.5.",
+   "source": "Action Network consensus line history, Army at Rice (book 15): https://api.actionnetwork.com/web/v2/markets/event/290240/history?bookIds=15 (checked Nov 28, 2026, 11:04 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290240/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401871063",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 52.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Over 53.5",
+   "line": 53.5
+  },
+  "changed_at": "2026-11-28T16:04:00Z",
+  "kickoff": "2026-11-28T19:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Liberty at Missouri State opened 52.5 at 11:36 PM ET Monday Nov 23 and was 53.5 at the 11:04 AM ET check Saturday Nov 28, a 1-point rise, so Follow The Money turns the card from pending into Over 53.5.",
+   "source": "Action Network consensus line history, Liberty at Missouri State (book 15): https://api.actionnetwork.com/web/v2/markets/event/290397/history?bookIds=15 (checked Nov 28, 2026, 11:04 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290397/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
