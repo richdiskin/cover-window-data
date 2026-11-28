@@ -1,0 +1,2437 @@
+{
+  "schema": 1,
+  "date": "2026-11-27",
+  "theme": "mmqb",
+  "theme_label": "Monday Morning Quarterback",
+  "published_at": "2026-11-25T05:32:33Z",
+  "count": 26,
+  "lead_id": "fanatic_team-den",
+  "articles": [
+    {
+      "id": "fanatic_team-den",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "den",
+      "team_ids": [
+        "den"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873083",
+      "title": "Denver Broncos vs Pittsburgh Steelers Week 12: Streak Washed Out, 5-27",
+      "byline": "",
+      "matchup": "Final: Pittsburgh Steelers (7-4) 27, Denver Broncos (8-3) 5, Fri., Nov. 27, Acrisure Stadium, Pittsburgh. Next: vs Miami Dolphins, Sun., Dec. 6, 4:05 PM ET, Empower Field at Mile High, Denver",
+      "date": "2026-11-27",
+      "word_count": 317,
+      "text": "The Denver Broncos lost 27-5 to the Pittsburgh Steelers on a soggy afternoon in western Pennsylvania, and the six-game winning streak ends in the worst way. Kansas City had lost on Thanksgiving night. Sole possession of first place in the AFC West was sitting right there. We left it in the rain.\n\nIt went sideways early. On our second possession, the ball slipped out of Bo Nix's hand with the rush closing in, bounced into the end zone, and T.J. Watt fell on it. Then Mason Rudolph hit a 58-yard catch-and-run and a 22-yard touchdown, and we were down 14-0 in the first quarter.\n\nWe had a pulse in the second quarter. Alex Singleton tackled Jaylen Warren in the Pittsburgh end zone for a safety, and Wil Lutz hit a 44-yard field goal to make it 14-5. Then Pittsburgh kicked a field goal, and on our next snap Jalen Ramsey stepped in front of a throw meant for Jaylen Waddle and ran it back 36 yards. Two defensive touchdowns allowed in one half. That's the game.\n\nNix finished 22 of 40 for 169 yards, no touchdowns, two interceptions and three sacks. We managed 205 yards and 3.0 yards a play, went 4 of 15 on third down, and came away empty on our only red zone trip.\n\nSingleton was the bright spot, 13 tackles and the safety. Jaylen Waddle caught five balls for 53 yards. Jonah Coleman caught eight. Tyler Badie gave us decent field position on kickoffs, 94 yards on four returns.\n\nWe held the ball for 33:52 and still lost by 22. That's three turnovers doing the damage, and two of them went for six.\n\nWe're 8-3, still very much in the AFC West race, and the Miami Dolphins visit Empower Field at Mile High on Sunday, Dec. 6, at 4:05 PM ET. Dry off, flush it, go win at home. Broncos Country, let's ride.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Denver Broncos lost 27-5 to the Pittsburgh Steelers on a soggy afternoon in western Pennsylvania, and the six-game winning streak ends in the worst way. Kansas City had lost on Thanksgiving night. Sole possession of first place in the AFC West was sitting right there. We left it in the rain."
+        },
+        {
+          "type": "paragraph",
+          "text": "It went sideways early. On our second possession, the ball slipped out of Bo Nix's hand with the rush closing in, bounced into the end zone, and T.J. Watt fell on it. Then Mason Rudolph hit a 58-yard catch-and-run and a 22-yard touchdown, and we were down 14-0 in the first quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "We had a pulse in the second quarter. Alex Singleton tackled Jaylen Warren in the Pittsburgh end zone for a safety, and Wil Lutz hit a 44-yard field goal to make it 14-5. Then Pittsburgh kicked a field goal, and on our next snap Jalen Ramsey stepped in front of a throw meant for Jaylen Waddle and ran it back 36 yards. Two defensive touchdowns allowed in one half. That's the game."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nix finished 22 of 40 for 169 yards, no touchdowns, two interceptions and three sacks. We managed 205 yards and 3.0 yards a play, went 4 of 15 on third down, and came away empty on our only red zone trip."
+        },
+        {
+          "type": "paragraph",
+          "text": "Singleton was the bright spot, 13 tackles and the safety. Jaylen Waddle caught five balls for 53 yards. Jonah Coleman caught eight. Tyler Badie gave us decent field position on kickoffs, 94 yards on four returns."
+        },
+        {
+          "type": "paragraph",
+          "text": "We held the ball for 33:52 and still lost by 22. That's three turnovers doing the damage, and two of them went for six."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 8-3, still very much in the AFC West race, and the Miami Dolphins visit Empower Field at Mile High on Sunday, Dec. 6, at 4:05 PM ET. Dry off, flush it, go win at home. Broncos Country, let's ride."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Pittsburgh Steelers beat the Denver Broncos 27-5 on Friday, Nov. 27, at Acrisure Stadium. The Broncos are 8-3."
+        },
+        {
+          "type": "fact",
+          "text": "Alex Singleton made 13 tackles and scored a safety."
+        },
+        {
+          "type": "fact",
+          "text": "Pittsburgh scored on a fumble recovery in the end zone and a 36-yard interception return."
+        },
+        {
+          "type": "jab",
+          "text": "Pittsburgh's offense managed 247 yards. Its defense did the rest."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Miami Dolphins, Sunday, Dec. 6, 4:05 PM ET, Empower Field at Mile High, Denver."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Steelers 27, Broncos 5 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873083"
+        },
+        {
+          "label": "ESPN play-by-play, Broncos at Steelers (Nov. 27, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873083"
+        },
+        {
+          "label": "ESPN game page, Broncos at Steelers (Nov. 27, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873083"
+        },
+        {
+          "label": "ESPN Broncos schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/den/denver-broncos"
+        },
+        {
+          "label": "ESPN game recap (AP): Steelers 27, Broncos 5 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873083"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-pit",
+      "kind": "fanatic_team",
+      "league": "nfl",
+      "team_id": "pit",
+      "team_ids": [
+        "pit"
+      ],
+      "tab_id": "nfl",
+      "game_id": "401873083",
+      "title": "Pittsburgh Steelers vs Denver Broncos Week 12: Defense Scores Twice, 27-5",
+      "byline": "",
+      "matchup": "Final: Pittsburgh Steelers (7-4) 27, Denver Broncos (8-3) 5, Fri., Nov. 27, Acrisure Stadium, Pittsburgh. Next: vs Houston Texans, Sun., Dec. 6, 8:20 PM ET, Acrisure Stadium, Pittsburgh",
+      "date": "2026-11-27",
+      "word_count": 308,
+      "text": "After the week this franchise just lived through, I'd have taken a one-point win in the mud. Instead, the Pittsburgh Steelers buried the Denver Broncos 27-5 in the rain at Acrisure Stadium on Black Friday, and the defense outscored Denver by itself.\n\nYou know the backdrop. Aaron Rodgers is gone after a very public split, and the whole country spent the week laughing at us. So T.J. Watt and Cameron Heyward told this team to stay present, and the defense answered on Denver's second possession. Bo Nix had the ball slip out of his hand with Watt and Nick Herbig bearing down, and Watt fell on it in the end zone. 7-0. Mist and noise everywhere.\n\nMason Rudolph took it from there. He hit rookie Germie Bernard on a 58-yard catch-and-run, then lofted a 22-yard touchdown to DK Metcalf for a 14-0 lead, our first 14-0 first-quarter lead since 2019. Rudolph finished 9 of 15 for 142 yards, no interceptions, no drama. Exactly what we needed.\n\nDenver got a safety when Alex Singleton dropped Jaylen Warren in our end zone, and a Wil Lutz field goal made it 14-5. Then Chris Boswell hit from 47, and on Denver's next snap Jalen Ramsey jumped a Nix throw and took it 36 yards to the house. 24-5 at halftime. Boswell added a 33-yarder in the fourth, and nobody in black and gold broke a sweat.\n\nNix was held to 169 yards on 40 throws, with two interceptions and three sacks. Daylen Everette grabbed the other interception. Payton Wilson made eight tackles. Denver managed 205 yards, and its six-game winning streak is done. Rico Dowdle ran for 71 yards on 11 carries.\n\nWe're 7-4, and the Houston Texans come to Acrisure Stadium for a Sunday night game on Dec. 6 at 8:20 PM ET. Turn the page. Here we go, Steelers.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "After the week this franchise just lived through, I'd have taken a one-point win in the mud. Instead, the Pittsburgh Steelers buried the Denver Broncos 27-5 in the rain at Acrisure Stadium on Black Friday, and the defense outscored Denver by itself."
+        },
+        {
+          "type": "paragraph",
+          "text": "You know the backdrop. Aaron Rodgers is gone after a very public split, and the whole country spent the week laughing at us. So T.J. Watt and Cameron Heyward told this team to stay present, and the defense answered on Denver's second possession. Bo Nix had the ball slip out of his hand with Watt and Nick Herbig bearing down, and Watt fell on it in the end zone. 7-0. Mist and noise everywhere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mason Rudolph took it from there. He hit rookie Germie Bernard on a 58-yard catch-and-run, then lofted a 22-yard touchdown to DK Metcalf for a 14-0 lead, our first 14-0 first-quarter lead since 2019. Rudolph finished 9 of 15 for 142 yards, no interceptions, no drama. Exactly what we needed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Denver got a safety when Alex Singleton dropped Jaylen Warren in our end zone, and a Wil Lutz field goal made it 14-5. Then Chris Boswell hit from 47, and on Denver's next snap Jalen Ramsey jumped a Nix throw and took it 36 yards to the house. 24-5 at halftime. Boswell added a 33-yarder in the fourth, and nobody in black and gold broke a sweat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nix was held to 169 yards on 40 throws, with two interceptions and three sacks. Daylen Everette grabbed the other interception. Payton Wilson made eight tackles. Denver managed 205 yards, and its six-game winning streak is done. Rico Dowdle ran for 71 yards on 11 carries."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 7-4, and the Houston Texans come to Acrisure Stadium for a Sunday night game on Dec. 6 at 8:20 PM ET. Turn the page. Here we go, Steelers."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "The Pittsburgh Steelers beat the Denver Broncos 27-5 on Friday, Nov. 27, at Acrisure Stadium. The Steelers are 7-4."
+        },
+        {
+          "type": "fact",
+          "text": "T.J. Watt recovered a fumble in the end zone, and Jalen Ramsey returned an interception 36 yards for a touchdown."
+        },
+        {
+          "type": "fact",
+          "text": "Mason Rudolph threw a 22-yard touchdown to DK Metcalf and had no interceptions."
+        },
+        {
+          "type": "jab",
+          "text": "Denver came in on a six-game winning streak and scored on a safety and a field goal."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Houston Texans, Sunday, Dec. 6, 8:20 PM ET, Acrisure Stadium, Pittsburgh."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Steelers 27, Broncos 5 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/nfl/boxscore/_/gameId/401873083"
+        },
+        {
+          "label": "ESPN play-by-play, Broncos at Steelers (Nov. 27, 2026)",
+          "url": "https://www.espn.com/nfl/playbyplay/_/gameId/401873083"
+        },
+        {
+          "label": "ESPN game page, Broncos at Steelers (Nov. 27, 2026)",
+          "url": "https://www.espn.com/nfl/game/_/gameId/401873083"
+        },
+        {
+          "label": "ESPN Steelers schedule",
+          "url": "https://www.espn.com/nfl/team/schedule/_/name/pit/pittsburgh-steelers"
+        },
+        {
+          "label": "ESPN game recap (AP): Steelers 27, Broncos 5 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/nfl/recap/_/gameId/401873083"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-minnesota",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "minnesota",
+      "team_ids": [
+        "minnesota"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858544",
+      "title": "Minnesota vs Wisconsin: The Axe Goes Back to Madison, 5-28",
+      "byline": "Torvald 'Tor' Engebretsen, The Minnesota Fanatic",
+      "matchup": "Final: Wisconsin Badgers (8-4) 28, Minnesota Golden Gophers (6-6) 5, Fri., Nov. 27, Camp Randall Stadium, Madison. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 305,
+      "text": "Minnesota lost 28-5 at Wisconsin on Friday night, and Paul Bunyan's Axe goes back to Madison. I'm writing this from a very quiet corner of the Twin Cities.\n\nIt began with promise. On the Badgers' opening drive, Naiim Parrish jumped a Colton Joseph throw and returned it 18 yards, and Luke Drzewiecki banged home a 53-yard field goal. Minnesota 3, Wisconsin 0, and for about 10 minutes of game time I believed.\n\nFrom there, Wisconsin scored touchdowns on three straight drives while we went three-and-out three straight times. At halftime it was 21-3, and the Badgers had 16 first downs to our one. One.\n\nThe final numbers are brutal. We were outgained 482-115 and outrushed 265-11. We had six first downs all night. Drake Lindsey completed 14 of 28 throws for 104 yards behind a front that couldn't hold up. Joseph ran for 101 yards and had a hand in three touchdowns against us. Our only other points came on a safety when Wisconsin was flagged for holding in its own end zone.\n\nA few Gophers deserve a salute. Joey Gerlach made 12 tackles. Maverick Baranowski made seven and grabbed an interception. Parrish made the play that gave us the early lead. We didn't lose a fumble or throw an interception, and still couldn't keep pace. When you run for 11 yards on 14 carries, the defense ends up on the field for 38:54, and no defense in this league survives that.\n\nThe series is now tied at 64-64-8, and Wisconsin has beaten us just twice in six years. That's a stat I'll cling to until next November.\n\nWe're 6-6, 4-5 in the Big Ten, bowl eligible, and waiting on a destination. One more game to send this group out the right way, and a full offseason to figure out how to block Wisconsin. Ski-U-Mah.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Minnesota lost 28-5 at Wisconsin on Friday night, and Paul Bunyan's Axe goes back to Madison. I'm writing this from a very quiet corner of the Twin Cities."
+        },
+        {
+          "type": "paragraph",
+          "text": "It began with promise. On the Badgers' opening drive, Naiim Parrish jumped a Colton Joseph throw and returned it 18 yards, and Luke Drzewiecki banged home a 53-yard field goal. Minnesota 3, Wisconsin 0, and for about 10 minutes of game time I believed."
+        },
+        {
+          "type": "paragraph",
+          "text": "From there, Wisconsin scored touchdowns on three straight drives while we went three-and-out three straight times. At halftime it was 21-3, and the Badgers had 16 first downs to our one. One."
+        },
+        {
+          "type": "paragraph",
+          "text": "The final numbers are brutal. We were outgained 482-115 and outrushed 265-11. We had six first downs all night. Drake Lindsey completed 14 of 28 throws for 104 yards behind a front that couldn't hold up. Joseph ran for 101 yards and had a hand in three touchdowns against us. Our only other points came on a safety when Wisconsin was flagged for holding in its own end zone."
+        },
+        {
+          "type": "paragraph",
+          "text": "A few Gophers deserve a salute. Joey Gerlach made 12 tackles. Maverick Baranowski made seven and grabbed an interception. Parrish made the play that gave us the early lead. We didn't lose a fumble or throw an interception, and still couldn't keep pace. When you run for 11 yards on 14 carries, the defense ends up on the field for 38:54, and no defense in this league survives that."
+        },
+        {
+          "type": "paragraph",
+          "text": "The series is now tied at 64-64-8, and Wisconsin has beaten us just twice in six years. That's a stat I'll cling to until next November."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 6-6, 4-5 in the Big Ten, bowl eligible, and waiting on a destination. One more game to send this group out the right way, and a full offseason to figure out how to block Wisconsin. Ski-U-Mah."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Wisconsin beat Minnesota 28-5 on Friday, Nov. 27, at Camp Randall Stadium. The Gophers are 6-6, 4-5 Big Ten."
+        },
+        {
+          "type": "fact",
+          "text": "Minnesota led 3-0 after Naiim Parrish's 18-yard interception return and Luke Drzewiecki's 53-yard field goal."
+        },
+        {
+          "type": "fact",
+          "text": "Joey Gerlach made 12 tackles, and Maverick Baranowski had an interception."
+        },
+        {
+          "type": "jab",
+          "text": "Wisconsin needed the Axe back badly enough to beat us for just the second time in six years."
+        },
+        {
+          "type": "fact",
+          "text": "Next: bowl game to be announced."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Wisconsin 28, Minnesota 5 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858544"
+        },
+        {
+          "label": "ESPN play-by-play, Minnesota at Wisconsin (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858544"
+        },
+        {
+          "label": "ESPN game page, Minnesota at Wisconsin (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858544"
+        },
+        {
+          "label": "ESPN Minnesota Golden Gophers 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/135"
+        },
+        {
+          "label": "ESPN game recap (AP): Wisconsin 28, Minnesota 5 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858544"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-wisconsin",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "wisconsin",
+      "team_ids": [
+        "wisconsin"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858544",
+      "title": "Wisconsin vs Minnesota: The Axe Comes Home to Madison, 28-5",
+      "byline": "Lars 'Brat' Ellefson, The Wisconsin Fanatic",
+      "matchup": "Final: Wisconsin Badgers (8-4) 28, Minnesota Golden Gophers (6-6) 5, Fri., Nov. 27, Camp Randall Stadium, Madison. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 306,
+      "text": "Paul Bunyan's Axe is back in Madison where it belongs. Wisconsin flattened Minnesota 28-5 on Black Friday night in front of 72,651 at Camp Randall, and the most-played rivalry in the FBS is now dead even at 64-64-8.\n\nColton Joseph was a one-man wrecking crew. He completed 12 of 18 throws for 217 yards, ran for 101 more on 20 carries, and scored three touchdowns. On third-and-13 on the first play of the second quarter, he found Tyrell Henry for a 27-yard score to put us ahead for good. He ran one in from 7 yards before the half, and from the 1 late in the third. Along the way he set the single-season rushing record for a Wisconsin quarterback, now at 659 yards.\n\nThe numbers look like a typo. We outgained the Gophers 482-115. We outrushed them 265-11. At halftime it was 21-3, and we had 16 first downs to their one. Bryan Jackson II added a 1-yard touchdown, and Darrion Dupree carried 23 times for 80 yards.\n\nMinnesota got its points from a 53-yard field goal after an interception on our opening drive, and a holding flag in our end zone for a safety. The Gophers finished with six first downs. Cooper Catalano made seven tackles, and Tyreese Fearbry got a sack.\n\nThis defense has been a fortress at home all season. We allowed 44 points in six games at Camp Randall and never gave up more than 10 in any of them. AP says the last time a Wisconsin team did that was 1951.\n\nWe're 8-4, 6-3 in the Big Ten, and we doubled last season's number of wins. Joseph threw two interceptions, one off a receiver's hands, and we'll fix that before the bowl. Tonight, though, the Axe is ours, and it looks perfect in red. Somebody grab a saw. On, Wisconsin.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Paul Bunyan's Axe is back in Madison where it belongs. Wisconsin flattened Minnesota 28-5 on Black Friday night in front of 72,651 at Camp Randall, and the most-played rivalry in the FBS is now dead even at 64-64-8."
+        },
+        {
+          "type": "paragraph",
+          "text": "Colton Joseph was a one-man wrecking crew. He completed 12 of 18 throws for 217 yards, ran for 101 more on 20 carries, and scored three touchdowns. On third-and-13 on the first play of the second quarter, he found Tyrell Henry for a 27-yard score to put us ahead for good. He ran one in from 7 yards before the half, and from the 1 late in the third. Along the way he set the single-season rushing record for a Wisconsin quarterback, now at 659 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "The numbers look like a typo. We outgained the Gophers 482-115. We outrushed them 265-11. At halftime it was 21-3, and we had 16 first downs to their one. Bryan Jackson II added a 1-yard touchdown, and Darrion Dupree carried 23 times for 80 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Minnesota got its points from a 53-yard field goal after an interception on our opening drive, and a holding flag in our end zone for a safety. The Gophers finished with six first downs. Cooper Catalano made seven tackles, and Tyreese Fearbry got a sack."
+        },
+        {
+          "type": "paragraph",
+          "text": "This defense has been a fortress at home all season. We allowed 44 points in six games at Camp Randall and never gave up more than 10 in any of them. AP says the last time a Wisconsin team did that was 1951."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 8-4, 6-3 in the Big Ten, and we doubled last season's number of wins. Joseph threw two interceptions, one off a receiver's hands, and we'll fix that before the bowl. Tonight, though, the Axe is ours, and it looks perfect in red. Somebody grab a saw. On, Wisconsin."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Wisconsin beat Minnesota 28-5 on Friday, Nov. 27, at Camp Randall Stadium to reclaim Paul Bunyan's Axe. The Badgers are 8-4, 6-3 Big Ten."
+        },
+        {
+          "type": "fact",
+          "text": "Colton Joseph threw for 217 yards and a touchdown and ran for 101 yards and two scores."
+        },
+        {
+          "type": "fact",
+          "text": "Wisconsin outgained Minnesota 482-115 and outrushed the Gophers 265-11."
+        },
+        {
+          "type": "jab",
+          "text": "Minnesota scored five points, and two came from a holding flag."
+        },
+        {
+          "type": "fact",
+          "text": "Next: bowl game to be announced."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Wisconsin 28, Minnesota 5 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858544"
+        },
+        {
+          "label": "ESPN play-by-play, Minnesota at Wisconsin (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858544"
+        },
+        {
+          "label": "ESPN game page, Minnesota at Wisconsin (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858544"
+        },
+        {
+          "label": "ESPN Wisconsin Badgers 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/275"
+        },
+        {
+          "label": "ESPN game recap (AP): Wisconsin 28, Minnesota 5 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858544"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-texas-a-m",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "texas-a-m",
+      "team_ids": [
+        "texas-a-m"
+      ],
+      "tab_id": "sec",
+      "game_id": "401856756",
+      "title": "Texas A&M vs Texas: Aggies Defend Kyle Field, Offense Can't Finish, 6-16",
+      "byline": "Colt Wendeborn, The Texas A&M Fanatic",
+      "matchup": "Final: Texas Longhorns (10-2) 16, Texas A&M Aggies (4-8) 6, Fri., Nov. 27, Kyle Field, College Station. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 313,
+      "text": "Texas A&M lost 16-6 to Texas at Kyle Field on Black Friday night, and the 109,570 of us who stood the whole way deserved a touchdown. One. Just one. The Aggies didn't find the end zone all night, and the season ends at 4-8.\n\nHere's what kills me: our defense played well enough to win. Texas managed 242 yards and 2.9 yards a carry. Tawfiq Byard was a monster with 11 tackles and an interception in the end zone when Texas had a chance to put us away in the fourth quarter. Ray Coney made 11 tackles, too. The Longhorns needed three field goals to get to 16.\n\nBrady Hart, in his second game as the No. 1 quarterback, threw for 201 yards on 22 of 35 with no interceptions. Aaron Gregory was outstanding, seven catches for 120 yards, including a 30-yarder in the third quarter that put us in scoring position. David Olano was money, hitting from 52 as time expired in the first half and from 35 to make it 13-6 in the third.\n\nAnd then we stalled, drive after drive. The ground game finished with 33 yards on 25 carries. Mario Craver fumbled after a catch on our second snap of the second half, and Texas turned it into points. After Byard's interception, we failed on fourth down and handed it right back.\n\nThat's five straight losses to close the year, and a fourth straight loss to Texas. A season after we made the College Football Playoff for the first time, 4-8, 1-8 in the SEC, is hard to stomach.\n\nBut I'll tell you this: the 12th Man stood for every snap, and our defense gave this offense every chance. Fix the offense, and the rest is already here. Byard, Coney and that defense showed the bones are there, and I'll be back in my seat next fall. Gig 'em.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Texas A&M lost 16-6 to Texas at Kyle Field on Black Friday night, and the 109,570 of us who stood the whole way deserved a touchdown. One. Just one. The Aggies didn't find the end zone all night, and the season ends at 4-8."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's what kills me: our defense played well enough to win. Texas managed 242 yards and 2.9 yards a carry. Tawfiq Byard was a monster with 11 tackles and an interception in the end zone when Texas had a chance to put us away in the fourth quarter. Ray Coney made 11 tackles, too. The Longhorns needed three field goals to get to 16."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brady Hart, in his second game as the No. 1 quarterback, threw for 201 yards on 22 of 35 with no interceptions. Aaron Gregory was outstanding, seven catches for 120 yards, including a 30-yarder in the third quarter that put us in scoring position. David Olano was money, hitting from 52 as time expired in the first half and from 35 to make it 13-6 in the third."
+        },
+        {
+          "type": "paragraph",
+          "text": "And then we stalled, drive after drive. The ground game finished with 33 yards on 25 carries. Mario Craver fumbled after a catch on our second snap of the second half, and Texas turned it into points. After Byard's interception, we failed on fourth down and handed it right back."
+        },
+        {
+          "type": "paragraph",
+          "text": "That's five straight losses to close the year, and a fourth straight loss to Texas. A season after we made the College Football Playoff for the first time, 4-8, 1-8 in the SEC, is hard to stomach."
+        },
+        {
+          "type": "paragraph",
+          "text": "But I'll tell you this: the 12th Man stood for every snap, and our defense gave this offense every chance. Fix the offense, and the rest is already here. Byard, Coney and that defense showed the bones are there, and I'll be back in my seat next fall. Gig 'em."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Texas beat Texas A&M 16-6 on Friday, Nov. 27, at Kyle Field. The Aggies finish 4-8, 1-8 SEC."
+        },
+        {
+          "type": "fact",
+          "text": "Tawfiq Byard made 11 tackles and intercepted Arch Manning in the end zone."
+        },
+        {
+          "type": "fact",
+          "text": "Aaron Gregory caught seven throws for 120 yards, and David Olano made field goals of 52 and 35 yards."
+        },
+        {
+          "type": "jab",
+          "text": "Texas scored one touchdown in 60 minutes and needed three field goals to beat us by 10."
+        },
+        {
+          "type": "fact",
+          "text": "Season complete at 4-8."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Texas 16, Texas A&M 6 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856756"
+        },
+        {
+          "label": "ESPN play-by-play, Texas at Texas A&M (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856756"
+        },
+        {
+          "label": "ESPN game page, Texas at Texas A&M (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856756"
+        },
+        {
+          "label": "ESPN Texas A&M Aggies 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/245"
+        },
+        {
+          "label": "ESPN game recap (AP): Texas 16, Texas A&M 6 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856756"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-texas",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "texas",
+      "team_ids": [
+        "texas"
+      ],
+      "tab_id": "sec",
+      "game_id": "401856756",
+      "title": "Texas vs Texas A&M: Spetic's Boot Punches the Ticket to Atlanta, 16-6",
+      "byline": "Caro Whitfield, The Texas Fanatic",
+      "matchup": "Final: Texas Longhorns (10-2) 16, Texas A&M Aggies (4-8) 6, Fri., Nov. 27, Kyle Field, College Station. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 317,
+      "text": "It wasn't art. It was a 16-6 grind in front of 109,570 in College Station the night after Thanksgiving, and Texas walked out of Aggieland with a fourth straight win against the Aggies and a ticket to the SEC Championship Game. I'll take ugly in that building every single year.\n\nGianni Spetic was the MVP of my heart. He opened the scoring with a 54-yard field goal in the first quarter, hit from 33 in the third, and drilled a 42-yarder with 5:19 left to make it a two-score game. Three kicks, three makes, 10 points.\n\nArch Manning had a tough night, 18 of 34 for 143 yards, but he engineered the drive that mattered most: 12 plays, 88 yards, capped by a 3-yard touchdown to Cam Coleman early in the second quarter for a 10-0 lead. Yes, a tipped throw got intercepted in the end zone in the fourth. The defense shrugged and got the ball right back on a fourth-down stop.\n\nThat defense was the story. The Aggies ran 25 times for 33 yards. Rasheem Biles made nine tackles, and Justin Cryer and Brad Spence each recorded a sack. Jelani McDonald recovered a fumble on the Aggies' second snap of the second half, and we turned it into Spetic's 33-yarder after converting a fourth-and-1. Texas A&M never scored a touchdown.\n\nMichael Terry III ran for 50 yards on 12 carries. Ryan Wingo caught five balls. It wasn't flashy. It didn't need to be. Championship teams find a way on nights when the offense sputters, and this one found it in a hostile building on the last Friday of November.\n\nTexas sits at 10-2, 7-2 in the SEC, winners of six straight, and now it's top-ranked Georgia in Atlanta on Dec. 5. Last time we met the Bulldogs for the conference crown, we lost 22-19 in overtime. I haven't forgotten. Neither has this team. Hook 'em.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "It wasn't art. It was a 16-6 grind in front of 109,570 in College Station the night after Thanksgiving, and Texas walked out of Aggieland with a fourth straight win against the Aggies and a ticket to the SEC Championship Game. I'll take ugly in that building every single year."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gianni Spetic was the MVP of my heart. He opened the scoring with a 54-yard field goal in the first quarter, hit from 33 in the third, and drilled a 42-yarder with 5:19 left to make it a two-score game. Three kicks, three makes, 10 points."
+        },
+        {
+          "type": "paragraph",
+          "text": "Arch Manning had a tough night, 18 of 34 for 143 yards, but he engineered the drive that mattered most: 12 plays, 88 yards, capped by a 3-yard touchdown to Cam Coleman early in the second quarter for a 10-0 lead. Yes, a tipped throw got intercepted in the end zone in the fourth. The defense shrugged and got the ball right back on a fourth-down stop."
+        },
+        {
+          "type": "paragraph",
+          "text": "That defense was the story. The Aggies ran 25 times for 33 yards. Rasheem Biles made nine tackles, and Justin Cryer and Brad Spence each recorded a sack. Jelani McDonald recovered a fumble on the Aggies' second snap of the second half, and we turned it into Spetic's 33-yarder after converting a fourth-and-1. Texas A&M never scored a touchdown."
+        },
+        {
+          "type": "paragraph",
+          "text": "Michael Terry III ran for 50 yards on 12 carries. Ryan Wingo caught five balls. It wasn't flashy. It didn't need to be. Championship teams find a way on nights when the offense sputters, and this one found it in a hostile building on the last Friday of November."
+        },
+        {
+          "type": "paragraph",
+          "text": "Texas sits at 10-2, 7-2 in the SEC, winners of six straight, and now it's top-ranked Georgia in Atlanta on Dec. 5. Last time we met the Bulldogs for the conference crown, we lost 22-19 in overtime. I haven't forgotten. Neither has this team. Hook 'em."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Texas beat Texas A&M 16-6 on Friday, Nov. 27, at Kyle Field. The Longhorns are 10-2, 7-2 SEC."
+        },
+        {
+          "type": "fact",
+          "text": "Gianni Spetic made field goals of 54, 33 and 42 yards, and Arch Manning threw a 3-yard touchdown to Cam Coleman."
+        },
+        {
+          "type": "fact",
+          "text": "Texas clinched a spot in the SEC Championship Game against Georgia on Dec. 5 in Atlanta."
+        },
+        {
+          "type": "jab",
+          "text": "Texas A&M ran 25 times for 33 yards. That's four straight in the rivalry for us."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Georgia, SEC Championship Game, Dec. 5, Atlanta."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Texas 16, Texas A&M 6 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856756"
+        },
+        {
+          "label": "ESPN play-by-play, Texas at Texas A&M (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856756"
+        },
+        {
+          "label": "ESPN game page, Texas at Texas A&M (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856756"
+        },
+        {
+          "label": "ESPN Texas Longhorns 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/251"
+        },
+        {
+          "label": "ESPN game recap (AP): Texas 16, Texas A&M 6 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856756"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-air-force",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "air-force",
+      "team_ids": [
+        "air-force"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864546",
+      "title": "Air Force vs New Mexico: Falcons Fade in Albuquerque, 19-42",
+      "byline": "Lt. Col. (Ret.) Marissa Okonkwo-Hale, The Air Force Fanatic",
+      "matchup": "Final: New Mexico Lobos (10-2) 42, Air Force Falcons (9-3) 19, Fri., Nov. 27, University Stadium (NM), Albuquerque. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 306,
+      "text": "Air Force lost 42-19 at New Mexico on the last Friday of November, and the score doesn't tell you how close this was midway through the third quarter. We were down two points with the ball rolling our way. Then the Lobos found another gear, and we didn't.\n\nIt began like a dream. Evan Medders ran in from the 1 on our opening drive, 7-0. Then came the 52-yard Lobo touchdown run, and on our very next snap, we fumbled at our own 24. Two plays later, it was 14-7. That 54-second stretch hurt, and it took the air out of a fast opening.\n\nWe kept fighting. Carter Cremascoli hit two 25-yard field goals, the second one with two seconds left in the half. Medders scored again from 6 yards out in the third quarter, and it was 21-19. We went for two to tie it. The try ended in a fumble, and the moment slipped away.\n\nFrom there New Mexico scored three straight touchdowns. Luke Moga threw for 248 yards and three scores, and Kiefer Sibley ran for 115.\n\nMedders gave us all he had: 11 of 22 for 193 yards, 57 rushing yards and two touchdowns on 22 carries. Adam Hrynciw caught three balls for 68 yards, and Mason Hayes had a 43-yarder. Max Mustell intercepted Moga and made eight tackles, and Brody Bujnoch made nine. We went 3 for 5 on fourth down and held the ball for 32:13. That's Falcon football.\n\nBut we gave up 182 rushing yards on just 29 carries, and New Mexico hit too many big plays for us to keep pace.\n\nWe're 9-3, 5-3 in the Mountain West, and we expect a bowl invitation soon. Nine wins from a team of future officers is worth a salute, and one more game in December sounds right. Fly, Fight, Win.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Air Force lost 42-19 at New Mexico on the last Friday of November, and the score doesn't tell you how close this was midway through the third quarter. We were down two points with the ball rolling our way. Then the Lobos found another gear, and we didn't."
+        },
+        {
+          "type": "paragraph",
+          "text": "It began like a dream. Evan Medders ran in from the 1 on our opening drive, 7-0. Then came the 52-yard Lobo touchdown run, and on our very next snap, we fumbled at our own 24. Two plays later, it was 14-7. That 54-second stretch hurt, and it took the air out of a fast opening."
+        },
+        {
+          "type": "paragraph",
+          "text": "We kept fighting. Carter Cremascoli hit two 25-yard field goals, the second one with two seconds left in the half. Medders scored again from 6 yards out in the third quarter, and it was 21-19. We went for two to tie it. The try ended in a fumble, and the moment slipped away."
+        },
+        {
+          "type": "paragraph",
+          "text": "From there New Mexico scored three straight touchdowns. Luke Moga threw for 248 yards and three scores, and Kiefer Sibley ran for 115."
+        },
+        {
+          "type": "paragraph",
+          "text": "Medders gave us all he had: 11 of 22 for 193 yards, 57 rushing yards and two touchdowns on 22 carries. Adam Hrynciw caught three balls for 68 yards, and Mason Hayes had a 43-yarder. Max Mustell intercepted Moga and made eight tackles, and Brody Bujnoch made nine. We went 3 for 5 on fourth down and held the ball for 32:13. That's Falcon football."
+        },
+        {
+          "type": "paragraph",
+          "text": "But we gave up 182 rushing yards on just 29 carries, and New Mexico hit too many big plays for us to keep pace."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 9-3, 5-3 in the Mountain West, and we expect a bowl invitation soon. Nine wins from a team of future officers is worth a salute, and one more game in December sounds right. Fly, Fight, Win."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "New Mexico beat Air Force 42-19 on Friday, Nov. 27, at University Stadium. The Falcons are 9-3, 5-3 Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "Evan Medders ran for two touchdowns and threw for 193 yards."
+        },
+        {
+          "type": "fact",
+          "text": "Air Force trailed 21-19 in the third quarter after a failed two-point try."
+        },
+        {
+          "type": "jab",
+          "text": "New Mexico needed a fumble on our first offensive snap after its touchdown to take control."
+        },
+        {
+          "type": "fact",
+          "text": "Next: bowl game to be announced."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, New Mexico 42, Air Force 19 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864546"
+        },
+        {
+          "label": "ESPN play-by-play, Air Force at New Mexico (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864546"
+        },
+        {
+          "label": "ESPN game page, Air Force at New Mexico (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401864546"
+        },
+        {
+          "label": "ESPN Air Force Falcons 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2005"
+        },
+        {
+          "label": "ESPN game recap (AP): New Mexico 42, Air Force 19 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864546"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-new-mexico",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "new-mexico",
+      "team_ids": [
+        "new-mexico"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864546",
+      "title": "New Mexico vs Air Force: Lobos Clinch Home Title Game, 42-19",
+      "byline": "Paloma Begaye-Ortiz, The New Mexico Fanatic",
+      "matchup": "Final: New Mexico Lobos (10-2) 42, Air Force Falcons (9-3) 19, Fri., Nov. 27, University Stadium (NM), Albuquerque. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 310,
+      "text": "Albuquerque, clear your Friday. The Mountain West Championship Game is coming to University Stadium, because New Mexico beat Air Force 42-19 on Black Friday, and the Lobos are 10-2 for the first time since 1982.\n\nOnly the second 10-win season in program history. The most conference wins we've ever had. Our first trip to the Mountain West title game. I've waited my whole life to type those sentences.\n\nKiefer Sibley set the tone. Down 7-0, he broke a 52-yard touchdown run with 3:20 left in the first quarter. On Air Force's very next snap, Mercury Swaim punched the ball loose, Brett Karhu recovered at the Falcons' 24, and two plays later Ricklan Holmes II plowed in from the 1. Fourteen points in less than a minute, and we never trailed again. Sibley finished with 115 yards and two touchdowns on 16 carries.\n\nLuke Moga was surgical, 19 of 26 for 248 yards and three touchdowns. Two of them went to Bailen George, both from 17 yards, and George finished with six catches for 100 yards. Tripp Walsh caught the last one with 1:58 left to make it 42-19.\n\nAir Force hung around until Evan Medders scored in the third quarter and fumbled the two-point try, leaving it 21-19. Then Sibley scored again and Moga hit George again, and the Falcons were done. The Lobos scored the last 21 points of the night.\n\nThis defense is a wrecking crew. Swaim made 12 tackles. Tavian Combs intercepted a throw. Nine more tackles for loss pushed our single-season record to 101, blowing past the old mark of 90, and we have 30 takeaways, the most for this program in 36 years.\n\nWe're 10-2, 7-1 in the Mountain West, and the conference title game is at our place next Friday. Bring your loudest howl, bring the green chile, and bring a friend. Go Lobos.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Albuquerque, clear your Friday. The Mountain West Championship Game is coming to University Stadium, because New Mexico beat Air Force 42-19 on Black Friday, and the Lobos are 10-2 for the first time since 1982."
+        },
+        {
+          "type": "paragraph",
+          "text": "Only the second 10-win season in program history. The most conference wins we've ever had. Our first trip to the Mountain West title game. I've waited my whole life to type those sentences."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kiefer Sibley set the tone. Down 7-0, he broke a 52-yard touchdown run with 3:20 left in the first quarter. On Air Force's very next snap, Mercury Swaim punched the ball loose, Brett Karhu recovered at the Falcons' 24, and two plays later Ricklan Holmes II plowed in from the 1. Fourteen points in less than a minute, and we never trailed again. Sibley finished with 115 yards and two touchdowns on 16 carries."
+        },
+        {
+          "type": "paragraph",
+          "text": "Luke Moga was surgical, 19 of 26 for 248 yards and three touchdowns. Two of them went to Bailen George, both from 17 yards, and George finished with six catches for 100 yards. Tripp Walsh caught the last one with 1:58 left to make it 42-19."
+        },
+        {
+          "type": "paragraph",
+          "text": "Air Force hung around until Evan Medders scored in the third quarter and fumbled the two-point try, leaving it 21-19. Then Sibley scored again and Moga hit George again, and the Falcons were done. The Lobos scored the last 21 points of the night."
+        },
+        {
+          "type": "paragraph",
+          "text": "This defense is a wrecking crew. Swaim made 12 tackles. Tavian Combs intercepted a throw. Nine more tackles for loss pushed our single-season record to 101, blowing past the old mark of 90, and we have 30 takeaways, the most for this program in 36 years."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 10-2, 7-1 in the Mountain West, and the conference title game is at our place next Friday. Bring your loudest howl, bring the green chile, and bring a friend. Go Lobos."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "New Mexico beat Air Force 42-19 on Friday, Nov. 27, at University Stadium. The Lobos are 10-2, 7-1 Mountain West."
+        },
+        {
+          "type": "fact",
+          "text": "New Mexico clinched its first Mountain West Championship Game appearance and will host it."
+        },
+        {
+          "type": "fact",
+          "text": "Kiefer Sibley ran for 115 yards and two touchdowns, and Luke Moga threw three touchdowns."
+        },
+        {
+          "type": "jab",
+          "text": "Air Force went for two to tie it in the third and fumbled the try away."
+        },
+        {
+          "type": "fact",
+          "text": "Next: hosts the Mountain West Championship Game next Friday, opponent to be determined."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, New Mexico 42, Air Force 19 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864546"
+        },
+        {
+          "label": "ESPN play-by-play, Air Force at New Mexico (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864546"
+        },
+        {
+          "label": "ESPN game page, Air Force at New Mexico (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401864546"
+        },
+        {
+          "label": "ESPN New Mexico Lobos 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/167"
+        },
+        {
+          "label": "ESPN game recap (AP): New Mexico 42, Air Force 19 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864546"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-san-jose-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "san-jose-state",
+      "team_ids": [
+        "san-jose-state"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864549",
+      "title": "San José State vs North Dakota State: Clark Shines in Defeat, 31-38",
+      "byline": "Tessa Nakagawa-Ruiz, The San José State Fanatic",
+      "matchup": "Final: North Dakota State Bison (10-2) 38, San José State Spartans (5-8) 31, Fri., Nov. 27, CEFCU Stadium, San Jose. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 318,
+      "text": "San José State fell 38-31 to North Dakota State in our home finale, and the season ends at 5-8. The last snap came from the Bison 4, with four seconds left. I'll be seeing that one in my sleep.\n\nCarson Clark was the best player on the field for us. Thirteen catches, 137 yards, two touchdowns, including a 3-yard grab in the first quarter and a 7-yarder with 9:52 left that made it 38-31. Jerry McClure piled on 117 receiving yards. Luke Weaver threw for 306 yards and ran one in from the 5 to open the fourth quarter. When this offense got going, it was fun to watch.\n\nThe trouble came early and late. NDSU scored 17 straight in the first half, and Ray James Jr. returned a Weaver interception 14 yards for a touchdown in the third. We were down 31-14 and fighting uphill all night.\n\nStill, the Spartans clawed back. Isaiah Carlson scored before halftime. Trajan Sinatra kicked a 30-yarder. Weaver and Clark kept answering. Then came the last drive: 43 seconds, all the way to the red zone, a pre-snap flag that cost us five yards, and an interception at the 4 to end it.\n\nDominique McKenzie gave us a jolt with a 57-yard kickoff return. Isaiah Buxton grabbed an interception, and Brian Dukes Jr. made eight tackles. We held the Bison to 5 of 16 on third down.\n\nThree interceptions and 26 completions on 50 throws were too much to overcome against a team that wins like NDSU does. The Bison won 10 games in their first FBS season for a reason, and Friday showed us why.\n\nWe finish 5-8, and the offseason begins tonight. It will be a long one, and every one of us will spend it replaying four seconds at the Bison 4. Clark, McClure and Weaver gave this city a reason to believe the offense is close. Spartan Up.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "San José State fell 38-31 to North Dakota State in our home finale, and the season ends at 5-8. The last snap came from the Bison 4, with four seconds left. I'll be seeing that one in my sleep."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carson Clark was the best player on the field for us. Thirteen catches, 137 yards, two touchdowns, including a 3-yard grab in the first quarter and a 7-yarder with 9:52 left that made it 38-31. Jerry McClure piled on 117 receiving yards. Luke Weaver threw for 306 yards and ran one in from the 5 to open the fourth quarter. When this offense got going, it was fun to watch."
+        },
+        {
+          "type": "paragraph",
+          "text": "The trouble came early and late. NDSU scored 17 straight in the first half, and Ray James Jr. returned a Weaver interception 14 yards for a touchdown in the third. We were down 31-14 and fighting uphill all night."
+        },
+        {
+          "type": "paragraph",
+          "text": "Still, the Spartans clawed back. Isaiah Carlson scored before halftime. Trajan Sinatra kicked a 30-yarder. Weaver and Clark kept answering. Then came the last drive: 43 seconds, all the way to the red zone, a pre-snap flag that cost us five yards, and an interception at the 4 to end it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dominique McKenzie gave us a jolt with a 57-yard kickoff return. Isaiah Buxton grabbed an interception, and Brian Dukes Jr. made eight tackles. We held the Bison to 5 of 16 on third down."
+        },
+        {
+          "type": "paragraph",
+          "text": "Three interceptions and 26 completions on 50 throws were too much to overcome against a team that wins like NDSU does. The Bison won 10 games in their first FBS season for a reason, and Friday showed us why."
+        },
+        {
+          "type": "paragraph",
+          "text": "We finish 5-8, and the offseason begins tonight. It will be a long one, and every one of us will spend it replaying four seconds at the Bison 4. Clark, McClure and Weaver gave this city a reason to believe the offense is close. Spartan Up."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "North Dakota State beat San José State 38-31 on Friday, Nov. 27, at CEFCU Stadium. The Spartans finish 5-8."
+        },
+        {
+          "type": "fact",
+          "text": "Carson Clark caught 13 throws for 137 yards and two touchdowns, and Luke Weaver threw for 306 yards."
+        },
+        {
+          "type": "fact",
+          "text": "San José State's final drive reached the red zone before an interception at the NDSU 4 with four seconds left."
+        },
+        {
+          "type": "jab",
+          "text": "North Dakota State committed 11 penalties and still needed the final four seconds to get out of San Jose."
+        },
+        {
+          "type": "fact",
+          "text": "Season complete at 5-8."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, North Dakota State 38, San José State 31 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864549"
+        },
+        {
+          "label": "ESPN play-by-play, North Dakota State at San José State (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864549"
+        },
+        {
+          "label": "ESPN game page, North Dakota State at San José State (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401864549"
+        },
+        {
+          "label": "ESPN San José State Spartans 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/23"
+        },
+        {
+          "label": "ESPN game recap (AP): North Dakota State 38, San Jose State 31 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864549"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-north-dakota-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "north-dakota-state",
+      "team_ids": [
+        "north-dakota-state"
+      ],
+      "tab_id": "mwc",
+      "game_id": "401864549",
+      "title": "North Dakota State vs San José State: Brown's Debut Makes 10, 38-31",
+      "byline": "Ingeborg 'Inga' Halvorsen, The North Dakota State Fanatic",
+      "matchup": "Final: North Dakota State Bison (10-2) 38, San José State Spartans (5-8) 31, Fri., Nov. 27, CEFCU Stadium, San Jose. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 316,
+      "text": "Ten wins in our first season of FBS football. Let that sink in, Bison Nation. North Dakota State beat San José State 38-31 at CEFCU Stadium on Black Friday, and a quarterback in his first game as the No. 1 guy got us there.\n\nPreston Brown got the call in place of Nathan Hayes for his first career nod, and on our first drive he uncorked a 49-yard touchdown to Jackson Williams. Welcome to the job, kid. Brown finished 12 of 23 for 226 yards, and when the Spartans cut it to 31-24 early in the fourth quarter, he answered with a 5-yard touchdown run to make it 38-24. That's poise you can't teach.\n\nWilliams was terrific, seven catches for 117 yards. DJ Scott punched in two short touchdowns in a span of less than three minutes across the first and second quarters, and he finished with 86 rushing yards. Drew Klein's 31-yard field goal made it 24-7, and we looked ready to cruise.\n\nThen the defense did what this defense does. Ray James Jr. stepped in front of a Luke Weaver throw and returned it 14 yards to the end zone in the third quarter, 31-14. That's the sixth defensive touchdown for the Bison this season. Gavin Sell and Jaylen Archibald added interceptions, and Sell's came at our 4 with four seconds left to end it. San José State reached the red zone on that last drive and came away empty.\n\nI'll admit the Spartans made it nervous. Weaver threw for 306 yards, and Carson Clark caught 13 balls. We committed 11 penalties for 85 yards, and that has to get fixed before December.\n\nBut 10-2 is 10-2. Now we wait to see whether the Mountain West championship game is in our future. Whatever comes next, this first FBS season already belongs in the trophy case next to all the others in Fargo. Go Bison.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ten wins in our first season of FBS football. Let that sink in, Bison Nation. North Dakota State beat San José State 38-31 at CEFCU Stadium on Black Friday, and a quarterback in his first game as the No. 1 guy got us there."
+        },
+        {
+          "type": "paragraph",
+          "text": "Preston Brown got the call in place of Nathan Hayes for his first career nod, and on our first drive he uncorked a 49-yard touchdown to Jackson Williams. Welcome to the job, kid. Brown finished 12 of 23 for 226 yards, and when the Spartans cut it to 31-24 early in the fourth quarter, he answered with a 5-yard touchdown run to make it 38-24. That's poise you can't teach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Williams was terrific, seven catches for 117 yards. DJ Scott punched in two short touchdowns in a span of less than three minutes across the first and second quarters, and he finished with 86 rushing yards. Drew Klein's 31-yard field goal made it 24-7, and we looked ready to cruise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the defense did what this defense does. Ray James Jr. stepped in front of a Luke Weaver throw and returned it 14 yards to the end zone in the third quarter, 31-14. That's the sixth defensive touchdown for the Bison this season. Gavin Sell and Jaylen Archibald added interceptions, and Sell's came at our 4 with four seconds left to end it. San José State reached the red zone on that last drive and came away empty."
+        },
+        {
+          "type": "paragraph",
+          "text": "I'll admit the Spartans made it nervous. Weaver threw for 306 yards, and Carson Clark caught 13 balls. We committed 11 penalties for 85 yards, and that has to get fixed before December."
+        },
+        {
+          "type": "paragraph",
+          "text": "But 10-2 is 10-2. Now we wait to see whether the Mountain West championship game is in our future. Whatever comes next, this first FBS season already belongs in the trophy case next to all the others in Fargo. Go Bison."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "North Dakota State beat San José State 38-31 on Friday, Nov. 27, at CEFCU Stadium. The Bison are 10-2 in their first FBS season."
+        },
+        {
+          "type": "fact",
+          "text": "Preston Brown, in his first career nod at quarterback, threw a 49-yard touchdown to Jackson Williams and ran for another score."
+        },
+        {
+          "type": "fact",
+          "text": "Ray James Jr. returned an interception 14 yards for a touchdown, the Bison's sixth defensive score this season."
+        },
+        {
+          "type": "jab",
+          "text": "San José State threw 50 times and handed us three of them."
+        },
+        {
+          "type": "fact",
+          "text": "Next: waiting to learn whether it plays in the Mountain West championship game."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, North Dakota State 38, San José State 31 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401864549"
+        },
+        {
+          "label": "ESPN play-by-play, North Dakota State at San José State (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401864549"
+        },
+        {
+          "label": "ESPN game page, North Dakota State at San José State (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401864549"
+        },
+        {
+          "label": "ESPN North Dakota State Bison 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2449"
+        },
+        {
+          "label": "ESPN game recap (AP): North Dakota State 38, San Jose State 31 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401864549"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-memphis",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "memphis",
+      "team_ids": [
+        "memphis"
+      ],
+      "tab_id": "aac",
+      "game_id": "401862838",
+      "title": "Memphis vs Temple: A 17-Point Fourth-Quarter Lead Slips Away, 31-35",
+      "byline": "Otis Delaney-Crum, The Memphis Fanatic",
+      "matchup": "Final: Temple Owls (3-9) 35, Memphis Tigers (8-4) 31, Fri., Nov. 27, Simmons Bank Liberty Stadium, Memphis. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 307,
+      "text": "I don't have words for this, so I'll use numbers. Memphis led Temple 31-14 after three quarters at Simmons Bank Liberty Stadium. Final: Temple 35, Memphis 31. The Owls came in 2-9. And our chance at the conference title game probably went with it.\n\nFor three quarters, the Tigers looked like a team ready for December. Marcus Stokes hit Stonka Burnside for a 39-yard touchdown on the opening drive. Jaylin Carter ran in from 4 and from 3. Jemyri Davis took a Stokes throw 41 yards to the end zone early in the third. Burnside finished with 117 yards on five catches, and Carter ran 21 times for 103 yards. Stokes averaged 13.7 yards a throw.\n\nThen it all came apart. Pinned deep after a great Temple punt, Stokes threw an interception that Saboor Karriem took back for six barely a minute into the fourth. Temple went 94 yards in 16 plays to make it 31-28. And with 1:45 left, holding the lead, Stokes threw a second interception on third-and-13. Jaxon Smolik drove the Owls 55 yards and found JoJo Bermudez for the winner with 13 seconds left.\n\nThree turnovers. Temple held the ball for 34:38 and converted 9 of 16 on third down. Our defense, which had played well for three quarters, was gassed by the end.\n\nCredit where it's due on our side: Mike Montgomery made 12 tackles, and Beni Mwamba returned an interception 48 yards. Those guys deserved a better ending.\n\nWe're 8-4, 5-3 in the American. We needed a win and a North Texas loss to reach the title game against UTSA. Now we wait on Saturday's results and the computer rankings, and I can't bear to look. Whatever bowl comes, this team owes our home crowd of 30,610 a better final quarter than the one they sat through Friday. Go Tigers Go.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I don't have words for this, so I'll use numbers. Memphis led Temple 31-14 after three quarters at Simmons Bank Liberty Stadium. Final: Temple 35, Memphis 31. The Owls came in 2-9. And our chance at the conference title game probably went with it."
+        },
+        {
+          "type": "paragraph",
+          "text": "For three quarters, the Tigers looked like a team ready for December. Marcus Stokes hit Stonka Burnside for a 39-yard touchdown on the opening drive. Jaylin Carter ran in from 4 and from 3. Jemyri Davis took a Stokes throw 41 yards to the end zone early in the third. Burnside finished with 117 yards on five catches, and Carter ran 21 times for 103 yards. Stokes averaged 13.7 yards a throw."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then it all came apart. Pinned deep after a great Temple punt, Stokes threw an interception that Saboor Karriem took back for six barely a minute into the fourth. Temple went 94 yards in 16 plays to make it 31-28. And with 1:45 left, holding the lead, Stokes threw a second interception on third-and-13. Jaxon Smolik drove the Owls 55 yards and found JoJo Bermudez for the winner with 13 seconds left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Three turnovers. Temple held the ball for 34:38 and converted 9 of 16 on third down. Our defense, which had played well for three quarters, was gassed by the end."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit where it's due on our side: Mike Montgomery made 12 tackles, and Beni Mwamba returned an interception 48 yards. Those guys deserved a better ending."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 8-4, 5-3 in the American. We needed a win and a North Texas loss to reach the title game against UTSA. Now we wait on Saturday's results and the computer rankings, and I can't bear to look. Whatever bowl comes, this team owes our home crowd of 30,610 a better final quarter than the one they sat through Friday. Go Tigers Go."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Temple beat Memphis 35-31 on Friday, Nov. 27, at Simmons Bank Liberty Stadium. The Tigers are 8-4, 5-3 American."
+        },
+        {
+          "type": "fact",
+          "text": "Memphis led 31-14 entering the fourth quarter. Stonka Burnside caught five throws for 117 yards and a touchdown."
+        },
+        {
+          "type": "fact",
+          "text": "Jaylin Carter ran for 103 yards and two touchdowns."
+        },
+        {
+          "type": "jab",
+          "text": "Temple came in on a six-game losing streak. That's the part that hurts."
+        },
+        {
+          "type": "fact",
+          "text": "Next: bowl game to be announced; title-game hopes depend on Saturday's results."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Temple 35, Memphis 31 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862838"
+        },
+        {
+          "label": "ESPN play-by-play, Temple at Memphis (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401862838"
+        },
+        {
+          "label": "ESPN game page, Temple at Memphis (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401862838"
+        },
+        {
+          "label": "ESPN Memphis Tigers 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/235"
+        },
+        {
+          "label": "ESPN game recap (AP): Temple 35, Memphis 31 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401862838"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-temple",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "temple",
+      "team_ids": [
+        "temple"
+      ],
+      "tab_id": "aac",
+      "game_id": "401862838",
+      "title": "Temple vs Memphis: Owls Erase 17 in the Fourth, Stun Tigers, 35-31",
+      "byline": "Teddy Fiorella, The Temple Fanatic",
+      "matchup": "Final: Temple Owls (3-9) 35, Memphis Tigers (8-4) 31, Fri., Nov. 27, Simmons Bank Liberty Stadium, Memphis. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 311,
+      "text": "Thirteen seconds left. Jaxon Smolik to JoJo Bermudez, 11 yards, touchdown. Temple 35, Memphis 31, and my voice is gone from North Broad Street to the Delaware River. The Owls were down 31-14 when the fourth quarter began at Simmons Bank Liberty Stadium. They won anyway.\n\nThis comeback had layers. First, Dante Atton dropped a punt inside the Memphis 5. On the very next snap, Saboor Karriem jumped a Marcus Stokes throw and took it 10 yards for a touchdown, 61 seconds into the quarter. 31-21. Then De'Carlos Young capped a 16-play, 94-yard march with a 4-yard touchdown run, and it was 31-28 with 7:03 to go.\n\nMemphis still had the ball and the lead with two minutes to play, and we needed one more miracle. We got it. Then Jaeden Gould intercepted Stokes on third-and-13 and brought it back 26 yards to our 45 with 1:45 left. Smolik took off for 19 yards on third-and-10. He hit Young for 11. Then Bermudez, in the end zone, with 13 seconds on the clock. Six straight losses, gone in a blink.\n\nSmolik was gutsy all night: 20 of 34 for 200 yards, plus 54 rushing yards and a 1-yard touchdown run in the first quarter. Young carried 16 times for 94 yards and two scores. Curly Ordonez made 14 tackles. We converted 9 of 16 third downs and held the ball for 34:38.\n\nYes, we finish 3-9, 2-6 in the American. Yes, this season tested every one of us. But the last memory of 2026 is the Owls walking off a field in Memphis with a win that probably knocked the Tigers out of the conference title race.\n\nThat's the kind of finish you build on. A team that never stopped fighting in a lost season gives you a reason to believe come August. Bring on next year. T for Temple U.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Thirteen seconds left. Jaxon Smolik to JoJo Bermudez, 11 yards, touchdown. Temple 35, Memphis 31, and my voice is gone from North Broad Street to the Delaware River. The Owls were down 31-14 when the fourth quarter began at Simmons Bank Liberty Stadium. They won anyway."
+        },
+        {
+          "type": "paragraph",
+          "text": "This comeback had layers. First, Dante Atton dropped a punt inside the Memphis 5. On the very next snap, Saboor Karriem jumped a Marcus Stokes throw and took it 10 yards for a touchdown, 61 seconds into the quarter. 31-21. Then De'Carlos Young capped a 16-play, 94-yard march with a 4-yard touchdown run, and it was 31-28 with 7:03 to go."
+        },
+        {
+          "type": "paragraph",
+          "text": "Memphis still had the ball and the lead with two minutes to play, and we needed one more miracle. We got it. Then Jaeden Gould intercepted Stokes on third-and-13 and brought it back 26 yards to our 45 with 1:45 left. Smolik took off for 19 yards on third-and-10. He hit Young for 11. Then Bermudez, in the end zone, with 13 seconds on the clock. Six straight losses, gone in a blink."
+        },
+        {
+          "type": "paragraph",
+          "text": "Smolik was gutsy all night: 20 of 34 for 200 yards, plus 54 rushing yards and a 1-yard touchdown run in the first quarter. Young carried 16 times for 94 yards and two scores. Curly Ordonez made 14 tackles. We converted 9 of 16 third downs and held the ball for 34:38."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes, we finish 3-9, 2-6 in the American. Yes, this season tested every one of us. But the last memory of 2026 is the Owls walking off a field in Memphis with a win that probably knocked the Tigers out of the conference title race."
+        },
+        {
+          "type": "paragraph",
+          "text": "That's the kind of finish you build on. A team that never stopped fighting in a lost season gives you a reason to believe come August. Bring on next year. T for Temple U."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Temple beat Memphis 35-31 on Friday, Nov. 27, at Simmons Bank Liberty Stadium. The Owls finish 3-9, 2-6 American."
+        },
+        {
+          "type": "fact",
+          "text": "Temple trailed 31-14 to open the fourth quarter and won on Jaxon Smolik's 11-yard touchdown throw to JoJo Bermudez with 13 seconds left."
+        },
+        {
+          "type": "fact",
+          "text": "Saboor Karriem returned an interception 10 yards for a touchdown, and Jaeden Gould's interception set up the winning drive."
+        },
+        {
+          "type": "jab",
+          "text": "Memphis led by 17 with 15 minutes to play. That's all we needed."
+        },
+        {
+          "type": "fact",
+          "text": "Season complete at 3-9."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Temple 35, Memphis 31 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862838"
+        },
+        {
+          "label": "ESPN play-by-play, Temple at Memphis (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401862838"
+        },
+        {
+          "label": "ESPN game page, Temple at Memphis (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401862838"
+        },
+        {
+          "label": "ESPN Temple Owls 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/218"
+        },
+        {
+          "label": "ESPN game recap (AP): Temple 35, Memphis 31 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401862838"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-florida-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "florida-state",
+      "team_ids": [
+        "florida-state"
+      ],
+      "tab_id": "acc",
+      "game_id": "401856759",
+      "title": "Florida State vs Florida: Short-Handed Noles Fall at Doak, 10-26",
+      "byline": "Gianna Ravello, The Florida State Fanatic",
+      "matchup": "Final: Florida Gators (8-4) 26, Florida State Seminoles (5-7) 10, Fri., Nov. 27, Doak Campbell Stadium, Tallahassee. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 308,
+      "text": "The Gators came to our house and left with a 26-10 win, and Florida State's season ends at 5-7. Three straight losses to the Gators. I'll say it plainly: that stings worse than the record.\n\nWe had our moments. Micahi Danzy turned a short catch into a 64-yard gallop in the second quarter, and Gabe Panikowski's 27-yard field goal made it 7-3. Down 17-3 in the third, Kevin Sperry came in for a series and threw a 9-yard touchdown to Landen Thomas on fourth down. That made it 17-10, and for a few minutes Doak believed.\n\nThen Patrick Durkin kicked three field goals in the fourth quarter, and that was the ballgame. We couldn't flip the field all day; our punts averaged 32.9 yards, and the defense kept defending short fields. Ashton Daniels was 18 of 32 for 183 yards and threw two interceptions. We went 5 of 17 on third down.\n\nWe were down to our fifth running back, and Zay Parks still gave us 55 yards on 14 carries. That tells you about the kid. Jasen Lopez caught seven balls. Nehemiah Chandler intercepted Tramell Jones Jr. in the fourth quarter, and K.J. Kirkland made eight tackles.\n\nHere's the part I want to remember: Rick Stockstill stepped in as interim coach after Mike Norvell was dismissed on Nov. 1, and this group went 2-2 the rest of the way. They didn't quit, even shorthanded, even with the Gators chasing a third straight rivalry win.\n\nThe defense held Florida to 282 yards and 10 first downs. That's a group that deserved more help.\n\nNow comes a long offseason and a coaching search that will shape the next few years of this program. The Gators have had their run, three straight. Streaks end. Ours against them will begin somewhere, and I want it to be next November. Go Noles.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Gators came to our house and left with a 26-10 win, and Florida State's season ends at 5-7. Three straight losses to the Gators. I'll say it plainly: that stings worse than the record."
+        },
+        {
+          "type": "paragraph",
+          "text": "We had our moments. Micahi Danzy turned a short catch into a 64-yard gallop in the second quarter, and Gabe Panikowski's 27-yard field goal made it 7-3. Down 17-3 in the third, Kevin Sperry came in for a series and threw a 9-yard touchdown to Landen Thomas on fourth down. That made it 17-10, and for a few minutes Doak believed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Patrick Durkin kicked three field goals in the fourth quarter, and that was the ballgame. We couldn't flip the field all day; our punts averaged 32.9 yards, and the defense kept defending short fields. Ashton Daniels was 18 of 32 for 183 yards and threw two interceptions. We went 5 of 17 on third down."
+        },
+        {
+          "type": "paragraph",
+          "text": "We were down to our fifth running back, and Zay Parks still gave us 55 yards on 14 carries. That tells you about the kid. Jasen Lopez caught seven balls. Nehemiah Chandler intercepted Tramell Jones Jr. in the fourth quarter, and K.J. Kirkland made eight tackles."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's the part I want to remember: Rick Stockstill stepped in as interim coach after Mike Norvell was dismissed on Nov. 1, and this group went 2-2 the rest of the way. They didn't quit, even shorthanded, even with the Gators chasing a third straight rivalry win."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense held Florida to 282 yards and 10 first downs. That's a group that deserved more help."
+        },
+        {
+          "type": "paragraph",
+          "text": "Now comes a long offseason and a coaching search that will shape the next few years of this program. The Gators have had their run, three straight. Streaks end. Ours against them will begin somewhere, and I want it to be next November. Go Noles."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Florida beat Florida State 26-10 on Friday, Nov. 27, at Doak Campbell Stadium. The Seminoles finish 5-7."
+        },
+        {
+          "type": "fact",
+          "text": "Kevin Sperry threw a 9-yard fourth-down touchdown to Landen Thomas to make it 17-10 in the third quarter."
+        },
+        {
+          "type": "fact",
+          "text": "The Seminoles went 2-2 with Rick Stockstill as interim coach."
+        },
+        {
+          "type": "jab",
+          "text": "Florida managed 10 first downs and needed four field goals to put us away."
+        },
+        {
+          "type": "fact",
+          "text": "Season complete at 5-7."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Florida 26, Florida State 10 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856759"
+        },
+        {
+          "label": "ESPN play-by-play, Florida at Florida State (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856759"
+        },
+        {
+          "label": "ESPN game page, Florida at Florida State (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856759"
+        },
+        {
+          "label": "ESPN Florida State Seminoles 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/52"
+        },
+        {
+          "label": "ESPN game recap (AP): Florida 26, Florida State 10 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856759"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-florida",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "florida",
+      "team_ids": [
+        "florida"
+      ],
+      "tab_id": "sec",
+      "game_id": "401856759",
+      "title": "Florida vs Florida State: Baugh Makes History in Tallahassee, 26-10",
+      "byline": "Dax Marchetti, The Florida Fanatic",
+      "matchup": "Final: Florida Gators (8-4) 26, Florida State Seminoles (5-7) 10, Fri., Nov. 27, Doak Campbell Stadium, Tallahassee. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 326,
+      "text": "Three in a row against the Seminoles. Say it louder for the folks in Tallahassee. Florida went into Doak Campbell Stadium on Black Friday, beat Florida State 26-10 in front of 67,277, and Jadan Baugh wrote his name into Gator history while he was at it.\n\nBaugh got us on the board with a 3-yard touchdown run late in the first quarter, and somewhere in that first half he crossed 1,000 rushing yards for the season. That makes him the first Florida tailback ever with back-to-back 1,000-yard seasons. He finished with 77 yards on 19 carries and sits at 1,057 for the year with a bowl game still to come.\n\nAaron Philo was sharp before he left the game, 9 of 12 for 127 yards. He hit Eric Singleton Jr. on a 65-yard strike down to the Florida State 7 in the first quarter, and his 37-yard scramble in the third set up Tramell Jones Jr., who came in and plunged in from the 1 to make it 17-3. Jones signed with Florida after committing to Florida State, so you know that one felt good. The Seminoles answered on a fourth-down touchdown throw, 17-10, and then Patrick Durkin went to work.\n\nDurkin was perfect: 33, 37, 42 and 25 yards. Four kicks, four makes, 14 points. Every time Florida State thought it had a pulse, Durkin pushed the margin back to double digits. Give that man a parking spot.\n\nAnd the defense was nasty. Jayden Woods had three sacks. Three! J'Vari Flowers intercepted Ashton Daniels twice. Myles Graham made 12 tackles. We forced seven punts and held the Seminoles to 98 rushing yards on 37 carries.\n\nWe're 8-4. A year ago this program was 4-8. Jon Sumrall's first team flipped the record, won its last three, and owns this rivalry again, six wins in the last eight meetings. We'll learn the bowl destination on Dec. 6, and I'm already shopping for orange and blue. Go Gators.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Three in a row against the Seminoles. Say it louder for the folks in Tallahassee. Florida went into Doak Campbell Stadium on Black Friday, beat Florida State 26-10 in front of 67,277, and Jadan Baugh wrote his name into Gator history while he was at it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Baugh got us on the board with a 3-yard touchdown run late in the first quarter, and somewhere in that first half he crossed 1,000 rushing yards for the season. That makes him the first Florida tailback ever with back-to-back 1,000-yard seasons. He finished with 77 yards on 19 carries and sits at 1,057 for the year with a bowl game still to come."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aaron Philo was sharp before he left the game, 9 of 12 for 127 yards. He hit Eric Singleton Jr. on a 65-yard strike down to the Florida State 7 in the first quarter, and his 37-yard scramble in the third set up Tramell Jones Jr., who came in and plunged in from the 1 to make it 17-3. Jones signed with Florida after committing to Florida State, so you know that one felt good. The Seminoles answered on a fourth-down touchdown throw, 17-10, and then Patrick Durkin went to work."
+        },
+        {
+          "type": "paragraph",
+          "text": "Durkin was perfect: 33, 37, 42 and 25 yards. Four kicks, four makes, 14 points. Every time Florida State thought it had a pulse, Durkin pushed the margin back to double digits. Give that man a parking spot."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the defense was nasty. Jayden Woods had three sacks. Three! J'Vari Flowers intercepted Ashton Daniels twice. Myles Graham made 12 tackles. We forced seven punts and held the Seminoles to 98 rushing yards on 37 carries."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 8-4. A year ago this program was 4-8. Jon Sumrall's first team flipped the record, won its last three, and owns this rivalry again, six wins in the last eight meetings. We'll learn the bowl destination on Dec. 6, and I'm already shopping for orange and blue. Go Gators."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Florida beat Florida State 26-10 on Friday, Nov. 27, at Doak Campbell Stadium. The Gators are 8-4."
+        },
+        {
+          "type": "fact",
+          "text": "Jadan Baugh became the first Florida tailback with back-to-back 1,000-yard seasons and scored on a 3-yard run."
+        },
+        {
+          "type": "fact",
+          "text": "Patrick Durkin made four field goals, Jayden Woods had three sacks and J'Vari Flowers had two interceptions."
+        },
+        {
+          "type": "jab",
+          "text": "Florida State's best play was a 64-yard catch that ended in a field goal."
+        },
+        {
+          "type": "fact",
+          "text": "Next: bowl destination announced Dec. 6."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Florida 26, Florida State 10 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856759"
+        },
+        {
+          "label": "ESPN play-by-play, Florida at Florida State (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856759"
+        },
+        {
+          "label": "ESPN game page, Florida at Florida State (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856759"
+        },
+        {
+          "label": "ESPN Florida Gators 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/57"
+        },
+        {
+          "label": "ESPN game recap (AP): Florida 26, Florida State 10 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856759"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-app-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "app-state",
+      "team_ids": [
+        "app-state"
+      ],
+      "tab_id": "sunbelt",
+      "game_id": "401869930",
+      "title": "App State vs South Alabama: Two Trips Die in the End Zone, 13-20",
+      "byline": "Zebulon 'Zeb' Coldiron, The App State Fanatic",
+      "matchup": "Final: South Alabama Jaguars (7-5) 20, App State Mountaineers (7-5) 13, Fri., Nov. 27, Hancock Whitney Stadium, Mobile. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 306,
+      "text": "App State lost 20-13 at South Alabama on Friday, and I keep replaying two interceptions in the end zone and one fourth-and-inches run that went nowhere. Three trips that could have changed the night in Mobile, and we came away with zero points and a heartache.\n\nWe dug out of a 10-0 hole with real grit. Jaquari Lewis plunged in from the 1 in the second quarter, and James London hit field goals from 42 and 29 yards. When London's second kick went through with 6:49 left in the third, we led 13-10, and the Mountaineers had the Jaguars on their heels.\n\nThen the fourth quarter. Malachi Singleton threw an interception in the end zone early in the quarter. Next drive, with the score tied at 13, we went for it on fourth-and-inches, and Lewis got stopped for no gain with 5:44 left. South Alabama marched 73 yards and scored with 1:46 to go. We had one more chance, and Singleton's final throw died in a Jaguar's arms in the end zone in the closing seconds.\n\nIt hurts more because we played well for long stretches. Singleton completed 22 of 28 throws for 240 yards. Darrin Fugitt caught five for 79, and Chris Lofton and Nate Branch kept the chains moving. Lewis carried 25 times for 93 yards and our touchdown. We had more first downs, 23 to 15, and held the ball for 31:05. Colton Phares made eight tackles, and Devin Henderson came up with an interception of his own.\n\nBut you can't leave points at the doorstep twice in one quarter and expect to win on the road in this league.\n\nWe finish the regular season 7-5, 5-3 in league play, with a bowl bid likely. One more game in black and gold sounds good to me, and this group earned it. Go Apps.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "App State lost 20-13 at South Alabama on Friday, and I keep replaying two interceptions in the end zone and one fourth-and-inches run that went nowhere. Three trips that could have changed the night in Mobile, and we came away with zero points and a heartache."
+        },
+        {
+          "type": "paragraph",
+          "text": "We dug out of a 10-0 hole with real grit. Jaquari Lewis plunged in from the 1 in the second quarter, and James London hit field goals from 42 and 29 yards. When London's second kick went through with 6:49 left in the third, we led 13-10, and the Mountaineers had the Jaguars on their heels."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the fourth quarter. Malachi Singleton threw an interception in the end zone early in the quarter. Next drive, with the score tied at 13, we went for it on fourth-and-inches, and Lewis got stopped for no gain with 5:44 left. South Alabama marched 73 yards and scored with 1:46 to go. We had one more chance, and Singleton's final throw died in a Jaguar's arms in the end zone in the closing seconds."
+        },
+        {
+          "type": "paragraph",
+          "text": "It hurts more because we played well for long stretches. Singleton completed 22 of 28 throws for 240 yards. Darrin Fugitt caught five for 79, and Chris Lofton and Nate Branch kept the chains moving. Lewis carried 25 times for 93 yards and our touchdown. We had more first downs, 23 to 15, and held the ball for 31:05. Colton Phares made eight tackles, and Devin Henderson came up with an interception of his own."
+        },
+        {
+          "type": "paragraph",
+          "text": "But you can't leave points at the doorstep twice in one quarter and expect to win on the road in this league."
+        },
+        {
+          "type": "paragraph",
+          "text": "We finish the regular season 7-5, 5-3 in league play, with a bowl bid likely. One more game in black and gold sounds good to me, and this group earned it. Go Apps."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "South Alabama beat App State 20-13 on Friday, Nov. 27, at Hancock Whitney Stadium. The Mountaineers are 7-5, 5-3 Sun Belt."
+        },
+        {
+          "type": "fact",
+          "text": "App State led 13-10 in the third quarter after two James London field goals."
+        },
+        {
+          "type": "fact",
+          "text": "Malachi Singleton completed 22 of 28 throws for 240 yards."
+        },
+        {
+          "type": "jab",
+          "text": "South Alabama had eight fewer first downs and needed two end-zone interceptions to survive."
+        },
+        {
+          "type": "fact",
+          "text": "Next: bowl game to be announced."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, South Alabama 20, App State 13 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401869930"
+        },
+        {
+          "label": "ESPN play-by-play, App State at South Alabama (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401869930"
+        },
+        {
+          "label": "ESPN game page, App State at South Alabama (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401869930"
+        },
+        {
+          "label": "ESPN App State Mountaineers 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2026"
+        },
+        {
+          "label": "ESPN game recap (AP): South Alabama 20, App State 13 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401869930"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-south-alabama",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "south-alabama",
+      "team_ids": [
+        "south-alabama"
+      ],
+      "tab_id": "sunbelt",
+      "game_id": "401869930",
+      "title": "South Alabama vs App State: Two End-Zone Interceptions Win It, 20-13",
+      "byline": "Azalea Fairhope-Grice, The South Alabama Fanatic",
+      "matchup": "Final: South Alabama Jaguars (7-5) 20, App State Mountaineers (7-5) 13, Fri., Nov. 27, Hancock Whitney Stadium, Mobile. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 308,
+      "text": "Two interceptions in our own end zone, one fourth-down stuff, and one 73-yard drive. That's the recipe South Alabama used to beat App State 20-13 on Black Friday at Hancock Whitney Stadium, and Mobile is going to sleep happy.\n\nWe jumped out fast. Bishop Davenport hit Everett Hunter for a 6-yard touchdown in the first quarter, and Dylan Freebury tacked on a 21-yard field goal for a 10-0 lead. Then App State spent the next two quarters chipping away with a touchdown and two James London field goals, and we trailed 13-10 in the third. Freebury tied it from 34 with 1:04 left in the quarter.\n\nThis is where the defense took the game. Kam Robinson intercepted Malachi Singleton in the end zone early in the fourth. On App State's next drive, the Mountaineers went for it on fourth-and-inches, and we stuffed Jaquari Lewis for no gain with 5:44 left. That stop gave the ball back to Davenport, and he went to work.\n\nEleven plays. Seventy-three yards. Keenan Phillips finished it with a 7-yard touchdown run with 1:46 left, and it was 20-13. App State drove one last time, and Jayvon Henderson chose the perfect moment for an interception in the end zone in the closing seconds. Ballgame, Jaguars.\n\nDavenport was 15 of 25 for 211 yards and a touchdown, and he ran for 40 more. Anthony Eager caught four balls for 72 yards. Camen Upshaw was everywhere with 14 tackles and a sack, and Masey Lewis added a sack and a half.\n\nThe Mountaineers held the ball longer and had more first downs, but we had the two biggest defensive plays of the night, and both came with our backs against the wall.\n\nWe're 7-5, 5-3 in the Sun Belt, and bowl season is next. This defense earned every one of those seven wins. Jag Up, Mobile.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Two interceptions in our own end zone, one fourth-down stuff, and one 73-yard drive. That's the recipe South Alabama used to beat App State 20-13 on Black Friday at Hancock Whitney Stadium, and Mobile is going to sleep happy."
+        },
+        {
+          "type": "paragraph",
+          "text": "We jumped out fast. Bishop Davenport hit Everett Hunter for a 6-yard touchdown in the first quarter, and Dylan Freebury tacked on a 21-yard field goal for a 10-0 lead. Then App State spent the next two quarters chipping away with a touchdown and two James London field goals, and we trailed 13-10 in the third. Freebury tied it from 34 with 1:04 left in the quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is where the defense took the game. Kam Robinson intercepted Malachi Singleton in the end zone early in the fourth. On App State's next drive, the Mountaineers went for it on fourth-and-inches, and we stuffed Jaquari Lewis for no gain with 5:44 left. That stop gave the ball back to Davenport, and he went to work."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eleven plays. Seventy-three yards. Keenan Phillips finished it with a 7-yard touchdown run with 1:46 left, and it was 20-13. App State drove one last time, and Jayvon Henderson chose the perfect moment for an interception in the end zone in the closing seconds. Ballgame, Jaguars."
+        },
+        {
+          "type": "paragraph",
+          "text": "Davenport was 15 of 25 for 211 yards and a touchdown, and he ran for 40 more. Anthony Eager caught four balls for 72 yards. Camen Upshaw was everywhere with 14 tackles and a sack, and Masey Lewis added a sack and a half."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Mountaineers held the ball longer and had more first downs, but we had the two biggest defensive plays of the night, and both came with our backs against the wall."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 7-5, 5-3 in the Sun Belt, and bowl season is next. This defense earned every one of those seven wins. Jag Up, Mobile."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "South Alabama beat App State 20-13 on Friday, Nov. 27, at Hancock Whitney Stadium. The Jaguars are 7-5, 5-3 Sun Belt."
+        },
+        {
+          "type": "fact",
+          "text": "Keenan Phillips scored on a 7-yard run with 1:46 left to cap an 11-play, 73-yard drive."
+        },
+        {
+          "type": "fact",
+          "text": "Kam Robinson and Jayvon Henderson each intercepted Malachi Singleton in the end zone."
+        },
+        {
+          "type": "jab",
+          "text": "App State tried fourth-and-inches with the game tied. We said no."
+        },
+        {
+          "type": "fact",
+          "text": "Next: bowl game to be announced."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, South Alabama 20, App State 13 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401869930"
+        },
+        {
+          "label": "ESPN play-by-play, App State at South Alabama (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401869930"
+        },
+        {
+          "label": "ESPN game page, App State at South Alabama (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401869930"
+        },
+        {
+          "label": "ESPN South Alabama Jaguars 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/6"
+        },
+        {
+          "label": "ESPN game recap (AP): South Alabama 20, App State 13 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401869930"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ohio",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "ohio",
+      "team_ids": [
+        "ohio"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866473",
+      "title": "Ohio vs Toledo: Levi Davis Rallies Us, Rockets Win at the Gun, 31-34",
+      "byline": "Penny Trautman, The Ohio Fanatic",
+      "matchup": "Final: Toledo Rockets (10-2) 34, Ohio Bobcats (8-4) 31, Fri., Nov. 27, Peden Stadium, Athens. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 314,
+      "text": "Ohio lost 34-31 to Toledo on a field goal with no time left at Peden Stadium, and I'm going to need the whole weekend. We were down 17-0. We came back. We led. And then 44 seconds broke my heart.\n\nLet's talk about Levi Davis, because the freshman deserves the headline. He came on for Nick Poulos midway through the second quarter with us trailing 17-0 and went 17 of 28 for 288 yards. His first drive ended in a field goal. His second ended in the end zone. He found Riley Neer for a 16-yard touchdown with eight seconds left in the half, ran in from the 1 to tie it at 17 in the third, and broke a 23-yard touchdown run with 4:55 left that gave us a 31-24 lead. Seventy rushing yards and two scores on the ground, too. Athens has a new hero, and he's only a freshman.\n\nPreston Bowman caught eight balls for 150 yards. Dom Dorwart caught seven for 120. Victor Rosa plowed in from the 1 to tie it at 24. We piled up 458 yards, and for most of the second half the Bobcats looked like the better team.\n\nThen the ending. Toledo tied it at 31 with 1:33 left. We went three-and-out. A punt return, a facemask penalty, seven plays, and Reice Griffith hit from 22 as the clock ran out. I've watched a lot of Ohio football. Few losses felt as cruel as this one. A three-and-out with the game tied is the snap I'll replay all winter.\n\nDarren James-Hamilton and Charlie Christopher each made 10 tackles, and Kendall Bannister recovered a fumble. Toledo still ran for 226 yards, and that's where the game slipped away.\n\nWe're 8-4, 6-2 in the MAC, and a bowl invitation should be coming. Davis gives this program a reason to circle next August already. Stand Up and Cheer.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ohio lost 34-31 to Toledo on a field goal with no time left at Peden Stadium, and I'm going to need the whole weekend. We were down 17-0. We came back. We led. And then 44 seconds broke my heart."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let's talk about Levi Davis, because the freshman deserves the headline. He came on for Nick Poulos midway through the second quarter with us trailing 17-0 and went 17 of 28 for 288 yards. His first drive ended in a field goal. His second ended in the end zone. He found Riley Neer for a 16-yard touchdown with eight seconds left in the half, ran in from the 1 to tie it at 17 in the third, and broke a 23-yard touchdown run with 4:55 left that gave us a 31-24 lead. Seventy rushing yards and two scores on the ground, too. Athens has a new hero, and he's only a freshman."
+        },
+        {
+          "type": "paragraph",
+          "text": "Preston Bowman caught eight balls for 150 yards. Dom Dorwart caught seven for 120. Victor Rosa plowed in from the 1 to tie it at 24. We piled up 458 yards, and for most of the second half the Bobcats looked like the better team."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then the ending. Toledo tied it at 31 with 1:33 left. We went three-and-out. A punt return, a facemask penalty, seven plays, and Reice Griffith hit from 22 as the clock ran out. I've watched a lot of Ohio football. Few losses felt as cruel as this one. A three-and-out with the game tied is the snap I'll replay all winter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Darren James-Hamilton and Charlie Christopher each made 10 tackles, and Kendall Bannister recovered a fumble. Toledo still ran for 226 yards, and that's where the game slipped away."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 8-4, 6-2 in the MAC, and a bowl invitation should be coming. Davis gives this program a reason to circle next August already. Stand Up and Cheer."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Toledo beat Ohio 34-31 on Friday, Nov. 27, at Peden Stadium on a field goal as time expired. The Bobcats are 8-4, 6-2 MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Freshman Levi Davis threw for 288 yards and a touchdown and ran for two more scores."
+        },
+        {
+          "type": "fact",
+          "text": "Ohio rallied from 17-0 down to lead 31-24 with 4:55 left."
+        },
+        {
+          "type": "jab",
+          "text": "Toledo scored 17 points before we woke up and needed the last snap to beat us anyway."
+        },
+        {
+          "type": "fact",
+          "text": "Next: bowl game to be announced."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Toledo 34, Ohio 31 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866473"
+        },
+        {
+          "label": "ESPN play-by-play, Toledo at Ohio (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866473"
+        },
+        {
+          "label": "ESPN game page, Toledo at Ohio (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866473"
+        },
+        {
+          "label": "ESPN Ohio Bobcats 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/195"
+        },
+        {
+          "label": "ESPN game recap (AP): Toledo 34, Ohio 31 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401866473"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-toledo",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "toledo",
+      "team_ids": [
+        "toledo"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866473",
+      "title": "Toledo vs Ohio: Griffith at the Gun Sends Rockets to Detroit, 34-31",
+      "byline": "Rocco Szczepanski, The Toledo Fanatic",
+      "matchup": "Final: Toledo Rockets (10-2) 34, Ohio Bobcats (8-4) 31, Fri., Nov. 27, Peden Stadium, Athens. Next: at Buffalo, Sat., Dec. 5, 12:00 PM ET, Ford Field, Detroit",
+      "date": "2026-11-27",
+      "word_count": 309,
+      "text": "Forty-four seconds. That's all Toledo needed to turn a tie game into a trip to Ford Field. Reice Griffith knocked through a 22-yard field goal as time expired at Peden Stadium, the Rockets beat Ohio 34-31, and we're playing Buffalo for the MAC championship on Dec. 5.\n\nWe came out on fire. John Alan Richter hit Bryson Hammer for a 43-yard touchdown, then found Adjatay Dabbs for 24 more, and Griffith tacked on a 33-yard field goal early in the second quarter. Toledo 17, Ohio 0. I was already pricing gas to Detroit.\n\nThen Ohio woke up. The Bobcats scored 17 straight, and a freshman named Levi Davis ran in from 23 yards out with 4:55 left to give them a 31-24 lead. My stomach hit the floor in Athens.\n\nHere's why I love this team. CJ Miller, who had already scored from 12 yards out to open the fourth quarter, punched in a 5-yard touchdown with 1:33 left to tie it at 31. Our defense forced a three-and-out. Hammer returned the punt 9 yards to our 30, a facemask flag added 15 more, and Richter moved us 65 yards in seven plays. Griffith did the rest. Ballgame. Bedlam.\n\nMiller finished with 109 yards and two touchdowns on 15 carries, and Connor Walendzak added 80. We ran for 226 yards as a team. Richter was 18 of 31 for 211 yards and two scores with no interceptions. Nicholas Thompson made 13 tackles, and Tyrell Russell grabbed an interception.\n\nFair is fair: we gave up 458 yards, and Ohio's receivers had big days. We'll need to tighten that up before Buffalo, because the Bulls just ground out a title-game berth of their own at Akron. Two MAC heavyweights, one trophy, one Saturday in Detroit.\n\nAt 10-2 and 7-1 in league play, the Glass City is headed to Detroit. Rocket up.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Forty-four seconds. That's all Toledo needed to turn a tie game into a trip to Ford Field. Reice Griffith knocked through a 22-yard field goal as time expired at Peden Stadium, the Rockets beat Ohio 34-31, and we're playing Buffalo for the MAC championship on Dec. 5."
+        },
+        {
+          "type": "paragraph",
+          "text": "We came out on fire. John Alan Richter hit Bryson Hammer for a 43-yard touchdown, then found Adjatay Dabbs for 24 more, and Griffith tacked on a 33-yard field goal early in the second quarter. Toledo 17, Ohio 0. I was already pricing gas to Detroit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Ohio woke up. The Bobcats scored 17 straight, and a freshman named Levi Davis ran in from 23 yards out with 4:55 left to give them a 31-24 lead. My stomach hit the floor in Athens."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's why I love this team. CJ Miller, who had already scored from 12 yards out to open the fourth quarter, punched in a 5-yard touchdown with 1:33 left to tie it at 31. Our defense forced a three-and-out. Hammer returned the punt 9 yards to our 30, a facemask flag added 15 more, and Richter moved us 65 yards in seven plays. Griffith did the rest. Ballgame. Bedlam."
+        },
+        {
+          "type": "paragraph",
+          "text": "Miller finished with 109 yards and two touchdowns on 15 carries, and Connor Walendzak added 80. We ran for 226 yards as a team. Richter was 18 of 31 for 211 yards and two scores with no interceptions. Nicholas Thompson made 13 tackles, and Tyrell Russell grabbed an interception."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fair is fair: we gave up 458 yards, and Ohio's receivers had big days. We'll need to tighten that up before Buffalo, because the Bulls just ground out a title-game berth of their own at Akron. Two MAC heavyweights, one trophy, one Saturday in Detroit."
+        },
+        {
+          "type": "paragraph",
+          "text": "At 10-2 and 7-1 in league play, the Glass City is headed to Detroit. Rocket up."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Toledo beat Ohio 34-31 on Friday, Nov. 27, at Peden Stadium on Reice Griffith's 22-yard field goal as time expired."
+        },
+        {
+          "type": "fact",
+          "text": "CJ Miller ran for 109 yards and two touchdowns, including the 5-yard score that tied it with 1:33 left."
+        },
+        {
+          "type": "fact",
+          "text": "The Rockets are 10-2, 7-1 MAC, and play Buffalo for the MAC championship."
+        },
+        {
+          "type": "jab",
+          "text": "Ohio needed 31 points to lose to us. We needed 44 seconds to win."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Buffalo, MAC Championship, Sat., Dec. 5, 12:00 PM ET, Ford Field, Detroit."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Toledo 34, Ohio 31 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866473"
+        },
+        {
+          "label": "ESPN play-by-play, Toledo at Ohio (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866473"
+        },
+        {
+          "label": "ESPN game page, Toledo at Ohio (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866473"
+        },
+        {
+          "label": "ESPN Toledo Rockets 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2649"
+        },
+        {
+          "label": "ESPN game recap (AP): Toledo 34, Ohio 31 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401866473"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-akron",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "akron",
+      "team_ids": [
+        "akron"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866472",
+      "title": "Akron vs Buffalo: Zips Push the Title-Bound Bulls to the End, 9-17",
+      "byline": "Hollister 'Zip' Grubbs, The Akron Fanatic",
+      "matchup": "Final: Buffalo Bulls (9-3) 17, Akron Zips (2-10) 9, Fri., Nov. 27, InfoCision Stadium, Akron. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 304,
+      "text": "Akron lost 17-9 to Buffalo at InfoCision Stadium, and for three quarters the Zips gave a team headed to the MAC title game all it could handle.\n\nDown 7-0 late in the half, Cibastian Broughton found Miles Burris for an 18-yard touchdown with 40 seconds left. We missed the extra point, but a one-point halftime deficit had our sideline alive. Matthew Schramm came out in the third and drilled a 50-yard field goal, and we led 9-7. The Rubber City had a lead on a holiday weekend.\n\nThen Buffalo kicked a 39-yarder to go back up 10-9 with 2:25 left in the third. We answered with an 11-play drive deep into Bulls territory, and that's where it went sideways. A holding call backed us up, and Schramm missed from 39. Messiah Burch broke a 43-yard touchdown run not long after, and that was the ballgame.\n\nKyan Mason was a problem for them all day, four catches for 95 yards. Jordan Gant ground out 72 yards on 20 carries. Dwight Nunoo made 12 tackles, and Jalen Williams had three tackles for loss. We didn't lose the ball once and outgained Buffalo 304 to 235. That's how close this was.\n\nBut 3 of 12 on third down will cost you, and so will one missed kick in a one-score game. We had the Bulls right where we wanted them and let them off the hook.\n\nWe finish 2-10, 1-7 in the MAC. After the game, Joe Moorhead announced on social media that he's stepping down after five seasons, so a new chapter begins in Akron. The guys who fought Buffalo to the final quarter deserve a coach who builds on that.\n\nHold on to Mason. Hold on to Nunoo. Hold on to the fight these guys showed on the last Friday of the season. Go Zips.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Akron lost 17-9 to Buffalo at InfoCision Stadium, and for three quarters the Zips gave a team headed to the MAC title game all it could handle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Down 7-0 late in the half, Cibastian Broughton found Miles Burris for an 18-yard touchdown with 40 seconds left. We missed the extra point, but a one-point halftime deficit had our sideline alive. Matthew Schramm came out in the third and drilled a 50-yard field goal, and we led 9-7. The Rubber City had a lead on a holiday weekend."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then Buffalo kicked a 39-yarder to go back up 10-9 with 2:25 left in the third. We answered with an 11-play drive deep into Bulls territory, and that's where it went sideways. A holding call backed us up, and Schramm missed from 39. Messiah Burch broke a 43-yard touchdown run not long after, and that was the ballgame."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kyan Mason was a problem for them all day, four catches for 95 yards. Jordan Gant ground out 72 yards on 20 carries. Dwight Nunoo made 12 tackles, and Jalen Williams had three tackles for loss. We didn't lose the ball once and outgained Buffalo 304 to 235. That's how close this was."
+        },
+        {
+          "type": "paragraph",
+          "text": "But 3 of 12 on third down will cost you, and so will one missed kick in a one-score game. We had the Bulls right where we wanted them and let them off the hook."
+        },
+        {
+          "type": "paragraph",
+          "text": "We finish 2-10, 1-7 in the MAC. After the game, Joe Moorhead announced on social media that he's stepping down after five seasons, so a new chapter begins in Akron. The guys who fought Buffalo to the final quarter deserve a coach who builds on that."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hold on to Mason. Hold on to Nunoo. Hold on to the fight these guys showed on the last Friday of the season. Go Zips."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Buffalo beat Akron 17-9 on Friday, Nov. 27, at InfoCision Stadium. The Zips finish 2-10, 1-7 MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Akron led 9-7 in the third quarter after Matthew Schramm's 50-yard field goal."
+        },
+        {
+          "type": "fact",
+          "text": "Kyan Mason caught four throws for 95 yards, and Akron outgained Buffalo 304 to 235."
+        },
+        {
+          "type": "jab",
+          "text": "Buffalo is headed to the MAC title game, and it needed a fourth-quarter miss from us to get there."
+        },
+        {
+          "type": "fact",
+          "text": "Season complete at 2-10."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Buffalo 17, Akron 9 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866472"
+        },
+        {
+          "label": "ESPN play-by-play, Buffalo at Akron (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866472"
+        },
+        {
+          "label": "ESPN game page, Buffalo at Akron (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866472"
+        },
+        {
+          "label": "ESPN Akron Zips 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2006"
+        },
+        {
+          "label": "ESPN game recap (AP): Buffalo 17, Akron 9 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401866472"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-buffalo",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "buffalo",
+      "team_ids": [
+        "buffalo"
+      ],
+      "tab_id": "mac",
+      "game_id": "401866472",
+      "title": "Buffalo vs Akron: Burch Bulls Into the MAC Title Game, 17-9",
+      "byline": "Kendra Woolcott, The Buffalo Fanatic",
+      "matchup": "Final: Buffalo Bulls (9-3) 17, Akron Zips (2-10) 9, Fri., Nov. 27, InfoCision Stadium, Akron. Next: vs Toledo, Sat., Dec. 5, 12:00 PM ET, Ford Field, Detroit",
+      "date": "2026-11-27",
+      "word_count": 312,
+      "text": "Pack for Detroit, Bulls fans. Buffalo grinded out a 17-9 win at Akron on Black Friday, and the reward is a date with Toledo for the MAC championship at Ford Field on Saturday, Dec. 5.\n\nThis one was not pretty, and I don't care one bit. Messiah Burch carried us. He ran 24 times for 130 yards, and with 9:58 left he took a handoff 43 yards to the end zone to make it 17-9. That run felt like a door slamming on the Zips' season.\n\nWe needed it, because Akron made us sweat at InfoCision Stadium. Jason Wright found Terrance Shelton Jr. for a 21-yard touchdown midway through the second quarter, but the Zips answered with an 18-yard score just before halftime. Akron missed the extra point, so it was 7-6 at the break. Then Matthew Schramm hit a 50-yarder in the third, and for the first time all day we were chasing, 9-7.\n\nEnter Oliver Hautanen. His 39-yard field goal with 2:25 left in the third gave us a 10-9 lead we never gave back. Akron drove deep into our end early in the fourth, a holding flag pushed the Zips back, and Schramm missed from 39. Burch went 43 yards not long after, and the Bulls were headed to Detroit.\n\nWright only completed 8 of 18 throws for 88 yards, so this was a ground-and-defense day, and that's fine by me. SaVeon Brown made nine tackles, and the defense held the Zips to 112 rushing yards. We had zero turnovers, only two penalties, and we went 2 for 2 on fourth down. Chance Morrow caught four balls for 36 yards.\n\nWe're 9-3, 7-1 in the MAC, and the conference title is one win away. Toledo beat Ohio on a walk-off kick the same afternoon, so Ford Field gets two teams that know how to finish close games. Go Bulls.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pack for Detroit, Bulls fans. Buffalo grinded out a 17-9 win at Akron on Black Friday, and the reward is a date with Toledo for the MAC championship at Ford Field on Saturday, Dec. 5."
+        },
+        {
+          "type": "paragraph",
+          "text": "This one was not pretty, and I don't care one bit. Messiah Burch carried us. He ran 24 times for 130 yards, and with 9:58 left he took a handoff 43 yards to the end zone to make it 17-9. That run felt like a door slamming on the Zips' season."
+        },
+        {
+          "type": "paragraph",
+          "text": "We needed it, because Akron made us sweat at InfoCision Stadium. Jason Wright found Terrance Shelton Jr. for a 21-yard touchdown midway through the second quarter, but the Zips answered with an 18-yard score just before halftime. Akron missed the extra point, so it was 7-6 at the break. Then Matthew Schramm hit a 50-yarder in the third, and for the first time all day we were chasing, 9-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "Enter Oliver Hautanen. His 39-yard field goal with 2:25 left in the third gave us a 10-9 lead we never gave back. Akron drove deep into our end early in the fourth, a holding flag pushed the Zips back, and Schramm missed from 39. Burch went 43 yards not long after, and the Bulls were headed to Detroit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wright only completed 8 of 18 throws for 88 yards, so this was a ground-and-defense day, and that's fine by me. SaVeon Brown made nine tackles, and the defense held the Zips to 112 rushing yards. We had zero turnovers, only two penalties, and we went 2 for 2 on fourth down. Chance Morrow caught four balls for 36 yards."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 9-3, 7-1 in the MAC, and the conference title is one win away. Toledo beat Ohio on a walk-off kick the same afternoon, so Ford Field gets two teams that know how to finish close games. Go Bulls."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Buffalo beat Akron 17-9 on Friday, Nov. 27, at InfoCision Stadium. The Bulls are 9-3, 7-1 MAC."
+        },
+        {
+          "type": "fact",
+          "text": "Messiah Burch ran for 130 yards, including a 43-yard touchdown with 9:58 left."
+        },
+        {
+          "type": "fact",
+          "text": "Oliver Hautanen's 39-yard field goal gave Buffalo the lead for good at 10-9."
+        },
+        {
+          "type": "jab",
+          "text": "Akron had a chance to tie early in the fourth and missed from 39."
+        },
+        {
+          "type": "fact",
+          "text": "Next: vs Toledo, MAC Championship, Sat., Dec. 5, 12:00 PM ET, Ford Field, Detroit."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Buffalo 17, Akron 9 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401866472"
+        },
+        {
+          "label": "ESPN play-by-play, Buffalo at Akron (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401866472"
+        },
+        {
+          "label": "ESPN game page, Buffalo at Akron (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401866472"
+        },
+        {
+          "label": "ESPN Buffalo Bulls 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2084"
+        },
+        {
+          "label": "ESPN game recap (AP): Buffalo 17, Akron 9 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401866472"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-tulsa",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "tulsa",
+      "team_ids": [
+        "tulsa"
+      ],
+      "tab_id": "aac",
+      "game_id": "401862840",
+      "title": "Tulsa vs UTSA: Hayes Fights to the End in San Antonio, 22-28",
+      "byline": "Wiley Pettibone, The Tulsa Fanatic",
+      "matchup": "Final: UTSA Roadrunners (10-2) 28, Tulsa Golden Hurricane (7-5) 22, Fri., Nov. 27, Alamodome, San Antonio. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 316,
+      "text": "Tulsa lost 28-22 at UTSA on Friday afternoon, and if you turned it off at halftime, shame on you. Down 25-7 at the Alamodome, the Golden Hurricane kept swinging until the clock said stop.\n\nThe early going was rough. UTSA hit a 64-yard touchdown on its first drive. Baylor Hayes answered right away, dropping a 38-yard touchdown to Jimmy Calloway to tie it at 7. Then the Roadrunners went deep again for 79 yards. Calloway finished with 84 yards on three catches, and he looked like the fastest man in Texas on that score.\n\nThe second quarter is the one I'll be forgetting on purpose. We fumbled at our own 1 and had to fall on it in the end zone for a safety, Hayes got sacked in the end zone for another, and UTSA added a short touchdown before the half. Two safeties in one quarter. I didn't know that was legal.\n\nBut this team doesn't fold. Damari Alston punched in a 2-yard touchdown early in the fourth, and Hayes found Javon Ross for the two-point try, 25-15. After UTSA's field goal, Hayes hit Grant McAtee for a 6-yard touchdown with 3:27 left, and it was 28-22. One stop and one drive. We never got the ball back.\n\nHayes was tough all night, 17 of 26 for 217 yards and two touchdowns, with no interceptions. Ross caught three balls for 68 yards. Oran Singleton Jr. made seven catches. Chris Thompson Jr. made 12 tackles, and Ashton Williams intercepted Owen McCown.\n\nThe problem was the ground game. We managed 57 rushing yards on 27 carries, and UTSA held the ball for 38:30. You can't win a road game in San Antonio with your defense on the field that long.\n\nWe're 7-5, 4-4 in the conference, and bowl season is next. A team that wouldn't quit down 18 deserves a few more practices in December. Reign, Canes.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Tulsa lost 28-22 at UTSA on Friday afternoon, and if you turned it off at halftime, shame on you. Down 25-7 at the Alamodome, the Golden Hurricane kept swinging until the clock said stop."
+        },
+        {
+          "type": "paragraph",
+          "text": "The early going was rough. UTSA hit a 64-yard touchdown on its first drive. Baylor Hayes answered right away, dropping a 38-yard touchdown to Jimmy Calloway to tie it at 7. Then the Roadrunners went deep again for 79 yards. Calloway finished with 84 yards on three catches, and he looked like the fastest man in Texas on that score."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second quarter is the one I'll be forgetting on purpose. We fumbled at our own 1 and had to fall on it in the end zone for a safety, Hayes got sacked in the end zone for another, and UTSA added a short touchdown before the half. Two safeties in one quarter. I didn't know that was legal."
+        },
+        {
+          "type": "paragraph",
+          "text": "But this team doesn't fold. Damari Alston punched in a 2-yard touchdown early in the fourth, and Hayes found Javon Ross for the two-point try, 25-15. After UTSA's field goal, Hayes hit Grant McAtee for a 6-yard touchdown with 3:27 left, and it was 28-22. One stop and one drive. We never got the ball back."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hayes was tough all night, 17 of 26 for 217 yards and two touchdowns, with no interceptions. Ross caught three balls for 68 yards. Oran Singleton Jr. made seven catches. Chris Thompson Jr. made 12 tackles, and Ashton Williams intercepted Owen McCown."
+        },
+        {
+          "type": "paragraph",
+          "text": "The problem was the ground game. We managed 57 rushing yards on 27 carries, and UTSA held the ball for 38:30. You can't win a road game in San Antonio with your defense on the field that long."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 7-5, 4-4 in the conference, and bowl season is next. A team that wouldn't quit down 18 deserves a few more practices in December. Reign, Canes."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "UTSA beat Tulsa 28-22 on Friday, Nov. 27, at the Alamodome. The Golden Hurricane are 7-5, 4-4 in the American."
+        },
+        {
+          "type": "fact",
+          "text": "Baylor Hayes threw for 217 yards and two touchdowns with no interceptions."
+        },
+        {
+          "type": "fact",
+          "text": "Tulsa trailed 25-7 at halftime and cut it to 28-22 with 3:27 left."
+        },
+        {
+          "type": "jab",
+          "text": "UTSA needed two safeties and a runner sliding down at our 1 to get out of its own building."
+        },
+        {
+          "type": "fact",
+          "text": "Next: bowl game to be announced."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, UTSA 28, Tulsa 22 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862840"
+        },
+        {
+          "label": "ESPN play-by-play, Tulsa at UTSA (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401862840"
+        },
+        {
+          "label": "ESPN game page, Tulsa at UTSA (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401862840"
+        },
+        {
+          "label": "ESPN Tulsa Golden Hurricane 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/202"
+        },
+        {
+          "label": "ESPN game recap (AP): UTSA 28, Tulsa 22 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401862840"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-utsa",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "utsa",
+      "team_ids": [
+        "utsa"
+      ],
+      "tab_id": "aac",
+      "game_id": "401862840",
+      "title": "UTSA vs Tulsa: AJ Wilson Goes Deep Twice, Title Game Comes Home, 28-22",
+      "byline": "Marisol Ybarra, The UTSA Fanatic",
+      "matchup": "Final: UTSA Roadrunners (10-2) 28, Tulsa Golden Hurricane (7-5) 22, Fri., Nov. 27, Alamodome, San Antonio. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 326,
+      "text": "Book the Alamodome for Dec. 5, San Antonio. UTSA beat Tulsa 28-22 on Black Friday, and the American Conference championship game is coming to our house.\n\nAJ Wilson made sure of it before most people found their seats. On our first possession, Owen McCown hit him on a 64-yard touchdown. Tulsa tied it right back, so McCown went deep again, and Wilson took it 79 yards to the house for a 14-7 lead with 11:11 left in the first quarter. Four catches, 153 yards, two touchdowns. That's a night's work in about three minutes.\n\nMcCown was terrific, 22 of 32 for 353 yards. Then the defense got in on the scoring. Tulsa fumbled at its own 1 and Hayes fell on it in the end zone for one safety, and Elijah Baldwin sacked Baylor Hayes in the end zone for another. Two safeties in one quarter. Brandon High Jr. dove in from the 1, and we went to the locker room up 25-7.\n\nThe second half got tighter than I'd like. Damari Alston scored and Hayes hit Javon Ross for two, and it was 25-15 early in the fourth. So our offense did what I love most: it took the air out of the building. A drive of nearly nine minutes ended with Michael Petro's 36-yard field goal, and it was 28-15 with 4:47 left.\n\nTulsa scored again on a 6-yard throw to Grant McAtee with 3:27 to go. Then Will Henderson III broke a 50-yard run and went down on purpose at the Tulsa 1 so we could kneel it out. Smartest 50 yards of the year. Henderson finished with 105 yards on 16 carries.\n\nWe racked up 526 yards to Tulsa's 274 and held the ball for 38:30. That's how you protect a lead in November. Camron Cooper had a sack and a half.\n\nTen wins, seven in league play, and the next game is a title game at home. Birds Up, San Antonio.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Book the Alamodome for Dec. 5, San Antonio. UTSA beat Tulsa 28-22 on Black Friday, and the American Conference championship game is coming to our house."
+        },
+        {
+          "type": "paragraph",
+          "text": "AJ Wilson made sure of it before most people found their seats. On our first possession, Owen McCown hit him on a 64-yard touchdown. Tulsa tied it right back, so McCown went deep again, and Wilson took it 79 yards to the house for a 14-7 lead with 11:11 left in the first quarter. Four catches, 153 yards, two touchdowns. That's a night's work in about three minutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "McCown was terrific, 22 of 32 for 353 yards. Then the defense got in on the scoring. Tulsa fumbled at its own 1 and Hayes fell on it in the end zone for one safety, and Elijah Baldwin sacked Baylor Hayes in the end zone for another. Two safeties in one quarter. Brandon High Jr. dove in from the 1, and we went to the locker room up 25-7."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half got tighter than I'd like. Damari Alston scored and Hayes hit Javon Ross for two, and it was 25-15 early in the fourth. So our offense did what I love most: it took the air out of the building. A drive of nearly nine minutes ended with Michael Petro's 36-yard field goal, and it was 28-15 with 4:47 left."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tulsa scored again on a 6-yard throw to Grant McAtee with 3:27 to go. Then Will Henderson III broke a 50-yard run and went down on purpose at the Tulsa 1 so we could kneel it out. Smartest 50 yards of the year. Henderson finished with 105 yards on 16 carries."
+        },
+        {
+          "type": "paragraph",
+          "text": "We racked up 526 yards to Tulsa's 274 and held the ball for 38:30. That's how you protect a lead in November. Camron Cooper had a sack and a half."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ten wins, seven in league play, and the next game is a title game at home. Birds Up, San Antonio."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "UTSA beat Tulsa 28-22 on Friday, Nov. 27, at the Alamodome. The Roadrunners are 10-2, 7-1 in the American."
+        },
+        {
+          "type": "fact",
+          "text": "AJ Wilson caught touchdowns of 64 and 79 yards from Owen McCown, who threw for 353 yards."
+        },
+        {
+          "type": "fact",
+          "text": "UTSA scored two safeties in the second quarter and will host the American championship game on Dec. 5."
+        },
+        {
+          "type": "jab",
+          "text": "Tulsa got to six. Then Will Henderson III ran 50 yards and went down at the 1 on purpose."
+        },
+        {
+          "type": "fact",
+          "text": "Next: hosts the American championship game, Dec. 5, opponent to be determined."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, UTSA 28, Tulsa 22 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401862840"
+        },
+        {
+          "label": "ESPN play-by-play, Tulsa at UTSA (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401862840"
+        },
+        {
+          "label": "ESPN game page, Tulsa at UTSA (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401862840"
+        },
+        {
+          "label": "ESPN UTSA Roadrunners 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2636"
+        },
+        {
+          "label": "ESPN game recap (AP): UTSA 28, Tulsa 22 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401862840"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-nebraska",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "nebraska",
+      "team_ids": [
+        "nebraska"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858536",
+      "title": "Nebraska vs Iowa: Rule Runs Hard, Huskers Fall at Kinnick, 7-31",
+      "byline": "Darla Rasmussen, The Nebraska Fanatic",
+      "matchup": "Final: Iowa Hawkeyes (10-2) 31, Nebraska Cornhuskers (7-5) 7, Fri., Nov. 27, Kinnick Stadium, Iowa City. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 314,
+      "text": "Six days after we beat Ohio State 31-28, Nebraska walked into Kinnick Stadium the day after Thanksgiving and left with a 31-7 loss to Iowa. I've been a Husker fan long enough to know that a week can feel like a decade.\n\nJamal Rule did his part. He carried 18 times for 106 yards, and his 21-yard touchdown run early in the second quarter tied it at 7. For a while that was a fistfight, and we were throwing punches.\n\nThen came the third quarter, and the play I'll be stewing on until spring. Trailing 10-7, Jamir Conn recovered a muffed Iowa punt and handed us a short field. We drove to the Iowa 35. Fourth down. No. The Hawkeyes took the ball back, Hank Brown went down and scored from the 6, and it was 17-7. That was the swing, right there.\n\nAfter that, the wheels came off. Anthony Colandrea was 19 of 29 for 153 yards with an interception, and he and Jacory Barney Jr. each lost a fumble. Three turnovers on the road against the best scoring defense in the country is a recipe for exactly this. Brown ran for three touchdowns and threw for another, and Iowa outgained us 329-260. Nobody had done that to us all season.\n\nSome of our guys played their hearts out. Danny Odem III made 10 tackles. Dwayne McDougle III got home for a sack. Luke Lindenmeyer caught six balls for 63 yards. We only had two penalties all afternoon.\n\nBut 1 of 3 on fourth down and 4 of 12 on third down doesn't beat Iowa in Iowa City.\n\nWe're 7-5, 4-5 in the Big Ten, and we'll learn our bowl destination soon. Seven wins, a takedown of Ohio State and a bowl trip is a season worth defending at any diner in the state. We'll be back for the Hawkeyes next November. GBR.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Six days after we beat Ohio State 31-28, Nebraska walked into Kinnick Stadium the day after Thanksgiving and left with a 31-7 loss to Iowa. I've been a Husker fan long enough to know that a week can feel like a decade."
+        },
+        {
+          "type": "paragraph",
+          "text": "Jamal Rule did his part. He carried 18 times for 106 yards, and his 21-yard touchdown run early in the second quarter tied it at 7. For a while that was a fistfight, and we were throwing punches."
+        },
+        {
+          "type": "paragraph",
+          "text": "Then came the third quarter, and the play I'll be stewing on until spring. Trailing 10-7, Jamir Conn recovered a muffed Iowa punt and handed us a short field. We drove to the Iowa 35. Fourth down. No. The Hawkeyes took the ball back, Hank Brown went down and scored from the 6, and it was 17-7. That was the swing, right there."
+        },
+        {
+          "type": "paragraph",
+          "text": "After that, the wheels came off. Anthony Colandrea was 19 of 29 for 153 yards with an interception, and he and Jacory Barney Jr. each lost a fumble. Three turnovers on the road against the best scoring defense in the country is a recipe for exactly this. Brown ran for three touchdowns and threw for another, and Iowa outgained us 329-260. Nobody had done that to us all season."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some of our guys played their hearts out. Danny Odem III made 10 tackles. Dwayne McDougle III got home for a sack. Luke Lindenmeyer caught six balls for 63 yards. We only had two penalties all afternoon."
+        },
+        {
+          "type": "paragraph",
+          "text": "But 1 of 3 on fourth down and 4 of 12 on third down doesn't beat Iowa in Iowa City."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 7-5, 4-5 in the Big Ten, and we'll learn our bowl destination soon. Seven wins, a takedown of Ohio State and a bowl trip is a season worth defending at any diner in the state. We'll be back for the Hawkeyes next November. GBR."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Iowa beat Nebraska 31-7 on Friday, Nov. 27, at Kinnick Stadium. The Huskers are 7-5, 4-5 Big Ten."
+        },
+        {
+          "type": "fact",
+          "text": "Jamal Rule ran for 106 yards and a 21-yard touchdown that tied the game at 7."
+        },
+        {
+          "type": "fact",
+          "text": "Nebraska recovered a muffed punt trailing 10-7 in the third quarter but was stopped on downs at the Iowa 35."
+        },
+        {
+          "type": "jab",
+          "text": "Iowa needed three Husker turnovers to make this look easy."
+        },
+        {
+          "type": "fact",
+          "text": "Next: bowl game to be announced."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Iowa 31, Nebraska 7 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858536"
+        },
+        {
+          "label": "ESPN play-by-play, Nebraska at Iowa (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858536"
+        },
+        {
+          "label": "ESPN game page, Nebraska at Iowa (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858536"
+        },
+        {
+          "label": "ESPN Nebraska Cornhuskers 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/158"
+        },
+        {
+          "label": "ESPN game recap (AP): Iowa 31, Nebraska 7 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858536"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-iowa",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "iowa",
+      "team_ids": [
+        "iowa"
+      ],
+      "tab_id": "bigten",
+      "game_id": "401858536",
+      "title": "Iowa vs Nebraska: Hank Brown Runs Wild at Kinnick, 31-7",
+      "byline": "Orrin Kalvelage, The Iowa Fanatic",
+      "matchup": "Final: Iowa Hawkeyes (10-2) 31, Nebraska Cornhuskers (7-5) 7, Fri., Nov. 27, Kinnick Stadium, Iowa City. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 336,
+      "text": "Ten wins. Say it slowly, Hawkeye fans, because Iowa just beat Nebraska 31-7 on Black Friday in front of 69,250 at Kinnick Stadium, and that's five straight wins for a team nobody wants to see in December.\n\nHank Brown was the story. Our quarterback ran for three touchdowns and threw for another, and he did it with the kind of legs I didn't know he had in August. He opened the scoring from 14 yards out in the first quarter, scored from the 6 late in the third for a 17-7 lead, and put the bow on it with a 29-yard run with 4:02 left. Through the air he was 13 of 18 for 173 yards, including a 9-yard touchdown to DJ Vonnahme that made it 24-7 early in the fourth.\n\nNebraska hung around for a while. Jamal Rule ripped off a 21-yard touchdown run to tie it at 7 early in the second quarter, and Caden Buhr's 39-yard field goal was all that separated us at the half. Then the Huskers recovered a muffed punt in the third quarter, trailing 10-7, and drove to our 35. Our defense said no on fourth down, and Brown went right down the field and scored on the next possession. Ballgame.\n\nAnd the defense. Oh, the defense. Cam Buffington made 12 tackles and recovered a fumble. Jayden Montgomery had 11 tackles, a sack and two tackles for loss. Jaylen Watson grabbed an interception, and Brevin Doll fell on another loose ball. Three Nebraska turnovers, zero second-half points, and the third straight game we've blanked somebody after halftime.\n\nL.J. Phillips Jr. chipped in 76 yards on 14 carries, and we outgained Nebraska 329-260, the first time anybody has done that to them all season.\n\nThat's 11 wins in the last 12 against the Huskers. In this five-game streak we've outscored people 147-41.\n\nWe're 10-2, 7-2 in the Big Ten, and what comes next is out of our hands. Whatever the committee decides, this team put it on tape. Go Hawks.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ten wins. Say it slowly, Hawkeye fans, because Iowa just beat Nebraska 31-7 on Black Friday in front of 69,250 at Kinnick Stadium, and that's five straight wins for a team nobody wants to see in December."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hank Brown was the story. Our quarterback ran for three touchdowns and threw for another, and he did it with the kind of legs I didn't know he had in August. He opened the scoring from 14 yards out in the first quarter, scored from the 6 late in the third for a 17-7 lead, and put the bow on it with a 29-yard run with 4:02 left. Through the air he was 13 of 18 for 173 yards, including a 9-yard touchdown to DJ Vonnahme that made it 24-7 early in the fourth."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nebraska hung around for a while. Jamal Rule ripped off a 21-yard touchdown run to tie it at 7 early in the second quarter, and Caden Buhr's 39-yard field goal was all that separated us at the half. Then the Huskers recovered a muffed punt in the third quarter, trailing 10-7, and drove to our 35. Our defense said no on fourth down, and Brown went right down the field and scored on the next possession. Ballgame."
+        },
+        {
+          "type": "paragraph",
+          "text": "And the defense. Oh, the defense. Cam Buffington made 12 tackles and recovered a fumble. Jayden Montgomery had 11 tackles, a sack and two tackles for loss. Jaylen Watson grabbed an interception, and Brevin Doll fell on another loose ball. Three Nebraska turnovers, zero second-half points, and the third straight game we've blanked somebody after halftime."
+        },
+        {
+          "type": "paragraph",
+          "text": "L.J. Phillips Jr. chipped in 76 yards on 14 carries, and we outgained Nebraska 329-260, the first time anybody has done that to them all season."
+        },
+        {
+          "type": "paragraph",
+          "text": "That's 11 wins in the last 12 against the Huskers. In this five-game streak we've outscored people 147-41."
+        },
+        {
+          "type": "paragraph",
+          "text": "We're 10-2, 7-2 in the Big Ten, and what comes next is out of our hands. Whatever the committee decides, this team put it on tape. Go Hawks."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Iowa beat Nebraska 31-7 on Friday, Nov. 27, at Kinnick Stadium. The Hawkeyes are 10-2, 7-2 Big Ten."
+        },
+        {
+          "type": "fact",
+          "text": "Hank Brown ran for three touchdowns and threw a 9-yard touchdown to DJ Vonnahme."
+        },
+        {
+          "type": "fact",
+          "text": "Iowa forced three turnovers and shut Nebraska out in the second half."
+        },
+        {
+          "type": "jab",
+          "text": "Nebraska got a muffed punt handed to it in the third quarter and came away with no points."
+        },
+        {
+          "type": "fact",
+          "text": "Next: postseason to be announced."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Iowa 31, Nebraska 7 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401858536"
+        },
+        {
+          "label": "ESPN play-by-play, Nebraska at Iowa (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401858536"
+        },
+        {
+          "label": "ESPN game page, Nebraska at Iowa (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401858536"
+        },
+        {
+          "label": "ESPN Iowa Hawkeyes 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/2294"
+        },
+        {
+          "label": "ESPN game recap (AP): Iowa 31, Nebraska 7 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401858536"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-mississippi-state",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "mississippi-state",
+      "team_ids": [
+        "mississippi-state"
+      ],
+      "tab_id": "sec",
+      "game_id": "401856762",
+      "title": "Mississippi State vs Ole Miss: Three Points Away in Oxford, 17-41",
+      "byline": "Wade Pettus, The Mississippi State Fanatic",
+      "matchup": "Final: Ole Miss Rebels (8-4) 41, Mississippi State Bulldogs (5-7) 17, Fri., Nov. 27, Vaught-Hemingway Stadium, Oxford. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 327,
+      "text": "For one half in Oxford, Mississippi State owned the Egg Bowl. We went to the locker room up 10-6, Fluff Bothwell was running through the Rebels like they owed him money, and Kyle Ferrie had just drilled a 42-yard field goal with 1:48 left in the half. The final says Ole Miss 41-17. I'd like a word with the third quarter.\n\nBothwell was the best player on that field. He went 16 yards for our first touchdown, finished with 129 yards on 18 carries, and caught three balls, including the 12-yard touchdown from Parker Puckett on the first play of the fourth quarter that cut it to 20-17. Puckett was sharp all night, 22 of 27 for 201 yards, and Marquis Johnson hauled in five catches for 96 yards, one of them a 45-yarder.\n\nWe had the Rebels sweating. Down three, driving, momentum on our side. Then Blake Purchase jumped a Puckett throw and ran it back 58 yards to our 1. Trinidad Chambliss walked in on the next snap, and it went from 20-17 to 27-17 in about the time it takes to say Egg Bowl.\n\nFrom there, Ole Miss scored twice more, and the 35-7 second half makes this look like a blowout it wasn't for 30 minutes. We held the ball for 33:22. Jardin Gilbert made nine tackles and a sack. Fatt Forrest added eight tackles and Kendel Dolby seven.\n\nBut you can't give a team like that 10 penalties for 84 yards and expect to survive Oxford, and a 3-of-11 night on third down will not get it done either.\n\nWe finish 5-7, 2-7 in the SEC, and the season ends with a trophy we wanted sitting on the wrong side of the state. One more win and we'd be packing for a bowl. That's the part that stings tonight.\n\nHere's the part I'm keeping: the first half, Bothwell's legs and Puckett's poise. Our cowbells will be loud again next November. Hail State.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "For one half in Oxford, Mississippi State owned the Egg Bowl. We went to the locker room up 10-6, Fluff Bothwell was running through the Rebels like they owed him money, and Kyle Ferrie had just drilled a 42-yard field goal with 1:48 left in the half. The final says Ole Miss 41-17. I'd like a word with the third quarter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bothwell was the best player on that field. He went 16 yards for our first touchdown, finished with 129 yards on 18 carries, and caught three balls, including the 12-yard touchdown from Parker Puckett on the first play of the fourth quarter that cut it to 20-17. Puckett was sharp all night, 22 of 27 for 201 yards, and Marquis Johnson hauled in five catches for 96 yards, one of them a 45-yarder."
+        },
+        {
+          "type": "paragraph",
+          "text": "We had the Rebels sweating. Down three, driving, momentum on our side. Then Blake Purchase jumped a Puckett throw and ran it back 58 yards to our 1. Trinidad Chambliss walked in on the next snap, and it went from 20-17 to 27-17 in about the time it takes to say Egg Bowl."
+        },
+        {
+          "type": "paragraph",
+          "text": "From there, Ole Miss scored twice more, and the 35-7 second half makes this look like a blowout it wasn't for 30 minutes. We held the ball for 33:22. Jardin Gilbert made nine tackles and a sack. Fatt Forrest added eight tackles and Kendel Dolby seven."
+        },
+        {
+          "type": "paragraph",
+          "text": "But you can't give a team like that 10 penalties for 84 yards and expect to survive Oxford, and a 3-of-11 night on third down will not get it done either."
+        },
+        {
+          "type": "paragraph",
+          "text": "We finish 5-7, 2-7 in the SEC, and the season ends with a trophy we wanted sitting on the wrong side of the state. One more win and we'd be packing for a bowl. That's the part that stings tonight."
+        },
+        {
+          "type": "paragraph",
+          "text": "Here's the part I'm keeping: the first half, Bothwell's legs and Puckett's poise. Our cowbells will be loud again next November. Hail State."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Ole Miss beat Mississippi State 41-17 on Friday, Nov. 27, at Vaught-Hemingway Stadium. The Bulldogs finish 5-7, 2-7 SEC."
+        },
+        {
+          "type": "fact",
+          "text": "State led 10-6 at halftime. Fluff Bothwell ran for 129 yards and scored twice."
+        },
+        {
+          "type": "fact",
+          "text": "Parker Puckett completed 22 of 27 throws for 201 yards and a touchdown."
+        },
+        {
+          "type": "jab",
+          "text": "Ole Miss needed a 58-yard interception return to the 1 to shake us. Without it, this was a three-point game in the fourth."
+        },
+        {
+          "type": "fact",
+          "text": "Season complete at 5-7."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Ole Miss 41, Mississippi State 17 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856762"
+        },
+        {
+          "label": "ESPN play-by-play, Mississippi State at Ole Miss (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856762"
+        },
+        {
+          "label": "ESPN game page, Mississippi State at Ole Miss (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856762"
+        },
+        {
+          "label": "ESPN Mississippi State Bulldogs 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/344"
+        },
+        {
+          "label": "ESPN game recap (AP): Ole Miss 41, Mississippi State 17 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856762"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    },
+    {
+      "id": "fanatic_team-ole-miss",
+      "kind": "fanatic_team",
+      "league": "college",
+      "team_id": "ole-miss",
+      "team_ids": [
+        "ole-miss"
+      ],
+      "tab_id": "sec",
+      "game_id": "401856762",
+      "title": "Ole Miss vs Mississippi State: Purchase Flips the Egg Bowl, 41-17",
+      "byline": "Langston Fairbanks, The Ole Miss Fanatic",
+      "matchup": "Final: Ole Miss Rebels (8-4) 41, Mississippi State Bulldogs (5-7) 17, Fri., Nov. 27, Vaught-Hemingway Stadium, Oxford. Regular season complete",
+      "date": "2026-11-27",
+      "word_count": 356,
+      "text": "Halftime in Oxford, and the scoreboard at Vaught-Hemingway said Mississippi State 10, Ole Miss 6. I heard a few boos from our own side when the two-minute drill fizzled and Lucas Carneiro's 62-yard try fell short. By the final gun it was 41-17, and the Egg Bowl belongs to us for the fourth year in a row.\n\nThe second half was 35-7, and Trinidad Chambliss ran the show. He hit Horatio Fields for a 6-yard touchdown with 9:53 left in the third for our first lead, 13-10. Joshua Dye bulled in from the 4 to make it 20-10. Chambliss finished 23 of 36 for 237 yards, two touchdown throws and a touchdown run.\n\nGive State credit for one punch. Parker Puckett found Fluff Bothwell for a 12-yard score on the first snap of the fourth quarter, and it was 20-17 with the Bulldogs driving again. Then Blake Purchase stepped in front of a Puckett throw and ran 58 yards the other way, all the way to the State 1. Chambliss went around left end on the next play, and it was 27-17 with 10:30 to go. That interception was the whole night in one snap.\n\nAfter that, the floodgates. Chambliss found Michael Smith for 21 yards and a touchdown, and Dye punched in his second score from a yard out with 1:57 left. Dye carried 20 times for 91 yards on a night our ground game needed somebody to grab it.\n\nThe defense got meaner as the night went on. Tah'j Butler made 10 tackles and a sack, and Suntarine Perkins had 1.5 sacks and three tackles for loss. We went 8 of 13 on third down and didn't lose the ball once.\n\nHonest notes for the film room: Bothwell ran for 129 yards on 18 carries, and State had the ball for 33:22. We were sloppy for two quarters. We were also the better team for two quarters, and that was plenty.\n\nThat's four straight Egg Bowls and six of the last seven. We're 8-4, 5-4 in the SEC, waiting on a bowl invitation, and the trophy stays in Oxford for another year. Hotty Toddy.",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Halftime in Oxford, and the scoreboard at Vaught-Hemingway said Mississippi State 10, Ole Miss 6. I heard a few boos from our own side when the two-minute drill fizzled and Lucas Carneiro's 62-yard try fell short. By the final gun it was 41-17, and the Egg Bowl belongs to us for the fourth year in a row."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second half was 35-7, and Trinidad Chambliss ran the show. He hit Horatio Fields for a 6-yard touchdown with 9:53 left in the third for our first lead, 13-10. Joshua Dye bulled in from the 4 to make it 20-10. Chambliss finished 23 of 36 for 237 yards, two touchdown throws and a touchdown run."
+        },
+        {
+          "type": "paragraph",
+          "text": "Give State credit for one punch. Parker Puckett found Fluff Bothwell for a 12-yard score on the first snap of the fourth quarter, and it was 20-17 with the Bulldogs driving again. Then Blake Purchase stepped in front of a Puckett throw and ran 58 yards the other way, all the way to the State 1. Chambliss went around left end on the next play, and it was 27-17 with 10:30 to go. That interception was the whole night in one snap."
+        },
+        {
+          "type": "paragraph",
+          "text": "After that, the floodgates. Chambliss found Michael Smith for 21 yards and a touchdown, and Dye punched in his second score from a yard out with 1:57 left. Dye carried 20 times for 91 yards on a night our ground game needed somebody to grab it."
+        },
+        {
+          "type": "paragraph",
+          "text": "The defense got meaner as the night went on. Tah'j Butler made 10 tackles and a sack, and Suntarine Perkins had 1.5 sacks and three tackles for loss. We went 8 of 13 on third down and didn't lose the ball once."
+        },
+        {
+          "type": "paragraph",
+          "text": "Honest notes for the film room: Bothwell ran for 129 yards on 18 carries, and State had the ball for 33:22. We were sloppy for two quarters. We were also the better team for two quarters, and that was plenty."
+        },
+        {
+          "type": "paragraph",
+          "text": "That's four straight Egg Bowls and six of the last seven. We're 8-4, 5-4 in the SEC, waiting on a bowl invitation, and the trophy stays in Oxford for another year. Hotty Toddy."
+        }
+      ],
+      "summary": [
+        {
+          "type": "fact",
+          "text": "Ole Miss beat Mississippi State 41-17 in the Egg Bowl on Friday, Nov. 27, at Vaught-Hemingway Stadium. The Rebels are 8-4, 5-4 SEC."
+        },
+        {
+          "type": "fact",
+          "text": "Trinidad Chambliss threw for 237 yards and two touchdowns and ran for another. Joshua Dye ran for two touchdowns."
+        },
+        {
+          "type": "fact",
+          "text": "Blake Purchase's 58-yard interception return to the State 1 set up the go-ahead score, 27-17."
+        },
+        {
+          "type": "jab",
+          "text": "State led at halftime. Then the second half happened, 35-7."
+        },
+        {
+          "type": "fact",
+          "text": "Next: bowl game to be announced."
+        }
+      ],
+      "sources": [
+        {
+          "label": "ESPN box score, Ole Miss 41, Mississippi State 17 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/boxscore/_/gameId/401856762"
+        },
+        {
+          "label": "ESPN play-by-play, Mississippi State at Ole Miss (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/playbyplay/_/gameId/401856762"
+        },
+        {
+          "label": "ESPN game page, Mississippi State at Ole Miss (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/game/_/gameId/401856762"
+        },
+        {
+          "label": "ESPN Ole Miss Rebels 2026 schedule",
+          "url": "https://www.espn.com/college-football/team/schedule/_/id/145"
+        },
+        {
+          "label": "ESPN game recap (AP): Ole Miss 41, Mississippi State 17 (Nov. 27, 2026)",
+          "url": "https://www.espn.com/college-football/recap/_/gameId/401856762"
+        }
+      ],
+      "sources_display": "button",
+      "age_21": false,
+      "sponsored": false,
+      "venues": []
+    }
+  ]
+}
