@@ -8886,13 +8886,13 @@
     "cincinnati",
     "byu"
    ],
-   "spread": "BYU Cougars −16.5",
-   "total_line": 55.5,
+   "spread": "BYU Cougars −17.5",
+   "total_line": 54.5,
    "prediction": {
     "away_score": 20,
-    "home_score": 34,
+    "home_score": 33,
     "winner": "BYU Cougars",
-    "covers": "Cincinnati Bearcats +16.5"
+    "covers": "Cincinnati Bearcats +17.5"
    },
    "total_pick": "Under",
    "status_at_build": {
@@ -8900,74 +8900,74 @@
    },
    "display": {
     "writer": {
-     "score_line": "Projected: BYU Cougars 34, Cincinnati Bearcats 20 (Total 54)",
-     "side": "Cincinnati Bearcats +16.5",
-     "ou": "Under 55.5",
+     "score_line": "Projected: BYU Cougars 33, Cincinnati Bearcats 20 (Total 53)",
+     "side": "Cincinnati Bearcats +17.5",
+     "ou": "Under 54.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Cincinnati Bearcats +16.5 · Likes this side",
-      "ou_line": "O/U: Under 55.5",
+      "side_line": "Side: Cincinnati Bearcats +17.5 · Likes this side",
+      "ou_line": "O/U: Over 54.5",
       "score_line": "Projected: BYU Cougars 34, Cincinnati Bearcats 21 (Total 55)",
       "basis_line": "Net ratings Cincinnati Bearcats 2.5, BYU Cougars 15.3 (ESPN Football Power Index, Nov 23, 2026)",
       "independent": true,
-      "distance_from_spread": 3.5,
+      "distance_from_spread": 4.5,
       "distance_from_total": 0.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: BYU Cougars −16.5",
-      "ou_line": "O/U: Under 55.5",
+      "side_line": "Side: BYU Cougars −17.5",
+      "ou_line": "O/U: Under 54.5",
       "score_line": "Projected: BYU Cougars 36, Cincinnati Bearcats 18 (Total 54)",
       "basis_line": "With the players available: projected points Cincinnati Bearcats 18.4, BYU Cougars 35.6.",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 1.5,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 0.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: BYU Cougars −16.5",
-      "ou_line": "O/U: Under 55.5 · Likes this total",
+      "side_line": "Side: Cincinnati Bearcats +17.5",
+      "ou_line": "O/U: Under 54.5",
       "score_line": "Projected: BYU Cougars 35, Cincinnati Bearcats 18 (Total 53)",
       "basis_line": "Rest and travel read: projected points Cincinnati Bearcats 18.4, BYU Cougars 35.5.",
       "independent": true,
       "distance_from_spread": 0.5,
-      "distance_from_total": 2.5,
+      "distance_from_total": 1.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: BYU Cougars −16.5 · Likes this side",
-      "ou_line": "O/U: no pick",
+      "side_line": "Side: BYU Cougars −17 · Likes this side",
+      "ou_line": "O/U: Under 54.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "Consensus spread opened BYU Cougars −15 (Nov 25, 12:14 PM ET) and is −16.5 now, a 1.5-point move. The side pick quotes the consensus spread now (BYU Cougars −16.5). Consensus total opened 55.5 (Nov 24, 2:13 AM ET) and is 55.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 28, 6:31 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened BYU Cougars −15 (Nov 25, 12:14 PM ET) and is −17 now, a 2-point move. The side pick quotes the consensus spread now (BYU Cougars −17), not the game line listed on this page (BYU Cougars −17.5). Consensus total opened 55.5 (Nov 24, 2:13 AM ET) and is 54.5 now, a 1-point move: Under. The total pick quotes the consensus total now (54.5). Lines are the Action Network consensus as of Nov 28, 11:12 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Cincinnati Bearcats +16.5 · Likes this side",
+      "side_line": "Side: Cincinnati Bearcats +17.5 · Likes this side",
       "ou_line": "O/U: this card reads sides only",
       "score_line": "Projected: BYU Cougars 31, Cincinnati Bearcats 24 (Total 55)",
-      "basis_line": "This read points to a side only. Cincinnati Bearcats 5.6 ypc vs BYU Cougars allowing 3.4; BYU Cougars 4.8 ypc vs Cincinnati Bearcats allowing 4.9 (2026 season). Cincinnati Bearcats run game 2.2 ypc above what the opponent allows, which favours Cincinnati Bearcats. Side: Cincinnati Bearcats +16.5.",
+      "basis_line": "This read points to a side only. Cincinnati Bearcats 5.6 ypc vs BYU Cougars allowing 3.4; BYU Cougars 4.8 ypc vs Cincinnati Bearcats allowing 4.9 (2026 season). Cincinnati Bearcats run game 2.2 ypc above what the opponent allows, which favours Cincinnati Bearcats. Side: Cincinnati Bearcats +17.5.",
       "independent": true,
-      "distance_from_spread": 9.5,
+      "distance_from_spread": 10.5,
       "distance_from_total": 1.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "BYU's last home game falls on Thanksgiving weekend with a 1:30 kickoff that should wrap up around sunset in Provo, and Cincinnati comes in fresh off clinching a bowl trip. In this Cincinnati vs BYU prediction, the points are worth taking: Cincinnati Bearcats +16.5 on the spread, and the over/under goes low with the Under 55.5.\n\nBryce Halvorsen-Tuilagi is already bundled up. \"Last home game, Skyline. Dress warm. We send our seniors out right.\"\n\nLionel \"Skyline\" Abernathy shrugs. \"I'm from Cincinnati, Bryce. Cold doesn't scare me. Sixteen and a half points might scare you, though.\"\n\nHe has a point about the margin. BYU is 9-2, but its home wins against FBS teams came by 11 over Arizona, 14 over Iowa State, 4 over Notre Dame, 7 over Arizona State and 21 over Baylor. One of five cleared this number. The Cougars needed overtime to win 31-29 at Kansas last week, and Bear Bachmeier threw for 173 yards in that game. He has 14 touchdowns and 8 interceptions, four of them in the loss at Utah.\n\nCincinnati has a real offense. JC French IV went 18 for 19 against Colorado last week and has 18 touchdowns against just 3 interceptions. Cole Tabb has 1,097 rushing yards and 12 touchdowns, and he added 7 catches for 110 yards and two scores in that win. The road has been tough, with losses at Arizona, West Virginia, Houston and Iowa State, but the West Virginia and Houston games were decided by a score.\n\nThe market has climbed. DraftKings opened BYU Cougars −12.5 with a 56.5 total. As of 6:31 AM ET Saturday it's BYU Cougars −16.5 and 55.5. BYU Cougars 34, Cincinnati Bearcats 20 is a 14-point win, two and a half short of the number.\n\nThe Under is BYU's defense at home. The Cougars allow 19.5 a game, and only the opener against Utah Tech went over this total in Provo. LJ Martin ran 25 times for 127 yards at Kansas, and BYU will keep handing it to him to shorten the afternoon. Cincinnati allows 30.4, but scoring 34 is a long way from the Cougars blowing this open. I have it at 54.\n\nThe room is split on the side and together on the total. The Formula has BYU 34-21 and takes Cincinnati +16.5 with the Under 55.5. Next Man Up has 36-18 and takes BYU −16.5 with the Under 55.5. Letdown Watch has 35-18 and takes BYU −16.5 with the Under 55.5. In The Trenches has BYU 31-24 and takes Cincinnati +16.5, with no over/under call. Follow The Money takes BYU Cougars −16.5 and has no total pick.\n\nNext Man Up: \"Thirty-six to eighteen. Last home game, Senior Day feel. BYU doesn't let this get close.\"\n\nThe Formula: \"They let Notre Dame get within four in that building. They let Arizona State get within seven. Sixteen and a half is a big ask.\"\n\nMy final is BYU by 14 with 54 points, a point and a half under. The fans walk out into a cold Provo evening, and the Bearcats walk out inside the number.\n\nBYU Cougars 34, Cincinnati Bearcats 20. Cincinnati Bearcats cover the 16.5. Under 55.5.",
-    "fanatic_score_line": "Projected: BYU Cougars 34, Cincinnati Bearcats 20",
+    "story_text": "BYU's last home game falls on Thanksgiving weekend with a 1:30 kickoff that should wrap up around sunset in Provo, and Cincinnati comes in fresh off clinching a bowl trip. In this Cincinnati vs BYU prediction, the points are worth taking: Cincinnati Bearcats +17.5 on the spread, and the over/under goes low with the Under 54.5.\n\nBryce Halvorsen-Tuilagi is already bundled up. \"Last home game, Skyline. Dress warm. We send our seniors out right.\"\n\nLionel \"Skyline\" Abernathy shrugs. \"I'm from Cincinnati, Bryce. Cold doesn't scare me. Sixteen and a half points might scare you, though.\"\n\nHe has a point about the margin. BYU is 9-2, but its home wins against FBS teams came by 11 over Arizona, 14 over Iowa State, 4 over Notre Dame, 7 over Arizona State and 21 over Baylor. One of five cleared this number. The Cougars needed overtime to win 31-29 at Kansas last week, and Bear Bachmeier threw for 173 yards in that game. He has 14 touchdowns and 8 interceptions, four of them in the loss at Utah.\n\nCincinnati has a real offense. JC French IV went 18 for 19 against Colorado last week and has 18 touchdowns against just 3 interceptions. Cole Tabb has 1,097 rushing yards and 12 touchdowns, and he added 7 catches for 110 yards and two scores in that win. The road has been tough, with losses at Arizona, West Virginia, Houston and Iowa State, but the West Virginia and Houston games were decided by a score.\n\nThe market has climbed. DraftKings opened BYU Cougars −12.5 with a 56.5 total. As of 11:12 AM ET Saturday it's BYU Cougars −17.5 and 54.5. BYU Cougars 33, Cincinnati Bearcats 20 is a 13-point win, four and a half short of the number.\n\nThe Under is BYU's defense at home. The Cougars allow 19.5 a game, and only the opener against Utah Tech went over this total in Provo. LJ Martin ran 25 times for 127 yards at Kansas, and BYU will keep handing it to him to shorten the afternoon. Cincinnati allows 30.4, but scoring 33 is a long way from the Cougars blowing this open. I have it at 53.\n\nThe room splits on the side and the total. The Formula has BYU 34-21 and takes Cincinnati +17.5 with the Over 54.5. Next Man Up has 36-18 and takes BYU −17.5 with the Under 54.5. Letdown Watch has 35-18 and takes Cincinnati +17.5 with the Under 54.5. In The Trenches has BYU 31-24 and takes Cincinnati +17.5, with no over/under call. Follow The Money takes BYU Cougars −17 and the Under 54.5.\n\nNext Man Up: \"Thirty-six to eighteen. Last home game, Senior Day feel. BYU doesn't let this get close.\"\n\nThe Formula: \"They let Notre Dame get within four in that building. They let Arizona State get within seven. Sixteen and a half is a big ask.\"\n\nMy final is BYU by 13 with 53 points, a point and a half under. The fans walk out into a cold Provo evening, and the Bearcats walk out inside the number.\n\nBYU Cougars 33, Cincinnati Bearcats 20. Cincinnati Bearcats cover the 17.5. Under 54.5.",
+    "fanatic_score_line": "Projected: BYU Cougars 33, Cincinnati Bearcats 20",
     "line_used": {
-     "home_line": "BYU Cougars −16.5",
-     "total": "55.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 6:31 AM ET",
-     "fetched_at_utc": "2026-11-28T11:31Z"
+     "home_line": "BYU Cougars −17.5",
+     "total": "54.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "injuries": {
      "away": [
@@ -9023,8 +9023,8 @@
        "game_status": "Doubtful"
       }
      ],
-     "source": "Official availability report (Update posted Fri Nov 27, 7:00 PM PT), via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-cincinnati-at-byu/), checked Nov 28, 2026, 6:31 AM ET. Key players only (Out, Doubtful, Questionable).",
-     "fetched_at_utc": "2026-11-28T11:31Z"
+     "source": "Official availability report (Update posted Fri Nov 27, 7:00 PM PT), via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-cincinnati-at-byu/), checked Nov 28, 2026, 11:12 AM ET. Key players only (Out, Doubtful, Questionable).",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -9035,18 +9035,18 @@
      "Trench stats: ESPN team stats for BYU (espn.com)",
      "Schedule history: collegefootballdata.com 2018–2025"
     ],
-    "fanatic_story": "Provo is bracing for the coldest home game of the year on Saturday, when Cincinnati Bearcats vs BYU Cougars closes the LaVell Edwards Stadium schedule on Thanksgiving weekend with a 1:30 kickoff that should end right around sunset. Bryce Halvorsen-Tuilagi packed two blankets, a jug of cocoa and a speech for every senior, and Lionel \"Skyline\" Abernathy flew in from Cincinnati wearing a windbreaker, which Bryce considers a cry for help.\n\n\"A windbreaker,\" Bryce says, handing him a blanket without being asked. \"You came to Utah in November in a windbreaker.\"\n\n\"It's a thick windbreaker,\" Skyline says. \"Cincinnati winters build character. I have a lot of character.\"\n\n\"Your character is going to be shivering by the third quarter.\"\n\n\"Then I'll shiver happy. We're a bowl team now, Bryce.\"\n\nThat's Skyline's big news, and he's going to say it a few more times before kickoff. Cincinnati beat Colorado 35-28 last week to get to 6-5, and JC French IV was nearly perfect, completing 18 of 19 throws for 208 yards and two touchdowns. Cole Tabb ran for 120 yards and two scores and caught seven balls for 110 more, which Skyline describes as \"a one-man buffet.\" Tabb has 1,097 rushing yards and 12 touchdowns on the year.\n\n\"Eighteen of nineteen,\" Skyline says. \"You know what the one miss was? A throwaway. On purpose. He felt bad for the defense.\"\n\nBryce has more to brag about, and he knows it. BYU is 9-2, ranked in the top ten, and this is the Cougars' ninth game on one of the big national networks this season. They beat Notre Dame 28-24 in October in this very stadium, and Bryce has the final score saved as the wallpaper on his phone.\n\n\"Notre Dame,\" Bryce says, slowly. \"In Provo. I still get goosebumps.\"\n\n\"That might be the weather.\"\n\n\"It's not the weather.\"\n\nBear Bachmeier leads the offense with 2,299 throwing yards and 14 touchdowns, and LJ Martin ran for 127 yards at Kansas last week in a 31-29 overtime win. Legend Glasker is the top receiver with 735 yards. On defense, Cade Uluave has 71 tackles and Bodie Schoonover leads the team with four sacks. BYU gives up 19.5 points a game, and in Provo the Cougars have been tough to score on, with Baylor managing just seven two weeks ago.\n\n\"Our defense is like this campus,\" Bryce says. \"Clean, polite and very hard to get into after dark.\"\n\nSkyline admits the road has been rough. The Bearcats lost at Arizona, at West Virginia, at Houston and at Iowa State, and their defense gives up 30.4 points a game. But two of those road losses were one-score games, and the West Virginia one was a 45-42 shootout he still has nightmares about.\n\n\"We lose close,\" Skyline says. \"We never lose boring.\"\n\nThe two teams met in this stadium in 2023, and BYU won 35-27. Last year BYU won 26-14. Skyline is counting on Jonathan Thompson, the Bearcats' leading tackler with 83, to make this one look more like the first game than the second.\n\nHere's how Saturday goes. The seniors get their moment before kickoff, the crowd is bundled up and loud, and BYU takes the opening drive right down the field, with Martin pounding it in. Cincinnati answers with French finding Tabb out of the backfield, and the Bearcats are hanging around at halftime. Then the sun starts to drop behind the mountains, and so does Cincinnati's luck. Bachmeier hits Glasker for a long touchdown, Uluave stuffs a fourth-down run, and BYU pulls away in the third quarter. The Bearcats keep swinging, Tabb scores late, and the final margin stays respectable.\n\nBryce will walk Skyline to the shuttle with the blanket still wrapped around his shoulders. Skyline will try to give it back, and Bryce will tell him to keep it for the bowl game.\n\nMy call: BYU Cougars 34, Cincinnati Bearcats 20.",
+    "fanatic_story": "Provo is bracing for the coldest home game of the year on Saturday, when Cincinnati Bearcats vs BYU Cougars closes the LaVell Edwards Stadium schedule on Thanksgiving weekend with a 1:30 kickoff that should end right around sunset. Bryce Halvorsen-Tuilagi packed two blankets, a jug of cocoa and a speech for every senior, and Lionel \"Skyline\" Abernathy flew in from Cincinnati wearing a windbreaker, which Bryce considers a cry for help.\n\n\"A windbreaker,\" Bryce says, handing him a blanket without being asked. \"You came to Utah in November in a windbreaker.\"\n\n\"It's a thick windbreaker,\" Skyline says. \"Cincinnati winters build character. I have a lot of character.\"\n\n\"Your character is going to be shivering by the third quarter.\"\n\n\"Then I'll shiver happy. We're a bowl team now, Bryce.\"\n\nThat's Skyline's big news, and he's going to say it a few more times before kickoff. Cincinnati beat Colorado 35-28 last week to get to 6-5, and JC French IV was nearly perfect, completing 18 of 19 throws for 208 yards and two touchdowns. Cole Tabb ran for 120 yards and two scores and caught seven balls for 110 more, which Skyline describes as \"a one-man buffet.\" Tabb has 1,097 rushing yards and 12 touchdowns on the year.\n\n\"Eighteen of nineteen,\" Skyline says. \"You know what the one miss was? A throwaway. On purpose. He felt bad for the defense.\"\n\nBryce has more to brag about, and he knows it. BYU is 9-2, ranked in the top ten, and this is the Cougars' ninth game on one of the big national networks this season. They beat Notre Dame 28-24 in October in this very stadium, and Bryce has the final score saved as the wallpaper on his phone.\n\n\"Notre Dame,\" Bryce says, slowly. \"In Provo. I still get goosebumps.\"\n\n\"That might be the weather.\"\n\n\"It's not the weather.\"\n\nBear Bachmeier leads the offense with 2,299 throwing yards and 14 touchdowns, and LJ Martin ran for 127 yards at Kansas last week in a 31-29 overtime win. Legend Glasker is the top receiver with 735 yards. On defense, Cade Uluave has 71 tackles and Bodie Schoonover leads the team with four sacks. BYU gives up 19.5 points a game, and in Provo the Cougars have been tough to score on, with Baylor managing just seven two weeks ago.\n\n\"Our defense is like this campus,\" Bryce says. \"Clean, polite and very hard to get into after dark.\"\n\nSkyline admits the road has been rough. The Bearcats lost at Arizona, at West Virginia, at Houston and at Iowa State, and their defense gives up 30.4 points a game. But two of those road losses were one-score games, and the West Virginia one was a 45-42 shootout he still has nightmares about.\n\n\"We lose close,\" Skyline says. \"We never lose boring.\"\n\nThe two teams met in this stadium in 2023, and BYU won 35-27. Last year BYU won 26-14. Skyline is counting on Jonathan Thompson, the Bearcats' leading tackler with 83, to make this one look more like the first game than the second.\n\nHere's how Saturday goes. The seniors get their moment before kickoff, the crowd is bundled up and loud, and BYU takes the opening drive right down the field, with Martin pounding it in. Cincinnati answers with French finding Tabb out of the backfield, and the Bearcats are hanging around at halftime. Then the sun starts to drop behind the mountains, and so does Cincinnati's luck. Bachmeier hits Glasker for a long touchdown, Uluave stuffs a fourth-down run, and BYU pulls away in the third quarter. The Bearcats keep swinging, Tabb scores late, and the final margin stays respectable.\n\nBryce will walk Skyline to the shuttle with the blanket still wrapped around his shoulders. Skyline will try to give it back, and Bryce will tell him to keep it for the bowl game.\n\nMy call: BYU Cougars 33, Cincinnati Bearcats 20.",
     "market": {
      "score_line": "",
-     "spread": "BYU Cougars −16.5",
-     "total": "55.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 6:31 AM ET",
+     "spread": "BYU Cougars −17.5",
+     "total": "54.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "Cincinnati Bearcats vs BYU Cougars: Provo's Cold Goodbye",
-    "gambler_headline": "Cincinnati vs BYU Pick: Bearcats +16.5 and the Under 55.5"
+    "gambler_headline": "Cincinnati vs BYU Pick: Bearcats +17.5 and the Under 54.5"
    },
-   "gambler_story": "BYU's last home game falls on Thanksgiving weekend with a 1:30 kickoff that should wrap up around sunset in Provo, and Cincinnati comes in fresh off clinching a bowl trip. In this Cincinnati vs BYU prediction, the points are worth taking: Cincinnati Bearcats +16.5 on the spread, and the over/under goes low with the Under 55.5.\n\nBryce Halvorsen-Tuilagi is already bundled up. \"Last home game, Skyline. Dress warm. We send our seniors out right.\"\n\nLionel \"Skyline\" Abernathy shrugs. \"I'm from Cincinnati, Bryce. Cold doesn't scare me. Sixteen and a half points might scare you, though.\"\n\nHe has a point about the margin. BYU is 9-2, but its home wins against FBS teams came by 11 over Arizona, 14 over Iowa State, 4 over Notre Dame, 7 over Arizona State and 21 over Baylor. One of five cleared this number. The Cougars needed overtime to win 31-29 at Kansas last week, and Bear Bachmeier threw for 173 yards in that game. He has 14 touchdowns and 8 interceptions, four of them in the loss at Utah.\n\nCincinnati has a real offense. JC French IV went 18 for 19 against Colorado last week and has 18 touchdowns against just 3 interceptions. Cole Tabb has 1,097 rushing yards and 12 touchdowns, and he added 7 catches for 110 yards and two scores in that win. The road has been tough, with losses at Arizona, West Virginia, Houston and Iowa State, but the West Virginia and Houston games were decided by a score.\n\nThe market has climbed. DraftKings opened BYU Cougars −12.5 with a 56.5 total. As of 6:31 AM ET Saturday it's BYU Cougars −16.5 and 55.5. BYU Cougars 34, Cincinnati Bearcats 20 is a 14-point win, two and a half short of the number.\n\nThe Under is BYU's defense at home. The Cougars allow 19.5 a game, and only the opener against Utah Tech went over this total in Provo. LJ Martin ran 25 times for 127 yards at Kansas, and BYU will keep handing it to him to shorten the afternoon. Cincinnati allows 30.4, but scoring 34 is a long way from the Cougars blowing this open. I have it at 54.\n\nThe room is split on the side and together on the total. The Formula has BYU 34-21 and takes Cincinnati +16.5 with the Under 55.5. Next Man Up has 36-18 and takes BYU −16.5 with the Under 55.5. Letdown Watch has 35-18 and takes BYU −16.5 with the Under 55.5. In The Trenches has BYU 31-24 and takes Cincinnati +16.5, with no over/under call. Follow The Money takes BYU Cougars −16.5 and has no total pick.\n\nNext Man Up: \"Thirty-six to eighteen. Last home game, Senior Day feel. BYU doesn't let this get close.\"\n\nThe Formula: \"They let Notre Dame get within four in that building. They let Arizona State get within seven. Sixteen and a half is a big ask.\"\n\nMy final is BYU by 14 with 54 points, a point and a half under. The fans walk out into a cold Provo evening, and the Bearcats walk out inside the number.\n\nBYU Cougars 34, Cincinnati Bearcats 20. Cincinnati Bearcats cover the 16.5. Under 55.5."
+   "gambler_story": "BYU's last home game falls on Thanksgiving weekend with a 1:30 kickoff that should wrap up around sunset in Provo, and Cincinnati comes in fresh off clinching a bowl trip. In this Cincinnati vs BYU prediction, the points are worth taking: Cincinnati Bearcats +17.5 on the spread, and the over/under goes low with the Under 54.5.\n\nBryce Halvorsen-Tuilagi is already bundled up. \"Last home game, Skyline. Dress warm. We send our seniors out right.\"\n\nLionel \"Skyline\" Abernathy shrugs. \"I'm from Cincinnati, Bryce. Cold doesn't scare me. Sixteen and a half points might scare you, though.\"\n\nHe has a point about the margin. BYU is 9-2, but its home wins against FBS teams came by 11 over Arizona, 14 over Iowa State, 4 over Notre Dame, 7 over Arizona State and 21 over Baylor. One of five cleared this number. The Cougars needed overtime to win 31-29 at Kansas last week, and Bear Bachmeier threw for 173 yards in that game. He has 14 touchdowns and 8 interceptions, four of them in the loss at Utah.\n\nCincinnati has a real offense. JC French IV went 18 for 19 against Colorado last week and has 18 touchdowns against just 3 interceptions. Cole Tabb has 1,097 rushing yards and 12 touchdowns, and he added 7 catches for 110 yards and two scores in that win. The road has been tough, with losses at Arizona, West Virginia, Houston and Iowa State, but the West Virginia and Houston games were decided by a score.\n\nThe market has climbed. DraftKings opened BYU Cougars −12.5 with a 56.5 total. As of 11:12 AM ET Saturday it's BYU Cougars −17.5 and 54.5. BYU Cougars 33, Cincinnati Bearcats 20 is a 13-point win, four and a half short of the number.\n\nThe Under is BYU's defense at home. The Cougars allow 19.5 a game, and only the opener against Utah Tech went over this total in Provo. LJ Martin ran 25 times for 127 yards at Kansas, and BYU will keep handing it to him to shorten the afternoon. Cincinnati allows 30.4, but scoring 33 is a long way from the Cougars blowing this open. I have it at 53.\n\nThe room splits on the side and the total. The Formula has BYU 34-21 and takes Cincinnati +17.5 with the Over 54.5. Next Man Up has 36-18 and takes BYU −17.5 with the Under 54.5. Letdown Watch has 35-18 and takes Cincinnati +17.5 with the Under 54.5. In The Trenches has BYU 31-24 and takes Cincinnati +17.5, with no over/under call. Follow The Money takes BYU Cougars −17 and the Under 54.5.\n\nNext Man Up: \"Thirty-six to eighteen. Last home game, Senior Day feel. BYU doesn't let this get close.\"\n\nThe Formula: \"They let Notre Dame get within four in that building. They let Arizona State get within seven. Sixteen and a half is a big ask.\"\n\nMy final is BYU by 13 with 53 points, a point and a half under. The fans walk out into a cold Provo evening, and the Bearcats walk out inside the number.\n\nBYU Cougars 33, Cincinnati Bearcats 20. Cincinnati Bearcats cover the 17.5. Under 54.5."
   },
   {
    "game_id": "401858312",
@@ -9370,9 +9370,9 @@
      {
       "name": "Follow The Money",
       "side_line": "Side: no pick",
-      "ou_line": "O/U: no pick",
+      "ou_line": "O/U: Under 60.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "Consensus spread opened Stanford Cardinal +7.5 (Nov 24, 10:55 AM ET) and is +7.5 now. Follow The Money has no side pick. Consensus total opened 61.5 (Nov 24, 10:28 AM ET) and is 61.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 28, 6:31 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Stanford Cardinal +7.5 (Nov 24, 10:55 AM ET) and is +7.5 now. Follow The Money has no side pick. Consensus total opened 61.5 (Nov 24, 10:28 AM ET) and is 60.5 now, a 1-point move: Under. The total pick quotes the consensus total now (60.5). Lines are the Action Network consensus as of Nov 28, 11:12 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -9389,13 +9389,13 @@
       "landed_on_number": []
      }
     ],
-    "story_text": "SMU has scored 10 points in its last two games, a 49-7 home loss to Wake Forest and a 24-3 loss at Notre Dame, and now it flies to Stanford for a 12:30 kickoff Pacific time against a Cardinal team that's won two straight. My SMU vs Stanford pick is SMU Mustangs −7.5 and the Under 60.5, because the Mustangs are still the better team and this game doesn't look like a shootout to me.\n\nTatum Delacroix-Price grades the week before anybody asks. \"Two losses, two bad outfits. We're changing clothes on the plane. The Boulevard does not lose three in a row.\"\n\nIggy Yamamoto-Ross is already pitching. \"Stanford's six and five, bowl-eligible, and scaling. We pivoted to the run game and the product finally shipped.\"\n\nHe's got a point about the product. Micah Ford has 1,051 rushing yards and 13 touchdowns, and he went for 151 and two scores in the 44-28 win at Cal last week. The Cardinal won 40-22 at Virginia Tech the week before that. Davis Warren has thrown only 3 interceptions all season.\n\nBut Stanford's defense gives up 35.1 a game. It allowed 45 to Miami, 57 at Wake Forest, 58 at Notre Dame and 52 at Louisville. The good teams on this schedule have rolled it.\n\nSMU is one of those teams on a normal day. Kevin Jennings has 3,189 yards with 26 touchdowns and 8 interceptions, and Kendrick Raphael has 909 rushing yards. The Mustangs beat Cal 59-20 and Virginia Tech 51-28, and they score 31.2 a game. Marques White has 8.5 sacks and should live in the Stanford backfield. The last two weeks were ugly, but Notre Dame and Wake Forest are better defenses than anything Stanford puts out there.\n\nSMU has won both meetings since joining the ACC, 40-10 in 2024 and 34-10 last year.\n\nMy margin is nine. That clears the 7.5 by a point and a half, and I'm fine with that.\n\nOn the total, I have 55. SMU's offense has gone cold, and Stanford wants to run Ford and keep the clock moving. DraftKings opened SMU Mustangs −10 with a 60.5 total. As of 6:31 AM ET Saturday it's SMU Mustangs −7.5 and 60.5.\n\nThe room is together on both. The Formula has SMU 33-23 and takes SMU −7.5 with the Under 60.5. Next Man Up has 34-25 and takes SMU −7.5 with the Under 60.5. Letdown Watch has 34-21 and takes SMU −7.5 with the Under 60.5. In The Trenches has SMU 28-26 and takes Stanford +7.5, with no over/under call. Follow The Money has no pick.\n\nLetdown Watch: \"SMU's had its letdown. Two of them. In The Trenches is the one still sleeping.\"\n\nIn The Trenches: \"Two points, Letdown Watch. My front says two points. Come see me in the fourth quarter.\"\n\nMy final is SMU Mustangs 32, Stanford Cardinal 23. Tatum gives the Mustangs an A-minus for the travel suits. Iggy calls it a learning round.\n\nSMU Mustangs 32, Stanford Cardinal 23. SMU Mustangs cover the 7.5. Under 60.5.",
+    "story_text": "SMU has scored 10 points in its last two games, a 49-7 home loss to Wake Forest and a 24-3 loss at Notre Dame, and now it flies to Stanford for a 12:30 kickoff Pacific time against a Cardinal team that's won two straight. My SMU vs Stanford pick is SMU Mustangs −7.5 and the Under 60.5, because the Mustangs are still the better team and this game doesn't look like a shootout to me.\n\nTatum Delacroix-Price grades the week before anybody asks. \"Two losses, two bad outfits. We're changing clothes on the plane. The Boulevard does not lose three in a row.\"\n\nIggy Yamamoto-Ross is already pitching. \"Stanford's six and five, bowl-eligible, and scaling. We pivoted to the run game and the product finally shipped.\"\n\nHe's got a point about the product. Micah Ford has 1,051 rushing yards and 13 touchdowns, and he went for 151 and two scores in the 44-28 win at Cal last week. The Cardinal won 40-22 at Virginia Tech the week before that. Davis Warren has thrown only 3 interceptions all season.\n\nBut Stanford's defense gives up 35.1 a game. It allowed 45 to Miami, 57 at Wake Forest, 58 at Notre Dame and 52 at Louisville. The good teams on this schedule have rolled it.\n\nSMU is one of those teams on a normal day. Kevin Jennings has 3,189 yards with 26 touchdowns and 8 interceptions, and Kendrick Raphael has 909 rushing yards. The Mustangs beat Cal 59-20 and Virginia Tech 51-28, and they score 31.2 a game. Marques White has 8.5 sacks and should live in the Stanford backfield. The last two weeks were ugly, but Notre Dame and Wake Forest are better defenses than anything Stanford puts out there.\n\nSMU has won both meetings since joining the ACC, 40-10 in 2024 and 34-10 last year.\n\nMy margin is nine. That clears the 7.5 by a point and a half, and I'm fine with that.\n\nOn the total, I have 55. SMU's offense has gone cold, and Stanford wants to run Ford and keep the clock moving. DraftKings opened SMU Mustangs −10 with a 60.5 total. As of 11:12 AM ET Saturday it's SMU Mustangs −7.5 and 60.5.\n\nThe room is together on both. The Formula has SMU 33-23 and takes SMU −7.5 with the Under 60.5. Next Man Up has 34-25 and takes SMU −7.5 with the Under 60.5. Letdown Watch has 34-21 and takes SMU −7.5 with the Under 60.5. In The Trenches has SMU 28-26 and takes Stanford +7.5, with no over/under call. Follow The Money has no side pick and takes the Under 60.5.\n\nLetdown Watch: \"SMU's had its letdown. Two of them. In The Trenches is the one still sleeping.\"\n\nIn The Trenches: \"Two points, Letdown Watch. My front says two points. Come see me in the fourth quarter.\"\n\nMy final is SMU Mustangs 32, Stanford Cardinal 23. Tatum gives the Mustangs an A-minus for the travel suits. Iggy calls it a learning round.\n\nSMU Mustangs 32, Stanford Cardinal 23. SMU Mustangs cover the 7.5. Under 60.5.",
     "fanatic_score_line": "Projected: SMU Mustangs 32, Stanford Cardinal 23",
     "line_used": {
      "home_line": "Stanford Cardinal +7.5",
      "total": "60.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 6:31 AM ET",
-     "fetched_at_utc": "2026-11-28T11:31Z"
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "injuries": {
      "away": [
@@ -9514,8 +9514,8 @@
        "game_status": "Out"
       }
      ],
-     "source": "Official availability report (Update posted Fri Nov 27, 8:00 PM PT), via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-smu-at-stanford/), checked Nov 28, 2026, 6:31 AM ET. Key players only (Out, Doubtful, Questionable).",
-     "fetched_at_utc": "2026-11-28T11:31Z"
+     "source": "Official availability report (Update posted Fri Nov 27, 8:00 PM PT), via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-smu-at-stanford/), checked Nov 28, 2026, 11:12 AM ET. Key players only (Out, Doubtful, Questionable).",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -9531,13 +9531,13 @@
      "score_line": "",
      "spread": "SMU Mustangs −7.5",
      "total": "60.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 6:31 AM ET",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "SMU Mustangs vs Stanford Cardinal: FansGiving on The Farm",
     "gambler_headline": "SMU vs Stanford Pick: Mustangs −7.5 and the Under 60.5"
    },
-   "gambler_story": "SMU has scored 10 points in its last two games, a 49-7 home loss to Wake Forest and a 24-3 loss at Notre Dame, and now it flies to Stanford for a 12:30 kickoff Pacific time against a Cardinal team that's won two straight. My SMU vs Stanford pick is SMU Mustangs −7.5 and the Under 60.5, because the Mustangs are still the better team and this game doesn't look like a shootout to me.\n\nTatum Delacroix-Price grades the week before anybody asks. \"Two losses, two bad outfits. We're changing clothes on the plane. The Boulevard does not lose three in a row.\"\n\nIggy Yamamoto-Ross is already pitching. \"Stanford's six and five, bowl-eligible, and scaling. We pivoted to the run game and the product finally shipped.\"\n\nHe's got a point about the product. Micah Ford has 1,051 rushing yards and 13 touchdowns, and he went for 151 and two scores in the 44-28 win at Cal last week. The Cardinal won 40-22 at Virginia Tech the week before that. Davis Warren has thrown only 3 interceptions all season.\n\nBut Stanford's defense gives up 35.1 a game. It allowed 45 to Miami, 57 at Wake Forest, 58 at Notre Dame and 52 at Louisville. The good teams on this schedule have rolled it.\n\nSMU is one of those teams on a normal day. Kevin Jennings has 3,189 yards with 26 touchdowns and 8 interceptions, and Kendrick Raphael has 909 rushing yards. The Mustangs beat Cal 59-20 and Virginia Tech 51-28, and they score 31.2 a game. Marques White has 8.5 sacks and should live in the Stanford backfield. The last two weeks were ugly, but Notre Dame and Wake Forest are better defenses than anything Stanford puts out there.\n\nSMU has won both meetings since joining the ACC, 40-10 in 2024 and 34-10 last year.\n\nMy margin is nine. That clears the 7.5 by a point and a half, and I'm fine with that.\n\nOn the total, I have 55. SMU's offense has gone cold, and Stanford wants to run Ford and keep the clock moving. DraftKings opened SMU Mustangs −10 with a 60.5 total. As of 6:31 AM ET Saturday it's SMU Mustangs −7.5 and 60.5.\n\nThe room is together on both. The Formula has SMU 33-23 and takes SMU −7.5 with the Under 60.5. Next Man Up has 34-25 and takes SMU −7.5 with the Under 60.5. Letdown Watch has 34-21 and takes SMU −7.5 with the Under 60.5. In The Trenches has SMU 28-26 and takes Stanford +7.5, with no over/under call. Follow The Money has no pick.\n\nLetdown Watch: \"SMU's had its letdown. Two of them. In The Trenches is the one still sleeping.\"\n\nIn The Trenches: \"Two points, Letdown Watch. My front says two points. Come see me in the fourth quarter.\"\n\nMy final is SMU Mustangs 32, Stanford Cardinal 23. Tatum gives the Mustangs an A-minus for the travel suits. Iggy calls it a learning round.\n\nSMU Mustangs 32, Stanford Cardinal 23. SMU Mustangs cover the 7.5. Under 60.5."
+   "gambler_story": "SMU has scored 10 points in its last two games, a 49-7 home loss to Wake Forest and a 24-3 loss at Notre Dame, and now it flies to Stanford for a 12:30 kickoff Pacific time against a Cardinal team that's won two straight. My SMU vs Stanford pick is SMU Mustangs −7.5 and the Under 60.5, because the Mustangs are still the better team and this game doesn't look like a shootout to me.\n\nTatum Delacroix-Price grades the week before anybody asks. \"Two losses, two bad outfits. We're changing clothes on the plane. The Boulevard does not lose three in a row.\"\n\nIggy Yamamoto-Ross is already pitching. \"Stanford's six and five, bowl-eligible, and scaling. We pivoted to the run game and the product finally shipped.\"\n\nHe's got a point about the product. Micah Ford has 1,051 rushing yards and 13 touchdowns, and he went for 151 and two scores in the 44-28 win at Cal last week. The Cardinal won 40-22 at Virginia Tech the week before that. Davis Warren has thrown only 3 interceptions all season.\n\nBut Stanford's defense gives up 35.1 a game. It allowed 45 to Miami, 57 at Wake Forest, 58 at Notre Dame and 52 at Louisville. The good teams on this schedule have rolled it.\n\nSMU is one of those teams on a normal day. Kevin Jennings has 3,189 yards with 26 touchdowns and 8 interceptions, and Kendrick Raphael has 909 rushing yards. The Mustangs beat Cal 59-20 and Virginia Tech 51-28, and they score 31.2 a game. Marques White has 8.5 sacks and should live in the Stanford backfield. The last two weeks were ugly, but Notre Dame and Wake Forest are better defenses than anything Stanford puts out there.\n\nSMU has won both meetings since joining the ACC, 40-10 in 2024 and 34-10 last year.\n\nMy margin is nine. That clears the 7.5 by a point and a half, and I'm fine with that.\n\nOn the total, I have 55. SMU's offense has gone cold, and Stanford wants to run Ford and keep the clock moving. DraftKings opened SMU Mustangs −10 with a 60.5 total. As of 11:12 AM ET Saturday it's SMU Mustangs −7.5 and 60.5.\n\nThe room is together on both. The Formula has SMU 33-23 and takes SMU −7.5 with the Under 60.5. Next Man Up has 34-25 and takes SMU −7.5 with the Under 60.5. Letdown Watch has 34-21 and takes SMU −7.5 with the Under 60.5. In The Trenches has SMU 28-26 and takes Stanford +7.5, with no over/under call. Follow The Money has no side pick and takes the Under 60.5.\n\nLetdown Watch: \"SMU's had its letdown. Two of them. In The Trenches is the one still sleeping.\"\n\nIn The Trenches: \"Two points, Letdown Watch. My front says two points. Come see me in the fourth quarter.\"\n\nMy final is SMU Mustangs 32, Stanford Cardinal 23. Tatum gives the Mustangs an A-minus for the travel suits. Iggy calls it a learning round.\n\nSMU Mustangs 32, Stanford Cardinal 23. SMU Mustangs cover the 7.5. Under 60.5."
   },
   {
    "game_id": "401858539",
@@ -9568,7 +9568,7 @@
     "maryland"
    ],
    "spread": "Maryland Terrapins +7.5",
-   "total_line": 48.5,
+   "total_line": 47.5,
    "prediction": {
     "away_score": 32,
     "home_score": 21,
@@ -9583,49 +9583,49 @@
     "writer": {
      "score_line": "Projected: Penn State Nittany Lions 32, Maryland Terrapins 21 (Total 53)",
      "side": "Penn State Nittany Lions −7.5",
-     "ou": "Over 48.5",
+     "ou": "Over 47.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
       "side_line": "Side: Penn State Nittany Lions −7.5 · Likes this side",
-      "ou_line": "O/U: Over 48.5 · Likes this total",
+      "ou_line": "O/U: Over 47.5 · Likes this total",
       "score_line": "Projected: Penn State Nittany Lions 31, Maryland Terrapins 21 (Total 52)",
       "basis_line": "Net ratings Penn State Nittany Lions 11.7, Maryland Terrapins −2.2 (ESPN Football Power Index, Nov 23, 2026)",
       "independent": true,
       "distance_from_spread": 2.5,
-      "distance_from_total": 3.5,
+      "distance_from_total": 4.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
       "side_line": "Side: Maryland Terrapins +7.5",
-      "ou_line": "O/U: Over 48.5 · Likes this total",
+      "ou_line": "O/U: Over 47.5 · Likes this total",
       "score_line": "Projected: Penn State Nittany Lions 30, Maryland Terrapins 24 (Total 54)",
       "basis_line": "With the players available: projected points Penn State Nittany Lions 29.7, Maryland Terrapins 24.1.",
       "independent": true,
       "distance_from_spread": 1.5,
-      "distance_from_total": 5.5,
+      "distance_from_total": 6.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
       "side_line": "Side: Penn State Nittany Lions −7.5 · Likes this side",
-      "ou_line": "O/U: Over 48.5 · Likes this total",
+      "ou_line": "O/U: Over 47.5 · Likes this total",
       "score_line": "Projected: Penn State Nittany Lions 34, Maryland Terrapins 17 (Total 51)",
       "basis_line": "Rest and travel read: projected points Penn State Nittany Lions 34.2, Maryland Terrapins 17.0.",
       "independent": true,
       "distance_from_spread": 9.5,
-      "distance_from_total": 2.5,
+      "distance_from_total": 3.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
       "side_line": "Side: no pick",
-      "ou_line": "O/U: Under 48.5 · Likes this total",
+      "ou_line": "O/U: Under 47.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "Consensus spread opened Maryland Terrapins +7 (Nov 24, 5:52 AM ET) and is +7.5 now. Follow The Money has no side pick. Consensus total opened 49.5 (Nov 24, 2:06 PM ET) and is 48.5 now, a 1-point move: Under. The total pick quotes the consensus total now (48.5). Lines are the Action Network consensus as of Nov 28, 6:31 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Maryland Terrapins +7 (Nov 24, 5:52 AM ET) and is +7.5 now. Follow The Money has no side pick. Consensus total opened 49.5 (Nov 24, 2:06 PM ET) and is 47.5 now, a 2-point move: Under. The total pick quotes the consensus total now (47.5). Lines are the Action Network consensus as of Nov 28, 11:12 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -9641,13 +9641,13 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "Penn State lost to Rutgers on the final play last week, and the Nittany Lions now close the regular season at SECU Stadium against a Maryland team playing its home finale on Senior Day. My Penn State vs Maryland prediction is Penn State Nittany Lions −7.5 with the Over 48.5.\n\nLuann Kessler is still mad about Saturday. \"Rutgers. On the last play. With a two-point try. I'm not over it and I'm not getting over it until we score on the first drive in College Park.\"\n\nAbby Chesapeake is all business. \"We've won two of our last four under the interim. Everyone keeps telling me we're 4-7. I keep telling them we're playing at home.\"\n\nPenn State is 6-5, and the loss to Rutgers had little to do with the offense. Rocco Becht went 14 of 21 for 233 yards, Chase Sowell caught 6 for 123, and Cam Wallace ran for 95. The Nittany Lions scored 29.6 points a game and allowed 19.4 this season. Tony Rojas leads the defense with 86 tackles and 6.5 sacks.\n\nMaryland is 4-7 and has allowed 30.7 points a game. The Terps have the better story lately. Interim coach Aazaar Abdul-Rahim won at Purdue 34-29 and beat Wisconsin 24-21, before a 35-21 loss at USC. Malik Washington is back at quarterback with 2,309 yards, but he has thrown 10 interceptions, two of them at USC. Chris Durr Jr. has 74 catches for 848 yards, though the Big Ten availability report lists him doubtful.\n\nThe series has been lopsided. Penn State won 44-7 the last time these teams met, in 2024, and 51-15 the year before. The only Maryland win in the run was 35-19 in 2020.\n\nI'm pricing Washington at quarterback for the Terps and Becht for the Nittany Lions. Penn State's front gets to Washington, he throws a couple he wants back, and the Nittany Lions turn those into points.\n\nThe spread opened at 7.5 at DraftKings and is still 7.5. The total opened at 49.5 and has come down a point to 48.5, which leaves more room for the Over.\n\nPenn State Nittany Lions 32, Maryland Terrapins 21 covers 7.5 by three and a half points, and 53 total points clears 48.5.\n\nThe room is split on the side and together on the total. The Formula has Penn State 31-21 and takes Penn State −7.5 with the Over 48.5. Next Man Up has 30-24 and takes Maryland +7.5 with the Over 48.5. Letdown Watch has 34-17 and takes Penn State −7.5 with the Over 48.5. In The Trenches has no pick in this game. Follow The Money has no side pick and takes the Under 48.5.\n\nNext Man Up: \"Washington makes the throws that keep Maryland in it. Seven and a half is too many for a team coming off a loss like that.\"\n\nLetdown Watch: \"Coming off a loss like that is exactly why they win by double digits.\"\n\nPenn State gets its seventh win, Luann gets her first-drive touchdown, and Abby says a Senior Day loss still counts as a nice afternoon in College Park.\n\nPenn State Nittany Lions 32, Maryland Terrapins 21. Penn State Nittany Lions cover the 7.5. Over 48.5.",
+    "story_text": "Penn State lost to Rutgers on the final play last week, and the Nittany Lions now close the regular season at SECU Stadium against a Maryland team playing its home finale on Senior Day. My Penn State vs Maryland prediction is Penn State Nittany Lions −7.5 with the Over 47.5.\n\nLuann Kessler is still mad about Saturday. \"Rutgers. On the last play. With a two-point try. I'm not over it and I'm not getting over it until we score on the first drive in College Park.\"\n\nAbby Chesapeake is all business. \"We've won two of our last four under the interim. Everyone keeps telling me we're 4-7. I keep telling them we're playing at home.\"\n\nPenn State is 6-5, and the loss to Rutgers had little to do with the offense. Rocco Becht went 14 of 21 for 233 yards, Chase Sowell caught 6 for 123, and Cam Wallace ran for 95. The Nittany Lions scored 29.6 points a game and allowed 19.4 this season. Tony Rojas leads the defense with 86 tackles and 6.5 sacks.\n\nMaryland is 4-7 and has allowed 30.7 points a game. The Terps have the better story lately. Interim coach Aazaar Abdul-Rahim won at Purdue 34-29 and beat Wisconsin 24-21, before a 35-21 loss at USC. Malik Washington is back at quarterback with 2,309 yards, but he has thrown 10 interceptions, two of them at USC. Chris Durr Jr. has 74 catches for 848 yards, though the Big Ten availability report lists him doubtful.\n\nThe series has been lopsided. Penn State won 44-7 the last time these teams met, in 2024, and 51-15 the year before. The only Maryland win in the run was 35-19 in 2020.\n\nI'm pricing Washington at quarterback for the Terps and Becht for the Nittany Lions. Penn State's front gets to Washington, he throws a couple he wants back, and the Nittany Lions turn those into points.\n\nThe spread opened at 7.5 at DraftKings and is still 7.5. The total opened at 49.5 and has come down two points to 47.5, which leaves more room for the Over.\n\nPenn State Nittany Lions 32, Maryland Terrapins 21 covers 7.5 by three and a half points, and 53 total points clears 47.5.\n\nThe room is split on the side and together on the total. The Formula has Penn State 31-21 and takes Penn State −7.5 with the Over 47.5. Next Man Up has 30-24 and takes Maryland +7.5 with the Over 47.5. Letdown Watch has 34-17 and takes Penn State −7.5 with the Over 47.5. In The Trenches has no pick in this game. Follow The Money has no side pick and takes the Under 47.5.\n\nNext Man Up: \"Washington makes the throws that keep Maryland in it. Seven and a half is too many for a team coming off a loss like that.\"\n\nLetdown Watch: \"Coming off a loss like that is exactly why they win by double digits.\"\n\nPenn State gets its seventh win, Luann gets her first-drive touchdown, and Abby says a Senior Day loss still counts as a nice afternoon in College Park.\n\nPenn State Nittany Lions 32, Maryland Terrapins 21. Penn State Nittany Lions cover the 7.5. Over 47.5.",
     "fanatic_score_line": "Projected: Penn State Nittany Lions 32, Maryland Terrapins 21",
     "line_used": {
      "home_line": "Maryland Terrapins +7.5",
-     "total": "48.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 6:31 AM ET",
-     "fetched_at_utc": "2026-11-28T11:31Z"
+     "total": "47.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "injuries": {
      "away": [
@@ -9766,8 +9766,8 @@
        "game_status": "Doubtful"
       }
      ],
-     "source": "Official availability report (Update posted Fri Nov 27, 5:00 PM PT), via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-penn-state-at-maryland/), checked Nov 28, 2026, 6:31 AM ET. Key players only (Out, Doubtful, Questionable).",
-     "fetched_at_utc": "2026-11-28T11:31Z"
+     "source": "Official availability report (Update posted Fri Nov 27, 5:00 PM PT), via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-penn-state-at-maryland/), checked Nov 28, 2026, 11:12 AM ET. Key players only (Out, Doubtful, Questionable).",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -9782,14 +9782,14 @@
     "market": {
      "score_line": "",
      "spread": "Penn State Nittany Lions −7.5",
-     "total": "48.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 6:31 AM ET",
+     "total": "47.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "Penn State vs Maryland: Senior Day for the Terps in College Park",
-    "gambler_headline": "Penn State vs Maryland Pick: Nittany Lions −7.5, Over 48.5"
+    "gambler_headline": "Penn State vs Maryland Pick: Nittany Lions −7.5, Over 47.5"
    },
-   "gambler_story": "Penn State lost to Rutgers on the final play last week, and the Nittany Lions now close the regular season at SECU Stadium against a Maryland team playing its home finale on Senior Day. My Penn State vs Maryland prediction is Penn State Nittany Lions −7.5 with the Over 48.5.\n\nLuann Kessler is still mad about Saturday. \"Rutgers. On the last play. With a two-point try. I'm not over it and I'm not getting over it until we score on the first drive in College Park.\"\n\nAbby Chesapeake is all business. \"We've won two of our last four under the interim. Everyone keeps telling me we're 4-7. I keep telling them we're playing at home.\"\n\nPenn State is 6-5, and the loss to Rutgers had little to do with the offense. Rocco Becht went 14 of 21 for 233 yards, Chase Sowell caught 6 for 123, and Cam Wallace ran for 95. The Nittany Lions scored 29.6 points a game and allowed 19.4 this season. Tony Rojas leads the defense with 86 tackles and 6.5 sacks.\n\nMaryland is 4-7 and has allowed 30.7 points a game. The Terps have the better story lately. Interim coach Aazaar Abdul-Rahim won at Purdue 34-29 and beat Wisconsin 24-21, before a 35-21 loss at USC. Malik Washington is back at quarterback with 2,309 yards, but he has thrown 10 interceptions, two of them at USC. Chris Durr Jr. has 74 catches for 848 yards, though the Big Ten availability report lists him doubtful.\n\nThe series has been lopsided. Penn State won 44-7 the last time these teams met, in 2024, and 51-15 the year before. The only Maryland win in the run was 35-19 in 2020.\n\nI'm pricing Washington at quarterback for the Terps and Becht for the Nittany Lions. Penn State's front gets to Washington, he throws a couple he wants back, and the Nittany Lions turn those into points.\n\nThe spread opened at 7.5 at DraftKings and is still 7.5. The total opened at 49.5 and has come down a point to 48.5, which leaves more room for the Over.\n\nPenn State Nittany Lions 32, Maryland Terrapins 21 covers 7.5 by three and a half points, and 53 total points clears 48.5.\n\nThe room is split on the side and together on the total. The Formula has Penn State 31-21 and takes Penn State −7.5 with the Over 48.5. Next Man Up has 30-24 and takes Maryland +7.5 with the Over 48.5. Letdown Watch has 34-17 and takes Penn State −7.5 with the Over 48.5. In The Trenches has no pick in this game. Follow The Money has no side pick and takes the Under 48.5.\n\nNext Man Up: \"Washington makes the throws that keep Maryland in it. Seven and a half is too many for a team coming off a loss like that.\"\n\nLetdown Watch: \"Coming off a loss like that is exactly why they win by double digits.\"\n\nPenn State gets its seventh win, Luann gets her first-drive touchdown, and Abby says a Senior Day loss still counts as a nice afternoon in College Park.\n\nPenn State Nittany Lions 32, Maryland Terrapins 21. Penn State Nittany Lions cover the 7.5. Over 48.5."
+   "gambler_story": "Penn State lost to Rutgers on the final play last week, and the Nittany Lions now close the regular season at SECU Stadium against a Maryland team playing its home finale on Senior Day. My Penn State vs Maryland prediction is Penn State Nittany Lions −7.5 with the Over 47.5.\n\nLuann Kessler is still mad about Saturday. \"Rutgers. On the last play. With a two-point try. I'm not over it and I'm not getting over it until we score on the first drive in College Park.\"\n\nAbby Chesapeake is all business. \"We've won two of our last four under the interim. Everyone keeps telling me we're 4-7. I keep telling them we're playing at home.\"\n\nPenn State is 6-5, and the loss to Rutgers had little to do with the offense. Rocco Becht went 14 of 21 for 233 yards, Chase Sowell caught 6 for 123, and Cam Wallace ran for 95. The Nittany Lions scored 29.6 points a game and allowed 19.4 this season. Tony Rojas leads the defense with 86 tackles and 6.5 sacks.\n\nMaryland is 4-7 and has allowed 30.7 points a game. The Terps have the better story lately. Interim coach Aazaar Abdul-Rahim won at Purdue 34-29 and beat Wisconsin 24-21, before a 35-21 loss at USC. Malik Washington is back at quarterback with 2,309 yards, but he has thrown 10 interceptions, two of them at USC. Chris Durr Jr. has 74 catches for 848 yards, though the Big Ten availability report lists him doubtful.\n\nThe series has been lopsided. Penn State won 44-7 the last time these teams met, in 2024, and 51-15 the year before. The only Maryland win in the run was 35-19 in 2020.\n\nI'm pricing Washington at quarterback for the Terps and Becht for the Nittany Lions. Penn State's front gets to Washington, he throws a couple he wants back, and the Nittany Lions turn those into points.\n\nThe spread opened at 7.5 at DraftKings and is still 7.5. The total opened at 49.5 and has come down two points to 47.5, which leaves more room for the Over.\n\nPenn State Nittany Lions 32, Maryland Terrapins 21 covers 7.5 by three and a half points, and 53 total points clears 47.5.\n\nThe room is split on the side and together on the total. The Formula has Penn State 31-21 and takes Penn State −7.5 with the Over 47.5. Next Man Up has 30-24 and takes Maryland +7.5 with the Over 47.5. Letdown Watch has 34-17 and takes Penn State −7.5 with the Over 47.5. In The Trenches has no pick in this game. Follow The Money has no side pick and takes the Under 47.5.\n\nNext Man Up: \"Washington makes the throws that keep Maryland in it. Seven and a half is too many for a team coming off a loss like that.\"\n\nLetdown Watch: \"Coming off a loss like that is exactly why they win by double digits.\"\n\nPenn State gets its seventh win, Luann gets her first-drive touchdown, and Abby says a Senior Day loss still counts as a nice afternoon in College Park.\n\nPenn State Nittany Lions 32, Maryland Terrapins 21. Penn State Nittany Lions cover the 7.5. Over 47.5."
   },
   {
    "game_id": "401858543",
@@ -10210,13 +10210,13 @@
     "utep",
     "northern-illinois"
    ],
-   "spread": "Northern Illinois Huskies −4.5",
-   "total_line": 50.5,
+   "spread": "Northern Illinois Huskies −5.5",
+   "total_line": 51.5,
    "prediction": {
-    "away_score": 22,
+    "away_score": 23,
     "home_score": 30,
     "winner": "Northern Illinois Huskies",
-    "covers": "Northern Illinois Huskies −4.5"
+    "covers": "Northern Illinois Huskies −5.5"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -10224,51 +10224,51 @@
    },
    "display": {
     "writer": {
-     "score_line": "Projected: Northern Illinois Huskies 30, UTEP Miners 22 (Total 52)",
-     "side": "Northern Illinois Huskies −4.5",
-     "ou": "Over 50.5",
+     "score_line": "Projected: Northern Illinois Huskies 30, UTEP Miners 23 (Total 53)",
+     "side": "Northern Illinois Huskies −5.5",
+     "ou": "Over 51.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Northern Illinois Huskies −4.5",
-      "ou_line": "O/U: Under 50.5",
+      "side_line": "Side: Northern Illinois Huskies −5.5",
+      "ou_line": "O/U: Under 51.5",
       "score_line": "Projected: Northern Illinois Huskies 28, UTEP Miners 22 (Total 50)",
       "basis_line": "Net ratings UTEP Miners −26.5, Northern Illinois Huskies −20.9 (ESPN Football Power Index, Nov 23, 2026)",
       "independent": true,
-      "distance_from_spread": 1.5,
-      "distance_from_total": 0.5,
+      "distance_from_spread": 0.5,
+      "distance_from_total": 1.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Northern Illinois Huskies −4.5 · Likes this side",
-      "ou_line": "O/U: Over 50.5 · Likes this total",
+      "side_line": "Side: Northern Illinois Huskies −5.5 · Likes this side",
+      "ou_line": "O/U: Over 51.5 · Likes this total",
       "score_line": "Projected: Northern Illinois Huskies 32, UTEP Miners 23 (Total 55)",
       "basis_line": "With the players available: projected points UTEP Miners 23.0, Northern Illinois Huskies 31.5.",
       "independent": true,
-      "distance_from_spread": 4.5,
-      "distance_from_total": 4.5,
+      "distance_from_spread": 3.5,
+      "distance_from_total": 3.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Northern Illinois Huskies −4.5 · Likes this side",
-      "ou_line": "O/U: Under 50.5 · Likes this total",
+      "side_line": "Side: Northern Illinois Huskies −5.5 · Likes this side",
+      "ou_line": "O/U: Under 51.5 · Likes this total",
       "score_line": "Projected: Northern Illinois Huskies 29, UTEP Miners 19 (Total 48)",
       "basis_line": "Rest and travel read: projected points UTEP Miners 19.4, Northern Illinois Huskies 29.0.",
       "independent": true,
-      "distance_from_spread": 5.5,
-      "distance_from_total": 2.5,
+      "distance_from_spread": 4.5,
+      "distance_from_total": 3.5,
       "landed_on_number": []
      },
      {
       "name": "Follow The Money",
-      "side_line": "Side: no pick",
-      "ou_line": "O/U: no pick",
+      "side_line": "Side: Northern Illinois Huskies −5.5 · Likes this side",
+      "ou_line": "O/U: Over 51.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "Consensus spread opened Northern Illinois Huskies −4.5 (Nov 25, 10:17 AM ET) and is −4.5 now. Follow The Money has no side pick. Consensus total opened 50.5 (Nov 25, 10:17 AM ET) and is 50.5 now. Follow The Money has no total pick. Lines are the Action Network consensus as of Nov 28, 6:31 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Northern Illinois Huskies −4.5 (Nov 25, 10:17 AM ET) and is −5.5 now, a 1-point move. The side pick quotes the consensus spread now (Northern Illinois Huskies −5.5). Consensus total opened 50.5 (Nov 25, 10:17 AM ET) and is 51.5 now, a 1-point move: Over. The total pick quotes the consensus total now (51.5). Lines are the Action Network consensus as of Nov 28, 11:12 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -10284,13 +10284,13 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "Northern Illinois is 0-11 in its first Mountain West season, and Saturday's Senior Day game against UTEP in DeKalb is the last shot to put a win on the board. My UTEP vs Northern Illinois pick is Northern Illinois Huskies −4.5 and the Over 50.5, because the Huskies have been closer to winning than their record says and UTEP has been nowhere close.\n\nNola Brandvik puts it the DeKalb way. \"Eleven losses, and the crop's still in the ground. Saturday we harvest, or we plow it all under.\"\n\nNeto Galindo isn't conceding a thing. \"We're one and ten, Nola. That's one more than you. Bring the chile, we're bringing the heat.\"\n\nHe can say it, but UTEP's one win came against Texas Southern in September. Since then the Miners have scored 17 or fewer points in all nine games, and they lost 52-3 at Air Force last Friday. UTEP scores 13.2 a game and gives up 35.3. Raymond Moore III leads the team in throwing and running, with 722 yards in the air and 678 on the ground, which tells you how little the passing game has given them.\n\nNorthern Illinois has its own problems, but it moves the ball. Taron Dickens has 2,330 yards and 13 touchdowns, and DeAree Rogers has 86 catches for 899 yards. The Huskies rallied in the second half at North Dakota State last week before losing 31-25, and they lost 28-24 to Illinois State and 31-24 at UNLV. That's three one-score losses. UTEP lost 14-17 to Hawai'i, and nothing else has been close since September.\n\nThese two have no recent meetings, so there's no history to go on, just two last-place teams in a new league.\n\nMy margin is eight. That clears the 4.5 with room for a UTEP late score.\n\nOn the total, I have 52. Northern Illinois has scored 19 or more in five of its last six, and both defenses give up more than 35 a game. DraftKings opened Northern Illinois Huskies −4.5 with a 49.5 total. As of 6:31 AM ET Saturday it's Northern Illinois Huskies −4.5 and 50.5.\n\nThe room is together on the side and split on the total. The Formula has Northern Illinois 28-22 and takes Northern Illinois −4.5 with the Under 50.5. Next Man Up has 32-23 and takes Northern Illinois −4.5 with the Over 50.5. Letdown Watch has 29-19 and takes Northern Illinois −4.5 with the Under 50.5. In The Trenches has no pick in this game. Follow The Money has no pick.\n\nNext Man Up: \"Both these offenses are on their backup plan, and mine still says 55.\"\n\nLetdown Watch: \"Your plan's been wrong all year, Next Man Up. Ask Northern Illinois.\"\n\nMy final is Northern Illinois Huskies 30, UTEP Miners 22. Nola calls it knee-high by the Fourth of July. Neto rolls his sleeves up and heads back to the mine.\n\nNorthern Illinois Huskies 30, UTEP Miners 22. Northern Illinois Huskies cover the 4.5. Over 50.5.",
-    "fanatic_score_line": "Projected: Northern Illinois Huskies 30, UTEP Miners 22",
+    "story_text": "Northern Illinois is 0-11 in its first Mountain West season, and Saturday's Senior Day game against UTEP in DeKalb is the last shot to put a win on the board. My UTEP vs Northern Illinois pick is Northern Illinois Huskies −5.5 and the Over 51.5, because the Huskies have been closer to winning than their record says and UTEP has been nowhere close.\n\nNola Brandvik puts it the DeKalb way. \"Eleven losses, and the crop's still in the ground. Saturday we harvest, or we plow it all under.\"\n\nNeto Galindo isn't conceding a thing. \"We're one and ten, Nola. That's one more than you. Bring the chile, we're bringing the heat.\"\n\nHe can say it, but UTEP's one win came against Texas Southern in September. Since then the Miners have scored 17 or fewer points in all nine games, and they lost 52-3 at Air Force last Friday. UTEP scores 13.2 a game and gives up 35.3. Raymond Moore III leads the team in throwing and running, with 722 yards in the air and 678 on the ground, which tells you how little the passing game has given them.\n\nNorthern Illinois has its own problems, but it moves the ball. Taron Dickens has 2,330 yards and 13 touchdowns, and DeAree Rogers has 86 catches for 899 yards. The Huskies rallied in the second half at North Dakota State last week before losing 31-25, and they lost 28-24 to Illinois State and 31-24 at UNLV. That's three one-score losses. UTEP lost 14-17 to Hawai'i, and nothing else has been close since September.\n\nThese two have no recent meetings, so there's no history to go on, just two last-place teams in a new league.\n\nMy margin is seven. That clears the 5.5 with room for a UTEP late score.\n\nOn the total, I have 53. Northern Illinois has scored 19 or more in five of its last six, and both defenses give up more than 35 a game. DraftKings opened Northern Illinois Huskies −4.5 with a 49.5 total. As of 11:12 AM ET Saturday it's Northern Illinois Huskies −5.5 and 51.5.\n\nThe room is together on the side and split on the total. The Formula has Northern Illinois 28-22 and takes Northern Illinois −5.5 with the Under 51.5. Next Man Up has 32-23 and takes Northern Illinois −5.5 with the Over 51.5. Letdown Watch has 29-19 and takes Northern Illinois −5.5 with the Under 51.5. In The Trenches has no pick in this game. Follow The Money takes Northern Illinois Huskies −5.5 and the Over 51.5.\n\nNext Man Up: \"Both these offenses are on their backup plan, and mine still says 55.\"\n\nLetdown Watch: \"Your plan's been wrong all year, Next Man Up. Ask Northern Illinois.\"\n\nMy final is Northern Illinois Huskies 30, UTEP Miners 23. Nola calls it knee-high by the Fourth of July. Neto rolls his sleeves up and heads back to the mine.\n\nNorthern Illinois Huskies 30, UTEP Miners 23. Northern Illinois Huskies cover the 5.5. Over 51.5.",
+    "fanatic_score_line": "Projected: Northern Illinois Huskies 30, UTEP Miners 23",
     "line_used": {
-     "home_line": "Northern Illinois Huskies −4.5",
-     "total": "50.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 6:31 AM ET",
-     "fetched_at_utc": "2026-11-28T11:31Z"
+     "home_line": "Northern Illinois Huskies −5.5",
+     "total": "51.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "injuries": {
      "away": [
@@ -10409,8 +10409,8 @@
        "game_status": "Out"
       }
      ],
-     "source": "Official availability report (Initial posted Thu Nov 26, 10:42 AM PT), via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-utep-at-northern-illinois/), checked Nov 28, 2026, 6:31 AM ET. Key players only (Out, Doubtful, Questionable).",
-     "fetched_at_utc": "2026-11-28T11:31Z"
+     "source": "Official availability report (Initial posted Sat Nov 28, 6:55 AM PT), via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-utep-at-northern-illinois/), checked Nov 28, 2026, 11:12 AM ET. Key players only (Out, Doubtful, Questionable).",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -10421,18 +10421,18 @@
      "Trench stats: ESPN team stats for Northern Illinois (espn.com)",
      "Schedule history: collegefootballdata.com 2018–2025"
     ],
-    "fanatic_story": "Somebody's leaving DeKalb on Saturday with a lot of losses and nothing to show for the season. Northern Illinois is 0-11 in its first year in the Mountain West, UTEP is 1-10, and both of them are 0-7 in league play, so when the Miners and the Huskies meet at Huskie Stadium in the season finale, one team finally gets a conference win and the other goes home with a goose egg next to its name.\n\nNola Brandvik has been looking at a cornfield photo on her phone for about a week.\n\n\"You plant in April,\" she says. \"You do everything right. Then it doesn't rain. That's this season. But you still go out and harvest what's there. Saturday, there's something there.\"\n\nNeto Galindo, who drove up from El Paso with a cooler full of green chile and no winter coat, has a different view of the forecast.\n\n\"It's going to be cold, I'm going to be miserable, and we're going to win,\" he says. \"That's the most UTEP sentence I've ever said.\"\n\nLet's be fair to both of them, because neither one of these seasons has been fun.\n\nUTEP's only win came back in September, 51-10 over Texas Southern, when EJ Colson Jr. threw four touchdowns. Since then it's been hard. The Miners lost 61-7 at New Mexico and 52-3 at Air Force last Friday, and they've scored 17 or fewer points in all nine games since the Texas Southern win. Raymond Moore III took over at quarterback in October and has given them a pulse, mostly with his legs. He leads the team with 678 rushing yards, and on the season he has more yards running than most of the Miners' receivers have catching.\n\n\"Raymond Moore runs like a jalapeño,\" Neto says. \"Not the hottest, but it gets you every time.\"\n\nThe closest UTEP came was a 17-14 loss to Hawai'i at home in early November. Neto rates that game a ghost pepper. He rates the Air Force game \"a bell pepper. No heat. Just sad.\"\n\nNorthern Illinois has been closer more often, which is what makes 0-11 hurt so much. The Huskies lost 28-24 to Illinois State in the home opener. They lost 31-24 at UNLV. They went to Fargo last week and came storming back in the second half at North Dakota State before falling 31-25. Taron Dickens threw three touchdowns in that one, and DeAree Rogers caught six balls for 116 yards.\n\n\"That's the one that kept me up,\" Nola says. \"We were right there. A bushel short.\"\n\nDickens has thrown for 2,330 yards and 13 touchdowns this year. Rogers has 86 catches for 899 yards and is one big afternoon away from four figures. Telly Johnson Jr. has 721 rushing yards, and Elijah Porter ran for 107 at North Dakota State. Jack Murray leads the defense with 84 tackles. On paper, this is the better offense on the field, and by a good bit.\n\nThe problem is that both defenses have been getting run over. Northern Illinois gives up 35.5 a game, and UTEP gives up 35.3. Hawai'i put 56 on the Huskies in October. If you're looking for a game where somebody gets stuffed on fourth-and-goal to save the day, this probably isn't it.\n\nThese two don't have any recent history, so this is a new rivalry built entirely on misery. Neto says that's the best kind. Nola says the best kind is the one you win.\n\nHere's the thing about Senior Day for a team that hasn't won. Those seniors at Northern Illinois have been through a move to a new conference, and a season where they lost close and lost big. Saturday is their last chance to walk off that field in DeKalb with a win. That's a lot of motivation for a group of guys who've heard nothing good since Labor Day.\n\nUTEP has motivation too. Nobody wants to fly home 1-11. But the Miners have been held to a field goal in their last game, and it's hard to see the offense suddenly catching fire in the cold in northern Illinois.\n\nHere's how I see it. Dickens finds Rogers early, and the Huskies get an early lead for once. Moore makes some plays with his legs and keeps UTEP in it for a half. Then the Huskies' offense grinds them down, the seniors get their win, and the Huskie Stadium crowd gets to celebrate something.\n\nNola will put the cornfield photo away and say, \"Knee-high by the Fourth of July,\" which is a very big deal for her. Neto will eat green chile in the parking lot and tell everybody it was cold.\n\nMy call: Northern Illinois Huskies 30, UTEP Miners 22.",
+    "fanatic_story": "Somebody's leaving DeKalb on Saturday with a lot of losses and nothing to show for the season. Northern Illinois is 0-11 in its first year in the Mountain West, UTEP is 1-10, and both of them are 0-7 in league play, so when the Miners and the Huskies meet at Huskie Stadium in the season finale, one team finally gets a conference win and the other goes home with a goose egg next to its name.\n\nNola Brandvik has been looking at a cornfield photo on her phone for about a week.\n\n\"You plant in April,\" she says. \"You do everything right. Then it doesn't rain. That's this season. But you still go out and harvest what's there. Saturday, there's something there.\"\n\nNeto Galindo, who drove up from El Paso with a cooler full of green chile and no winter coat, has a different view of the forecast.\n\n\"It's going to be cold, I'm going to be miserable, and we're going to win,\" he says. \"That's the most UTEP sentence I've ever said.\"\n\nLet's be fair to both of them, because neither one of these seasons has been fun.\n\nUTEP's only win came back in September, 51-10 over Texas Southern, when EJ Colson Jr. threw four touchdowns. Since then it's been hard. The Miners lost 61-7 at New Mexico and 52-3 at Air Force last Friday, and they've scored 17 or fewer points in all nine games since the Texas Southern win. Raymond Moore III took over at quarterback in October and has given them a pulse, mostly with his legs. He leads the team with 678 rushing yards, and on the season he has more yards running than most of the Miners' receivers have catching.\n\n\"Raymond Moore runs like a jalapeño,\" Neto says. \"Not the hottest, but it gets you every time.\"\n\nThe closest UTEP came was a 17-14 loss to Hawai'i at home in early November. Neto rates that game a ghost pepper. He rates the Air Force game \"a bell pepper. No heat. Just sad.\"\n\nNorthern Illinois has been closer more often, which is what makes 0-11 hurt so much. The Huskies lost 28-24 to Illinois State in the home opener. They lost 31-24 at UNLV. They went to Fargo last week and came storming back in the second half at North Dakota State before falling 31-25. Taron Dickens threw three touchdowns in that one, and DeAree Rogers caught six balls for 116 yards.\n\n\"That's the one that kept me up,\" Nola says. \"We were right there. A bushel short.\"\n\nDickens has thrown for 2,330 yards and 13 touchdowns this year. Rogers has 86 catches for 899 yards and is one big afternoon away from four figures. Telly Johnson Jr. has 721 rushing yards, and Elijah Porter ran for 107 at North Dakota State. Jack Murray leads the defense with 84 tackles. On paper, this is the better offense on the field, and by a good bit.\n\nThe problem is that both defenses have been getting run over. Northern Illinois gives up 35.5 a game, and UTEP gives up 35.3. Hawai'i put 56 on the Huskies in October. If you're looking for a game where somebody gets stuffed on fourth-and-goal to save the day, this probably isn't it.\n\nThese two don't have any recent history, so this is a new rivalry built entirely on misery. Neto says that's the best kind. Nola says the best kind is the one you win.\n\nHere's the thing about Senior Day for a team that hasn't won. Those seniors at Northern Illinois have been through a move to a new conference, and a season where they lost close and lost big. Saturday is their last chance to walk off that field in DeKalb with a win. That's a lot of motivation for a group of guys who've heard nothing good since Labor Day.\n\nUTEP has motivation too. Nobody wants to fly home 1-11. But the Miners have been held to a field goal in their last game, and it's hard to see the offense suddenly catching fire in the cold in northern Illinois.\n\nHere's how I see it. Dickens finds Rogers early, and the Huskies get an early lead for once. Moore makes some plays with his legs and keeps UTEP in it for a half. Then the Huskies' offense grinds them down, the seniors get their win, and the Huskie Stadium crowd gets to celebrate something.\n\nNola will put the cornfield photo away and say, \"Knee-high by the Fourth of July,\" which is a very big deal for her. Neto will eat green chile in the parking lot and tell everybody it was cold.\n\nMy call: Northern Illinois Huskies 30, UTEP Miners 23.",
     "market": {
      "score_line": "",
-     "spread": "Northern Illinois Huskies −4.5",
-     "total": "50.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 6:31 AM ET",
+     "spread": "Northern Illinois Huskies −5.5",
+     "total": "51.5",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "UTEP Miners vs Northern Illinois Huskies: One Win Left on the Table",
-    "gambler_headline": "UTEP vs Northern Illinois Pick: Huskies −4.5 and the Over 50.5"
+    "gambler_headline": "UTEP vs Northern Illinois Pick: Huskies −5.5 and the Over 51.5"
    },
-   "gambler_story": "Northern Illinois is 0-11 in its first Mountain West season, and Saturday's Senior Day game against UTEP in DeKalb is the last shot to put a win on the board. My UTEP vs Northern Illinois pick is Northern Illinois Huskies −4.5 and the Over 50.5, because the Huskies have been closer to winning than their record says and UTEP has been nowhere close.\n\nNola Brandvik puts it the DeKalb way. \"Eleven losses, and the crop's still in the ground. Saturday we harvest, or we plow it all under.\"\n\nNeto Galindo isn't conceding a thing. \"We're one and ten, Nola. That's one more than you. Bring the chile, we're bringing the heat.\"\n\nHe can say it, but UTEP's one win came against Texas Southern in September. Since then the Miners have scored 17 or fewer points in all nine games, and they lost 52-3 at Air Force last Friday. UTEP scores 13.2 a game and gives up 35.3. Raymond Moore III leads the team in throwing and running, with 722 yards in the air and 678 on the ground, which tells you how little the passing game has given them.\n\nNorthern Illinois has its own problems, but it moves the ball. Taron Dickens has 2,330 yards and 13 touchdowns, and DeAree Rogers has 86 catches for 899 yards. The Huskies rallied in the second half at North Dakota State last week before losing 31-25, and they lost 28-24 to Illinois State and 31-24 at UNLV. That's three one-score losses. UTEP lost 14-17 to Hawai'i, and nothing else has been close since September.\n\nThese two have no recent meetings, so there's no history to go on, just two last-place teams in a new league.\n\nMy margin is eight. That clears the 4.5 with room for a UTEP late score.\n\nOn the total, I have 52. Northern Illinois has scored 19 or more in five of its last six, and both defenses give up more than 35 a game. DraftKings opened Northern Illinois Huskies −4.5 with a 49.5 total. As of 6:31 AM ET Saturday it's Northern Illinois Huskies −4.5 and 50.5.\n\nThe room is together on the side and split on the total. The Formula has Northern Illinois 28-22 and takes Northern Illinois −4.5 with the Under 50.5. Next Man Up has 32-23 and takes Northern Illinois −4.5 with the Over 50.5. Letdown Watch has 29-19 and takes Northern Illinois −4.5 with the Under 50.5. In The Trenches has no pick in this game. Follow The Money has no pick.\n\nNext Man Up: \"Both these offenses are on their backup plan, and mine still says 55.\"\n\nLetdown Watch: \"Your plan's been wrong all year, Next Man Up. Ask Northern Illinois.\"\n\nMy final is Northern Illinois Huskies 30, UTEP Miners 22. Nola calls it knee-high by the Fourth of July. Neto rolls his sleeves up and heads back to the mine.\n\nNorthern Illinois Huskies 30, UTEP Miners 22. Northern Illinois Huskies cover the 4.5. Over 50.5."
+   "gambler_story": "Northern Illinois is 0-11 in its first Mountain West season, and Saturday's Senior Day game against UTEP in DeKalb is the last shot to put a win on the board. My UTEP vs Northern Illinois pick is Northern Illinois Huskies −5.5 and the Over 51.5, because the Huskies have been closer to winning than their record says and UTEP has been nowhere close.\n\nNola Brandvik puts it the DeKalb way. \"Eleven losses, and the crop's still in the ground. Saturday we harvest, or we plow it all under.\"\n\nNeto Galindo isn't conceding a thing. \"We're one and ten, Nola. That's one more than you. Bring the chile, we're bringing the heat.\"\n\nHe can say it, but UTEP's one win came against Texas Southern in September. Since then the Miners have scored 17 or fewer points in all nine games, and they lost 52-3 at Air Force last Friday. UTEP scores 13.2 a game and gives up 35.3. Raymond Moore III leads the team in throwing and running, with 722 yards in the air and 678 on the ground, which tells you how little the passing game has given them.\n\nNorthern Illinois has its own problems, but it moves the ball. Taron Dickens has 2,330 yards and 13 touchdowns, and DeAree Rogers has 86 catches for 899 yards. The Huskies rallied in the second half at North Dakota State last week before losing 31-25, and they lost 28-24 to Illinois State and 31-24 at UNLV. That's three one-score losses. UTEP lost 14-17 to Hawai'i, and nothing else has been close since September.\n\nThese two have no recent meetings, so there's no history to go on, just two last-place teams in a new league.\n\nMy margin is seven. That clears the 5.5 with room for a UTEP late score.\n\nOn the total, I have 53. Northern Illinois has scored 19 or more in five of its last six, and both defenses give up more than 35 a game. DraftKings opened Northern Illinois Huskies −4.5 with a 49.5 total. As of 11:12 AM ET Saturday it's Northern Illinois Huskies −5.5 and 51.5.\n\nThe room is together on the side and split on the total. The Formula has Northern Illinois 28-22 and takes Northern Illinois −5.5 with the Under 51.5. Next Man Up has 32-23 and takes Northern Illinois −5.5 with the Over 51.5. Letdown Watch has 29-19 and takes Northern Illinois −5.5 with the Under 51.5. In The Trenches has no pick in this game. Follow The Money takes Northern Illinois Huskies −5.5 and the Over 51.5.\n\nNext Man Up: \"Both these offenses are on their backup plan, and mine still says 55.\"\n\nLetdown Watch: \"Your plan's been wrong all year, Next Man Up. Ask Northern Illinois.\"\n\nMy final is Northern Illinois Huskies 30, UTEP Miners 23. Nola calls it knee-high by the Fourth of July. Neto rolls his sleeves up and heads back to the mine.\n\nNorthern Illinois Huskies 30, UTEP Miners 23. Northern Illinois Huskies cover the 5.5. Over 51.5."
   },
   {
    "game_id": "401866475",
@@ -10462,13 +10462,13 @@
     "massachusetts",
     "bowling-green"
    ],
-   "spread": "Bowling Green Falcons −3",
+   "spread": "Bowling Green Falcons −3.5",
    "total_line": 41.5,
    "prediction": {
     "away_score": 22,
     "home_score": 24,
     "winner": "Bowling Green Falcons",
-    "covers": "Massachusetts Minutemen +3"
+    "covers": "Massachusetts Minutemen +3.5"
    },
    "total_pick": "Over",
    "status_at_build": {
@@ -10477,41 +10477,41 @@
    "display": {
     "writer": {
      "score_line": "Projected: Bowling Green Falcons 24, Massachusetts Minutemen 22 (Total 46)",
-     "side": "Massachusetts Minutemen +3",
+     "side": "Massachusetts Minutemen +3.5",
      "ou": "Over 41.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Massachusetts Minutemen +3",
+      "side_line": "Side: Massachusetts Minutemen +3.5 · Likes this side",
       "ou_line": "O/U: Over 41.5 · Likes this total",
       "score_line": "Projected: Bowling Green Falcons 24, Massachusetts Minutemen 23 (Total 47)",
       "basis_line": "Net ratings Massachusetts Minutemen −16.9, Bowling Green Falcons −18.1 (ESPN Football Power Index, Nov 23, 2026)",
       "independent": true,
-      "distance_from_spread": 2.0,
+      "distance_from_spread": 2.5,
       "distance_from_total": 5.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Massachusetts Minutemen +3 · Likes this side",
+      "side_line": "Side: Massachusetts Minutemen +3.5 · Likes this side",
       "ou_line": "O/U: Under 41.5",
       "score_line": "Projected: Massachusetts Minutemen 21, Bowling Green Falcons 20 (Total 41)",
       "basis_line": "With the players available: projected points Massachusetts Minutemen 21.2, Bowling Green Falcons 20.3.",
       "independent": true,
-      "distance_from_spread": 4.0,
+      "distance_from_spread": 4.5,
       "distance_from_total": 0.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Bowling Green Falcons −3 · Likes this side",
+      "side_line": "Side: Bowling Green Falcons −3.5 · Likes this side",
       "ou_line": "O/U: Over 41.5 · Likes this total",
       "score_line": "Projected: Bowling Green Falcons 27, Massachusetts Minutemen 19 (Total 46)",
       "basis_line": "Rest and travel read: projected points Massachusetts Minutemen 18.9, Bowling Green Falcons 26.7.",
       "independent": true,
-      "distance_from_spread": 5.0,
+      "distance_from_spread": 4.5,
       "distance_from_total": 4.5,
       "landed_on_number": []
      },
@@ -10520,7 +10520,7 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: Under 41.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "Consensus spread opened Bowling Green Falcons −3 (Nov 24, 10:02 AM ET) and is −3.5 now. Follow The Money has no side pick. Consensus total opened 43.5 (Nov 24, 8:55 AM ET) and is 41.5 now, a 2-point move: Under. The total pick quotes the consensus total now (41.5). Lines are the Action Network consensus as of Nov 28, 6:31 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Bowling Green Falcons −3 (Nov 24, 10:02 AM ET) and is −3.5 now. Follow The Money has no side pick. Consensus total opened 43.5 (Nov 24, 8:55 AM ET) and is 41.5 now, a 2-point move: Under. The total pick quotes the consensus total now (41.5). Lines are the Action Network consensus as of Nov 28, 11:12 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -10536,19 +10536,19 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "UMass needs a win at Bowling Green just to stay in the bowl conversation, and the Falcons are sending off their seniors in their last game of the season. My UMass vs Bowling Green prediction is Massachusetts Minutemen +3 with the Over 41.5.\n\nAbner Kettleworth takes his time. \"We were up nineteen on Akron, Darcy. Nineteen. And then we weren't. Coach said it was his fault. I said it was everybody's fault. We're both right.\"\n\nDarcy Fenwick isn't sympathetic. \"We beat you 45-14 last year. Myles Bradley has 16 sacks. Bring your quarterback. Bring two.\"\n\nThe Minutemen are 5-6 after that 34-33 loss to Akron, and Joe Harasymiak called the second half disgusting. A win gets UMass to six and gives the school a shot at its first bowl in the FBS era, if there's an opening. That's the motivation case for the road team. The offense has scored 25.1 points a game. Logan Inagawa threw 3 touchdowns against Akron, and Elijah Faulkner ran for 105 yards. Timmy Hinspeter leads the defense with 98 tackles.\n\nBowling Green is 3-8 but 3-4 in the conference, and the Falcons were shut out 19-0 at Toledo last week. They score 17.5 points a game. Austin Novosad has taken the throws the last two weeks. He threw 3 touchdowns in the 33-28 win over Kent State. Bradley is the reason this defense is dangerous. Dorian Pringle has 105 tackles.\n\nI'm pricing Inagawa for UMass and Novosad for Bowling Green.\n\nThe spread opened at Bowling Green −1.5 at DraftKings and moved to −3. The total opened at 43.5 and moved to 41.5. The market's going toward the Falcons, but a home team scoring 17.5 a game laying a field goal against a team with more to play for is a price I'll take the other way.\n\nBowling Green Falcons 24, Massachusetts Minutemen 22 is a two-point Falcons win, so Massachusetts Minutemen +3 covers by a point, and 46 total points clears 41.5.\n\nThe room splits on the side and the total. The Formula has Bowling Green 24-23 and takes Massachusetts +3 with the Over 41.5. Next Man Up has Massachusetts 21-20 and takes Massachusetts +3 with the Under 41.5. Letdown Watch has Bowling Green 27-19 and takes Bowling Green −3 with the Over 41.5. In The Trenches has no pick in this game. Follow The Money has no side pick and takes the Under 41.5.\n\nNext Man Up: \"UMass has the bowl on the table. The team with more to play for wins.\"\n\nLetdown Watch: \"UMass had the bowl on the table last week too. Ask Akron how that went.\"\n\nBowling Green wins it on a late kick, Bradley gets his sacks, and UMass gets the three points and a long bus ride to think about the bowl lineup.\n\nBowling Green Falcons 24, Massachusetts Minutemen 22. Massachusetts Minutemen cover the 3. Over 41.5.",
+    "story_text": "UMass needs a win at Bowling Green just to stay in the bowl conversation, and the Falcons are sending off their seniors in their last game of the season. My UMass vs Bowling Green prediction is Massachusetts Minutemen +3.5 with the Over 41.5.\n\nAbner Kettleworth takes his time. \"We were up nineteen on Akron, Darcy. Nineteen. And then we weren't. Coach said it was his fault. I said it was everybody's fault. We're both right.\"\n\nDarcy Fenwick isn't sympathetic. \"We beat you 45-14 last year. Myles Bradley has 16 sacks. Bring your quarterback. Bring two.\"\n\nThe Minutemen are 5-6 after that 34-33 loss to Akron, and Joe Harasymiak called the second half disgusting. A win gets UMass to six and gives the school a shot at its first bowl in the FBS era, if there's an opening. That's the motivation case for the road team. The offense has scored 25.1 points a game. Logan Inagawa threw 3 touchdowns against Akron, and Elijah Faulkner ran for 105 yards. Timmy Hinspeter leads the defense with 98 tackles.\n\nBowling Green is 3-8 but 3-4 in the conference, and the Falcons were shut out 19-0 at Toledo last week. They score 17.5 points a game. Austin Novosad has taken the throws the last two weeks. He threw 3 touchdowns in the 33-28 win over Kent State. Bradley is the reason this defense is dangerous. Dorian Pringle has 105 tackles.\n\nI'm pricing Inagawa for UMass and Novosad for Bowling Green.\n\nThe spread opened at Bowling Green −1.5 at DraftKings and moved to −3.5. The total opened at 43.5 and moved to 41.5. The market's going toward the Falcons, but a home team scoring 17.5 a game laying more than a field goal against a team with more to play for is a price I'll take the other way.\n\nBowling Green Falcons 24, Massachusetts Minutemen 22 is a two-point Falcons win, so Massachusetts Minutemen +3.5 covers by a point and a half, and 46 total points clears 41.5.\n\nThe room splits on the side and the total. The Formula has Bowling Green 24-23 and takes Massachusetts +3.5 with the Over 41.5. Next Man Up has Massachusetts 21-20 and takes Massachusetts +3.5 with the Under 41.5. Letdown Watch has Bowling Green 27-19 and takes Bowling Green −3.5 with the Over 41.5. In The Trenches has no pick in this game. Follow The Money has no side pick and takes the Under 41.5.\n\nNext Man Up: \"UMass has the bowl on the table. The team with more to play for wins.\"\n\nLetdown Watch: \"UMass had the bowl on the table last week too. Ask Akron how that went.\"\n\nBowling Green wins it on a late kick, Bradley gets his sacks, and UMass gets the three points and a long bus ride to think about the bowl lineup.\n\nBowling Green Falcons 24, Massachusetts Minutemen 22. Massachusetts Minutemen cover the 3.5. Over 41.5.",
     "fanatic_score_line": "Projected: Bowling Green Falcons 24, Massachusetts Minutemen 22",
     "line_used": {
-     "home_line": "Bowling Green Falcons −3",
+     "home_line": "Bowling Green Falcons −3.5",
      "total": "41.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 6:31 AM ET",
-     "fetched_at_utc": "2026-11-28T11:31Z"
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "injuries": {
      "away": [],
      "home": [],
-     "source": "Not posted yet: the official conference availability report for this game, checked via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-umass-at-bowling-green/) on Nov 28, 2026, 6:31 AM ET",
-     "fetched_at_utc": "2026-11-28T11:31Z"
+     "source": "Not posted yet: the official conference availability report for this game, checked via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-umass-at-bowling-green/) on Nov 28, 2026, 11:12 AM ET",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -10562,15 +10562,15 @@
     "fanatic_story": "Darcy Fenwick tapes her old goalie stick before every home game, the same way she did before every game she ever played in, and she props it against the wall of the Slater Family Ice Arena on her way to Doyt Perry Stadium. Massachusetts Minutemen vs Bowling Green Falcons is the last game of the year for the Falcons and Senior Day in Bowling Green, and Darcy says the seniors deserve a ritual too, so she's making the walk with her stick taped up blue and orange.\n\nAbner Kettleworth drove out from the Pioneer Valley, and he talks the way he drives: slow, careful and with plenty of pauses. \"Darcy,\" he says. Then he waits. \"We were up nineteen on Akron.\"\n\n\"I heard.\"\n\n\"Nineteen,\" Abner says again. Then he waits again. \"Then we weren't.\"\n\nThat's the story of the UMass season in one game. The Minutemen opened 4-0, beating Rutgers on the road to start the year, and Abner says he enjoyed every minute of that September. Then October hit. Losses to Eastern Michigan, Miami (Ohio), Buffalo in overtime and UConn. A 31-30 overtime win over Ball State. A shutout at Toledo. And then the Akron game last Wednesday night in Amherst, where UMass led by nineteen in the second quarter and lost 34-33.\n\nJoe Harasymiak didn't sugarcoat it. He called it disgusting and said it was his fault. Abner says he appreciated that. \"Man stood up there and said it. I like a man who says it.\"\n\nNow the math is simple. UMass is 5-6. A win at Bowling Green gets the Minutemen to six. Six wins would be the first shot at a bowl game for UMass since it moved up to the FBS, and even then the Minutemen would need an opening.\n\n\"We're not the ones who decide,\" Abner says. \"We're the ones who show up. So we show up.\"\n\nLogan Inagawa took the throws the last two games and threw 3 touchdowns against Akron. William Watson III has 1,349 yards and 9 touchdown throws this year. Elijah Faulkner ran for 105 yards against Akron and leads the team with 508. Timmy Hinspeter has 98 tackles, and William DePaepe has 4 sacks.\n\nDarcy's Falcons are 3-8, but she'll tell you they're 3-4 in the conference, and she'll also tell you what happened last year. Bowling Green 45, UMass 14. Abner doesn't remember it. Darcy remembers all of it.\n\n\"And we've got Myles Bradley,\" Darcy says. \"Sixteen sacks. Sixteen. He lives in the other team's backfield. He's got a mailbox back there.\"\n\nBradley is the reason anyone in Bowling Green feels good. Dorian Pringle has 105 tackles behind him. The offense is the problem. The Falcons got shut out 19-0 at Toledo last week. Austin Novosad has taken over at quarterback the last two games, and he threw 3 touchdowns in a 33-28 win over Kent State. Jeremiah Scoby, the tight end, leads the team with 37 catches.\n\n\"Novosad gives us a chance,\" Darcy says. \"Bradley gives us a better one.\"\n\nHere's how I see it. Bowling Green honors its seniors, the crowd is loud, and Bradley gets home early on Inagawa. The Falcons go up by ten in the second quarter. But UMass doesn't fold the way it did against Akron. Faulkner runs it in, Inagawa hits a big throw in the fourth, and the Minutemen tie it late. Then Bowling Green drives into range, and the Falcons win it with a field goal.\n\nAbner takes a long time to say anything after the kick. Darcy waits him out. Finally he says he'll be checking the bowl lineup in the truck all the way home. Darcy grabs her stick at the ice arena and says the seniors went out the right way.\n\nMy call: Bowling Green Falcons 24, Massachusetts Minutemen 22.",
     "market": {
      "score_line": "",
-     "spread": "Bowling Green Falcons −3",
+     "spread": "Bowling Green Falcons −3.5",
      "total": "41.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 6:31 AM ET",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "UMass vs Bowling Green: Six Wins or Bust at Doyt Perry",
-    "gambler_headline": "UMass vs Bowling Green Pick: Minutemen +3, Over 41.5"
+    "gambler_headline": "UMass vs Bowling Green Pick: Minutemen +3.5, Over 41.5"
    },
-   "gambler_story": "UMass needs a win at Bowling Green just to stay in the bowl conversation, and the Falcons are sending off their seniors in their last game of the season. My UMass vs Bowling Green prediction is Massachusetts Minutemen +3 with the Over 41.5.\n\nAbner Kettleworth takes his time. \"We were up nineteen on Akron, Darcy. Nineteen. And then we weren't. Coach said it was his fault. I said it was everybody's fault. We're both right.\"\n\nDarcy Fenwick isn't sympathetic. \"We beat you 45-14 last year. Myles Bradley has 16 sacks. Bring your quarterback. Bring two.\"\n\nThe Minutemen are 5-6 after that 34-33 loss to Akron, and Joe Harasymiak called the second half disgusting. A win gets UMass to six and gives the school a shot at its first bowl in the FBS era, if there's an opening. That's the motivation case for the road team. The offense has scored 25.1 points a game. Logan Inagawa threw 3 touchdowns against Akron, and Elijah Faulkner ran for 105 yards. Timmy Hinspeter leads the defense with 98 tackles.\n\nBowling Green is 3-8 but 3-4 in the conference, and the Falcons were shut out 19-0 at Toledo last week. They score 17.5 points a game. Austin Novosad has taken the throws the last two weeks. He threw 3 touchdowns in the 33-28 win over Kent State. Bradley is the reason this defense is dangerous. Dorian Pringle has 105 tackles.\n\nI'm pricing Inagawa for UMass and Novosad for Bowling Green.\n\nThe spread opened at Bowling Green −1.5 at DraftKings and moved to −3. The total opened at 43.5 and moved to 41.5. The market's going toward the Falcons, but a home team scoring 17.5 a game laying a field goal against a team with more to play for is a price I'll take the other way.\n\nBowling Green Falcons 24, Massachusetts Minutemen 22 is a two-point Falcons win, so Massachusetts Minutemen +3 covers by a point, and 46 total points clears 41.5.\n\nThe room splits on the side and the total. The Formula has Bowling Green 24-23 and takes Massachusetts +3 with the Over 41.5. Next Man Up has Massachusetts 21-20 and takes Massachusetts +3 with the Under 41.5. Letdown Watch has Bowling Green 27-19 and takes Bowling Green −3 with the Over 41.5. In The Trenches has no pick in this game. Follow The Money has no side pick and takes the Under 41.5.\n\nNext Man Up: \"UMass has the bowl on the table. The team with more to play for wins.\"\n\nLetdown Watch: \"UMass had the bowl on the table last week too. Ask Akron how that went.\"\n\nBowling Green wins it on a late kick, Bradley gets his sacks, and UMass gets the three points and a long bus ride to think about the bowl lineup.\n\nBowling Green Falcons 24, Massachusetts Minutemen 22. Massachusetts Minutemen cover the 3. Over 41.5."
+   "gambler_story": "UMass needs a win at Bowling Green just to stay in the bowl conversation, and the Falcons are sending off their seniors in their last game of the season. My UMass vs Bowling Green prediction is Massachusetts Minutemen +3.5 with the Over 41.5.\n\nAbner Kettleworth takes his time. \"We were up nineteen on Akron, Darcy. Nineteen. And then we weren't. Coach said it was his fault. I said it was everybody's fault. We're both right.\"\n\nDarcy Fenwick isn't sympathetic. \"We beat you 45-14 last year. Myles Bradley has 16 sacks. Bring your quarterback. Bring two.\"\n\nThe Minutemen are 5-6 after that 34-33 loss to Akron, and Joe Harasymiak called the second half disgusting. A win gets UMass to six and gives the school a shot at its first bowl in the FBS era, if there's an opening. That's the motivation case for the road team. The offense has scored 25.1 points a game. Logan Inagawa threw 3 touchdowns against Akron, and Elijah Faulkner ran for 105 yards. Timmy Hinspeter leads the defense with 98 tackles.\n\nBowling Green is 3-8 but 3-4 in the conference, and the Falcons were shut out 19-0 at Toledo last week. They score 17.5 points a game. Austin Novosad has taken the throws the last two weeks. He threw 3 touchdowns in the 33-28 win over Kent State. Bradley is the reason this defense is dangerous. Dorian Pringle has 105 tackles.\n\nI'm pricing Inagawa for UMass and Novosad for Bowling Green.\n\nThe spread opened at Bowling Green −1.5 at DraftKings and moved to −3.5. The total opened at 43.5 and moved to 41.5. The market's going toward the Falcons, but a home team scoring 17.5 a game laying more than a field goal against a team with more to play for is a price I'll take the other way.\n\nBowling Green Falcons 24, Massachusetts Minutemen 22 is a two-point Falcons win, so Massachusetts Minutemen +3.5 covers by a point and a half, and 46 total points clears 41.5.\n\nThe room splits on the side and the total. The Formula has Bowling Green 24-23 and takes Massachusetts +3.5 with the Over 41.5. Next Man Up has Massachusetts 21-20 and takes Massachusetts +3.5 with the Under 41.5. Letdown Watch has Bowling Green 27-19 and takes Bowling Green −3.5 with the Over 41.5. In The Trenches has no pick in this game. Follow The Money has no side pick and takes the Under 41.5.\n\nNext Man Up: \"UMass has the bowl on the table. The team with more to play for wins.\"\n\nLetdown Watch: \"UMass had the bowl on the table last week too. Ask Akron how that went.\"\n\nBowling Green wins it on a late kick, Bradley gets his sacks, and UMass gets the three points and a long bus ride to think about the bowl lineup.\n\nBowling Green Falcons 24, Massachusetts Minutemen 22. Massachusetts Minutemen cover the 3.5. Over 41.5."
   },
   {
    "game_id": "401871062",
@@ -10600,13 +10600,13 @@
     "jacksonville-state",
     "delaware"
    ],
-   "spread": "Delaware Blue Hens −2.5",
+   "spread": "Delaware Blue Hens −3",
    "total_line": 58.5,
    "prediction": {
     "away_score": 27,
     "home_score": 26,
     "winner": "Jacksonville State Gamecocks",
-    "covers": "Jacksonville State Gamecocks +2.5"
+    "covers": "Jacksonville State Gamecocks +3"
    },
    "total_pick": "Under",
    "status_at_build": {
@@ -10615,41 +10615,41 @@
    "display": {
     "writer": {
      "score_line": "Projected: Jacksonville State Gamecocks 27, Delaware Blue Hens 26 (Total 53)",
-     "side": "Jacksonville State Gamecocks +2.5",
+     "side": "Jacksonville State Gamecocks +3",
      "ou": "Under 58.5",
      "label": ""
     },
     "handicappers": [
      {
       "name": "The Formula",
-      "side_line": "Side: Jacksonville State Gamecocks +2.5",
+      "side_line": "Side: Jacksonville State Gamecocks +3",
       "ou_line": "O/U: Under 58.5 · Likes this total",
       "score_line": "Projected: Delaware Blue Hens 27, Jacksonville State Gamecocks 26 (Total 53)",
       "basis_line": "Net ratings Jacksonville State Gamecocks −6.2, Delaware Blue Hens −8.2 (ESPN Football Power Index, Nov 23, 2026)",
       "independent": true,
-      "distance_from_spread": 1.5,
+      "distance_from_spread": 2.0,
       "distance_from_total": 5.5,
       "landed_on_number": []
      },
      {
       "name": "Next Man Up",
-      "side_line": "Side: Jacksonville State Gamecocks +2.5",
+      "side_line": "Side: Jacksonville State Gamecocks +3",
       "ou_line": "O/U: Over 58.5",
       "score_line": "Projected: Delaware Blue Hens 30, Jacksonville State Gamecocks 29 (Total 59)",
       "basis_line": "With the players available: projected points Jacksonville State Gamecocks 29.1, Delaware Blue Hens 29.7.",
       "independent": true,
-      "distance_from_spread": 1.5,
+      "distance_from_spread": 2.0,
       "distance_from_total": 0.5,
       "landed_on_number": []
      },
      {
       "name": "Letdown Watch",
-      "side_line": "Side: Jacksonville State Gamecocks +2.5",
+      "side_line": "Side: Jacksonville State Gamecocks +3",
       "ou_line": "O/U: Under 58.5 · Likes this total",
       "score_line": "Projected: Delaware Blue Hens 27, Jacksonville State Gamecocks 26 (Total 53)",
       "basis_line": "Rest and travel read: projected points Jacksonville State Gamecocks 26.2, Delaware Blue Hens 26.8.",
       "independent": true,
-      "distance_from_spread": 1.5,
+      "distance_from_spread": 2.0,
       "distance_from_total": 5.5,
       "landed_on_number": []
      },
@@ -10658,36 +10658,36 @@
       "side_line": "Side: no pick",
       "ou_line": "O/U: Under 57.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "Consensus spread opened Delaware Blue Hens −2.5 (Nov 25, 5:56 PM ET) and is −2.5 now. Follow The Money has no side pick. Consensus total opened 58.5 (Nov 24, 2:14 AM ET) and is 57.5 now, a 1-point move: Under. The total pick quotes the consensus total now (57.5), not the game total listed on this page (58.5). Lines are the Action Network consensus as of Nov 28, 7:12 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Delaware Blue Hens −2.5 (Nov 25, 5:56 PM ET) and is −3 now. Follow The Money has no side pick. Consensus total opened 58.5 (Nov 24, 2:14 AM ET) and is 57.5 now, a 1-point move: Under. The total pick quotes the consensus total now (57.5), not the game total listed on this page (58.5). Lines are the Action Network consensus as of Nov 28, 11:12 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
      },
      {
       "name": "In The Trenches",
-      "side_line": "Side: Jacksonville State Gamecocks +2.5 · Likes this side",
+      "side_line": "Side: Jacksonville State Gamecocks +3 · Likes this side",
       "ou_line": "O/U: this card reads sides only",
       "score_line": "Projected: Jacksonville State Gamecocks 27, Delaware Blue Hens 24 (Total 51)",
-      "basis_line": "This read points to a side only. Jacksonville State Gamecocks 4.8 ypc vs Delaware Blue Hens allowing 4.2; Delaware Blue Hens 3.6 ypc vs Jacksonville State Gamecocks allowing 4.1 (2026 season). Jacksonville State Gamecocks run game 0.7 ypc above what the opponent allows; Delaware Blue Hens run game 0.5 ypc below what the opponent allows, which favours Jacksonville State Gamecocks. Side: Jacksonville State Gamecocks +2.5.",
+      "basis_line": "This read points to a side only. Jacksonville State Gamecocks 4.8 ypc vs Delaware Blue Hens allowing 4.2; Delaware Blue Hens 3.6 ypc vs Jacksonville State Gamecocks allowing 4.1 (2026 season). Jacksonville State Gamecocks run game 0.7 ypc above what the opponent allows; Delaware Blue Hens run game 0.5 ypc below what the opponent allows, which favours Jacksonville State Gamecocks. Side: Jacksonville State Gamecocks +3.",
       "independent": true,
-      "distance_from_spread": 5.5,
+      "distance_from_spread": 6.0,
       "distance_from_total": 6.5,
       "landed_on_number": []
      }
     ],
-    "story_text": "Jacksonville State already has its ticket to the Conference USA title game against Liberty, and Saturday it plays its first game at Delaware since the late seventies anyway. My Jacksonville State vs Delaware prediction still takes the Gamecocks with the points, Jacksonville State Gamecocks +2.5, and on the over/under I'm taking the Under 58.5.\n\nBurl Ashcraft-Neeley is calm about it. \"We clinched. This is a free swing.\"\n\nHenrietta \"Hen\" Lofland isn't buying it. \"A free swing is still a swing, Burl. Our kids get in cheap, our students get in free, and we're bowl eligible again. Newark's coming out.\"\n\nThe Gamecocks earned that title game spot the hard way. They trailed Missouri State 20-3 and won 25-20, and Caden Creel did it with his arm and his legs. He has 2,417 passing yards, 19 touchdowns and a team-high 892 rushing yards. That's what makes a short number tough for Delaware to lay.\n\nJacksonville State plays close games and wins most of them. It beat Georgia Southern 31-27, Kennesaw State 27-26 and FIU 27-24, and it lost at Ohio 29-27 in overtime. The defense allows 20.6 a game, and Caleb Nix leads it with 73 tackles. Tae Floyd has 5 sacks.\n\nDelaware has the hot quarterback. Nick Minicucci threw for 398 yards and 5 touchdowns in the 42-30 win at New Mexico State, and he has 23 touchdowns against 4 interceptions on the year. Sean Wilson has 782 receiving yards. But the Blue Hens give up 28.0 points a game, and they lost 30-14 at home to Liberty, the team JSU plays next.\n\nThe market likes Delaware a little more than it did. DraftKings opened Delaware Blue Hens −1.5 with a 57.5 total. As of 7:12 AM ET Saturday it's Delaware Blue Hens −2.5 and 58.5. Jacksonville State Gamecocks 27, Delaware Blue Hens 26 is a one-point road win, so the points are a bonus.\n\nThe Under is about Jacksonville State. Only one of its eleven games went above 58.5, and its last trip, at Western Kentucky, ended 34-24. Creel running the ball keeps the clock moving, and I have 53.\n\nThe room is together on the side and split on the total. The Formula has Delaware 27-26 and takes Jacksonville State +2.5 with the Under 58.5. Next Man Up has 30-29 and takes Jacksonville State +2.5 with the Over 58.5. Letdown Watch has 27-26 and takes Jacksonville State +2.5 with the Under 58.5. In The Trenches has Jacksonville State 27-24 and takes Jacksonville State +2.5, with no over/under call. Follow The Money has no side pick and takes the Under 57.5.\n\nNext Man Up: \"Thirty to twenty-nine. Minicucci throws all day and it goes over.\"\n\nLetdown Watch: \"They clinched, sure. But this team doesn't play blowouts. Twenty-seven to twenty-six, and the points do the work.\"\n\nMy final has Jacksonville State by one with 53 points. Delaware throws for yards, Creel runs for the ones that matter, and the Gamecocks head to the title game with a win.\n\nJacksonville State Gamecocks 27, Delaware Blue Hens 26. Jacksonville State Gamecocks cover the 2.5. Under 58.5.",
+    "story_text": "Jacksonville State already has its ticket to the Conference USA title game against Liberty, and Saturday it plays its first game at Delaware since the late seventies anyway. My Jacksonville State vs Delaware prediction still takes the Gamecocks with the points, Jacksonville State Gamecocks +3, and on the over/under I'm taking the Under 58.5.\n\nBurl Ashcraft-Neeley is calm about it. \"We clinched. This is a free swing.\"\n\nHenrietta \"Hen\" Lofland isn't buying it. \"A free swing is still a swing, Burl. Our kids get in cheap, our students get in free, and we're bowl eligible again. Newark's coming out.\"\n\nThe Gamecocks earned that title game spot the hard way. They trailed Missouri State 20-3 and won 25-20, and Caden Creel did it with his arm and his legs. He has 2,417 passing yards, 19 touchdowns and a team-high 892 rushing yards. That's what makes a short number tough for Delaware to lay.\n\nJacksonville State plays close games and wins most of them. It beat Georgia Southern 31-27, Kennesaw State 27-26 and FIU 27-24, and it lost at Ohio 29-27 in overtime. The defense allows 20.6 a game, and Caleb Nix leads it with 73 tackles. Tae Floyd has 5 sacks.\n\nDelaware has the hot quarterback. Nick Minicucci threw for 398 yards and 5 touchdowns in the 42-30 win at New Mexico State, and he has 23 touchdowns against 4 interceptions on the year. Sean Wilson has 782 receiving yards. But the Blue Hens give up 28.0 points a game, and they lost 30-14 at home to Liberty, the team JSU plays next.\n\nThe market likes Delaware a little more than it did. DraftKings opened Delaware Blue Hens −1.5 with a 57.5 total. As of 11:12 AM ET Saturday it's Delaware Blue Hens −3 and 58.5. Jacksonville State Gamecocks 27, Delaware Blue Hens 26 is a one-point road win, so the points are a bonus.\n\nThe Under is about Jacksonville State. Only one of its eleven games went above 58.5, and its last trip, at Western Kentucky, ended 34-24. Creel running the ball keeps the clock moving, and I have 53.\n\nThe room is together on the side and split on the total. The Formula has Delaware 27-26 and takes Jacksonville State +3 with the Under 58.5. Next Man Up has 30-29 and takes Jacksonville State +3 with the Over 58.5. Letdown Watch has 27-26 and takes Jacksonville State +3 with the Under 58.5. In The Trenches has Jacksonville State 27-24 and takes Jacksonville State +3, with no over/under call. Follow The Money has no side pick and takes the Under 57.5.\n\nNext Man Up: \"Thirty to twenty-nine. Minicucci throws all day and it goes over.\"\n\nLetdown Watch: \"They clinched, sure. But this team doesn't play blowouts. Twenty-seven to twenty-six, and the points do the work.\"\n\nMy final has Jacksonville State by one with 53 points. Delaware throws for yards, Creel runs for the ones that matter, and the Gamecocks head to the title game with a win.\n\nJacksonville State Gamecocks 27, Delaware Blue Hens 26. Jacksonville State Gamecocks cover the 3. Under 58.5.",
     "fanatic_score_line": "Projected: Jacksonville State Gamecocks 27, Delaware Blue Hens 26",
     "line_used": {
-     "home_line": "Delaware Blue Hens −2.5",
+     "home_line": "Delaware Blue Hens −3",
      "total": "58.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 7:12 AM ET",
-     "fetched_at_utc": "2026-11-28T12:12Z"
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "injuries": {
      "away": [],
      "home": [],
-     "source": "Not posted yet: the official conference availability report for this game, checked via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-jacksonville-state-at-delaware/) on Nov 28, 2026, 7:12 AM ET",
-     "fetched_at_utc": "2026-11-28T12:12Z"
+     "source": "Not posted yet: the official conference availability report for this game, checked via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-jacksonville-state-at-delaware/) on Nov 28, 2026, 11:12 AM ET",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -10701,15 +10701,15 @@
     "fanatic_story": "The last time Jacksonville State played a football game in Newark, it was 1978, and Henrietta \"Hen\" Lofland has spent all week telling people at the Delaware Stadium gate that her uncle was there and is still mad about the parking. On Saturday at 3:30, Jacksonville State Gamecocks vs Delaware Blue Hens closes the home schedule in an 18,500-seat stadium, kids get discounted tickets, students get in free, and Burl Ashcraft-Neeley has driven up from Alabama with a cooler full of sandwiches and a very relaxed attitude.\n\n\"We already clinched,\" Burl says. \"Title game. Liberty. December fourth. I'm here on vacation.\"\n\n\"You drove all the way from Alabama for a vacation?\"\n\n\"I drove all the way from Alabama to watch Caden Creel. Vacation's a bonus.\"\n\nHen has heard plenty about Caden Creel this week, and she'll admit he's earned it. Last Saturday, the Gamecocks trailed Missouri State 20-3 going into the fourth quarter, and ESPN's win numbers gave them barely more than a one-in-a-hundred chance. Then Creel threw touchdown passes of 59 and 21 yards, ran for a 22-yard score, and Jacksonville State won 25-20 on Senior Day.\n\n\"One in a hundred,\" Burl says, holding up a finger. \"My uncle has a better shot at the lottery, and he doesn't even play.\"\n\n\"Your uncle and my uncle should meet.\"\n\nCreel leads the team in passing and rushing, with 2,417 yards and 19 touchdowns through the air and 892 on the ground. Deondre Johnson is the big-play receiver with 651 yards, and kicker Garrison Rippa set the school record with his 51st career field goal last week. On defense, safety Caleb Nix has 73 tackles and Tae Floyd has five sacks.\n\nHen's answer is Nick Minicucci, and she says the name like it's a family member. He set Delaware's career record for touchdown passes in the 42-30 win at New Mexico State, throwing for 398 yards and five scores, and the Blue Hens are bowl eligible for the second straight year. He has 23 touchdown throws against four interceptions. Sean Wilson is his top target with 782 yards, and tight end Scott Moore caught three touchdowns last week alone.\n\n\"Twenty-three to four,\" Hen says. \"You know how many interceptions that is? Barely any. I've lost more umbrellas.\"\n\n\"You've lost more umbrellas in a month.\"\n\n\"In a week, Burl. I'm not proud of it.\"\n\nGavin Moul leads the Delaware defense with 84 tackles and Blake Matthews has five sacks. Hen is less excited about the rest of the defensive numbers. The Blue Hens give up 28 points a game, they lost 42-3 at Virginia in September, and Liberty came into Newark in October and won 30-14.\n\n\"Liberty,\" Burl says. \"The same Liberty we play next week. You're a practice round.\"\n\n\"We're a final exam.\"\n\nThe two teams met last year, and Jacksonville State won 38-25. Hen remembers the score and refuses to say it out loud. She just points at the scoreboard and makes a face.\n\nHere's how Saturday goes. The students fill the stands early, the kids wave homemade signs, and Minicucci comes out throwing, hitting Wilson for a long touchdown on the first drive. Creel answers by running it in himself. Delaware's offense keeps moving the ball, but Rippa gets the Gamecocks points every time they stall. Late in the fourth, with Delaware up by two, Creel scrambles out of trouble, finds Johnson down the sideline, and sets up the go-ahead field goal. Minicucci gets one last chance and comes up just short near midfield.\n\nBurl will pack up his cooler, shake Hen's hand and promise to come back before another forty-eight years go by. Hen will tell him to bring his uncle.\n\nMy call: Jacksonville State Gamecocks 27, Delaware Blue Hens 26.",
     "market": {
      "score_line": "",
-     "spread": "Delaware Blue Hens −2.5",
+     "spread": "Delaware Blue Hens −3",
      "total": "58.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 7:12 AM ET",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "Jacksonville State Gamecocks vs Delaware Blue Hens: Newark Finale",
-    "gambler_headline": "Jacksonville State vs Delaware Pick: Gamecocks +2.5 and the Under 58.5"
+    "gambler_headline": "Jacksonville State vs Delaware Pick: Gamecocks +3 and the Under 58.5"
    },
-   "gambler_story": "Jacksonville State already has its ticket to the Conference USA title game against Liberty, and Saturday it plays its first game at Delaware since the late seventies anyway. My Jacksonville State vs Delaware prediction still takes the Gamecocks with the points, Jacksonville State Gamecocks +2.5, and on the over/under I'm taking the Under 58.5.\n\nBurl Ashcraft-Neeley is calm about it. \"We clinched. This is a free swing.\"\n\nHenrietta \"Hen\" Lofland isn't buying it. \"A free swing is still a swing, Burl. Our kids get in cheap, our students get in free, and we're bowl eligible again. Newark's coming out.\"\n\nThe Gamecocks earned that title game spot the hard way. They trailed Missouri State 20-3 and won 25-20, and Caden Creel did it with his arm and his legs. He has 2,417 passing yards, 19 touchdowns and a team-high 892 rushing yards. That's what makes a short number tough for Delaware to lay.\n\nJacksonville State plays close games and wins most of them. It beat Georgia Southern 31-27, Kennesaw State 27-26 and FIU 27-24, and it lost at Ohio 29-27 in overtime. The defense allows 20.6 a game, and Caleb Nix leads it with 73 tackles. Tae Floyd has 5 sacks.\n\nDelaware has the hot quarterback. Nick Minicucci threw for 398 yards and 5 touchdowns in the 42-30 win at New Mexico State, and he has 23 touchdowns against 4 interceptions on the year. Sean Wilson has 782 receiving yards. But the Blue Hens give up 28.0 points a game, and they lost 30-14 at home to Liberty, the team JSU plays next.\n\nThe market likes Delaware a little more than it did. DraftKings opened Delaware Blue Hens −1.5 with a 57.5 total. As of 7:12 AM ET Saturday it's Delaware Blue Hens −2.5 and 58.5. Jacksonville State Gamecocks 27, Delaware Blue Hens 26 is a one-point road win, so the points are a bonus.\n\nThe Under is about Jacksonville State. Only one of its eleven games went above 58.5, and its last trip, at Western Kentucky, ended 34-24. Creel running the ball keeps the clock moving, and I have 53.\n\nThe room is together on the side and split on the total. The Formula has Delaware 27-26 and takes Jacksonville State +2.5 with the Under 58.5. Next Man Up has 30-29 and takes Jacksonville State +2.5 with the Over 58.5. Letdown Watch has 27-26 and takes Jacksonville State +2.5 with the Under 58.5. In The Trenches has Jacksonville State 27-24 and takes Jacksonville State +2.5, with no over/under call. Follow The Money has no side pick and takes the Under 57.5.\n\nNext Man Up: \"Thirty to twenty-nine. Minicucci throws all day and it goes over.\"\n\nLetdown Watch: \"They clinched, sure. But this team doesn't play blowouts. Twenty-seven to twenty-six, and the points do the work.\"\n\nMy final has Jacksonville State by one with 53 points. Delaware throws for yards, Creel runs for the ones that matter, and the Gamecocks head to the title game with a win.\n\nJacksonville State Gamecocks 27, Delaware Blue Hens 26. Jacksonville State Gamecocks cover the 2.5. Under 58.5."
+   "gambler_story": "Jacksonville State already has its ticket to the Conference USA title game against Liberty, and Saturday it plays its first game at Delaware since the late seventies anyway. My Jacksonville State vs Delaware prediction still takes the Gamecocks with the points, Jacksonville State Gamecocks +3, and on the over/under I'm taking the Under 58.5.\n\nBurl Ashcraft-Neeley is calm about it. \"We clinched. This is a free swing.\"\n\nHenrietta \"Hen\" Lofland isn't buying it. \"A free swing is still a swing, Burl. Our kids get in cheap, our students get in free, and we're bowl eligible again. Newark's coming out.\"\n\nThe Gamecocks earned that title game spot the hard way. They trailed Missouri State 20-3 and won 25-20, and Caden Creel did it with his arm and his legs. He has 2,417 passing yards, 19 touchdowns and a team-high 892 rushing yards. That's what makes a short number tough for Delaware to lay.\n\nJacksonville State plays close games and wins most of them. It beat Georgia Southern 31-27, Kennesaw State 27-26 and FIU 27-24, and it lost at Ohio 29-27 in overtime. The defense allows 20.6 a game, and Caleb Nix leads it with 73 tackles. Tae Floyd has 5 sacks.\n\nDelaware has the hot quarterback. Nick Minicucci threw for 398 yards and 5 touchdowns in the 42-30 win at New Mexico State, and he has 23 touchdowns against 4 interceptions on the year. Sean Wilson has 782 receiving yards. But the Blue Hens give up 28.0 points a game, and they lost 30-14 at home to Liberty, the team JSU plays next.\n\nThe market likes Delaware a little more than it did. DraftKings opened Delaware Blue Hens −1.5 with a 57.5 total. As of 11:12 AM ET Saturday it's Delaware Blue Hens −3 and 58.5. Jacksonville State Gamecocks 27, Delaware Blue Hens 26 is a one-point road win, so the points are a bonus.\n\nThe Under is about Jacksonville State. Only one of its eleven games went above 58.5, and its last trip, at Western Kentucky, ended 34-24. Creel running the ball keeps the clock moving, and I have 53.\n\nThe room is together on the side and split on the total. The Formula has Delaware 27-26 and takes Jacksonville State +3 with the Under 58.5. Next Man Up has 30-29 and takes Jacksonville State +3 with the Over 58.5. Letdown Watch has 27-26 and takes Jacksonville State +3 with the Under 58.5. In The Trenches has Jacksonville State 27-24 and takes Jacksonville State +3, with no over/under call. Follow The Money has no side pick and takes the Under 57.5.\n\nNext Man Up: \"Thirty to twenty-nine. Minicucci throws all day and it goes over.\"\n\nLetdown Watch: \"They clinched, sure. But this team doesn't play blowouts. Twenty-seven to twenty-six, and the points do the work.\"\n\nMy final has Jacksonville State by one with 53 points. Delaware throws for yards, Creel runs for the ones that matter, and the Gamecocks head to the title game with a win.\n\nJacksonville State Gamecocks 27, Delaware Blue Hens 26. Jacksonville State Gamecocks cover the 3. Under 58.5."
   },
   {
    "game_id": "401862843",
@@ -10795,9 +10795,9 @@
      {
       "name": "Follow The Money",
       "side_line": "Side: UAB Blazers +2.5 · Likes this side",
-      "ou_line": "O/U: Under 45.5 · Likes this total",
+      "ou_line": "O/U: Under 44.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "Consensus spread opened North Texas Mean Green −3.5 (Nov 24, 1:24 AM ET) and is −2.5 now, a 1-point move. The side pick quotes the consensus spread now (UAB Blazers +2.5). Consensus total opened 46.5 (Nov 23, 11:18 PM ET) and is 45.5 now, a 1-point move: Under. The total pick quotes the consensus total now (45.5), not the game total listed on this page (44.5). Lines are the Action Network consensus as of Nov 28, 6:31 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened North Texas Mean Green −3.5 (Nov 24, 1:24 AM ET) and is −2.5 now, a 1-point move. The side pick quotes the consensus spread now (UAB Blazers +2.5). Consensus total opened 46.5 (Nov 23, 11:18 PM ET) and is 44.5 now, a 2-point move: Under. The total pick quotes the consensus total now (44.5). Lines are the Action Network consensus as of Nov 28, 11:12 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -10813,19 +10813,19 @@
       "distance_from_total": null
      }
     ],
-    "story_text": "UAB vs North Texas comes with a quarterback problem in Denton. Tayven Jackson, who has thrown for 3,005 yards and 23 touchdowns, is out. His backup, Chris Jimerson Jr., left the Tulane game hurt early in the second half, and North Texas finished that game with a wide receiver taking snaps. My UAB vs North Texas pick is North Texas Mean Green −2.5 with the Over 44.5.\n\nGrady Mayhew-Ochoa isn't panicking. \"We ran it twenty-nine straight times at Tulane and still had them beat until the kick coverage fell apart. We don't need a quarterback. We need a handoff.\"\n\nOzella Birchfield has heard that before. \"Then hand it off into the best secondary in the country. Oh wait, you won't be throwing anyway. Good luck.\"\n\nGrady's point is real. North Texas ran for over three hundred yards at Tulane without a real quarterback and led by ten with under eight minutes left. Jahiem White has 1,366 yards and 16 touchdowns, and he went for 148 at Tulane. North Texas runs for 5.1 a carry against a UAB defense that allows 4.3, and Brendon Haygood added a hundred more and two scores last week. Even a one-dimensional North Texas scores; the Mean Green score 40.2 points a game.\n\nThe UAB offense is the other half of the side. Ryder Burton has six touchdown throws and nine interceptions, and he went 10 of 25 for 118 yards against UTSA. UAB scores 22.6 a game, and it runs for 4.0 a carry against a North Texas defense that allows 4.5. The Blazers will need more than that on the road.\n\nThe Over is the cleanest number on the card. Every North Texas game this season has gone over this total, all eleven of them. The lowest was 50 combined, against UNLV. North Texas allows 31.0 points a game, so UAB will get its share, too.\n\nDraftKings opened North Texas Mean Green −4.5 with a 48.5 total. As of 6:31 AM ET Saturday it's North Texas Mean Green −2.5 and 44.5. The side has come down two points and the total four since, so both got a little cheaper.\n\nThe room is together on both. The Formula has North Texas 34-21 and takes North Texas −2.5 with the Over 44.5. Next Man Up has 39-24 and takes North Texas −2.5 with the Over 44.5. Letdown Watch has 34-24 and takes North Texas −2.5 with the Over 44.5. In The Trenches has no pick in this game. Follow The Money takes UAB Blazers +2.5 and the Under 45.5.\n\nLetdown Watch: \"Next Man Up, thirty-nine points with a wide receiver at quarterback? What's he going to do, throw it to himself?\"\n\nNext Man Up: \"He doesn't have to throw it. Thirty-nine is what happens when White carries it forty times. You'd know that if you watched the second half last week.\"\n\nMy final is North Texas Mean Green 36, UAB Blazers 23. North Texas wins by thirteen, well past the two and a half, and 59 combined clears the total. The Mean Green run it, run it again and wear down a UAB defense that's built to stop the throw.\n\nNorth Texas Mean Green 36, UAB Blazers 23. North Texas Mean Green cover the 2.5. Over 44.5.",
+    "story_text": "UAB vs North Texas comes with a quarterback problem in Denton. Tayven Jackson, who has thrown for 3,005 yards and 23 touchdowns, is out. His backup, Chris Jimerson Jr., left the Tulane game hurt early in the second half, and North Texas finished that game with a wide receiver taking snaps. My UAB vs North Texas pick is North Texas Mean Green −2.5 with the Over 44.5.\n\nGrady Mayhew-Ochoa isn't panicking. \"We ran it twenty-nine straight times at Tulane and still had them beat until the kick coverage fell apart. We don't need a quarterback. We need a handoff.\"\n\nOzella Birchfield has heard that before. \"Then hand it off into the best secondary in the country. Oh wait, you won't be throwing anyway. Good luck.\"\n\nGrady's point is real. North Texas ran for over three hundred yards at Tulane without a real quarterback and led by ten with under eight minutes left. Jahiem White has 1,366 yards and 16 touchdowns, and he went for 148 at Tulane. North Texas runs for 5.1 a carry against a UAB defense that allows 4.3, and Brendon Haygood added a hundred more and two scores last week. Even a one-dimensional North Texas scores; the Mean Green score 40.2 points a game.\n\nThe UAB offense is the other half of the side. Ryder Burton has six touchdown throws and nine interceptions, and he went 10 of 25 for 118 yards against UTSA. UAB scores 22.6 a game, and it runs for 4.0 a carry against a North Texas defense that allows 4.5. The Blazers will need more than that on the road.\n\nThe Over is the cleanest number on the card. Every North Texas game this season has gone over this total, all eleven of them. The lowest was 50 combined, against UNLV. North Texas allows 31.0 points a game, so UAB will get its share, too.\n\nDraftKings opened North Texas Mean Green −4.5 with a 48.5 total. As of 11:12 AM ET Saturday it's North Texas Mean Green −2.5 and 44.5. The side has come down two points and the total four since, so both got a little cheaper.\n\nThe room is together on both. The Formula has North Texas 34-21 and takes North Texas −2.5 with the Over 44.5. Next Man Up has 39-24 and takes North Texas −2.5 with the Over 44.5. Letdown Watch has 34-24 and takes North Texas −2.5 with the Over 44.5. In The Trenches has no pick in this game. Follow The Money takes UAB Blazers +2.5 and the Under 44.5.\n\nLetdown Watch: \"Next Man Up, thirty-nine points with a wide receiver at quarterback? What's he going to do, throw it to himself?\"\n\nNext Man Up: \"He doesn't have to throw it. Thirty-nine is what happens when White carries it forty times. You'd know that if you watched the second half last week.\"\n\nMy final is North Texas Mean Green 36, UAB Blazers 23. North Texas wins by thirteen, well past the two and a half, and 59 combined clears the total. The Mean Green run it, run it again and wear down a UAB defense that's built to stop the throw.\n\nNorth Texas Mean Green 36, UAB Blazers 23. North Texas Mean Green cover the 2.5. Over 44.5.",
     "fanatic_score_line": "Projected: North Texas Mean Green 36, UAB Blazers 23",
     "line_used": {
      "home_line": "North Texas Mean Green −2.5",
      "total": "44.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 6:31 AM ET",
-     "fetched_at_utc": "2026-11-28T11:31Z"
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "injuries": {
      "away": [],
      "home": [],
-     "source": "Not posted yet: the official conference availability report for this game, checked via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-uab-at-north-texas/) on Nov 28, 2026, 6:31 AM ET",
-     "fetched_at_utc": "2026-11-28T11:31Z"
+     "source": "Not posted yet: the official conference availability report for this game, checked via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-uab-at-north-texas/) on Nov 28, 2026, 11:12 AM ET",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -10841,13 +10841,13 @@
      "score_line": "",
      "spread": "North Texas Mean Green −2.5",
      "total": "44.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 6:31 AM ET",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "UAB vs North Texas: Run It Until Somebody Stops You",
     "gambler_headline": "UAB vs North Texas Pick: Mean Green −2.5, Over 44.5"
    },
-   "gambler_story": "UAB vs North Texas comes with a quarterback problem in Denton. Tayven Jackson, who has thrown for 3,005 yards and 23 touchdowns, is out. His backup, Chris Jimerson Jr., left the Tulane game hurt early in the second half, and North Texas finished that game with a wide receiver taking snaps. My UAB vs North Texas pick is North Texas Mean Green −2.5 with the Over 44.5.\n\nGrady Mayhew-Ochoa isn't panicking. \"We ran it twenty-nine straight times at Tulane and still had them beat until the kick coverage fell apart. We don't need a quarterback. We need a handoff.\"\n\nOzella Birchfield has heard that before. \"Then hand it off into the best secondary in the country. Oh wait, you won't be throwing anyway. Good luck.\"\n\nGrady's point is real. North Texas ran for over three hundred yards at Tulane without a real quarterback and led by ten with under eight minutes left. Jahiem White has 1,366 yards and 16 touchdowns, and he went for 148 at Tulane. North Texas runs for 5.1 a carry against a UAB defense that allows 4.3, and Brendon Haygood added a hundred more and two scores last week. Even a one-dimensional North Texas scores; the Mean Green score 40.2 points a game.\n\nThe UAB offense is the other half of the side. Ryder Burton has six touchdown throws and nine interceptions, and he went 10 of 25 for 118 yards against UTSA. UAB scores 22.6 a game, and it runs for 4.0 a carry against a North Texas defense that allows 4.5. The Blazers will need more than that on the road.\n\nThe Over is the cleanest number on the card. Every North Texas game this season has gone over this total, all eleven of them. The lowest was 50 combined, against UNLV. North Texas allows 31.0 points a game, so UAB will get its share, too.\n\nDraftKings opened North Texas Mean Green −4.5 with a 48.5 total. As of 6:31 AM ET Saturday it's North Texas Mean Green −2.5 and 44.5. The side has come down two points and the total four since, so both got a little cheaper.\n\nThe room is together on both. The Formula has North Texas 34-21 and takes North Texas −2.5 with the Over 44.5. Next Man Up has 39-24 and takes North Texas −2.5 with the Over 44.5. Letdown Watch has 34-24 and takes North Texas −2.5 with the Over 44.5. In The Trenches has no pick in this game. Follow The Money takes UAB Blazers +2.5 and the Under 45.5.\n\nLetdown Watch: \"Next Man Up, thirty-nine points with a wide receiver at quarterback? What's he going to do, throw it to himself?\"\n\nNext Man Up: \"He doesn't have to throw it. Thirty-nine is what happens when White carries it forty times. You'd know that if you watched the second half last week.\"\n\nMy final is North Texas Mean Green 36, UAB Blazers 23. North Texas wins by thirteen, well past the two and a half, and 59 combined clears the total. The Mean Green run it, run it again and wear down a UAB defense that's built to stop the throw.\n\nNorth Texas Mean Green 36, UAB Blazers 23. North Texas Mean Green cover the 2.5. Over 44.5."
+   "gambler_story": "UAB vs North Texas comes with a quarterback problem in Denton. Tayven Jackson, who has thrown for 3,005 yards and 23 touchdowns, is out. His backup, Chris Jimerson Jr., left the Tulane game hurt early in the second half, and North Texas finished that game with a wide receiver taking snaps. My UAB vs North Texas pick is North Texas Mean Green −2.5 with the Over 44.5.\n\nGrady Mayhew-Ochoa isn't panicking. \"We ran it twenty-nine straight times at Tulane and still had them beat until the kick coverage fell apart. We don't need a quarterback. We need a handoff.\"\n\nOzella Birchfield has heard that before. \"Then hand it off into the best secondary in the country. Oh wait, you won't be throwing anyway. Good luck.\"\n\nGrady's point is real. North Texas ran for over three hundred yards at Tulane without a real quarterback and led by ten with under eight minutes left. Jahiem White has 1,366 yards and 16 touchdowns, and he went for 148 at Tulane. North Texas runs for 5.1 a carry against a UAB defense that allows 4.3, and Brendon Haygood added a hundred more and two scores last week. Even a one-dimensional North Texas scores; the Mean Green score 40.2 points a game.\n\nThe UAB offense is the other half of the side. Ryder Burton has six touchdown throws and nine interceptions, and he went 10 of 25 for 118 yards against UTSA. UAB scores 22.6 a game, and it runs for 4.0 a carry against a North Texas defense that allows 4.5. The Blazers will need more than that on the road.\n\nThe Over is the cleanest number on the card. Every North Texas game this season has gone over this total, all eleven of them. The lowest was 50 combined, against UNLV. North Texas allows 31.0 points a game, so UAB will get its share, too.\n\nDraftKings opened North Texas Mean Green −4.5 with a 48.5 total. As of 11:12 AM ET Saturday it's North Texas Mean Green −2.5 and 44.5. The side has come down two points and the total four since, so both got a little cheaper.\n\nThe room is together on both. The Formula has North Texas 34-21 and takes North Texas −2.5 with the Over 44.5. Next Man Up has 39-24 and takes North Texas −2.5 with the Over 44.5. Letdown Watch has 34-24 and takes North Texas −2.5 with the Over 44.5. In The Trenches has no pick in this game. Follow The Money takes UAB Blazers +2.5 and the Under 44.5.\n\nLetdown Watch: \"Next Man Up, thirty-nine points with a wide receiver at quarterback? What's he going to do, throw it to himself?\"\n\nNext Man Up: \"He doesn't have to throw it. Thirty-nine is what happens when White carries it forty times. You'd know that if you watched the second half last week.\"\n\nMy final is North Texas Mean Green 36, UAB Blazers 23. North Texas wins by thirteen, well past the two and a half, and 59 combined clears the total. The Mean Green run it, run it again and wear down a UAB defense that's built to stop the throw.\n\nNorth Texas Mean Green 36, UAB Blazers 23. North Texas Mean Green cover the 2.5. Over 44.5."
   },
   {
    "game_id": "401856763",
@@ -11171,9 +11171,9 @@
      {
       "name": "Follow The Money",
       "side_line": "Side: Rutgers Scarlet Knights +2.5 · Likes this side",
-      "ou_line": "O/U: Under 46.5 · Likes this total",
+      "ou_line": "O/U: Under 45.5 · Likes this total",
       "score_line": "No score of its own.",
-      "basis_line": "Consensus spread opened Rutgers Scarlet Knights +3.5 (Nov 25, 1:31 AM ET) and is +2.5 now, a 1-point move. The side pick quotes the consensus spread now (Rutgers Scarlet Knights +2.5). Consensus total opened 47.5 (Nov 23, 11:29 PM ET) and is 46.5 now, a 1-point move: Under. The total pick quotes the consensus total now (46.5), not the game total listed on this page (45.5). Lines are the Action Network consensus as of Nov 28, 6:31 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
+      "basis_line": "Consensus spread opened Rutgers Scarlet Knights +3.5 (Nov 25, 1:31 AM ET) and is +2.5 now, a 1-point move. The side pick quotes the consensus spread now (Rutgers Scarlet Knights +2.5). Consensus total opened 47.5 (Nov 23, 11:29 PM ET) and is 45.5 now, a 2-point move: Under. The total pick quotes the consensus total now (45.5). Lines are the Action Network consensus as of Nov 28, 11:12 AM ET; the open is the first consensus line posted after the Monday night game ended (Nov 23, 11:18 PM ET). The bets-versus-money split is not published free, so it is not included.",
       "independent": false,
       "distance_from_spread": null,
       "distance_from_total": null
@@ -11190,13 +11190,13 @@
       "landed_on_number": []
      }
     ],
-    "story_text": "A week ago Rutgers won at Beaver Stadium on a lateral as time ran out and a two-point throw. Now the Scarlet Knights come home to SHI Stadium to send off their seniors against a Michigan State team that has lost two straight. My Michigan State vs Rutgers prediction is Rutgers Scarlet Knights +2.5 with the Over 45.5.\n\nVinny Scolari has watched the ending more times than he'll admit. \"Surace to Raymond, Raymond to Black, and then the two. I'm getting it framed. I'm getting the two-point try framed separately.\"\n\nShay Kowalczyk isn't interested in the replay. \"We beat Michigan in the Big House this month. Nobody in New Jersey wants to talk about that.\"\n\nThese two teams are both 3-8, and the numbers say it should be close. Michigan State scores 17.7 points a game and allows 25.3. Rutgers scores 23.4 and allows 31.5. Michigan State's quarterback situation has been a mess. Alessio Milivojevic took most of the throws this year, but Kayd Coffman started the 45-7 loss to Oregon. I'm pricing Coffman for the Spartans and AJ Surace for Rutgers. Surace went 24 of 39 at Penn State.\n\nRutgers has a runner. Antwan Raymond has 911 yards and 8 touchdowns, and he ran for 101 and two scores at Penn State. KJ Duff has 774 receiving yards and 9 touchdowns, though the Big Ten availability report lists him out. That's the Over case. Michigan State gave up 45 to Oregon and 21 to Washington in its last two games.\n\nThe Spartans' defense isn't the problem. Dion Crawford has 65 tackles and Anelu Lafaele has 4.5 sacks. The offense is. Michigan State has scored 7, 14 and 15 points in its last three games.\n\nThe spread opened at Michigan State −3.5 at DraftKings and has come down a point to −2.5. The total opened at 48.5 and dropped to 45.5. I'm on the other side of that move.\n\nRutgers Scarlet Knights 26, Michigan State Spartans 25 is an outright home win, so Rutgers Scarlet Knights +2.5 covers easily, and 51 total points clears 45.5.\n\nThe room is split on the side and together on the total. The Formula has Michigan State 26-23 and takes Michigan State −2.5 with the Over 45.5. Next Man Up has 27-26 and takes Rutgers +2.5 with the Over 45.5. Letdown Watch has 25-24 and takes Rutgers +2.5 with the Over 45.5. In The Trenches has Rutgers 26-24 and takes Rutgers +2.5, with no over/under call. Follow The Money takes Rutgers Scarlet Knights +2.5 and the Under 46.5.\n\nLetdown Watch: \"Rutgers spent all week watching that lateral. The comedown is real.\"\n\nIn The Trenches: \"Rutgers spent all week running the ball down Penn State's throat. That doesn't come down.\"\n\nRutgers wins on a late Raymond touchdown, Vinny gets another frame for the wall, and Shay heads back to East Lansing saying the Michigan game still counts double.\n\nRutgers Scarlet Knights 26, Michigan State Spartans 25. Rutgers Scarlet Knights cover the 2.5. Over 45.5.",
+    "story_text": "A week ago Rutgers won at Beaver Stadium on a lateral as time ran out and a two-point throw. Now the Scarlet Knights come home to SHI Stadium to send off their seniors against a Michigan State team that has lost two straight. My Michigan State vs Rutgers prediction is Rutgers Scarlet Knights +2.5 with the Over 45.5.\n\nVinny Scolari has watched the ending more times than he'll admit. \"Surace to Raymond, Raymond to Black, and then the two. I'm getting it framed. I'm getting the two-point try framed separately.\"\n\nShay Kowalczyk isn't interested in the replay. \"We beat Michigan in the Big House this month. Nobody in New Jersey wants to talk about that.\"\n\nThese two teams are both 3-8, and the numbers say it should be close. Michigan State scores 17.7 points a game and allows 25.3. Rutgers scores 23.4 and allows 31.5. Michigan State's quarterback situation has been a mess. Alessio Milivojevic took most of the throws this year, but Kayd Coffman started the 45-7 loss to Oregon. I'm pricing Coffman for the Spartans. For Rutgers, AJ Surace went 24 of 39 at Penn State but is listed questionable, and Dylan Lonergan is probable, so either one could take the snaps.\n\nRutgers has a runner. Antwan Raymond has 911 yards and 8 touchdowns, and he ran for 101 and two scores at Penn State. KJ Duff has 774 receiving yards and 9 touchdowns, though the Big Ten availability report lists him out. That's the Over case. Michigan State gave up 45 to Oregon and 21 to Washington in its last two games.\n\nThe Spartans' defense isn't the problem. Dion Crawford has 65 tackles and Anelu Lafaele has 4.5 sacks. The offense is. Michigan State has scored 7, 14 and 15 points in its last three games.\n\nThe spread opened at Michigan State −3.5 at DraftKings and has come down a point to −2.5. The total opened at 48.5 and dropped to 45.5. I'm on the other side of that move.\n\nRutgers Scarlet Knights 26, Michigan State Spartans 25 is an outright home win, so Rutgers Scarlet Knights +2.5 covers easily, and 51 total points clears 45.5.\n\nThe room is split on the side and together on the total. The Formula has Michigan State 26-23 and takes Michigan State −2.5 with the Over 45.5. Next Man Up has 27-26 and takes Rutgers +2.5 with the Over 45.5. Letdown Watch has 25-24 and takes Rutgers +2.5 with the Over 45.5. In The Trenches has Rutgers 26-24 and takes Rutgers +2.5, with no over/under call. Follow The Money takes Rutgers Scarlet Knights +2.5 and the Under 45.5.\n\nLetdown Watch: \"Rutgers spent all week watching that lateral. The comedown is real.\"\n\nIn The Trenches: \"Rutgers spent all week running the ball down Penn State's throat. That doesn't come down.\"\n\nRutgers wins on a late Raymond touchdown, Vinny gets another frame for the wall, and Shay heads back to East Lansing saying the Michigan game still counts double.\n\nRutgers Scarlet Knights 26, Michigan State Spartans 25. Rutgers Scarlet Knights cover the 2.5. Over 45.5.",
     "fanatic_score_line": "Projected: Rutgers Scarlet Knights 26, Michigan State Spartans 25",
     "line_used": {
      "home_line": "Rutgers Scarlet Knights +2.5",
      "total": "45.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 6:31 AM ET",
-     "fetched_at_utc": "2026-11-28T11:31Z"
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "injuries": {
      "away": [
@@ -11259,8 +11259,22 @@
      ],
      "home": [
       {
+       "player": "Sean Ashenfelder",
+       "position": "QB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
        "player": "KJ Duff",
        "position": "WR",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
+      },
+      {
+       "player": "Kwabena Asamoah",
+       "position": "OL",
        "injury": "",
        "practice_status": "",
        "game_status": "Out"
@@ -11292,10 +11306,17 @@
        "injury": "",
        "practice_status": "",
        "game_status": "Out"
+      },
+      {
+       "player": "Zahmir Dawud",
+       "position": "DB",
+       "injury": "",
+       "practice_status": "",
+       "game_status": "Out"
       }
      ],
-     "source": "Official availability report (Update posted Fri Nov 27, 5:00 PM PT), via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-michigan-state-at-rutgers/), checked Nov 28, 2026, 6:31 AM ET. Key players only (Out, Doubtful, Questionable).",
-     "fetched_at_utc": "2026-11-28T11:31Z"
+     "source": "Official availability report (Update posted Fri Nov 27, 5:00 PM PT), via kickoffstatus.com (https://kickoffstatus.com/games/2026-11-28-michigan-state-at-rutgers/), checked Nov 28, 2026, 11:12 AM ET. Key players only (Out, Doubtful, Questionable).",
+     "fetched_at_utc": "2026-11-28T16:12Z"
     },
     "sourced_reasons": [
      "Lines and kickoff: ESPN scoreboard (espn.com)",
@@ -11306,18 +11327,18 @@
      "Trench stats: ESPN team stats for Rutgers (espn.com)",
      "Schedule history: collegefootballdata.com 2018–2025"
     ],
-    "fanatic_story": "Shay Kowalczyk keeps a whiteboard on her refrigerator in East Lansing, and this season it has a list of Michigan State quarterbacks on it. Milivojevic. Hannan. Fancher. Coffman. She's left room at the bottom for one more. Michigan State Spartans vs Rutgers Scarlet Knights is the season finale for both teams at SHI Stadium, and Shay says she'll fill in the last name when she sees who runs out for warmups.\n\nVinny Scolari has his own wall decoration now. It's a still photo of Antwan Raymond lateraling the ball to Ben Black III as the clock hit zero at Beaver Stadium last Saturday. Vinny printed it at the drugstore, put it in a frame from the dollar store and hung it over his television.\n\n\"I'm getting a second one,\" Vinny says. \"For the two-point try. Surace to Thevenin. Separate frame.\"\n\nIt was a game Rutgers fans will be talking about for years. The Scarlet Knights were down 16-0 early and 24-10 in the fourth quarter at Penn State. They put together a 19-play, 75-yard touchdown drive that ate almost ten minutes. Then, with six seconds left and the ball two yards away, AJ Surace threw to Raymond, Raymond pitched it to Black, and Black walked in. Greg Schiano went for two. Surace found Clay Thevenin on a swing throw, and Rutgers won 25-24. It was the school's first win over Penn State since 1988, in front of 106,200 people.\n\n\"Thirty-eight years,\" Vinny says. \"I was waiting thirty-eight years for that. I was ready to wait forty.\"\n\nShay isn't impressed. She has her own win over a blue-blood to talk about. Michigan State went into Michigan Stadium on Nov. 7 and won 15-6.\n\n\"Fifteen to six in the Big House,\" Shay says. \"Nobody in New Jersey brings that up. That's fine. I bring it up enough for everybody.\"\n\nBoth teams are 3-8, and both have had a rough fall. The Spartans opened 2-0 and then lost six of their next seven, including a 38-37 overtime loss to Illinois and a 24-21 loss to Northwestern. Since beating Michigan, they've lost to Washington and Oregon, scoring 14 and 7. Alessio Milivojevic has thrown for 1,559 yards this year, but Kayd Coffman started against Oregon. Jaziun Patterson leads the team with 6 rushing touchdowns, and Chrishon McCray has 42 catches. On defense, Dion Crawford has 65 tackles and Anelu Lafaele has 4.5 sacks.\n\nRutgers has been up and down too. The season opened with a loss to UMass. There was a 58-7 win over Howard, a 37-30 win at Maryland and a 31-0 loss to Nebraska. Then Penn State happened. Raymond has 911 yards and 8 touchdowns on the ground, and he ran for 101 and two scores in State College. KJ Duff has 774 receiving yards and 9 touchdowns, though he is listed out for Saturday. Sean Allison made 12 tackles against Penn State, and Sekou Kromah had two sacks.\n\nThe Scarlet Knights will honor their seniors on the Scarlet Walk before the game. Vinny says he's going early so he can clap for every one of them by name.\n\n\"These guys beat Penn State,\" Vinny says. \"They get the Scarlet Walk and they get a parade if I'm in charge.\"\n\n\"You're not in charge,\" Shay says.\n\n\"Not yet.\"\n\nHere's how I see it. Rutgers comes out flying in front of the home crowd and Raymond scores early. Michigan State answers with a short Patterson touchdown run, and the game goes back and forth all afternoon. McCray makes a big catch to give the Spartans a lead in the fourth quarter. Then Surace leads one more late drive, and Raymond punches it in from close range.\n\nVinny says the wall over his television is getting crowded and he'll have to move a lamp. Shay writes the last quarterback's name on her whiteboard on the drive home, and then she erases the whole thing and says next year starts clean.\n\nMy call: Rutgers Scarlet Knights 26, Michigan State Spartans 25.",
+    "fanatic_story": "Shay Kowalczyk keeps a whiteboard on her refrigerator in East Lansing, and this season it has a list of Michigan State quarterbacks on it. Milivojevic. Hannan. Fancher. Coffman. She's left room at the bottom for one more. Michigan State Spartans vs Rutgers Scarlet Knights is the season finale for both teams at SHI Stadium, and Shay says she'll fill in the last name when she sees who runs out for warmups.\n\nVinny Scolari has his own wall decoration now. It's a still photo of Antwan Raymond lateraling the ball to Ben Black III as the clock hit zero at Beaver Stadium last Saturday. Vinny printed it at the drugstore, put it in a frame from the dollar store and hung it over his television.\n\n\"I'm getting a second one,\" Vinny says. \"For the two-point try. Surace to Thevenin. Separate frame.\"\n\nIt was a game Rutgers fans will be talking about for years. The Scarlet Knights were down 16-0 early and 24-10 in the fourth quarter at Penn State. They put together a 19-play, 75-yard touchdown drive that ate almost ten minutes. Then, with six seconds left and the ball two yards away, AJ Surace threw to Raymond, Raymond pitched it to Black, and Black walked in. Greg Schiano went for two. Surace found Clay Thevenin on a swing throw, and Rutgers won 25-24. It was the school's first win over Penn State since 1988, in front of 106,200 people.\n\n\"Thirty-eight years,\" Vinny says. \"I was waiting thirty-eight years for that. I was ready to wait forty.\"\n\nShay isn't impressed. She has her own win over a blue-blood to talk about. Michigan State went into Michigan Stadium on Nov. 7 and won 15-6.\n\n\"Fifteen to six in the Big House,\" Shay says. \"Nobody in New Jersey brings that up. That's fine. I bring it up enough for everybody.\"\n\nBoth teams are 3-8, and both have had a rough fall. The Spartans opened 2-0 and then lost six of their next seven, including a 38-37 overtime loss to Illinois and a 24-21 loss to Northwestern. Since beating Michigan, they've lost to Washington and Oregon, scoring 14 and 7. Alessio Milivojevic has thrown for 1,559 yards this year, but Kayd Coffman started against Oregon. Jaziun Patterson leads the team with 6 rushing touchdowns, and Chrishon McCray has 42 catches. On defense, Dion Crawford has 65 tackles and Anelu Lafaele has 4.5 sacks.\n\nRutgers has been up and down too. The season opened with a loss to UMass. There was a 58-7 win over Howard, a 37-30 win at Maryland and a 31-0 loss to Nebraska. Then Penn State happened. Raymond has 911 yards and 8 touchdowns on the ground, and he ran for 101 and two scores in State College. KJ Duff has 774 receiving yards and 9 touchdowns, though he is listed out for Saturday. Sean Allison made 12 tackles against Penn State, and Sekou Kromah had two sacks.\n\nThe Scarlet Knights will honor their seniors on the Scarlet Walk before the game. Vinny says he's going early so he can clap for every one of them by name.\n\n\"These guys beat Penn State,\" Vinny says. \"They get the Scarlet Walk and they get a parade if I'm in charge.\"\n\n\"You're not in charge,\" Shay says.\n\n\"Not yet.\"\n\nHere's how I see it. Rutgers comes out flying in front of the home crowd and Raymond scores early. Michigan State answers with a short Patterson touchdown run, and the game goes back and forth all afternoon. McCray makes a big catch to give the Spartans a lead in the fourth quarter. Then whoever is under center, Surace or Dylan Lonergan, leads one more late drive, and Raymond punches it in from close range.\n\nVinny says the wall over his television is getting crowded and he'll have to move a lamp. Shay writes the last quarterback's name on her whiteboard on the drive home, and then she erases the whole thing and says next year starts clean.\n\nMy call: Rutgers Scarlet Knights 26, Michigan State Spartans 25.",
     "market": {
      "score_line": "",
      "spread": "Michigan State Spartans −2.5",
      "total": "45.5",
-     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 6:31 AM ET",
+     "source": "ESPN summary pickcenter (DraftKings), Nov. 28, 2026, 11:12 AM ET",
      "note": "The market’s own numbers, shown for comparison only."
     },
     "fanatic_headline": "Michigan State vs Rutgers: After the Lateral, Senior Day in Piscataway",
     "gambler_headline": "Michigan State vs Rutgers Pick: Scarlet Knights +2.5, Over 45.5"
    },
-   "gambler_story": "A week ago Rutgers won at Beaver Stadium on a lateral as time ran out and a two-point throw. Now the Scarlet Knights come home to SHI Stadium to send off their seniors against a Michigan State team that has lost two straight. My Michigan State vs Rutgers prediction is Rutgers Scarlet Knights +2.5 with the Over 45.5.\n\nVinny Scolari has watched the ending more times than he'll admit. \"Surace to Raymond, Raymond to Black, and then the two. I'm getting it framed. I'm getting the two-point try framed separately.\"\n\nShay Kowalczyk isn't interested in the replay. \"We beat Michigan in the Big House this month. Nobody in New Jersey wants to talk about that.\"\n\nThese two teams are both 3-8, and the numbers say it should be close. Michigan State scores 17.7 points a game and allows 25.3. Rutgers scores 23.4 and allows 31.5. Michigan State's quarterback situation has been a mess. Alessio Milivojevic took most of the throws this year, but Kayd Coffman started the 45-7 loss to Oregon. I'm pricing Coffman for the Spartans and AJ Surace for Rutgers. Surace went 24 of 39 at Penn State.\n\nRutgers has a runner. Antwan Raymond has 911 yards and 8 touchdowns, and he ran for 101 and two scores at Penn State. KJ Duff has 774 receiving yards and 9 touchdowns, though the Big Ten availability report lists him out. That's the Over case. Michigan State gave up 45 to Oregon and 21 to Washington in its last two games.\n\nThe Spartans' defense isn't the problem. Dion Crawford has 65 tackles and Anelu Lafaele has 4.5 sacks. The offense is. Michigan State has scored 7, 14 and 15 points in its last three games.\n\nThe spread opened at Michigan State −3.5 at DraftKings and has come down a point to −2.5. The total opened at 48.5 and dropped to 45.5. I'm on the other side of that move.\n\nRutgers Scarlet Knights 26, Michigan State Spartans 25 is an outright home win, so Rutgers Scarlet Knights +2.5 covers easily, and 51 total points clears 45.5.\n\nThe room is split on the side and together on the total. The Formula has Michigan State 26-23 and takes Michigan State −2.5 with the Over 45.5. Next Man Up has 27-26 and takes Rutgers +2.5 with the Over 45.5. Letdown Watch has 25-24 and takes Rutgers +2.5 with the Over 45.5. In The Trenches has Rutgers 26-24 and takes Rutgers +2.5, with no over/under call. Follow The Money takes Rutgers Scarlet Knights +2.5 and the Under 46.5.\n\nLetdown Watch: \"Rutgers spent all week watching that lateral. The comedown is real.\"\n\nIn The Trenches: \"Rutgers spent all week running the ball down Penn State's throat. That doesn't come down.\"\n\nRutgers wins on a late Raymond touchdown, Vinny gets another frame for the wall, and Shay heads back to East Lansing saying the Michigan game still counts double.\n\nRutgers Scarlet Knights 26, Michigan State Spartans 25. Rutgers Scarlet Knights cover the 2.5. Over 45.5."
+   "gambler_story": "A week ago Rutgers won at Beaver Stadium on a lateral as time ran out and a two-point throw. Now the Scarlet Knights come home to SHI Stadium to send off their seniors against a Michigan State team that has lost two straight. My Michigan State vs Rutgers prediction is Rutgers Scarlet Knights +2.5 with the Over 45.5.\n\nVinny Scolari has watched the ending more times than he'll admit. \"Surace to Raymond, Raymond to Black, and then the two. I'm getting it framed. I'm getting the two-point try framed separately.\"\n\nShay Kowalczyk isn't interested in the replay. \"We beat Michigan in the Big House this month. Nobody in New Jersey wants to talk about that.\"\n\nThese two teams are both 3-8, and the numbers say it should be close. Michigan State scores 17.7 points a game and allows 25.3. Rutgers scores 23.4 and allows 31.5. Michigan State's quarterback situation has been a mess. Alessio Milivojevic took most of the throws this year, but Kayd Coffman started the 45-7 loss to Oregon. I'm pricing Coffman for the Spartans. For Rutgers, AJ Surace went 24 of 39 at Penn State but is listed questionable, and Dylan Lonergan is probable, so either one could take the snaps.\n\nRutgers has a runner. Antwan Raymond has 911 yards and 8 touchdowns, and he ran for 101 and two scores at Penn State. KJ Duff has 774 receiving yards and 9 touchdowns, though the Big Ten availability report lists him out. That's the Over case. Michigan State gave up 45 to Oregon and 21 to Washington in its last two games.\n\nThe Spartans' defense isn't the problem. Dion Crawford has 65 tackles and Anelu Lafaele has 4.5 sacks. The offense is. Michigan State has scored 7, 14 and 15 points in its last three games.\n\nThe spread opened at Michigan State −3.5 at DraftKings and has come down a point to −2.5. The total opened at 48.5 and dropped to 45.5. I'm on the other side of that move.\n\nRutgers Scarlet Knights 26, Michigan State Spartans 25 is an outright home win, so Rutgers Scarlet Knights +2.5 covers easily, and 51 total points clears 45.5.\n\nThe room is split on the side and together on the total. The Formula has Michigan State 26-23 and takes Michigan State −2.5 with the Over 45.5. Next Man Up has 27-26 and takes Rutgers +2.5 with the Over 45.5. Letdown Watch has 25-24 and takes Rutgers +2.5 with the Over 45.5. In The Trenches has Rutgers 26-24 and takes Rutgers +2.5, with no over/under call. Follow The Money takes Rutgers Scarlet Knights +2.5 and the Under 45.5.\n\nLetdown Watch: \"Rutgers spent all week watching that lateral. The comedown is real.\"\n\nIn The Trenches: \"Rutgers spent all week running the ball down Penn State's throat. That doesn't come down.\"\n\nRutgers wins on a late Raymond touchdown, Vinny gets another frame for the wall, and Shay heads back to East Lansing saying the Michigan game still counts double.\n\nRutgers Scarlet Knights 26, Michigan State Spartans 25. Rutgers Scarlet Knights cover the 2.5. Over 45.5."
   },
   {
    "game_id": "401860926",
