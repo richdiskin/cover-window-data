@@ -5978,5 +5978,109 @@
    "argument_quote": null
   },
   "status": "final"
+ },
+ {
+  "game_id": "401856764",
+  "league": "college",
+  "handicapper": "Next Man Up",
+  "market": "total",
+  "original": {
+   "pick": "Over 40.5",
+   "line": 40.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Under 42.5",
+   "line": 42.5
+  },
+  "changed_at": "2026-11-28T11:31:00Z",
+  "kickoff": "2026-11-28T20:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "The DraftKings total for South Carolina at Clemson moved from 40.5 to 42.5 by the 6:31 AM ET check Saturday Nov 28; Next Man Up's projection of South Carolina Gamecocks 22, Clemson Tigers 20 (Total 42) is now on the other side of the number, so the game-day rerun turns the card from Over 40.5 into Under 42.5.",
+   "source": "ESPN game summary pickcenter (DraftKings), South Carolina at Clemson: https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856764 (checked Nov 28, 2026, 6:31 AM ET)",
+   "source_url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/summary?event=401856764",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856764",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "side",
+  "original": {
+   "pick": "No pick",
+   "line": 5.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "South Carolina Gamecocks −6.5",
+   "line": -6.5
+  },
+  "changed_at": "2026-11-28T11:31:00Z",
+  "kickoff": "2026-11-28T20:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus spread for South Carolina at Clemson opened Clemson Tigers +5.5 at 2:21 AM ET Tuesday Nov 24, after the Monday night game ended, and was +6.5 at the 6:31 AM ET check Saturday Nov 28, a 1-point move, so Follow The Money turns the card from pending into South Carolina Gamecocks −6.5.",
+   "source": "Action Network consensus line history, South Carolina at Clemson (book 15): https://api.actionnetwork.com/web/v2/markets/event/290256/history?bookIds=15 (checked Nov 28, 2026, 6:31 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290256/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401856764",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 40.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Over 42.5",
+   "line": 42.5
+  },
+  "changed_at": "2026-11-28T11:31:00Z",
+  "kickoff": "2026-11-28T20:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for South Carolina at Clemson opened 41.5 at 2:26 AM ET Tuesday Nov 24 and was 42.5 at the 6:31 AM ET check Saturday Nov 28, a 1-point rise, so Follow The Money turns the card from pending into Over 42.5.",
+   "source": "Action Network consensus line history, South Carolina at Clemson (book 15): https://api.actionnetwork.com/web/v2/markets/event/290256/history?bookIds=15 (checked Nov 28, 2026, 6:31 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290256/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
+ },
+ {
+  "game_id": "401858317",
+  "league": "college",
+  "handicapper": "Follow The Money",
+  "market": "total",
+  "original": {
+   "pick": "No pick",
+   "line": 51.5,
+   "made_at": "2026-11-23T18:00:17Z"
+  },
+  "final": {
+   "pick": "Under 50.5",
+   "line": 50.5
+  },
+  "changed_at": "2026-11-28T11:31:00Z",
+  "kickoff": "2026-11-28T20:00Z",
+  "reason": {
+   "type": "line_move",
+   "detail": "Action Network consensus total for Virginia at Virginia Tech opened 51.5 at 9:45 AM ET Tuesday Nov 24 and was 50.5 at the 6:31 AM ET check Saturday Nov 28, a 1-point drop, so Follow The Money turns the card from pending into Under 50.5.",
+   "source": "Action Network consensus line history, Virginia at Virginia Tech (book 15): https://api.actionnetwork.com/web/v2/markets/event/290238/history?bookIds=15 (checked Nov 28, 2026, 6:31 AM ET)",
+   "source_url": "https://api.actionnetwork.com/web/v2/markets/event/290238/history?bookIds=15",
+   "persuaded_by": null,
+   "argument_quote": null
+  },
+  "status": "final"
  }
 ]
